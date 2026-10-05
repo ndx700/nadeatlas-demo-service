@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
-import re, json, urllib.request, urllib.error
+import re, urllib.request
 from urllib.parse import urljoin
-
 UA="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140 Safari/537.36"
 
-def fetch(url, limit=2_000_000):
+def fetch(url, limit=2000000):
     req=urllib.request.Request(url,headers={"User-Agent":UA,"Accept":"*/*"})
     with urllib.request.urlopen(req,timeout=30) as r:
         b=r.read(limit)
@@ -16,27 +15,28 @@ def probe(name,url):
         st,final,ct,b=fetch(url)
         print("STATUS",st,"FINAL",final,"TYPE",ct,"BYTES",len(b))
         txt=b.decode("utf-8","ignore")
-        print("DEMO_URLS",sorted(set(re.findall(r'https?://[^"\\'<> ]+(?:\\.dem(?:\\.(?:gz|zst|bz2))?|\\.rar|\\.zip)',txt,re.I)))[:20])
-        print("R2_HLTV",sorted(set(re.findall(r'https?://r2-demos\\.hltv\\.org/[^"\\'<> ]+',txt,re.I)))[:20])
-        apis=sorted(set(re.findall(r'(?:"|\\')((?:https?://[^"\\']+)?/api/[^"\\']+)(?:"|\\')',txt,re.I)))
-        print("API_HINTS",apis[:40])
-        scripts=re.findall(r'<script[^>]+src=["\\']([^"\\']+)["\\']',txt,re.I)
+        urls=re.findall(r"https?://[^\\s\\\"'<>]+",txt,re.I)
+        print("DEMO_URLS",[u for u in sorted(set(urls)) if any(x in u.lower() for x in [".dem",".rar",".zip","r2-demos.hltv.org"])][:30])
+        print("API_HINTS",sorted(set(re.findall(r"/api/[A-Za-z0-9_?&=./:{}-]+",txt)))[:50])
+        scripts=re.findall(r"<script[^>]+src=[\\\"']([^\\\"']+)[\\\"']",txt,re.I)
         print("SCRIPTS",scripts[-15:])
-        return scripts,txt
+        return scripts
     except Exception as e:
         print("ERROR",type(e).__name__,str(e))
-        return [], ""
+        return []
 
-scripts,html=probe("CS2REPLAYS_DUST2","https://cs2replays.com/library/?map=de_dust2")
-for s in scripts[-8:]:
+scripts=probe("CS2REPLAYS_DUST2","https://cs2replays.com/library/?map=de_dust2")
+for s in scripts[-10:]:
     u=urljoin("https://cs2replays.com/library/",s)
     try:
         st,final,ct,b=fetch(u)
         txt=b.decode("utf-8","ignore")
-        if any(k in txt.lower() for k in ["pro-match","pro_match","library","demo_url","demourl"]):
+        low=txt.lower()
+        if any(k in low for k in ["pro-match","pro_match","library","demo_url","demourl"]):
             print("\nSCRIPT_MATCH",u,"bytes",len(b))
-            for pat in [r'["\\']([^"\\']*/api/[^"\\']+)["\\']',r'["\\']([^"\\']*library[^"\\']*)["\\']',r'https?://r2-demos\\.hltv\\.org/[^"\\'<> ]+']:
-                print("HITS",sorted(set(re.findall(pat,txt,re.I)))[:50])
+            print("API_HINTS",sorted(set(re.findall(r"/api/[A-Za-z0-9_?&=./:{}-]+",txt)))[:100])
+            urls=re.findall(r"https?://[^\\s\\\"'<>]+",txt,re.I)
+            print("DEMO_URLS",[x for x in sorted(set(urls)) if any(k in x.lower() for k in [".dem","r2-demos.hltv.org"])][:30])
     except Exception as e: print("SCRIPT_ERROR",u,e)
 
 probe("NADES","https://nades.ai/matches")
