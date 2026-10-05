@@ -1,0 +1,16 @@
+name: Test direct HLTV demo access
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - scripts/test_hltv.py
+      - .github/workflows/test-hltv.yml
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Test public HLTV demo endpoint
+        run: python3 scripts/test_hltv.py
