@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# sync trigger: API secret configured
+# sync trigger: corrected API secret configured
 from __future__ import annotations
 import datetime as dt, json, os, re, shutil, subprocess, tempfile, time
 import urllib.parse, urllib.request, zipfile
