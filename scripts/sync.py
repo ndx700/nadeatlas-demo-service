@@ -2,7 +2,7 @@
 # sync trigger: corrected API secret configured
 from __future__ import annotations
 import datetime as dt, json, os, re, shutil, subprocess, tempfile, time
-import urllib.parse, urllib.request, zipfile
+import urllib.error, urllib.parse, urllib.request, zipfile
 from pathlib import Path
 
 ROOT=Path(__file__).resolve().parents[1]
@@ -110,7 +110,17 @@ def main():
         return 2
     known={(x.get("date"),x.get("team1"),x.get("team2"),x.get("map")) for x in existing}
     now=dt.datetime.now(dt.timezone.utc).date()
-    found=results((now-dt.timedelta(days=62)).isoformat(),now.isoformat())
+    try:
+        found=results((now-dt.timedelta(days=62)).isoformat(),now.isoformat())
+    except urllib.error.HTTPError as e:
+        if e.code == 402:
+            status("payment_required","Better-CS-API returned HTTP 402; API credits or trial balance are required",published=len(existing))
+            return 0
+        status("api_error",f"Better-CS-API HTTP {e.code}",published=len(existing))
+        return 0
+    except Exception as e:
+        status("api_error",f"Better-CS-API request failed: {type(e).__name__}",published=len(existing))
+        return 0
     candidates=[x for x in found if isinstance(x,dict) and
                 (name(x.get("team1")) in TEAMS or name(x.get("team2")) in TEAMS)]
     added=0; errors=[]
