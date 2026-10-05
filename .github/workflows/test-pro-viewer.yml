@@ -1,0 +1,13 @@
+name: Probe public pro demo viewer
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/probes/test_pro_viewer.py
+      - .github/workflows/test-pro-viewer.yml
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 .github/probes/test_pro_viewer.py
