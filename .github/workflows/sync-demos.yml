@@ -2,6 +2,11 @@ name: Sync verified Dust2 demos
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - "scripts/**"
+      - "config/**"
+      - ".github/workflows/sync-demos.yml"
   schedule:
     - cron: "*/5 * * * *"
 
