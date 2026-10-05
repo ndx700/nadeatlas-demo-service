@@ -1,33 +1,34 @@
 #!/usr/bin/env python3
-import re, json, html, urllib.request, urllib.error
-UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
-urls=[
- "https://docs.qq.com/sheet/DZmdydmpxYURyREtZ?no_promotion=1&is_blank_or_template=blank&tab=BB08J2",
- "https://docs.qq.com/sheet/DZmdydmpxYURyREtZ?tab=BB08J2",
-]
-for u in urls:
- print("\nQQDOC",u)
+import re, urllib.parse, urllib.request, urllib.error
+UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140 Safari/537.36"
+sheet="https://docs.qq.com/sheet/DZmdydmpxYURyREtZ?tab=BB08J2"
+req=urllib.request.Request(sheet,headers={"User-Agent":UA})
+with urllib.request.urlopen(req,timeout=30) as r:
+ s=r.read(8_000_000).decode("utf-8","ignore")
+# decode URL-encoded embedded sheet payload repeatedly
+d=s
+for _ in range(3):
+ nd=urllib.parse.unquote(d)
+ if nd==d: break
+ d=nd
+ids=[]
+for x in re.findall(r'g201-\d{14,}-?\d*',d):
+ if x not in ids: ids.append(x)
+print("GAMEIDS",len(ids))
+for x in ids[:80]: print("ID",x)
+for gid in ids[:12]:
+ u="https://hk-demo.5eplaycdn.com/game_tv/"+gid
+ print("\nPROBE",gid,u)
  try:
-  req=urllib.request.Request(u,headers={"User-Agent":UA,"Accept":"text/html,application/xhtml+xml"})
-  with urllib.request.urlopen(req,timeout=30) as r:
-   b=r.read(8_000_000); s=b.decode("utf-8","ignore")
-   print("STATUS",r.status,"FINAL",r.geturl(),"TYPE",r.headers.get("content-type"),"BYTES",len(b))
-   print("TITLE",re.findall(r"<title[^>]*>(.*?)</title>",s,re.I|re.S)[:3])
-   pats=[
-    r'https?[^"\\\s<>]{0,100}game_tv[^"\\\s<>]{0,200}',
-    r'game_tv.{0,300}',
-    r'GAMEID.{0,300}',
-    r'playcast.{0,300}',
-    r'Rare Atom.{0,500}',
-    r'Kaleido.{0,500}',
-    r'Just Swing.{0,500}',
-   ]
-   for p in pats:
-    ms=re.findall(p,s,re.I|re.S)
-    print("PATTERN",p,"COUNT",len(ms))
-    for m in ms[:20]: print("HIT",html.unescape(re.sub(r"\\u([0-9a-fA-F]{4})",lambda x:chr(int(x.group(1),16)),m))[:1200])
-   # interesting script/config endpoints and numeric IDs
-   for key in ["padId","docId","sheetId","tabId","rev","localPadId","globalPadId"]:
-    ms=re.findall(r'["\\\']?'+key+r'["\\\']?\s*[:=]\s*["\\\']?([^,"\\\'\s}<]+)',s,re.I)
-    if ms: print("META",key,ms[:20])
+  h={"User-Agent":UA,"Range":"bytes=0-4095","Accept":"*/*"}
+  with urllib.request.urlopen(urllib.request.Request(u,headers=h),timeout=30) as r:
+   b=r.read(4096)
+   print("STATUS",r.status,"FINAL",r.geturl())
+   for k in ["content-type","content-length","content-range","accept-ranges","content-disposition","etag","last-modified","transfer-encoding"]:
+    print("HDR",k,r.headers.get(k))
+   print("HEAD_HEX",b[:96].hex())
+   print("HEAD_ASCII",repr(b[:96]))
+ except urllib.error.HTTPError as e:
+  b=e.read(1000)
+  print("HTTP_ERROR",e.code,"TYPE",e.headers.get("content-type"),"LEN",e.headers.get("content-length"),"BODY",repr(b[:300]))
  except Exception as e: print("ERROR",repr(e))
