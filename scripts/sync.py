@@ -140,7 +140,7 @@ def sync_rlin(existing,known,now):
     try:
         _,_,raw=http_bytes(RLIN+"/pro-games?event=8249",{"Accept":"text/html"},45,5_000_000)
         page=raw.decode("utf-8","ignore")
-        event_ids=list(dict.fromkeys(re.findall(r'eventId\\\\\\":\\\\\\"(\\d+)',page)))
+        event_ids=list(dict.fromkeys(re.findall(r'eventId\\\":\\\"(\d+)',page)))
         # The server-rendered event list is newest-first. Limit requests and still cover
         # the rolling recent window; individual matches are date-filtered again below.
         event_ids=event_ids[:8]
@@ -156,7 +156,7 @@ def sync_rlin(existing,known,now):
             _,_,raw=http_bytes(RLIN+f"/pro-games?event={urllib.parse.quote(eid)}",
                                {"Accept":"text/html"},45,8_000_000)
             text=raw.decode("utf-8","ignore")
-            ids=re.findall(r'matchId\\\\\\":\\\\\\"(hltv-[^\\\\\\"]+)\\\\\\",\\\\\\"mapName\\\\\\":\\\\\\"de_dust2',text)
+            ids=re.findall(r'matchId\\\":\\\"(hltv-[^\\\"]+)\\\",\\\"mapName\\\":\\\"de_dust2',text)
             for mid in ids:
                 if mid not in match_ids: match_ids.append(mid)
         except Exception as e:
