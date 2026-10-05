@@ -1,0 +1,13 @@
+name: Read full 5E GAMEID sheet
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/probes/test_qq_opendoc.py
+      - .github/workflows/test-qq-opendoc.yml
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 .github/probes/test_qq_opendoc.py
