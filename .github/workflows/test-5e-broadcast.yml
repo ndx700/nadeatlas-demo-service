@@ -1,0 +1,26 @@
+name: Test 5E archived CSTV parser
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - scripts/test_5e_broadcast.go
+      - scripts/test_5e_go.mod
+      - .github/workflows/test-5e-broadcast.yml
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version: '1.23'
+      - name: Parse archived 5E CSTV
+        run: |
+          mkdir -p /tmp/5etest
+          cp scripts/test_5e_broadcast.go /tmp/5etest/main.go
+          cp scripts/test_5e_go.mod /tmp/5etest/go.mod
+          cd /tmp/5etest
+          go mod tidy
+          timeout 90s go run .
