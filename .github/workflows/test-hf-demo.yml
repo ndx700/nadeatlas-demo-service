@@ -1,0 +1,17 @@
+name: Test Hugging Face Dust2 demo
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - scripts/test_hf_demo.py
+      - .github/workflows/test-hf-demo.yml
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download and validate real Dust2 demo
+        run: python3 scripts/test_hf_demo.py
