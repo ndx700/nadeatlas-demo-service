@@ -1,6 +1,6 @@
 {
-  "state": "needs_api_key",
-  "message": "BETTER_CS_API_KEY is not configured",
-  "updatedAt": "2026-10-05T22:57:47.332501Z",
+  "state": "payment_required",
+  "message": "Better-CS-API returned HTTP 402; API credits or trial balance are required",
+  "updatedAt": "2026-10-05T23:01:03.051910Z",
   "published": 0
 }
