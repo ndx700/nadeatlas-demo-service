@@ -103,59 +103,159 @@ def upload(path):
     subprocess.run(["gh","release","upload",tag,str(path),"--clobber"],check=True)
     return f"https://github.com/{REPO}/releases/download/{tag}/{urllib.parse.quote(path.name)}"
 
+RLIN="https://cs.rlin.dev"
+
+def http_bytes(url,headers=None,timeout=45,limit=None):
+    req=urllib.request.Request(url,headers={"User-Agent":UA,"Accept":"*/*",**(headers or {})})
+    with urllib.request.urlopen(req,timeout=timeout) as r:
+        return r.status,r.headers,r.read() if limit is None else r.read(limit)
+
+def rlin_json(path):
+    _,_,raw=http_bytes(RLIN+path,{"Accept":"application/json"},45,2_000_000)
+    return json.loads(raw.decode("utf-8"))
+
+def verify_direct_dem(url):
+    # Reject suspicious map-label mismatches rather than risk publishing the wrong map.
+    if "dust2" not in urllib.parse.unquote(url).lower():
+        raise RuntimeError("direct demo URL is not labelled dust2")
+    code,h,head=http_bytes(url,{"Range":"bytes=0-31"},45,32)
+    if code not in (200,206):
+        raise RuntimeError(f"demo probe HTTP {code}")
+    if not (head.startswith(b"PBDEMS2") or head.startswith(b"HL2DEMO")):
+        raise RuntimeError("invalid CS2 demo header")
+    ctype=(h.get("Content-Type") or "").lower()
+    if "text/html" in ctype:
+        raise RuntimeError("demo probe returned HTML")
+    size=0
+    cr=h.get("Content-Range") or ""
+    m=re.search(r"/(\\d+)\\s*$",cr)
+    if m: size=int(m.group(1))
+    elif h.get("Content-Length"): size=int(h.get("Content-Length"))
+    if size<1_000_000:
+        raise RuntimeError(f"demo size suspicious: {size}")
+    return size
+
+def sync_rlin(existing,known,now):
+    errors=[];added=0;checked=0
+    try:
+        _,_,raw=http_bytes(RLIN+"/pro-games?event=8249",{"Accept":"text/html"},45,5_000_000)
+        page=raw.decode("utf-8","ignore")
+        event_ids=list(dict.fromkeys(re.findall(r'eventId\\\\\\":\\\\\\"(\\d+)',page)))
+        # The server-rendered event list is newest-first. Limit requests and still cover
+        # the rolling recent window; individual matches are date-filtered again below.
+        event_ids=event_ids[:8]
+        if not event_ids:
+            raise RuntimeError("no public event IDs discovered")
+    except Exception as e:
+        return {"state":"error","message":f"{type(e).__name__}: {e}","checked":0,"added":0},errors
+
+    cutoff=now-dt.timedelta(days=62)
+    match_ids=[]
+    for eid in event_ids:
+        try:
+            _,_,raw=http_bytes(RLIN+f"/pro-games?event={urllib.parse.quote(eid)}",
+                               {"Accept":"text/html"},45,8_000_000)
+            text=raw.decode("utf-8","ignore")
+            ids=re.findall(r'matchId\\\\\\":\\\\\\"(hltv-[^\\\\\\"]+)\\\\\\",\\\\\\"mapName\\\\\\":\\\\\\"de_dust2',text)
+            for mid in ids:
+                if mid not in match_ids: match_ids.append(mid)
+        except Exception as e:
+            errors.append(f"rlin event {eid}: {type(e).__name__}: {e}")
+
+    for mid in match_ids[:120]:
+        try:
+            m=rlin_json("/api/matches/"+urllib.parse.quote(mid,safe=""))
+            checked+=1
+            if m.get("mapName")!="de_dust2": continue
+            ts=m.get("matchTime")
+            if not ts: continue
+            date_obj=dt.datetime.fromtimestamp(int(ts),dt.timezone.utc).date()
+            if date_obj<cutoff or date_obj>now: continue
+            meta=m.get("metadata") if isinstance(m.get("metadata"),dict) else {}
+            teams=meta.get("teams") if isinstance(meta.get("teams"),list) else []
+            if len(teams)<2: continue
+            a=name(teams[0]); b=name(teams[1])
+            if a not in TEAMS and b not in TEAMS: continue
+            date=date_obj.isoformat(); key=(date,a,b,"de_dust2")
+            if key in known: continue
+            url=str(m.get("demoUrl") or meta.get("uploadedDemoUrl") or "")
+            if not url.startswith("https://"): continue
+            size=verify_direct_dem(url)
+            existing.append({"date":date,"event":str(meta.get("eventName") or ""),
+                             "team1":a,"team2":b,"score":str(m.get("score") or ""),
+                             "map":"de_dust2","url":url,"size":size})
+            known.add(key);added+=1
+        except urllib.error.HTTPError as e:
+            if e.code!=404: errors.append(f"rlin {mid}: HTTP {e.code}")
+        except Exception as e:
+            errors.append(f"rlin {mid}: {type(e).__name__}: {e}")
+    state="ok" if checked or added else ("partial" if match_ids else "empty")
+    return {"state":state,"events":len(event_ids),"dust2Candidates":len(match_ids),
+            "checked":checked,"added":added},errors
+
 def main():
     existing=json.loads(INDEX.read_text("utf-8"))
-    if not KEY:
-        status("needs_api_key","BETTER_CS_API_KEY is not configured",published=len(existing))
-        return 2
     known={(x.get("date"),x.get("team1"),x.get("team2"),x.get("map")) for x in existing}
     now=dt.datetime.now(dt.timezone.utc).date()
-    try:
-        found=results((now-dt.timedelta(days=62)).isoformat(),now.isoformat())
-    except urllib.error.HTTPError as e:
-        if e.code == 402:
-            status("payment_required","Better-CS-API returned HTTP 402; API credits or trial balance are required",published=len(existing))
-            return 0
-        status("api_error",f"Better-CS-API HTTP {e.code}",published=len(existing))
-        return 0
-    except Exception as e:
-        status("api_error",f"Better-CS-API request failed: {type(e).__name__}",published=len(existing))
-        return 0
-    candidates=[x for x in found if isinstance(x,dict) and
-                (name(x.get("team1")) in TEAMS or name(x.get("team2")) in TEAMS)]
-    added=0; errors=[]
-    for s in candidates[:100]:
-        mid=s.get("id") or s.get("matchId")
-        if not mid: continue
+    sources={}; all_errors=[]
+
+    # Free public source first. It exposes one direct .dem per map, which matches
+    # NadeAtlas' contract and avoids downloading an entire BO3 just to keep Dust2.
+    rlin_state,rlin_errors=sync_rlin(existing,known,now)
+    sources["public_pro_demo"]=rlin_state
+    all_errors.extend(rlin_errors)
+
+    better_added=0
+    if not KEY:
+        sources["better_cs"]={"state":"needs_api_key","added":0}
+    else:
         try:
-            m=api("GET",f"/hltv/matches/{mid}")
-            if str(m.get("status","")).lower() not in ("over","finished","ended"): continue
-            a,b=name(m.get("team1")),name(m.get("team2"))
-            if a not in TEAMS and b not in TEAMS: continue
-            maps=[x for x in m.get("maps",[]) if isinstance(x,dict) and isinstance(x.get("result"),dict)]
-            d2=[x for x in maps if x.get("name")=="de_dust2"]
-            if len(d2)!=1 or not m.get("hasDemo") or m.get("demoId") is None: continue
-            date=day(m.get("date")); key=(date,a,b,"de_dust2")
-            if key in known: continue
-            tid,obj=create_demo(m["demoId"]); url=demo_url(tid,obj)
-            with tempfile.TemporaryDirectory() as td:
-                work=Path(td); src=work/"download.bin"; download(url,src)
-                dem=dust2_dem(src,work,len(maps)==1)
-                filename=f"{date}-{slug(a)}-vs-{slug(b)}-dust2.dem"
-                final=work/filename
-                if dem!=final: shutil.copy2(dem,final)
-                public=upload(final)
-                r=d2[0]["result"]; score=f"{r.get('team1TotalRounds','')}-{r.get('team2TotalRounds','')}".strip("-")
-                ev=m.get("event") if isinstance(m.get("event"),dict) else {}
-                existing.append({"date":date,"event":ev.get("name",""),"team1":a,"team2":b,
-                                 "score":score,"map":"de_dust2","url":public,"size":final.stat().st_size})
-                known.add(key); added+=1
+            found=results((now-dt.timedelta(days=62)).isoformat(),now.isoformat())
+            candidates=[x for x in found if isinstance(x,dict) and
+                        (name(x.get("team1")) in TEAMS or name(x.get("team2")) in TEAMS)]
+            for item in candidates[:100]:
+                mid=item.get("id") or item.get("matchId")
+                if not mid: continue
+                try:
+                    m=api("GET",f"/hltv/matches/{mid}")
+                    if str(m.get("status","")).lower() not in ("over","finished","ended"): continue
+                    a,b=name(m.get("team1")),name(m.get("team2"))
+                    if a not in TEAMS and b not in TEAMS: continue
+                    maps=[x for x in m.get("maps",[]) if isinstance(x,dict) and isinstance(x.get("result"),dict)]
+                    d2=[x for x in maps if x.get("name")=="de_dust2"]
+                    if len(d2)!=1 or not m.get("hasDemo") or m.get("demoId") is None: continue
+                    date=day(m.get("date")); key=(date,a,b,"de_dust2")
+                    if key in known: continue
+                    tid,obj=create_demo(m["demoId"]); url=demo_url(tid,obj)
+                    with tempfile.TemporaryDirectory() as td:
+                        work=Path(td); src=work/"download.bin"; download(url,src)
+                        dem=dust2_dem(src,work,len(maps)==1)
+                        filename=f"{date}-{slug(a)}-vs-{slug(b)}-dust2.dem"
+                        final=work/filename
+                        if dem!=final: shutil.copy2(dem,final)
+                        public=upload(final)
+                        r=d2[0]["result"]; score=f"{r.get('team1TotalRounds','')}-{r.get('team2TotalRounds','')}".strip("-")
+                        ev=m.get("event") if isinstance(m.get("event"),dict) else {}
+                        existing.append({"date":date,"event":ev.get("name",""),"team1":a,"team2":b,
+                                         "score":score,"map":"de_dust2","url":public,"size":final.stat().st_size})
+                        known.add(key);better_added+=1
+                except Exception as e:
+                    all_errors.append(f"better match {mid}: {type(e).__name__}: {e}")
+            sources["better_cs"]={"state":"ok","scanned":len(found),"candidates":len(candidates),
+                                  "added":better_added}
+        except urllib.error.HTTPError as e:
+            if e.code==402: sources["better_cs"]={"state":"payment_required","added":0}
+            else: sources["better_cs"]={"state":"api_error","http":e.code,"added":0}
         except Exception as e:
-            errors.append(f"match {mid}: {type(e).__name__}: {e}")
+            sources["better_cs"]={"state":"api_error","error":type(e).__name__,"added":0}
+
     existing.sort(key=lambda x:x.get("date",""),reverse=True)
     INDEX.write_text(json.dumps(existing,ensure_ascii=False,indent=2)+"\n","utf-8")
-    status("ok","sync completed",scanned=len(found),candidates=len(candidates),
-           added=added,published=len(existing),errors=errors[:10])
+    total_added=int(rlin_state.get("added",0))+better_added
+    usable=rlin_state.get("state") in ("ok","partial") or sources["better_cs"].get("state")=="ok"
+    status("ok" if usable else "degraded",
+           "multi-source sync completed",sources=sources,added=total_added,
+           published=len(existing),errors=all_errors[:20])
     return 0
 
 if __name__=="__main__": raise SystemExit(main())
