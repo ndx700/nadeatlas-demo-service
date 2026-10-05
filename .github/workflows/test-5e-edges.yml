@@ -1,0 +1,13 @@
+name: Probe 5E fragment edge
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/probes/test_5e_edges.py
+      - .github/workflows/test-5e-edges.yml
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 .github/probes/test_5e_edges.py
