@@ -118,19 +118,29 @@ def verify_direct_dem(url):
     # Reject suspicious map-label mismatches rather than risk publishing the wrong map.
     if "dust2" not in urllib.parse.unquote(url).lower():
         raise RuntimeError("direct demo URL is not labelled dust2")
-    code,h,head=http_bytes(url,{"Range":"bytes=0-31"},45,32)
+    browser_ua="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140 Safari/537.36"
+    req=urllib.request.Request(url,headers={"User-Agent":browser_ua,"Accept":"*/*",
+                                           "Range":"bytes=0-4095"})
+    with urllib.request.urlopen(req,timeout=45) as r:
+        code=r.status; h=r.headers; head=r.read(4096)
     if code not in (200,206):
         raise RuntimeError(f"demo probe HTTP {code}")
     if not (head.startswith(b"PBDEMS2") or head.startswith(b"HL2DEMO")):
         raise RuntimeError("invalid CS2 demo header")
-    ctype=(h.get("Content-Type") or "").lower()
-    if "text/html" in ctype:
+    if "text/html" in (h.get("Content-Type") or "").lower():
         raise RuntimeError("demo probe returned HTML")
     size=0
     cr=h.get("Content-Range") or ""
     m=re.search(r"/(\\d+)\\s*$",cr)
-    if m: size=int(m.group(1))
-    elif h.get("Content-Length"): size=int(h.get("Content-Length"))
+    if m:
+        size=int(m.group(1))
+    if size<1_000_000:
+        # Some CDNs omit Content-Range for specific clients. HEAD gives the object size
+        # without downloading the full demo.
+        q=urllib.request.Request(url,method="HEAD",headers={"User-Agent":browser_ua,"Accept":"*/*"})
+        with urllib.request.urlopen(q,timeout=45) as r:
+            try: size=int(r.headers.get("Content-Length") or 0)
+            except ValueError: size=0
     if size<1_000_000:
         raise RuntimeError(f"demo size suspicious: {size}")
     return size
