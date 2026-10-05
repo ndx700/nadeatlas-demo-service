@@ -1,6 +1,20 @@
 {
-  "state": "payment_required",
-  "message": "Better-CS-API returned HTTP 402; API credits or trial balance are required",
-  "updatedAt": "2026-10-05T23:43:03.099772Z",
-  "published": 0
+  "state": "degraded",
+  "message": "multi-source sync completed",
+  "updatedAt": "2026-10-05T23:54:07.101280Z",
+  "sources": {
+    "public_pro_demo": {
+      "state": "error",
+      "message": "RuntimeError: no public event IDs discovered",
+      "checked": 0,
+      "added": 0
+    },
+    "better_cs": {
+      "state": "payment_required",
+      "added": 0
+    }
+  },
+  "added": 0,
+  "published": 0,
+  "errors": []
 }
