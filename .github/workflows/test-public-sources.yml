@@ -1,0 +1,15 @@
+name: Probe free recent demo sources
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - scripts/test_public_sources.py
+      - .github/workflows/test-public-sources.yml
+permissions:
+  contents: read
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/test_public_sources.py
