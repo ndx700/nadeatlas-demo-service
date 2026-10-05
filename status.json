@@ -1,34 +1,23 @@
 {
   "state": "ok",
   "message": "multi-source sync completed",
-  "updatedAt": "2026-10-05T23:55:31.806309Z",
+  "updatedAt": "2026-10-05T23:56:46.925926Z",
   "sources": {
     "public_pro_demo": {
       "state": "ok",
       "events": 8,
       "dust2Candidates": 93,
       "checked": 93,
-      "added": 0
+      "added": 11
     },
     "better_cs": {
       "state": "payment_required",
       "added": 0
     }
   },
-  "added": 0,
-  "published": 0,
+  "added": 11,
+  "published": 11,
   "errors": [
-    "rlin hltv-2398102-m2: RuntimeError: demo size suspicious: 32",
-    "rlin hltv-2398089-m2: RuntimeError: demo size suspicious: 32",
-    "rlin hltv-2398088-m3: RuntimeError: direct demo URL is not labelled dust2",
-    "rlin hltv-2397623-m3: RuntimeError: demo size suspicious: 32",
-    "rlin hltv-2397619-m2: RuntimeError: demo size suspicious: 32",
-    "rlin hltv-2397611-m1: RuntimeError: demo size suspicious: 32",
-    "rlin hltv-2397608-m2: RuntimeError: demo size suspicious: 32",
-    "rlin hltv-2397607-m2: RuntimeError: demo size suspicious: 32",
-    "rlin hltv-2396951-m1: RuntimeError: demo size suspicious: 32",
-    "rlin hltv-2396950-m1: RuntimeError: demo size suspicious: 32",
-    "rlin hltv-2396948-m3: RuntimeError: demo size suspicious: 32",
-    "rlin hltv-2396947-m2: RuntimeError: demo size suspicious: 32"
+    "rlin hltv-2398088-m3: RuntimeError: direct demo URL is not labelled dust2"
   ]
 }
