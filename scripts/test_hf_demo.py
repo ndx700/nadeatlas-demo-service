@@ -4,7 +4,7 @@ import hashlib, json, os, urllib.request
 BASE="https://huggingface.co/datasets/blanchon/cs2_dataset_demo/resolve/main/demos/shard-europe-0436c5b3/2392290/"
 META=BASE+"meta.json"
 DEMO=BASE+"100-thieves-vs-lavked-m3-dust2.dem?download=true"
-UA="nadeatlas-demo-service/1.0"
+UA="nadeatlas-demo-service/1.0 (HF validation)"
 
 def get(url):
     return urllib.request.urlopen(urllib.request.Request(url,headers={"User-Agent":UA}),timeout=120)
