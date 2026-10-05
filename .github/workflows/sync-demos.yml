@@ -1,0 +1,35 @@
+name: Sync verified Dust2 demos
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: demo-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install archive tools
+        run: sudo apt-get update && sudo apt-get install -y p7zip-full
+      - name: Sync
+        env:
+          BETTER_CS_API_KEY: ${{ secrets.BETTER_CS_API_KEY }}
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/sync.py || code=$?; if [ "${code:-0}" -ne 0 ] && [ "${code:-0}" -ne 2 ]; then exit "$code"; fi
+      - name: Publish index/status changes
+        run: |
+          if git diff --quiet -- index.json status.json; then exit 0; fi
+          git config user.name "nadeatlas-demo-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add index.json status.json
+          git commit -m "Sync verified Dust2 demos"
+          git push
