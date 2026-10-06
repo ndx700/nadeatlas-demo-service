@@ -1,23 +1,23 @@
 {
   "state": "ok",
   "message": "multi-source sync completed",
-  "updatedAt": "2026-10-06T02:58:27.369789Z",
+  "updatedAt": "2026-10-06T03:05:01.668924Z",
   "sources": {
     "public_pro_demo": {
       "state": "ok",
       "events": 23,
       "mapsListed": 1482,
       "looked": 400,
-      "added": 87,
+      "added": 0,
       "addedDust2": 0,
-      "remaining": 1071
+      "remaining": 671
     },
     "better_cs": {
       "state": "payment_required",
       "added": 0
     }
   },
-  "added": 87,
+  "added": 0,
   "published": 11,
   "publishedAllMaps": 98,
   "mapCounts": {
@@ -29,8 +29,9 @@
     "de_mirage": 18,
     "de_nuke": 11
   },
-  "logos": 50,
+  "logos": 58,
   "errors": [
-    "rlin hltv-2398088-m3: demo URL is not labelled dust2"
+    "rlin hltv-2394872-m1: demo URL is not labelled mirage",
+    "rlin hltv-2394867-m1: demo URL is not labelled mirage"
   ]
 }
