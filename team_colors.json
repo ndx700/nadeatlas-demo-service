@@ -288,5 +288,20 @@
     "logo": "https://raw.githubusercontent.com/ndx700/nadeatlas-demo-service/main/logos/fisher-college.png",
     "primary": "#091F3E",
     "secondary": "#404C65"
+  },
+  "RED Canids": {
+    "logo": "https://raw.githubusercontent.com/ndx700/nadeatlas-demo-service/main/logos/red-canids.png",
+    "primary": "#CE2940",
+    "secondary": "#888484"
+  },
+  "Voca": {
+    "logo": "https://raw.githubusercontent.com/ndx700/nadeatlas-demo-service/main/logos/voca.png",
+    "primary": "#FFFFFF",
+    "secondary": "#3F3F3F"
+  },
+  "SemperFi": {
+    "logo": "https://raw.githubusercontent.com/ndx700/nadeatlas-demo-service/main/logos/semperfi.png",
+    "primary": "#3A3A3A",
+    "secondary": "#101010"
   }
 }

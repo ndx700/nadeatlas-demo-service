@@ -1,7 +1,7 @@
 {
   "state": "ok",
   "message": "multi-source sync completed",
-  "updatedAt": "2026-10-06T03:05:01.668924Z",
+  "updatedAt": "2026-10-06T03:24:10.888933Z",
   "sources": {
     "public_pro_demo": {
       "state": "ok",
@@ -10,7 +10,7 @@
       "looked": 400,
       "added": 0,
       "addedDust2": 0,
-      "remaining": 671
+      "remaining": 271
     },
     "better_cs": {
       "state": "payment_required",
@@ -29,9 +29,8 @@
     "de_mirage": 18,
     "de_nuke": 11
   },
-  "logos": 58,
+  "logos": 61,
   "errors": [
-    "rlin hltv-2394872-m1: demo URL is not labelled mirage",
-    "rlin hltv-2394867-m1: demo URL is not labelled mirage"
+    "rlin hltv-2391030-m3: demo URL is not labelled inferno"
   ]
 }
