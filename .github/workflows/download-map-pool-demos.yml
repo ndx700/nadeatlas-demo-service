@@ -1,0 +1,22 @@
+name: Download active map pool demos
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/probes/download_map_pool_demos.py'
+      - '.github/workflows/download-map-pool-demos.yml'
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download and verify non-Dust2 active-pool demos
+        run: python3 .github/probes/download_map_pool_demos.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: active-map-pool-demos-excluding-dust2
+          path: downloads/map-pool/
+          retention-days: 7
+          compression-level: 0
