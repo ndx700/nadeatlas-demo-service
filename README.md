@@ -18,7 +18,8 @@ https://raw.githubusercontent.com/ndx700/nadeatlas-demo-service/main/index.json
 - 每个条目带 `matchId`，有解析统计时带 `statsUrl`
 - 一张地图一个索引条目
 - 新到旧排序
-- 不绕过登录、验证码、Cloudflare 或其他访问控制
+- 来源二 HLTV：app 在线版在手机上用系统 WebView（真实浏览器内核）打开 HLTV 页面，拿到 demo 直链后在手机上下载、只解析 Dust2，把录像（.nar）传到本仓库 Release `hltv-replays`，并写 `data/hltv/<matchId>.json`；同步时合并进索引，条目带 `replay`（解析好的录像地址），app 直接打开不再解析。runner 不直接请求 HLTV
+- 除上面的真实浏览器外，不绕过登录、验证码、Cloudflare 或其他访问控制
 - 不发布假 Demo、示例 URL、pending URL
 - Better-CS-API Key 只从 GitHub Actions Secret `BETTER_CS_API_KEY` 读取
 
