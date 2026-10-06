@@ -1,0 +1,393 @@
+{
+ "url": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398108-m1-abd35442f4e66ef3.msgpack.gz",
+ "compressedBytes": 4343829,
+ "shape": {
+  "name": "'de_anubis - 9/20/2026'",
+  "map": "'de_anubis'",
+  "matchtype": "'lan'",
+  "matchorder": "1",
+  "event": "'StarLadder StarSeries Fall 2026'",
+  "matchTime": "1789916400",
+  "demoUrl": "'https://videoscdn-cs.rlin.dev/demos/hltv-2398108-m1-aurora-vs-vitality-m1-anubi",
+  "rounds": {
+   "list_len": 17,
+   "first": {
+    "serverClock": {
+     "tickRate": "64",
+     "anchors": {
+      "list_len": 1,
+      "first": "dict"
+     }
+    },
+    "rules": {
+     "list_len": 4,
+     "first": {
+      "ctScore": "int",
+      "tScore": "int",
+      "roundStartTime": "float",
+      "duration": "int",
+      "freeze": "bool",
+      "paused": "bool",
+      "ctTimeout": "bool",
+      "tTimeout": "bool",
+      "ctTimeoutRemaining": "int",
+      "tTimeoutRemaining": "int",
+      "technicalTimeout": "bool",
+      "winner": "int",
+      "tick": "int",
+      "gameTime": "float"
+     }
+    },
+    "shots": {
+     "list_len": 78,
+     "first": {
+      "id": "str",
+      "tick": "int",
+      "ownerSteamId": "str",
+      "weapon": "str",
+      "silenced": "bool"
+     }
+    },
+    "blasts": {
+     "list_len": 2,
+     "first": {
+      "id": "str",
+      "tick": "int",
+      "kind": "str",
+      "origin": "list",
+      "ownerSteamId": "str"
+     }
+    },
+    "round_number": "1",
+    "start_tick": "100",
+    "buy_end_tick": "2660",
+    "t_score": "0",
+    "ct_score": "0",
+    "total_rounds_played": "None",
+    "end_tick": "8528",
+    "round_end_tick": "8208",
+    "packed_players": {
+     "v": "1",
+     "n": "21240",
+     "s": {
+      "list_len": 68,
+      "first": "str"
+     },
+     "c": {
+      "list_len": 49,
+      "first": "dict"
+     }
+    },
+    "packed_grenades": {
+     "v": "1",
+     "n": "1669",
+     "s": {
+      "list_len": 8,
+      "first": "str"
+     },
+     "c": {
+      "list_len": 12,
+      "first": "dict"
+     }
+    },
+    "projectileInterpolationTicks": "1",
+    "effects": {
+     "list_len": 2,
+     "first": {
+      "id": "str",
+      "sourceEntityId": "int",
+      "ownerSteamId": "str",
+      "ownerName": "str",
+      "kind": "str",
+      "grenadeType": "str",
+      "startTick": "int",
+      "endTick": "int",
+      "origin": "list",
+      "representation": "str",
+      "color": "list",
+      "smokeModel": "str",
+      "smokeJournal": "list"
+     }
+    },
+    "flashes": {
+     "list_len": 3,
+     "first": {
+      "steamid": "str",
+      "startTick": "int",
+      "endTick": "float",
+      "duration": "float",
+      "tickRate": "int",
+      "maxAlpha": "int"
+     }
+    },
+    "deaths": {
+     "list_len": 8,
+     "first": {
+      "steamid": "str",
+      "tick": "int",
+      "origin": "list",
+      "force": "list",
+      "preDeath": "dict",
+      "bone": "int",
+      "headshot": "bool",
+      "weapon": "str"
+     }
+    },
+    "start_players": {
+     "list_len": 10,
+     "first": {
+      "steamid": "str",
+      "name": "str",
+      "side": "str",
+      "equipment_value": "int",
+      "has_defuser": "bool"
+     }
+    },
+    "damage_events": {
+     "list_len": 16,
+     "first": {
+      "tick": "int",
+      "attacker_steamid": "str",
+      "attacker_name": "str",
+      "user_steamid": "str",
+      "user_name": "str",
+      "dmg_health": "int",
+      "raw_dmg_health": "int",
+      "health": "int",
+      "user_health": "int",
+      "weapon": "str"
+     }
+    },
+    "bomb_plant_times": {
+     "list_len": 1,
+     "first": "6952"
+    },
+    "bomb_defuse_times": {
+     "list_len": 1,
+     "first": "7568"
+    },
+    "bomb_planted": {
+     "tick": "7157",
+     "site": "1",
+     "x": "-1082.5625",
+     "y": "776.0625",
+     "z": "-3.96875"
+    },
+    "bomb_planted_by": "'76561198083485506'",
+    "bomb_defused": "8208",
+    "bomb_exploded": "None",
+    "bomb_defused_by": "'76561197978835160'",
+    "bomb_defused_with_kit": "False",
+    "fake_plants": {
+     "list_len": 0,
+     "first": null
+    },
+    "fake_defuses": {
+     "list_len": 0,
+     "first": null
+    },
+    "bomb_events": {
+     "list_len": 3,
+     "first": {
+      "dropped_tick": "int",
+      "x": "int",
+      "y": "int",
+      "z": "float",
+      "pickup_tick": "int"
+     }
+    },
+    "kill_feed": {
+     "list_len": 8,
+     "first": {
+      "killer": "str",
+      "killer_team": "str",
+      "killer_steamid": "str",
+      "victim": "str",
+      "victim_team": "str",
+      "victim_steamid": "str",
+      "assister": "NoneType",
+      "assister_team": "NoneType",
+      "assister_steamid": "NoneType",
+      "weapon": "str",
+      "tick": "int",
+      "time_to_death": "float",
+      "killer_blind": "bool",
+      "victim_blind": "bool",
+      "headshot": "bool",
+      "smoke": "bool",
+      "noscope": "bool",
+      "wallbang": "bool",
+      "assistedflash": "bool",
+      "attackerinair": "bool",
+      "x": "float",
+      "y": "float",
+      "z": "float",
+      "victim_kills": "int",
+      "killer_kills": "int"
+     }
+    },
+    "kit_events": {
+     "list_len": 0,
+     "first": null
+    },
+    "duration": "131.6875",
+    "clutches": {
+     "list_len": 1,
+     "first": {
+      "tick": "int",
+      "tick_end": "int",
+      "player_name": "str",
+      "player_steamid": "str",
+      "opponent_count": "int",
+      "has_won": "bool",
+      "side": "str",
+      "outcome": "str"
+     }
+    },
+    "winner_team_num": "3",
+    "round_type": "'CT: Force Buy | T: Force Buy'",
+    "ct_equip_value": "4800",
+    "t_equip_value": "4200",
+    "freeze_end_tick": "1380",
+    "round_result": {
+     "tick": "8208",
+     "winner": "3"
+    },
+    "round_mvp": {
+     "tick": "8208",
+     "steamid": "'76561197973140692'",
+     "name": "'mezii'",
+     "reason": "15"
+    },
+    "bombs": {
+     "list_len": 1,
+     "first": {
+      "id": "str",
+      "entityId": "int",
+      "serial": "int",
+      "samples": "list"
+     }
+    }
+   }
+  },
+  "match_stats": {
+   "players": {
+    "list_len": 10,
+    "first": {
+     "steamid": "'76561197973140692'",
+     "name": "'mezii'",
+     "team_name": "'CT'",
+     "kills": "22",
+     "deaths": "9",
+     "assists": "3",
+     "damage_total": "1826",
+     "headshot_kills": "13",
+     "rounds_played": "17",
+     "round_stats": {
+      "list_len": 17,
+      "first": "dict"
+     },
+     "approx_metrics": {
+      "kast_pct": "float",
+      "rltify_rating": "float",
+      "rltv_rating_2_1": "float",
+      "round_swing": "float",
+      "valorant_acs": "int",
+      "valorant_econ_rating": "float",
+      "raw_round_wpa_total": "float",
+      "opener_kills": "int",
+      "opener_deaths": "int",
+      "trades": "int",
+      "traded_deaths": "int",
+      "impact_rating": "float",
+      "rltify_rounds": "list",
+      "round_swing_rounds": "list"
+     }
+    }
+   },
+   "created_at": "'2026-09-24T23:52:10.737Z'",
+   "approx_metric_meta": {
+    "list_len": 6,
+    "first": {
+     "key": "'kast'",
+     "label": "'KAST'",
+     "model": "'rltv-kast-v2'",
+     "confidence": "'high'",
+     "description": "'Approximate HLTV-style KAST: kill, assist, survived a won round, or traded deat"
+    }
+   },
+   "round_swing_events": {
+    "list_len": 124,
+    "first": {
+     "round_number": "1",
+     "tick": "5462",
+     "type": "'kill'",
+     "actor_steamid": "'76561198812513923'",
+     "actor_name": "'Wicadia'",
+     "actor_side": "'T'",
+     "victim_steamid": "'76561197989744167'",
+     "victim_name": "'apEX'",
+     "t_win_before": "47.6",
+     "t_win_after": "69.2",
+     "swing_delta": "21.6",
+     "applied_delta": "21.6",
+     "planted": "False",
+     "state_key": "'open:5v4:t0-1000:ct0-1000'"
+    }
+   }
+  },
+  "final_score": "'4-13'",
+  "replay3d": {
+   "version": "1",
+   "status": "'ready'",
+   "patchVersion": "'14181'",
+   "indexUrl": "'https://videoscdn-cs.rlin.dev/stats/49ddaadc-43d6-42d1-87d9-fba03310f8c2.replay",
+   "manifestUrl": "'https://videoscdn-cs.rlin.dev/replay/maps/de_anubis/2026-09-24-client2000908-sp",
+   "mapVersion": "'2026-09-24-client2000908-split-r2'",
+   "mapPackageId": "'5f61141ae7208985c9870ba0cfb74c7b096c378d0f922838a342815d3a08e1e3'",
+   "mapResolution": "'range'",
+   "animationResolution": "'verified'"
+  }
+ },
+ "grenadeLike": {
+  "root.rounds[0].packed_grenades": {
+   "v": "1",
+   "n": "1669",
+   "s": {
+    "list_len": 8,
+    "first": "'smoke'"
+   },
+   "c": {
+    "list_len": 12,
+    "first": {
+     "k": "str",
+     "t": "int",
+     "d": "bytes"
+    }
+   }
+  },
+  "root.rounds[0].projectileInterpolationTicks": "1",
+  "root.rounds[0].effects[0].grenadeType": "'smoke'",
+  "root.rounds[0].effects[0].smokeModel": "'source2-journal-v1'",
+  "root.rounds[0].effects[0].smokeJournal": {
+   "list_len": 202,
+   "first": {
+    "list_len": 5,
+    "first": "3990"
+   }
+  },
+  "root.rounds[0].flashes": {
+   "list_len": 3,
+   "first": {
+    "steamid": "'76561198812513923'",
+    "startTick": "5449",
+    "endTick": "5727.212860107422",
+    "duration": "4.347075939178467",
+    "tickRate": "64",
+    "maxAlpha": "255"
+   }
+  },
+  "root.rounds[0].kill_feed[0].smoke": "False",
+  "root.rounds[0].kill_feed[0].assistedflash": "False"
+ }
+}
