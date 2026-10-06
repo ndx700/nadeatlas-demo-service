@@ -1,21 +1,21 @@
 {
   "state": "ok",
   "message": "multi-source sync completed",
-  "updatedAt": "2026-10-05T23:56:46.925926Z",
+  "updatedAt": "2026-10-06T00:30:36.164048Z",
   "sources": {
     "public_pro_demo": {
       "state": "ok",
       "events": 8,
       "dust2Candidates": 93,
       "checked": 93,
-      "added": 11
+      "added": 0
     },
     "better_cs": {
       "state": "payment_required",
       "added": 0
     }
   },
-  "added": 11,
+  "added": 0,
   "published": 11,
   "errors": [
     "rlin hltv-2398088-m3: RuntimeError: direct demo URL is not labelled dust2"
