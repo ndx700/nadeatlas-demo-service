@@ -1,0 +1,25 @@
+name: Fetch verified team logos
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/probes/fetch_team_logos.py'
+      - '.github/workflows/fetch-team-logos.yml'
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install pillow
+      - run: python3 .github/probes/fetch_team_logos.py
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add logos
+          if ! git diff --cached --quiet; then
+            git commit -m "Add verified team logo PNGs"
+            git push
+          fi
