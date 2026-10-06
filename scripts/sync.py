@@ -7,6 +7,8 @@ from pathlib import Path
 
 ROOT=Path(__file__).resolve().parents[1]
 INDEX=ROOT/"index.json"; STATUS=ROOT/"status.json"
+ALL_INDEX=ROOT/"index-all-maps.json"; LOGOS=ROOT/"team_logos.json"; COLORS=ROOT/"team_colors.json"
+import sys; sys.path.insert(0,str(Path(__file__).resolve().parent))
 TEAMS=set(json.loads((ROOT/"config/teams.json").read_text("utf-8")))
 API="https://api.better-cs-api.com"
 KEY=os.getenv("BETTER_CS_API_KEY","").strip()
@@ -204,16 +206,26 @@ def sync_rlin(existing,known,now):
             "checked":checked,"added":added},errors
 
 def main():
+    import rlin_sync
     existing=json.loads(INDEX.read_text("utf-8"))
+    for x in existing:   # backfill matchId on older entries so they are never re-checked
+        if not x.get("matchId"):
+            m=re.search(r"(hltv-\d+-m\d+)",x.get("url",""))
+            if m: x["matchId"]=m.group(1)
+    all_maps=json.loads(ALL_INDEX.read_text("utf-8")) if ALL_INDEX.exists() else []
+    seen={x.get("url") for x in all_maps}
+    all_maps.extend(dict(x) for x in existing if x.get("url") not in seen)
+    logos=json.loads(LOGOS.read_text("utf-8")) if LOGOS.exists() else {}
+    colors=json.loads(COLORS.read_text("utf-8")) if COLORS.exists() else {}
     known={(x.get("date"),x.get("team1"),x.get("team2"),x.get("map")) for x in existing}
     now=dt.datetime.now(dt.timezone.utc).date()
     sources={}; all_errors=[]
 
-    # Free public source first. It exposes one direct .dem per map, which matches
-    # NadeAtlas' contract and avoids downloading an entire BO3 just to keep Dust2.
-    rlin_state,rlin_errors=sync_rlin(existing,known,now)
+    # Free public archive first: every listed event, every map, one direct .dem per map.
+    rlin_state,rlin_errors=rlin_sync.sync(existing,all_maps,logos,colors,now)
     sources["public_pro_demo"]=rlin_state
     all_errors.extend(rlin_errors)
+    known|={(x.get("date"),x.get("team1"),x.get("team2"),x.get("map")) for x in existing}
 
     better_added=0
     if not KEY:
@@ -260,12 +272,18 @@ def main():
             sources["better_cs"]={"state":"api_error","error":type(e).__name__,"added":0}
 
     existing.sort(key=lambda x:x.get("date",""),reverse=True)
+    all_maps.sort(key=lambda x:x.get("date",""),reverse=True)
     INDEX.write_text(json.dumps(existing,ensure_ascii=False,indent=2)+"\n","utf-8")
+    ALL_INDEX.write_text(json.dumps(all_maps,ensure_ascii=False,indent=2)+"\n","utf-8")
+    LOGOS.write_text(json.dumps(logos,ensure_ascii=False,indent=2)+"\n","utf-8")
+    COLORS.write_text(json.dumps(colors,ensure_ascii=False,indent=2)+"\n","utf-8")
     total_added=int(rlin_state.get("added",0))+better_added
     usable=rlin_state.get("state") in ("ok","partial") or sources["better_cs"].get("state")=="ok"
     status("ok" if usable else "degraded",
            "multi-source sync completed",sources=sources,added=total_added,
-           published=len(existing),errors=all_errors[:20])
+           published=len(existing),publishedAllMaps=len(all_maps),
+           mapCounts={k:sum(x.get("map")==k for x in all_maps) for k in sorted({x.get("map") for x in all_maps})},
+           logos=len(colors),errors=all_errors[:20])
     return 0
 
 if __name__=="__main__": raise SystemExit(main())

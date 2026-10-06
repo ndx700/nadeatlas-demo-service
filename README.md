@@ -12,9 +12,10 @@ https://raw.githubusercontent.com/ndx700/nadeatlas-demo-service/main/index.json
 
 ## Scope
 
-- 固定 50 支战队白名单
-- 最近约 2 个月
-- 只收录 `de_dust2`
+- 来源 cs.rlin.dev 公开职业比赛存档：它列出的全部赛事（目前约 2026 年 1 月起），不限战队、不限时间窗口
+- `index.json` 只收录 `de_dust2`（App 现有约定不变）
+- `index-all-maps.json` 收录所有地图，格式相同，`map` 字段区分地图
+- 每个条目带 `matchId`，有解析统计时带 `statsUrl`
 - 一张地图一个索引条目
 - 新到旧排序
 - 不绕过登录、验证码、Cloudflare 或其他访问控制
@@ -33,6 +34,12 @@ https://raw.githubusercontent.com/ndx700/nadeatlas-demo-service/main/index.json
 - Secret: Better-CS-API Dashboard 生成的 API Key
 
 不要把 Key 写入 issue、代码、README 或聊天。
+
+## Team logos
+
+- `logos/<slug>.png`：从比赛元数据里的队标地址下载，统一 512×512 透明底
+- `team_logos.json`：战队名 → 图标地址（旧格式保留）
+- `team_colors.json`：战队名 → `{logo, primary, secondary}`，卡片背景从 primary 渐变到 secondary
 
 ## Status
 
