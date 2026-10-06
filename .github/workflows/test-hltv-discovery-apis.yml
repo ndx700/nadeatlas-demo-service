@@ -1,0 +1,15 @@
+name: Test HLTV discovery APIs
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/probes/test-hltv-discovery-apis.py'
+      - '.github/workflows/test-hltv-discovery-apis.yml'
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 .github/probes/test-hltv-discovery-apis.py
