@@ -1,23 +1,36 @@
 {
   "state": "ok",
   "message": "multi-source sync completed",
-  "updatedAt": "2026-10-06T02:48:44.270703Z",
+  "updatedAt": "2026-10-06T02:58:27.369789Z",
   "sources": {
     "public_pro_demo": {
       "state": "ok",
-      "events": 8,
-      "dust2Candidates": 93,
-      "checked": 93,
-      "added": 0
+      "events": 23,
+      "mapsListed": 1482,
+      "looked": 400,
+      "added": 87,
+      "addedDust2": 0,
+      "remaining": 1071
     },
     "better_cs": {
       "state": "payment_required",
       "added": 0
     }
   },
-  "added": 0,
+  "added": 87,
   "published": 11,
+  "publishedAllMaps": 98,
+  "mapCounts": {
+    "de_ancient": 20,
+    "de_anubis": 6,
+    "de_cache": 13,
+    "de_dust2": 11,
+    "de_inferno": 19,
+    "de_mirage": 18,
+    "de_nuke": 11
+  },
+  "logos": 50,
   "errors": [
-    "rlin hltv-2398088-m3: RuntimeError: direct demo URL is not labelled dust2"
+    "rlin hltv-2398088-m3: demo URL is not labelled dust2"
   ]
 }
