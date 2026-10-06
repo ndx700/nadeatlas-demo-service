@@ -1,0 +1,41 @@
+name: Publish ranking, matches and results
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/hltv_feed.py"
+      - ".github/workflows/hltv-feed.yml"
+  schedule:
+    # Four times a day is plenty for a ranking that changes weekly and a match list read by people.
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hltv-feed
+  cancel-in-progress: false
+
+jobs:
+  feed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install what the library needs
+        run: pip install --quiet requests beautifulsoup4 lxml python-utils tzlocal
+      - name: Fetch
+        run: python3 scripts/hltv_feed.py
+      - name: Publish
+        run: |
+          git add feed
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "nadeatlas-demo-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git commit -m "Update ranking, matches and results"
+          git pull --rebase --autostash
+          git push

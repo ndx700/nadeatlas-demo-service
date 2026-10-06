@@ -37,3 +37,8 @@ https://raw.githubusercontent.com/ndx700/nadeatlas-demo-service/main/index.json
 ## Status
 
 `status.json` 只记录非敏感同步状态，不记录 API Key。
+
+## Feed for the app's 赛事 screen
+
+`feed/ranking.json`、`feed/matches.json`、`feed/results.json` 由 `scripts/hltv_feed.py` 每 6 小时更新一次，数据来自 HLTV 的公开页面，通过开源库 [hltv-api](https://github.com/SocksPls/hltv-api)（AGPL-3.0）读取。脚本在运行时下载并原样执行该库，不把它的代码放进本仓库，也不做任何绕过 Cloudflare 的事：被拒绝时保留上一次的文件，并在 `feed/status.json` 里记下原因。
+
