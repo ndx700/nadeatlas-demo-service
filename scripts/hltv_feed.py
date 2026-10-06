@@ -48,10 +48,17 @@ def ranking(api):
         if not name:
             continue
         rows.append({"rank": t.get("rank"), "name": name, "points": t.get("rank-points"),
-                     "players": [p.get("name") for p in t.get("team-players") or [] if p.get("name")]})
+                     "players": [nick(p.get("name")) for p in t.get("team-players") or [] if p.get("name")]})
     if len(rows) < 10:
         raise RuntimeError(f"ranking page gave {len(rows)} teams")
-    return sorted(rows, key=lambda r: r["rank"] or 999)
+    # The app shows the top thirty; the page lists every ranked team.
+    return sorted(rows, key=lambda r: r["rank"] or 999)[:30]
+
+
+def nick(full):
+    """ "Mathieu 'ZywOo' Herbaut" -> "ZywOo": the name a player is known by."""
+    parts = full.split("'")
+    return parts[1].strip() if len(parts) >= 3 and parts[1].strip() else full.strip()
 
 
 def matches(api):
