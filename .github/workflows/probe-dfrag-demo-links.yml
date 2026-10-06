@@ -1,0 +1,14 @@
+name: Probe DFRAG demo links
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/probes/probe_dfrag_demo_links.py'
+      - '.github/workflows/probe-dfrag-demo-links.yml'
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 .github/probes/probe_dfrag_demo_links.py
