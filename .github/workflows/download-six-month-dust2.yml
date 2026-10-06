@@ -1,0 +1,17 @@
+name: Download six months Dust2 demos
+on:
+  workflow_dispatch:
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download and verify Dust2 demos
+        run: python3 .github/probes/download_six_month_dust2.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: dust2-demos-six-months
+          path: downloads/dust2/
+          retention-days: 7
+          compression-level: 0
