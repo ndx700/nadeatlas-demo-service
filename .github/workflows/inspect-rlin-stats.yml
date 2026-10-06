@@ -1,0 +1,21 @@
+name: Inspect rlin stats format
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/probes/inspect_rlin_stats.py','.github/workflows/inspect-rlin-stats.yml']
+permissions:
+  contents: write
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install msgpack
+      - run: python3 .github/probes/inspect_rlin_stats.py "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398108-m1-abd35442f4e66ef3.msgpack.gz"
+      - run: |
+          mkdir -p data/probes && mv stats-shape.json data/probes/
+          git config user.name nadeatlas-demo-bot
+          git config user.email actions@users.noreply.github.com
+          git add data/probes && git commit -m "Probe: rlin stats file structure" && git pull --rebase -X theirs && git push
