@@ -1,16 +1,16 @@
 {
- "updatedAt": "2026-10-06T01:00:41Z",
+ "updatedAt": "2026-10-06T01:04:06Z",
  "teams": [
   {
    "rank": 1,
    "name": "Spirit",
    "points": 1000,
    "players": [
-    "Dmitry 'sh1ro' Sokolov",
-    "Boris 'magixx' Vorobiev",
-    "Andrey 'tN1R' Tatarinovich",
-    "Myroslav 'zont1x' Plakhotia",
-    "Danil 'donk' Kryshkovets"
+    "sh1ro",
+    "magixx",
+    "tN1R",
+    "zont1x",
+    "donk"
    ]
   },
   {
@@ -18,11 +18,11 @@
    "name": "Vitality",
    "points": 686,
    "players": [
-    "Dan 'apEX' Madesclaire",
-    "Robin 'ropz' Kool",
-    "Mathieu 'ZywOo' Herbaut",
-    "Shahar 'flameZ' Shushan",
-    "William 'mezii' Merriman"
+    "apEX",
+    "ropz",
+    "ZywOo",
+    "flameZ",
+    "mezii"
    ]
   },
   {
@@ -30,11 +30,11 @@
    "name": "MOUZ",
    "points": 562,
    "players": [
-    "Ádám 'torzsi' Torzsás",
-    "Lotan 'Spinx' Giladi",
-    "Dorian 'xertioN' Berman",
-    "Oldřich 'PR' Nový",
-    "Adrian 'xelex' Vincze"
+    "torzsi",
+    "Spinx",
+    "xertioN",
+    "PR",
+    "xelex"
    ]
   },
   {
@@ -42,11 +42,11 @@
    "name": "FURIA",
    "points": 534,
    "players": [
-    "Gabriel 'FalleN' Toledo",
-    "Yuri 'yuurih' Santos",
-    "Mareks 'YEKINDAR' Gaļinskis",
-    "Kaike 'KSCERATO' Cerato",
-    "Danil 'molodoy' Golubenko"
+    "FalleN",
+    "yuurih",
+    "YEKINDAR",
+    "KSCERATO",
+    "molodoy"
    ]
   },
   {
@@ -54,11 +54,11 @@
    "name": "Falcons",
    "points": 496,
    "players": [
-    "Finn 'karrigan' Andersen",
-    "Nikola 'NiKo' Kovač",
-    "René 'TeSeS' Madsen",
-    "Ilya 'm0NESY' Osipov",
-    "Maksim 'kyousuke' Lukin"
+    "karrigan",
+    "NiKo",
+    "TeSeS",
+    "m0NESY",
+    "kyousuke"
    ]
   },
   {
@@ -66,11 +66,11 @@
    "name": "Legacy",
    "points": 430,
    "players": [
-    "Andrei 'arT' Piovezan",
-    "Eduardo 'dumau' Wolkmer",
-    "Bruno 'latto' Rebelatto",
-    "Vinicius 'n1ssim' Pereira",
-    "Santino 'try' Rigal"
+    "arT",
+    "dumau",
+    "latto",
+    "n1ssim",
+    "try"
    ]
   },
   {
@@ -78,11 +78,11 @@
    "name": "G2",
    "points": 384,
    "players": [
-    "Nemanja 'huNter-' Kovač",
-    "Guy 'NertZ' Iluz",
-    "Artem 'r1nkle' Moroz",
-    "Nikita 'HeavyGod' Martynenko",
-    "Matúš 'MATYS' Šimko"
+    "huNter-",
+    "NertZ",
+    "r1nkle",
+    "HeavyGod",
+    "MATYS"
    ]
   },
   {
@@ -90,11 +90,11 @@
    "name": "FUT",
    "points": 359,
    "players": [
-    "Álvaro 'SunPayus' García",
-    "Yasin 'xfl0ud' Koç",
-    "Dmytro 'dem0n' Myroshnychenko",
-    "Aulon 'Krabeni' Fazlija",
-    "Džiugas 'dziugss' Steponavičius"
+    "SunPayus",
+    "xfl0ud",
+    "dem0n",
+    "Krabeni",
+    "dziugss"
    ]
   },
   {
@@ -102,11 +102,11 @@
    "name": "Aurora",
    "points": 350,
    "players": [
-    "Ismailcan 'XANTARES' Dörtkardeş",
-    "Özgür 'woxic' Eker",
-    "Jimi 'Jimpphat' Salo",
-    "Damjan 'kyxsan' Stoilkovski",
-    "Ali 'Wicadia' Haydar Yalçın"
+    "XANTARES",
+    "woxic",
+    "Jimpphat",
+    "kyxsan",
+    "Wicadia"
    ]
   },
   {
@@ -114,11 +114,11 @@
    "name": "Natus Vincere",
    "points": 241,
    "players": [
-    "Aleksi 'Aleksib' Virolainen",
-    "Mihai 'iM' Ivan",
-    "Valeriy 'b1t' Vakhovskiy",
-    "Ihor 'w0nderful' Zhdanov",
-    "Drin 'makazze' Shaqiri"
+    "Aleksib",
+    "iM",
+    "b1t",
+    "w0nderful",
+    "makazze"
    ]
   },
   {
@@ -126,11 +126,11 @@
    "name": "Astralis",
    "points": 220,
    "players": [
-    "Rasmus 'HooXi' Nielsen",
-    "Love 'phzy' Smidebrant",
-    "Jakob 'jabbi' Nygaard",
-    "Victor 'Staehr' Staehr",
-    "Gytis 'ryu' Glušauskas"
+    "HooXi",
+    "phzy",
+    "jabbi",
+    "Staehr",
+    "ryu"
    ]
   },
   {
@@ -138,11 +138,11 @@
    "name": "MIBR",
    "points": 169,
    "players": [
-    "Linus 'LNZ' Holtäng",
-    "Lucas 'nqz' Soares",
-    "Felipe 'insani' Yuji",
-    "Carlos 'venomzera' Eduardo",
-    "Tomas 'tomaszin' Corna"
+    "LNZ",
+    "nqz",
+    "insani",
+    "venomzera",
+    "tomaszin"
    ]
   },
   {
@@ -150,11 +150,11 @@
    "name": "BETBOOM",
    "points": 148,
    "players": [
-    "Kirill 'Boombl4' Mikhailov",
-    "Aleksandr 'zorte' Zagodyrenko",
-    "Pavel 'S1ren' Ogloblin",
-    "Daniil 'd1Ledez' Kustov",
-    "Kirill 'Magnojez' Rodnov"
+    "Boombl4",
+    "zorte",
+    "S1ren",
+    "d1Ledez",
+    "Magnojez"
    ]
   },
   {
@@ -162,11 +162,11 @@
    "name": "FaZe",
    "points": 147,
    "players": [
-    "David 'frozen' Čerňanský",
-    "Russel 'Twistzz' Van Dulken",
-    "Ryan 'Neityu' Aubry",
-    "Jakub 'jcobbb' Pietruszewski",
-    "Jason 'JBOEN' Boe Nielsen"
+    "frozen",
+    "Twistzz",
+    "Neityu",
+    "jcobbb",
+    "JBOEN"
    ]
   },
   {
@@ -174,11 +174,11 @@
    "name": "B8",
    "points": 130,
    "players": [
-    "Alexey 'alex666' Yarmoshchuk",
-    "Andrii 'npl' Kukharskyi",
-    "Artem 'kensizor' Kapran",
-    "Dmytro 'esenthial' Tsvir",
-    "Danylo 's1zzi' Vinnyk"
+    "alex666",
+    "npl",
+    "kensizor",
+    "esenthial",
+    "s1zzi"
    ]
   },
   {
@@ -186,11 +186,11 @@
    "name": "9z",
    "points": 124,
    "players": [
-    "Maximiliano 'max' Gonzalez",
-    "Franco 'dgt' Garcia",
-    "Ignacio 'meyern' Meyer",
-    "Luciano 'luchov' Herrera",
-    "Matias 'HUASOPEEK' Ibañez Hernandez"
+    "max",
+    "dgt",
+    "meyern",
+    "luchov",
+    "HUASOPEEK"
    ]
   },
   {
@@ -198,11 +198,11 @@
    "name": "The MongolZ",
    "points": 116,
    "players": [
-    "Yesuntumur 'nin9' Gantulga",
-    "Garidmagnai 'bLitz' Byambasuren",
-    "Sodbayar 'Techno' Munkhbold",
-    "Usukhbayar '910' Banzragch",
-    "Anarbileg 'cobrazera' Uuganbayar"
+    "nin9",
+    "bLitz",
+    "Techno",
+    "910",
+    "cobrazera"
    ]
   },
   {
@@ -210,11 +210,11 @@
    "name": "magic",
    "points": 116,
    "players": [
-    "Svyatoslav 'MaSvAl' Masko",
-    "Vitaliy 'sFade8' Marushka",
-    "Andrey 'AW' Anisimov",
-    "Abdurakhim 'mo0N' Issa",
-    "Nikita 'tenzy' Kochenyuk"
+    "MaSvAl",
+    "sFade8",
+    "AW",
+    "mo0N",
+    "tenzy"
    ]
   },
   {
@@ -222,11 +222,11 @@
    "name": "GamerLegion",
    "points": 110,
    "players": [
-    "Janusz 'Snax' Pogorzelski",
-    "Fredrik 'REZ' Sterner",
-    "Sebastian 'Tauson' Tauson Lindelof",
-    "Timur 'FL4MUS' Marev",
-    "Milan 'hypex' Polowiec"
+    "Snax",
+    "REZ",
+    "Tauson",
+    "FL4MUS",
+    "hypex"
    ]
   },
   {
@@ -234,11 +234,11 @@
    "name": "PARIVISION",
    "points": 108,
    "players": [
-    "Abay 'HObbit' Khassenov",
-    "Evgenii 'FL1T' Lebedev",
-    "Dzhami 'Jame' Ali",
-    "Vladislav 'xiELO' Lysov",
-    "Ivan 'zweih' Gogin"
+    "HObbit",
+    "FL1T",
+    "Jame",
+    "xiELO",
+    "zweih"
    ]
   },
   {
@@ -246,11 +246,11 @@
    "name": "Envy",
    "points": 102,
    "players": [
-    "Bryan 'Maka' Canda",
-    "Lucas 'Lucky' Chastang",
-    "Kévin 'misutaaa' Rabier",
-    "Jeremy 'Kursy' Gast",
-    "Filip 'Graviti' Brankovic"
+    "Maka",
+    "Lucky",
+    "misutaaa",
+    "Kursy",
+    "Graviti"
    ]
   },
   {
@@ -258,11 +258,11 @@
    "name": "Nemiga",
    "points": 89,
    "players": [
-    "Aleksandr 'KaiR0N-' Anashkin",
-    "Kirill 'Xant3r' Kononov",
-    "Nikita 'robo' Dushin",
-    "Beksultan 'khaN' Ospan",
-    "Daniel 'syph0' Ageyev"
+    "KaiR0N-",
+    "Xant3r",
+    "robo",
+    "khaN",
+    "syph0"
    ]
   },
   {
@@ -270,11 +270,11 @@
    "name": "Alliance",
    "points": 78,
    "players": [
-    "Simon 'twist' Eliasson",
-    "Sean 'eraa' Knutsson",
-    "Jonatan 'bobeksde' Persson",
-    "Markus 'upE' Johansson",
-    "Arvid 'avid' Åberg"
+    "twist",
+    "eraa",
+    "bobeksde",
+    "upE",
+    "avid"
    ]
   },
   {
@@ -282,11 +282,11 @@
    "name": "Luminosity",
    "points": 78,
    "players": [
-    "Aleks 'Rainwaker' Petrov",
-    "Aurélien 'afro' Drapier",
-    "Lucas 'lux' Meneghini",
-    "Simon 'yxngstxr' Boije",
-    "Oscar 'AZUWU' Bell"
+    "Rainwaker",
+    "afro",
+    "lux",
+    "yxngstxr",
+    "AZUWU"
    ]
   },
   {
@@ -294,11 +294,11 @@
    "name": "Liquid",
    "points": 76,
    "players": [
-    "Keith 'NAF' Markovic",
-    "Jonathan 'EliGE' Jablonowski",
-    "Mario 'malbsMd' Samayoa",
-    "Johnny 'JT' Theodosiou",
-    "Georgi 'Jorko' Mitev"
+    "NAF",
+    "EliGE",
+    "malbsMd",
+    "JT",
+    "Jorko"
    ]
   },
   {
@@ -306,11 +306,11 @@
    "name": "Ninjas in Pyjamas",
    "points": 75,
    "players": [
-    "Martin 'stavn' Lund",
-    "Rasmus 'sjuush' Beck",
-    "Karim 'Krimbo' Moussa",
-    "Adam 'adamb' Ångström",
-    "Kacper 'xKacpersky' Gabara"
+    "stavn",
+    "sjuush",
+    "Krimbo",
+    "adamb",
+    "xKacpersky"
    ]
   },
   {
@@ -318,11 +318,11 @@
    "name": "M80",
    "points": 73,
    "players": [
-    "Fritz 'slaxz-' Dietrich",
-    "Michael 'Swisher' Schmid",
-    "Elias 's1n' Stein",
-    "Josh 'JBa' Barutt",
-    "Mason 'Lake' Sanderson"
+    "slaxz-",
+    "Swisher",
+    "s1n",
+    "JBa",
+    "Lake"
    ]
   },
   {
@@ -330,11 +330,11 @@
    "name": "Inner Circle",
    "points": 71,
    "players": [
-    "Arseniy 'cptkurtka023' Derevinskiy",
-    "Daniil 'headtr1ck' Valitov",
-    "Eduard 'zeRRoFIX' Petrovskyi",
-    "Viktor 'onic' Babii",
-    "David 'Dawy' Bibik"
+    "cptkurtka023",
+    "headtr1ck",
+    "zeRRoFIX",
+    "onic",
+    "Dawy"
    ]
   },
   {
@@ -342,11 +342,11 @@
    "name": "HEROIC",
    "points": 64,
    "players": [
-    "Ludvig 'Brollan' Brolin",
-    "Linus 'nilo' Bergman",
-    "Tim 'susp' Ångström",
-    "Antonio 'MartinezSa' Martinez",
-    "Christoffer 'Chr1zN' Storgaard"
+    "Brollan",
+    "nilo",
+    "susp",
+    "MartinezSa",
+    "Chr1zN"
    ]
   },
   {
@@ -354,2594 +354,11 @@
    "name": "NRG",
    "points": 62,
    "players": [
-    "Nick 'nitr0' Cannella",
-    "Aran 'Sonic' Groesbeek",
-    "Håkon 'hallzerk' Fjærli",
-    "Michael 'Grim' Wince",
-    "Jeorge 'Jeorge'  Endicott"
-   ]
-  },
-  {
-   "rank": 31,
-   "name": "paiN",
-   "points": 61,
-   "players": [
-    "Rodrigo 'biguzera' Bittencourt",
-    "Rafael 'saffee' Costa",
-    "João 'snow' Vinicius",
-    "Lucas 'Tatu' Santana",
-    "Rickson 'Rkzinho' Ribeiro Dias"
-   ]
-  },
-  {
-   "rank": 32,
-   "name": "BIG",
-   "points": 55,
-   "players": [
-    "Johannes 'tabseN' Wodarz",
-    "Jon 'JDC' de Castro",
-    "Josef 'faveN' Baumann",
-    "Benjamin 'blameF' Bremer",
-    "Gleb 'gr1ks' Gazin"
-   ]
-  },
-  {
-   "rank": 33,
-   "name": "1win",
-   "points": 53,
-   "players": [
-    "Sergey 'Ax1Le' Rykhtorov",
-    "Vladislav 'nafany' Gorshkov",
-    "Andrey 'BELCHONOKK' Yasinskiy",
-    "Petr 'fame' Bolyshev",
-    "Artem 'ArtFr0st' Kharitonov"
-   ]
-  },
-  {
-   "rank": 34,
-   "name": "TYLOO",
-   "points": 52,
-   "players": [
-    "Yi 'JamYoung' Yang",
-    "Dongkai 'Jee' Ji",
-    "Jingxiang 'Mercury' Wang",
-    "Qianhao 'Moseyuh' Chen",
-    "Su 'Zero' Jingshen"
-   ]
-  },
-  {
-   "rank": 35,
-   "name": "5star",
-   "points": 49,
-   "players": [
-    "Uuganbayar 'NEUZ' Nyam-Otgon",
-    "Tengis 'rate' Boldbaatar",
-    "Gerelt-Od 'clouden' Jargal",
-    "Ariunjargal 'ariucle' Yadam",
-    "Dulguun 'hoolig4n' Batsaikhan"
-   ]
-  },
-  {
-   "rank": 36,
-   "name": "Lynn Vision",
-   "points": 48,
-   "players": [
-    "Zhe 'Westmelon' Niu",
-    "Sike 'z4KR' Zhang",
-    "Lizhi 'Starry' Ye",
-    "Junjie 'EmiliaQAQ' Tang",
-    "Qihao 'C4LLM3SU3' Su"
-   ]
-  },
-  {
-   "rank": 37,
-   "name": "JiJieHao",
-   "points": 45,
-   "players": [
-    "Hussein 'm1N1' Hijazi",
-    "Dionis 'sinnopsyy' Budeci",
-    "Bebu 'Bibu' Aadil",
-    "Aleksandar 'CacaNito' Kjulukoski",
-    "Osama '0SAMAS' Orabi"
-   ]
-  },
-  {
-   "rank": 38,
-   "name": "100 Thieves",
-   "points": 45,
-   "players": [
-    "Nicolai 'device' Reedtz",
-    "Håvard 'rain' Nygaard",
-    "Jack 'Gizmy' von Spreckelsen",
-    "William 'sirah' Kjærsgaard",
-    "Alex 'poiii' Nyholm Sundgren"
-   ]
-  },
-  {
-   "rank": 39,
-   "name": "Eternal Fire",
-   "points": 43,
-   "players": [
-    "Gareth 'MisteM' Ries",
-    "Iulian 'regali' Harjău",
-    "Caner 'soulfly' Kesici",
-    "Vladyslav 'Kvem' Korol",
-    "Samet 'jottAAA' Köklü"
-   ]
-  },
-  {
-   "rank": 40,
-   "name": "fnatic",
-   "points": 41,
-   "players": [
-    "Rodion 'fEAR' Smyk",
-    "Dmytro 'jambo' Semera",
-    "Nikita 'jackasmo' Skyba",
-    "Artem 'cairne' Mushynskyi",
-    "Volodymyr 'mazay' Iorhachov"
-   ]
-  },
-  {
-   "rank": 41,
-   "name": "DENDELE",
-   "points": 40,
-   "players": [
-    "Victor 'gafolo' Andrade",
-    "João 'koala' Pfeffer",
-    "Máximo 'maxxkor' Cortina",
-    "Daniel 'rdnzao' Monteiro",
-    "Danilo 'doc' Barros"
-   ]
-  },
-  {
-   "rank": 42,
-   "name": "HOTU",
-   "points": 40,
-   "players": [
-    "David 'n0rb3r7' Danielyan",
-    "Aidos 'kade0' Khairzhan",
-    "Dmitry 'mizu' Kondratev",
-    "Aleksandr 'dwushka' Pakhnevich",
-    "Kim 'frontales' Argunov"
-   ]
-  },
-  {
-   "rank": 43,
-   "name": "Nemesis",
-   "points": 39,
-   "players": [
-    "Ivan 'SELLTER' Miroshnikov",
-    "Evgeny 'r3salt' Frolov",
-    "Alemkhan 'mag1k3Y' Moldakamalov",
-    "Philipp 'tex1y' Moskvitin ",
-    "Daniil 'Sdaim' Tupov"
-   ]
-  },
-  {
-   "rank": 44,
-   "name": "K27",
-   "points": 37,
-   "players": [
-    "Timur 'clax' Sabirov",
-    "Daniil 'X5G7V' Maryshev",
-    "Aleksey 'xeedo' Mikulich",
-    "Danila 'kashl1d' Dronov",
-    "Daniil 'qw1nk1' Kabilov"
-   ]
-  },
-  {
-   "rank": 45,
-   "name": "SINNERS",
-   "points": 36,
-   "players": [
-    "Sebastian 'beastik' Daňo",
-    "Max 'SHOCK' Kvapil",
-    "Mădălin-Andrei 'MoDo' Mirea",
-    "Kamil 'kisserek' Banak",
-    "Jordan 'stressarN' Manevski"
-   ]
-  },
-  {
-   "rank": 46,
-   "name": "Wildcard",
-   "points": 35,
-   "players": [
-    "Nemanja 'nEMANHA' Đukić",
-    "Danny 'Cxzi' Strzelczyk",
-    "Ethan 'reck' Serrano",
-    "Jadan 'HexT' Postma",
-    "Sebastian 'fr3nd' Kuśmierz"
-   ]
-  },
-  {
-   "rank": 47,
-   "name": "BBL",
-   "points": 30,
-   "players": [
-    "Oliver 'IceBerg' Berg",
-    "Jason 'salazar' Salazar",
-    "Jamie 'leakz' Bugge West Jensen",
-    "Jonas 'Boye' Boye Østergaard",
-    "Nicky 'NickyB' Bruhn"
-   ]
-  },
-  {
-   "rank": 48,
-   "name": "Sangal",
-   "points": 29,
-   "players": [
-    "Adam 'adamS' Marian",
-    "Bartosz 'bnox' Niebisz",
-    "Luka 'puuha' Eklund",
-    "Selman 'R4DYX' Ozan",
-    "Yeray 'Joey' Serrano Pérez"
-   ]
-  },
-  {
-   "rank": 49,
-   "name": "FOKUS",
-   "points": 28,
-   "players": [
-    "Erik 'ztr' Gustafsson",
-    "Matias 'Banjo' Kivistö",
-    "Paavo 'podi' Heiskanen",
-    "Jacob 'jocab' Nerheden",
-    "Mateo 'Matheos' Prišlin"
-   ]
-  },
-  {
-   "rank": 50,
-   "name": "EYEBALLERS",
-   "points": 23,
-   "players": [
-    "Jesper 'JW' Wecksell",
-    "Freddy 'KRIMZ' Johansson",
-    "Max 'maxster' Jansson",
-    "Kalle 'Ro1f' Johansson",
-    "Sebastian 'dex' Samuelsson"
-   ]
-  },
-  {
-   "rank": 51,
-   "name": "Imperial",
-   "points": 21,
-   "players": [
-    "Marcelo 'chelo' Cespedes",
-    "Vinicius 'VINI' Figueiredo",
-    "Lucas 'decenty' Bacelar",
-    "Kaiky 'noway' Santos",
-    "Guilherme 'saadzin' Pacheco"
-   ]
-  },
-  {
-   "rank": 52,
-   "name": "Metizport",
-   "points": 20,
-   "players": [
-    "Peter 'stanislaw' Jarguz",
-    "Nicolas 'Plopski' Gonzalez Zamora",
-    "Maciej 'F1KU' Miklas",
-    "David 'forsyy' Bílý",
-    "Liam 'MaiL09' Tügel"
-   ]
-  },
-  {
-   "rank": 53,
-   "name": "Virtus.pro",
-   "points": 20,
-   "players": [
-    "Nikolay 'mir' Bityukov",
-    "Vladimir 'b1st' Krasikov",
-    "Dias 'F0R3VER' Kutubay",
-    "Aleksandr 'AquaRS' Kovalev",
-    "Vadim 'tO0RO' Arkov"
-   ]
-  },
-  {
-   "rank": 54,
-   "name": "Nuclear TigeRES",
-   "points": 20,
-   "players": [
-    "Arseniy 'senka' Kozlovsky",
-    "Evgeny 'Djon8' Mudrenov",
-    "Ilya 'flouzer' Selifonov",
-    "Egor 'ayuki' Ershov",
-    "Kamil 'tronic' Shakhov "
-   ]
-  },
-  {
-   "rank": 55,
-   "name": "Color",
-   "points": 18,
-   "players": [
-    "Vladislav 'lattykk' Vydrin",
-    "Nikita 'reyoz' Rolzing",
-    "Kirill 'cronuss' Savin",
-    "Alexandr 'oz1k' Sevastyanov"
-   ]
-  },
-  {
-   "rank": 56,
-   "name": "ex-Zero Tenacity",
-   "points": 17,
-   "players": [
-    "Vladan 'Kind0' Mandic",
-    "Nikola 'Dragon' Boskovic",
-    "Vladan 'VLDN' Radević",
-    "Andrej 'Cjoffo' Šarac",
-    "Adin 'brutmonster' Husić"
-   ]
-  },
-  {
-   "rank": 57,
-   "name": "Iberian Soul",
-   "points": 17,
-   "players": [
-    "Alejandro 'alex' Masanet",
-    "Alejandro 'mopoz' Fernández-Quejo Cano",
-    "Pere 'sausol' Solsona Saumell",
-    "David 'dav1g' Granado Bermudo"
-   ]
-  },
-  {
-   "rank": 58,
-   "name": "Voca",
-   "points": 17,
-   "players": [
-    "Edgar 'MarKE' Maldonado",
-    "Paytyn 'junior' Johnson",
-    "Carson 'nosraC' O'Reilly",
-    "Derek 'dare' Brown",
-    "Wyatt 'snav' Phillippi"
-   ]
-  },
-  {
-   "rank": 59,
-   "name": "Fluxo",
-   "points": 17,
-   "players": [
-    "Raphael 'exit' Lacerda",
-    "David 'dav1deuS' Tapia Maldonado",
-    "Romeu 'zevy' Rocco",
-    "Kayke 'kye' Bertolucci",
-    "João 'Ltz' Bonetti"
-   ]
-  },
-  {
-   "rank": 60,
-   "name": "ShindeN",
-   "points": 16,
-   "players": [
-    "Tomas 'tom1jed' Rivero",
-    "Matias 'abizz' Muñiz Cusi",
-    "Ivan 'ivz' Quintana",
-    "Nazareno 'naz' Romero",
-    "Lautaro 'guty' Gomez"
-   ]
-  },
-  {
-   "rank": 61,
-   "name": "SAW",
-   "points": 15,
-   "players": [
-    "Christopher 'MUTiRiS' Fernandes",
-    "Filipe 'NOPEEj' Dias",
-    "João 'story' Vieira",
-    "Michel 'ewjerkz' Pinto",
-    "Adones 'krazy' Nobre"
-   ]
-  },
-  {
-   "rank": 62,
-   "name": "BET-M",
-   "points": 15,
-   "players": [
-    "Konstantin 'Raijin' Trubarov",
-    "Danyyl 'synyx' Mazur",
-    "Pavel 'z1Nny' Prokopiev",
-    "Ilya 'executor' Weber",
-    "Lubsan 'bluewh1te' Mulonov"
-   ]
-  },
-  {
-   "rank": 63,
-   "name": "UPGRADE",
-   "points": 14,
-   "players": [
-    "Artur 'dezl3bio' Gorbunov",
-    "Maxim 'SquEzxc' Grebenko",
-    "Artur 'pleynnn' Syzdykov",
-    "Aliaksei 'tw1sterzaza' Mukhin",
-    "Daniil 'DAN9ARMATURA' Glotov"
-   ]
-  },
-  {
-   "rank": 64,
-   "name": "Black Phoenix",
-   "points": 14,
-   "players": [
-    "Daniils '4X1s' Jaciks",
-    "Ernest 'karnez' Kazakov",
-    "Evgenii 'topo' Lopatin",
-    "Valeriy 'MRcreed' Khrustalev",
-    "Kirill 'Salazar' Rautskiy"
-   ]
-  },
-  {
-   "rank": 65,
-   "name": "Betclic",
-   "points": 14,
-   "players": [
-    "Patryk 'Demho' Tomaszewski",
-    "Wojciech 'Prism' Zięba",
-    "Mateusz 'ex1st' Witman",
-    "Roland 'ultimate' Tomkowiak",
-    "Konrad 'Qlocuu' Klocek"
-   ]
-  },
-  {
-   "rank": 66,
-   "name": "INOX Division",
-   "points": 14,
-   "players": [
-    "Matvey 'k0s' Abramov ",
-    "Ilya 'FenomeN' Kolodko",
-    "Nikita 'k1slll' Kuzminov",
-    "Aleksandr 'finW' Potapov",
-    "Arseniy 'gooddeph' Ponomarev"
-   ]
-  },
-  {
-   "rank": 67,
-   "name": "Galorys",
-   "points": 13,
-   "players": [
-    "Vinicios 'PKL' Coelho",
-    "Lucas 'destiny' Bullo",
-    "Patrick 'detr0ittJ' Carvalho",
-    "Gabriel 'gbb' Pereira",
-    "Moisés 'tomate' Lima"
-   ]
-  },
-  {
-   "rank": 68,
-   "name": "BC.Game",
-   "points": 13,
-   "players": [
-    "Oleksandr 's1mple' Kostyliev",
-    "Emil 'Magisk' Reif",
-    "Tyson 'asap' Paterson",
-    "Azbayar 'Senzu' Munkhbold",
-    "Ayush 'mzinho' Batbold"
-   ]
-  },
-  {
-   "rank": 69,
-   "name": "SportsBetExpert",
-   "points": 12,
-   "players": [
-    "Ian 'motm' Hardy",
-    "Gage 'Infinite' Green",
-    "Kevin 'consti' Yi",
-    "Shane 'shane' Dressler",
-    "Jaxon 'Peeping' Cornwell"
-   ]
-  },
-  {
-   "rank": 70,
-   "name": "FORZE Reload",
-   "points": 12,
-   "players": [
-    "Viktor 'Lack1' Boldyrev",
-    "Vadim 'YumsaN' Toropynin",
-    "Eduard 'Kaide' Tatarinov",
-    "Vladislav 'KusMe' Dmitriev",
-    "Kirill 'HeCkBNk' Tretyakov"
-   ]
-  },
-  {
-   "rank": 71,
-   "name": "INFINITE",
-   "points": 12,
-   "players": [
-    "Rasmus 'kreaz' Johansson",
-    "Raul 'Blytz' Gligor",
-    "Sebastian 'volt' Maloș",
-    "Henrich 'sl3nd' Hevesi"
-   ]
-  },
-  {
-   "rank": 72,
-   "name": "Bushido Wildcats",
-   "points": 12,
-   "players": [
-    "Ahmet 'Darendeli' Şengül",
-    "Valeriy 'Muk0s' Mukovnin",
-    "Orhan 'Vej' Yunus Hamarat",
-    "Kadir 'cadnyx' Tuncay",
-    "Mert 'cacan' Cacan"
-   ]
-  },
-  {
-   "rank": 73,
-   "name": "BESTIA",
-   "points": 11,
-   "players": [
-    "André 'drop' Abreu",
-    "Kaue 'kauez' Kaschuk",
-    "Cássio 'cass1n' Santos",
-    "Nicolás 'buda' Kramer",
-    "Cristhian 'timo' Perez"
-   ]
-  },
-  {
-   "rank": 74,
-   "name": "Bounty Hunters",
-   "points": 11,
-   "players": [
-    "Gabriel 'ponter' Amaral",
-    "Gianfranco 'KAISER' Pantano",
-    "Mauro 'zock' Da Silva",
-    "Lucas 'urban0' Urbano",
-    "Pedro 'pepe' Almeida"
-   ]
-  },
-  {
-   "rank": 75,
-   "name": "FlyQuest",
-   "points": 11,
-   "players": [
-    "Justin 'jks' Savage",
-    "Alistair 'aliStair' Johnston",
-    "Joshua 'INS' Potter",
-    "Declan 'Vexite' Portelli",
-    "Corey 'nettik' Browne"
-   ]
-  },
-  {
-   "rank": 76,
-   "name": "EAC",
-   "points": 11,
-   "players": [
-    "Frederik 'Fessor' Sørensen",
-    "Mikkel 'n1Xen' Borlund",
-    "Andreas 'anber' Brandt",
-    "Simon 'sSen' Solnæs Iversen",
-    "Tobias 'bekker' Bekker"
-   ]
-  },
-  {
-   "rank": 77,
-   "name": "ex-RUSTEC",
-   "points": 10,
-   "players": [
-    "Aleksandr 'shalfey' Marenov",
-    "Alexander 'Brilliance' Vysotsky",
-    "Anatoliy 'youka' Aprosimov",
-    "Ilya 'jakekeS' Sukhoparov"
-   ]
-  },
-  {
-   "rank": 78,
-   "name": "UNiTY",
-   "points": 10,
-   "players": [
-    "Martin 'Dytor' Handl",
-    "Simon 'KWERTZZ' Horák",
-    "Ahmet '2high' Baftijari",
-    "Jakub 'M1key' Krausko",
-    "Timmy 'Sn0w' Brun"
-   ]
-  },
-  {
-   "rank": 79,
-   "name": "Johnny Speeds",
-   "points": 10,
-   "players": [
-    "William 'draken' Sundin",
-    "Hampus 'hampus' Poser",
-    "Leo 'Svedjehed' Svedjehed",
-    "Oliwer 'bsover' Ekbäck",
-    "Elias 'Rack' Karttunen"
-   ]
-  },
-  {
-   "rank": 80,
-   "name": "Inner Circle Academy",
-   "points": 10,
-   "players": [
-    "Volodymyr '3ippoch' Sivak",
-    "Rostyslav 'n0rths' Zhyvun",
-    "Dmytro 'NaYz' Khylchuk",
-    "Dmytro 'L1seYoung' Liebidynskii",
-    "Vladyslav 'Tamefear' Yurchenko"
-   ]
-  },
-  {
-   "rank": 81,
-   "name": "Without a Roof",
-   "points": 10,
-   "players": [
-    "Timothy 'autimatic' Ta",
-    "Jake 'Stewie2K' Yip",
-    "Vincent 'Brehze' Cayonte",
-    "Tsvetelin 'CeRq' Dimitrov",
-    "Justin 'FaNg' Coakley"
-   ]
-  },
-  {
-   "rank": 82,
-   "name": "Marsborne",
-   "points": 10,
-   "players": [
-    "Adam 'freshie' Paterson",
-    "Nick 'nicx' Lee",
-    "Adam 'Grizz' Golden",
-    "Bogdan 'ogwizard' Savula",
-    "Chance 'WUMBO' Boyer"
-   ]
-  },
-  {
-   "rank": 83,
-   "name": "PRIVATE",
-   "points": 10,
-   "players": [
-    "Aliaksandr '1eeR' Nahorny",
-    "Vladislav 'H4SAN4TOR' Tuchin",
-    "Maksim 'sowalio' Beketov",
-    "Maksim 'sh1nejezzz' Vinogradov",
-    "Timur 'z1k4' Askhadulin"
-   ]
-  },
-  {
-   "rank": 84,
-   "name": "BASEMENT BOYS",
-   "points": 10,
-   "players": [
-    "Bohdan 'kr1vda' Kryvda",
-    "Mykhailo 'OWNER' Lymar",
-    "Altair 'kAlash' Askarov",
-    "Egor 'Tr0ublE' Bulavin",
-    "Denis 'maggent' Kapinus"
-   ]
-  },
-  {
-   "rank": 85,
-   "name": "aimclub",
-   "points": 10,
-   "players": [
-    "Gabriel-Cosmin 'zewts' Letcanu",
-    "Cosmin 'ragga' Teodorescu",
-    "Mihnea 'mhN1' Gheață",
-    "Ersin 'ERSIN' Chiriac",
-    "Andrei 'waZz' Corneliu Lipoșteanu"
-   ]
-  },
-  {
-   "rank": 86,
-   "name": "9INE",
-   "points": 10,
-   "players": [
-    "Rasmus 'raalz' Steensborg",
-    "Tobias 'kraghen' Kragh Jensen",
-    "Maciej 'b1elany' Biliński",
-    "Alan 'flayy' Krupa",
-    "Emir 'rim3' Dönmez"
-   ]
-  },
-  {
-   "rank": 87,
-   "name": "Phantom",
-   "points": 9,
-   "players": [
-    "Thomas 'TMB' Bundsbæk",
-    "Nico 'nicoodoz' Tamjidi",
-    "Kamil 'KEi' Pietkun",
-    "Kacper 'Kylar' Walukiewicz",
-    "Jan 'cej0t' Dyl"
-   ]
-  },
-  {
-   "rank": 88,
-   "name": "NT",
-   "points": 9,
-   "players": [
-    "Volodymyr 'Woro2k' Veletniuk",
-    "Artem 'm4d4ra' Nikolskiy",
-    "Maksym 'ta9z' Hrytsai",
-    "Oleksandr 'La1roN' Byliakov",
-    "Yaroslav 'Ryuzak1' Yurchyk"
-   ]
-  },
-  {
-   "rank": 89,
-   "name": "Leo",
-   "points": 9,
-   "players": [
-    "Etienne 'drac' Salaün",
-    "Vladyslav 'leen' Stepanov",
-    "Kacper 'next1me' Parakowski",
-    "Julien 'Tarkky' Buzogany",
-    "Jakub 'aimy' Kleczkowski"
-   ]
-  },
-  {
-   "rank": 90,
-   "name": "CYBERSHOKE",
-   "points": 9,
-   "players": [
-    "Daniil 'alpha' Demin",
-    "Emil 'nota' Moskvitin",
-    "Alimzhan 'Alkaren' Bitimbay",
-    "Roman 'Mokuj1n' Petrushenko",
-    "Vladimir 'yiksrezo' Mitrofanov"
-   ]
-  },
-  {
-   "rank": 91,
-   "name": "Turma do Pagode",
-   "points": 9,
-   "players": [
-    "Adriano 'WOOD7' Cerato",
-    "Matheus 'Tuurtle' Anhaia",
-    "João 'naitte' Maia"
-   ]
-  },
-  {
-   "rank": 92,
-   "name": "LAG",
-   "points": 9,
-   "players": [
-    "Jonathan 'djay' Dallal",
-    "Matthew 'Cryptic' Whitmore",
-    "Brendan 'Bwills' Williams",
-    "Keller 'SLIGHT' Nilan",
-    "Justin 'Sandman' Saulle"
-   ]
-  },
-  {
-   "rank": 93,
-   "name": "RBLS",
-   "points": 9,
-   "players": [
-    "Renato 'stadodo' Gonçalves",
-    "Rafael 'arrozdoce' Wing",
-    "Diogo 'Icarus' Cruz",
-    "José 'Shr' Gil",
-    "António 'aragornN' Barbosa"
-   ]
-  },
-  {
-   "rank": 94,
-   "name": "Four Magic",
-   "points": 9,
-   "players": [
-    "Joris 'REL' Zavadskis",
-    "Fynn 'statikS' Szusdziara",
-    "Kristupas 'XADE' Augutis",
-    "Georgi 'GeGo' Gospodinov",
-    "Iclozan 'sensey' Eduard"
-   ]
-  },
-  {
-   "rank": 95,
-   "name": "6666",
-   "points": 9,
-   "players": [
-    "Denys 'amster' Liashenko",
-    "Oleksandr 'kL1o' Zakharchuk",
-    "Yurii 'rendysky' Halyshyn",
-    "Vadim 'skcH' Dedushkevich",
-    "Denis 'dENZY' Osipov"
-   ]
-  },
-  {
-   "rank": 96,
-   "name": "QUAZAR",
-   "points": 9,
-   "players": [
-    "Danil 'Porya' Poryadin",
-    "Dmitriy 'gehji' Popov",
-    "Artyom 'Ne1XXX' Borisov",
-    "Ilya 'newt' Voronov",
-    "Egor 'kaiori' Torzhkov"
-   ]
-  },
-  {
-   "rank": 97,
-   "name": "ASTRAL",
-   "points": 9,
-   "players": [
-    "Genc 'gxx-' Kolgeci",
-    "Oliwier 'swiz' Janus",
-    "Roland 'RaY5ive' Siminejev",
-    "Artjom 'Neqy' Sahnjuk",
-    "Aleksandrs 'meowpop' Berezjuks"
-   ]
-  },
-  {
-   "rank": 98,
-   "name": "GenOne",
-   "points": 9,
-   "players": [
-    "Nicolas 'Keoz' Dgus",
-    "Thomas 'Djoko' Pavoni",
-    "Hugo 'Brooxsy' Di Bono",
-    "Elyas 'bL4SEZ' Amiar"
-   ]
-  },
-  {
-   "rank": 99,
-   "name": "Glitch",
-   "points": 8,
-   "players": [
-    "Hubert 'szejn' Światły",
-    "Cristi 'smekk' Flutur",
-    "Kaloyan 'shaiK' Borisov",
-    "David 'Brillo' Lehrman",
-    "Rūdolfs 'rud' Osmanis"
-   ]
-  },
-  {
-   "rank": 100,
-   "name": "Prestige",
-   "points": 8,
-   "players": [
-    "Kristjan 'fejtZ' Allsaar",
-    "Olli 'oopee' Piispanen",
-    "Joel 'Jelo' Lentonen",
-    "Noah 'N4XX1S' Nielsen",
-    "Sander 'qx' Thomas"
-   ]
-  },
-  {
-   "rank": 101,
-   "name": "BAKS",
-   "points": 8,
-   "players": [
-    "Evgeny 'Norwi' Ermolin",
-    "Denis 'xdENiSZERA' Sklenin",
-    "Danil 'danistzz' Roslyakov",
-    "Gadel 'whisper' Galimullin",
-    "Artem 'turbo' Dobryshev"
-   ]
-  },
-  {
-   "rank": 102,
-   "name": "NEXVOID",
-   "points": 8,
-   "players": [
-    "Erdenetsogt 'erkaSt' Gantulga",
-    "Munkhtogtokh 'xerolte' Enkhbat",
-    "Temuulen 'MiQ' Byambadalai",
-    "Otgonlhagva 'AccuracyTG' Batjargal",
-    "Munkhsaikhan 'Zesta' Erdenebaatar"
-   ]
-  },
-  {
-   "rank": 103,
-   "name": "Fire Flux",
-   "points": 8,
-   "players": [
-    "Can 'Cizzx' Pars",
-    "Ali 'Quality' Furkan Avcı",
-    "Ubeyde 'zer0UKY' Yalçın",
-    "Eyüphan 'xEternaLxx' Büken",
-    "Semih 'zemix' Baykara"
-   ]
-  },
-  {
-   "rank": 104,
-   "name": "BRUTE",
-   "points": 8,
-   "players": [
-    "Jindřich 'ZEDKO' Chyba",
-    "Vít 'nbqq' Pohlot",
-    "Jane 'aidKiT' Apostoloski",
-    "Vilius 'tAk' Keserauskas",
-    "Oskar 'hfah' Wroński"
-   ]
-  },
-  {
-   "rank": 105,
-   "name": "Rare Atom",
-   "points": 8,
-   "players": [
-    "YuLun 'Summer' Cai",
-    "Andrew 'kaze' Khong",
-    "Junhao 'ChildKing' Peng",
-    "Yihang 'L1haNg' Li",
-    "Guoliang '3gl' Wang"
-   ]
-  },
-  {
-   "rank": 106,
-   "name": "mellren",
-   "points": 8,
-   "players": [
-    "Igor 'lollipop21k' Solodkov",
-    "Maxim 'menddel' Shved",
-    "Semyon 'mdl' Kuzmitski",
-    "Maxsim 'shootic' Bondarenko",
-    "Maksim 'Maksilvl' Makarov"
-   ]
-  },
-  {
-   "rank": 107,
-   "name": "HAVU",
-   "points": 8,
-   "players": [
-    "Samu 'uli' Leirilaakso",
-    "Aleksi 'Alxc' Lähevirta",
-    "Pekko 'p3kko' Korkalainen",
-    "Otto 'ottob' Virtanen",
-    "Juho '8Juho8' Kankaanpää"
-   ]
-  },
-  {
-   "rank": 108,
-   "name": "WBT",
-   "points": 8,
-   "players": [
-    "Alexandr 'Psycho' Zlobin",
-    "Oleksandr 'Smash' Turchyn",
-    "Kyrylo 's4ltovsk1yy' Lytvynov",
-    "Sergiy 'DemQQ' Demchenko",
-    "Maksym 'tyr1k' Tur"
-   ]
-  },
-  {
-   "rank": 109,
-   "name": "Spirit Academy",
-   "points": 7,
-   "players": [
-    "Vitaly 'VILBy' Zakharyuta",
-    "Kirill 'Kiryasoo' Solovkov",
-    "David 'Netrix' Kudziev",
-    "Nikita 's1nside' Besedin",
-    "Kirill 'k0gaSs' Emelyanov"
-   ]
-  },
-  {
-   "rank": 110,
-   "name": "WBT Academy",
-   "points": 7,
-   "players": [
-    "Daniil 'fl1peR' Salamakha",
-    "Mykhailo 'svemyy' Sverchkov",
-    "Kyryl 'marat2k' Samsoniuk",
-    "Andrii 'tired73' Hlushko",
-    "Darii 'NxStep' Stepovyi"
-   ]
-  },
-  {
-   "rank": 111,
-   "name": "INFURITY",
-   "points": 7,
-   "players": [
-    "Emil 'sirius' Standal",
-    "Bogdan 'CHANKY' Șerban",
-    "Tobias 'shyyne' Sæther",
-    "Slaven 'AwaykeN' Lyubenov",
-    "Tuomas 'oontoma' Karsikas"
-   ]
-  },
-  {
-   "rank": 112,
-   "name": "ENCE",
-   "points": 7,
-   "players": [
-    "Henri 'HENU' Ylilehto",
-    "Aleksi 'millert' Lehtopuu",
-    "Teemu 'teme' Korva",
-    "Giorgi 'Schwarz' Gakhokidze",
-    "Joe 'joeski' Holmes"
-   ]
-  },
-  {
-   "rank": 113,
-   "name": "LP",
-   "points": 7,
-   "players": [
-    "Leonardo 'zmb' Toledo",
-    "Alisson 'Alisson' Farias",
-    "Guilherme 'happ' Bento",
-    "Gustavo 'divine' Santicioli Altapini"
-   ]
-  },
-  {
-   "rank": 114,
-   "name": "Rune Eaters",
-   "points": 7,
-   "players": [
-    "Suleımen 'dukefissura' Orazaly",
-    "Assanali 'her1tage' Serikkali",
-    "Danial 'demente' Ismailov",
-    "Nursultan 'noni' Nyshanbek",
-    "Mustafa 'forkyz' Maulenkul"
-   ]
-  },
-  {
-   "rank": 115,
-   "name": "Misa",
-   "points": 7,
-   "players": [
-    "Ahmet 'cyber' Akpınar",
-    "Emrecan 'EMSTAR' Çalışkan",
-    "Hakan 'h0kz' Sarıçam",
-    "Zübeyir 'Zuedsta' Yıldırım",
-    "Aziz 'souv' Altinsoy"
-   ]
-  },
-  {
-   "rank": 116,
-   "name": "Chinggis Warriors",
-   "points": 7,
-   "players": [
-    "Chinguun 'hasteka' Bayarmaa",
-    "Tengis 'sk0R' Batjargal",
-    "Undrakhbayar 'ROUX' Zolbayar",
-    "Yalalt 'yAmi' Oyunbileg",
-    "Zolbayar 'tikuak' Chimedtseren"
-   ]
-  },
-  {
-   "rank": 117,
-   "name": "Lazer Cats",
-   "points": 7,
-   "players": [
-    "Nikita 'nikitea' Chakhovskiy",
-    "Maksym 'Magic' Melnychuk",
-    "Serhii 'Kiy0o' Savitskyi ",
-    "Denys 'tripex17' Haponov"
-   ]
-  },
-  {
-   "rank": 118,
-   "name": "Nordic Partners",
-   "points": 7,
-   "players": [
-    "Nils 'k1to' Gruhne",
-    "Mikkel 'Maze' Sparvath",
-    "Max 'Marix' Kugener",
-    "Ville 'myltsi' Vilkman",
-    "Maciej 'Muciek' Mordal"
-   ]
-  },
-  {
-   "rank": 119,
-   "name": "Procyon",
-   "points": 7,
-   "players": [
-    "Nicolás 'lenci' Lencinas",
-    "Eduardo 'laser' Chshekin",
-    "Matias 'pavv' Pavón",
-    "Maximiliano 'MaxOff' Elefanté",
-    "Fernando 'next' Garro"
-   ]
-  },
-  {
-   "rank": 120,
-   "name": "DEPO",
-   "points": 7,
-   "players": [
-    "Aleksandr 'SNk' Semkin",
-    "Timur 'buster' Tulepov",
-    "Vladislav 'Krad' Kravchenko",
-    "Amirbek 'wetfy' Timurov",
-    "Shoxjahon 'shoxs' Sultanbaev"
-   ]
-  },
-  {
-   "rank": 121,
-   "name": "Butterfly",
-   "points": 7,
-   "players": [
-    "Igor 'Forester' Bezotecheskiy",
-    "Nikita 'nitzie' Prokhorov",
-    "Sergey 'Kurama' Zhukovich",
-    "Dmitry 'k1ssly' Gostev",
-    "Ruslan 'ayano' Gutu"
-   ]
-  },
-  {
-   "rank": 122,
-   "name": "Lavked",
-   "points": 7,
-   "players": [
-    "Kirill 'sol' Simagin",
-    "Danila '1NVISIBLEE' Simagin",
-    "Aleksandr 'azukay' Makarov",
-    "Ivan 'xm1nd' Dragunov",
-    "Vladislav 'k4nfuz' Shilov"
-   ]
-  },
-  {
-   "rank": 123,
-   "name": "The Huns",
-   "points": 7,
-   "players": [
-    "Tuvshintugs 'Annihilation' Nyamdorj",
-    "Baatarkhuu 'Bart4k' Batbold",
-    "Unudelger 'controlez' Baasanjargal",
-    "Davaajargal 'bexyz' Bayarjargal"
-   ]
-  },
-  {
-   "rank": 124,
-   "name": "Noir Verse",
-   "points": 6,
-   "players": [
-    "Max 'Naginat' Basistyi",
-    "Elvinas 'Santuriano' Kovaliovas",
-    "Andrii 'kirxttu' Osinskyi",
-    "Nazar 'xeNji' Horbovyi",
-    "Yehor 'wh1temink' Hryhoriev"
-   ]
-  },
-  {
-   "rank": 125,
-   "name": "Acend",
-   "points": 6,
-   "players": [
-    "Teodor 'SPELLAN' Nikolov",
-    "Georgi 'SHiPZ' Grigorov",
-    "Hristiyan 'REDSTAR' Pironkov",
-    "Deyvid 'h4rn' Benchev",
-    "Dimitar 'Skrimo' Yanulov"
-   ]
-  },
-  {
-   "rank": 126,
-   "name": "PURE",
-   "points": 6,
-   "players": [
-    "Kristers 'keen' Dārznieks",
-    "Andreas 'aNdu' Maasing",
-    "Zahar 'Polbandana' Siledchyk",
-    "Dawid 'tein' Śladkowski"
-   ]
-  },
-  {
-   "rank": 127,
-   "name": "NAVI Junior",
-   "points": 6,
-   "players": [
-    "Samuel 'MahaR' Horáček",
-    "David 'FAZERY' Procházka",
-    "Novica 'skizzyee' Novkovikj",
-    "Danil 'yoki' Istomin",
-    "Nazar 'kodak' Buchma"
-   ]
-  },
-  {
-   "rank": 128,
-   "name": "PCIFIC",
-   "points": 6,
-   "players": [
-    "Berat 'jresy' Özcan",
-    "Tunahan 'scolleN' Coşkun",
-    "Baha 'lugseN' Emir Şengül",
-    "Yiğit 'oyesil' Güven Yeşil"
-   ]
-  },
-  {
-   "rank": 129,
-   "name": "ALKA",
-   "points": 6,
-   "players": [
-    "Pedro 'bnc' Mendes",
-    "Victor 'puni' Marques",
-    "Rodrigo 'proSHOW' Guluzian",
-    "Vinicius 'vinaabEAST' Santos",
-    "Diogo 'cerolzin' Terto"
-   ]
-  },
-  {
-   "rank": 130,
-   "name": "G2 Ares",
-   "points": 6,
-   "players": [
-    "Casper 'SHiNE' Wennerberg",
-    "Artur 'hitori' Palyants",
-    "Julius 'Junyme' Meyhoff",
-    "Juho 'yksjupe' Viitasalo "
-   ]
-  },
-  {
-   "rank": 131,
-   "name": "WW",
-   "points": 6,
-   "players": [
-    "Ermek 'enzero' Kartanbaev",
-    "Boris 'Ryujin' Kim",
-    "Ivan 'StRoGo' Shurpatov",
-    "Vladimir 'kelieN' Boldyrev",
-    "Timur 'm3wsu' Korenev"
-   ]
-  },
-  {
-   "rank": 132,
-   "name": "Sashi",
-   "points": 5,
-   "players": [
-    "Frederik 'acoR' Gyldstrand",
-    "Jordan 'Hatz' Bajic",
-    "Rasmus 'Zyphon' Nordfoss",
-    "Anton 'Anlelele' Huynh",
-    "Tynan 'TjP' Purtell"
-   ]
-  },
-  {
-   "rank": 133,
-   "name": "MTX",
-   "points": 5,
-   "players": [
-    "Danielius 'md262' Šnioka",
-    "Yehor 'EgorMercedes' Dobrodomov",
-    "Rostyslav 'frakenzor' Bielov",
-    "Arsenii 'sen1ar' Sydorenko"
-   ]
-  },
-  {
-   "rank": 134,
-   "name": "Illyrians",
-   "points": 5,
-   "players": [
-    "Serdar 'cerber' Mahmuti",
-    "Valon 'vAloN' Etemi",
-    "Bledar 'BledarD' Dula",
-    "Ammar 'ammar' Grashtica",
-    "Egzon 'xonn1k' Behluli"
-   ]
-  },
-  {
-   "rank": 135,
-   "name": "EAC EXTRA",
-   "points": 5,
-   "players": [
-    "Viktor 'Viggo' Simonsen",
-    "Mads 'GA1De' Nielsen",
-    "Lukas 'ETYYY' Vinder",
-    "Janus 'Fallis' Falden Lisbjerg"
-   ]
-  },
-  {
-   "rank": 136,
-   "name": "Alter Ego",
-   "points": 5,
-   "players": [
-    "Hansel 'BnTeT' Ferdinand",
-    "Saad 'PokemoN' Ahmad",
-    "Mārtiņš 'shadiy' Gūtmanis",
-    "Adelin 'adeX' Nica",
-    "Maks 'laxiee' Andryei"
-   ]
-  },
-  {
-   "rank": 137,
-   "name": "STATE",
-   "points": 5,
-   "players": [
-    "Oliver 'kwezz' Rasmussen",
-    "Jonas 'Queenix' Dideriksen",
-    "Alexander 'Altekz' Givskov",
-    "André 'Zanto' Christiansen",
-    "Emil 'sL1m3' Stolz"
-   ]
-  },
-  {
-   "rank": 138,
-   "name": "Drama",
-   "points": 5,
-   "players": [
-    "Andrija 'andr1x' Ljubić",
-    "Roberts 'Frip' Poļakovs",
-    "Filip 'DEPRESHN' Jarkić",
-    "Artem 'Chill' Mankevich",
-    "Ivan 'choiv7' Zivkovic"
-   ]
-  },
-  {
-   "rank": 139,
-   "name": "Ground Zero",
-   "points": 5,
-   "players": [
-    "Tom 'apocdud' Henry",
-    "Jared 'hazr' O'Bree",
-    "Kalan 'sliimey' Lorenzo",
-    "Jack 'Omichella' McLoughlin",
-    "Ethan 'vision' Holst"
-   ]
-  },
-  {
-   "rank": 140,
-   "name": "Overtake Sector",
-   "points": 5,
-   "players": [
-    "Fern 'intra' Hak",
-    "Israel 'LEARSI' Vargas",
-    "Jason 'jason' Garcia",
-    "Augustin 'corim' Morales"
-   ]
-  },
-  {
-   "rank": 141,
-   "name": "Vexar",
-   "points": 5,
-   "players": [
-    "Kirill 'datet' Turkov",
-    "Renat 'obsward' Smeters",
-    "Yaroslav 'KEEMBO' Gushcharin",
-    "Alexander 'ADntZ' Dontsov"
-   ]
-  },
-  {
-   "rank": 142,
-   "name": "Omega",
-   "points": 5,
-   "players": [
-    "Sanzhar 'def1zer' Talgat",
-    "Darkhan 'adai' Jeksenbai",
-    "Aldiyar 'Aldikon' Alim",
-    "Zhassulan 'Botpa1' Assembek",
-    "Damir 'dan4o' Kulshenbayev"
-   ]
-  },
-  {
-   "rank": 143,
-   "name": "SAW Youngsters",
-   "points": 5,
-   "players": [
-    "Miguel 'M1KA' Moreira",
-    "Daniel 'tuxa' Esteves",
-    "Guilherme 'snowiee' Martins",
-    "Gonçalo 'Jayy2s' Machado",
-    "Rodrigo 'jERK0z' Costa"
-   ]
-  },
-  {
-   "rank": 144,
-   "name": "Honvéd",
-   "points": 5,
-   "players": [
-    "Balázs 'iBALLY' Török",
-    "Dominik '1NSERT2' Gerencsér",
-    "Alexander 'esor' Tóth",
-    "Nolen 'noleN' Vida",
-    "Martin 'marTineZ' Vers"
-   ]
-  },
-  {
-   "rank": 145,
-   "name": "Just Players",
-   "points": 5,
-   "players": [
-    "Vladislav 'h1te' Khait",
-    "Matvey 'sm3t' Gogin",
-    "Dmitry 'sstiNiX' Khlebnikov",
-    "Valeriy 'Temny Prince' Kim"
-   ]
-  },
-  {
-   "rank": 146,
-   "name": "MOUZ NXT",
-   "points": 5,
-   "players": [
-    "Denis 'deeN' Adamovich",
-    "Maksims 'ay0k' Beloglazovs ",
-    "Nikolai 'Nikodeon'  Sørensen",
-    "Sacha 'eSx' Dupin",
-    "Mikołaj 'mixer' Zhu"
-   ]
-  },
-  {
-   "rank": 147,
-   "name": "HYPERSPIRIT",
-   "points": 5,
-   "players": [
-    "Daniel-Cătălin 'Ciocardau' Purice",
-    "Marcus 'Q-Q' Krolak-Henriksen",
-    "Tudor 'd1maje' Aparaschivei",
-    "Gyorfy 'starplajerz' Gabriel",
-    "Rasmus 'Scr0b' Poulsen"
-   ]
-  },
-  {
-   "rank": 148,
-   "name": "Desi Boyz",
-   "points": 5,
-   "players": [
-    "Khizar 'Momo' Rehman",
-    "Mustafa 'Shooter' Kamal",
-    "Saad 'Pluto' Siraj",
-    "Mason 'mason' Watkins",
-    "Taqi 'Taqi' Merchant"
-   ]
-  },
-  {
-   "rank": 149,
-   "name": "Walczaki",
-   "points": 5,
-   "players": [
-    "Kamil 'reiko' Cegiełko",
-    "Wojciech 'bajmi' Strzelczyk",
-    "Patryk 'olimp' Woźniak",
-    "Rafał 'sNx' Snopek"
-   ]
-  },
-  {
-   "rank": 150,
-   "name": "LPH",
-   "points": 5,
-   "players": [
-    "Dávid 'lojzo' Jurík",
-    "Radim 'KAD1M' Vojkůvka",
-    "Nicolas 'N1KOLAJ' Leško",
-    "Dominik 'd0mZ1k' Zikmund",
-    "Pavel 'Fajr' Tůma"
-   ]
-  },
-  {
-   "rank": 151,
-   "name": "FaZe Up Next",
-   "points": 5,
-   "players": [
-    "Gert 'klyrO' Truupõld",
-    "Alan 'yoom' Groot",
-    "Antal 'Cher1on' Lubbers",
-    "Denys 'rec1se' Melnyk",
-    "Stefan 'k0rdy' Trudic"
-   ]
-  },
-  {
-   "rank": 152,
-   "name": "Falcons Force",
-   "points": 5,
-   "players": [
-    "Sindre 'Tapewaare' Ellefsen",
-    "Vladimir 'VENO' Stankovic",
-    "Andrei 'grecu' Grecu",
-    "Oskar 'clockzi' Led Blæsbjerg",
-    "Matej 'NucleonZ' Trajkoski"
-   ]
-  },
-  {
-   "rank": 153,
-   "name": "Famalicão",
-   "points": 5,
-   "players": [
-    "Paulo 'pr' Silva",
-    "Diogo 'snapy' Rodrigues",
-    "Rafael 'rafaxF' Faria",
-    "David 'P3R3IIRA' Pereira",
-    "João 'seabraez' Seabra"
-   ]
-  },
-  {
-   "rank": 154,
-   "name": "Kaleido",
-   "points": 5,
-   "players": [
-    "Qingsong 'SPine' Long",
-    "Hao 'rage' Yu",
-    "Ran 'chuzhongT' Song",
-    "JiaZhi 'expSasiKi' Cai",
-    "Guanshen 'suki' Wang"
-   ]
-  },
-  {
-   "rank": 155,
-   "name": "Optibet",
-   "points": 4,
-   "players": [
-    "Oskars 'cgk' Jaunslavietis",
-    "Ralfs 'ChipaaN' Čipāns",
-    "Domas 'dod02k' Streižys",
-    "Mark 'whiplash1' Bernštein",
-    "Eduards 'OXFROG' Jumis"
-   ]
-  },
-  {
-   "rank": 156,
-   "name": "Yawara",
-   "points": 4,
-   "players": [
-    "Bruno 'brn$' de Araújo",
-    "Jonatan 'j0w' Sperotto",
-    "Iago 'deemO' Henrique",
-    "Vinicius 'tele' Morozini"
-   ]
-  },
-  {
-   "rank": 157,
-   "name": "ABT",
-   "points": 4,
-   "players": [
-    "Pedro 'BeiranZz' Santos",
-    "Rui 'Ruy2k' Araujo",
-    "Antonio 'ThozoR' Ramos",
-    "Diogo 'hK' Mancilha",
-    "Alexandre 'blaze' Alves"
-   ]
-  },
-  {
-   "rank": 158,
-   "name": "REVENIX",
-   "points": 4,
-   "players": [
-    "Artem 'f0rtuna' Shestun",
-    "Vladyslav 'petroWUR' Skebalo",
-    "Maksym 'sickaf' Zhuchko"
-   ]
-  },
-  {
-   "rank": 159,
-   "name": "Nexus",
-   "points": 4,
-   "players": [
-    "Roberts 'shield' Tipsis",
-    "Mihai 'fNk' Costache",
-    "Alexandru 's0und' Ștefan",
-    "Bram 'Nexius' Campana",
-    "Radu 'HOLY' Vrânceanu"
-   ]
-  },
-  {
-   "rank": 160,
-   "name": "Revise",
-   "points": 4,
-   "players": [
-    "Oleg 'SuNFiX' Ataulin",
-    "Denys 's1ssi' Shchebitchenko",
-    "Vitalii 'WaSdyy' Kolos",
-    "Egor 'kanode' Yurchenko",
-    "Nikolay 'nikson' Suvorov"
-   ]
-  },
-  {
-   "rank": 161,
-   "name": "QUINTESSÊNCIA",
-   "points": 4,
-   "players": [
-    "João 'n0page' Vasconcelos",
-    "Eduardo 'edv' Vieira",
-    "Pedro 'FasteR' Carriel Asato",
-    "Jonathan 'prozinszsz' Palaoro",
-    "Caio 'cz1k4' Araújo"
-   ]
-  },
-  {
-   "rank": 162,
-   "name": "benched gods",
-   "points": 4,
-   "players": [
-    "Aleksandr 'Wign' Petrov",
-    "Nikolay 'K014NZ' Glushnev",
-    "Vyacheslav 'facer' Grudin",
-    "Maxim 'norescue' Shashkin",
-    "Daniil 'yoyoS2' Abuladze"
-   ]
-  },
-  {
-   "rank": 163,
-   "name": "Chicken Coop",
-   "points": 4,
-   "players": [
-    "Kyle 'Wolffe' Greenfield",
-    "Evindar 'Drop' Isik",
-    "Mark 'stesso' Sørensen",
-    "Jared 'jared' Habib",
-    "Chad 'Crisp' Bredeson"
-   ]
-  },
-  {
-   "rank": 164,
-   "name": "Spirit Academy Green",
-   "points": 4,
-   "players": [
-    "Evgeniy 'hyp3else' Kornelyuk",
-    "Danylo 'd3nks' Kurta",
-    "Gleb 'maun' Lukashev",
-    "Kirill 'flytex' Skazhutin",
-    "Rakov 'sae' Lev"
-   ]
-  },
-  {
-   "rank": 165,
-   "name": "Abyssal",
-   "points": 4,
-   "players": [
-    "Sharvesh 'dangeR' Saravanan",
-    "Marvin 'Forleks' Tran",
-    "Jye 'zune' Pollock",
-    "Julian 'vinhy' Dinh-Vu",
-    "Ozzy 'blood' Rose"
-   ]
-  },
-  {
-   "rank": 166,
-   "name": "The Last Resort",
-   "points": 4,
-   "players": [
-    "Tom 'arTisT' Clarke",
-    "Matas 'Extinct' Strumila",
-    "Callum 'Girafffe' Jones",
-    "James 'bevve' Slinn",
-    "Mason 'Vacancy' Haines"
-   ]
-  },
-  {
-   "rank": 167,
-   "name": "KUUSAMO",
-   "points": 4,
-   "players": [
-    "Niklas 'rbm' Nieminen",
-    "Matti 'Matz' Alatalo",
-    "Oskari 'osku' Pulkkinen",
-    "Elias 'epik' Kyllönen",
-    "Lucas 'Keksimage' Kuntsi"
-   ]
-  },
-  {
-   "rank": 168,
-   "name": "Phantom Academy",
-   "points": 4,
-   "players": [
-    "Oliwier 'Brain47' Dychus",
-    "Aleksy 'Ayteel' Landas",
-    "Jakub 'Kunai' Gieremek",
-    "Mykola 'kalyambys' Skumin"
-   ]
-  },
-  {
-   "rank": 169,
-   "name": "GENESIS",
-   "points": 4,
-   "players": [
-    "Kaspar 'kapa' Koddala",
-    "Egert 'Cuba' Arujõe",
-    "Maksimilian 'M4rdik' Piljavets",
-    "Aleksander 'Kirikuõpetaja' Raudla",
-    "Sten-Artti 'neaQ' Prans"
-   ]
-  },
-  {
-   "rank": 170,
-   "name": "Enjoy",
-   "points": 4,
-   "players": [
-    "Maksim 'kurosa' Sergeev",
-    "Oleg 'sh1geo' Stasenko",
-    "Roman 'roxesz' Petrov",
-    "Maksim 'zazzer' Akulov",
-    "Grigoriy 'nbl' Sherchenkov"
-   ]
-  },
-  {
-   "rank": 171,
-   "name": "Iowa Stormboar",
-   "points": 4,
-   "players": [
-    "Ty 'TyRa' Aron",
-    "William 'aelor' Africano",
-    "Brett 'Scorchyy' Coolen",
-    "Noah 'false' Richardson"
-   ]
-  },
-  {
-   "rank": 172,
-   "name": "BESTIA Academy",
-   "points": 4,
-   "players": [
-    "João 'Jotag3' Gabriel",
-    "Lucas 'lezy' da Silva Mota",
-    "Facundo 'F4QQ' Rivas",
-    "Fellipe 'Lekzi' Geraldi",
-    "Agustín 'agt' Gonzalez"
-   ]
-  },
-  {
-   "rank": 173,
-   "name": "MAYBE",
-   "points": 4,
-   "players": [
-    "Oleksandr 'zogeN' Baranyshyn",
-    "Eduard 'edixenn' Liubchenko",
-    "Denys 'thirtythird' Tabaka",
-    "Zahar 'Awi4' Vutkevych",
-    "Oleksandr 'shallthing' Vladov"
-   ]
-  },
-  {
-   "rank": 174,
-   "name": "Rooster",
-   "points": 4,
-   "players": [
-    "Michael 'chelleos' Hawkins",
-    "Jordan 'SkulL' Newland",
-    "Akram 'ADK' Smida",
-    "Daniel 'rekonz' Mort",
-    "Damon 'damyo' Portelli"
-   ]
-  },
-  {
-   "rank": 175,
-   "name": "Ryvex",
-   "points": 3,
-   "players": [
-    "Kyle 'swaggy' Wilson",
-    "Jérémy 'jeyN' Nguyen",
-    "Dragos 'N0R1' Negrea",
-    "Oskar 'oskvr' Myszka",
-    "William 'wfn' Maskrey"
-   ]
-  },
-  {
-   "rank": 176,
-   "name": "EMPIRE",
-   "points": 3,
-   "players": [
-    "Colby 'Walco' Walsh",
-    "Kamron 'kmrn' Manii",
-    "Nicolas 'C0C0' Nassoura",
-    "Anthony 'ayaneuu' Scheuer",
-    "Kaan 'BAGEL' Demircan"
-   ]
-  },
-  {
-   "rank": 177,
-   "name": "Entropy",
-   "points": 3,
-   "players": [
-    "Anton 'dottie' Alevärn",
-    "Adam 'flaw' Gustafsson",
-    "Lucas 'L00m1' Haukland",
-    "Theodor 'tevsii' Strand Vahlberg"
-   ]
-  },
-  {
-   "rank": 178,
-   "name": "Just Swing",
-   "points": 3,
-   "players": [
-    "Yi 'gas' Ding",
-    "WenYao 'Purely' Zhong",
-    "Ivan 'qqGOD' Ivlev",
-    "YiHeng 'sATOR1' Wang",
-    "Hao 'skrr' Shifeng"
-   ]
-  },
-  {
-   "rank": 179,
-   "name": "BORRACHEIROS",
-   "points": 3,
-   "players": [
-    "Felipe 'fl4sh' Porfirio",
-    "Pedro 'zock9' Muzzio",
-    "Isaac 'neozix' Bruce",
-    "Vinícius 'trindade' Trindade",
-    "Cauã 'Lacerda' Alitolip"
-   ]
-  },
-  {
-   "rank": 180,
-   "name": "Vitalem Aerem",
-   "points": 3,
-   "players": [
-    "Liu 'lan' Qi",
-    "XueBing 'B1NGO' Dai",
-    "Peng 'Roninbaby' Xu",
-    "Junchi 'BZA' Yang",
-    "Yulun 'rain' Wu"
-   ]
-  },
-  {
-   "rank": 181,
-   "name": "LFO 8",
-   "points": 3,
-   "players": [
-    "Ming 'Mingovi' O'mallon",
-    "Gerard 'Supers' Ostini",
-    "Zachary 'Zoot' Wicks",
-    "Cameron 'c4put' Head",
-    "Junn 'junn' Ming Tang"
-   ]
-  },
-  {
-   "rank": 182,
-   "name": "5dads",
-   "points": 3,
-   "players": [
-    "Matthew 'SWANKY' McDonald",
-    "Adem 'nope' Ismail",
-    "Hugo 'Oath' Correia",
-    "Kalem 'pufnstuf' Ford",
-    "Taine 'tajne' Hunter"
-   ]
-  },
-  {
-   "rank": 183,
-   "name": "Young TigeRES",
-   "points": 3,
-   "players": [
-    "Timofey 'Gashhhi4' Glushkov",
-    "Aleksei 'z3ndy' Meltsov",
-    "Matvei 'motya' Rostovshikov"
-   ]
-  },
-  {
-   "rank": 184,
-   "name": "A Great Chaos",
-   "points": 3,
-   "players": [
-    "Artur 'ynrii' Atrushkevich",
-    "Rolands 'Pleb0rs' Tihomirovs",
-    "Aleksandr 'R1N7331' Tananayko",
-    "Kristers 'whitezins' Rumjancev",
-    "Daniil 's1mbalance' Zubovits"
-   ]
-  },
-  {
-   "rank": 185,
-   "name": "Saint Sinners",
-   "points": 3,
-   "players": [
-    "Arlind 'deb0' Sadiku",
-    "Ensar 'Caleyy' Ersuzi",
-    "Pavel 'pavlysha666' Shafranski",
-    "Ilya 'halfjix' Pogodin",
-    "Ilya 'iRV1NG' Rusin"
-   ]
-  },
-  {
-   "rank": 186,
-   "name": "Isurus",
-   "points": 3,
-   "players": [
-    "Marcos 'deco' Amato",
-    "Joaquin 'atarax1a' Biglieri",
-    "Leandro 'Hezz' Barrios",
-    "Santiago 'rzk' Pucheta",
-    "Matteo 'dott1' Dotti"
-   ]
-  },
-  {
-   "rank": 187,
-   "name": "MASONIC",
-   "points": 3,
-   "players": [
-    "Johannes 'b0RUP' Borup",
-    "Kristian 'kralle' Jensen",
-    "Jonas 'Bukhavez' Vestergaard",
-    "Niklas 'Botman' Vestergaard",
-    "Alexander 'Slexa' Marrup"
-   ]
-  },
-  {
-   "rank": 188,
-   "name": "FarmVille",
-   "points": 3,
-   "players": [
-    "Stanley 'calamity' Chiu",
-    "Ezekiel 'KmZ' Hughes",
-    "Bradley 'Slugy' Kohler",
-    "Brody 'BeaKie' Kelly",
-    "Ethan 'Signal' Riley"
-   ]
-  },
-  {
-   "rank": 189,
-   "name": "Nas",
-   "points": 3,
-   "players": [
-    "Ke 'Biuckmt' Liu",
-    "Jianqi 'Mirorr' Zhai",
-    "Zheming 'p5p' Cui",
-    "Jinwen 'Mort1s' Hu",
-    "Runze 'Corazz' Xv"
-   ]
-  },
-  {
-   "rank": 190,
-   "name": "Olympus",
-   "points": 3,
-   "players": [
-    "Viacheslav 'relan' Harmatiuk",
-    "Anton 'Bizarre666' Kralichkin",
-    "Yevhenii 'k6rdon' Zavodiuk",
-    "Oleh 'awayy' Slobodian",
-    "Andrii 'Sanzh1k33' Drobotia"
-   ]
-  },
-  {
-   "rank": 191,
-   "name": "Azuolas",
-   "points": 3,
-   "players": [
-    "Armandas 'maty' Kneita",
-    "Ernestas 'yakuza' Veržinskis",
-    "Matas 'MAGILA' Magila",
-    "Aleksandras 'StreakN' Kantminas"
-   ]
-  },
-  {
-   "rank": 192,
-   "name": "BERG",
-   "points": 3,
-   "players": [
-    "Marc 'Askan' Deterding",
-    "Jacob 'Rezst' Hemming",
-    "Bogdan 'kdaN' Krkić",
-    "Filip 'KiMaRR' Sokolov",
-    "Mladjan 'nopzy' Mamojka"
-   ]
-  },
-  {
-   "rank": 193,
-   "name": "ex-Arcade",
-   "points": 3,
-   "players": [
-    "Aron 'N1ghtraid' Dang",
-    "Nathan 'Mechanical' Scott",
-    "Jae '74LOR' Webb",
-    "Michael 'Kras' Krasnoff"
-   ]
-  },
-  {
-   "rank": 194,
-   "name": "megoshort",
-   "points": 3,
-   "players": [
-    "Aleksandar 'jayzaR' Zarkovic",
-    "Hugo 'zen' Lindhqvist",
-    "Elias 'Twinkey' Kjellander-Dehman"
-   ]
-  },
-  {
-   "rank": 195,
-   "name": "Finishers",
-   "points": 3,
-   "players": [
-    "Jake 'ju1ces' Hennessy",
-    "Chris 'vanilla' Swart",
-    "Aryan 'ELFMELK' Ergin",
-    "Vitaliy 'SaFeR' Larwood"
-   ]
-  },
-  {
-   "rank": 196,
-   "name": "DETONATE",
-   "points": 3,
-   "players": [
-    "Timothy 'carN' Adams",
-    "Milan 'CrePoW' Libbrecht",
-    "Matthew 'tatm' Munro",
-    "Austin 'chante' Ganster"
-   ]
-  },
-  {
-   "rank": 197,
-   "name": "NEW VISION",
-   "points": 3,
-   "players": [
-    "Dmitriy 'fen2k' Gladskikh",
-    "Yaroslav 'wonimo' Tsyprinskiy",
-    "Serghei 'hahanz0' Ulinov",
-    "Nikita 'w0l33n' Shamin",
-    "Matvei 'x1nk1n' Chadromtsev"
-   ]
-  },
-  {
-   "rank": 198,
-   "name": "Villainous",
-   "points": 3,
-   "players": [
-    "Dylan 'DYLAN' Frivalt",
-    "Kyle 'Sunk' Kallahan",
-    "Matthew 'bright' Ulatowski",
-    "Jasper 'Burglar' Martin"
-   ]
-  },
-  {
-   "rank": 199,
-   "name": "regain",
-   "points": 3,
-   "players": [
-    "Brennan 'grape' Greer",
-    "Eric 'Zucar' Zuccaro",
-    "Alexander 'sasha' Burke"
-   ]
-  },
-  {
-   "rank": 200,
-   "name": "PsychoFace",
-   "points": 2,
-   "players": [
-    "Dmitriy 'facecrack' Alekseyev",
-    "Amir 'eightz999' Abdulmedzhidov",
-    "Igor 'PsychoDoctor' Karatuev"
-   ]
-  },
-  {
-   "rank": 201,
-   "name": "Diamant",
-   "points": 2,
-   "players": [
-    "Jan 'jkXy' Konečnik",
-    "Damian 'Damsi' Sokulski",
-    "Jakob 'Destro' Pertinač",
-    "Jernej 'jernejj' Anžel"
-   ]
-  },
-  {
-   "rank": 202,
-   "name": "Bebop",
-   "points": 2,
-   "players": [
-    "Artem 'iDISBALANCE' Egorov",
-    "Yuri 'faydett' Martirosov",
-    "Artem 'Pipw' Ivankin",
-    "Georgiy 'redzed' Zavertkin"
-   ]
-  },
-  {
-   "rank": 203,
-   "name": "MIBR fe",
-   "points": 2,
-   "players": [
-    "Olga 'Olga' Rodrigues",
-    "Gabriela 'GaBi' Maldonado",
-    "Nadjila 'poppins' Sanchez Rodrigues",
-    "Giovanna 'yungher' Yungh Mataveli",
-    "Daniele 'Dani' Cavallari"
-   ]
-  },
-  {
-   "rank": 204,
-   "name": "Lilmix",
-   "points": 2,
-   "players": [
-    "Leo 'Wonder' Wänlund",
-    "Alfred 'p1ke' Mellergårdh",
-    "Marcus 'macke' Hermundstad",
-    "Mateo 'chucker' Löfberg ",
-    "Eddie 'Tqezo' Thorstensson"
-   ]
-  },
-  {
-   "rank": 205,
-   "name": "Grêmio",
-   "points": 2,
-   "players": [
-    "Miguel 'MITHPUTTINI' Vilaça",
-    "Luiz 'souz4h' de Souza",
-    "Gustavo 'yeda' Yeda",
-    "Nathan 'balencyy' Marques",
-    "Gabriel 's1lent' Brandão"
-   ]
-  },
-  {
-   "rank": 206,
-   "name": "Legion",
-   "points": 2,
-   "players": [
-    "Huzaifa 'HZI' Ahmed",
-    "Syed 'BulleT' Sameer Ul Hassan",
-    "Hamza 'hf' Abrar",
-    "Zain 'Bloody' Talha"
-   ]
-  },
-  {
-   "rank": 207,
-   "name": "The Golden Horde",
-   "points": 2,
-   "players": [
-    "Daniel 'aRTYSAN' Vinichenko",
-    "Denys 'regoshka' Boldyr",
-    "Vlad 'lyoli' Liashenko",
-    "Pavlo 'forzaN' Piatakha",
-    "Vladislav 'dijarom' Matveichev"
-   ]
-  },
-  {
-   "rank": 208,
-   "name": "eternal premium",
-   "points": 2,
-   "players": [
-    "Artem 'skept1K' Suvorov",
-    "Dmitriy 'dazzy' Kozhemyako",
-    "Egor 'P1kan0' Tsulenkov",
-    "Egor 'famous' Gurtovoy",
-    "Grigoriy 'Innerpeace' Shestakov"
-   ]
-  },
-  {
-   "rank": 209,
-   "name": "NuTorious",
-   "points": 2,
-   "players": [
-    "Andrew 'Kermi' Cretella",
-    "Nathaniel 'neight' Bell ",
-    "Thomas 'bones' Degenhardt",
-    "Cameron 'cmrn' Longman"
-   ]
-  },
-  {
-   "rank": 210,
-   "name": "METANOIA Wolves",
-   "points": 2,
-   "players": [
-    "Henzo 'spinnie' Macri",
-    "Luiz 'Tineu' Tineu",
-    "Micael 'ALENNNCAR' Alencar",
-    "Mikhael 'vzn' Annoni",
-    "Pedro 'khowy' Soares"
-   ]
-  },
-  {
-   "rank": 211,
-   "name": "F5",
-   "points": 2,
-   "players": [
-    "Adam 'SeRCEra' Zielinski",
-    "Joel 'flacko' Ludenberg",
-    "Colin 'colin' Chan",
-    "Samuel 'atyla' Rose",
-    "Shuqi 'Michael Weki' Dai"
-   ]
-  },
-  {
-   "rank": 212,
-   "name": "Zomblers",
-   "points": 2,
-   "players": [
-    "Andrew 'CAJUN' Guidroz",
-    "Nikolaos 'Pose1doNN' Antoniou",
-    "Cole 'twigs' Morad",
-    "Connor 'CoolComs' Barnes"
-   ]
-  },
-  {
-   "rank": 213,
-   "name": "Mindfreak",
-   "points": 2,
-   "players": [
-    "Cooper 'void' Farrell",
-    "Phoebe 'phoebe' Winter",
-    "Kai 'kairo' Brooks",
-    "Ethan 'lawlkay' Mistica",
-    "Tyler 'Bay' Dellaca"
-   ]
-  },
-  {
-   "rank": 214,
-   "name": "Younglings",
-   "points": 2,
-   "players": [
-    "Armen 'cheerful' Eksuzyan",
-    "Nikita 'Shed0Z' Salimov",
-    "Bektai 'arun' Malikov",
-    "Ilya 'eLa1z' Galeev",
-    "Stepan 'MoNaTy' Shevlyakov"
-   ]
-  },
-  {
-   "rank": 215,
-   "name": "your end",
-   "points": 2,
-   "players": [
-    "Lucas 'Lcs' Martins Lima",
-    "Lucas 'Lukita' Vinicius",
-    "Raphael 'rx' Ferreira",
-    "Douglas 'Cr1a' Pires",
-    "Caio 'ghosT1' Batista"
-   ]
-  },
-  {
-   "rank": 216,
-   "name": "Omen",
-   "points": 2,
-   "players": [
-    "Sebastian 'cbass' Bentancor",
-    "Noah 'z0mb1e' Velez",
-    "Taylor 'fArt' G.",
-    "Seth 'seffuh' R"
-   ]
-  },
-  {
-   "rank": 217,
-   "name": "SINQU",
-   "points": 2,
-   "players": [
-    "Henri 'Heke' Heikkinen",
-    "Eemeli 'Eem3l1' Lieska",
-    "Emil 'imbaemba' Haataja",
-    "Anton 'MikOne' Mikkonen",
-    "Tuomas 'doivo' Kontkanen"
-   ]
-  },
-  {
-   "rank": 218,
-   "name": "Beyond Limits",
-   "points": 2,
-   "players": [
-    "Dalton 'doltn' Ehlers",
-    "Brett 'Beastman' Eastman",
-    "Noah 'flixxy' French",
-    "Mason 'Pr0mise' Maher",
-    "Denzel 'denz' Gutierrez"
-   ]
-  },
-  {
-   "rank": 219,
-   "name": "BOJONG",
-   "points": 2,
-   "players": [
-    "Arttu 'ArtwOo' Ruponen",
-    "Ville 'Villeboe' Saarela",
-    "Janne 'stunt' Korva",
-    "Joel 'jkzin' Kasper",
-    "Ville 'BlNGB0NG' Vähä-Peltomäki"
-   ]
-  },
-  {
-   "rank": 220,
-   "name": "RED Canids Academy",
-   "points": 2,
-   "players": [
-    "Nicolas 'n1cks' Paixão",
-    "Bruno 'sanc' Musa",
-    "Gustavo 'gtw' Porfirio",
-    "Nickolas 'Nk' Rezende",
-    "Rafael 'rafa' Garcia"
-   ]
-  },
-  {
-   "rank": 221,
-   "name": "95 Vikings",
-   "points": 2,
-   "players": [
-    "Marek 'NeroF' Paprocki",
-    "Filip 'Kalafi0r' Chełmecki",
-    "Jan 'Greku' Chrapusta",
-    "Adrian 'deoz' Deozinski"
-   ]
-  },
-  {
-   "rank": 222,
-   "name": "XDM",
-   "points": 2,
-   "players": [
-    "Cai 'rubeN' XiaoHan",
-    "Chuanze 'Shad0w' Liu",
-    "Bo 'r1verLaKe' Wang",
-    "Haitao 'Kungao' He",
-    "Hangqi 'darkk' Dong"
-   ]
-  },
-  {
-   "rank": 223,
-   "name": "BIG Academy",
-   "points": 2,
-   "players": [
-    "David 'prosus' Hesse",
-    "Phillip 'w1dow' Hemke",
-    "Anton 'doni' Savienkov",
-    "Asim 'aZe' Khodzhaev",
-    "Nikolas 'Hrdina' Hutira"
-   ]
-  },
-  {
-   "rank": 224,
-   "name": "DONSTU",
-   "points": 2,
-   "players": [
-    "Vladislav 'Due1yant' Pavlovich",
-    "Alexey 'NeoLife' Novakov",
-    "Gleb 'gleb86rus' Eskin",
-    "Pavel 'LAKSHERi' Solovyov",
-    "Daniil 'phorate' Varzov"
-   ]
-  },
-  {
-   "rank": 225,
-   "name": "Wanted Goons",
-   "points": 2,
-   "players": [
-    "Jacob 'febreeze' Lee",
-    "Johan 'Johan' Delgado",
-    "Dylan 'killerPandas' Pellegrino",
-    "Hunter 'hibui' Conklin"
-   ]
-  },
-  {
-   "rank": 226,
-   "name": "Xcity",
-   "points": 2,
-   "players": [
-    "Azamat 'ATLAS' Baisangurov",
-    "Tamerlan 'tuzon' Kambolov",
-    "George 'mda' Dzhagaev ",
-    "Azamat 'qu1ck' Acheev",
-    "Arthur 'gag' Gagloev"
-   ]
-  },
-  {
-   "rank": 227,
-   "name": "RUSH",
-   "points": 2,
-   "players": [
-    "Felipe 'nolkz' Rodrigues",
-    "Bruno 'bks' Kyu",
-    "Marcelo 'nyezin' Ramos",
-    "Victor 'clon7' Mackieviez",
-    "Jonathan 'cLd' Cruz"
-   ]
-  },
-  {
-   "rank": 228,
-   "name": "B8 Academy",
-   "points": 1,
-   "players": [
-    "Volodymyr 'k1n' Kozovyk",
-    "Mykhailo-Nazarii 'segukawa' Bybel",
-    "Dmytro 'r0se' Pankiv",
-    "Denys 'sherman' Kanchalaba",
-    "Gleb 'oju' Mazur"
-   ]
-  },
-  {
-   "rank": 229,
-   "name": "Club 333",
-   "points": 1,
-   "players": [
-    "Jose 'SecretAgent' Fernandez",
-    "Koby 'kobruh' Higgs",
-    "Jorge Alberto 'b1' Treviño Díaz",
-    "Bryan 'Marro' Valles Valenzuela"
-   ]
-  },
-  {
-   "rank": 230,
-   "name": "OxinGame",
-   "points": 1,
-   "players": [
-    "Mohammad '16thslatty' Mahdi Lotfi",
-    "Abolfazl 'inSid10us' Beikipour",
-    "Aref 'Berar' Shahvari",
-    "Mohammad 'A1oNe' Hossein Biglari",
-    "Mohammad 'Equalizer' Tirmahi"
-   ]
-  },
-  {
-   "rank": 231,
-   "name": "ROUNDS",
-   "points": 1,
-   "players": [
-    "Elmeri 'ykis' Lind",
-    "Timo 'Monoxx' Irmasto",
-    "Kosti 'Kollo' Kallioniemi",
-    "Jami 'Lapa' Hellqvist"
-   ]
-  },
-  {
-   "rank": 232,
-   "name": "DAMAJUANA",
-   "points": 1,
-   "players": [
-    "Cesar 'Kiritox' Abente",
-    "Agustín 'R4N' Pujol",
-    "Julian 'leo' Tsalikis",
-    "Juan Martin 'Dunn' Dun Vosilaitis",
-    "Michael 'maik' Andrés Silvera"
-   ]
-  },
-  {
-   "rank": 233,
-   "name": "Zetta",
-   "points": 1,
-   "players": [
-    "Antonio 'zockie' Montañez",
-    "Juan 'Slayerhz' Rodriguez",
-    "Alvaro 'Chinokun' Fan",
-    "Rodrigo 'Antuanette' Armando",
-    "Cesar 'Wonds' Vera"
-   ]
-  },
-  {
-   "rank": 234,
-   "name": "BGNS Orange",
-   "points": 1,
-   "players": [
-    "Isaac 'Prodigy' Dahlan",
-    "Kieren 'Muzoona' Jackson",
-    "Johnny 'jcg' Grima",
-    "Alexander 'Harbor' Debney",
-    "Mitchell 'ElephanT' Rahn"
-   ]
-  },
-  {
-   "rank": 235,
-   "name": "FlameHard",
-   "points": 1,
-   "players": [
-    "Lucas 'stax' Scharenberg",
-    "André 'Mané' Silva",
-    "Ruben '5 Star' Reis",
-    "Madden 'maddeN' Lamy",
-    "Tomas 'TomZhy' Mendes"
-   ]
-  },
-  {
-   "rank": 236,
-   "name": "Fortress",
-   "points": 1,
-   "players": [
-    "Marcus 'BqreBedre' Christian Haugbølle Johansen",
-    "Asker 'As K' Dutschke",
-    "Marc 'Brand' Lindberg",
-    "Skjold 'K1ngShield' Faber",
-    "Laurits 'GrEnNiE' Lenskjold"
-   ]
-  },
-  {
-   "rank": 237,
-   "name": "train launcher",
-   "points": 1,
-   "players": [
-    "Leon 'Leon1das' Andersson Tönners",
-    "Marcus 'Majkn' Lars Tidblom",
-    "Timothy 'timothybtw' Andreasson"
-   ]
-  },
-  {
-   "rank": 238,
-   "name": "Sementes do Mal",
-   "points": 1,
-   "players": [
-    "Pedro 'coxa' Krauze",
-    "Caio 'terran' Mesquita",
-    "Gabriel 'Kaiserzy' Kaiser",
-    "Gustavo 'Aker' Costa",
-    "Eduardo 'Mrd' Yuji"
-   ]
-  },
-  {
-   "rank": 239,
-   "name": "XI",
-   "points": 1,
-   "players": [
-    "Tobias 'Avou' Winberg",
-    "Jonas 'Jiace' Pedersen",
-    "Emilio 'emili0' Kislo",
-    "Nikolaj 'Egelund' Egelund Hansen",
-    "Rasmus 'Bakorino' Bak"
-   ]
-  },
-  {
-   "rank": 240,
-   "name": "Strael Bora",
-   "points": 1,
-   "players": [
-    "Adam 'AdaMmMm' Ducotey",
-    "Sven 'svn' Žnidarec",
-    "Lucas 'newhope' Bekker"
-   ]
-  },
-  {
-   "rank": 241,
-   "name": "Shimmer",
-   "points": 1,
-   "players": [
-    "Alice 'alicerawr' Hewitt",
-    "Wrenna 'Stx' Trampel",
-    "John 'Juna' Rogel",
-    "Lucy 'empathy' Verkaik"
-   ]
-  },
-  {
-   "rank": 242,
-   "name": "eSuba",
-   "points": 1,
-   "players": [
-    "Ondřej 'Crazyy' Švec",
-    "Martin 'Rentlax' Křepelka",
-    "Filip 'Shark' Táborský",
-    "Petr 'Frigo' Havránek",
-    "Vojtěch 'Ananasino' Hanák"
-   ]
-  },
-  {
-   "rank": 243,
-   "name": "Privateer",
-   "points": 1,
-   "players": [
-    "Fraser 'Frazehh' Sollom",
-    "Michael 'Prime' John Fury",
-    "Liam 'M1n1maL' Reynolds"
-   ]
-  },
-  {
-   "rank": 244,
-   "name": "The QUBE",
-   "points": 1,
-   "players": [
-    "Orgil 'Paranormal' Tsogbayar",
-    "Munkh-Orkhon 'soloooS' Munkh-Och",
-    "Enkhjavkhlan 'Cozen' Tuvshin",
-    "Tamir 'Kamui' Ayurzana",
-    "Enkhnairamdal 'grizzly' Tsogtbaatar"
-   ]
-  },
-  {
-   "rank": 245,
-   "name": "KODEX",
-   "points": 1,
-   "players": [
-    "Dalton 'dopplahs' Hanley",
-    "John 'Toasty' Hill",
-    "Nick 'kenny' Gomulka",
-    "Joe 'JSP' Chmielewski",
-    "Andrew 'celery' Pylko"
-   ]
-  },
-  {
-   "rank": 246,
-   "name": "THE UNIT",
-   "points": 1,
-   "players": [
-    "Timur 'ad0rfin' Seytbekov",
-    "Dmitriy 'nesh' Dongak",
-    "Timur 'kyrosawa' Sabirov",
-    "Adylkhan 'mareefishy' Kyzaybekov"
-   ]
-  },
-  {
-   "rank": 247,
-   "name": "Arch",
-   "points": 1,
-   "players": [
-    "Egor 'ka1do' Fomichev",
-    "Artyom 'Dis1' Belokosov",
-    "Ruslan 'f1R' Aksanov",
-    "Tyulenev 'MaLLiC' Egor",
-    "Kirill 'web sun' Anikev"
-   ]
-  },
-  {
-   "rank": 248,
-   "name": "JUMBO",
-   "points": 0,
-   "players": [
-    "Vladislav 'mecry' Rezvyi",
-    "Denis 'DeDe' Rybakov",
-    "Danila 'kinyx' Bukashov",
-    "Alexander 'str0ngl' Stukalo",
-    "Yaroslav 'yummy' Terentyev"
-   ]
-  },
-  {
-   "rank": 249,
-   "name": "FlyQuest RED",
-   "points": 0,
-   "players": [
-    "Emma 'Emy' Choe",
-    "Vivienne 'BiBiAhn' Quach",
-    "Vanessa 'vanessa' Gideon",
-    "Lydia 'Fawx' Dalton"
-   ]
-  },
-  {
-   "rank": 250,
-   "name": "WAZABI",
-   "points": 0,
-   "players": [
-    "Jonas 'SaMsInG' Samsing",
-    "August 'm0vski' Møller",
-    "Magnus 'BangBang' Bang Petersen",
-    "Anders 'BacH' Bach Gregersen",
-    "Malthe 'No1r' Lybkær Sølvmose Andreasen"
+    "nitr0",
+    "Sonic",
+    "hallzerk",
+    "Grim",
+    "Jeorge"
    ]
   }
  ]
