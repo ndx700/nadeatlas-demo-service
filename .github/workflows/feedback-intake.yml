@@ -1,0 +1,48 @@
+name: File line-up feedback from the app
+
+on:
+  issues:
+    types: [opened]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: feedback-intake
+  cancel-in-progress: false
+
+jobs:
+  intake:
+    if: github.event_name == 'workflow_dispatch' || startsWith(github.event.issue.title, '[NadeAtlas]')
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: File feedback
+        id: file
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/intake.py
+      - name: Commit, answer and close
+        if: steps.file.outputs.taken != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name nadeatlas-demo-bot
+          git config user.email actions@users.noreply.github.com
+          git add data/grenade_feedback.json
+          git commit -m "File line-up feedback: ${{ steps.file.outputs.taken }}"
+          for i in 1 2 3; do git pull --rebase -X theirs && git push && break; sleep 5; done
+          for pair in ${{ steps.file.outputs.taken }}; do
+            n=${pair%%:*}; a=${pair##*:}
+            case "$a" in
+              delete) msg="已记录删除，下次生成道具库时去掉，以后也不会再加回来。" ;;
+              purpose) msg="已记录用途，下次生成道具库时替换这颗道具的说明。" ;;
+              *) msg="已记录，等 Claude 处理；处理完会在这里回复再关闭。" ;;
+            esac
+            gh issue comment "$n" --body "$msg"
+            # Problem reports stay open until they are dealt with; deletions and purposes are applied automatically.
+            if [ "$a" = delete ] || [ "$a" = purpose ]; then gh issue close "$n" --reason completed; fi
+          done
