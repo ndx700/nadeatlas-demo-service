@@ -1,0 +1,23 @@
+name: Probe HLTV r2 direct link
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/probes/probe_hltv_r2.py
+      - .github/workflows/probe-hltv-r2.yml
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 .github/probes/probe_hltv_r2.py
+      - name: Commit result
+        run: |
+          git config user.name nadeatlas-demo-bot
+          git config user.email actions@users.noreply.github.com
+          git add data/probes/hltv-r2.json
+          git commit -m "Probe: HLTV r2 direct link from a runner" || exit 0
+          for i in 1 2 3; do git pull --rebase -X theirs && git push && break; sleep 5; done
