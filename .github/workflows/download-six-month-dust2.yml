@@ -1,6 +1,12 @@
 name: Download six months Dust2 demos
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/download-six-month-dust2.yml'
+      - '.github/probes/download_six_month_dust2.py'
 jobs:
   download:
     runs-on: ubuntu-latest
