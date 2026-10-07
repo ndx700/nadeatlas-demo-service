@@ -16,7 +16,10 @@ RLIN = "https://cs.rlin.dev"
 REPO_RAW = "https://raw.githubusercontent.com/ndx700/nadeatlas-demo-service/main"
 BROWSER_UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140 Safari/537.36"
 MAX_NEW_PER_RUN = 400          # new map entries verified per run; the rest wait for the next run
-CHECKED = ROOT / "data" / "rlin_checked.json"   # matchIds already looked at (incl. unusable ones)
+# matchIds already looked at and settled (added, or unusable for good). v2: the first list also held recent
+# matches whose demo was simply not uploaded yet, so they were never looked at again.
+CHECKED = ROOT / "data" / "rlin_checked_v2.json"
+DEMO_WAIT_DAYS = 30            # a match without a demo is looked at again until it is this old
 
 
 def _get(url, accept="*/*", timeout=45, limit=None, extra=None):
@@ -199,7 +202,10 @@ def sync(dust2_index, all_index, logos, colors, now):
             url = str(m.get("demoUrl") or meta.get("uploadedDemoUrl") or "")
             ts = m.get("matchTime")
             if not (mp.startswith("de_") and url.startswith("https://") and ts and len(teams) >= 2):
-                checked_ids.add(mid)
+                # The archive often lists a match before its demo is uploaded: keep looking while it is recent.
+                recent = bool(ts) and (now - dt.datetime.fromtimestamp(int(ts), dt.timezone.utc).date()).days < DEMO_WAIT_DAYS
+                if not (mp.startswith("de_") and not url.startswith("https://") and recent):
+                    checked_ids.add(mid)
                 continue
             date = dt.datetime.fromtimestamp(int(ts), dt.timezone.utc).date()
             if date > now or url in known_url:
