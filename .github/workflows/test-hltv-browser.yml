@@ -1,0 +1,45 @@
+name: Test HLTV browser download
+on:
+  push:
+    paths:
+      - scripts/download_demo.py
+      - .github/workflows/test-hltv-browser.yml
+  workflow_dispatch:
+    inputs:
+      url:
+        description: HLTV demo endpoint or direct RAR URL
+        default: https://www.hltv.org/download/demo/131573
+permissions:
+  contents: read
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install browser and archive checker
+        run: |
+          python -m pip install playwright==1.63.0
+          python -m playwright install --with-deps chromium
+          sudo apt-get update
+          sudo apt-get install -y xvfb p7zip-full
+      - name: Browser download and integrity test
+        env:
+          DEMO_URL: ${{ inputs.url || 'https://r2-demos.hltv.org/demos/131573/esl-pro-league-season-24-falcons-vs-aurora-bo3-SHwp6i5EMXqaP-2XyfqBwr.rar' }}
+        run: |
+          xvfb-run -a python scripts/download_demo.py "$DEMO_URL" downloads/hltv-131573-${{ github.run_id }}.rar --diag-dir diagnostics --timeout 90
+          7z t downloads/*.rar
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: hltv-browser-diagnostics-${{ github.run_id }}
+          path: diagnostics/
+      - uses: actions/upload-artifact@v4
+        if: success()
+        with:
+          name: verified-hltv-demo-${{ github.run_id }}
+          path: downloads/*.rar
+          compression-level: 0
