@@ -38,8 +38,8 @@
     "size": 285441378,
     "matchId": "hltv-2398108-m3",
     "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398108-m3-64f339303784a950.msgpack.gz",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Aurora-vs-Vitality-2026-09-20-Mirage-hltv-2398108-m3.nar",
-    "replaySize": 2064764
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Aurora-vs-Vitality-2026-09-20-Mirage-hltv-2398108-m3-r2.nar",
+    "replaySize": 2079521
   },
   {
     "date": "2026-09-20",
@@ -233,8 +233,8 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398102-m2-vitality-vs-furia-m2-dust2.dem",
     "size": 304828588,
     "matchId": "hltv-2398102-m2",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Vitality-vs-FURIA-2026-09-18-Dust2-hltv-2398102-m2.nar",
-    "replaySize": 2230044
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Vitality-vs-FURIA-2026-09-18-Dust2-hltv-2398102-m2-r2.nar",
+    "replaySize": 2245178
   },
   {
     "date": "2026-09-18",
@@ -372,8 +372,8 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398089-m2-vitality-vs-magic-m2-dust2.dem",
     "size": 355072683,
     "matchId": "hltv-2398089-m2",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Vitality-vs-magic-2026-09-17-Dust2-hltv-2398089-m2.nar",
-    "replaySize": 2548718
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Vitality-vs-magic-2026-09-17-Dust2-hltv-2398089-m2-r2.nar",
+    "replaySize": 2564639
   },
   {
     "date": "2026-09-17",
@@ -485,8 +485,8 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2397623-m3-legacy-vs-g2-m3-dust2.dem",
     "size": 405258338,
     "matchId": "hltv-2397623-m3",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Legacy-vs-G2-2026-09-13-Dust2-hltv-2397623-m3.nar",
-    "replaySize": 2334812
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Legacy-vs-G2-2026-09-13-Dust2-hltv-2397623-m3-r2.nar",
+    "replaySize": 2351507
   },
   {
     "date": "2026-09-13",
@@ -598,8 +598,8 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2397619-m2-furia-vs-g2-m2-dust2.dem",
     "size": 304505435,
     "matchId": "hltv-2397619-m2",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/FURIA-vs-G2-2026-09-11-Dust2-hltv-2397619-m2.nar",
-    "replaySize": 1983600
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/FURIA-vs-G2-2026-09-11-Dust2-hltv-2397619-m2-r2.nar",
+    "replaySize": 1997982
   },
   {
     "date": "2026-09-11",
@@ -647,8 +647,8 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2397611-m1-9z-vs-g2-m1-dust2.dem",
     "size": 415152180,
     "matchId": "hltv-2397611-m1",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/9z-vs-G2-2026-09-10-Dust2-hltv-2397611-m1.nar",
-    "replaySize": 2900331
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/9z-vs-G2-2026-09-10-Dust2-hltv-2397611-m1-r2.nar",
+    "replaySize": 2923395
   },
   {
     "date": "2026-09-10",
@@ -868,8 +868,8 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2397608-m2-legacy-vs-alliance-m2-dust2.dem",
     "size": 347220116,
     "matchId": "hltv-2397608-m2",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Legacy-vs-Alliance-2026-09-09-Dust2-hltv-2397608-m2.nar",
-    "replaySize": 2284219
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Legacy-vs-Alliance-2026-09-09-Dust2-hltv-2397608-m2-r2.nar",
+    "replaySize": 2300785
   },
   {
     "date": "2026-09-09",
@@ -881,8 +881,8 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2397607-m2-magic-vs-faze-m2-dust2.dem",
     "size": 438043045,
     "matchId": "hltv-2397607-m2",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/magic-vs-FaZe-2026-09-09-Dust2-hltv-2397607-m2.nar",
-    "replaySize": 2894086
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/magic-vs-FaZe-2026-09-09-Dust2-hltv-2397607-m2-r2.nar",
+    "replaySize": 2910911
   },
   {
     "date": "2026-09-09",
@@ -1104,8 +1104,8 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2396951-m1-spirit-vs-mouz-m1-dust2.dem",
     "size": 355987240,
     "matchId": "hltv-2396951-m1",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Spirit-vs-MOUZ-2026-09-06-Dust2-hltv-2396951-m1.nar",
-    "replaySize": 2580345
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Spirit-vs-MOUZ-2026-09-06-Dust2-hltv-2396951-m1-r2.nar",
+    "replaySize": 2593578
   },
   {
     "date": "2026-09-06",
@@ -1155,8 +1155,8 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2396950-m1-mouz-vs-vitality-m1-dust2.dem",
     "size": 392510692,
     "matchId": "hltv-2396950-m1",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/MOUZ-vs-Vitality-2026-09-05-Dust2-hltv-2396950-m1.nar",
-    "replaySize": 2886612
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/MOUZ-vs-Vitality-2026-09-05-Dust2-hltv-2396950-m1-r2.nar",
+    "replaySize": 2903229
   },
   {
     "date": "2026-09-05",
@@ -1206,8 +1206,8 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2396948-m3-furia-vs-vitality-m3-dust2.dem",
     "size": 293349942,
     "matchId": "hltv-2396948-m3",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/FURIA-vs-Vitality-2026-09-04-Dust2-hltv-2396948-m3.nar",
-    "replaySize": 2102270
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/FURIA-vs-Vitality-2026-09-04-Dust2-hltv-2396948-m3-r2.nar",
+    "replaySize": 2113321
   },
   {
     "date": "2026-09-04",
@@ -1219,8 +1219,8 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2396947-m2-falcons-vs-g2-m2-dust2.dem",
     "size": 378373716,
     "matchId": "hltv-2396947-m2",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Falcons-vs-G2-2026-09-04-Dust2-hltv-2396947-m2.nar",
-    "replaySize": 2768904
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Falcons-vs-G2-2026-09-04-Dust2-hltv-2396947-m2-r2.nar",
+    "replaySize": 2785816
   },
   {
     "date": "2026-09-04",
