@@ -1,7 +1,7 @@
 {
   "state": "ok",
   "message": "multi-source sync completed",
-  "updatedAt": "2026-10-07T21:59:16.304648Z",
+  "updatedAt": "2026-10-07T22:19:31.559528Z",
   "sources": {
     "public_pro_demo": {
       "state": "ok",
@@ -18,16 +18,16 @@
     }
   },
   "added": 0,
-  "published": 32,
-  "publishedAllMaps": 151,
+  "published": 35,
+  "publishedAllMaps": 158,
   "mapCounts": {
-    "de_ancient": 26,
+    "de_ancient": 27,
     "de_anubis": 12,
-    "de_cache": 18,
-    "de_dust2": 32,
-    "de_inferno": 21,
+    "de_cache": 19,
+    "de_dust2": 35,
+    "de_inferno": 22,
     "de_mirage": 28,
-    "de_nuke": 14
+    "de_nuke": 15
   },
   "logos": 67,
   "errors": [

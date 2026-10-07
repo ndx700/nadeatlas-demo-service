@@ -1,5 +1,41 @@
 [
   {
+    "date": "2026-10-06",
+    "event": "ESL Pro League Season 24",
+    "team1": "FURIA",
+    "team2": "Aurora",
+    "map": "de_dust2",
+    "url": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/dust2-pilot-2026-10/furia-furia-vs-aurora-esl-pro-league-season-24.rar",
+    "matchId": "hltv-2398743-m1",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/FURIA-vs-Aurora-2026-10-06-Dust2-hltv-2398743-m1-r2.nar",
+    "replaySize": 2798348,
+    "source": "cloud"
+  },
+  {
+    "date": "2026-10-06",
+    "event": "ESL Pro League Season 24",
+    "team1": "FURIA",
+    "team2": "Aurora",
+    "map": "de_mirage",
+    "url": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/dust2-pilot-2026-10/furia-furia-vs-aurora-esl-pro-league-season-24.rar",
+    "matchId": "hltv-2398743-m2",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/FURIA-vs-Aurora-2026-10-06-Mirage-hltv-2398743-m2-r2.nar",
+    "replaySize": 2779899,
+    "source": "cloud"
+  },
+  {
+    "date": "2026-10-06",
+    "event": "ESL Pro League Season 24",
+    "team1": "FURIA",
+    "team2": "Aurora",
+    "map": "de_nuke",
+    "url": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/dust2-pilot-2026-10/furia-furia-vs-aurora-esl-pro-league-season-24.rar",
+    "matchId": "hltv-2398743-m3",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/FURIA-vs-Aurora-2026-10-06-Nuke-hltv-2398743-m3-r2.nar",
+    "replaySize": 2390544,
+    "source": "cloud"
+  },
+  {
     "date": "2026-10-05",
     "event": "ESL Pro League Season 24",
     "team1": "Vitality",
@@ -1159,8 +1195,8 @@
     "size": 378218867,
     "matchId": "hltv-2397609-m2",
     "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2397609-m2.msgpack.gz",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/TYLOO-vs-GamerLegion-2026-09-09-Mirage-hltv-2397609-m2.nar",
-    "replaySize": 2347194
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/TYLOO-vs-GamerLegion-2026-09-09-Mirage-hltv-2397609-m2-r2.nar",
+    "replaySize": 2360854
   },
   {
     "date": "2026-09-09",
@@ -1185,8 +1221,8 @@
     "size": 367296620,
     "matchId": "hltv-2397605-m2",
     "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2397605-m2.msgpack.gz",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/BIG-vs-G2-2026-09-09-Mirage-hltv-2397605-m2.nar",
-    "replaySize": 2482671
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/BIG-vs-G2-2026-09-09-Mirage-hltv-2397605-m2-r2.nar",
+    "replaySize": 2496321
   },
   {
     "date": "2026-09-09",
