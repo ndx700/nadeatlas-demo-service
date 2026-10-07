@@ -1,0 +1,32 @@
+name: Discover Top20 Dust2 via BO3
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - test/hltv-playwright-download
+    paths:
+      - "scripts/discover_bo3_top20_dust2.py"
+      - ".github/workflows/discover-bo3-top20-dust2.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: test/hltv-playwright-download
+      - name: Discover recent Dust2 matches
+        run: python3 scripts/discover_bo3_top20_dust2.py
+      - name: Commit discovery
+        run: |
+          git config user.name nadeatlas-demo-bot
+          git config user.email actions@users.noreply.github.com
+          git add data/top20-dust2-bo3.json
+          git commit -m "Discover recent Top20 Dust2 matches via BO3" || exit 0
+          git pull --rebase -X theirs origin test/hltv-playwright-download || true
+          git push origin HEAD:test/hltv-playwright-download
