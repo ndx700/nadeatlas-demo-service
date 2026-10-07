@@ -1,0 +1,60 @@
+{
+  "https://files.bo3.gg/demos/manually_uploaded/1791318510_legacy-vs-m80-m3-dust2.dem": {
+    "status": 404,
+    "final": "https://files.bo3.gg/demos/manually_uploaded/1791318510_legacy-vs-m80-m3-dust2.dem",
+    "type": "text/html",
+    "length": null,
+    "head": "3c68746d6c3e0d0a3c686561643e3c7469746c653e343034204e6f7420466f75",
+    "body": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>"
+  },
+  "https://files.bo3.gg/uploads/demos/manually_uploaded/1791318510_legacy-vs-m80-m3-dust2.dem": {
+    "status": 404,
+    "final": "https://files.bo3.gg/uploads/demos/manually_uploaded/1791318510_legacy-vs-m80-m3-dust2.dem",
+    "type": "text/html",
+    "length": null,
+    "head": "3c68746d6c3e0d0a3c686561643e3c7469746c653e343034204e6f7420466f75",
+    "body": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>"
+  },
+  "https://api.bo3.gg/demos/manually_uploaded/1791318510_legacy-vs-m80-m3-dust2.dem": {
+    "status": 404,
+    "final": "https://api.bo3.gg/demos/manually_uploaded/1791318510_legacy-vs-m80-m3-dust2.dem",
+    "type": "text/html; charset=UTF-8",
+    "length": null,
+    "head": "",
+    "body": ""
+  },
+  "https://api.bo3.gg/storage/demos/manually_uploaded/1791318510_legacy-vs-m80-m3-dust2.dem": {
+    "status": 404,
+    "final": "https://api.bo3.gg/storage/demos/manually_uploaded/1791318510_legacy-vs-m80-m3-dust2.dem",
+    "type": "text/html; charset=UTF-8",
+    "length": null,
+    "head": "",
+    "body": ""
+  },
+  "https://api.bo3.gg/api/v1/demos/manually_uploaded/1791318510_legacy-vs-m80-m3-dust2.dem": {
+    "status": 404,
+    "final": "https://api.bo3.gg/api/v1/demos/manually_uploaded/1791318510_legacy-vs-m80-m3-dust2.dem",
+    "type": "text/html; charset=UTF-8",
+    "length": null,
+    "head": "",
+    "body": ""
+  },
+  "https://bo3.gg/demos/manually_uploaded/1791318510_legacy-vs-m80-m3-dust2.dem": {
+    "status": 200,
+    "final": "https://bo3.gg/demos/manually_uploaded/1791318510_legacy-vs-m80-m3-dust2.dem",
+    "type": "text/html;charset=utf-8",
+    "length": null,
+    "range": null,
+    "head": "3c21444f43545950452068746d6c3e3c68746d6c3e3c686561643e3c6d657461",
+    "ascii": "b'<!DOCTYPE html><html><head><meta'"
+  },
+  "https://cdn.bo3.gg/demos/manually_uploaded/1791318510_legacy-vs-m80-m3-dust2.dem": {
+    "error": "URLError: <urlopen error [Errno -2] Name or service not known>"
+  },
+  "https://static.bo3.gg/demos/manually_uploaded/1791318510_legacy-vs-m80-m3-dust2.dem": {
+    "error": "URLError: <urlopen error [Errno -2] Name or service not known>"
+  },
+  "https://demos.bo3.gg/demos/manually_uploaded/1791318510_legacy-vs-m80-m3-dust2.dem": {
+    "error": "URLError: <urlopen error [Errno -2] Name or service not known>"
+  }
+}
