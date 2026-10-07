@@ -1,0 +1,141 @@
+{
+  "baseline": {
+    "http": 200,
+    "total": {
+      "count": 75557,
+      "pages": 75557,
+      "offset": 0,
+      "limit": 1
+    },
+    "first": [
+      {
+        "id": 130783,
+        "date": "2026-10-06T19:05:00.000+00:00",
+        "t1": "Falcons",
+        "t2": "Natus Vincere"
+      }
+    ]
+  },
+  "start_gte": {
+    "http": 200,
+    "total": {
+      "count": 75557,
+      "pages": 75557,
+      "offset": 0,
+      "limit": 1
+    },
+    "first": [
+      {
+        "id": 130783,
+        "date": "2026-10-06T19:05:00.000+00:00",
+        "t1": "Falcons",
+        "t2": "Natus Vincere"
+      }
+    ]
+  },
+  "start_ge": {
+    "http": 200,
+    "total": {
+      "count": 75557,
+      "pages": 75557,
+      "offset": 0,
+      "limit": 1
+    },
+    "first": [
+      {
+        "id": 130783,
+        "date": "2026-10-06T19:05:00.000+00:00",
+        "t1": "Falcons",
+        "t2": "Natus Vincere"
+      }
+    ]
+  },
+  "start_from": {
+    "http": 200,
+    "total": {
+      "count": 75557,
+      "pages": 75557,
+      "offset": 0,
+      "limit": 1
+    },
+    "first": [
+      {
+        "id": 130783,
+        "date": "2026-10-06T19:05:00.000+00:00",
+        "t1": "Falcons",
+        "t2": "Natus Vincere"
+      }
+    ]
+  },
+  "start_between": {
+    "http": 200,
+    "total": {
+      "count": 75557,
+      "pages": 75557,
+      "offset": 0,
+      "limit": 1
+    },
+    "first": [
+      {
+        "id": 130783,
+        "date": "2026-10-06T19:05:00.000+00:00",
+        "t1": "Falcons",
+        "t2": "Natus Vincere"
+      }
+    ]
+  },
+  "team1_legacy": {
+    "http": 200,
+    "total": {
+      "count": 165,
+      "pages": 165,
+      "offset": 0,
+      "limit": 1
+    },
+    "first": [
+      {
+        "id": 130784,
+        "date": "2026-10-06T17:00:00.000+00:00",
+        "t1": "Legacy",
+        "t2": "M80"
+      }
+    ]
+  },
+  "team2_legacy": {
+    "http": 200,
+    "total": {
+      "count": 165,
+      "pages": 165,
+      "offset": 0,
+      "limit": 1
+    },
+    "first": [
+      {
+        "id": 130763,
+        "date": "2026-10-04T09:00:00.000+00:00",
+        "t1": "ShindeN",
+        "t2": "Legacy"
+      }
+    ]
+  },
+  "team_id_legacy": {
+    "http": 200,
+    "total": {
+      "count": 75557,
+      "pages": 75557,
+      "offset": 0,
+      "limit": 1
+    },
+    "first": [
+      {
+        "id": 130783,
+        "date": "2026-10-06T19:05:00.000+00:00",
+        "t1": "Falcons",
+        "t2": "Natus Vincere"
+      }
+    ]
+  },
+  "teams_id_legacy": {
+    "error": "HTTPError: HTTP Error 500: Internal Server Error"
+  }
+}
