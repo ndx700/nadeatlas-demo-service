@@ -1,0 +1,26 @@
+name: Probe RLIN exact recent IDs
+on:
+  push:
+    branches: [test/hltv-playwright-download]
+    paths:
+      - scripts/probe_rlin_exact_recent.py
+      - .github/workflows/probe-rlin-exact-recent.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: test/hltv-playwright-download
+      - run: python3 scripts/probe_rlin_exact_recent.py
+      - run: |
+          git config user.name nadeatlas-demo-bot
+          git config user.email actions@users.noreply.github.com
+          git add data/probes/rlin-exact-recent.json
+          git commit -m "Probe exact recent RLIN IDs" || exit 0
+          git pull --rebase -X theirs origin test/hltv-playwright-download || true
+          git push origin HEAD:test/hltv-playwright-download
