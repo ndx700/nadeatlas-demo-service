@@ -1,0 +1,5857 @@
+{
+  "generatedAt": "2026-10-07T00:21:24.113020Z",
+  "range": {
+    "start": "2026-08-07",
+    "end": "2026-10-07"
+  },
+  "top20": [
+    "Spirit",
+    "Vitality",
+    "MOUZ",
+    "FURIA",
+    "Falcons",
+    "Legacy",
+    "G2",
+    "FUT",
+    "Aurora",
+    "Natus Vincere",
+    "Astralis",
+    "MIBR",
+    "BetBoom",
+    "FaZe",
+    "B8",
+    "9z",
+    "The MongolZ",
+    "magic",
+    "GamerLegion",
+    "PARIVISION"
+  ],
+  "apiTotal": {
+    "count": 75557,
+    "pages": 756,
+    "offset": 2700,
+    "limit": 100
+  },
+  "pagesFetched": 28,
+  "dust2MatchesInvolvingCurrentTop20": 129,
+  "alreadyMirrored": 11,
+  "missingMirror": 118,
+  "matches": [
+    {
+      "date": "2026-10-06",
+      "bo3MatchId": 130784,
+      "slug": "legacy-br-vs-m80-cs-go-06-10-2026",
+      "url": "https://bo3.gg/matches/legacy-br-vs-m80-cs-go-06-10-2026",
+      "event": "ESL Pro League Season 24",
+      "team1": "Legacy",
+      "team2": "M80",
+      "currentTop20Matched": [
+        "Legacy"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187819,
+          "number": 3,
+          "winner": "M80",
+          "loser": "Legacy",
+          "winnerScore": 13,
+          "loserScore": 7
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "bo3MatchId": 130782,
+      "slug": "furia-vs-aurora-gaming-06-10-2026",
+      "url": "https://bo3.gg/matches/furia-vs-aurora-gaming-06-10-2026",
+      "event": "ESL Pro League Season 24",
+      "team1": "FURIA",
+      "team2": "Aurora",
+      "currentTop20Matched": [
+        "Aurora",
+        "FURIA"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187815,
+          "number": 1,
+          "winner": "FURIA",
+          "loser": "Aurora Gaming",
+          "winnerScore": 13,
+          "loserScore": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "bo3MatchId": 130781,
+      "slug": "9z-vs-betboom-team-06-10-2026",
+      "url": "https://bo3.gg/matches/9z-vs-betboom-team-06-10-2026",
+      "event": "ESL Pro League Season 24",
+      "team1": "9z",
+      "team2": "BetBoom",
+      "currentTop20Matched": [
+        "9z",
+        "BetBoom"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187810,
+          "number": 1,
+          "winner": "9z Globant",
+          "loser": "BetBoom Team",
+          "winnerScore": 13,
+          "loserScore": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "bo3MatchId": 130777,
+      "slug": "vitality-vs-falcons-esports-05-10-2026",
+      "url": "https://bo3.gg/matches/vitality-vs-falcons-esports-05-10-2026",
+      "event": "ESL Pro League Season 24",
+      "team1": "Vitality",
+      "team2": "Falcons",
+      "currentTop20Matched": [
+        "Falcons",
+        "Vitality"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187799,
+          "number": 2,
+          "winner": "Team Vitality",
+          "loser": "Team Falcons",
+          "winnerScore": 13,
+          "loserScore": 4
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "bo3MatchId": 130775,
+      "slug": "spirit-vs-mouz-cs2-05-10-2026",
+      "url": "https://bo3.gg/matches/spirit-vs-mouz-cs2-05-10-2026",
+      "event": "ESL Pro League Season 24",
+      "team1": "Spirit",
+      "team2": "MOUZ",
+      "currentTop20Matched": [
+        "MOUZ",
+        "Spirit"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187794,
+          "number": 1,
+          "winner": "MOUZ",
+          "loser": "Team Spirit",
+          "winnerScore": 13,
+          "loserScore": 5
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "bo3MatchId": 130774,
+      "slug": "legacy-br-vs-1win-05-10-2026",
+      "url": "https://bo3.gg/matches/legacy-br-vs-1win-05-10-2026",
+      "event": "ESL Pro League Season 24",
+      "team1": "Legacy",
+      "team2": "1win",
+      "currentTop20Matched": [
+        "Legacy"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187791,
+          "number": 1,
+          "winner": "1win",
+          "loser": "Legacy",
+          "winnerScore": 13,
+          "loserScore": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "bo3MatchId": 130771,
+      "slug": "shinden-vs-g2-05-10-2026",
+      "url": "https://bo3.gg/matches/shinden-vs-g2-05-10-2026",
+      "event": "ESL Pro League Season 24",
+      "team1": "ShindeN",
+      "team2": "G2",
+      "currentTop20Matched": [
+        "G2"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187782,
+          "number": 1,
+          "winner": "G2 Esports",
+          "loser": "ShindeN",
+          "winnerScore": 13,
+          "loserScore": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "bo3MatchId": 130767,
+      "slug": "g2-vs-1win-04-10-2026",
+      "url": "https://bo3.gg/matches/g2-vs-1win-04-10-2026",
+      "event": "ESL Pro League Season 24",
+      "team1": "G2",
+      "team2": "1win",
+      "currentTop20Matched": [
+        "G2"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187770,
+          "number": 1,
+          "winner": "1win",
+          "loser": "G2 Esports",
+          "winnerScore": 13,
+          "loserScore": 11
+        }
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "bo3MatchId": 130765,
+      "slug": "falcons-esports-vs-aurora-gaming-04-10-2026",
+      "url": "https://bo3.gg/matches/falcons-esports-vs-aurora-gaming-04-10-2026",
+      "event": "ESL Pro League Season 24",
+      "team1": "Falcons",
+      "team2": "Aurora",
+      "currentTop20Matched": [
+        "Aurora",
+        "Falcons"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187763,
+          "number": 2,
+          "winner": "Team Falcons",
+          "loser": "Aurora Gaming",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "bo3MatchId": 130764,
+      "slug": "spirit-vs-parivision-04-10-2026",
+      "url": "https://bo3.gg/matches/spirit-vs-parivision-04-10-2026",
+      "event": "ESL Pro League Season 24",
+      "team1": "Spirit",
+      "team2": "PARIVISION",
+      "currentTop20Matched": [
+        "PARIVISION",
+        "Spirit"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187760,
+          "number": 2,
+          "winner": "Team Spirit",
+          "loser": "PARIVISION",
+          "winnerScore": 13,
+          "loserScore": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "bo3MatchId": 130906,
+      "slug": "spirit-academy-vs-fire-flux-03-10-2026",
+      "url": "https://bo3.gg/matches/spirit-academy-vs-fire-flux-03-10-2026",
+      "event": "CCT Europe 2026 Challengers 7",
+      "team1": "Spirit Academy",
+      "team2": "Fire Flux",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187939,
+          "number": 3,
+          "winner": "Spirit Academy",
+          "loser": "Fire Flux",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "bo3MatchId": 130887,
+      "slug": "pcific-esport-vs-vitality-academy-03-10-2026",
+      "url": "https://bo3.gg/matches/pcific-esport-vs-vitality-academy-03-10-2026",
+      "event": "United21 Season 56",
+      "team1": "PCIFIC",
+      "team2": "Vitality Academy",
+      "currentTop20Matched": [
+        "Vitality"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187883,
+          "number": 2,
+          "winner": "WRAITH PCIFIC",
+          "loser": "Vitality Academy",
+          "winnerScore": 13,
+          "loserScore": 2
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "bo3MatchId": 130762,
+      "slug": "aurora-gaming-vs-9z-03-10-2026",
+      "url": "https://bo3.gg/matches/aurora-gaming-vs-9z-03-10-2026",
+      "event": "ESL Pro League Season 24",
+      "team1": "Aurora",
+      "team2": "9z",
+      "currentTop20Matched": [
+        "9z",
+        "Aurora"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187755,
+          "number": 1,
+          "winner": "Aurora Gaming",
+          "loser": "9z Globant",
+          "winnerScore": 13,
+          "loserScore": 3
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "bo3MatchId": 130760,
+      "slug": "legacy-br-vs-parivision-03-10-2026",
+      "url": "https://bo3.gg/matches/legacy-br-vs-parivision-03-10-2026",
+      "event": "ESL Pro League Season 24",
+      "team1": "Legacy",
+      "team2": "PARIVISION",
+      "currentTop20Matched": [
+        "Legacy",
+        "PARIVISION"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187749,
+          "number": 1,
+          "winner": "Legacy",
+          "loser": "PARIVISION",
+          "winnerScore": 13,
+          "loserScore": 5
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "bo3MatchId": 130756,
+      "slug": "spirit-vs-shinden-03-10-2026",
+      "url": "https://bo3.gg/matches/spirit-vs-shinden-03-10-2026",
+      "event": "ESL Pro League Season 24",
+      "team1": "Spirit",
+      "team2": "ShindeN",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187737,
+          "number": 1,
+          "winner": "ShindeN",
+          "loser": "Team Spirit",
+          "winnerScore": 13,
+          "loserScore": 11
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "bo3MatchId": 130755,
+      "slug": "vitality-vs-1win-03-10-2026",
+      "url": "https://bo3.gg/matches/vitality-vs-1win-03-10-2026",
+      "event": "ESL Pro League Season 24",
+      "team1": "Vitality",
+      "team2": "1win",
+      "currentTop20Matched": [
+        "Vitality"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187734,
+          "number": 1,
+          "winner": "Team Vitality",
+          "loser": "1win",
+          "winnerScore": 13,
+          "loserScore": 1
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "bo3MatchId": 129379,
+      "slug": "astralis-vs-fnatic-03-10-2026",
+      "url": "https://bo3.gg/matches/astralis-vs-fnatic-03-10-2026",
+      "event": "Stake Ranked Episode 4",
+      "team1": "Astralis",
+      "team2": "fnatic",
+      "currentTop20Matched": [
+        "Astralis"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 185542,
+          "number": 1,
+          "winner": "Astralis",
+          "loser": "fnatic",
+          "winnerScore": 13,
+          "loserScore": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "bo3MatchId": 130957,
+      "slug": "underworld-vs-mibr_fe-28-09-2026",
+      "url": "https://bo3.gg/matches/underworld-vs-mibr_fe-28-09-2026",
+      "event": "Gamers Club Liga Série A: September 2026",
+      "team1": "Underworld",
+      "team2": "MIBR fe",
+      "currentTop20Matched": [
+        "MIBR"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 188020,
+          "number": 1,
+          "winner": null,
+          "loser": null,
+          "winnerScore": null,
+          "loserScore": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "bo3MatchId": 130439,
+      "slug": "metanoia-wolves-vs-mibr_fe-27-09-2026",
+      "url": "https://bo3.gg/matches/metanoia-wolves-vs-mibr_fe-27-09-2026",
+      "event": "CCT South America 2026 Series 6",
+      "team1": "METANOIA Wolves",
+      "team2": "MIBR fe",
+      "currentTop20Matched": [
+        "MIBR"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187318,
+          "number": 2,
+          "winner": "METANOIA Wolves",
+          "loser": "MIBR fe",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "bo3MatchId": 129833,
+      "slug": "gamerlegion-vs-3dmax-27-09-2026",
+      "url": "https://bo3.gg/matches/gamerlegion-vs-3dmax-27-09-2026",
+      "event": "1win Private Club 1",
+      "team1": "GamerLegion",
+      "team2": "3DMAX",
+      "currentTop20Matched": [
+        "GamerLegion"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 186305,
+          "number": 2,
+          "winner": "3DMAX",
+          "loser": "GamerLegion",
+          "winnerScore": 13,
+          "loserScore": 11
+        }
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "bo3MatchId": 130607,
+      "slug": "young-tigeres-vs-spirit-academy-green-26-09-2026",
+      "url": "https://bo3.gg/matches/young-tigeres-vs-spirit-academy-green-26-09-2026",
+      "event": "ESEA Season 58: European Finals",
+      "team1": "Young TigeRES",
+      "team2": "Spirit Academy Green",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187507,
+          "number": 3,
+          "winner": "Young TigeRES",
+          "loser": "Spirit Academy Green",
+          "winnerScore": 13,
+          "loserScore": 7
+        }
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "bo3MatchId": 129832,
+      "slug": "magic-ru-vs-gamerlegion-26-09-2026",
+      "url": "https://bo3.gg/matches/magic-ru-vs-gamerlegion-26-09-2026",
+      "event": "1win Private Club 1",
+      "team1": "magic",
+      "team2": "GamerLegion",
+      "currentTop20Matched": [
+        "GamerLegion",
+        "magic"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 186303,
+          "number": 1,
+          "winner": "MAGIC",
+          "loser": "GamerLegion",
+          "winnerScore": 13,
+          "loserScore": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "bo3MatchId": 130713,
+      "slug": "mibr_fe-vs-question-marks-25-09-2026",
+      "url": "https://bo3.gg/matches/mibr_fe-vs-question-marks-25-09-2026",
+      "event": "Gamers Club Liga Série A: September 2026",
+      "team1": "MIBR fe",
+      "team2": "???",
+      "currentTop20Matched": [
+        "MIBR",
+        "Spirit"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187675,
+          "number": 1,
+          "winner": null,
+          "loser": null,
+          "winnerScore": null,
+          "loserScore": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "bo3MatchId": 130636,
+      "slug": "genone-vs-faze-up-next-25-09-2026",
+      "url": "https://bo3.gg/matches/genone-vs-faze-up-next-25-09-2026",
+      "event": "Leon.bet Masters Season 1",
+      "team1": "GenOne",
+      "team2": "FaZe Up Next",
+      "currentTop20Matched": [
+        "FaZe"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187583,
+          "number": 2,
+          "winner": "GenOne",
+          "loser": "FAZE UP",
+          "winnerScore": 13,
+          "loserScore": 4
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "bo3MatchId": 130602,
+      "slug": "spirit-academy-green-vs-baks-esports-25-09-2026",
+      "url": "https://bo3.gg/matches/spirit-academy-green-vs-baks-esports-25-09-2026",
+      "event": "ESEA Season 58: European Finals",
+      "team1": "Spirit Academy Green",
+      "team2": "BAKS",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187493,
+          "number": 2,
+          "winner": "Spirit Academy Green",
+          "loser": "BAKS Esports",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "bo3MatchId": 129686,
+      "slug": "magic-ru-vs-eyeballers-25-09-2026",
+      "url": "https://bo3.gg/matches/magic-ru-vs-eyeballers-25-09-2026",
+      "event": "1win Private Club 1",
+      "team1": "magic",
+      "team2": "EYEBALLERS",
+      "currentTop20Matched": [
+        "magic"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 186199,
+          "number": 2,
+          "winner": "Magic",
+          "loser": "EYEBALLERS",
+          "winnerScore": 13,
+          "loserScore": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "bo3MatchId": 129580,
+      "slug": "eternal-fire-vs-astral-24-09-2026",
+      "url": "https://bo3.gg/matches/eternal-fire-vs-astral-24-09-2026",
+      "event": "Stake Pulse Beat II",
+      "team1": "Eternal Fire",
+      "team2": "ASTRAL",
+      "currentTop20Matched": [
+        "Astralis"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 186019,
+          "number": 2,
+          "winner": "Eternal Fire",
+          "loser": "ASTRAL",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "bo3MatchId": 130597,
+      "slug": "forfeit-exe-vs-aurora-young-blood-23-09-2026",
+      "url": "https://bo3.gg/matches/forfeit-exe-vs-aurora-young-blood-23-09-2026",
+      "event": "ESEA Season 58: European Finals",
+      "team1": "forfeit-exe",
+      "team2": "Aurora Young Blud",
+      "currentTop20Matched": [
+        "Aurora"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187478,
+          "number": 2,
+          "winner": "Aurora Young Blud",
+          "loser": "forfeit-exe",
+          "winnerScore": 16,
+          "loserScore": 14
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "bo3MatchId": 130596,
+      "slug": "gelo-vs-faze-up-next-23-09-2026",
+      "url": "https://bo3.gg/matches/gelo-vs-faze-up-next-23-09-2026",
+      "event": "ESEA Season 58: European Finals",
+      "team1": "Gelo",
+      "team2": "FaZe Up Next",
+      "currentTop20Matched": [
+        "FaZe"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187475,
+          "number": 2,
+          "winner": "Gelo",
+          "loser": "FaZe Up Next",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "bo3MatchId": 130592,
+      "slug": "faze-up-next-vs-cucu-media-22-09-2026",
+      "url": "https://bo3.gg/matches/faze-up-next-vs-cucu-media-22-09-2026",
+      "event": "ESEA Season 58: European Finals",
+      "team1": "FaZe Up Next",
+      "team2": "CUCU MEDIA",
+      "currentTop20Matched": [
+        "FaZe"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187464,
+          "number": 1,
+          "winner": "FaZe Up Next",
+          "loser": "CUCU MEDIA",
+          "winnerScore": 13,
+          "loserScore": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "bo3MatchId": 129247,
+      "slug": "azuolas-vs-spirit-academy-21-09-2026",
+      "url": "https://bo3.gg/matches/azuolas-vs-spirit-academy-21-09-2026",
+      "event": "CCT Europe 2026 Series 9",
+      "team1": "Azuolas",
+      "team2": "Spirit Academy",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 185299,
+          "number": 2,
+          "winner": "Spirit Academy",
+          "loser": "Azuolas",
+          "winnerScore": 13,
+          "loserScore": 5
+        }
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "bo3MatchId": 129603,
+      "slug": "vitality-vs-furia-18-09-2026",
+      "url": "https://bo3.gg/matches/vitality-vs-furia-18-09-2026",
+      "event": "StarLadder StarSeries Fall 2026",
+      "team1": "Vitality",
+      "team2": "FURIA",
+      "currentTop20Matched": [
+        "FURIA",
+        "Vitality"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 186070,
+          "number": 2,
+          "winner": "Team Vitality",
+          "loser": "FURIA",
+          "winnerScore": 13,
+          "loserScore": 5
+        }
+      ],
+      "mirror": {
+        "githubUrl": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/demos/2026-09-18-vitality-vs-furia-dust2.dem",
+        "matchId": "hltv-2398102-m2",
+        "size": 304828588
+      }
+    },
+    {
+      "date": "2026-09-17",
+      "bo3MatchId": 129597,
+      "slug": "vitality-vs-magic-ru-17-09-2026",
+      "url": "https://bo3.gg/matches/vitality-vs-magic-ru-17-09-2026",
+      "event": "StarLadder StarSeries Fall 2026",
+      "team1": "Vitality",
+      "team2": "magic",
+      "currentTop20Matched": [
+        "Vitality",
+        "magic"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 186052,
+          "number": 2,
+          "winner": "Team Vitality",
+          "loser": "magic",
+          "winnerScore": 13,
+          "loserScore": 9
+        }
+      ],
+      "mirror": {
+        "githubUrl": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/demos/2026-09-17-vitality-vs-magic-dust2.dem",
+        "matchId": "hltv-2398089-m2",
+        "size": 355072683
+      }
+    },
+    {
+      "date": "2026-09-17",
+      "bo3MatchId": 129596,
+      "slug": "mousesports-vs-nrg-17-09-2026",
+      "url": "https://bo3.gg/matches/mousesports-vs-nrg-17-09-2026",
+      "event": "StarLadder StarSeries Fall 2026",
+      "team1": "MOUZ",
+      "team2": "NRG",
+      "currentTop20Matched": [
+        "MOUZ"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 186048,
+          "number": 3,
+          "winner": "NRG",
+          "loser": "MOUZ",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "bo3MatchId": 129331,
+      "slug": "gamerlegion-vs-nip-17-09-2026",
+      "url": "https://bo3.gg/matches/gamerlegion-vs-nip-17-09-2026",
+      "event": "Logitech G Play Connect 2026",
+      "team1": "GamerLegion",
+      "team2": "Ninjas in Pyjamas",
+      "currentTop20Matched": [
+        "GamerLegion"
+      ],
+      "seriesScore": "1-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 185458,
+          "number": 1,
+          "winner": "GamerLegion",
+          "loser": "Ninjas in Pyjamas",
+          "winnerScore": 13,
+          "loserScore": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "bo3MatchId": 129328,
+      "slug": "luminosity-cs-go-vs-b8-17-09-2026",
+      "url": "https://bo3.gg/matches/luminosity-cs-go-vs-b8-17-09-2026",
+      "event": "Logitech G Play Connect 2026",
+      "team1": "Luminosity",
+      "team2": "B8",
+      "currentTop20Matched": [
+        "B8"
+      ],
+      "seriesScore": "0-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 185455,
+          "number": 1,
+          "winner": "B8",
+          "loser": "Luminosity",
+          "winnerScore": 13,
+          "loserScore": 11
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "bo3MatchId": 129234,
+      "slug": "nexus-vs-spirit-academy-17-09-2026",
+      "url": "https://bo3.gg/matches/nexus-vs-spirit-academy-17-09-2026",
+      "event": "CCT Europe 2026 Series 9",
+      "team1": "Nexus",
+      "team2": "Spirit Academy",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 185261,
+          "number": 1,
+          "winner": "Spirit Academy",
+          "loser": "Nexus",
+          "winnerScore": 13,
+          "loserScore": 1
+        }
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "bo3MatchId": 129925,
+      "slug": "underworld-vs-question-marks-16-09-2026",
+      "url": "https://bo3.gg/matches/underworld-vs-question-marks-16-09-2026",
+      "event": "Gamers Club Liga Série A: September 2026",
+      "team1": "Underworld",
+      "team2": "???",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "1-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 186460,
+          "number": 1,
+          "winner": null,
+          "loser": null,
+          "winnerScore": null,
+          "loserScore": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "bo3MatchId": 129877,
+      "slug": "mibr_fe-vs-holanda-78-15-09-2026",
+      "url": "https://bo3.gg/matches/mibr_fe-vs-holanda-78-15-09-2026",
+      "event": "CCT South America 2026 Challengers 3",
+      "team1": "MIBR fe",
+      "team2": "HOLANDA 78",
+      "currentTop20Matched": [
+        "MIBR"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 186366,
+          "number": 3,
+          "winner": "HOLANDA 78",
+          "loser": "MIBR fe",
+          "winnerScore": 13,
+          "loserScore": 11
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "bo3MatchId": 129430,
+      "slug": "ence-vs-falcons-force-14-09-2026",
+      "url": "https://bo3.gg/matches/ence-vs-falcons-force-14-09-2026",
+      "event": "Fiesta Series 2",
+      "team1": "ENCE",
+      "team2": "Falcons Force",
+      "currentTop20Matched": [
+        "Falcons"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 185589,
+          "number": 1,
+          "winner": "ENCE",
+          "loser": "Falcons Force",
+          "winnerScore": 13,
+          "loserScore": 4
+        }
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "bo3MatchId": 129018,
+      "slug": "g2-vs-legacy-br-13-09-2026",
+      "url": "https://bo3.gg/matches/g2-vs-legacy-br-13-09-2026",
+      "event": "FISSURE Playground 3",
+      "team1": "Legacy",
+      "team2": "G2",
+      "currentTop20Matched": [
+        "G2",
+        "Legacy"
+      ],
+      "seriesScore": "3-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184721,
+          "number": 3,
+          "winner": "LEGACY",
+          "loser": "G2!Esports",
+          "winnerScore": 13,
+          "loserScore": 4
+        }
+      ],
+      "mirror": {
+        "githubUrl": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/demos/2026-09-13-legacy-vs-g2-dust2.dem",
+        "matchId": "hltv-2397623-m3",
+        "size": 405258338
+      }
+    },
+    {
+      "date": "2026-09-12",
+      "bo3MatchId": 129096,
+      "slug": "1win-vs-b8-12-09-2026",
+      "url": "https://bo3.gg/matches/1win-vs-b8-12-09-2026",
+      "event": "PGL Masters Bucharest 2026: European Qualifier",
+      "team1": "1win",
+      "team2": "B8",
+      "currentTop20Matched": [
+        "B8"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184881,
+          "number": 1,
+          "winner": "B8",
+          "loser": "1W",
+          "winnerScore": 13,
+          "loserScore": 7
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "bo3MatchId": 129095,
+      "slug": "b8-vs-nuclear-tigeres-11-09-2026",
+      "url": "https://bo3.gg/matches/b8-vs-nuclear-tigeres-11-09-2026",
+      "event": "PGL Masters Bucharest 2026: European Qualifier",
+      "team1": "Nuclear TigeRES",
+      "team2": "B8",
+      "currentTop20Matched": [
+        "B8"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184877,
+          "number": 2,
+          "winner": "B8",
+          "loser": "Nuclear TigeRES",
+          "winnerScore": 13,
+          "loserScore": 3
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "bo3MatchId": 129093,
+      "slug": "b8-vs-inner-circle-esports-11-09-2026",
+      "url": "https://bo3.gg/matches/b8-vs-inner-circle-esports-11-09-2026",
+      "event": "PGL Masters Bucharest 2026: European Qualifier",
+      "team1": "B8",
+      "team2": "Inner Circle",
+      "currentTop20Matched": [
+        "B8"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184872,
+          "number": 1,
+          "winner": "B8",
+          "loser": "-Inner Circle",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "bo3MatchId": 129015,
+      "slug": "furia-vs-g2-11-09-2026",
+      "url": "https://bo3.gg/matches/furia-vs-g2-11-09-2026",
+      "event": "FISSURE Playground 3",
+      "team1": "FURIA",
+      "team2": "G2",
+      "currentTop20Matched": [
+        "FURIA",
+        "G2"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184711,
+          "number": 2,
+          "winner": "G2!Esports",
+          "loser": "FURIA",
+          "winnerScore": 13,
+          "loserScore": 3
+        }
+      ],
+      "mirror": {
+        "githubUrl": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/demos/2026-09-11-furia-vs-g2-dust2.dem",
+        "matchId": "hltv-2397619-m2",
+        "size": 304505435
+      }
+    },
+    {
+      "date": "2026-09-11",
+      "bo3MatchId": 128115,
+      "slug": "natus-vincere-junior-vs-falcons-force-11-09-2026",
+      "url": "https://bo3.gg/matches/natus-vincere-junior-vs-falcons-force-11-09-2026",
+      "event": "European Pro League Series 9 Play-In",
+      "team1": "NAVI Junior",
+      "team2": "Falcons Force",
+      "currentTop20Matched": [
+        "Falcons"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 183516,
+          "number": 1,
+          "winner": null,
+          "loser": null,
+          "winnerScore": null,
+          "loserScore": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "bo3MatchId": 129090,
+      "slug": "1win-vs-b8-10-09-2026",
+      "url": "https://bo3.gg/matches/1win-vs-b8-10-09-2026",
+      "event": "PGL Masters Bucharest 2026: European Qualifier",
+      "team1": "1win",
+      "team2": "B8",
+      "currentTop20Matched": [
+        "B8"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184863,
+          "number": 1,
+          "winner": "",
+          "loser": "",
+          "winnerScore": 13,
+          "loserScore": 2
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "bo3MatchId": 129010,
+      "slug": "9z-vs-g2-10-09-2026",
+      "url": "https://bo3.gg/matches/9z-vs-g2-10-09-2026",
+      "event": "FISSURE Playground 3",
+      "team1": "9z",
+      "team2": "G2",
+      "currentTop20Matched": [
+        "9z",
+        "G2"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184697,
+          "number": 1,
+          "winner": "9zGlobant",
+          "loser": "G2!Esports",
+          "winnerScore": 13,
+          "loserScore": 11
+        }
+      ],
+      "mirror": {
+        "githubUrl": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/demos/2026-09-10-9z-vs-g2-dust2.dem",
+        "matchId": "hltv-2397611-m1",
+        "size": 415152180
+      }
+    },
+    {
+      "date": "2026-09-09",
+      "bo3MatchId": 128999,
+      "slug": "legacy-br-vs-alliance-cs-09-09-2026",
+      "url": "https://bo3.gg/matches/legacy-br-vs-alliance-cs-09-09-2026",
+      "event": "FISSURE Playground 3",
+      "team1": "Alliance",
+      "team2": "Legacy",
+      "currentTop20Matched": [
+        "Legacy"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184663,
+          "number": 2,
+          "winner": "LEGACY",
+          "loser": "Alliance",
+          "winnerScore": 13,
+          "loserScore": 6
+        }
+      ],
+      "mirror": {
+        "githubUrl": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/demos/2026-09-09-legacy-vs-alliance-dust2.dem",
+        "matchId": "hltv-2397608-m2",
+        "size": 347220116
+      }
+    },
+    {
+      "date": "2026-09-09",
+      "bo3MatchId": 128998,
+      "slug": "magic-ru-vs-faze-09-09-2026",
+      "url": "https://bo3.gg/matches/magic-ru-vs-faze-09-09-2026",
+      "event": "FISSURE Playground 3",
+      "team1": "FaZe",
+      "team2": "magic",
+      "currentTop20Matched": [
+        "FaZe",
+        "magic"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184660,
+          "number": 2,
+          "winner": "FaZe",
+          "loser": "Magic",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ],
+      "mirror": {
+        "githubUrl": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/demos/2026-09-09-magic-vs-faze-dust2.dem",
+        "matchId": "hltv-2397607-m2",
+        "size": 438043045
+      }
+    },
+    {
+      "date": "2026-09-09",
+      "bo3MatchId": 128814,
+      "slug": "noir-verse-vs-spirit-academy-09-09-2026",
+      "url": "https://bo3.gg/matches/noir-verse-vs-spirit-academy-09-09-2026",
+      "event": "CCT Europe 2026 Challengers 6",
+      "team1": "Noir Verse",
+      "team2": "Spirit Academy",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184178,
+          "number": 3,
+          "winner": "Noir Verse",
+          "loser": "Team Spirit Academy",
+          "winnerScore": 16,
+          "loserScore": 13
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "bo3MatchId": 128927,
+      "slug": "mouz-nxt-vs-basement-boys-08-09-2026",
+      "url": "https://bo3.gg/matches/mouz-nxt-vs-basement-boys-08-09-2026",
+      "event": "ESL Challenger League Season 52: Europe - Cup 6",
+      "team1": "MOUZ NXT",
+      "team2": "BASEMENT BOYS",
+      "currentTop20Matched": [
+        "MOUZ"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184465,
+          "number": 2,
+          "winner": "BASEMENT BOYS",
+          "loser": "MOUZ NXT",
+          "winnerScore": 13,
+          "loserScore": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "bo3MatchId": 128925,
+      "slug": "mouz-nxt-vs-dark-moon-08-09-2026",
+      "url": "https://bo3.gg/matches/mouz-nxt-vs-dark-moon-08-09-2026",
+      "event": "ESL Challenger League Season 52: Europe - Cup 6",
+      "team1": "MOUZ NXT",
+      "team2": "Dark Moon",
+      "currentTop20Matched": [
+        "MOUZ"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184460,
+          "number": 1,
+          "winner": "MOUZ NXT",
+          "loser": "Dark Moon",
+          "winnerScore": 16,
+          "loserScore": 14
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "bo3MatchId": 128178,
+      "slug": "gamerlegion-vs-furia-08-09-2026",
+      "url": "https://bo3.gg/matches/gamerlegion-vs-furia-08-09-2026",
+      "event": "FISSURE Playground 3",
+      "team1": "GamerLegion",
+      "team2": "FURIA",
+      "currentTop20Matched": [
+        "FURIA",
+        "GamerLegion"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 183683,
+          "number": 3,
+          "winner": "FURIA",
+          "loser": "GamerLegion",
+          "winnerScore": 13,
+          "loserScore": 3
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "bo3MatchId": 128177,
+      "slug": "legacy-br-vs-magic-ru-08-09-2026",
+      "url": "https://bo3.gg/matches/legacy-br-vs-magic-ru-08-09-2026",
+      "event": "FISSURE Playground 3",
+      "team1": "Legacy",
+      "team2": "magic",
+      "currentTop20Matched": [
+        "Legacy",
+        "magic"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 183681,
+          "number": 2,
+          "winner": "Magic",
+          "loser": "LEGACY",
+          "winnerScore": 13,
+          "loserScore": 7
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "bo3MatchId": 129064,
+      "slug": "titanflow-vs-spirit-academy-black-07-09-2026",
+      "url": "https://bo3.gg/matches/titanflow-vs-spirit-academy-black-07-09-2026",
+      "event": "CCT Europe 2026 Contenders 9",
+      "team1": "TitanFlow",
+      "team2": "Spirit Academy Black",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184783,
+          "number": 3,
+          "winner": "TitanFlow",
+          "loser": "Spirit Academy Black",
+          "winnerScore": 13,
+          "loserScore": 5
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "bo3MatchId": 128966,
+      "slug": "1win-vs-astral-06-09-2026",
+      "url": "https://bo3.gg/matches/1win-vs-astral-06-09-2026",
+      "event": "PGL Masters Bucharest 2026: European Open Qualifier 2",
+      "team1": "ASTRAL",
+      "team2": "1win",
+      "currentTop20Matched": [
+        "Astralis"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184567,
+          "number": 1,
+          "winner": "1W",
+          "loser": "ASTRAL",
+          "winnerScore": 13,
+          "loserScore": 3
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "bo3MatchId": 128908,
+      "slug": "pcific-esport-vs-mouz-nxt-06-09-2026",
+      "url": "https://bo3.gg/matches/pcific-esport-vs-mouz-nxt-06-09-2026",
+      "event": "ESL Challenger League Season 52: Europe - Cup 6",
+      "team1": "PCIFIC",
+      "team2": "MOUZ NXT",
+      "currentTop20Matched": [
+        "MOUZ"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184409,
+          "number": 1,
+          "winner": "WRAITH PCIFIC",
+          "loser": "MOUZ NXT",
+          "winnerScore": 13,
+          "loserScore": 7
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "bo3MatchId": 128905,
+      "slug": "misa-esports-cs-vs-mouz-nxt-06-09-2026",
+      "url": "https://bo3.gg/matches/misa-esports-cs-vs-mouz-nxt-06-09-2026",
+      "event": "ESL Challenger League Season 52: Europe - Cup 6",
+      "team1": "Misa",
+      "team2": "MOUZ NXT",
+      "currentTop20Matched": [
+        "MOUZ"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184400,
+          "number": 1,
+          "winner": "Misa",
+          "loser": "MOUZ NXT",
+          "winnerScore": 13,
+          "loserScore": 11
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "bo3MatchId": 127405,
+      "slug": "spirit-vs-mousesports-06-09-2026",
+      "url": "https://bo3.gg/matches/spirit-vs-mousesports-06-09-2026",
+      "event": "BLAST Open Fall 2026",
+      "team1": "Spirit",
+      "team2": "MOUZ",
+      "currentTop20Matched": [
+        "MOUZ",
+        "Spirit"
+      ],
+      "seriesScore": "3-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182141,
+          "number": 1,
+          "winner": "Spirit",
+          "loser": "MOUZ",
+          "winnerScore": 13,
+          "loserScore": 8
+        }
+      ],
+      "mirror": {
+        "githubUrl": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/demos/2026-09-06-spirit-vs-mouz-dust2.dem",
+        "matchId": "hltv-2396951-m1",
+        "size": 355987240
+      }
+    },
+    {
+      "date": "2026-09-05",
+      "bo3MatchId": 128930,
+      "slug": "anger-vs-spirit-academy-black-05-09-2026",
+      "url": "https://bo3.gg/matches/anger-vs-spirit-academy-black-05-09-2026",
+      "event": "CCT Europe 2026 Contenders 9",
+      "team1": "Anger",
+      "team2": "Spirit Academy Black",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184475,
+          "number": 1,
+          "winner": "Spirit Academy Black",
+          "loser": "Anger",
+          "winnerScore": 13,
+          "loserScore": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "bo3MatchId": 128797,
+      "slug": "bushido-wildcats-cs-vs-spirit-academy-05-09-2026",
+      "url": "https://bo3.gg/matches/bushido-wildcats-cs-vs-spirit-academy-05-09-2026",
+      "event": "CCT Europe 2026 Challengers 6",
+      "team1": "Bushido Wildcats",
+      "team2": "Spirit Academy",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184128,
+          "number": 2,
+          "winner": "Bushido Wildcats",
+          "loser": "Team Spirit Academy",
+          "winnerScore": 13,
+          "loserScore": 7
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "bo3MatchId": 128658,
+      "slug": "kuusamogg-vs-spirit-academy-green-05-09-2026",
+      "url": "https://bo3.gg/matches/kuusamogg-vs-spirit-academy-green-05-09-2026",
+      "event": "ESEA Season 58: Advanced Division - Europe",
+      "team1": "KUUSAMO",
+      "team2": "Spirit Academy Green",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184037,
+          "number": 2,
+          "winner": "Spirit Academy Green",
+          "loser": "KUUSAMOgg",
+          "winnerScore": 13,
+          "loserScore": 4
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "bo3MatchId": 127404,
+      "slug": "mousesports-vs-vitality-05-09-2026",
+      "url": "https://bo3.gg/matches/mousesports-vs-vitality-05-09-2026",
+      "event": "BLAST Open Fall 2026",
+      "team1": "MOUZ",
+      "team2": "Vitality",
+      "currentTop20Matched": [
+        "MOUZ",
+        "Vitality"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182136,
+          "number": 1,
+          "winner": "MOUZ",
+          "loser": "Vitality",
+          "winnerScore": 13,
+          "loserScore": 11
+        }
+      ],
+      "mirror": {
+        "githubUrl": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/demos/2026-09-05-mouz-vs-vitality-dust2.dem",
+        "matchId": "hltv-2396950-m1",
+        "size": 392510692
+      }
+    },
+    {
+      "date": "2026-09-04",
+      "bo3MatchId": 128883,
+      "slug": "nemiga-vs-astral-04-09-2026",
+      "url": "https://bo3.gg/matches/nemiga-vs-astral-04-09-2026",
+      "event": "PGL Masters Bucharest 2026: European Open Qualifier 1",
+      "team1": "Nemiga",
+      "team2": "ASTRAL",
+      "currentTop20Matched": [
+        "Astralis"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184382,
+          "number": 3,
+          "winner": "team_1eeR",
+          "loser": "team_speed_demon",
+          "winnerScore": 13,
+          "loserScore": 3
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "bo3MatchId": 128623,
+      "slug": "team-nemesis-cs-vs-astral-04-09-2026",
+      "url": "https://bo3.gg/matches/team-nemesis-cs-vs-astral-04-09-2026",
+      "event": "Stake Ranked Episode 4: Closed Qualifier",
+      "team1": "Nemesis",
+      "team2": "ASTRAL",
+      "currentTop20Matched": [
+        "Astralis"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 183931,
+          "number": 3,
+          "winner": "NemNemesis",
+          "loser": "ASTRAL",
+          "winnerScore": 13,
+          "loserScore": 11
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "bo3MatchId": 127884,
+      "slug": "mouz-nxt-vs-bushido-wildcats-cs-04-09-2026",
+      "url": "https://bo3.gg/matches/mouz-nxt-vs-bushido-wildcats-cs-04-09-2026",
+      "event": "CCT Europe 2026 Series 8",
+      "team1": "MOUZ NXT",
+      "team2": "Bushido Wildcats",
+      "currentTop20Matched": [
+        "MOUZ"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 183106,
+          "number": 2,
+          "winner": "MOUZ NXT",
+          "loser": "Bushido Wildcats",
+          "winnerScore": 13,
+          "loserScore": 7
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "bo3MatchId": 127402,
+      "slug": "furia-vs-vitality-04-09-2026",
+      "url": "https://bo3.gg/matches/furia-vs-vitality-04-09-2026",
+      "event": "BLAST Open Fall 2026",
+      "team1": "FURIA",
+      "team2": "Vitality",
+      "currentTop20Matched": [
+        "FURIA",
+        "Vitality"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182128,
+          "number": 3,
+          "winner": "Vitality",
+          "loser": "FURIA",
+          "winnerScore": 13,
+          "loserScore": 4
+        }
+      ],
+      "mirror": {
+        "githubUrl": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/demos/2026-09-04-furia-vs-vitality-dust2.dem",
+        "matchId": "hltv-2396948-m3",
+        "size": 293349942
+      }
+    },
+    {
+      "date": "2026-09-04",
+      "bo3MatchId": 127401,
+      "slug": "falcons-esports-vs-g2-04-09-2026",
+      "url": "https://bo3.gg/matches/falcons-esports-vs-g2-04-09-2026",
+      "event": "BLAST Open Fall 2026",
+      "team1": "Falcons",
+      "team2": "G2",
+      "currentTop20Matched": [
+        "Falcons",
+        "G2"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182126,
+          "number": 2,
+          "winner": "Falcons",
+          "loser": "G2",
+          "winnerScore": 13,
+          "loserScore": 9
+        }
+      ],
+      "mirror": {
+        "githubUrl": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/demos/2026-09-04-falcons-vs-g2-dust2.dem",
+        "matchId": "hltv-2396947-m2",
+        "size": 378373716
+      }
+    },
+    {
+      "date": "2026-09-03",
+      "bo3MatchId": 127883,
+      "slug": "mouz-nxt-vs-pcific-esport-03-09-2026",
+      "url": "https://bo3.gg/matches/mouz-nxt-vs-pcific-esport-03-09-2026",
+      "event": "CCT Europe 2026 Series 8",
+      "team1": "MOUZ NXT",
+      "team2": "PCIFIC",
+      "currentTop20Matched": [
+        "MOUZ"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 183104,
+          "number": 1,
+          "winner": "PCIFIC",
+          "loser": "MOUZ NXT",
+          "winnerScore": 13,
+          "loserScore": 5
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "bo3MatchId": 127504,
+      "slug": "heroic-vs-magic-ru-03-09-2026",
+      "url": "https://bo3.gg/matches/heroic-vs-magic-ru-03-09-2026",
+      "event": "Intel Extreme Masters Beijing 2026: Global Qualifier",
+      "team1": "magic",
+      "team2": "HEROIC",
+      "currentTop20Matched": [
+        "magic"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182268,
+          "number": 1,
+          "winner": "HEROIC",
+          "loser": "magic",
+          "winnerScore": 13,
+          "loserScore": 7
+        }
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "bo3MatchId": 128633,
+      "slug": "falcons-force-vs-fraternity-02-09-2026",
+      "url": "https://bo3.gg/matches/falcons-force-vs-fraternity-02-09-2026",
+      "event": "ESEA Season 58: Advanced Division - Europe",
+      "team1": "Falcons Force",
+      "team2": "Fraternity",
+      "currentTop20Matched": [
+        "Falcons"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 183963,
+          "number": 1,
+          "winner": "Falcons Force",
+          "loser": "Fraternity",
+          "winnerScore": 13,
+          "loserScore": 4
+        }
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "bo3MatchId": 127488,
+      "slug": "color-vs-b8-02-09-2026",
+      "url": "https://bo3.gg/matches/color-vs-b8-02-09-2026",
+      "event": "Intel Extreme Masters Beijing 2026: Global Qualifier",
+      "team1": "Color",
+      "team2": "B8",
+      "currentTop20Matched": [
+        "B8"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182220,
+          "number": 1,
+          "winner": "B8 Esports",
+          "loser": "Color",
+          "winnerScore": 13,
+          "loserScore": 11
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "bo3MatchId": 128098,
+      "slug": "falcons-force-vs-yologang-01-09-2026",
+      "url": "https://bo3.gg/matches/falcons-force-vs-yologang-01-09-2026",
+      "event": "European Pro League Series 9 Play-In",
+      "team1": "Falcons Force",
+      "team2": "yologang",
+      "currentTop20Matched": [
+        "Falcons"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 183465,
+          "number": 1,
+          "winner": "Falcons Force",
+          "loser": "yologang",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "bo3MatchId": 127980,
+      "slug": "infurity-gaming-vs-faze-up-next-31-08-2026",
+      "url": "https://bo3.gg/matches/infurity-gaming-vs-faze-up-next-31-08-2026",
+      "event": "United21 Season 54",
+      "team1": "INFURITY",
+      "team2": "FaZe Up Next",
+      "currentTop20Matched": [
+        "FaZe"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 183290,
+          "number": 2,
+          "winner": "FaZe Up Next",
+          "loser": "INFURITY",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "bo3MatchId": 127399,
+      "slug": "fut-cs2-vs-vitality-31-08-2026",
+      "url": "https://bo3.gg/matches/fut-cs2-vs-vitality-31-08-2026",
+      "event": "BLAST Open Fall 2026",
+      "team1": "Vitality",
+      "team2": "FUT",
+      "currentTop20Matched": [
+        "FUT",
+        "Vitality"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182120,
+          "number": 2,
+          "winner": "Vitality",
+          "loser": "FUT",
+          "winnerScore": 13,
+          "loserScore": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-08-30",
+      "bo3MatchId": 128147,
+      "slug": "baks-esports-vs-mouz-nxt-30-08-2026",
+      "url": "https://bo3.gg/matches/baks-esports-vs-mouz-nxt-30-08-2026",
+      "event": "ESL Challenger League Season 52: Europe - Cup 5",
+      "team1": "BAKS",
+      "team2": "MOUZ NXT",
+      "currentTop20Matched": [
+        "MOUZ"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 183611,
+          "number": 2,
+          "winner": "BAKS Esports",
+          "loser": "MOUZ NXT",
+          "winnerScore": 13,
+          "loserScore": 5
+        }
+      ]
+    },
+    {
+      "date": "2026-08-30",
+      "bo3MatchId": 127397,
+      "slug": "vitality-vs-legacy-br-30-08-2026",
+      "url": "https://bo3.gg/matches/vitality-vs-legacy-br-30-08-2026",
+      "event": "BLAST Open Fall 2026",
+      "team1": "Legacy",
+      "team2": "Vitality",
+      "currentTop20Matched": [
+        "Legacy",
+        "Vitality"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182113,
+          "number": 3,
+          "winner": "Vitality",
+          "loser": "Legacy",
+          "winnerScore": 13,
+          "loserScore": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-08-30",
+      "bo3MatchId": 127385,
+      "slug": "m80-cs-go-vs-aurora-gaming-30-08-2026",
+      "url": "https://bo3.gg/matches/m80-cs-go-vs-aurora-gaming-30-08-2026",
+      "event": "BLAST Open Fall 2026",
+      "team1": "M80",
+      "team2": "Aurora",
+      "currentTop20Matched": [
+        "Aurora"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182079,
+          "number": 1,
+          "winner": "Aurora",
+          "loser": "M80",
+          "winnerScore": 13,
+          "loserScore": 3
+        }
+      ]
+    },
+    {
+      "date": "2026-08-29",
+      "bo3MatchId": 127976,
+      "slug": "faze-up-next-vs-phantom-academy-29-08-2026",
+      "url": "https://bo3.gg/matches/faze-up-next-vs-phantom-academy-29-08-2026",
+      "event": "United21 Season 54",
+      "team1": "FaZe Up Next",
+      "team2": "Phantom Academy",
+      "currentTop20Matched": [
+        "FaZe"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 183277,
+          "number": 3,
+          "winner": "FaZe Up Next",
+          "loser": "Phantom Academy",
+          "winnerScore": 1,
+          "loserScore": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-08-29",
+      "bo3MatchId": 127396,
+      "slug": "legacy-br-vs-falcons-esports-29-08-2026",
+      "url": "https://bo3.gg/matches/legacy-br-vs-falcons-esports-29-08-2026",
+      "event": "BLAST Open Fall 2026",
+      "team1": "Legacy",
+      "team2": "Falcons",
+      "currentTop20Matched": [
+        "Falcons",
+        "Legacy"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182110,
+          "number": 3,
+          "winner": "Falcons",
+          "loser": "Legacy",
+          "winnerScore": 13,
+          "loserScore": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-08-29",
+      "bo3MatchId": 127395,
+      "slug": "fut-cs2-vs-lynn-vision-29-08-2026",
+      "url": "https://bo3.gg/matches/fut-cs2-vs-lynn-vision-29-08-2026",
+      "event": "BLAST Open Fall 2026",
+      "team1": "FUT",
+      "team2": "Lynn Vision",
+      "currentTop20Matched": [
+        "FUT"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182109,
+          "number": 1,
+          "winner": "Lynn Vision",
+          "loser": "FUT",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-08-29",
+      "bo3MatchId": 127393,
+      "slug": "vitality-vs-9z-29-08-2026",
+      "url": "https://bo3.gg/matches/vitality-vs-9z-29-08-2026",
+      "event": "BLAST Open Fall 2026",
+      "team1": "Vitality",
+      "team2": "9z",
+      "currentTop20Matched": [
+        "9z",
+        "Vitality"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182103,
+          "number": 1,
+          "winner": "Vitality",
+          "loser": "9z",
+          "winnerScore": 13,
+          "loserScore": 2
+        }
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "bo3MatchId": 127384,
+      "slug": "m80-cs-go-vs-furia-28-08-2026",
+      "url": "https://bo3.gg/matches/m80-cs-go-vs-furia-28-08-2026",
+      "event": "BLAST Open Fall 2026",
+      "team1": "M80",
+      "team2": "FURIA",
+      "currentTop20Matched": [
+        "FURIA"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182075,
+          "number": 2,
+          "winner": "FURIA",
+          "loser": "M80",
+          "winnerScore": 13,
+          "loserScore": 5
+        }
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "bo3MatchId": 127382,
+      "slug": "g2-vs-spirit-28-08-2026",
+      "url": "https://bo3.gg/matches/g2-vs-spirit-28-08-2026",
+      "event": "BLAST Open Fall 2026",
+      "team1": "G2",
+      "team2": "Spirit",
+      "currentTop20Matched": [
+        "G2",
+        "Spirit"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182070,
+          "number": 1,
+          "winner": "Spirit",
+          "loser": "G2",
+          "winnerScore": 13,
+          "loserScore": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "bo3MatchId": 127392,
+      "slug": "falcons-esports-vs-lynn-vision-27-08-2026",
+      "url": "https://bo3.gg/matches/falcons-esports-vs-lynn-vision-27-08-2026",
+      "event": "BLAST Open Fall 2026",
+      "team1": "Falcons",
+      "team2": "Lynn Vision",
+      "currentTop20Matched": [
+        "Falcons"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182098,
+          "number": 3,
+          "winner": "Falcons",
+          "loser": "Lynn Vision",
+          "winnerScore": 13,
+          "loserScore": 9
+        }
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "bo3MatchId": 127391,
+      "slug": "legacy-br-vs-fut-cs2-27-08-2026",
+      "url": "https://bo3.gg/matches/legacy-br-vs-fut-cs2-27-08-2026",
+      "event": "BLAST Open Fall 2026",
+      "team1": "Legacy",
+      "team2": "FUT",
+      "currentTop20Matched": [
+        "FUT",
+        "Legacy"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182096,
+          "number": 2,
+          "winner": "Legacy",
+          "loser": "FUT",
+          "winnerScore": 13,
+          "loserScore": 11
+        }
+      ]
+    },
+    {
+      "date": "2026-08-24",
+      "bo3MatchId": 127585,
+      "slug": "question-marks-vs-borracheiros-24-08-2026",
+      "url": "https://bo3.gg/matches/question-marks-vs-borracheiros-24-08-2026",
+      "event": "Gamers Club Liga Série A: August 2026",
+      "team1": "???",
+      "team2": "BORRACHEIROS",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182477,
+          "number": 2,
+          "winner": null,
+          "loser": null,
+          "winnerScore": null,
+          "loserScore": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-23",
+      "bo3MatchId": 126442,
+      "slug": "furia-vs-legacy-br-23-08-2026",
+      "url": "https://bo3.gg/matches/furia-vs-legacy-br-23-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "FURIA",
+      "team2": "Legacy",
+      "currentTop20Matched": [
+        "FURIA",
+        "Legacy"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180728,
+          "number": 3,
+          "winner": "Legacy",
+          "loser": "FURIA",
+          "winnerScore": 13,
+          "loserScore": 9
+        }
+      ]
+    },
+    {
+      "date": "2026-08-22",
+      "bo3MatchId": 127321,
+      "slug": "faze-up-next-vs-inner-circle-prospect-22-08-2026",
+      "url": "https://bo3.gg/matches/faze-up-next-vs-inner-circle-prospect-22-08-2026",
+      "event": "United21 Season 54",
+      "team1": "FaZe Up Next",
+      "team2": "Inner Circle Prospect",
+      "currentTop20Matched": [
+        "FaZe"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 181951,
+          "number": 2,
+          "winner": "Inner Circle Prospect",
+          "loser": "FaZe Up Next",
+          "winnerScore": 16,
+          "loserScore": 14
+        }
+      ]
+    },
+    {
+      "date": "2026-08-22",
+      "bo3MatchId": 126441,
+      "slug": "legacy-br-vs-spirit-22-08-2026",
+      "url": "https://bo3.gg/matches/legacy-br-vs-spirit-22-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "Legacy",
+      "team2": "Spirit",
+      "currentTop20Matched": [
+        "Legacy",
+        "Spirit"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180727,
+          "number": 1,
+          "winner": "Team Spirit",
+          "loser": "Legacy",
+          "winnerScore": 13,
+          "loserScore": 7
+        }
+      ]
+    },
+    {
+      "date": "2026-08-22",
+      "bo3MatchId": 126440,
+      "slug": "furia-vs-fut-cs2-22-08-2026",
+      "url": "https://bo3.gg/matches/furia-vs-fut-cs2-22-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "FURIA",
+      "team2": "FUT",
+      "currentTop20Matched": [
+        "FURIA",
+        "FUT"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180722,
+          "number": 3,
+          "winner": "FUT Esports",
+          "loser": "FURIA",
+          "winnerScore": 16,
+          "loserScore": 13
+        }
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "bo3MatchId": 126438,
+      "slug": "legacy-br-vs-falcons-esports-21-08-2026",
+      "url": "https://bo3.gg/matches/legacy-br-vs-falcons-esports-21-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "Legacy",
+      "team2": "Falcons",
+      "currentTop20Matched": [
+        "Falcons",
+        "Legacy"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180717,
+          "number": 2,
+          "winner": "Legacy",
+          "loser": "Team Falcons",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "bo3MatchId": 126437,
+      "slug": "fut-cs2-vs-mousesports-21-08-2026",
+      "url": "https://bo3.gg/matches/fut-cs2-vs-mousesports-21-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "FUT",
+      "team2": "MOUZ",
+      "currentTop20Matched": [
+        "FUT",
+        "MOUZ"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180715,
+          "number": 1,
+          "winner": "FUT Esports",
+          "loser": "MOUZ",
+          "winnerScore": 16,
+          "loserScore": 13
+        }
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "bo3MatchId": 127463,
+      "slug": "goldrashers-vs-spirit-academy-green-20-08-2026",
+      "url": "https://bo3.gg/matches/goldrashers-vs-spirit-academy-green-20-08-2026",
+      "event": "ESEA Season 58: Advanced Division - Europe",
+      "team1": "GoldRashers",
+      "team2": "Spirit Academy Green",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "0-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182191,
+          "number": 1,
+          "winner": "Spirit Academy Green_rM5WL67cbY760Mrx",
+          "loser": "GoldRashers",
+          "winnerScore": 13,
+          "loserScore": 1
+        }
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "bo3MatchId": 127455,
+      "slug": "underworld-vs-question-marks-20-08-2026",
+      "url": "https://bo3.gg/matches/underworld-vs-question-marks-20-08-2026",
+      "event": "Gamers Club Liga Série A: August 2026",
+      "team1": "Underworld",
+      "team2": "???",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182180,
+          "number": 2,
+          "winner": null,
+          "loser": null,
+          "winnerScore": null,
+          "loserScore": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "bo3MatchId": 126436,
+      "slug": "g2-vs-furia-20-08-2026",
+      "url": "https://bo3.gg/matches/g2-vs-furia-20-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "G2",
+      "team2": "FURIA",
+      "currentTop20Matched": [
+        "FURIA",
+        "G2"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180710,
+          "number": 3,
+          "winner": "FURIA",
+          "loser": "G2 Esports",
+          "winnerScore": 13,
+          "loserScore": 4
+        }
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "bo3MatchId": 126435,
+      "slug": "faze-vs-vitality-20-08-2026",
+      "url": "https://bo3.gg/matches/faze-vs-vitality-20-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "FaZe",
+      "team2": "Vitality",
+      "currentTop20Matched": [
+        "FaZe",
+        "Vitality"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180709,
+          "number": 1,
+          "winner": "Team Vitality",
+          "loser": "FaZe Clan",
+          "winnerScore": 13,
+          "loserScore": 11
+        }
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "bo3MatchId": 126434,
+      "slug": "b8-vs-spirit-20-08-2026",
+      "url": "https://bo3.gg/matches/b8-vs-spirit-20-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "B8",
+      "team2": "Spirit",
+      "currentTop20Matched": [
+        "B8",
+        "Spirit"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180706,
+          "number": 1,
+          "winner": "Team Spirit",
+          "loser": "B8 Esports",
+          "winnerScore": 13,
+          "loserScore": 9
+        }
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "bo3MatchId": 126432,
+      "slug": "falcons-esports-vs-the-mongolz-20-08-2026",
+      "url": "https://bo3.gg/matches/falcons-esports-vs-the-mongolz-20-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "Falcons",
+      "team2": "The MongolZ",
+      "currentTop20Matched": [
+        "Falcons",
+        "The MongolZ"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180699,
+          "number": 2,
+          "winner": "Team Falcons",
+          "loser": "The MongolZ",
+          "winnerScore": 13,
+          "loserScore": 9
+        }
+      ]
+    },
+    {
+      "date": "2026-08-19",
+      "bo3MatchId": 127337,
+      "slug": "spirit-academy-green-vs-trafficpills-esports-19-08-2026",
+      "url": "https://bo3.gg/matches/spirit-academy-green-vs-trafficpills-esports-19-08-2026",
+      "event": "CCT Europe 2026 Contenders 8",
+      "team1": "Spirit Academy Green",
+      "team2": "TrafficPills",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 181999,
+          "number": 2,
+          "winner": "TrafficPills",
+          "loser": "Team Spirit Academy Green",
+          "winnerScore": 13,
+          "loserScore": 5
+        }
+      ]
+    },
+    {
+      "date": "2026-08-19",
+      "bo3MatchId": 127279,
+      "slug": "sparta-vs-mouz-nxt-19-08-2026",
+      "url": "https://bo3.gg/matches/sparta-vs-mouz-nxt-19-08-2026",
+      "event": "ESL Challenger League Season 52: Europe - Cup 4",
+      "team1": "SPARTA",
+      "team2": "MOUZ NXT",
+      "currentTop20Matched": [
+        "MOUZ"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 181856,
+          "number": 2,
+          "winner": "SPARTA",
+          "loser": "MOUZ NXT",
+          "winnerScore": 13,
+          "loserScore": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-08-19",
+      "bo3MatchId": 126429,
+      "slug": "g2-vs-astralis-19-08-2026",
+      "url": "https://bo3.gg/matches/g2-vs-astralis-19-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "G2",
+      "team2": "Astralis",
+      "currentTop20Matched": [
+        "Astralis",
+        "G2"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180690,
+          "number": 2,
+          "winner": "G2 Esports",
+          "loser": "Astralis",
+          "winnerScore": 13,
+          "loserScore": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-08-18",
+      "bo3MatchId": 127275,
+      "slug": "sparta-vs-mouz-nxt-18-08-2026",
+      "url": "https://bo3.gg/matches/sparta-vs-mouz-nxt-18-08-2026",
+      "event": "ESL Challenger League Season 52: Europe - Cup 4",
+      "team1": "SPARTA",
+      "team2": "MOUZ NXT",
+      "currentTop20Matched": [
+        "MOUZ"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 181844,
+          "number": 2,
+          "winner": "SPARTA",
+          "loser": "MOUZ NXT",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "bo3MatchId": 127270,
+      "slug": "maybe-ukr-vs-spirit-academy-green-17-08-2026",
+      "url": "https://bo3.gg/matches/maybe-ukr-vs-spirit-academy-green-17-08-2026",
+      "event": "CCT Europe 2026 Contenders 8",
+      "team1": "MAYBE",
+      "team2": "Spirit Academy Green",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 181829,
+          "number": 3,
+          "winner": "maybe",
+          "loser": "Team Spirit Academy Green",
+          "winnerScore": 13,
+          "loserScore": 11
+        }
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "bo3MatchId": 126423,
+      "slug": "vitality-vs-lynn-vision-16-08-2026",
+      "url": "https://bo3.gg/matches/vitality-vs-lynn-vision-16-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "Vitality",
+      "team2": "Lynn Vision",
+      "currentTop20Matched": [
+        "Vitality"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180673,
+          "number": 1,
+          "winner": "Team Vitality",
+          "loser": "Lynn Vision Gaming",
+          "winnerScore": 13,
+          "loserScore": 2
+        }
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "bo3MatchId": 126422,
+      "slug": "mousesports-vs-parivision-16-08-2026",
+      "url": "https://bo3.gg/matches/mousesports-vs-parivision-16-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "MOUZ",
+      "team2": "PARIVISION",
+      "currentTop20Matched": [
+        "MOUZ",
+        "PARIVISION"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180670,
+          "number": 1,
+          "winner": "MOUZ",
+          "loser": "PVISION",
+          "winnerScore": 13,
+          "loserScore": 4
+        }
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "bo3MatchId": 126413,
+      "slug": "9z-vs-magic-ru-16-08-2026",
+      "url": "https://bo3.gg/matches/9z-vs-magic-ru-16-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "9z",
+      "team2": "magic",
+      "currentTop20Matched": [
+        "9z",
+        "magic"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180650,
+          "number": 2,
+          "winner": "9z Globant",
+          "loser": "magic",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "bo3MatchId": 127092,
+      "slug": "vp-prodigy-vs-faze-up-next-15-08-2026",
+      "url": "https://bo3.gg/matches/vp-prodigy-vs-faze-up-next-15-08-2026",
+      "event": "European Pro League Regular Season 6",
+      "team1": "FaZe Up Next",
+      "team2": "VP.Prodigy",
+      "currentTop20Matched": [
+        "FaZe"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 181618,
+          "number": 1,
+          "winner": "VP.Prodigy",
+          "loser": "Faze UP",
+          "winnerScore": 13,
+          "loserScore": 5
+        }
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "bo3MatchId": 127062,
+      "slug": "mouz-nxt-vs-ex-mana-esports-15-08-2026",
+      "url": "https://bo3.gg/matches/mouz-nxt-vs-ex-mana-esports-15-08-2026",
+      "event": "ESL Challenger League Season 52: Europe - Cup 3",
+      "team1": "MOUZ NXT",
+      "team2": "ex-MANA",
+      "currentTop20Matched": [
+        "MOUZ"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 181542,
+          "number": 2,
+          "winner": "ex-mana",
+          "loser": "MOUZ NXT",
+          "winnerScore": 13,
+          "loserScore": 2
+        }
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "bo3MatchId": 126411,
+      "slug": "magic-ru-vs-3dmax-15-08-2026",
+      "url": "https://bo3.gg/matches/magic-ru-vs-3dmax-15-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "3DMAX",
+      "team2": "magic",
+      "currentTop20Matched": [
+        "magic"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180645,
+          "number": 1,
+          "winner": "magic",
+          "loser": "3DMAX",
+          "winnerScore": 13,
+          "loserScore": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "bo3MatchId": 126408,
+      "slug": "furia-vs-9z-15-08-2026",
+      "url": "https://bo3.gg/matches/furia-vs-9z-15-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "9z",
+      "team2": "FURIA",
+      "currentTop20Matched": [
+        "9z",
+        "FURIA"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180636,
+          "number": 1,
+          "winner": "FURIA",
+          "loser": "9z Globant",
+          "winnerScore": 13,
+          "loserScore": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "bo3MatchId": 126403,
+      "slug": "big-vs-spirit-15-08-2026",
+      "url": "https://bo3.gg/matches/big-vs-spirit-15-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "BIG",
+      "team2": "Spirit",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180628,
+          "number": 2,
+          "winner": "Team Spirit",
+          "loser": "BIG",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "bo3MatchId": 127123,
+      "slug": "mouz-nxt-vs-enjoy-14-08-2026",
+      "url": "https://bo3.gg/matches/mouz-nxt-vs-enjoy-14-08-2026",
+      "event": "NODWIN Clutch Series 11 Play-In",
+      "team1": "MOUZ NXT",
+      "team2": "Enjoy",
+      "currentTop20Matched": [
+        "MOUZ"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 181653,
+          "number": 3,
+          "winner": "Enjoy",
+          "loser": "MOUZ NXT",
+          "winnerScore": 13,
+          "loserScore": 2
+        }
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "bo3MatchId": 127061,
+      "slug": "inox-division-vs-mouz-nxt-14-08-2026",
+      "url": "https://bo3.gg/matches/inox-division-vs-mouz-nxt-14-08-2026",
+      "event": "ESL Challenger League Season 52: Europe - Cup 3",
+      "team1": "INOX Division",
+      "team2": "MOUZ NXT",
+      "currentTop20Matched": [
+        "MOUZ"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 181539,
+          "number": 2,
+          "winner": "INOX Division",
+          "loser": "MOUZ NXT",
+          "winnerScore": 13,
+          "loserScore": 11
+        }
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "bo3MatchId": 127009,
+      "slug": "faze-up-next-vs-vitality-academy-14-08-2026",
+      "url": "https://bo3.gg/matches/faze-up-next-vs-vitality-academy-14-08-2026",
+      "event": "European Pro League Regular Season 6",
+      "team1": "FaZe Up Next",
+      "team2": "Vitality Academy",
+      "currentTop20Matched": [
+        "FaZe",
+        "Vitality"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 181382,
+          "number": 3,
+          "winner": "Vitality Academy",
+          "loser": "Faze UP",
+          "winnerScore": 13,
+          "loserScore": 11
+        }
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "bo3MatchId": 126421,
+      "slug": "parivision-vs-100-thieves-14-08-2026",
+      "url": "https://bo3.gg/matches/parivision-vs-100-thieves-14-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "100 Thieves",
+      "team2": "PARIVISION",
+      "currentTop20Matched": [
+        "PARIVISION"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180666,
+          "number": 2,
+          "winner": "PVISION",
+          "loser": "100 Thieves",
+          "winnerScore": 13,
+          "loserScore": 5
+        }
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "bo3MatchId": 126419,
+      "slug": "b8-vs-vitality-14-08-2026",
+      "url": "https://bo3.gg/matches/b8-vs-vitality-14-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "Vitality",
+      "team2": "B8",
+      "currentTop20Matched": [
+        "B8",
+        "Vitality"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180659,
+          "number": 3,
+          "winner": "B8 Esports",
+          "loser": "Team Vitality",
+          "winnerScore": 13,
+          "loserScore": 4
+        }
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "bo3MatchId": 126733,
+      "slug": "teletubisie-vs-faze-up-next-13-08-2026",
+      "url": "https://bo3.gg/matches/teletubisie-vs-faze-up-next-13-08-2026",
+      "event": "United21 Season 53",
+      "team1": "Teletubisie",
+      "team2": "FaZe Up Next",
+      "currentTop20Matched": [
+        "FaZe"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180827,
+          "number": 1,
+          "winner": "Teletubisie",
+          "loser": "Faze UP",
+          "winnerScore": 13,
+          "loserScore": 9
+        }
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "bo3MatchId": 126401,
+      "slug": "luminosity-cs-go-vs-spirit-13-08-2026",
+      "url": "https://bo3.gg/matches/luminosity-cs-go-vs-spirit-13-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "Spirit",
+      "team2": "Luminosity",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180622,
+          "number": 2,
+          "winner": "Team Spirit",
+          "loser": "Luminosity",
+          "winnerScore": 19,
+          "loserScore": 15
+        }
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "bo3MatchId": 126400,
+      "slug": "aurora-gaming-vs-m80-cs-go-13-08-2026",
+      "url": "https://bo3.gg/matches/aurora-gaming-vs-m80-cs-go-13-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "M80",
+      "team2": "Aurora",
+      "currentTop20Matched": [
+        "Aurora"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180620,
+          "number": 1,
+          "winner": "Aurora Gaming",
+          "loser": "M80",
+          "winnerScore": 13,
+          "loserScore": 9
+        }
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "bo3MatchId": 126399,
+      "slug": "gamerlegion-vs-jijiehao-13-08-2026",
+      "url": "https://bo3.gg/matches/gamerlegion-vs-jijiehao-13-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "JiJieHao",
+      "team2": "GamerLegion",
+      "currentTop20Matched": [
+        "GamerLegion"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180617,
+          "number": 1,
+          "winner": "GamerLegion",
+          "loser": "JiJie Hao",
+          "winnerScore": 13,
+          "loserScore": 3
+        }
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "bo3MatchId": 126393,
+      "slug": "falcons-esports-vs-astralis-13-08-2026",
+      "url": "https://bo3.gg/matches/falcons-esports-vs-astralis-13-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "Falcons",
+      "team2": "Astralis",
+      "currentTop20Matched": [
+        "Astralis",
+        "Falcons"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180606,
+          "number": 2,
+          "winner": "Team Falcons",
+          "loser": "Astralis",
+          "winnerScore": 13,
+          "loserScore": 11
+        }
+      ]
+    },
+    {
+      "date": "2026-08-12",
+      "bo3MatchId": 126731,
+      "slug": "faze-up-next-vs-fire-flux-12-08-2026",
+      "url": "https://bo3.gg/matches/faze-up-next-vs-fire-flux-12-08-2026",
+      "event": "United21 Season 53",
+      "team1": "FaZe Up Next",
+      "team2": "Fire Flux",
+      "currentTop20Matched": [
+        "FaZe"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180820,
+          "number": 2,
+          "winner": "Faze UP",
+          "loser": "Fire Flux TitanSeat",
+          "winnerScore": 13,
+          "loserScore": 4
+        }
+      ]
+    },
+    {
+      "date": "2026-08-12",
+      "bo3MatchId": 126416,
+      "slug": "lynn-vision-vs-mousesports-12-08-2026",
+      "url": "https://bo3.gg/matches/lynn-vision-vs-mousesports-12-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "Lynn Vision",
+      "team2": "MOUZ",
+      "currentTop20Matched": [
+        "MOUZ"
+      ],
+      "seriesScore": "0-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180654,
+          "number": 1,
+          "winner": "MOUZ",
+          "loser": "Lynn Vision Gaming",
+          "winnerScore": 13,
+          "loserScore": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-08-12",
+      "bo3MatchId": 126388,
+      "slug": "falcons-esports-vs-k27-12-08-2026",
+      "url": "https://bo3.gg/matches/falcons-esports-vs-k27-12-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "Falcons",
+      "team2": "K27",
+      "currentTop20Matched": [
+        "Falcons"
+      ],
+      "seriesScore": "1-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180598,
+          "number": 1,
+          "winner": "Team Falcons",
+          "loser": "K27 Esports",
+          "winnerScore": 13,
+          "loserScore": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-08-11",
+      "bo3MatchId": 126749,
+      "slug": "falcons-force-vs-lfo-ua-11-08-2026",
+      "url": "https://bo3.gg/matches/falcons-force-vs-lfo-ua-11-08-2026",
+      "event": "ESEA Season 58: Advanced Division - Europe",
+      "team1": "Falcons Force",
+      "team2": "LFO 7",
+      "currentTop20Matched": [
+        "Falcons"
+      ],
+      "seriesScore": "1-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180835,
+          "number": 1,
+          "winner": "Falcons Force",
+          "loser": "LFO_anFK4QiHVBaMLfIq",
+          "winnerScore": 13,
+          "loserScore": 3
+        }
+      ]
+    },
+    {
+      "date": "2026-08-08",
+      "bo3MatchId": 126307,
+      "slug": "vandulken-vs-spirit-hu-08-08-2026",
+      "url": "https://bo3.gg/matches/vandulken-vs-spirit-hu-08-08-2026",
+      "event": "Esports World Cup 2026: Open Qualifier",
+      "team1": "Vandulken",
+      "team2": "Spirit HU",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180421,
+          "number": 1,
+          "winner": "Spirit Esports",
+          "loser": "Vandulken",
+          "winnerScore": 13,
+          "loserScore": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-08-07",
+      "bo3MatchId": 126290,
+      "slug": "kreazion-vs-astral-07-08-2026",
+      "url": "https://bo3.gg/matches/kreazion-vs-astral-07-08-2026",
+      "event": "Esports World Cup 2026: Open Qualifier",
+      "team1": "Kreazion",
+      "team2": "ASTRAL",
+      "currentTop20Matched": [
+        "Astralis"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180370,
+          "number": 1,
+          "winner": "ASTRAL",
+          "loser": "Kreazion",
+          "winnerScore": 13,
+          "loserScore": 3
+        }
+      ]
+    }
+  ],
+  "missing": [
+    {
+      "date": "2026-10-06",
+      "bo3MatchId": 130784,
+      "slug": "legacy-br-vs-m80-cs-go-06-10-2026",
+      "url": "https://bo3.gg/matches/legacy-br-vs-m80-cs-go-06-10-2026",
+      "event": "ESL Pro League Season 24",
+      "team1": "Legacy",
+      "team2": "M80",
+      "currentTop20Matched": [
+        "Legacy"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187819,
+          "number": 3,
+          "winner": "M80",
+          "loser": "Legacy",
+          "winnerScore": 13,
+          "loserScore": 7
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "bo3MatchId": 130782,
+      "slug": "furia-vs-aurora-gaming-06-10-2026",
+      "url": "https://bo3.gg/matches/furia-vs-aurora-gaming-06-10-2026",
+      "event": "ESL Pro League Season 24",
+      "team1": "FURIA",
+      "team2": "Aurora",
+      "currentTop20Matched": [
+        "Aurora",
+        "FURIA"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187815,
+          "number": 1,
+          "winner": "FURIA",
+          "loser": "Aurora Gaming",
+          "winnerScore": 13,
+          "loserScore": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "bo3MatchId": 130781,
+      "slug": "9z-vs-betboom-team-06-10-2026",
+      "url": "https://bo3.gg/matches/9z-vs-betboom-team-06-10-2026",
+      "event": "ESL Pro League Season 24",
+      "team1": "9z",
+      "team2": "BetBoom",
+      "currentTop20Matched": [
+        "9z",
+        "BetBoom"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187810,
+          "number": 1,
+          "winner": "9z Globant",
+          "loser": "BetBoom Team",
+          "winnerScore": 13,
+          "loserScore": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "bo3MatchId": 130777,
+      "slug": "vitality-vs-falcons-esports-05-10-2026",
+      "url": "https://bo3.gg/matches/vitality-vs-falcons-esports-05-10-2026",
+      "event": "ESL Pro League Season 24",
+      "team1": "Vitality",
+      "team2": "Falcons",
+      "currentTop20Matched": [
+        "Falcons",
+        "Vitality"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187799,
+          "number": 2,
+          "winner": "Team Vitality",
+          "loser": "Team Falcons",
+          "winnerScore": 13,
+          "loserScore": 4
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "bo3MatchId": 130775,
+      "slug": "spirit-vs-mouz-cs2-05-10-2026",
+      "url": "https://bo3.gg/matches/spirit-vs-mouz-cs2-05-10-2026",
+      "event": "ESL Pro League Season 24",
+      "team1": "Spirit",
+      "team2": "MOUZ",
+      "currentTop20Matched": [
+        "MOUZ",
+        "Spirit"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187794,
+          "number": 1,
+          "winner": "MOUZ",
+          "loser": "Team Spirit",
+          "winnerScore": 13,
+          "loserScore": 5
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "bo3MatchId": 130774,
+      "slug": "legacy-br-vs-1win-05-10-2026",
+      "url": "https://bo3.gg/matches/legacy-br-vs-1win-05-10-2026",
+      "event": "ESL Pro League Season 24",
+      "team1": "Legacy",
+      "team2": "1win",
+      "currentTop20Matched": [
+        "Legacy"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187791,
+          "number": 1,
+          "winner": "1win",
+          "loser": "Legacy",
+          "winnerScore": 13,
+          "loserScore": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "bo3MatchId": 130771,
+      "slug": "shinden-vs-g2-05-10-2026",
+      "url": "https://bo3.gg/matches/shinden-vs-g2-05-10-2026",
+      "event": "ESL Pro League Season 24",
+      "team1": "ShindeN",
+      "team2": "G2",
+      "currentTop20Matched": [
+        "G2"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187782,
+          "number": 1,
+          "winner": "G2 Esports",
+          "loser": "ShindeN",
+          "winnerScore": 13,
+          "loserScore": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "bo3MatchId": 130767,
+      "slug": "g2-vs-1win-04-10-2026",
+      "url": "https://bo3.gg/matches/g2-vs-1win-04-10-2026",
+      "event": "ESL Pro League Season 24",
+      "team1": "G2",
+      "team2": "1win",
+      "currentTop20Matched": [
+        "G2"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187770,
+          "number": 1,
+          "winner": "1win",
+          "loser": "G2 Esports",
+          "winnerScore": 13,
+          "loserScore": 11
+        }
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "bo3MatchId": 130765,
+      "slug": "falcons-esports-vs-aurora-gaming-04-10-2026",
+      "url": "https://bo3.gg/matches/falcons-esports-vs-aurora-gaming-04-10-2026",
+      "event": "ESL Pro League Season 24",
+      "team1": "Falcons",
+      "team2": "Aurora",
+      "currentTop20Matched": [
+        "Aurora",
+        "Falcons"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187763,
+          "number": 2,
+          "winner": "Team Falcons",
+          "loser": "Aurora Gaming",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "bo3MatchId": 130764,
+      "slug": "spirit-vs-parivision-04-10-2026",
+      "url": "https://bo3.gg/matches/spirit-vs-parivision-04-10-2026",
+      "event": "ESL Pro League Season 24",
+      "team1": "Spirit",
+      "team2": "PARIVISION",
+      "currentTop20Matched": [
+        "PARIVISION",
+        "Spirit"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187760,
+          "number": 2,
+          "winner": "Team Spirit",
+          "loser": "PARIVISION",
+          "winnerScore": 13,
+          "loserScore": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "bo3MatchId": 130906,
+      "slug": "spirit-academy-vs-fire-flux-03-10-2026",
+      "url": "https://bo3.gg/matches/spirit-academy-vs-fire-flux-03-10-2026",
+      "event": "CCT Europe 2026 Challengers 7",
+      "team1": "Spirit Academy",
+      "team2": "Fire Flux",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187939,
+          "number": 3,
+          "winner": "Spirit Academy",
+          "loser": "Fire Flux",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "bo3MatchId": 130887,
+      "slug": "pcific-esport-vs-vitality-academy-03-10-2026",
+      "url": "https://bo3.gg/matches/pcific-esport-vs-vitality-academy-03-10-2026",
+      "event": "United21 Season 56",
+      "team1": "PCIFIC",
+      "team2": "Vitality Academy",
+      "currentTop20Matched": [
+        "Vitality"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187883,
+          "number": 2,
+          "winner": "WRAITH PCIFIC",
+          "loser": "Vitality Academy",
+          "winnerScore": 13,
+          "loserScore": 2
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "bo3MatchId": 130762,
+      "slug": "aurora-gaming-vs-9z-03-10-2026",
+      "url": "https://bo3.gg/matches/aurora-gaming-vs-9z-03-10-2026",
+      "event": "ESL Pro League Season 24",
+      "team1": "Aurora",
+      "team2": "9z",
+      "currentTop20Matched": [
+        "9z",
+        "Aurora"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187755,
+          "number": 1,
+          "winner": "Aurora Gaming",
+          "loser": "9z Globant",
+          "winnerScore": 13,
+          "loserScore": 3
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "bo3MatchId": 130760,
+      "slug": "legacy-br-vs-parivision-03-10-2026",
+      "url": "https://bo3.gg/matches/legacy-br-vs-parivision-03-10-2026",
+      "event": "ESL Pro League Season 24",
+      "team1": "Legacy",
+      "team2": "PARIVISION",
+      "currentTop20Matched": [
+        "Legacy",
+        "PARIVISION"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187749,
+          "number": 1,
+          "winner": "Legacy",
+          "loser": "PARIVISION",
+          "winnerScore": 13,
+          "loserScore": 5
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "bo3MatchId": 130756,
+      "slug": "spirit-vs-shinden-03-10-2026",
+      "url": "https://bo3.gg/matches/spirit-vs-shinden-03-10-2026",
+      "event": "ESL Pro League Season 24",
+      "team1": "Spirit",
+      "team2": "ShindeN",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187737,
+          "number": 1,
+          "winner": "ShindeN",
+          "loser": "Team Spirit",
+          "winnerScore": 13,
+          "loserScore": 11
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "bo3MatchId": 130755,
+      "slug": "vitality-vs-1win-03-10-2026",
+      "url": "https://bo3.gg/matches/vitality-vs-1win-03-10-2026",
+      "event": "ESL Pro League Season 24",
+      "team1": "Vitality",
+      "team2": "1win",
+      "currentTop20Matched": [
+        "Vitality"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187734,
+          "number": 1,
+          "winner": "Team Vitality",
+          "loser": "1win",
+          "winnerScore": 13,
+          "loserScore": 1
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "bo3MatchId": 129379,
+      "slug": "astralis-vs-fnatic-03-10-2026",
+      "url": "https://bo3.gg/matches/astralis-vs-fnatic-03-10-2026",
+      "event": "Stake Ranked Episode 4",
+      "team1": "Astralis",
+      "team2": "fnatic",
+      "currentTop20Matched": [
+        "Astralis"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 185542,
+          "number": 1,
+          "winner": "Astralis",
+          "loser": "fnatic",
+          "winnerScore": 13,
+          "loserScore": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "bo3MatchId": 130957,
+      "slug": "underworld-vs-mibr_fe-28-09-2026",
+      "url": "https://bo3.gg/matches/underworld-vs-mibr_fe-28-09-2026",
+      "event": "Gamers Club Liga Série A: September 2026",
+      "team1": "Underworld",
+      "team2": "MIBR fe",
+      "currentTop20Matched": [
+        "MIBR"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 188020,
+          "number": 1,
+          "winner": null,
+          "loser": null,
+          "winnerScore": null,
+          "loserScore": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "bo3MatchId": 130439,
+      "slug": "metanoia-wolves-vs-mibr_fe-27-09-2026",
+      "url": "https://bo3.gg/matches/metanoia-wolves-vs-mibr_fe-27-09-2026",
+      "event": "CCT South America 2026 Series 6",
+      "team1": "METANOIA Wolves",
+      "team2": "MIBR fe",
+      "currentTop20Matched": [
+        "MIBR"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187318,
+          "number": 2,
+          "winner": "METANOIA Wolves",
+          "loser": "MIBR fe",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "bo3MatchId": 129833,
+      "slug": "gamerlegion-vs-3dmax-27-09-2026",
+      "url": "https://bo3.gg/matches/gamerlegion-vs-3dmax-27-09-2026",
+      "event": "1win Private Club 1",
+      "team1": "GamerLegion",
+      "team2": "3DMAX",
+      "currentTop20Matched": [
+        "GamerLegion"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 186305,
+          "number": 2,
+          "winner": "3DMAX",
+          "loser": "GamerLegion",
+          "winnerScore": 13,
+          "loserScore": 11
+        }
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "bo3MatchId": 130607,
+      "slug": "young-tigeres-vs-spirit-academy-green-26-09-2026",
+      "url": "https://bo3.gg/matches/young-tigeres-vs-spirit-academy-green-26-09-2026",
+      "event": "ESEA Season 58: European Finals",
+      "team1": "Young TigeRES",
+      "team2": "Spirit Academy Green",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187507,
+          "number": 3,
+          "winner": "Young TigeRES",
+          "loser": "Spirit Academy Green",
+          "winnerScore": 13,
+          "loserScore": 7
+        }
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "bo3MatchId": 129832,
+      "slug": "magic-ru-vs-gamerlegion-26-09-2026",
+      "url": "https://bo3.gg/matches/magic-ru-vs-gamerlegion-26-09-2026",
+      "event": "1win Private Club 1",
+      "team1": "magic",
+      "team2": "GamerLegion",
+      "currentTop20Matched": [
+        "GamerLegion",
+        "magic"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 186303,
+          "number": 1,
+          "winner": "MAGIC",
+          "loser": "GamerLegion",
+          "winnerScore": 13,
+          "loserScore": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "bo3MatchId": 130713,
+      "slug": "mibr_fe-vs-question-marks-25-09-2026",
+      "url": "https://bo3.gg/matches/mibr_fe-vs-question-marks-25-09-2026",
+      "event": "Gamers Club Liga Série A: September 2026",
+      "team1": "MIBR fe",
+      "team2": "???",
+      "currentTop20Matched": [
+        "MIBR",
+        "Spirit"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187675,
+          "number": 1,
+          "winner": null,
+          "loser": null,
+          "winnerScore": null,
+          "loserScore": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "bo3MatchId": 130636,
+      "slug": "genone-vs-faze-up-next-25-09-2026",
+      "url": "https://bo3.gg/matches/genone-vs-faze-up-next-25-09-2026",
+      "event": "Leon.bet Masters Season 1",
+      "team1": "GenOne",
+      "team2": "FaZe Up Next",
+      "currentTop20Matched": [
+        "FaZe"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187583,
+          "number": 2,
+          "winner": "GenOne",
+          "loser": "FAZE UP",
+          "winnerScore": 13,
+          "loserScore": 4
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "bo3MatchId": 130602,
+      "slug": "spirit-academy-green-vs-baks-esports-25-09-2026",
+      "url": "https://bo3.gg/matches/spirit-academy-green-vs-baks-esports-25-09-2026",
+      "event": "ESEA Season 58: European Finals",
+      "team1": "Spirit Academy Green",
+      "team2": "BAKS",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187493,
+          "number": 2,
+          "winner": "Spirit Academy Green",
+          "loser": "BAKS Esports",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "bo3MatchId": 129686,
+      "slug": "magic-ru-vs-eyeballers-25-09-2026",
+      "url": "https://bo3.gg/matches/magic-ru-vs-eyeballers-25-09-2026",
+      "event": "1win Private Club 1",
+      "team1": "magic",
+      "team2": "EYEBALLERS",
+      "currentTop20Matched": [
+        "magic"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 186199,
+          "number": 2,
+          "winner": "Magic",
+          "loser": "EYEBALLERS",
+          "winnerScore": 13,
+          "loserScore": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "bo3MatchId": 129580,
+      "slug": "eternal-fire-vs-astral-24-09-2026",
+      "url": "https://bo3.gg/matches/eternal-fire-vs-astral-24-09-2026",
+      "event": "Stake Pulse Beat II",
+      "team1": "Eternal Fire",
+      "team2": "ASTRAL",
+      "currentTop20Matched": [
+        "Astralis"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 186019,
+          "number": 2,
+          "winner": "Eternal Fire",
+          "loser": "ASTRAL",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "bo3MatchId": 130597,
+      "slug": "forfeit-exe-vs-aurora-young-blood-23-09-2026",
+      "url": "https://bo3.gg/matches/forfeit-exe-vs-aurora-young-blood-23-09-2026",
+      "event": "ESEA Season 58: European Finals",
+      "team1": "forfeit-exe",
+      "team2": "Aurora Young Blud",
+      "currentTop20Matched": [
+        "Aurora"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187478,
+          "number": 2,
+          "winner": "Aurora Young Blud",
+          "loser": "forfeit-exe",
+          "winnerScore": 16,
+          "loserScore": 14
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "bo3MatchId": 130596,
+      "slug": "gelo-vs-faze-up-next-23-09-2026",
+      "url": "https://bo3.gg/matches/gelo-vs-faze-up-next-23-09-2026",
+      "event": "ESEA Season 58: European Finals",
+      "team1": "Gelo",
+      "team2": "FaZe Up Next",
+      "currentTop20Matched": [
+        "FaZe"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187475,
+          "number": 2,
+          "winner": "Gelo",
+          "loser": "FaZe Up Next",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "bo3MatchId": 130592,
+      "slug": "faze-up-next-vs-cucu-media-22-09-2026",
+      "url": "https://bo3.gg/matches/faze-up-next-vs-cucu-media-22-09-2026",
+      "event": "ESEA Season 58: European Finals",
+      "team1": "FaZe Up Next",
+      "team2": "CUCU MEDIA",
+      "currentTop20Matched": [
+        "FaZe"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 187464,
+          "number": 1,
+          "winner": "FaZe Up Next",
+          "loser": "CUCU MEDIA",
+          "winnerScore": 13,
+          "loserScore": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "bo3MatchId": 129247,
+      "slug": "azuolas-vs-spirit-academy-21-09-2026",
+      "url": "https://bo3.gg/matches/azuolas-vs-spirit-academy-21-09-2026",
+      "event": "CCT Europe 2026 Series 9",
+      "team1": "Azuolas",
+      "team2": "Spirit Academy",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 185299,
+          "number": 2,
+          "winner": "Spirit Academy",
+          "loser": "Azuolas",
+          "winnerScore": 13,
+          "loserScore": 5
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "bo3MatchId": 129596,
+      "slug": "mousesports-vs-nrg-17-09-2026",
+      "url": "https://bo3.gg/matches/mousesports-vs-nrg-17-09-2026",
+      "event": "StarLadder StarSeries Fall 2026",
+      "team1": "MOUZ",
+      "team2": "NRG",
+      "currentTop20Matched": [
+        "MOUZ"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 186048,
+          "number": 3,
+          "winner": "NRG",
+          "loser": "MOUZ",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "bo3MatchId": 129331,
+      "slug": "gamerlegion-vs-nip-17-09-2026",
+      "url": "https://bo3.gg/matches/gamerlegion-vs-nip-17-09-2026",
+      "event": "Logitech G Play Connect 2026",
+      "team1": "GamerLegion",
+      "team2": "Ninjas in Pyjamas",
+      "currentTop20Matched": [
+        "GamerLegion"
+      ],
+      "seriesScore": "1-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 185458,
+          "number": 1,
+          "winner": "GamerLegion",
+          "loser": "Ninjas in Pyjamas",
+          "winnerScore": 13,
+          "loserScore": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "bo3MatchId": 129328,
+      "slug": "luminosity-cs-go-vs-b8-17-09-2026",
+      "url": "https://bo3.gg/matches/luminosity-cs-go-vs-b8-17-09-2026",
+      "event": "Logitech G Play Connect 2026",
+      "team1": "Luminosity",
+      "team2": "B8",
+      "currentTop20Matched": [
+        "B8"
+      ],
+      "seriesScore": "0-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 185455,
+          "number": 1,
+          "winner": "B8",
+          "loser": "Luminosity",
+          "winnerScore": 13,
+          "loserScore": 11
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "bo3MatchId": 129234,
+      "slug": "nexus-vs-spirit-academy-17-09-2026",
+      "url": "https://bo3.gg/matches/nexus-vs-spirit-academy-17-09-2026",
+      "event": "CCT Europe 2026 Series 9",
+      "team1": "Nexus",
+      "team2": "Spirit Academy",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 185261,
+          "number": 1,
+          "winner": "Spirit Academy",
+          "loser": "Nexus",
+          "winnerScore": 13,
+          "loserScore": 1
+        }
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "bo3MatchId": 129925,
+      "slug": "underworld-vs-question-marks-16-09-2026",
+      "url": "https://bo3.gg/matches/underworld-vs-question-marks-16-09-2026",
+      "event": "Gamers Club Liga Série A: September 2026",
+      "team1": "Underworld",
+      "team2": "???",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "1-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 186460,
+          "number": 1,
+          "winner": null,
+          "loser": null,
+          "winnerScore": null,
+          "loserScore": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "bo3MatchId": 129877,
+      "slug": "mibr_fe-vs-holanda-78-15-09-2026",
+      "url": "https://bo3.gg/matches/mibr_fe-vs-holanda-78-15-09-2026",
+      "event": "CCT South America 2026 Challengers 3",
+      "team1": "MIBR fe",
+      "team2": "HOLANDA 78",
+      "currentTop20Matched": [
+        "MIBR"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 186366,
+          "number": 3,
+          "winner": "HOLANDA 78",
+          "loser": "MIBR fe",
+          "winnerScore": 13,
+          "loserScore": 11
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "bo3MatchId": 129430,
+      "slug": "ence-vs-falcons-force-14-09-2026",
+      "url": "https://bo3.gg/matches/ence-vs-falcons-force-14-09-2026",
+      "event": "Fiesta Series 2",
+      "team1": "ENCE",
+      "team2": "Falcons Force",
+      "currentTop20Matched": [
+        "Falcons"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 185589,
+          "number": 1,
+          "winner": "ENCE",
+          "loser": "Falcons Force",
+          "winnerScore": 13,
+          "loserScore": 4
+        }
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "bo3MatchId": 129096,
+      "slug": "1win-vs-b8-12-09-2026",
+      "url": "https://bo3.gg/matches/1win-vs-b8-12-09-2026",
+      "event": "PGL Masters Bucharest 2026: European Qualifier",
+      "team1": "1win",
+      "team2": "B8",
+      "currentTop20Matched": [
+        "B8"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184881,
+          "number": 1,
+          "winner": "B8",
+          "loser": "1W",
+          "winnerScore": 13,
+          "loserScore": 7
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "bo3MatchId": 129095,
+      "slug": "b8-vs-nuclear-tigeres-11-09-2026",
+      "url": "https://bo3.gg/matches/b8-vs-nuclear-tigeres-11-09-2026",
+      "event": "PGL Masters Bucharest 2026: European Qualifier",
+      "team1": "Nuclear TigeRES",
+      "team2": "B8",
+      "currentTop20Matched": [
+        "B8"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184877,
+          "number": 2,
+          "winner": "B8",
+          "loser": "Nuclear TigeRES",
+          "winnerScore": 13,
+          "loserScore": 3
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "bo3MatchId": 129093,
+      "slug": "b8-vs-inner-circle-esports-11-09-2026",
+      "url": "https://bo3.gg/matches/b8-vs-inner-circle-esports-11-09-2026",
+      "event": "PGL Masters Bucharest 2026: European Qualifier",
+      "team1": "B8",
+      "team2": "Inner Circle",
+      "currentTop20Matched": [
+        "B8"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184872,
+          "number": 1,
+          "winner": "B8",
+          "loser": "-Inner Circle",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "bo3MatchId": 128115,
+      "slug": "natus-vincere-junior-vs-falcons-force-11-09-2026",
+      "url": "https://bo3.gg/matches/natus-vincere-junior-vs-falcons-force-11-09-2026",
+      "event": "European Pro League Series 9 Play-In",
+      "team1": "NAVI Junior",
+      "team2": "Falcons Force",
+      "currentTop20Matched": [
+        "Falcons"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 183516,
+          "number": 1,
+          "winner": null,
+          "loser": null,
+          "winnerScore": null,
+          "loserScore": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "bo3MatchId": 129090,
+      "slug": "1win-vs-b8-10-09-2026",
+      "url": "https://bo3.gg/matches/1win-vs-b8-10-09-2026",
+      "event": "PGL Masters Bucharest 2026: European Qualifier",
+      "team1": "1win",
+      "team2": "B8",
+      "currentTop20Matched": [
+        "B8"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184863,
+          "number": 1,
+          "winner": "",
+          "loser": "",
+          "winnerScore": 13,
+          "loserScore": 2
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "bo3MatchId": 128814,
+      "slug": "noir-verse-vs-spirit-academy-09-09-2026",
+      "url": "https://bo3.gg/matches/noir-verse-vs-spirit-academy-09-09-2026",
+      "event": "CCT Europe 2026 Challengers 6",
+      "team1": "Noir Verse",
+      "team2": "Spirit Academy",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184178,
+          "number": 3,
+          "winner": "Noir Verse",
+          "loser": "Team Spirit Academy",
+          "winnerScore": 16,
+          "loserScore": 13
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "bo3MatchId": 128927,
+      "slug": "mouz-nxt-vs-basement-boys-08-09-2026",
+      "url": "https://bo3.gg/matches/mouz-nxt-vs-basement-boys-08-09-2026",
+      "event": "ESL Challenger League Season 52: Europe - Cup 6",
+      "team1": "MOUZ NXT",
+      "team2": "BASEMENT BOYS",
+      "currentTop20Matched": [
+        "MOUZ"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184465,
+          "number": 2,
+          "winner": "BASEMENT BOYS",
+          "loser": "MOUZ NXT",
+          "winnerScore": 13,
+          "loserScore": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "bo3MatchId": 128925,
+      "slug": "mouz-nxt-vs-dark-moon-08-09-2026",
+      "url": "https://bo3.gg/matches/mouz-nxt-vs-dark-moon-08-09-2026",
+      "event": "ESL Challenger League Season 52: Europe - Cup 6",
+      "team1": "MOUZ NXT",
+      "team2": "Dark Moon",
+      "currentTop20Matched": [
+        "MOUZ"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184460,
+          "number": 1,
+          "winner": "MOUZ NXT",
+          "loser": "Dark Moon",
+          "winnerScore": 16,
+          "loserScore": 14
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "bo3MatchId": 128178,
+      "slug": "gamerlegion-vs-furia-08-09-2026",
+      "url": "https://bo3.gg/matches/gamerlegion-vs-furia-08-09-2026",
+      "event": "FISSURE Playground 3",
+      "team1": "GamerLegion",
+      "team2": "FURIA",
+      "currentTop20Matched": [
+        "FURIA",
+        "GamerLegion"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 183683,
+          "number": 3,
+          "winner": "FURIA",
+          "loser": "GamerLegion",
+          "winnerScore": 13,
+          "loserScore": 3
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "bo3MatchId": 128177,
+      "slug": "legacy-br-vs-magic-ru-08-09-2026",
+      "url": "https://bo3.gg/matches/legacy-br-vs-magic-ru-08-09-2026",
+      "event": "FISSURE Playground 3",
+      "team1": "Legacy",
+      "team2": "magic",
+      "currentTop20Matched": [
+        "Legacy",
+        "magic"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 183681,
+          "number": 2,
+          "winner": "Magic",
+          "loser": "LEGACY",
+          "winnerScore": 13,
+          "loserScore": 7
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "bo3MatchId": 129064,
+      "slug": "titanflow-vs-spirit-academy-black-07-09-2026",
+      "url": "https://bo3.gg/matches/titanflow-vs-spirit-academy-black-07-09-2026",
+      "event": "CCT Europe 2026 Contenders 9",
+      "team1": "TitanFlow",
+      "team2": "Spirit Academy Black",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184783,
+          "number": 3,
+          "winner": "TitanFlow",
+          "loser": "Spirit Academy Black",
+          "winnerScore": 13,
+          "loserScore": 5
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "bo3MatchId": 128966,
+      "slug": "1win-vs-astral-06-09-2026",
+      "url": "https://bo3.gg/matches/1win-vs-astral-06-09-2026",
+      "event": "PGL Masters Bucharest 2026: European Open Qualifier 2",
+      "team1": "ASTRAL",
+      "team2": "1win",
+      "currentTop20Matched": [
+        "Astralis"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184567,
+          "number": 1,
+          "winner": "1W",
+          "loser": "ASTRAL",
+          "winnerScore": 13,
+          "loserScore": 3
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "bo3MatchId": 128908,
+      "slug": "pcific-esport-vs-mouz-nxt-06-09-2026",
+      "url": "https://bo3.gg/matches/pcific-esport-vs-mouz-nxt-06-09-2026",
+      "event": "ESL Challenger League Season 52: Europe - Cup 6",
+      "team1": "PCIFIC",
+      "team2": "MOUZ NXT",
+      "currentTop20Matched": [
+        "MOUZ"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184409,
+          "number": 1,
+          "winner": "WRAITH PCIFIC",
+          "loser": "MOUZ NXT",
+          "winnerScore": 13,
+          "loserScore": 7
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "bo3MatchId": 128905,
+      "slug": "misa-esports-cs-vs-mouz-nxt-06-09-2026",
+      "url": "https://bo3.gg/matches/misa-esports-cs-vs-mouz-nxt-06-09-2026",
+      "event": "ESL Challenger League Season 52: Europe - Cup 6",
+      "team1": "Misa",
+      "team2": "MOUZ NXT",
+      "currentTop20Matched": [
+        "MOUZ"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184400,
+          "number": 1,
+          "winner": "Misa",
+          "loser": "MOUZ NXT",
+          "winnerScore": 13,
+          "loserScore": 11
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "bo3MatchId": 128930,
+      "slug": "anger-vs-spirit-academy-black-05-09-2026",
+      "url": "https://bo3.gg/matches/anger-vs-spirit-academy-black-05-09-2026",
+      "event": "CCT Europe 2026 Contenders 9",
+      "team1": "Anger",
+      "team2": "Spirit Academy Black",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184475,
+          "number": 1,
+          "winner": "Spirit Academy Black",
+          "loser": "Anger",
+          "winnerScore": 13,
+          "loserScore": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "bo3MatchId": 128797,
+      "slug": "bushido-wildcats-cs-vs-spirit-academy-05-09-2026",
+      "url": "https://bo3.gg/matches/bushido-wildcats-cs-vs-spirit-academy-05-09-2026",
+      "event": "CCT Europe 2026 Challengers 6",
+      "team1": "Bushido Wildcats",
+      "team2": "Spirit Academy",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184128,
+          "number": 2,
+          "winner": "Bushido Wildcats",
+          "loser": "Team Spirit Academy",
+          "winnerScore": 13,
+          "loserScore": 7
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "bo3MatchId": 128658,
+      "slug": "kuusamogg-vs-spirit-academy-green-05-09-2026",
+      "url": "https://bo3.gg/matches/kuusamogg-vs-spirit-academy-green-05-09-2026",
+      "event": "ESEA Season 58: Advanced Division - Europe",
+      "team1": "KUUSAMO",
+      "team2": "Spirit Academy Green",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184037,
+          "number": 2,
+          "winner": "Spirit Academy Green",
+          "loser": "KUUSAMOgg",
+          "winnerScore": 13,
+          "loserScore": 4
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "bo3MatchId": 128883,
+      "slug": "nemiga-vs-astral-04-09-2026",
+      "url": "https://bo3.gg/matches/nemiga-vs-astral-04-09-2026",
+      "event": "PGL Masters Bucharest 2026: European Open Qualifier 1",
+      "team1": "Nemiga",
+      "team2": "ASTRAL",
+      "currentTop20Matched": [
+        "Astralis"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 184382,
+          "number": 3,
+          "winner": "team_1eeR",
+          "loser": "team_speed_demon",
+          "winnerScore": 13,
+          "loserScore": 3
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "bo3MatchId": 128623,
+      "slug": "team-nemesis-cs-vs-astral-04-09-2026",
+      "url": "https://bo3.gg/matches/team-nemesis-cs-vs-astral-04-09-2026",
+      "event": "Stake Ranked Episode 4: Closed Qualifier",
+      "team1": "Nemesis",
+      "team2": "ASTRAL",
+      "currentTop20Matched": [
+        "Astralis"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 183931,
+          "number": 3,
+          "winner": "NemNemesis",
+          "loser": "ASTRAL",
+          "winnerScore": 13,
+          "loserScore": 11
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "bo3MatchId": 127884,
+      "slug": "mouz-nxt-vs-bushido-wildcats-cs-04-09-2026",
+      "url": "https://bo3.gg/matches/mouz-nxt-vs-bushido-wildcats-cs-04-09-2026",
+      "event": "CCT Europe 2026 Series 8",
+      "team1": "MOUZ NXT",
+      "team2": "Bushido Wildcats",
+      "currentTop20Matched": [
+        "MOUZ"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 183106,
+          "number": 2,
+          "winner": "MOUZ NXT",
+          "loser": "Bushido Wildcats",
+          "winnerScore": 13,
+          "loserScore": 7
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "bo3MatchId": 127883,
+      "slug": "mouz-nxt-vs-pcific-esport-03-09-2026",
+      "url": "https://bo3.gg/matches/mouz-nxt-vs-pcific-esport-03-09-2026",
+      "event": "CCT Europe 2026 Series 8",
+      "team1": "MOUZ NXT",
+      "team2": "PCIFIC",
+      "currentTop20Matched": [
+        "MOUZ"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 183104,
+          "number": 1,
+          "winner": "PCIFIC",
+          "loser": "MOUZ NXT",
+          "winnerScore": 13,
+          "loserScore": 5
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "bo3MatchId": 127504,
+      "slug": "heroic-vs-magic-ru-03-09-2026",
+      "url": "https://bo3.gg/matches/heroic-vs-magic-ru-03-09-2026",
+      "event": "Intel Extreme Masters Beijing 2026: Global Qualifier",
+      "team1": "magic",
+      "team2": "HEROIC",
+      "currentTop20Matched": [
+        "magic"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182268,
+          "number": 1,
+          "winner": "HEROIC",
+          "loser": "magic",
+          "winnerScore": 13,
+          "loserScore": 7
+        }
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "bo3MatchId": 128633,
+      "slug": "falcons-force-vs-fraternity-02-09-2026",
+      "url": "https://bo3.gg/matches/falcons-force-vs-fraternity-02-09-2026",
+      "event": "ESEA Season 58: Advanced Division - Europe",
+      "team1": "Falcons Force",
+      "team2": "Fraternity",
+      "currentTop20Matched": [
+        "Falcons"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 183963,
+          "number": 1,
+          "winner": "Falcons Force",
+          "loser": "Fraternity",
+          "winnerScore": 13,
+          "loserScore": 4
+        }
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "bo3MatchId": 127488,
+      "slug": "color-vs-b8-02-09-2026",
+      "url": "https://bo3.gg/matches/color-vs-b8-02-09-2026",
+      "event": "Intel Extreme Masters Beijing 2026: Global Qualifier",
+      "team1": "Color",
+      "team2": "B8",
+      "currentTop20Matched": [
+        "B8"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182220,
+          "number": 1,
+          "winner": "B8 Esports",
+          "loser": "Color",
+          "winnerScore": 13,
+          "loserScore": 11
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "bo3MatchId": 128098,
+      "slug": "falcons-force-vs-yologang-01-09-2026",
+      "url": "https://bo3.gg/matches/falcons-force-vs-yologang-01-09-2026",
+      "event": "European Pro League Series 9 Play-In",
+      "team1": "Falcons Force",
+      "team2": "yologang",
+      "currentTop20Matched": [
+        "Falcons"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 183465,
+          "number": 1,
+          "winner": "Falcons Force",
+          "loser": "yologang",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "bo3MatchId": 127980,
+      "slug": "infurity-gaming-vs-faze-up-next-31-08-2026",
+      "url": "https://bo3.gg/matches/infurity-gaming-vs-faze-up-next-31-08-2026",
+      "event": "United21 Season 54",
+      "team1": "INFURITY",
+      "team2": "FaZe Up Next",
+      "currentTop20Matched": [
+        "FaZe"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 183290,
+          "number": 2,
+          "winner": "FaZe Up Next",
+          "loser": "INFURITY",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "bo3MatchId": 127399,
+      "slug": "fut-cs2-vs-vitality-31-08-2026",
+      "url": "https://bo3.gg/matches/fut-cs2-vs-vitality-31-08-2026",
+      "event": "BLAST Open Fall 2026",
+      "team1": "Vitality",
+      "team2": "FUT",
+      "currentTop20Matched": [
+        "FUT",
+        "Vitality"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182120,
+          "number": 2,
+          "winner": "Vitality",
+          "loser": "FUT",
+          "winnerScore": 13,
+          "loserScore": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-08-30",
+      "bo3MatchId": 128147,
+      "slug": "baks-esports-vs-mouz-nxt-30-08-2026",
+      "url": "https://bo3.gg/matches/baks-esports-vs-mouz-nxt-30-08-2026",
+      "event": "ESL Challenger League Season 52: Europe - Cup 5",
+      "team1": "BAKS",
+      "team2": "MOUZ NXT",
+      "currentTop20Matched": [
+        "MOUZ"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 183611,
+          "number": 2,
+          "winner": "BAKS Esports",
+          "loser": "MOUZ NXT",
+          "winnerScore": 13,
+          "loserScore": 5
+        }
+      ]
+    },
+    {
+      "date": "2026-08-30",
+      "bo3MatchId": 127397,
+      "slug": "vitality-vs-legacy-br-30-08-2026",
+      "url": "https://bo3.gg/matches/vitality-vs-legacy-br-30-08-2026",
+      "event": "BLAST Open Fall 2026",
+      "team1": "Legacy",
+      "team2": "Vitality",
+      "currentTop20Matched": [
+        "Legacy",
+        "Vitality"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182113,
+          "number": 3,
+          "winner": "Vitality",
+          "loser": "Legacy",
+          "winnerScore": 13,
+          "loserScore": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-08-30",
+      "bo3MatchId": 127385,
+      "slug": "m80-cs-go-vs-aurora-gaming-30-08-2026",
+      "url": "https://bo3.gg/matches/m80-cs-go-vs-aurora-gaming-30-08-2026",
+      "event": "BLAST Open Fall 2026",
+      "team1": "M80",
+      "team2": "Aurora",
+      "currentTop20Matched": [
+        "Aurora"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182079,
+          "number": 1,
+          "winner": "Aurora",
+          "loser": "M80",
+          "winnerScore": 13,
+          "loserScore": 3
+        }
+      ]
+    },
+    {
+      "date": "2026-08-29",
+      "bo3MatchId": 127976,
+      "slug": "faze-up-next-vs-phantom-academy-29-08-2026",
+      "url": "https://bo3.gg/matches/faze-up-next-vs-phantom-academy-29-08-2026",
+      "event": "United21 Season 54",
+      "team1": "FaZe Up Next",
+      "team2": "Phantom Academy",
+      "currentTop20Matched": [
+        "FaZe"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 183277,
+          "number": 3,
+          "winner": "FaZe Up Next",
+          "loser": "Phantom Academy",
+          "winnerScore": 1,
+          "loserScore": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-08-29",
+      "bo3MatchId": 127396,
+      "slug": "legacy-br-vs-falcons-esports-29-08-2026",
+      "url": "https://bo3.gg/matches/legacy-br-vs-falcons-esports-29-08-2026",
+      "event": "BLAST Open Fall 2026",
+      "team1": "Legacy",
+      "team2": "Falcons",
+      "currentTop20Matched": [
+        "Falcons",
+        "Legacy"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182110,
+          "number": 3,
+          "winner": "Falcons",
+          "loser": "Legacy",
+          "winnerScore": 13,
+          "loserScore": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-08-29",
+      "bo3MatchId": 127395,
+      "slug": "fut-cs2-vs-lynn-vision-29-08-2026",
+      "url": "https://bo3.gg/matches/fut-cs2-vs-lynn-vision-29-08-2026",
+      "event": "BLAST Open Fall 2026",
+      "team1": "FUT",
+      "team2": "Lynn Vision",
+      "currentTop20Matched": [
+        "FUT"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182109,
+          "number": 1,
+          "winner": "Lynn Vision",
+          "loser": "FUT",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-08-29",
+      "bo3MatchId": 127393,
+      "slug": "vitality-vs-9z-29-08-2026",
+      "url": "https://bo3.gg/matches/vitality-vs-9z-29-08-2026",
+      "event": "BLAST Open Fall 2026",
+      "team1": "Vitality",
+      "team2": "9z",
+      "currentTop20Matched": [
+        "9z",
+        "Vitality"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182103,
+          "number": 1,
+          "winner": "Vitality",
+          "loser": "9z",
+          "winnerScore": 13,
+          "loserScore": 2
+        }
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "bo3MatchId": 127384,
+      "slug": "m80-cs-go-vs-furia-28-08-2026",
+      "url": "https://bo3.gg/matches/m80-cs-go-vs-furia-28-08-2026",
+      "event": "BLAST Open Fall 2026",
+      "team1": "M80",
+      "team2": "FURIA",
+      "currentTop20Matched": [
+        "FURIA"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182075,
+          "number": 2,
+          "winner": "FURIA",
+          "loser": "M80",
+          "winnerScore": 13,
+          "loserScore": 5
+        }
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "bo3MatchId": 127382,
+      "slug": "g2-vs-spirit-28-08-2026",
+      "url": "https://bo3.gg/matches/g2-vs-spirit-28-08-2026",
+      "event": "BLAST Open Fall 2026",
+      "team1": "G2",
+      "team2": "Spirit",
+      "currentTop20Matched": [
+        "G2",
+        "Spirit"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182070,
+          "number": 1,
+          "winner": "Spirit",
+          "loser": "G2",
+          "winnerScore": 13,
+          "loserScore": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "bo3MatchId": 127392,
+      "slug": "falcons-esports-vs-lynn-vision-27-08-2026",
+      "url": "https://bo3.gg/matches/falcons-esports-vs-lynn-vision-27-08-2026",
+      "event": "BLAST Open Fall 2026",
+      "team1": "Falcons",
+      "team2": "Lynn Vision",
+      "currentTop20Matched": [
+        "Falcons"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182098,
+          "number": 3,
+          "winner": "Falcons",
+          "loser": "Lynn Vision",
+          "winnerScore": 13,
+          "loserScore": 9
+        }
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "bo3MatchId": 127391,
+      "slug": "legacy-br-vs-fut-cs2-27-08-2026",
+      "url": "https://bo3.gg/matches/legacy-br-vs-fut-cs2-27-08-2026",
+      "event": "BLAST Open Fall 2026",
+      "team1": "Legacy",
+      "team2": "FUT",
+      "currentTop20Matched": [
+        "FUT",
+        "Legacy"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182096,
+          "number": 2,
+          "winner": "Legacy",
+          "loser": "FUT",
+          "winnerScore": 13,
+          "loserScore": 11
+        }
+      ]
+    },
+    {
+      "date": "2026-08-24",
+      "bo3MatchId": 127585,
+      "slug": "question-marks-vs-borracheiros-24-08-2026",
+      "url": "https://bo3.gg/matches/question-marks-vs-borracheiros-24-08-2026",
+      "event": "Gamers Club Liga Série A: August 2026",
+      "team1": "???",
+      "team2": "BORRACHEIROS",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182477,
+          "number": 2,
+          "winner": null,
+          "loser": null,
+          "winnerScore": null,
+          "loserScore": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-23",
+      "bo3MatchId": 126442,
+      "slug": "furia-vs-legacy-br-23-08-2026",
+      "url": "https://bo3.gg/matches/furia-vs-legacy-br-23-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "FURIA",
+      "team2": "Legacy",
+      "currentTop20Matched": [
+        "FURIA",
+        "Legacy"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180728,
+          "number": 3,
+          "winner": "Legacy",
+          "loser": "FURIA",
+          "winnerScore": 13,
+          "loserScore": 9
+        }
+      ]
+    },
+    {
+      "date": "2026-08-22",
+      "bo3MatchId": 127321,
+      "slug": "faze-up-next-vs-inner-circle-prospect-22-08-2026",
+      "url": "https://bo3.gg/matches/faze-up-next-vs-inner-circle-prospect-22-08-2026",
+      "event": "United21 Season 54",
+      "team1": "FaZe Up Next",
+      "team2": "Inner Circle Prospect",
+      "currentTop20Matched": [
+        "FaZe"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 181951,
+          "number": 2,
+          "winner": "Inner Circle Prospect",
+          "loser": "FaZe Up Next",
+          "winnerScore": 16,
+          "loserScore": 14
+        }
+      ]
+    },
+    {
+      "date": "2026-08-22",
+      "bo3MatchId": 126441,
+      "slug": "legacy-br-vs-spirit-22-08-2026",
+      "url": "https://bo3.gg/matches/legacy-br-vs-spirit-22-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "Legacy",
+      "team2": "Spirit",
+      "currentTop20Matched": [
+        "Legacy",
+        "Spirit"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180727,
+          "number": 1,
+          "winner": "Team Spirit",
+          "loser": "Legacy",
+          "winnerScore": 13,
+          "loserScore": 7
+        }
+      ]
+    },
+    {
+      "date": "2026-08-22",
+      "bo3MatchId": 126440,
+      "slug": "furia-vs-fut-cs2-22-08-2026",
+      "url": "https://bo3.gg/matches/furia-vs-fut-cs2-22-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "FURIA",
+      "team2": "FUT",
+      "currentTop20Matched": [
+        "FURIA",
+        "FUT"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180722,
+          "number": 3,
+          "winner": "FUT Esports",
+          "loser": "FURIA",
+          "winnerScore": 16,
+          "loserScore": 13
+        }
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "bo3MatchId": 126438,
+      "slug": "legacy-br-vs-falcons-esports-21-08-2026",
+      "url": "https://bo3.gg/matches/legacy-br-vs-falcons-esports-21-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "Legacy",
+      "team2": "Falcons",
+      "currentTop20Matched": [
+        "Falcons",
+        "Legacy"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180717,
+          "number": 2,
+          "winner": "Legacy",
+          "loser": "Team Falcons",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "bo3MatchId": 126437,
+      "slug": "fut-cs2-vs-mousesports-21-08-2026",
+      "url": "https://bo3.gg/matches/fut-cs2-vs-mousesports-21-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "FUT",
+      "team2": "MOUZ",
+      "currentTop20Matched": [
+        "FUT",
+        "MOUZ"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180715,
+          "number": 1,
+          "winner": "FUT Esports",
+          "loser": "MOUZ",
+          "winnerScore": 16,
+          "loserScore": 13
+        }
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "bo3MatchId": 127463,
+      "slug": "goldrashers-vs-spirit-academy-green-20-08-2026",
+      "url": "https://bo3.gg/matches/goldrashers-vs-spirit-academy-green-20-08-2026",
+      "event": "ESEA Season 58: Advanced Division - Europe",
+      "team1": "GoldRashers",
+      "team2": "Spirit Academy Green",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "0-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182191,
+          "number": 1,
+          "winner": "Spirit Academy Green_rM5WL67cbY760Mrx",
+          "loser": "GoldRashers",
+          "winnerScore": 13,
+          "loserScore": 1
+        }
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "bo3MatchId": 127455,
+      "slug": "underworld-vs-question-marks-20-08-2026",
+      "url": "https://bo3.gg/matches/underworld-vs-question-marks-20-08-2026",
+      "event": "Gamers Club Liga Série A: August 2026",
+      "team1": "Underworld",
+      "team2": "???",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 182180,
+          "number": 2,
+          "winner": null,
+          "loser": null,
+          "winnerScore": null,
+          "loserScore": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "bo3MatchId": 126436,
+      "slug": "g2-vs-furia-20-08-2026",
+      "url": "https://bo3.gg/matches/g2-vs-furia-20-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "G2",
+      "team2": "FURIA",
+      "currentTop20Matched": [
+        "FURIA",
+        "G2"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180710,
+          "number": 3,
+          "winner": "FURIA",
+          "loser": "G2 Esports",
+          "winnerScore": 13,
+          "loserScore": 4
+        }
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "bo3MatchId": 126435,
+      "slug": "faze-vs-vitality-20-08-2026",
+      "url": "https://bo3.gg/matches/faze-vs-vitality-20-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "FaZe",
+      "team2": "Vitality",
+      "currentTop20Matched": [
+        "FaZe",
+        "Vitality"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180709,
+          "number": 1,
+          "winner": "Team Vitality",
+          "loser": "FaZe Clan",
+          "winnerScore": 13,
+          "loserScore": 11
+        }
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "bo3MatchId": 126434,
+      "slug": "b8-vs-spirit-20-08-2026",
+      "url": "https://bo3.gg/matches/b8-vs-spirit-20-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "B8",
+      "team2": "Spirit",
+      "currentTop20Matched": [
+        "B8",
+        "Spirit"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180706,
+          "number": 1,
+          "winner": "Team Spirit",
+          "loser": "B8 Esports",
+          "winnerScore": 13,
+          "loserScore": 9
+        }
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "bo3MatchId": 126432,
+      "slug": "falcons-esports-vs-the-mongolz-20-08-2026",
+      "url": "https://bo3.gg/matches/falcons-esports-vs-the-mongolz-20-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "Falcons",
+      "team2": "The MongolZ",
+      "currentTop20Matched": [
+        "Falcons",
+        "The MongolZ"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180699,
+          "number": 2,
+          "winner": "Team Falcons",
+          "loser": "The MongolZ",
+          "winnerScore": 13,
+          "loserScore": 9
+        }
+      ]
+    },
+    {
+      "date": "2026-08-19",
+      "bo3MatchId": 127337,
+      "slug": "spirit-academy-green-vs-trafficpills-esports-19-08-2026",
+      "url": "https://bo3.gg/matches/spirit-academy-green-vs-trafficpills-esports-19-08-2026",
+      "event": "CCT Europe 2026 Contenders 8",
+      "team1": "Spirit Academy Green",
+      "team2": "TrafficPills",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 181999,
+          "number": 2,
+          "winner": "TrafficPills",
+          "loser": "Team Spirit Academy Green",
+          "winnerScore": 13,
+          "loserScore": 5
+        }
+      ]
+    },
+    {
+      "date": "2026-08-19",
+      "bo3MatchId": 127279,
+      "slug": "sparta-vs-mouz-nxt-19-08-2026",
+      "url": "https://bo3.gg/matches/sparta-vs-mouz-nxt-19-08-2026",
+      "event": "ESL Challenger League Season 52: Europe - Cup 4",
+      "team1": "SPARTA",
+      "team2": "MOUZ NXT",
+      "currentTop20Matched": [
+        "MOUZ"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 181856,
+          "number": 2,
+          "winner": "SPARTA",
+          "loser": "MOUZ NXT",
+          "winnerScore": 13,
+          "loserScore": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-08-19",
+      "bo3MatchId": 126429,
+      "slug": "g2-vs-astralis-19-08-2026",
+      "url": "https://bo3.gg/matches/g2-vs-astralis-19-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "G2",
+      "team2": "Astralis",
+      "currentTop20Matched": [
+        "Astralis",
+        "G2"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180690,
+          "number": 2,
+          "winner": "G2 Esports",
+          "loser": "Astralis",
+          "winnerScore": 13,
+          "loserScore": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-08-18",
+      "bo3MatchId": 127275,
+      "slug": "sparta-vs-mouz-nxt-18-08-2026",
+      "url": "https://bo3.gg/matches/sparta-vs-mouz-nxt-18-08-2026",
+      "event": "ESL Challenger League Season 52: Europe - Cup 4",
+      "team1": "SPARTA",
+      "team2": "MOUZ NXT",
+      "currentTop20Matched": [
+        "MOUZ"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 181844,
+          "number": 2,
+          "winner": "SPARTA",
+          "loser": "MOUZ NXT",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "bo3MatchId": 127270,
+      "slug": "maybe-ukr-vs-spirit-academy-green-17-08-2026",
+      "url": "https://bo3.gg/matches/maybe-ukr-vs-spirit-academy-green-17-08-2026",
+      "event": "CCT Europe 2026 Contenders 8",
+      "team1": "MAYBE",
+      "team2": "Spirit Academy Green",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 181829,
+          "number": 3,
+          "winner": "maybe",
+          "loser": "Team Spirit Academy Green",
+          "winnerScore": 13,
+          "loserScore": 11
+        }
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "bo3MatchId": 126423,
+      "slug": "vitality-vs-lynn-vision-16-08-2026",
+      "url": "https://bo3.gg/matches/vitality-vs-lynn-vision-16-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "Vitality",
+      "team2": "Lynn Vision",
+      "currentTop20Matched": [
+        "Vitality"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180673,
+          "number": 1,
+          "winner": "Team Vitality",
+          "loser": "Lynn Vision Gaming",
+          "winnerScore": 13,
+          "loserScore": 2
+        }
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "bo3MatchId": 126422,
+      "slug": "mousesports-vs-parivision-16-08-2026",
+      "url": "https://bo3.gg/matches/mousesports-vs-parivision-16-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "MOUZ",
+      "team2": "PARIVISION",
+      "currentTop20Matched": [
+        "MOUZ",
+        "PARIVISION"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180670,
+          "number": 1,
+          "winner": "MOUZ",
+          "loser": "PVISION",
+          "winnerScore": 13,
+          "loserScore": 4
+        }
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "bo3MatchId": 126413,
+      "slug": "9z-vs-magic-ru-16-08-2026",
+      "url": "https://bo3.gg/matches/9z-vs-magic-ru-16-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "9z",
+      "team2": "magic",
+      "currentTop20Matched": [
+        "9z",
+        "magic"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180650,
+          "number": 2,
+          "winner": "9z Globant",
+          "loser": "magic",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "bo3MatchId": 127092,
+      "slug": "vp-prodigy-vs-faze-up-next-15-08-2026",
+      "url": "https://bo3.gg/matches/vp-prodigy-vs-faze-up-next-15-08-2026",
+      "event": "European Pro League Regular Season 6",
+      "team1": "FaZe Up Next",
+      "team2": "VP.Prodigy",
+      "currentTop20Matched": [
+        "FaZe"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 181618,
+          "number": 1,
+          "winner": "VP.Prodigy",
+          "loser": "Faze UP",
+          "winnerScore": 13,
+          "loserScore": 5
+        }
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "bo3MatchId": 127062,
+      "slug": "mouz-nxt-vs-ex-mana-esports-15-08-2026",
+      "url": "https://bo3.gg/matches/mouz-nxt-vs-ex-mana-esports-15-08-2026",
+      "event": "ESL Challenger League Season 52: Europe - Cup 3",
+      "team1": "MOUZ NXT",
+      "team2": "ex-MANA",
+      "currentTop20Matched": [
+        "MOUZ"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 181542,
+          "number": 2,
+          "winner": "ex-mana",
+          "loser": "MOUZ NXT",
+          "winnerScore": 13,
+          "loserScore": 2
+        }
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "bo3MatchId": 126411,
+      "slug": "magic-ru-vs-3dmax-15-08-2026",
+      "url": "https://bo3.gg/matches/magic-ru-vs-3dmax-15-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "3DMAX",
+      "team2": "magic",
+      "currentTop20Matched": [
+        "magic"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180645,
+          "number": 1,
+          "winner": "magic",
+          "loser": "3DMAX",
+          "winnerScore": 13,
+          "loserScore": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "bo3MatchId": 126408,
+      "slug": "furia-vs-9z-15-08-2026",
+      "url": "https://bo3.gg/matches/furia-vs-9z-15-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "9z",
+      "team2": "FURIA",
+      "currentTop20Matched": [
+        "9z",
+        "FURIA"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180636,
+          "number": 1,
+          "winner": "FURIA",
+          "loser": "9z Globant",
+          "winnerScore": 13,
+          "loserScore": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "bo3MatchId": 126403,
+      "slug": "big-vs-spirit-15-08-2026",
+      "url": "https://bo3.gg/matches/big-vs-spirit-15-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "BIG",
+      "team2": "Spirit",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180628,
+          "number": 2,
+          "winner": "Team Spirit",
+          "loser": "BIG",
+          "winnerScore": 13,
+          "loserScore": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "bo3MatchId": 127123,
+      "slug": "mouz-nxt-vs-enjoy-14-08-2026",
+      "url": "https://bo3.gg/matches/mouz-nxt-vs-enjoy-14-08-2026",
+      "event": "NODWIN Clutch Series 11 Play-In",
+      "team1": "MOUZ NXT",
+      "team2": "Enjoy",
+      "currentTop20Matched": [
+        "MOUZ"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 181653,
+          "number": 3,
+          "winner": "Enjoy",
+          "loser": "MOUZ NXT",
+          "winnerScore": 13,
+          "loserScore": 2
+        }
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "bo3MatchId": 127061,
+      "slug": "inox-division-vs-mouz-nxt-14-08-2026",
+      "url": "https://bo3.gg/matches/inox-division-vs-mouz-nxt-14-08-2026",
+      "event": "ESL Challenger League Season 52: Europe - Cup 3",
+      "team1": "INOX Division",
+      "team2": "MOUZ NXT",
+      "currentTop20Matched": [
+        "MOUZ"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 181539,
+          "number": 2,
+          "winner": "INOX Division",
+          "loser": "MOUZ NXT",
+          "winnerScore": 13,
+          "loserScore": 11
+        }
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "bo3MatchId": 127009,
+      "slug": "faze-up-next-vs-vitality-academy-14-08-2026",
+      "url": "https://bo3.gg/matches/faze-up-next-vs-vitality-academy-14-08-2026",
+      "event": "European Pro League Regular Season 6",
+      "team1": "FaZe Up Next",
+      "team2": "Vitality Academy",
+      "currentTop20Matched": [
+        "FaZe",
+        "Vitality"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 181382,
+          "number": 3,
+          "winner": "Vitality Academy",
+          "loser": "Faze UP",
+          "winnerScore": 13,
+          "loserScore": 11
+        }
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "bo3MatchId": 126421,
+      "slug": "parivision-vs-100-thieves-14-08-2026",
+      "url": "https://bo3.gg/matches/parivision-vs-100-thieves-14-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "100 Thieves",
+      "team2": "PARIVISION",
+      "currentTop20Matched": [
+        "PARIVISION"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180666,
+          "number": 2,
+          "winner": "PVISION",
+          "loser": "100 Thieves",
+          "winnerScore": 13,
+          "loserScore": 5
+        }
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "bo3MatchId": 126419,
+      "slug": "b8-vs-vitality-14-08-2026",
+      "url": "https://bo3.gg/matches/b8-vs-vitality-14-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "Vitality",
+      "team2": "B8",
+      "currentTop20Matched": [
+        "B8",
+        "Vitality"
+      ],
+      "seriesScore": "1-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180659,
+          "number": 3,
+          "winner": "B8 Esports",
+          "loser": "Team Vitality",
+          "winnerScore": 13,
+          "loserScore": 4
+        }
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "bo3MatchId": 126733,
+      "slug": "teletubisie-vs-faze-up-next-13-08-2026",
+      "url": "https://bo3.gg/matches/teletubisie-vs-faze-up-next-13-08-2026",
+      "event": "United21 Season 53",
+      "team1": "Teletubisie",
+      "team2": "FaZe Up Next",
+      "currentTop20Matched": [
+        "FaZe"
+      ],
+      "seriesScore": "2-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180827,
+          "number": 1,
+          "winner": "Teletubisie",
+          "loser": "Faze UP",
+          "winnerScore": 13,
+          "loserScore": 9
+        }
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "bo3MatchId": 126401,
+      "slug": "luminosity-cs-go-vs-spirit-13-08-2026",
+      "url": "https://bo3.gg/matches/luminosity-cs-go-vs-spirit-13-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "Spirit",
+      "team2": "Luminosity",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180622,
+          "number": 2,
+          "winner": "Team Spirit",
+          "loser": "Luminosity",
+          "winnerScore": 19,
+          "loserScore": 15
+        }
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "bo3MatchId": 126400,
+      "slug": "aurora-gaming-vs-m80-cs-go-13-08-2026",
+      "url": "https://bo3.gg/matches/aurora-gaming-vs-m80-cs-go-13-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "M80",
+      "team2": "Aurora",
+      "currentTop20Matched": [
+        "Aurora"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180620,
+          "number": 1,
+          "winner": "Aurora Gaming",
+          "loser": "M80",
+          "winnerScore": 13,
+          "loserScore": 9
+        }
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "bo3MatchId": 126399,
+      "slug": "gamerlegion-vs-jijiehao-13-08-2026",
+      "url": "https://bo3.gg/matches/gamerlegion-vs-jijiehao-13-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "JiJieHao",
+      "team2": "GamerLegion",
+      "currentTop20Matched": [
+        "GamerLegion"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180617,
+          "number": 1,
+          "winner": "GamerLegion",
+          "loser": "JiJie Hao",
+          "winnerScore": 13,
+          "loserScore": 3
+        }
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "bo3MatchId": 126393,
+      "slug": "falcons-esports-vs-astralis-13-08-2026",
+      "url": "https://bo3.gg/matches/falcons-esports-vs-astralis-13-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "Falcons",
+      "team2": "Astralis",
+      "currentTop20Matched": [
+        "Astralis",
+        "Falcons"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180606,
+          "number": 2,
+          "winner": "Team Falcons",
+          "loser": "Astralis",
+          "winnerScore": 13,
+          "loserScore": 11
+        }
+      ]
+    },
+    {
+      "date": "2026-08-12",
+      "bo3MatchId": 126731,
+      "slug": "faze-up-next-vs-fire-flux-12-08-2026",
+      "url": "https://bo3.gg/matches/faze-up-next-vs-fire-flux-12-08-2026",
+      "event": "United21 Season 53",
+      "team1": "FaZe Up Next",
+      "team2": "Fire Flux",
+      "currentTop20Matched": [
+        "FaZe"
+      ],
+      "seriesScore": "2-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180820,
+          "number": 2,
+          "winner": "Faze UP",
+          "loser": "Fire Flux TitanSeat",
+          "winnerScore": 13,
+          "loserScore": 4
+        }
+      ]
+    },
+    {
+      "date": "2026-08-12",
+      "bo3MatchId": 126416,
+      "slug": "lynn-vision-vs-mousesports-12-08-2026",
+      "url": "https://bo3.gg/matches/lynn-vision-vs-mousesports-12-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "Lynn Vision",
+      "team2": "MOUZ",
+      "currentTop20Matched": [
+        "MOUZ"
+      ],
+      "seriesScore": "0-1",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180654,
+          "number": 1,
+          "winner": "MOUZ",
+          "loser": "Lynn Vision Gaming",
+          "winnerScore": 13,
+          "loserScore": 8
+        }
+      ]
+    },
+    {
+      "date": "2026-08-12",
+      "bo3MatchId": 126388,
+      "slug": "falcons-esports-vs-k27-12-08-2026",
+      "url": "https://bo3.gg/matches/falcons-esports-vs-k27-12-08-2026",
+      "event": "Esports World Cup 2026",
+      "team1": "Falcons",
+      "team2": "K27",
+      "currentTop20Matched": [
+        "Falcons"
+      ],
+      "seriesScore": "1-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180598,
+          "number": 1,
+          "winner": "Team Falcons",
+          "loser": "K27 Esports",
+          "winnerScore": 13,
+          "loserScore": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-08-11",
+      "bo3MatchId": 126749,
+      "slug": "falcons-force-vs-lfo-ua-11-08-2026",
+      "url": "https://bo3.gg/matches/falcons-force-vs-lfo-ua-11-08-2026",
+      "event": "ESEA Season 58: Advanced Division - Europe",
+      "team1": "Falcons Force",
+      "team2": "LFO 7",
+      "currentTop20Matched": [
+        "Falcons"
+      ],
+      "seriesScore": "1-0",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180835,
+          "number": 1,
+          "winner": "Falcons Force",
+          "loser": "LFO_anFK4QiHVBaMLfIq",
+          "winnerScore": 13,
+          "loserScore": 3
+        }
+      ]
+    },
+    {
+      "date": "2026-08-08",
+      "bo3MatchId": 126307,
+      "slug": "vandulken-vs-spirit-hu-08-08-2026",
+      "url": "https://bo3.gg/matches/vandulken-vs-spirit-hu-08-08-2026",
+      "event": "Esports World Cup 2026: Open Qualifier",
+      "team1": "Vandulken",
+      "team2": "Spirit HU",
+      "currentTop20Matched": [
+        "Spirit"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180421,
+          "number": 1,
+          "winner": "Spirit Esports",
+          "loser": "Vandulken",
+          "winnerScore": 13,
+          "loserScore": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-08-07",
+      "bo3MatchId": 126290,
+      "slug": "kreazion-vs-astral-07-08-2026",
+      "url": "https://bo3.gg/matches/kreazion-vs-astral-07-08-2026",
+      "event": "Esports World Cup 2026: Open Qualifier",
+      "team1": "Kreazion",
+      "team2": "ASTRAL",
+      "currentTop20Matched": [
+        "Astralis"
+      ],
+      "seriesScore": "0-2",
+      "dust2Maps": [
+        {
+          "bo3GameId": 180370,
+          "number": 1,
+          "winner": "ASTRAL",
+          "loser": "Kreazion",
+          "winnerScore": 13,
+          "loserScore": 3
+        }
+      ]
+    }
+  ]
+}
