@@ -1,0 +1,48 @@
+name: Mirror one verified Dust2 demo
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - test/hltv-playwright-download
+    paths:
+      - ".github/workflows/mirror-one-dust2-demo.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      URL: "https://videoscdn-cs.rlin.dev/demos/hltv-2398102-m2-vitality-vs-furia-m2-dust2.dem"
+      FILE: "2026-09-18-vitality-vs-furia-dust2.dem"
+      GH_TOKEN: ${{ github.token }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download full demo
+        run: |
+          curl -fL --retry 3 --retry-delay 3 --progress-bar "$URL" -o "$FILE"
+          ls -lh "$FILE"
+
+      - name: Validate CS2 demo
+        run: |
+          python3 - <<'PY'
+          import os
+          p="2026-09-18-vitality-vs-furia-dust2.dem"
+          size=os.path.getsize(p)
+          with open(p,"rb") as f:
+              head=f.read(16)
+          print("size",size,"head",head)
+          assert size > 100_000_000, size
+          assert head.startswith((b"PBDEMS2",b"HL2DEMO")), head
+          PY
+
+      - name: Publish to GitHub Release
+        run: |
+          gh release view demos >/dev/null 2>&1 ||             gh release create demos --title "NadeAtlas verified demos" --notes "Verified CS2 professional demos."
+          gh release upload demos "$FILE" --clobber
+          gh release view demos --json url,assets
