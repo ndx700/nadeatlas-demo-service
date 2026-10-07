@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-10-04",
+    "event": "ESL Pro League Season 24",
+    "team1": "Falcons",
+    "team2": "Aurora",
+    "map": "de_mirage",
+    "url": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/dust2-pilot-2026-10/falcons-falcons-vs-aurora-esl-pro-league-season-24.rar",
+    "matchId": "hltv-2398744-m1",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Falcons-vs-Aurora-2026-10-04-Mirage-hltv-2398744-m1-r2.nar",
+    "replaySize": 2061172,
+    "source": "cloud"
+  },
+  {
+    "date": "2026-10-04",
+    "event": "ESL Pro League Season 24",
+    "team1": "Falcons",
+    "team2": "Aurora",
+    "map": "de_dust2",
+    "url": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/dust2-pilot-2026-10/falcons-falcons-vs-aurora-esl-pro-league-season-24.rar",
+    "matchId": "hltv-2398744-m2",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Falcons-vs-Aurora-2026-10-04-Dust2-hltv-2398744-m2-r2.nar",
+    "replaySize": 2715599,
+    "source": "cloud"
+  },
+  {
     "date": "2026-09-20",
     "event": "StarLadder StarSeries Fall 2026",
     "team1": "Aurora",
@@ -94,8 +118,8 @@
     "size": 348578497,
     "matchId": "hltv-2398106-m1",
     "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398106-m1-15d979e72238c014.msgpack.gz",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/MIBR-vs-FURIA-2026-09-19-Mirage-hltv-2398106-m1.nar",
-    "replaySize": 2492890
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/MIBR-vs-FURIA-2026-09-19-Mirage-hltv-2398106-m1-r2.nar",
+    "replaySize": 2507331
   },
   {
     "date": "2026-09-19",
@@ -178,8 +202,8 @@
     "size": 574112174,
     "matchId": "hltv-2398103-m2",
     "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398103-m2-ba6957162fdabbe5.msgpack.gz",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/MOUZ-vs-FURIA-2026-09-19-Mirage-hltv-2398103-m2.nar",
-    "replaySize": 3996648
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/MOUZ-vs-FURIA-2026-09-19-Mirage-hltv-2398103-m2-r2.nar",
+    "replaySize": 4022513
   },
   {
     "date": "2026-09-19",
@@ -247,8 +271,8 @@
     "size": 359705788,
     "matchId": "hltv-2398102-m1",
     "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398102-m1-326c1867778994a6.msgpack.gz",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Vitality-vs-FURIA-2026-09-18-Mirage-hltv-2398102-m1.nar",
-    "replaySize": 2479362
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Vitality-vs-FURIA-2026-09-18-Mirage-hltv-2398102-m1-r2.nar",
+    "replaySize": 2496118
   },
   {
     "date": "2026-09-18",
@@ -275,8 +299,8 @@
     "size": 561351563,
     "matchId": "hltv-2398101-m2",
     "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398101-m2-323b572c28e6ea9a.msgpack.gz",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/NRG-vs-Aurora-2026-09-18-Mirage-hltv-2398101-m2.nar",
-    "replaySize": 3959348
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/NRG-vs-Aurora-2026-09-18-Mirage-hltv-2398101-m2-r2.nar",
+    "replaySize": 3981850
   },
   {
     "date": "2026-09-18",
@@ -303,8 +327,8 @@
     "size": 367854612,
     "matchId": "hltv-2398100-m2",
     "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398100-m2-6a1d72448c1295f5.msgpack.gz",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/magic-vs-MIBR-2026-09-18-Mirage-hltv-2398100-m2.nar",
-    "replaySize": 2565308
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/magic-vs-MIBR-2026-09-18-Mirage-hltv-2398100-m2-r2.nar",
+    "replaySize": 2582675
   },
   {
     "date": "2026-09-18",
@@ -359,8 +383,8 @@
     "size": 323341353,
     "matchId": "hltv-2398099-m3",
     "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398099-m3-cd8f3f6ea791cb3d.msgpack.gz",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/MOUZ-vs-Natus-Vincere-2026-09-18-Mirage-hltv-2398099-m3.nar",
-    "replaySize": 2243820
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/MOUZ-vs-Natus-Vincere-2026-09-18-Mirage-hltv-2398099-m3-r2.nar",
+    "replaySize": 2257237
   },
   {
     "date": "2026-09-17",
@@ -434,8 +458,8 @@
     "size": 313295850,
     "matchId": "hltv-2398090-m2",
     "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398090-m2-c184255c402a0bb8.msgpack.gz",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Natus-Vincere-vs-Aurora-2026-09-17-Mirage-hltv-2398090-m2.nar",
-    "replaySize": 2190184
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Natus-Vincere-vs-Aurora-2026-09-17-Mirage-hltv-2398090-m2-r2.nar",
+    "replaySize": 2206264
   },
   {
     "date": "2026-09-17",
@@ -448,8 +472,8 @@
     "size": 311913779,
     "matchId": "hltv-2398089-m1",
     "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398089-m1-8c6d8068b820b189.msgpack.gz",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Vitality-vs-magic-2026-09-17-Mirage-hltv-2398089-m1.nar",
-    "replaySize": 2196150
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Vitality-vs-magic-2026-09-17-Mirage-hltv-2398089-m1-r2.nar",
+    "replaySize": 2209382
   },
   {
     "date": "2026-09-17",
@@ -511,8 +535,8 @@
     "size": 398467360,
     "matchId": "hltv-2397623-m2",
     "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2397623-m2.msgpack.gz",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Legacy-vs-G2-2026-09-13-Mirage-hltv-2397623-m2.nar",
-    "replaySize": 2552671
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Legacy-vs-G2-2026-09-13-Mirage-hltv-2397623-m2-r2.nar",
+    "replaySize": 2577823
   },
   {
     "date": "2026-09-12",
@@ -525,8 +549,8 @@
     "size": 392645157,
     "matchId": "hltv-2397621-m1",
     "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2397621-m1.msgpack.gz",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/BETBOOM-vs-G2-2026-09-12-Mirage-hltv-2397621-m1.nar",
-    "replaySize": 2451337
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/BETBOOM-vs-G2-2026-09-12-Mirage-hltv-2397621-m1-r2.nar",
+    "replaySize": 2466780
   },
   {
     "date": "2026-09-12",
@@ -709,8 +733,8 @@
     "size": 407146884,
     "matchId": "hltv-2397613-m1",
     "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2397613-m1-stats.msgpack.gz",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/MIBR-vs-BETBOOM-2026-09-10-Mirage-hltv-2397613-m1.nar",
-    "replaySize": 2997266
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/MIBR-vs-BETBOOM-2026-09-10-Mirage-hltv-2397613-m1-r2.nar",
+    "replaySize": 3012492
   },
   {
     "date": "2026-09-10",
@@ -735,8 +759,8 @@
     "size": 401731541,
     "matchId": "hltv-2397617-m1",
     "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2397617-m1.msgpack.gz",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Legacy-vs-FURIA-2026-09-10-Mirage-hltv-2397617-m1.nar",
-    "replaySize": 2595055
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Legacy-vs-FURIA-2026-09-10-Mirage-hltv-2397617-m1-r2.nar",
+    "replaySize": 2610216
   },
   {
     "date": "2026-09-10",
