@@ -1,7 +1,7 @@
 {
   "state": "ok",
   "message": "multi-source sync completed",
-  "updatedAt": "2026-10-07T21:43:01.125077Z",
+  "updatedAt": "2026-10-07T21:59:16.304648Z",
   "sources": {
     "public_pro_demo": {
       "state": "ok",
@@ -18,19 +18,20 @@
     }
   },
   "added": 0,
-  "published": 27,
-  "publishedAllMaps": 136,
+  "published": 32,
+  "publishedAllMaps": 151,
   "mapCounts": {
     "de_ancient": 26,
-    "de_anubis": 9,
-    "de_cache": 15,
-    "de_dust2": 27,
+    "de_anubis": 12,
+    "de_cache": 18,
+    "de_dust2": 32,
     "de_inferno": 21,
-    "de_mirage": 25,
-    "de_nuke": 13
+    "de_mirage": 28,
+    "de_nuke": 14
   },
   "logos": 67,
   "errors": [
-    "logo backfill hltv-2398720-m1: HTTPError: HTTP Error 404: Not Found"
+    "logo backfill hltv-2398720-m1: HTTPError: HTTP Error 404: Not Found",
+    "logo backfill hltv-2398719-m1: HTTPError: HTTP Error 404: Not Found"
   ]
 }
