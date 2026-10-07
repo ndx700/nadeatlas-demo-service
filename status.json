@@ -1,16 +1,16 @@
 {
   "state": "ok",
   "message": "multi-source sync completed",
-  "updatedAt": "2026-10-07T21:02:35.382554Z",
+  "updatedAt": "2026-10-07T21:23:45.203392Z",
   "sources": {
     "public_pro_demo": {
       "state": "ok",
       "events": 23,
       "mapsListed": 1482,
-      "looked": 400,
+      "looked": 184,
       "added": 0,
       "addedDust2": 0,
-      "remaining": 184
+      "remaining": 0
     },
     "better_cs": {
       "state": "paused",
@@ -18,19 +18,19 @@
     }
   },
   "added": 0,
-  "published": 12,
-  "publishedAllMaps": 100,
+  "published": 21,
+  "publishedAllMaps": 123,
   "mapCounts": {
-    "de_ancient": 20,
-    "de_anubis": 6,
-    "de_cache": 13,
-    "de_dust2": 12,
+    "de_ancient": 24,
+    "de_anubis": 8,
+    "de_cache": 15,
+    "de_dust2": 21,
     "de_inferno": 19,
-    "de_mirage": 19,
-    "de_nuke": 11
+    "de_mirage": 24,
+    "de_nuke": 12
   },
   "logos": 67,
   "errors": [
-    "rlin hltv-2391030-m3: demo URL is not labelled inferno"
+    "logo backfill hltv-2398720-m1: HTTPError: HTTP Error 404: Not Found"
   ]
 }
