@@ -1,0 +1,43 @@
+name: Test HLTV across runner OS
+on:
+  push:
+    branches: [test/hltv-playwright-download]
+    paths:
+      - .github/workflows/test-hltv-runner-os.yml
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  test:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [windows-latest, macos-latest]
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: test/hltv-playwright-download
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install playwright
+      - name: Browser download test
+        shell: bash
+        run: |
+          set +e
+          python scripts/download_hltv_demo_playwright.py             "https://www.hltv.org/download/demo/106303"             "demo.rar" --diag-dir "diagnostics-${{ matrix.os }}" --wait-ms 10000             2>&1 | tee "result-${{ matrix.os }}.log"
+          code=${PIPESTATUS[0]}
+          echo "EXIT=$code"
+          exit 0
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: hltv-${{ matrix.os }}-diagnostics
+          path: |
+            result-${{ matrix.os }}.log
+            diagnostics-${{ matrix.os }}/
+            demo.rar
+          if-no-files-found: ignore
+          retention-days: 3
