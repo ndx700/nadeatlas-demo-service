@@ -1,7 +1,7 @@
 {
   "state": "ok",
   "message": "multi-source sync completed",
-  "updatedAt": "2026-10-07T20:48:37.156816Z",
+  "updatedAt": "2026-10-07T21:02:35.382554Z",
   "sources": {
     "public_pro_demo": {
       "state": "ok",
@@ -10,7 +10,7 @@
       "looked": 400,
       "added": 0,
       "addedDust2": 0,
-      "remaining": 584
+      "remaining": 184
     },
     "better_cs": {
       "state": "paused",
@@ -18,17 +18,19 @@
     }
   },
   "added": 0,
-  "published": 11,
-  "publishedAllMaps": 98,
+  "published": 12,
+  "publishedAllMaps": 100,
   "mapCounts": {
     "de_ancient": 20,
     "de_anubis": 6,
     "de_cache": 13,
-    "de_dust2": 11,
+    "de_dust2": 12,
     "de_inferno": 19,
-    "de_mirage": 18,
+    "de_mirage": 19,
     "de_nuke": 11
   },
   "logos": 67,
-  "errors": []
+  "errors": [
+    "rlin hltv-2391030-m3: demo URL is not labelled inferno"
+  ]
 }

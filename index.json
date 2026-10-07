@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-10-05",
+    "event": "ESL Pro League Season 24",
+    "team1": "Vitality",
+    "team2": "Falcons",
+    "map": "de_dust2",
+    "url": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/dust2-pilot-2026-10/vitality-vitality-vs-falcons-esl-pro-league-season-24.rar",
+    "matchId": "hltv-2398739-m2",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Vitality-vs-Falcons-2026-10-05-Dust2-hltv-2398739-m2-r2.nar",
+    "replaySize": 2125950,
+    "source": "cloud"
+  },
+  {
     "date": "2026-10-04",
     "event": "ESL Pro League Season 24",
     "team1": "Falcons",
@@ -9,6 +21,30 @@
     "matchId": "hltv-2398744-m2",
     "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Falcons-vs-Aurora-2026-10-04-Dust2-hltv-2398744-m2-r2.nar",
     "replaySize": 2715599,
+    "source": "cloud"
+  },
+  {
+    "date": "2026-10-04",
+    "event": "ESL Pro League Season 24",
+    "team1": "Spirit",
+    "team2": "PARIVISION",
+    "map": "de_dust2",
+    "url": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/dust2-pilot-2026-10/spirit-spirit-vs-parivision-esl-pro-league-season-24.rar",
+    "matchId": "hltv-2398725-m2",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Spirit-vs-PARIVISION-2026-10-04-Dust2-hltv-2398725-m2-r2.nar",
+    "replaySize": 2563014,
+    "source": "cloud"
+  },
+  {
+    "date": "2026-10-03",
+    "event": "ESL Pro League Season 24",
+    "team1": "Spirit",
+    "team2": "Shinden",
+    "map": "de_dust2",
+    "url": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/dust2-pilot-2026-10/spirit-spirit-vs-shinden-esl-pro-league-season-24.rar",
+    "matchId": "hltv-2398720-m1",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Spirit-vs-Shinden-2026-10-03-Dust2-hltv-2398720-m1-r2.nar",
+    "replaySize": 3219469,
     "source": "cloud"
   },
   {
@@ -153,5 +189,77 @@
     "matchId": "hltv-2396947-m2",
     "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Falcons-vs-G2-2026-09-04-Dust2-hltv-2396947-m2-r2.nar",
     "replaySize": 2785816
+  },
+  {
+    "date": "2026-08-29",
+    "event": "BLAST Open Porto 2026",
+    "team1": "Legacy",
+    "team2": "Falcons",
+    "map": "de_dust2",
+    "url": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/dust2-pilot-2026-10/falcons-legacy-vs-falcons-blast-open-porto-2026.rar",
+    "matchId": "hltv-2396938-m3",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Legacy-vs-Falcons-2026-08-29-Dust2-hltv-2396938-m3-r2.nar",
+    "replaySize": 2483206,
+    "source": "cloud"
+  },
+  {
+    "date": "2026-08-28",
+    "event": "BLAST Open Porto 2026",
+    "team1": "G2",
+    "team2": "Spirit",
+    "map": "de_dust2",
+    "url": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/dust2-pilot-2026-10/spirit-g2-vs-spirit-blast-open-porto-2026.rar",
+    "matchId": "hltv-2396932-m1",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/G2-vs-Spirit-2026-08-28-Dust2-hltv-2396932-m1-r2.nar",
+    "replaySize": 2594387,
+    "source": "cloud"
+  },
+  {
+    "date": "2026-08-22",
+    "event": "Esports World Cup 2026",
+    "team1": "Legacy",
+    "team2": "Spirit",
+    "map": "de_dust2",
+    "url": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/dust2-pilot-2026-10/spirit-legacy-vs-spirit-esports-world-cup-2026.rar",
+    "matchId": "hltv-2396612-m1",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Legacy-vs-Spirit-2026-08-22-Dust2-hltv-2396612-m1-r2.nar",
+    "replaySize": 2598878,
+    "source": "cloud"
+  },
+  {
+    "date": "2026-08-20",
+    "event": "Esports World Cup 2026",
+    "team1": "B8",
+    "team2": "Spirit",
+    "map": "de_dust2",
+    "url": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/dust2-pilot-2026-10/spirit-b8-vs-spirit-esports-world-cup-2026.rar",
+    "matchId": "hltv-2396606-m1",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/B8-vs-Spirit-2026-08-20-Dust2-hltv-2396606-m1-r2.nar",
+    "replaySize": 2970181,
+    "source": "cloud"
+  },
+  {
+    "date": "2026-08-15",
+    "event": "Esports World Cup 2026",
+    "team1": "Spirit",
+    "team2": "BIG",
+    "map": "de_dust2",
+    "url": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/dust2-pilot-2026-10/spirit-spirit-vs-big-esports-world-cup-2026.rar",
+    "matchId": "hltv-2396591-m2",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Spirit-vs-BIG-2026-08-15-Dust2-hltv-2396591-m2-r2.nar",
+    "replaySize": 2933179,
+    "source": "cloud"
+  },
+  {
+    "date": "2026-08-13",
+    "event": "Esports World Cup 2026",
+    "team1": "Luminosity",
+    "team2": "Spirit",
+    "map": "de_dust2",
+    "url": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/dust2-pilot-2026-10/spirit-luminosity-vs-spirit-esports-world-cup-2026.rar",
+    "matchId": "hltv-2396577-m2",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Luminosity-vs-Spirit-2026-08-13-Dust2-hltv-2396577-m2-r2.nar",
+    "replaySize": 4177848,
+    "source": "cloud"
   }
 ]
