@@ -12,6 +12,18 @@
     "source": "cloud"
   },
   {
+    "date": "2026-10-05",
+    "event": "ESL Pro League Season 24",
+    "team1": "Spirit",
+    "team2": "MOUZ",
+    "map": "de_dust2",
+    "url": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/dust2-pilot-2026-10/mouz-spirit-vs-mouz-esl-pro-league-season-24.rar",
+    "matchId": "hltv-2398737-m1",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Spirit-vs-MOUZ-2026-10-05-Dust2-hltv-2398737-m1-r2.nar",
+    "replaySize": 2155650,
+    "source": "cloud"
+  },
+  {
     "date": "2026-10-04",
     "event": "ESL Pro League Season 24",
     "team1": "Falcons",
@@ -45,6 +57,18 @@
     "matchId": "hltv-2398720-m1",
     "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Spirit-vs-Shinden-2026-10-03-Dust2-hltv-2398720-m1-r2.nar",
     "replaySize": 3219469,
+    "source": "cloud"
+  },
+  {
+    "date": "2026-10-03",
+    "event": "ESL Pro League Season 24",
+    "team1": "Vitality",
+    "team2": "1win",
+    "map": "de_dust2",
+    "url": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/dust2-pilot-2026-10/vitality-vitality-vs-1win-esl-pro-league-season-24.rar",
+    "matchId": "hltv-2398719-m1",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Vitality-vs-1win-2026-10-03-Dust2-hltv-2398719-m1-r2.nar",
+    "replaySize": 1584082,
     "source": "cloud"
   },
   {
@@ -191,6 +215,18 @@
     "replaySize": 2785816
   },
   {
+    "date": "2026-08-31",
+    "event": "BLAST Open Porto 2026",
+    "team1": "FUT",
+    "team2": "Vitality",
+    "map": "de_dust2",
+    "url": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/dust2-pilot-2026-10/vitality-fut-vs-vitality-blast-open-porto-2026.rar",
+    "matchId": "hltv-2396946-m2",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/FUT-vs-Vitality-2026-08-31-Dust2-hltv-2396946-m2-r2.nar",
+    "replaySize": 2454324,
+    "source": "cloud"
+  },
+  {
     "date": "2026-08-29",
     "event": "BLAST Open Porto 2026",
     "team1": "Legacy",
@@ -200,6 +236,18 @@
     "matchId": "hltv-2396938-m3",
     "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Legacy-vs-Falcons-2026-08-29-Dust2-hltv-2396938-m3-r2.nar",
     "replaySize": 2483206,
+    "source": "cloud"
+  },
+  {
+    "date": "2026-08-29",
+    "event": "BLAST Open Porto 2026",
+    "team1": "Vitality",
+    "team2": "9z",
+    "map": "de_dust2",
+    "url": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/dust2-pilot-2026-10/vitality-vitality-vs-9z-blast-open-porto-2026.rar",
+    "matchId": "hltv-2396935-m1",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Vitality-vs-9z-2026-08-29-Dust2-hltv-2396935-m1-r2.nar",
+    "replaySize": 1900618,
     "source": "cloud"
   },
   {
@@ -332,6 +380,18 @@
     "matchId": "hltv-2396005-m2",
     "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/100-Thieves-vs-Falcons-2026-07-22-Dust2-hltv-2396005-m2-r2.nar",
     "replaySize": 2706801,
+    "source": "cloud"
+  },
+  {
+    "date": "2026-06-20",
+    "event": "IEM Cologne Major 2026",
+    "team1": "Spirit",
+    "team2": "Falcons",
+    "map": "de_dust2",
+    "url": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/dust2-pilot-2026-10/falcons-spirit-vs-falcons-iem-cologne-major-2026.rar",
+    "matchId": "hltv-2395001-m3",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Spirit-vs-Falcons-2026-06-20-Dust2-hltv-2395001-m3-r2.nar",
+    "replaySize": 3559555,
     "source": "cloud"
   }
 ]
