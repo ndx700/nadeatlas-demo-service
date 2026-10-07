@@ -9,7 +9,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398108-m1-aurora-vs-vitality-m1-anubis.dem",
     "size": 294688122,
     "matchId": "hltv-2398108-m1",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398108-m1-abd35442f4e66ef3.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398108-m1-abd35442f4e66ef3.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Aurora-vs-Vitality-2026-09-20-Anubis-hltv-2398108-m1.nar",
+    "replaySize": 1981070
   },
   {
     "date": "2026-09-20",
@@ -21,7 +23,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398108-m2-aurora-vs-vitality-m2-inferno.dem",
     "size": 466239139,
     "matchId": "hltv-2398108-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398108-m2-9ea150f0f56e4a00.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398108-m2-9ea150f0f56e4a00.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Aurora-vs-Vitality-2026-09-20-Inferno-hltv-2398108-m2.nar",
+    "replaySize": 3142783
   },
   {
     "date": "2026-09-20",
@@ -33,7 +37,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398108-m3-aurora-vs-vitality-m3-mirage.dem",
     "size": 285441378,
     "matchId": "hltv-2398108-m3",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398108-m3-64f339303784a950.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398108-m3-64f339303784a950.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Aurora-vs-Vitality-2026-09-20-Mirage-hltv-2398108-m3.nar",
+    "replaySize": 2064764
   },
   {
     "date": "2026-09-20",
@@ -45,7 +51,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398108-m4-aurora-vs-vitality-m4-cache.dem",
     "size": 294108247,
     "matchId": "hltv-2398108-m4",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398108-m4-267b9d7657ce5c7a.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398108-m4-267b9d7657ce5c7a.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Aurora-vs-Vitality-2026-09-20-Cache-hltv-2398108-m4.nar",
+    "replaySize": 2123670
   },
   {
     "date": "2026-09-20",
@@ -57,7 +65,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398107-m1-vitality-vs-furia-m1-cache.dem",
     "size": 283521279,
     "matchId": "hltv-2398107-m1",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398107-m1-ab45e92aae608c10.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398107-m1-ab45e92aae608c10.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Vitality-vs-FURIA-2026-09-20-Cache-hltv-2398107-m1.nar",
+    "replaySize": 2033433
   },
   {
     "date": "2026-09-20",
@@ -69,7 +79,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398107-m2-vitality-vs-furia-m2-anubis.dem",
     "size": 323759438,
     "matchId": "hltv-2398107-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398107-m2-552ea72ece0cb12f.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398107-m2-552ea72ece0cb12f.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Vitality-vs-FURIA-2026-09-20-Anubis-hltv-2398107-m2.nar",
+    "replaySize": 2398837
   },
   {
     "date": "2026-09-19",
@@ -81,7 +93,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398106-m1-mibr-vs-furia-m1-mirage.dem",
     "size": 348578497,
     "matchId": "hltv-2398106-m1",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398106-m1-15d979e72238c014.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398106-m1-15d979e72238c014.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/MIBR-vs-FURIA-2026-09-19-Mirage-hltv-2398106-m1.nar",
+    "replaySize": 2492890
   },
   {
     "date": "2026-09-19",
@@ -93,7 +107,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398106-m2-mibr-vs-furia-m2-nuke.dem",
     "size": 377871247,
     "matchId": "hltv-2398106-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398106-m2-e58a9158ae59bd7a.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398106-m2-e58a9158ae59bd7a.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/MIBR-vs-FURIA-2026-09-19-Nuke-hltv-2398106-m2.nar",
+    "replaySize": 2609263
   },
   {
     "date": "2026-09-19",
@@ -153,7 +169,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398103-m2-mouz-vs-furia-m2-mirage.dem",
     "size": 574112174,
     "matchId": "hltv-2398103-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398103-m2-ba6957162fdabbe5.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398103-m2-ba6957162fdabbe5.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/MOUZ-vs-FURIA-2026-09-19-Mirage-hltv-2398103-m2.nar",
+    "replaySize": 3996648
   },
   {
     "date": "2026-09-19",
@@ -200,7 +218,9 @@
     "map": "de_dust2",
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398102-m2-vitality-vs-furia-m2-dust2.dem",
     "size": 304828588,
-    "matchId": "hltv-2398102-m2"
+    "matchId": "hltv-2398102-m2",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Vitality-vs-FURIA-2026-09-18-Dust2-hltv-2398102-m2.nar",
+    "replaySize": 2230044
   },
   {
     "date": "2026-09-18",
@@ -212,7 +232,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398102-m1-vitality-vs-furia-m1-mirage.dem",
     "size": 359705788,
     "matchId": "hltv-2398102-m1",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398102-m1-326c1867778994a6.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398102-m1-326c1867778994a6.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Vitality-vs-FURIA-2026-09-18-Mirage-hltv-2398102-m1.nar",
+    "replaySize": 2479362
   },
   {
     "date": "2026-09-18",
@@ -236,7 +258,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398101-m2-nrg-vs-aurora-m2-mirage.dem",
     "size": 561351563,
     "matchId": "hltv-2398101-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398101-m2-323b572c28e6ea9a.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398101-m2-323b572c28e6ea9a.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/NRG-vs-Aurora-2026-09-18-Mirage-hltv-2398101-m2.nar",
+    "replaySize": 3959348
   },
   {
     "date": "2026-09-18",
@@ -260,7 +284,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398100-m2-magic-vs-mibr-m2-mirage.dem",
     "size": 367854612,
     "matchId": "hltv-2398100-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398100-m2-6a1d72448c1295f5.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398100-m2-6a1d72448c1295f5.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/magic-vs-MIBR-2026-09-18-Mirage-hltv-2398100-m2.nar",
+    "replaySize": 2565308
   },
   {
     "date": "2026-09-18",
@@ -308,7 +334,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398099-m3-mouz-vs-natus-vincere-m3-mirage.dem",
     "size": 323341353,
     "matchId": "hltv-2398099-m3",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398099-m3-cd8f3f6ea791cb3d.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398099-m3-cd8f3f6ea791cb3d.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/MOUZ-vs-Natus-Vincere-2026-09-18-Mirage-hltv-2398099-m3.nar",
+    "replaySize": 2243820
   },
   {
     "date": "2026-09-17",
@@ -319,7 +347,9 @@
     "map": "de_dust2",
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398089-m2-vitality-vs-magic-m2-dust2.dem",
     "size": 355072683,
-    "matchId": "hltv-2398089-m2"
+    "matchId": "hltv-2398089-m2",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Vitality-vs-magic-2026-09-17-Dust2-hltv-2398089-m2.nar",
+    "replaySize": 2548718
   },
   {
     "date": "2026-09-17",
@@ -379,7 +409,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398090-m2-natus-vincere-vs-aurora-m2-mirage.dem",
     "size": 313295850,
     "matchId": "hltv-2398090-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398090-m2-c184255c402a0bb8.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398090-m2-c184255c402a0bb8.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Natus-Vincere-vs-Aurora-2026-09-17-Mirage-hltv-2398090-m2.nar",
+    "replaySize": 2190184
   },
   {
     "date": "2026-09-17",
@@ -391,7 +423,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398089-m1-vitality-vs-magic-m1-mirage.dem",
     "size": 311913779,
     "matchId": "hltv-2398089-m1",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398089-m1-8c6d8068b820b189.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398089-m1-8c6d8068b820b189.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Vitality-vs-magic-2026-09-17-Mirage-hltv-2398089-m1.nar",
+    "replaySize": 2196150
   },
   {
     "date": "2026-09-17",
@@ -426,7 +460,9 @@
     "map": "de_dust2",
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2397623-m3-legacy-vs-g2-m3-dust2.dem",
     "size": 405258338,
-    "matchId": "hltv-2397623-m3"
+    "matchId": "hltv-2397623-m3",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Legacy-vs-G2-2026-09-13-Dust2-hltv-2397623-m3.nar",
+    "replaySize": 2334812
   },
   {
     "date": "2026-09-13",
@@ -450,7 +486,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2397623-m2-legacy-vs-g2-m2-mirage.dem",
     "size": 398467360,
     "matchId": "hltv-2397623-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2397623-m2.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2397623-m2.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Legacy-vs-G2-2026-09-13-Mirage-hltv-2397623-m2.nar",
+    "replaySize": 2552671
   },
   {
     "date": "2026-09-12",
@@ -462,7 +500,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2397621-m1-betboom-vs-g2-m1-mirage.dem",
     "size": 392645157,
     "matchId": "hltv-2397621-m1",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2397621-m1.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2397621-m1.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/BETBOOM-vs-G2-2026-09-12-Mirage-hltv-2397621-m1.nar",
+    "replaySize": 2451337
   },
   {
     "date": "2026-09-12",
@@ -533,7 +573,9 @@
     "map": "de_dust2",
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2397619-m2-furia-vs-g2-m2-dust2.dem",
     "size": 304505435,
-    "matchId": "hltv-2397619-m2"
+    "matchId": "hltv-2397619-m2",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/FURIA-vs-G2-2026-09-11-Dust2-hltv-2397619-m2.nar",
+    "replaySize": 1983600
   },
   {
     "date": "2026-09-11",
@@ -580,7 +622,9 @@
     "map": "de_dust2",
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2397611-m1-9z-vs-g2-m1-dust2.dem",
     "size": 415152180,
-    "matchId": "hltv-2397611-m1"
+    "matchId": "hltv-2397611-m1",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/9z-vs-G2-2026-09-10-Dust2-hltv-2397611-m1.nar",
+    "replaySize": 2900331
   },
   {
     "date": "2026-09-10",
@@ -640,7 +684,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2397613-m1-mibr-vs-betboom-m1-mirage.dem",
     "size": 407146884,
     "matchId": "hltv-2397613-m1",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2397613-m1-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2397613-m1-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/MIBR-vs-BETBOOM-2026-09-10-Mirage-hltv-2397613-m1.nar",
+    "replaySize": 2997266
   },
   {
     "date": "2026-09-10",
@@ -664,7 +710,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2397617-m1-legacy-vs-furia-m1-mirage.dem",
     "size": 401731541,
     "matchId": "hltv-2397617-m1",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2397617-m1.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2397617-m1.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Legacy-vs-FURIA-2026-09-10-Mirage-hltv-2397617-m1.nar",
+    "replaySize": 2595055
   },
   {
     "date": "2026-09-10",
@@ -795,7 +843,9 @@
     "map": "de_dust2",
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2397608-m2-legacy-vs-alliance-m2-dust2.dem",
     "size": 347220116,
-    "matchId": "hltv-2397608-m2"
+    "matchId": "hltv-2397608-m2",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Legacy-vs-Alliance-2026-09-09-Dust2-hltv-2397608-m2.nar",
+    "replaySize": 2284219
   },
   {
     "date": "2026-09-09",
@@ -806,7 +856,9 @@
     "map": "de_dust2",
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2397607-m2-magic-vs-faze-m2-dust2.dem",
     "size": 438043045,
-    "matchId": "hltv-2397607-m2"
+    "matchId": "hltv-2397607-m2",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/magic-vs-FaZe-2026-09-09-Dust2-hltv-2397607-m2.nar",
+    "replaySize": 2894086
   },
   {
     "date": "2026-09-09",
@@ -878,7 +930,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2397609-m2-tyloo-vs-gamerlegion-m2-mirage.dem",
     "size": 378218867,
     "matchId": "hltv-2397609-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2397609-m2.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2397609-m2.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/TYLOO-vs-GamerLegion-2026-09-09-Mirage-hltv-2397609-m2.nar",
+    "replaySize": 2347194
   },
   {
     "date": "2026-09-09",
@@ -902,7 +956,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2397605-m2-big-vs-g2-m2-mirage.dem",
     "size": 367296620,
     "matchId": "hltv-2397605-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2397605-m2.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2397605-m2.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/BIG-vs-G2-2026-09-09-Mirage-hltv-2397605-m2.nar",
+    "replaySize": 2482671
   },
   {
     "date": "2026-09-09",
@@ -938,7 +994,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2397604-m1-9z-vs-mibr-m1-mirage.dem",
     "size": 339035182,
     "matchId": "hltv-2397604-m1",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2397604-m1.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2397604-m1.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/9z-vs-MIBR-2026-09-09-Mirage-hltv-2397604-m1.nar",
+    "replaySize": 2348745
   },
   {
     "date": "2026-09-09",
@@ -1021,7 +1079,9 @@
     "map": "de_dust2",
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2396951-m1-spirit-vs-mouz-m1-dust2.dem",
     "size": 355987240,
-    "matchId": "hltv-2396951-m1"
+    "matchId": "hltv-2396951-m1",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Spirit-vs-MOUZ-2026-09-06-Dust2-hltv-2396951-m1.nar",
+    "replaySize": 2580345
   },
   {
     "date": "2026-09-06",
@@ -1033,7 +1093,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2396951-m2-spirit-vs-mouz-m2-mirage.dem",
     "size": 386381956,
     "matchId": "hltv-2396951-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2396951-m2-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2396951-m2-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Spirit-vs-MOUZ-2026-09-06-Mirage-hltv-2396951-m2.nar",
+    "replaySize": 2779201
   },
   {
     "date": "2026-09-06",
@@ -1068,7 +1130,9 @@
     "map": "de_dust2",
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2396950-m1-mouz-vs-vitality-m1-dust2.dem",
     "size": 392510692,
-    "matchId": "hltv-2396950-m1"
+    "matchId": "hltv-2396950-m1",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/MOUZ-vs-Vitality-2026-09-05-Dust2-hltv-2396950-m1.nar",
+    "replaySize": 2886612
   },
   {
     "date": "2026-09-05",
@@ -1080,7 +1144,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2396950-m2-mouz-vs-vitality-m2-mirage.dem",
     "size": 312033245,
     "matchId": "hltv-2396950-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2396950-m2-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2396950-m2-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/MOUZ-vs-Vitality-2026-09-05-Mirage-hltv-2396950-m2.nar",
+    "replaySize": 2206113
   },
   {
     "date": "2026-09-05",
@@ -1115,7 +1181,9 @@
     "map": "de_dust2",
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2396948-m3-furia-vs-vitality-m3-dust2.dem",
     "size": 293349942,
-    "matchId": "hltv-2396948-m3"
+    "matchId": "hltv-2396948-m3",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/FURIA-vs-Vitality-2026-09-04-Dust2-hltv-2396948-m3.nar",
+    "replaySize": 2102270
   },
   {
     "date": "2026-09-04",
@@ -1126,7 +1194,9 @@
     "map": "de_dust2",
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2396947-m2-falcons-vs-g2-m2-dust2.dem",
     "size": 378373716,
-    "matchId": "hltv-2396947-m2"
+    "matchId": "hltv-2396947-m2",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Falcons-vs-G2-2026-09-04-Dust2-hltv-2396947-m2.nar",
+    "replaySize": 2768904
   },
   {
     "date": "2026-09-04",
