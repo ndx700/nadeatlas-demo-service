@@ -230,6 +230,11 @@ def main():
     better_added=0
     if not KEY:
         sources["better_cs"]={"state":"needs_api_key","added":0}
+    elif os.getenv("BETTER_CS_ENABLED","")!="1":
+        # Paused: on 2026-10-07 the test balance (about 100 credits) was spent in three runs on match
+        # look-ups that are repeated every run, and no demo came of it (the demo request sends "demoId"
+        # where the API wants "id"). Set BETTER_CS_ENABLED=1 in the workflow once both are fixed.
+        sources["better_cs"]={"state":"paused","added":0}
     else:
         try:
             found=results((now-dt.timedelta(days=62)).isoformat(),now.isoformat())
