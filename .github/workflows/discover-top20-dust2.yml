@@ -1,0 +1,55 @@
+name: Discover Top20 Dust2 demos
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - test/hltv-playwright-download
+    paths:
+      - "scripts/discover_hltv_top20_dust2.py"
+      - ".github/workflows/discover-top20-dust2.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: test/hltv-playwright-download
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install playwright
+          sudo apt-get update
+          sudo apt-get install -y xvfb
+
+      - name: Discover matches and mirror coverage
+        run: |
+          xvfb-run -a python scripts/discover_hltv_top20_dust2.py             --days 62             --out data/top20-dust2-discovery.json
+
+      - name: Commit discovery result
+        run: |
+          git config user.name nadeatlas-demo-bot
+          git config user.email actions@users.noreply.github.com
+          git add data/top20-dust2-discovery.json
+          git commit -m "Discover current Top20 Dust2 demos" || exit 0
+          git pull --rebase -X theirs origin test/hltv-playwright-download || true
+          git push origin HEAD:test/hltv-playwright-download
+
+      - name: Upload discovery artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: top20-dust2-discovery
+          path: data/top20-dust2-discovery.json
+          if-no-files-found: warn
+          retention-days: 7
