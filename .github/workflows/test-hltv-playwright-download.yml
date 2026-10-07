@@ -1,0 +1,99 @@
+name: Test HLTV Playwright Demo Download
+
+on:
+  workflow_dispatch:
+    inputs:
+      demo_url:
+        description: "HLTV /download/demo/<id> URL or r2-demos direct URL"
+        required: true
+        default: "https://www.hltv.org/download/demo/106303"
+  push:
+    branches:
+      - test/hltv-playwright-download
+    paths:
+      - "scripts/download_hltv_demo_playwright.py"
+      - ".github/workflows/test-hltv-playwright-download.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  download-test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Playwright and Chromium
+        run: |
+          python -m pip install --upgrade pip
+          pip install playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Test real browser download
+        id: demo
+        continue-on-error: true
+        env:
+          INPUT_URL: ${{ github.event.inputs.demo_url }}
+        run: |
+          URL="${INPUT_URL:-https://www.hltv.org/download/demo/106303}"
+          mkdir -p output diagnostics
+          set +e
+          xvfb-run -a python scripts/download_hltv_demo_playwright.py \
+            "$URL" output/demo.rar --diag-dir diagnostics --wait-ms 12000 \
+            2>&1 | tee result.log
+          code=${PIPESTATUS[0]}
+          echo "exit_code=$code" >> "$GITHUB_OUTPUT"
+          echo "Downloader exit code: $code"
+          exit 0
+
+      - name: Summarize diagnosis
+        if: always()
+        run: |
+          echo "## HLTV Playwright download test" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Exit code: ${{ steps.demo.outputs.exit_code }}" >> "$GITHUB_STEP_SUMMARY"
+          if grep -q "RESULT=SUCCESS" result.log 2>/dev/null; then
+            echo "- Result: ✅ SUCCESS" >> "$GITHUB_STEP_SUMMARY"
+          elif grep -q "RESULT=IP_BLOCKED" result.log 2>/dev/null; then
+            echo "- Result: ❌ IP_BLOCKED" >> "$GITHUB_STEP_SUMMARY"
+          elif grep -q "RESULT=CF_CHALLENGE" result.log 2>/dev/null; then
+            echo "- Result: ⚠️ CF_CHALLENGE" >> "$GITHUB_STEP_SUMMARY"
+          elif grep -q "RESULT=LINK_INVALID" result.log 2>/dev/null; then
+            echo "- Result: ❌ LINK_INVALID" >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "- Result: ❓ UNKNOWN / BAD_FILE" >> "$GITHUB_STEP_SUMMARY"
+          fi
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          tail -80 result.log >> "$GITHUB_STEP_SUMMARY" || true
+
+      - name: Upload successful demo
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: hltv-demo-test
+          path: output/demo.rar
+          if-no-files-found: ignore
+          retention-days: 3
+
+      - name: Upload diagnostics
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: hltv-download-diagnostics
+          path: |
+            result.log
+            diagnostics/
+          if-no-files-found: warn
+          retention-days: 7
+
+      - name: Fail job with downloader status
+        if: steps.demo.outputs.exit_code != '0'
+        run: exit 1
