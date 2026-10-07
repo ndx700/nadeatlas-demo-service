@@ -1,0 +1,93 @@
+# A runner must already be connected and labelled hltv-demo.
+# This workflow is manual-only and does not install operating-system packages.
+name: Download HLTV Demo on self-hosted runner
+
+on:
+  workflow_dispatch:
+    inputs:
+      demo_url:
+        description: HLTV download endpoint or current direct RAR URL
+        required: true
+        type: string
+        default: https://www.hltv.org/download/demo/131573
+      extract:
+        description: Extract the archive after integrity verification
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: hltv-self-hosted-download
+  cancel-in-progress: false
+
+jobs:
+  download:
+    runs-on: [self-hosted, hltv-demo]
+    timeout-minutes: 45
+    env:
+      DEMO_URL: ${{ inputs.demo_url }}
+      EXTRACT_DEMO: ${{ inputs.extract }}
+      OUTPUT_DIR: ${{ runner.temp }}/hltv-${{ github.run_id }}-${{ github.run_attempt }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check prerequisites and install isolated browser environment
+        shell: python
+        run: |
+          import os, pathlib, platform, shutil, subprocess, venv
+          output = pathlib.Path(os.environ['OUTPUT_DIR'])
+          output.mkdir(parents=True, exist_ok=True)
+          if not any(shutil.which(tool) for tool in ('7zz', '7z')):
+              raise SystemExit('Install 7-Zip first and add 7zz or 7z to the runner PATH.')
+          if platform.system() == 'Linux' and not shutil.which('xvfb-run'):
+              raise SystemExit('Install Xvfb first; Chromium system dependencies are also required.')
+          venv.create(output / 'venv', with_pip=True)
+          python = output / 'venv' / ('Scripts/python.exe' if os.name == 'nt' else 'bin/python')
+          subprocess.run([str(python), '-m', 'pip', 'install', 'playwright==1.63.0'], check=True)
+          subprocess.run([str(python), '-m', 'playwright', 'install', 'chromium'], check=True)
+      - name: Download through headed Chromium
+        shell: python
+        run: |
+          import os, pathlib, platform, subprocess
+          output = pathlib.Path(os.environ['OUTPUT_DIR'])
+          python = output / 'venv' / ('Scripts/python.exe' if os.name == 'nt' else 'bin/python')
+          command = [str(python), 'scripts/download_demo.py', os.environ['DEMO_URL'],
+                     str(output / 'demo.rar'), '--diag-dir', str(output / 'diagnostics'),
+                     '--timeout', '300', '--transfer-timeout', '1800']
+          if platform.system() == 'Linux':
+              command = ['xvfb-run', '-a', *command]
+          raise SystemExit(subprocess.run(command).returncode)
+      - name: Verify RAR integrity and optionally extract
+        shell: python
+        run: |
+          import os, pathlib, shutil, subprocess
+          output = pathlib.Path(os.environ['OUTPUT_DIR'])
+          tool = next(shutil.which(name) for name in ('7zz', '7z', '7za') if shutil.which(name))
+          subprocess.run([tool, 't', str(output / 'demo.rar')], check=True)
+          if os.environ['EXTRACT_DEMO'].lower() == 'true':
+              subprocess.run([tool, 'x', str(output / 'demo.rar'), '-o' + str(output / 'extracted'), '-y'], check=True)
+      - name: Save verified demo artifact
+        if: success()
+        uses: actions/upload-artifact@v4
+        with:
+          name: hltv-demo-${{ github.run_id }}-${{ github.run_attempt }}
+          path: |
+            ${{ env.OUTPUT_DIR }}/demo.rar
+            ${{ env.OUTPUT_DIR }}/extracted/
+          retention-days: 7
+          compression-level: 0
+          if-no-files-found: error
+      - name: Save browser diagnostics
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: hltv-demo-diagnostics-${{ github.run_id }}-${{ github.run_attempt }}
+          path: ${{ env.OUTPUT_DIR }}/diagnostics/
+          retention-days: 7
+          if-no-files-found: warn
