@@ -1,0 +1,26 @@
+name: Probe 5E match stream fields
+on:
+  push:
+    branches: [test/hltv-playwright-download]
+    paths:
+      - scripts/probe_5e_data_stream_fields.py
+      - .github/workflows/probe-5e-data-stream-fields.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: test/hltv-playwright-download
+      - run: python3 scripts/probe_5e_data_stream_fields.py
+      - run: |
+          git config user.name nadeatlas-demo-bot
+          git config user.email actions@users.noreply.github.com
+          git add data/probes/5e-data-stream-fields.json
+          git commit -m "Probe 5E replay stream fields" || exit 0
+          git pull --rebase -X theirs origin test/hltv-playwright-download || true
+          git push origin HEAD:test/hltv-playwright-download
