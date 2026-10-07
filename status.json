@@ -1,7 +1,7 @@
 {
   "state": "ok",
   "message": "multi-source sync completed",
-  "updatedAt": "2026-10-07T05:49:54.054176Z",
+  "updatedAt": "2026-10-07T06:01:26.972098Z",
   "sources": {
     "public_pro_demo": {
       "state": "ok",
@@ -13,9 +13,7 @@
       "remaining": 0
     },
     "better_cs": {
-      "state": "ok",
-      "scanned": 94,
-      "candidates": 41,
+      "state": "payment_required",
       "added": 0
     }
   },
@@ -32,26 +30,5 @@
     "de_nuke": 11
   },
   "logos": 67,
-  "errors": [
-    "better match 2398739: HTTPError: HTTP Error 422: Unprocessable Entity",
-    "better match 2398737: HTTPError: HTTP Error 422: Unprocessable Entity",
-    "better match 2398736: HTTPError: HTTP Error 422: Unprocessable Entity",
-    "better match 2398734: HTTPError: HTTP Error 422: Unprocessable Entity",
-    "better match 2398730: HTTPError: HTTP Error 422: Unprocessable Entity",
-    "better match 2398728: HTTPError: HTTP Error 422: Unprocessable Entity",
-    "better match 2398727: HTTPError: HTTP Error 402: Payment Required",
-    "better match 2398725: HTTPError: HTTP Error 402: Payment Required",
-    "better match 2398726: HTTPError: HTTP Error 402: Payment Required",
-    "better match 2398853: HTTPError: HTTP Error 402: Payment Required",
-    "better match 2398974: HTTPError: HTTP Error 402: Payment Required",
-    "better match 2398724: HTTPError: HTTP Error 402: Payment Required",
-    "better match 2398897: HTTPError: HTTP Error 402: Payment Required",
-    "better match 2398007: HTTPError: HTTP Error 402: Payment Required",
-    "better match 2398723: HTTPError: HTTP Error 402: Payment Required",
-    "better match 2398722: HTTPError: HTTP Error 402: Payment Required",
-    "better match 2398006: HTTPError: HTTP Error 402: Payment Required",
-    "better match 2398973: HTTPError: HTTP Error 402: Payment Required",
-    "better match 2398721: HTTPError: HTTP Error 402: Payment Required",
-    "better match 2398720: HTTPError: HTTP Error 402: Payment Required"
-  ]
+  "errors": []
 }
