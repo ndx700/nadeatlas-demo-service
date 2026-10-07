@@ -132,7 +132,7 @@ def download_demo(url: str, out_path: str, diag_dir: str, wait_ms: int) -> int:
         print("[2/2] Navigate to demo endpoint/direct URL and wait for browser download...")
         print(f"      target: {url}")
         try:
-            with page.expect_download(timeout=300000) as dl_info:
+            with page.expect_download(timeout=60000) as dl_info:
                 try:
                     page.goto(url, wait_until="commit", timeout=60000)
                 except Exception as exc:
