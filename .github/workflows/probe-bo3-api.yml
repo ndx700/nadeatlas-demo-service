@@ -1,0 +1,32 @@
+name: Probe BO3 public API
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - test/hltv-playwright-download
+    paths:
+      - "scripts/probe_bo3_api.py"
+      - ".github/workflows/probe-bo3-api.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: test/hltv-playwright-download
+      - name: Probe BO3 API
+        run: python3 scripts/probe_bo3_api.py
+      - name: Commit result
+        run: |
+          git config user.name nadeatlas-demo-bot
+          git config user.email actions@users.noreply.github.com
+          git add data/probes/bo3-api.json
+          git commit -m "Probe BO3 public match API" || exit 0
+          git pull --rebase -X theirs origin test/hltv-playwright-download || true
+          git push origin HEAD:test/hltv-playwright-download
