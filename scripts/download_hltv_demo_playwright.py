@@ -90,20 +90,14 @@ def download_demo(url: str, out_path: str, diag_dir: str, wait_ms: int) -> int:
 
     with sync_playwright() as p:
         browser = p.chromium.launch(
+            channel="chrome",
             headless=False,
             args=[
-                "--disable-blink-features=AutomationControlled",
                 "--no-sandbox",
                 "--disable-dev-shm-usage",
             ],
         )
         ctx = browser.new_context(
-            user_agent=(
-                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                "AppleWebKit/537.36 (KHTML, like Gecko) "
-                "Chrome/131.0.0.0 Safari/537.36"
-            ),
-            viewport={"width": 1280, "height": 800},
             accept_downloads=True,
             locale="en-US",
         )
@@ -132,7 +126,7 @@ def download_demo(url: str, out_path: str, diag_dir: str, wait_ms: int) -> int:
         print("[2/2] Navigate to demo endpoint/direct URL and wait for browser download...")
         print(f"      target: {url}")
         try:
-            with page.expect_download(timeout=60000) as dl_info:
+            with page.expect_download(timeout=120000) as dl_info:
                 try:
                     page.goto(url, wait_until="commit", timeout=60000)
                 except Exception as exc:
