@@ -1,0 +1,21 @@
+{
+  "release_url": "https://github.com/ndx700/nadeatlas-demo-service/releases/tag/demo-epl-s24-falcons-vs-aurora",
+  "acquisition": "Downloaded existing GitHub Release; not a new HLTV download",
+  "archive": {
+    "sha256": "8e6befd046789c6d6286629dc95ff326f5dd91a47b78ad6ce25f031eda404e22",
+    "size": 426402619,
+    "validation": "unrar-test"
+  },
+  "members": [
+    "falcons-vs-aurora-m1-mirage.dem",
+    "falcons-vs-aurora-m2-dust2.dem"
+  ],
+  "dust2_demo": {
+    "name": "falcons-vs-aurora-m2-dust2.dem",
+    "size": 289124250,
+    "sha256": "32ff9ca1bf5d0f3ae078a7e6e4260ff3550abdafab157a73a1448ccf44160167",
+    "header": "PBDEMS2\\0"
+  },
+  "unrar_version": "7.23 official RARLAB Linux x64",
+  "remaining_blocker": "HLTV r2 endpoint remains in security verification in this cloud browser"
+}
