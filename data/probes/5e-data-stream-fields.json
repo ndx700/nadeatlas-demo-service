@@ -1,0 +1,1266 @@
+{
+  "csgo_mc_2398746": {
+    "bytes": 60528,
+    "topKeys": [
+      "success",
+      "errcode",
+      "message",
+      "data"
+    ],
+    "interesting": [
+      {
+        "path": "$.data.match.bouts_state[0].field_conf./livedata_status",
+        "value": "1"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t1_pr_stats[0].alive",
+        "value": "-1"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t1_pr_stats[1].alive",
+        "value": "-1"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t1_pr_stats[2].alive",
+        "value": "-1"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t1_pr_stats[3].alive",
+        "value": "-3"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t1_pr_stats[4].alive",
+        "value": "-7"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t2_pr_stats[0].alive",
+        "value": "2"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t2_pr_stats[1].alive",
+        "value": "5"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t2_pr_stats[2].alive",
+        "value": "3"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t2_pr_stats[3].alive",
+        "value": "2"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t2_pr_stats[4].alive",
+        "value": "1"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].field_conf./livedata_status",
+        "value": "1"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t1_pr_stats[0].alive",
+        "value": "1"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t1_pr_stats[1].alive",
+        "value": "-2"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t1_pr_stats[2].alive",
+        "value": "1"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t1_pr_stats[3].alive",
+        "value": "2"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t1_pr_stats[4].alive",
+        "value": "2"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t2_pr_stats[0].alive",
+        "value": "2"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t2_pr_stats[1].alive",
+        "value": "-1"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t2_pr_stats[2].alive",
+        "value": "-1"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t2_pr_stats[3].alive",
+        "value": "-4"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t2_pr_stats[4].alive",
+        "value": "0"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].field_conf./livedata_status",
+        "value": "1"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t1_pr_stats[0].alive",
+        "value": "-1"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t1_pr_stats[1].alive",
+        "value": "0"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t1_pr_stats[2].alive",
+        "value": "-1"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t1_pr_stats[3].alive",
+        "value": "-1"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t1_pr_stats[4].alive",
+        "value": "-1"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t2_pr_stats[0].alive",
+        "value": "0"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t2_pr_stats[1].alive",
+        "value": "2"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t2_pr_stats[2].alive",
+        "value": "-1"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t2_pr_stats[3].alive",
+        "value": "2"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t2_pr_stats[4].alive",
+        "value": "1"
+      },
+      {
+        "path": "$.data.match.global_state.live_status",
+        "value": "0"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list",
+        "value": [
+          {
+            "can_jump": 1,
+            "name": "虎牙ESL副舞台",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/479361",
+            "url": "https://liveshare.huya.com/iframe/479361?from=qd785&presenterUid=1560122402"
+          },
+          {
+            "can_jump": 1,
+            "name": "B站副舞台",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://live.bilibili.com/34",
+            "url": "https://live.bilibili.com/34?live_from=86001&spm_id_from=333.1387.0.0"
+          }
+        ]
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[0].third_url",
+        "value": "https://www.huya.com/479361"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[0].url",
+        "value": "https://liveshare.huya.com/iframe/479361?from=qd785&presenterUid=1560122402"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[1].third_url",
+        "value": "https://live.bilibili.com/34"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[1].url",
+        "value": "https://live.bilibili.com/34?live_from=86001&spm_id_from=333.1387.0.0"
+      },
+      {
+        "path": "$.data.match.mc_info.video_type",
+        "value": 0
+      }
+    ]
+  },
+  "csgo_mc_2398743": {
+    "bytes": 60018,
+    "topKeys": [
+      "success",
+      "errcode",
+      "message",
+      "data"
+    ],
+    "interesting": [
+      {
+        "path": "$.data.match.bouts_state[0].field_conf./livedata_status",
+        "value": "1"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t1_pr_stats[0].alive",
+        "value": "3"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t1_pr_stats[1].alive",
+        "value": "5"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t1_pr_stats[2].alive",
+        "value": "-1"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t1_pr_stats[3].alive",
+        "value": "1"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t1_pr_stats[4].alive",
+        "value": "-3"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t2_pr_stats[0].alive",
+        "value": "-3"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t2_pr_stats[1].alive",
+        "value": "-1"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t2_pr_stats[2].alive",
+        "value": "0"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t2_pr_stats[3].alive",
+        "value": "1"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t2_pr_stats[4].alive",
+        "value": "-2"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].field_conf./livedata_status",
+        "value": "1"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t1_pr_stats[0].alive",
+        "value": "5"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t1_pr_stats[1].alive",
+        "value": "-1"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t1_pr_stats[2].alive",
+        "value": "-2"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t1_pr_stats[3].alive",
+        "value": "-3"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t1_pr_stats[4].alive",
+        "value": "-1"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t2_pr_stats[0].alive",
+        "value": "1"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t2_pr_stats[1].alive",
+        "value": "2"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t2_pr_stats[2].alive",
+        "value": "1"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t2_pr_stats[3].alive",
+        "value": "-2"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t2_pr_stats[4].alive",
+        "value": "0"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].field_conf./livedata_status",
+        "value": "1"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t1_pr_stats[0].alive",
+        "value": "1"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t1_pr_stats[1].alive",
+        "value": "-1"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t1_pr_stats[2].alive",
+        "value": "4"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t1_pr_stats[3].alive",
+        "value": "0"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t1_pr_stats[4].alive",
+        "value": "0"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t2_pr_stats[0].alive",
+        "value": "0"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t2_pr_stats[1].alive",
+        "value": "0"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t2_pr_stats[2].alive",
+        "value": "-3"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t2_pr_stats[3].alive",
+        "value": "-2"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t2_pr_stats[4].alive",
+        "value": "1"
+      },
+      {
+        "path": "$.data.match.global_state.live_status",
+        "value": "0"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list",
+        "value": [
+          {
+            "can_jump": 1,
+            "name": "玩机器",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.douyu.com/6979222",
+            "url": "https://open.douyu.com/tpl/h5/chain2/FIVEEPlay/6979222?version=2.0&bulletComments=1"
+          },
+          {
+            "can_jump": 1,
+            "name": "CSBOY",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/123321",
+            "url": "https://liveshare.huya.com/iframe/123321?from=qd785&presenterUid=10748220"
+          },
+          {
+            "can_jump": 1,
+            "name": "QUQU",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.douyu.com/178432",
+            "url": "https://open.douyu.com/tpl/h5/chain2/FIVEEPlay/178432?version=2.0&bulletComments=1"
+          },
+          {
+            "can_jump": 1,
+            "name": "259",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://live.bilibili.com/1883358196",
+            "url": "https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=1883358196&quality=0"
+          },
+          {
+            "can_jump": 1,
+            "name": "FF",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/166261",
+            "url": "https://liveshare.huya.com/iframe/166261?from=qd785&presenterUid=9284975"
+          },
+          {
+            "can_jump": 1,
+            "name": "CSBOY-MO",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/321123",
+            "url": "https://liveshare.huya.com/iframe/321123?from=qd785&presenterUid=1199652774074"
+          },
+          {
+            "can_jump": 1,
+            "name": "李文哲",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/640056",
+            "url": "https://liveshare.huya.com/iframe/640056?from=qd785&presenterUid=1279513816099"
+          },
+          {
+            "can_jump": 1,
+            "name": "莱昂凯",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/314957",
+            "url": "https://liveshare.huya.com/iframe/314957?from=qd785&presenterUid=1182498550"
+          },
+          {
+            "can_jump": 1,
+            "name": "虎牙ESL主舞台",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/483917",
+            "url": "https://liveshare.huya.com/iframe/483917?from=qd785&presenterUid=1346612400"
+          },
+          {
+            "can_jump": 1,
+            "name": "B站主舞台",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://live.bilibili.com/35",
+            "url": "https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=21622811&quality=0"
+          }
+        ]
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[0].third_url",
+        "value": "https://www.douyu.com/6979222"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[0].url",
+        "value": "https://open.douyu.com/tpl/h5/chain2/FIVEEPlay/6979222?version=2.0&bulletComments=1"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[1].third_url",
+        "value": "https://www.huya.com/123321"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[1].url",
+        "value": "https://liveshare.huya.com/iframe/123321?from=qd785&presenterUid=10748220"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[2].third_url",
+        "value": "https://www.douyu.com/178432"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[2].url",
+        "value": "https://open.douyu.com/tpl/h5/chain2/FIVEEPlay/178432?version=2.0&bulletComments=1"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[3].third_url",
+        "value": "https://live.bilibili.com/1883358196"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[3].url",
+        "value": "https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=1883358196&quality=0"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[4].third_url",
+        "value": "https://www.huya.com/166261"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[4].url",
+        "value": "https://liveshare.huya.com/iframe/166261?from=qd785&presenterUid=9284975"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[5].third_url",
+        "value": "https://www.huya.com/321123"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[5].url",
+        "value": "https://liveshare.huya.com/iframe/321123?from=qd785&presenterUid=1199652774074"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[6].third_url",
+        "value": "https://www.huya.com/640056"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[6].url",
+        "value": "https://liveshare.huya.com/iframe/640056?from=qd785&presenterUid=1279513816099"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[7].third_url",
+        "value": "https://www.huya.com/314957"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[7].url",
+        "value": "https://liveshare.huya.com/iframe/314957?from=qd785&presenterUid=1182498550"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[8].third_url",
+        "value": "https://www.huya.com/483917"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[8].url",
+        "value": "https://liveshare.huya.com/iframe/483917?from=qd785&presenterUid=1346612400"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[9].third_url",
+        "value": "https://live.bilibili.com/35"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[9].url",
+        "value": "https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=21622811&quality=0"
+      },
+      {
+        "path": "$.data.match.mc_info.video_type",
+        "value": 0
+      }
+    ]
+  },
+  "csgo_mc_2398742": {
+    "bytes": 48583,
+    "topKeys": [
+      "success",
+      "errcode",
+      "message",
+      "data"
+    ],
+    "interesting": [
+      {
+        "path": "$.data.match.bouts_state[0].field_conf./livedata_status",
+        "value": "1"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t1_pr_stats[0].alive",
+        "value": "-1"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t1_pr_stats[1].alive",
+        "value": "-1"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t1_pr_stats[2].alive",
+        "value": "-2"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t1_pr_stats[3].alive",
+        "value": "-1"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t1_pr_stats[4].alive",
+        "value": "-1"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t2_pr_stats[0].alive",
+        "value": "1"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t2_pr_stats[1].alive",
+        "value": "1"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t2_pr_stats[2].alive",
+        "value": "2"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t2_pr_stats[3].alive",
+        "value": "1"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t2_pr_stats[4].alive",
+        "value": "1"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].field_conf./livedata_status",
+        "value": "1"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t1_pr_stats[0].alive",
+        "value": "0"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t1_pr_stats[1].alive",
+        "value": "1"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t1_pr_stats[2].alive",
+        "value": "-1"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t1_pr_stats[3].alive",
+        "value": "3"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t1_pr_stats[4].alive",
+        "value": "1"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t2_pr_stats[0].alive",
+        "value": "0"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t2_pr_stats[1].alive",
+        "value": "-1"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t2_pr_stats[2].alive",
+        "value": "-2"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t2_pr_stats[3].alive",
+        "value": "0"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t2_pr_stats[4].alive",
+        "value": "-1"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].field_conf./livedata_status",
+        "value": "1"
+      },
+      {
+        "path": "$.data.match.global_state.live_status",
+        "value": "0"
+      },
+      {
+        "path": "$.data.match.mc_info.high_lights_cfg_list[0].origin_video",
+        "value": "https://s1-static.msstatic.com/vod-player-360/index.html?id=1128239020&version=1"
+      },
+      {
+        "path": "$.data.match.mc_info.high_lights_cfg_list[0].third_url",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.mc_info.high_lights_cfg_list[0].url",
+        "value": "https://www.5eplay.com/video_app_common?video=PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiAgZnJhbWVib3JkZXI9IjAiIHNjcm9sbGluZz0ibm8iIHNyYz0iaHR0cHM6Ly9zMS1zdGF0aWMubXNzdGF0aWMuY29tL3ZvZC1wbGF5ZXItMzYwL2luZGV4Lmh0bWw%2FaWQ9MTEyODIzOTAyMCI%2BPC9pZnJhbWU%2B&dispmod={DispMod}"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list",
+        "value": [
+          {
+            "can_jump": 1,
+            "name": "玩机器",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.douyu.com/6979222",
+            "url": "https://open.douyu.com/tpl/h5/chain2/FIVEEPlay/6979222?version=2.0&bulletComments=1"
+          },
+          {
+            "can_jump": 1,
+            "name": "CSBOY",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/123321",
+            "url": "https://liveshare.huya.com/iframe/123321?from=qd785&presenterUid=10748220"
+          },
+          {
+            "can_jump": 1,
+            "name": "QUQU",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.douyu.com/178432",
+            "url": "https://open.douyu.com/tpl/h5/chain2/FIVEEPlay/178432?version=2.0&bulletComments=1"
+          },
+          {
+            "can_jump": 1,
+            "name": "DANK1NG",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/10188",
+            "url": "https://liveshare.huya.com/iframe/10188?from=qd785&presenterUid=333393123"
+          },
+          {
+            "can_jump": 1,
+            "name": "259",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://live.bilibili.com/1883358196",
+            "url": "https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=1883358196&quality=0"
+          },
+          {
+            "can_jump": 1,
+            "name": "FF",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/166261",
+            "url": "https://liveshare.huya.com/iframe/166261?from=qd785&presenterUid=9284975"
+          },
+          {
+            "can_jump": 1,
+            "name": "莱昂凯",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/314957",
+            "url": "https://liveshare.huya.com/iframe/314957?from=qd785&presenterUid=1182498550"
+          },
+          {
+            "can_jump": 1,
+            "name": "虎牙ESL副舞台",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/479361",
+            "url": "https://liveshare.huya.com/iframe/479361?from=qd785&presenterUid=1560122402"
+          },
+          {
+            "can_jump": 1,
+            "name": "B站副舞台",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://live.bilibili.com/34",
+            "url": "https://live.bilibili.com/34?live_from=86001&spm_id_from=333.1387.0.0"
+          }
+        ]
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[0].third_url",
+        "value": "https://www.douyu.com/6979222"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[0].url",
+        "value": "https://open.douyu.com/tpl/h5/chain2/FIVEEPlay/6979222?version=2.0&bulletComments=1"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[1].third_url",
+        "value": "https://www.huya.com/123321"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[1].url",
+        "value": "https://liveshare.huya.com/iframe/123321?from=qd785&presenterUid=10748220"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[2].third_url",
+        "value": "https://www.douyu.com/178432"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[2].url",
+        "value": "https://open.douyu.com/tpl/h5/chain2/FIVEEPlay/178432?version=2.0&bulletComments=1"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[3].third_url",
+        "value": "https://www.huya.com/10188"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[3].url",
+        "value": "https://liveshare.huya.com/iframe/10188?from=qd785&presenterUid=333393123"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[4].third_url",
+        "value": "https://live.bilibili.com/1883358196"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[4].url",
+        "value": "https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=1883358196&quality=0"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[5].third_url",
+        "value": "https://www.huya.com/166261"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[5].url",
+        "value": "https://liveshare.huya.com/iframe/166261?from=qd785&presenterUid=9284975"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[6].third_url",
+        "value": "https://www.huya.com/314957"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[6].url",
+        "value": "https://liveshare.huya.com/iframe/314957?from=qd785&presenterUid=1182498550"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[7].third_url",
+        "value": "https://www.huya.com/479361"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[7].url",
+        "value": "https://liveshare.huya.com/iframe/479361?from=qd785&presenterUid=1560122402"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[8].third_url",
+        "value": "https://live.bilibili.com/34"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[8].url",
+        "value": "https://live.bilibili.com/34?live_from=86001&spm_id_from=333.1387.0.0"
+      },
+      {
+        "path": "$.data.match.mc_info.video_type",
+        "value": 2
+      }
+    ]
+  },
+  "csgo_mc_2398738": {
+    "bytes": 166109,
+    "topKeys": [
+      "success",
+      "errcode",
+      "message",
+      "data"
+    ],
+    "interesting": [
+      {
+        "path": "$.data.match.bouts_state[0].field_conf./livedata_status",
+        "value": "1"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t1_pr_stats[0].alive",
+        "value": "0"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t1_pr_stats[1].alive",
+        "value": "3"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t1_pr_stats[2].alive",
+        "value": "-2"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t1_pr_stats[3].alive",
+        "value": "3"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t1_pr_stats[4].alive",
+        "value": "-2"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t1_pr_stats_ct[0].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t1_pr_stats_ct[1].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t1_pr_stats_ct[2].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t1_pr_stats_ct[3].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t1_pr_stats_ct[4].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t1_pr_stats_t[0].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t1_pr_stats_t[1].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t1_pr_stats_t[2].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t1_pr_stats_t[3].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t1_pr_stats_t[4].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t2_pr_stats[0].alive",
+        "value": "2"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t2_pr_stats[1].alive",
+        "value": "1"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t2_pr_stats[2].alive",
+        "value": "0"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t2_pr_stats[3].alive",
+        "value": "0"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t2_pr_stats[4].alive",
+        "value": "-5"
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t2_pr_stats_ct[0].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t2_pr_stats_ct[1].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t2_pr_stats_ct[2].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t2_pr_stats_ct[3].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t2_pr_stats_ct[4].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t2_pr_stats_t[0].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t2_pr_stats_t[1].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t2_pr_stats_t[2].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t2_pr_stats_t[3].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[0].t2_pr_stats_t[4].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[1].field_conf./livedata_status",
+        "value": "1"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t1_pr_stats[0].alive",
+        "value": "4"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t1_pr_stats[1].alive",
+        "value": "-2"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t1_pr_stats[2].alive",
+        "value": "1"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t1_pr_stats[3].alive",
+        "value": "-1"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t1_pr_stats[4].alive",
+        "value": "0"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t1_pr_stats_ct[0].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t1_pr_stats_ct[1].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t1_pr_stats_ct[2].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t1_pr_stats_ct[3].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t1_pr_stats_ct[4].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t1_pr_stats_t[0].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t1_pr_stats_t[1].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t1_pr_stats_t[2].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t1_pr_stats_t[3].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t1_pr_stats_t[4].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t2_pr_stats[0].alive",
+        "value": "0"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t2_pr_stats[1].alive",
+        "value": "0"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t2_pr_stats[2].alive",
+        "value": "2"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t2_pr_stats[3].alive",
+        "value": "0"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t2_pr_stats[4].alive",
+        "value": "-4"
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t2_pr_stats_ct[0].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t2_pr_stats_ct[1].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t2_pr_stats_ct[2].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t2_pr_stats_ct[3].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t2_pr_stats_ct[4].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t2_pr_stats_t[0].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t2_pr_stats_t[1].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t2_pr_stats_t[2].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t2_pr_stats_t[3].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[1].t2_pr_stats_t[4].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[2].field_conf./livedata_status",
+        "value": "1"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t1_pr_stats[0].alive",
+        "value": "0"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t1_pr_stats[1].alive",
+        "value": "2"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t1_pr_stats[2].alive",
+        "value": "-3"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t1_pr_stats[3].alive",
+        "value": "-1"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t1_pr_stats[4].alive",
+        "value": "-1"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t1_pr_stats_ct[0].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t1_pr_stats_ct[1].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t1_pr_stats_ct[2].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t1_pr_stats_ct[3].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t1_pr_stats_ct[4].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t1_pr_stats_t[0].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t1_pr_stats_t[1].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t1_pr_stats_t[2].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t1_pr_stats_t[3].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t1_pr_stats_t[4].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t2_pr_stats[0].alive",
+        "value": "4"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t2_pr_stats[1].alive",
+        "value": "4"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t2_pr_stats[2].alive",
+        "value": "0"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t2_pr_stats[3].alive",
+        "value": "-3"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t2_pr_stats[4].alive",
+        "value": "-2"
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t2_pr_stats_ct[0].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t2_pr_stats_ct[1].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t2_pr_stats_ct[2].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t2_pr_stats_ct[3].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t2_pr_stats_ct[4].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t2_pr_stats_t[0].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t2_pr_stats_t[1].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t2_pr_stats_t[2].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t2_pr_stats_t[3].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.bouts_state[2].t2_pr_stats_t[4].alive",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.global_state.live_status",
+        "value": "0"
+      },
+      {
+        "path": "$.data.match.mc_info.high_lights_cfg_list[0].origin_video",
+        "value": "https://s1-static.msstatic.com/vod-player-360/index.html?id=1128187360&version=1"
+      },
+      {
+        "path": "$.data.match.mc_info.high_lights_cfg_list[0].third_url",
+        "value": ""
+      },
+      {
+        "path": "$.data.match.mc_info.high_lights_cfg_list[0].url",
+        "value": "https://www.5eplay.com/video_app_common?video=PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiAgZnJhbWVib3JkZXI9IjAiIHNjcm9sbGluZz0ibm8iIHNyYz0iaHR0cHM6Ly9zMS1zdGF0aWMubXNzdGF0aWMuY29tL3ZvZC1wbGF5ZXItMzYwL2luZGV4Lmh0bWw%2FaWQ9MTEyODE4NzM2MCI%2BPC9pZnJhbWU%2B&dispmod={DispMod}"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list",
+        "value": [
+          {
+            "can_jump": 1,
+            "name": "冬瓜",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.douyu.com/63136",
+            "url": "https://open.douyu.com/tpl/h5/chain2/FIVEEPlay/63136?version=2.0&bulletComments=1"
+          },
+          {
+            "can_jump": 1,
+            "name": "CSBOY-MO",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/321123",
+            "url": "https://liveshare.huya.com/iframe/321123?from=qd785&presenterUid=1199652774074"
+          },
+          {
+            "can_jump": 1,
+            "name": "李文哲",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/640056",
+            "url": "https://liveshare.huya.com/iframe/640056?from=qd785&presenterUid=1279513816099"
+          },
+          {
+            "can_jump": 1,
+            "name": "虎牙ESL副舞台",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/479361",
+            "url": "https://liveshare.huya.com/iframe/479361?from=qd785&presenterUid=1560122402"
+          },
+          {
+            "can_jump": 1,
+            "name": "B站副舞台",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://live.bilibili.com/34",
+            "url": "https://live.bilibili.com/34?live_from=86001&spm_id_from=333.1387.0.0"
+          }
+        ]
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[0].third_url",
+        "value": "https://www.douyu.com/63136"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[0].url",
+        "value": "https://open.douyu.com/tpl/h5/chain2/FIVEEPlay/63136?version=2.0&bulletComments=1"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[1].third_url",
+        "value": "https://www.huya.com/321123"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[1].url",
+        "value": "https://liveshare.huya.com/iframe/321123?from=qd785&presenterUid=1199652774074"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[2].third_url",
+        "value": "https://www.huya.com/640056"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[2].url",
+        "value": "https://liveshare.huya.com/iframe/640056?from=qd785&presenterUid=1279513816099"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[3].third_url",
+        "value": "https://www.huya.com/479361"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[3].url",
+        "value": "https://liveshare.huya.com/iframe/479361?from=qd785&presenterUid=1560122402"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[4].third_url",
+        "value": "https://live.bilibili.com/34"
+      },
+      {
+        "path": "$.data.match.mc_info.live_cfg_list[4].url",
+        "value": "https://live.bilibili.com/34?live_from=86001&spm_id_from=333.1387.0.0"
+      },
+      {
+        "path": "$.data.match.mc_info.video_type",
+        "value": 2
+      }
+    ]
+  }
+}
