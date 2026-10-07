@@ -1,0 +1,2224 @@
+{
+  "url": "https://api.bo3.gg/api/v1/matches?scope=widget-matches&page%5Boffset%5D=0&page%5Blimit%5D=100&sort=-start_date%2Ctier_rank&filter%5Bmatches.status%5D%5Bin%5D=finished&filter%5Bmatches.discipline_id%5D%5Beq%5D=1&with=teams%2Ctournament%2Cai_predictions%2Cgames%2Cstreams",
+  "http": 200,
+  "bytes": 382414,
+  "type": "dict",
+  "topKeys": [
+    "total",
+    "results",
+    "links"
+  ],
+  "dictKeys": {
+    "total": [
+      "count",
+      "pages",
+      "offset",
+      "limit"
+    ]
+  },
+  "listKey": "results",
+  "count": 100,
+  "firstItems": [
+    {
+      "id": 130783,
+      "slug": "falcons-esports-vs-natus-vincere-06-10-2026",
+      "status": "finished",
+      "parsed_status": "done",
+      "winner_team_id": 2713,
+      "discipline_id": 1,
+      "start_date": "2026-10-06T19:05:00.000+00:00",
+      "end_date": "2026-10-06T22:40:12.000+00:00",
+      "team1_id": 2713,
+      "team2_id": 787,
+      "team1_score": 2,
+      "team2_score": 1,
+      "bo_type": 3,
+      "live_coverage": true,
+      "live_coverage_source": 4,
+      "stars": 4,
+      "bet_updates": {
+        "path": "https://refpa04636.pro/L?tag=d_4812392m_129584c_bo3_odds_ww&site=4812392&ad=129584&utm_source=bo3_odds_ww&utm_medium=fix&r=/en/line/Esports/2652575-CS-2-ESL-Pro-League/376768830-Team-Falcons-Natus-Vincere",
+        "team_1": {
+          "name": "Falcons",
+          "coeff": 1.6,
+          "active": true,
+          "team_id": 2713,
+          "max_coeff": 1.648,
+          "aggrement_score": 0.69
+        },
+        "team_2": {
+          "name": "Natus Vincere",
+          "coeff": 2.336,
+          "active": true,
+          "team_id": 787,
+          "max_coeff": 2.504,
+          "aggrement_score": 0.31
+        },
+        "markets_count": 36,
+        "bet_provider_id": 39,
+        "additional_markets": [
+          {
+            "coeff": 2.04,
+            "active": true,
+            "team_id": null,
+            "bet_type": "total_maps_over_2_5",
+            "max_coeff": 2.07,
+            "aggrement_score": 0.52
+          },
+          {
+            "coeff": 1.77,
+            "active": true,
+            "team_id": null,
+            "bet_type": "total_maps_under_2_5",
+            "max_coeff": 1.78,
+            "aggrement_score": 0.48
+          },
+          {
+            "coeff": 2.77,
+            "active": true,
+            "team_id": 2713,
+            "bet_type": "team_1_handicap_under_1_5",
+            "max_coeff": 2.89,
+            "aggrement_score": 0.42
+          },
+          {
+            "coeff": 1.21,
+            "active": true,
+            "team_id": 2713,
+            "bet_type": "team_1_handicap_over_1_5",
+            "max_coeff": 1.23,
+            "aggrement_score": 0.94
+          },
+          {
+            "coeff": 4.42,
+            "active": true,
+            "team_id": 787,
+            "bet_type": "team_2_handicap_under_1_5",
+            "max_coeff": 4.73,
+            "aggrement_score": 0.06
+          },
+          {
+            "coeff": 1.46,
+            "active": true,
+            "team_id": 787,
+            "bet_type": "team_2_handicap_over_1_5",
+            "max_coeff": 1.51,
+            "aggrement_score": 0.58
+          },
+          {
+            "coeff": 4.37,
+            "active": true,
+            "team_id": 787,
+            "bet_type": "score_0_2",
+            "max_coeff": 4.67,
+            "aggrement_score": 0.06
+          },
+          {
+            "coeff": 4.37,
+            "active": true,
+            "team_id": 787,
+            "bet_type": "score_1_2",
+            "max_coeff": 4.65,
+            "aggrement_score": 0.06
+          },
+          {
+            "coeff": 2.74,
+            "active": true,
+            "team_id": 2713,
+            "bet_type": "score_2_0",
+            "max_coeff": 2.84,
+            "aggrement_score": 0.42
+          },
+          {
+            "coeff": 3.44,
+            "active": true,
+            "team_id": 2713,
+            "bet_type": "score_2_1",
+            "max_coeff": 3.48,
+            "aggrement_score": 0.46
+          },
+          {
+            "coeff": 1.79,
+            "active": true,
+            "team_id": null,
+            "bet_type": "total_maps_even",
+            "max_coeff": 1.8,
+            "aggrement_score": 0.48
+          },
+          {
+            "coeff": 1.96,
+            "active": true,
+            "team_id": null,
+            "bet_type": "total_maps_odd",
+            "max_coeff": 2.01,
+            "aggrement_score": 0.52
+          },
+          {
+            "coeff": 1.21,
+            "active": true,
+            "team_id": 2713,
+            "bet_type": "team_1_to_win_at_least_one_map",
+            "max_coeff": 1.23,
+            "aggrement_score": 0.94
+          },
+          {
+            "coeff": 4.37,
+            "active": true,
+            "team_id": 2713,
+            "bet_type": "team_1_to_not_win_at_least_one_map",
+            "max_coeff": 4.71,
+            "aggrement_score": 0.06
+          }
+        ]
+      },
+      "team1": {
+        "id": 2713,
+        "slug": "falcons-esports",
+        "name": "Falcons",
+        "image_url": "https://files.bo3.gg/uploads/team/2713/image/webp-86fd5a0653183a19cf750d195963ea10.webp"
+      },
+      "team2": {
+        "id": 787,
+        "slug": "natus-vincere",
+        "name": "Natus Vincere",
+        "image_url": "https://files.bo3.gg/uploads/team/787/image/webp-ea9885f81f1572c7a6c9fb6cbf747c99.webp"
+      },
+      "tournament": {
+        "id": 5110,
+        "slug": "esl-pro-league-season-24",
+        "name": "ESL Pro League Season 24",
+        "status": "current",
+        "prize": 1000000,
+        "tier_rank": 1,
+        "image_url": "https://files.bo3.gg/uploads/tournament/5110/image/webp-8e019c35557e43a47a0f2b1f6695d5cb.webp"
+      },
+      "streams": [
+        {
+          "name": "ESL Counter-Strike",
+          "preview_image_url": "https://i.ytimg.com/vi/WdBV1oUx6fc/hqdefault_live.jpg"
+        },
+        {
+          "name": "ESLCS",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eslcs-600x336.jpg"
+        },
+        {
+          "name": "cs2_maincast",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cs2_maincast-600x336.jpg"
+        },
+        {
+          "name": "CS2 Maincast",
+          "preview_image_url": "https://i.ytimg.com/vi/qQUOtoPuYfE/hqdefault_live.jpg"
+        },
+        {
+          "name": "ESLCS",
+          "preview_image_url": ""
+        },
+        {
+          "name": "cs2_paragon_ru",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cs2_paragon_ru-600x336.jpg"
+        },
+        {
+          "name": "bySL4M",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bysl4m-600x336.jpg"
+        },
+        {
+          "name": "SL4M & Counter-Strike ",
+          "preview_image_url": "https://i.ytimg.com/vi/1KnC-VXz44c/hqdefault_live.jpg"
+        },
+        {
+          "name": "rootthegamer",
+          "preview_image_url": "https://files.kick.com/images/channel/2341878/banner_image/default-banner-2.jpg"
+        },
+        {
+          "name": "izak LIVE",
+          "preview_image_url": "https://i.ytimg.com/vi/F7Cn8N_CaNA/hqdefault_live.jpg"
+        },
+        {
+          "name": "RTPArenaCS",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rtparenacs-600x336.jpg"
+        },
+        {
+          "name": "bladeito",
+          "preview_image_url": ""
+        },
+        {
+          "name": "pelaajatcom",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pelaajatcom-600x336.jpg"
+        },
+        {
+          "name": "IzakOOO",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_izakooo-600x336.jpg"
+        },
+        {
+          "name": "jaxiTV",
+          "preview_image_url": "https://i.ytimg.com/vi/79o10P7oOVc/hqdefault_live.jpg"
+        },
+        {
+          "name": "zonixxcs",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zonixxcs-600x336.jpg"
+        },
+        {
+          "name": "watchfulTV",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_watchfulTV-600x336.jpg"
+        },
+        {
+          "name": "x9nium",
+          "preview_image_url": "https://files.kick.com/images/channel/3460413/banner_image/default-banner-2.jpg"
+        },
+        {
+          "name": "elmorocho7",
+          "preview_image_url": "https://files.kick.com/images/channel/9472895/banner_image/default-banner-2.jpg"
+        },
+        {
+          "name": "Mauisnake",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mauisnake-600x336.jpg"
+        },
+        {
+          "name": "x9nium",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_x9nium-600x336.jpg"
+        },
+        {
+          "name": "zurys1337",
+          "preview_image_url": "https://files.kick.com/images/channel/19816615/banner_image/default-banner-1"
+        },
+        {
+          "name": "Werty",
+          "preview_image_url": "https://i.ytimg.com/vi/7MeeJoJ_vmI/hqdefault_live.jpg"
+        },
+        {
+          "name": "Focus Fire",
+          "preview_image_url": "https://i.ytimg.com/vi/e_nZp3uPnow/hqdefault_live.jpg"
+        },
+        {
+          "name": "esportsbulgaria",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esportsbulgaria-600x336.jpg"
+        },
+        {
+          "name": "Retake",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_retake-600x336.jpg"
+        },
+        {
+          "name": "redcs",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redcs-600x336.jpg"
+        },
+        {
+          "name": "StRoGo",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-600x336.jpg"
+        },
+        {
+          "name": "CroissantStrike",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_croissantstrike-600x336.jpg"
+        },
+        {
+          "name": "Dmitry_Lixxx",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dmitry_lixxx-600x336.jpg"
+        },
+        {
+          "name": "rootthegamer",
+          "preview_image_url": "https://i.ytimg.com/vi/PKrM2236--w/hqdefault.jpg"
+        },
+        {
+          "name": "Meta",
+          "preview_image_url": "https://i.ytimg.com/vi/A6YYs2mb7Dk/hqdefault_live.jpg"
+        },
+        {
+          "name": "skywhywalker"
+        }
+      ],
+      "games": [
+        {
+          "id": 187816,
+          "map_name": "de_mirage",
+          "state": "done",
+          "winner_clan_score": 13,
+          "loser_clan_score": 8,
+          "winner_clan_name": "Team Falcons",
+          "loser_clan_name": "Natus Vincere",
+          "number": 3,
+          "winner_team_clan": {
+            "clan_name": "Team Falcons",
+            "team_id": 2713
+          },
+          "loser_team_clan": {
+            "clan_name": "Natus Vincere",
+            "team_id": 787
+          }
+        },
+        {
+          "id": 187817,
+          "map_name": "de_anubis",
+          "state": "done",
+          "winner_clan_score": 19,
+          "loser_clan_score": 15,
+          "winner_clan_name": "Natus Vincere",
+          "loser_clan_name": "Team Falcons",
+          "number": 2,
+          "winner_team_clan": {
+            "clan_name": "Natus Vincere",
+            "team_id": 787
+          },
+          "loser_team_clan": {
+            "clan_name": "Team Falcons",
+            "team_id": 2713
+          }
+        },
+        {
+          "id": 187818,
+          "map_name": "de_inferno",
+          "state": "done",
+          "winner_clan_score": 13,
+          "loser_clan_score": 6,
+          "winner_clan_name": "Team Falcons",
+          "loser_clan_name": "Natus Vincere",
+          "number": 1,
+          "winner_team_clan": {
+            "clan_name": "Team Falcons",
+            "team_id": 2713
+          },
+          "loser_team_clan": {
+            "clan_name": "Natus Vincere",
+            "team_id": 787
+          }
+        }
+      ],
+      "ai_predictions": {
+        "prediction_team1_score": 2,
+        "prediction_team2_score": 0,
+        "prediction_winner_team_id": 2713,
+        "prediction_scores_data": {
+          "neighbor_proximity_factor": 0.715819
+        }
+      }
+    },
+    {
+      "id": 131404,
+      "slug": "maybe-ukr-vs-fortress-06-10-2026",
+      "status": "finished",
+      "parsed_status": "waiting",
+      "winner_team_id": 22418,
+      "discipline_id": 1,
+      "start_date": "2026-10-06T18:45:00.000+00:00",
+      "end_date": "2026-10-06T19:51:08.000+00:00",
+      "team1_id": 24681,
+      "team2_id": 22418,
+      "team1_score": 0,
+      "team2_score": 1,
+      "bo_type": 1,
+      "live_coverage": false,
+      "stars": 0,
+      "bet_updates": {
+        "path": "https://refpa04636.pro/L?tag=d_4812392m_129584c_bo3_odds_ww&site=4812392&ad=129584&utm_source=bo3_odds_ww&utm_medium=fix&r=/en/line/Esports/2652652-CS-2-ESEA-Advanced-Europe/376929144-MAYBE-Fortress",
+        "team_1": {
+          "name": "MAYBE",
+          "coeff": 1.38,
+          "active": true,
+          "team_id": 24681,
+          "max_coeff": 1.38,
+          "aggrement_score": 0.54
+        },
+        "team_2": {
+          "name": "Fortress",
+          "coeff": 2.847,
+          "active": true,
+          "team_id": 22418,
+          "max_coeff": 2.847,
+          "aggrement_score": 0.46
+        },
+        "markets_count": 2,
+        "bet_provider_id": 39,
+        "additional_markets": []
+      },
+      "team1": {
+        "id": 24681,
+        "slug": "maybe-ukr",
+        "name": "MAYBE",
+        "image_url": "https://files.bo3.gg/uploads/team/24681/image/webp-24e0f53acac92ef1ff8f6491744024be.webp"
+      },
+      "team2": {
+        "id": 22418,
+        "slug": "fortress",
+        "name": "Fortress",
+        "image_url": "https://files.bo3.gg/uploads/team/22418/image/webp-4d43bf99c05b683fdad4d57ebf1ea041.webp"
+      },
+      "tournament": {
+        "id": 6189,
+        "slug": "esea-season-59-advanced-division-europe",
+        "name": "ESEA Season 59: Advanced Division - Europe",
+        "status": "current",
+        "prize": 0,
+        "tier_rank": 4,
+        "image_url": "https://files.bo3.gg/uploads/tournament/6189/image/webp-e4ee3c513741b6aab04e0c22da563aa6.webp"
+      },
+      "streams": [],
+      "games": [
+        {
+          "id": 189015,
+          "map_name": "de_cache",
+          "number": 1
+        }
+      ],
+      "ai_predictions": {
+        "prediction_team1_score": 1,
+        "prediction_team2_score": 0,
+        "prediction_winner_team_id": 24681,
+        "prediction_scores_data": {
+          "neighbor_proximity_factor": 0.756944
+        }
+      }
+    },
+    {
+      "id": 131393,
+      "slug": "regnum4games-vs-pensioners-06-10-2026",
+      "status": "finished",
+      "parsed_status": "waiting",
+      "winner_team_id": 11165,
+      "discipline_id": 1,
+      "start_date": "2026-10-06T18:45:00.000+00:00",
+      "end_date": "2026-10-06T19:37:25.000+00:00",
+      "team1_id": 11165,
+      "team2_id": 24546,
+      "team1_score": 1,
+      "team2_score": 0,
+      "bo_type": 1,
+      "live_coverage": false,
+      "stars": 0,
+      "team1": {
+        "id": 11165,
+        "slug": "regnum4games",
+        "name": "regnum4games",
+        "image_url": "https://files.bo3.gg/uploads/team/11165/image/webp-81f30dced84d130c4bea730efbf8e8dd.webp"
+      },
+      "team2": {
+        "id": 24546,
+        "slug": "pensioners",
+        "name": "PENSIONERS"
+      },
+      "tournament": {
+        "id": 6189,
+        "slug": "esea-season-59-advanced-division-europe",
+        "name": "ESEA Season 59: Advanced Division - Europe",
+        "status": "current",
+        "prize": 0,
+        "tier_rank": 4,
+        "image_url": "https://files.bo3.gg/uploads/tournament/6189/image/webp-e4ee3c513741b6aab04e0c22da563aa6.webp"
+      },
+      "streams": [],
+      "games": [
+        {
+          "id": 189004,
+          "map_name": "de_dust2",
+          "number": 1
+        }
+      ],
+      "ai_predictions": {
+        "prediction_team1_score": 0,
+        "prediction_team2_score": 1,
+        "prediction_winner_team_id": 24546,
+        "prediction_scores_data": {
+          "neighbor_proximity_factor": 0.170092
+        }
+      }
+    },
+    {
+      "id": 131402,
+      "slug": "gamerslab-esports-vs-al-ahli-esports-06-10-2026",
+      "status": "finished",
+      "parsed_status": "waiting",
+      "winner_team_id": 24666,
+      "discipline_id": 1,
+      "start_date": "2026-10-06T18:45:00.000+00:00",
+      "end_date": "2026-10-06T19:18:23.000+00:00",
+      "team1_id": 25032,
+      "team2_id": 24666,
+      "team1_score": 0,
+      "team2_score": 1,
+      "bo_type": 1,
+      "live_coverage": false,
+      "stars": 0,
+      "bet_updates": {
+        "path": "https://refpa04636.pro/L?tag=d_4812392m_129584c_bo3_odds_ww&site=4812392&ad=129584&utm_source=bo3_odds_ww&utm_medium=fix&r=/en/line/Esports/2652652-CS-2-ESEA-Advanced-Europe/376925318-GamersLab-Al-Ahli",
+        "team_1": {
+          "name": "GamersLab",
+          "coeff": 2.355,
+          "active": true,
+          "team_id": 25032,
+          "max_coeff": 2.355,
+          "aggrement_score": 0.22
+        },
+        "team_2": {
+          "name": "Al Ahli",
+          "coeff": 1.54,
+          "active": true,
+          "team_id": 24666,
+          "max_coeff": 1.69,
+          "aggrement_score": 0.78
+        },
+        "markets_count": 2,
+        "bet_provider_id": 39,
+        "additional_markets": []
+      },
+      "team1": {
+        "id": 25032,
+        "slug": "gamerslab-esports",
+        "name": "GamersLab",
+        "image_url": "https://files.bo3.gg/uploads/team/25032/image/webp-d25548d46b35f5585a3d99cf07aa15f9.webp"
+      },
+      "team2": {
+        "id": 24666,
+        "slug": "al-ahli-esports",
+        "name": "Al Ahli",
+        "image_url": "https://files.bo3.gg/uploads/team/24666/image/webp-c7ca6a3a6f2b0950c30de7638787276f.webp"
+      },
+      "tournament": {
+        "id": 6189,
+        "slug": "esea-season-59-advanced-division-europe",
+        "name": "ESEA Season 59: Advanced Division - Europe",
+        "status": "current",
+        "prize": 0,
+        "tier_rank": 4,
+        "image_url": "https://files.bo3.gg/uploads/tournament/6189/image/webp-e4ee3c513741b6aab04e0c22da563aa6.webp"
+      },
+      "streams": [],
+      "games": [
+        {
+          "id": 189013,
+          "map_name": "de_inferno",
+          "winner_clan_score": 13,
+          "loser_clan_score": 5,
+          "winner_clan_name": "Al Ahli",
+          "loser_clan_name": "GamersLab",
+          "number": 1,
+          "winner_team_clan": {
+            "clan_name": "Al Ahli",
+            "team_id": 24666
+          },
+          "loser_team_clan": {
+            "clan_name": "GamersLab",
+            "team_id": 25032
+          }
+        }
+      ],
+      "ai_predictions": {
+        "prediction_team1_score": 0,
+        "prediction_team2_score": 1,
+        "prediction_winner_team_id": 24666,
+        "prediction_scores_data": {
+          "neighbor_proximity_factor": 0.168434
+        }
+      }
+    },
+    {
+      "id": 131401,
+      "slug": "inner-circle-prospect-vs-young-tigeres-06-10-2026",
+      "status": "finished",
+      "parsed_status": "waiting",
+      "winner_team_id": 21990,
+      "discipline_id": 1,
+      "start_date": "2026-10-06T18:45:00.000+00:00",
+      "end_date": "2026-10-06T19:13:25.000+00:00",
+      "team1_id": 23279,
+      "team2_id": 21990,
+      "team1_score": 0,
+      "team2_score": 1,
+      "bo_type": 1,
+      "live_coverage": false,
+      "stars": 0,
+      "bet_updates": {
+        "path": "https://refpa04636.pro/L?tag=d_4812392m_129584c_bo3_odds_ww&site=4812392&ad=129584&utm_source=bo3_odds_ww&utm_medium=fix&r=/en/live/Esports/2652652-CS-2-ESEA-Advanced-Europe/759199516-IC-Prospect-Young-TigeRES",
+        "team_1": {
+          "name": "Inner Circle Prospect",
+          "coeff": 3.29,
+          "active": true,
+          "team_id": 23279,
+          "max_coeff": 3.31,
+          "aggrement_score": 0.28
+        },
+        "team_2": {
+          "name": "Young TigeRES",
+          "coeff": 1.304,
+          "active": true,
+          "team_id": 21990,
+          "max_coeff": 1.4,
+          "aggrement_score": 0.72
+        },
+        "markets_count": 8,
+        "bet_provider_id": 39,
+        "additional_markets": [
+          {
+            "coeff": 1.29,
+            "active": true,
+            "team_id": 21990,
+            "bet_type": "score_0_1",
+            "max_coeff": 1.29,
+            "aggrement_score": 0.51
+          },
+          {
+            "coeff": 3.25,
+            "active": true,
+            "team_id": 23279,
+            "bet_type": "score_1_0",
+            "max_coeff": 3.25,
+            "aggrement_score": 0.49
+          }
+        ]
+      },
+      "team1": {
+        "id": 23279,
+        "slug": "inner-circle-prospect",
+        "name": "Inner Circle Prospect",
+        "image_url": "https://files.bo3.gg/uploads/team/23279/image/webp-7cf8ee3161f340bf77e21aef7872a4ca.webp"
+      },
+      "team2": {
+        "id": 21990,
+        "slug": "young-tigeres",
+        "name": "Young TigeRES",
+        "image_url": "https://files.bo3.gg/uploads/team/21990/image/webp-450d77a72b6b53c25c56c77819fe0fa5.webp"
+      },
+      "tournament": {
+        "id": 6189,
+        "slug": "esea-season-59-advanced-division-europe",
+        "name": "ESEA Season 59: Advanced Division - Europe",
+        "status": "current",
+        "prize": 0,
+        "tier_rank": 4,
+        "image_url": "https://files.bo3.gg/uploads/tournament/6189/image/webp-e4ee3c513741b6aab04e0c22da563aa6.webp"
+      },
+      "streams": [],
+      "games": [
+        {
+          "id": 189012,
+          "map_name": "de_ancient",
+          "winner_clan_score": 13,
+          "loser_clan_score": 4,
+          "winner_clan_name": "Young TigeRES",
+          "loser_clan_name": "Inner Circle Prospect",
+          "number": 1,
+          "winner_team_clan": {
+            "clan_name": "Young TigeRES",
+            "team_id": 21990
+          },
+          "loser_team_clan": {
+            "clan_name": "Inner Circle Prospect",
+            "team_id": 23279
+          }
+        }
+      ],
+      "ai_predictions": {
+        "prediction_team1_score": 0,
+        "prediction_team2_score": 1,
+        "prediction_winner_team_id": 21990,
+        "prediction_scores_data": {
+          "neighbor_proximity_factor": 0.135282
+        }
+      }
+    }
+  ],
+  "records": [
+    {
+      "id": 130783,
+      "slug": "falcons-esports-vs-natus-vincere-06-10-2026",
+      "status": "finished",
+      "parsed_status": "done",
+      "winner_team_id": 2713,
+      "discipline_id": 1,
+      "start_date": "2026-10-06T19:05:00.000+00:00",
+      "end_date": "2026-10-06T22:40:12.000+00:00",
+      "team1_id": 2713,
+      "team2_id": 787,
+      "team1_score": 2,
+      "team2_score": 1,
+      "bo_type": 3,
+      "live_coverage": true,
+      "live_coverage_source": 4,
+      "stars": 4,
+      "bet_updates": {
+        "path": "https://refpa04636.pro/L?tag=d_4812392m_129584c_bo3_odds_ww&site=4812392&ad=129584&utm_source=bo3_odds_ww&utm_medium=fix&r=/en/line/Esports/2652575-CS-2-ESL-Pro-League/376768830-Team-Falcons-Natus-Vincere",
+        "team_1": {
+          "name": "Falcons",
+          "coeff": 1.6,
+          "active": true,
+          "team_id": 2713,
+          "max_coeff": 1.648,
+          "aggrement_score": 0.69
+        },
+        "team_2": {
+          "name": "Natus Vincere",
+          "coeff": 2.336,
+          "active": true,
+          "team_id": 787,
+          "max_coeff": 2.504,
+          "aggrement_score": 0.31
+        },
+        "markets_count": 36,
+        "bet_provider_id": 39,
+        "additional_markets": [
+          {
+            "coeff": 2.04,
+            "active": true,
+            "team_id": null,
+            "bet_type": "total_maps_over_2_5",
+            "max_coeff": 2.07,
+            "aggrement_score": 0.52
+          },
+          {
+            "coeff": 1.77,
+            "active": true,
+            "team_id": null,
+            "bet_type": "total_maps_under_2_5",
+            "max_coeff": 1.78,
+            "aggrement_score": 0.48
+          },
+          {
+            "coeff": 2.77,
+            "active": true,
+            "team_id": 2713,
+            "bet_type": "team_1_handicap_under_1_5",
+            "max_coeff": 2.89,
+            "aggrement_score": 0.42
+          },
+          {
+            "coeff": 1.21,
+            "active": true,
+            "team_id": 2713,
+            "bet_type": "team_1_handicap_over_1_5",
+            "max_coeff": 1.23,
+            "aggrement_score": 0.94
+          },
+          {
+            "coeff": 4.42,
+            "active": true,
+            "team_id": 787,
+            "bet_type": "team_2_handicap_under_1_5",
+            "max_coeff": 4.73,
+            "aggrement_score": 0.06
+          },
+          {
+            "coeff": 1.46,
+            "active": true,
+            "team_id": 787,
+            "bet_type": "team_2_handicap_over_1_5",
+            "max_coeff": 1.51,
+            "aggrement_score": 0.58
+          },
+          {
+            "coeff": 4.37,
+            "active": true,
+            "team_id": 787,
+            "bet_type": "score_0_2",
+            "max_coeff": 4.67,
+            "aggrement_score": 0.06
+          },
+          {
+            "coeff": 4.37,
+            "active": true,
+            "team_id": 787,
+            "bet_type": "score_1_2",
+            "max_coeff": 4.65,
+            "aggrement_score": 0.06
+          },
+          {
+            "coeff": 2.74,
+            "active": true,
+            "team_id": 2713,
+            "bet_type": "score_2_0",
+            "max_coeff": 2.84,
+            "aggrement_score": 0.42
+          },
+          {
+            "coeff": 3.44,
+            "active": true,
+            "team_id": 2713,
+            "bet_type": "score_2_1",
+            "max_coeff": 3.48,
+            "aggrement_score": 0.46
+          },
+          {
+            "coeff": 1.79,
+            "active": true,
+            "team_id": null,
+            "bet_type": "total_maps_even",
+            "max_coeff": 1.8,
+            "aggrement_score": 0.48
+          },
+          {
+            "coeff": 1.96,
+            "active": true,
+            "team_id": null,
+            "bet_type": "total_maps_odd",
+            "max_coeff": 2.01,
+            "aggrement_score": 0.52
+          },
+          {
+            "coeff": 1.21,
+            "active": true,
+            "team_id": 2713,
+            "bet_type": "team_1_to_win_at_least_one_map",
+            "max_coeff": 1.23,
+            "aggrement_score": 0.94
+          },
+          {
+            "coeff": 4.37,
+            "active": true,
+            "team_id": 2713,
+            "bet_type": "team_1_to_not_win_at_least_one_map",
+            "max_coeff": 4.71,
+            "aggrement_score": 0.06
+          }
+        ]
+      },
+      "team1": {
+        "id": 2713,
+        "slug": "falcons-esports",
+        "name": "Falcons",
+        "image_url": "https://files.bo3.gg/uploads/team/2713/image/webp-86fd5a0653183a19cf750d195963ea10.webp"
+      },
+      "team2": {
+        "id": 787,
+        "slug": "natus-vincere",
+        "name": "Natus Vincere",
+        "image_url": "https://files.bo3.gg/uploads/team/787/image/webp-ea9885f81f1572c7a6c9fb6cbf747c99.webp"
+      },
+      "tournament": {
+        "id": 5110,
+        "slug": "esl-pro-league-season-24",
+        "name": "ESL Pro League Season 24",
+        "status": "current",
+        "prize": 1000000,
+        "tier_rank": 1,
+        "image_url": "https://files.bo3.gg/uploads/tournament/5110/image/webp-8e019c35557e43a47a0f2b1f6695d5cb.webp"
+      },
+      "streams": [
+        {
+          "name": "ESL Counter-Strike",
+          "preview_image_url": "https://i.ytimg.com/vi/WdBV1oUx6fc/hqdefault_live.jpg"
+        },
+        {
+          "name": "ESLCS",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eslcs-600x336.jpg"
+        },
+        {
+          "name": "cs2_maincast",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cs2_maincast-600x336.jpg"
+        },
+        {
+          "name": "CS2 Maincast",
+          "preview_image_url": "https://i.ytimg.com/vi/qQUOtoPuYfE/hqdefault_live.jpg"
+        },
+        {
+          "name": "ESLCS",
+          "preview_image_url": ""
+        },
+        {
+          "name": "cs2_paragon_ru",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cs2_paragon_ru-600x336.jpg"
+        },
+        {
+          "name": "bySL4M",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bysl4m-600x336.jpg"
+        },
+        {
+          "name": "SL4M & Counter-Strike ",
+          "preview_image_url": "https://i.ytimg.com/vi/1KnC-VXz44c/hqdefault_live.jpg"
+        },
+        {
+          "name": "rootthegamer",
+          "preview_image_url": "https://files.kick.com/images/channel/2341878/banner_image/default-banner-2.jpg"
+        },
+        {
+          "name": "izak LIVE",
+          "preview_image_url": "https://i.ytimg.com/vi/F7Cn8N_CaNA/hqdefault_live.jpg"
+        },
+        {
+          "name": "RTPArenaCS",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rtparenacs-600x336.jpg"
+        },
+        {
+          "name": "bladeito",
+          "preview_image_url": ""
+        },
+        {
+          "name": "pelaajatcom",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pelaajatcom-600x336.jpg"
+        },
+        {
+          "name": "IzakOOO",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_izakooo-600x336.jpg"
+        },
+        {
+          "name": "jaxiTV",
+          "preview_image_url": "https://i.ytimg.com/vi/79o10P7oOVc/hqdefault_live.jpg"
+        },
+        {
+          "name": "zonixxcs",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zonixxcs-600x336.jpg"
+        },
+        {
+          "name": "watchfulTV",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_watchfulTV-600x336.jpg"
+        },
+        {
+          "name": "x9nium",
+          "preview_image_url": "https://files.kick.com/images/channel/3460413/banner_image/default-banner-2.jpg"
+        },
+        {
+          "name": "elmorocho7",
+          "preview_image_url": "https://files.kick.com/images/channel/9472895/banner_image/default-banner-2.jpg"
+        },
+        {
+          "name": "Mauisnake",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mauisnake-600x336.jpg"
+        },
+        {
+          "name": "x9nium",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_x9nium-600x336.jpg"
+        },
+        {
+          "name": "zurys1337",
+          "preview_image_url": "https://files.kick.com/images/channel/19816615/banner_image/default-banner-1"
+        },
+        {
+          "name": "Werty",
+          "preview_image_url": "https://i.ytimg.com/vi/7MeeJoJ_vmI/hqdefault_live.jpg"
+        },
+        {
+          "name": "Focus Fire",
+          "preview_image_url": "https://i.ytimg.com/vi/e_nZp3uPnow/hqdefault_live.jpg"
+        },
+        {
+          "name": "esportsbulgaria",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esportsbulgaria-600x336.jpg"
+        },
+        {
+          "name": "Retake",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_retake-600x336.jpg"
+        },
+        {
+          "name": "redcs",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redcs-600x336.jpg"
+        },
+        {
+          "name": "StRoGo",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_strogo-600x336.jpg"
+        },
+        {
+          "name": "CroissantStrike",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_croissantstrike-600x336.jpg"
+        },
+        {
+          "name": "Dmitry_Lixxx",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dmitry_lixxx-600x336.jpg"
+        },
+        {
+          "name": "rootthegamer",
+          "preview_image_url": "https://i.ytimg.com/vi/PKrM2236--w/hqdefault.jpg"
+        },
+        {
+          "name": "Meta",
+          "preview_image_url": "https://i.ytimg.com/vi/A6YYs2mb7Dk/hqdefault_live.jpg"
+        },
+        {
+          "name": "skywhywalker"
+        }
+      ],
+      "games": [
+        {
+          "id": 187816,
+          "map_name": "de_mirage",
+          "state": "done",
+          "winner_clan_score": 13,
+          "loser_clan_score": 8,
+          "winner_clan_name": "Team Falcons",
+          "loser_clan_name": "Natus Vincere",
+          "number": 3,
+          "winner_team_clan": {
+            "clan_name": "Team Falcons",
+            "team_id": 2713
+          },
+          "loser_team_clan": {
+            "clan_name": "Natus Vincere",
+            "team_id": 787
+          }
+        },
+        {
+          "id": 187817,
+          "map_name": "de_anubis",
+          "state": "done",
+          "winner_clan_score": 19,
+          "loser_clan_score": 15,
+          "winner_clan_name": "Natus Vincere",
+          "loser_clan_name": "Team Falcons",
+          "number": 2,
+          "winner_team_clan": {
+            "clan_name": "Natus Vincere",
+            "team_id": 787
+          },
+          "loser_team_clan": {
+            "clan_name": "Team Falcons",
+            "team_id": 2713
+          }
+        },
+        {
+          "id": 187818,
+          "map_name": "de_inferno",
+          "state": "done",
+          "winner_clan_score": 13,
+          "loser_clan_score": 6,
+          "winner_clan_name": "Team Falcons",
+          "loser_clan_name": "Natus Vincere",
+          "number": 1,
+          "winner_team_clan": {
+            "clan_name": "Team Falcons",
+            "team_id": 2713
+          },
+          "loser_team_clan": {
+            "clan_name": "Natus Vincere",
+            "team_id": 787
+          }
+        }
+      ],
+      "ai_predictions": {
+        "prediction_team1_score": 2,
+        "prediction_team2_score": 0,
+        "prediction_winner_team_id": 2713,
+        "prediction_scores_data": {
+          "neighbor_proximity_factor": 0.715819
+        }
+      }
+    },
+    {
+      "id": 131404,
+      "slug": "maybe-ukr-vs-fortress-06-10-2026",
+      "status": "finished",
+      "parsed_status": "waiting",
+      "winner_team_id": 22418,
+      "discipline_id": 1,
+      "start_date": "2026-10-06T18:45:00.000+00:00",
+      "end_date": "2026-10-06T19:51:08.000+00:00",
+      "team1_id": 24681,
+      "team2_id": 22418,
+      "team1_score": 0,
+      "team2_score": 1,
+      "bo_type": 1,
+      "live_coverage": false,
+      "stars": 0,
+      "bet_updates": {
+        "path": "https://refpa04636.pro/L?tag=d_4812392m_129584c_bo3_odds_ww&site=4812392&ad=129584&utm_source=bo3_odds_ww&utm_medium=fix&r=/en/line/Esports/2652652-CS-2-ESEA-Advanced-Europe/376929144-MAYBE-Fortress",
+        "team_1": {
+          "name": "MAYBE",
+          "coeff": 1.38,
+          "active": true,
+          "team_id": 24681,
+          "max_coeff": 1.38,
+          "aggrement_score": 0.54
+        },
+        "team_2": {
+          "name": "Fortress",
+          "coeff": 2.847,
+          "active": true,
+          "team_id": 22418,
+          "max_coeff": 2.847,
+          "aggrement_score": 0.46
+        },
+        "markets_count": 2,
+        "bet_provider_id": 39,
+        "additional_markets": []
+      },
+      "team1": {
+        "id": 24681,
+        "slug": "maybe-ukr",
+        "name": "MAYBE",
+        "image_url": "https://files.bo3.gg/uploads/team/24681/image/webp-24e0f53acac92ef1ff8f6491744024be.webp"
+      },
+      "team2": {
+        "id": 22418,
+        "slug": "fortress",
+        "name": "Fortress",
+        "image_url": "https://files.bo3.gg/uploads/team/22418/image/webp-4d43bf99c05b683fdad4d57ebf1ea041.webp"
+      },
+      "tournament": {
+        "id": 6189,
+        "slug": "esea-season-59-advanced-division-europe",
+        "name": "ESEA Season 59: Advanced Division - Europe",
+        "status": "current",
+        "prize": 0,
+        "tier_rank": 4,
+        "image_url": "https://files.bo3.gg/uploads/tournament/6189/image/webp-e4ee3c513741b6aab04e0c22da563aa6.webp"
+      },
+      "streams": [],
+      "games": [
+        {
+          "id": 189015,
+          "map_name": "de_cache",
+          "number": 1
+        }
+      ],
+      "ai_predictions": {
+        "prediction_team1_score": 1,
+        "prediction_team2_score": 0,
+        "prediction_winner_team_id": 24681,
+        "prediction_scores_data": {
+          "neighbor_proximity_factor": 0.756944
+        }
+      }
+    },
+    {
+      "id": 131393,
+      "slug": "regnum4games-vs-pensioners-06-10-2026",
+      "status": "finished",
+      "parsed_status": "waiting",
+      "winner_team_id": 11165,
+      "discipline_id": 1,
+      "start_date": "2026-10-06T18:45:00.000+00:00",
+      "end_date": "2026-10-06T19:37:25.000+00:00",
+      "team1_id": 11165,
+      "team2_id": 24546,
+      "team1_score": 1,
+      "team2_score": 0,
+      "bo_type": 1,
+      "live_coverage": false,
+      "stars": 0,
+      "team1": {
+        "id": 11165,
+        "slug": "regnum4games",
+        "name": "regnum4games",
+        "image_url": "https://files.bo3.gg/uploads/team/11165/image/webp-81f30dced84d130c4bea730efbf8e8dd.webp"
+      },
+      "team2": {
+        "id": 24546,
+        "slug": "pensioners",
+        "name": "PENSIONERS"
+      },
+      "tournament": {
+        "id": 6189,
+        "slug": "esea-season-59-advanced-division-europe",
+        "name": "ESEA Season 59: Advanced Division - Europe",
+        "status": "current",
+        "prize": 0,
+        "tier_rank": 4,
+        "image_url": "https://files.bo3.gg/uploads/tournament/6189/image/webp-e4ee3c513741b6aab04e0c22da563aa6.webp"
+      },
+      "streams": [],
+      "games": [
+        {
+          "id": 189004,
+          "map_name": "de_dust2",
+          "number": 1
+        }
+      ],
+      "ai_predictions": {
+        "prediction_team1_score": 0,
+        "prediction_team2_score": 1,
+        "prediction_winner_team_id": 24546,
+        "prediction_scores_data": {
+          "neighbor_proximity_factor": 0.170092
+        }
+      }
+    },
+    {
+      "id": 131402,
+      "slug": "gamerslab-esports-vs-al-ahli-esports-06-10-2026",
+      "status": "finished",
+      "parsed_status": "waiting",
+      "winner_team_id": 24666,
+      "discipline_id": 1,
+      "start_date": "2026-10-06T18:45:00.000+00:00",
+      "end_date": "2026-10-06T19:18:23.000+00:00",
+      "team1_id": 25032,
+      "team2_id": 24666,
+      "team1_score": 0,
+      "team2_score": 1,
+      "bo_type": 1,
+      "live_coverage": false,
+      "stars": 0,
+      "bet_updates": {
+        "path": "https://refpa04636.pro/L?tag=d_4812392m_129584c_bo3_odds_ww&site=4812392&ad=129584&utm_source=bo3_odds_ww&utm_medium=fix&r=/en/line/Esports/2652652-CS-2-ESEA-Advanced-Europe/376925318-GamersLab-Al-Ahli",
+        "team_1": {
+          "name": "GamersLab",
+          "coeff": 2.355,
+          "active": true,
+          "team_id": 25032,
+          "max_coeff": 2.355,
+          "aggrement_score": 0.22
+        },
+        "team_2": {
+          "name": "Al Ahli",
+          "coeff": 1.54,
+          "active": true,
+          "team_id": 24666,
+          "max_coeff": 1.69,
+          "aggrement_score": 0.78
+        },
+        "markets_count": 2,
+        "bet_provider_id": 39,
+        "additional_markets": []
+      },
+      "team1": {
+        "id": 25032,
+        "slug": "gamerslab-esports",
+        "name": "GamersLab",
+        "image_url": "https://files.bo3.gg/uploads/team/25032/image/webp-d25548d46b35f5585a3d99cf07aa15f9.webp"
+      },
+      "team2": {
+        "id": 24666,
+        "slug": "al-ahli-esports",
+        "name": "Al Ahli",
+        "image_url": "https://files.bo3.gg/uploads/team/24666/image/webp-c7ca6a3a6f2b0950c30de7638787276f.webp"
+      },
+      "tournament": {
+        "id": 6189,
+        "slug": "esea-season-59-advanced-division-europe",
+        "name": "ESEA Season 59: Advanced Division - Europe",
+        "status": "current",
+        "prize": 0,
+        "tier_rank": 4,
+        "image_url": "https://files.bo3.gg/uploads/tournament/6189/image/webp-e4ee3c513741b6aab04e0c22da563aa6.webp"
+      },
+      "streams": [],
+      "games": [
+        {
+          "id": 189013,
+          "map_name": "de_inferno",
+          "winner_clan_score": 13,
+          "loser_clan_score": 5,
+          "winner_clan_name": "Al Ahli",
+          "loser_clan_name": "GamersLab",
+          "number": 1,
+          "winner_team_clan": {
+            "clan_name": "Al Ahli",
+            "team_id": 24666
+          },
+          "loser_team_clan": {
+            "clan_name": "GamersLab",
+            "team_id": 25032
+          }
+        }
+      ],
+      "ai_predictions": {
+        "prediction_team1_score": 0,
+        "prediction_team2_score": 1,
+        "prediction_winner_team_id": 24666,
+        "prediction_scores_data": {
+          "neighbor_proximity_factor": 0.168434
+        }
+      }
+    },
+    {
+      "id": 131401,
+      "slug": "inner-circle-prospect-vs-young-tigeres-06-10-2026",
+      "status": "finished",
+      "parsed_status": "waiting",
+      "winner_team_id": 21990,
+      "discipline_id": 1,
+      "start_date": "2026-10-06T18:45:00.000+00:00",
+      "end_date": "2026-10-06T19:13:25.000+00:00",
+      "team1_id": 23279,
+      "team2_id": 21990,
+      "team1_score": 0,
+      "team2_score": 1,
+      "bo_type": 1,
+      "live_coverage": false,
+      "stars": 0,
+      "bet_updates": {
+        "path": "https://refpa04636.pro/L?tag=d_4812392m_129584c_bo3_odds_ww&site=4812392&ad=129584&utm_source=bo3_odds_ww&utm_medium=fix&r=/en/live/Esports/2652652-CS-2-ESEA-Advanced-Europe/759199516-IC-Prospect-Young-TigeRES",
+        "team_1": {
+          "name": "Inner Circle Prospect",
+          "coeff": 3.29,
+          "active": true,
+          "team_id": 23279,
+          "max_coeff": 3.31,
+          "aggrement_score": 0.28
+        },
+        "team_2": {
+          "name": "Young TigeRES",
+          "coeff": 1.304,
+          "active": true,
+          "team_id": 21990,
+          "max_coeff": 1.4,
+          "aggrement_score": 0.72
+        },
+        "markets_count": 8,
+        "bet_provider_id": 39,
+        "additional_markets": [
+          {
+            "coeff": 1.29,
+            "active": true,
+            "team_id": 21990,
+            "bet_type": "score_0_1",
+            "max_coeff": 1.29,
+            "aggrement_score": 0.51
+          },
+          {
+            "coeff": 3.25,
+            "active": true,
+            "team_id": 23279,
+            "bet_type": "score_1_0",
+            "max_coeff": 3.25,
+            "aggrement_score": 0.49
+          }
+        ]
+      },
+      "team1": {
+        "id": 23279,
+        "slug": "inner-circle-prospect",
+        "name": "Inner Circle Prospect",
+        "image_url": "https://files.bo3.gg/uploads/team/23279/image/webp-7cf8ee3161f340bf77e21aef7872a4ca.webp"
+      },
+      "team2": {
+        "id": 21990,
+        "slug": "young-tigeres",
+        "name": "Young TigeRES",
+        "image_url": "https://files.bo3.gg/uploads/team/21990/image/webp-450d77a72b6b53c25c56c77819fe0fa5.webp"
+      },
+      "tournament": {
+        "id": 6189,
+        "slug": "esea-season-59-advanced-division-europe",
+        "name": "ESEA Season 59: Advanced Division - Europe",
+        "status": "current",
+        "prize": 0,
+        "tier_rank": 4,
+        "image_url": "https://files.bo3.gg/uploads/tournament/6189/image/webp-e4ee3c513741b6aab04e0c22da563aa6.webp"
+      },
+      "streams": [],
+      "games": [
+        {
+          "id": 189012,
+          "map_name": "de_ancient",
+          "winner_clan_score": 13,
+          "loser_clan_score": 4,
+          "winner_clan_name": "Young TigeRES",
+          "loser_clan_name": "Inner Circle Prospect",
+          "number": 1,
+          "winner_team_clan": {
+            "clan_name": "Young TigeRES",
+            "team_id": 21990
+          },
+          "loser_team_clan": {
+            "clan_name": "Inner Circle Prospect",
+            "team_id": 23279
+          }
+        }
+      ],
+      "ai_predictions": {
+        "prediction_team1_score": 0,
+        "prediction_team2_score": 1,
+        "prediction_winner_team_id": 21990,
+        "prediction_scores_data": {
+          "neighbor_proximity_factor": 0.135282
+        }
+      }
+    },
+    {
+      "id": 131398,
+      "slug": "fraternity-vs-aimers-mk-06-10-2026",
+      "status": "finished",
+      "parsed_status": "waiting",
+      "winner_team_id": 24535,
+      "discipline_id": 1,
+      "start_date": "2026-10-06T18:45:00.000+00:00",
+      "end_date": "2026-10-06T20:03:40.000+00:00",
+      "team1_id": 24535,
+      "team2_id": 25424,
+      "team1_score": 1,
+      "team2_score": 0,
+      "bo_type": 1,
+      "live_coverage": false,
+      "stars": 0,
+      "team1": {
+        "id": 24535,
+        "slug": "fraternity",
+        "name": "Fraternity"
+      },
+      "team2": {
+        "id": 25424,
+        "slug": "aimers-mk",
+        "name": "aimers"
+      },
+      "tournament": {
+        "id": 6189,
+        "slug": "esea-season-59-advanced-division-europe",
+        "name": "ESEA Season 59: Advanced Division - Europe",
+        "status": "current",
+        "prize": 0,
+        "tier_rank": 4,
+        "image_url": "https://files.bo3.gg/uploads/tournament/6189/image/webp-e4ee3c513741b6aab04e0c22da563aa6.webp"
+      },
+      "streams": [],
+      "games": [
+        {
+          "id": 189009,
+          "map_name": "de_ancient",
+          "number": 1
+        }
+      ],
+      "ai_predictions": {
+        "prediction_team1_score": 1,
+        "prediction_team2_score": 0,
+        "prediction_winner_team_id": 24535,
+        "prediction_scores_data": {
+          "neighbor_proximity_factor": 0.637884
+        }
+      }
+    },
+    {
+      "id": 131391,
+      "slug": "partizan-ru-vs-99firepower-1utility-06-10-2026",
+      "status": "finished",
+      "parsed_status": "waiting",
+      "winner_team_id": 25422,
+      "discipline_id": 1,
+      "start_date": "2026-10-06T18:15:00.000+00:00",
+      "end_date": "2026-10-06T19:22:26.000+00:00",
+      "team1_id": 9438,
+      "team2_id": 25422,
+      "team1_score": 0,
+      "team2_score": 1,
+      "bo_type": 1,
+      "live_coverage": false,
+      "stars": 0,
+      "team1": {
+        "id": 9438,
+        "slug": "partizan-ru",
+        "name": "PARTIZAN",
+        "image_url": "https://files.bo3.gg/uploads/team/9438/image/webp-4fcff86ae29f8c5de441a5cd8ee6c30e.webp"
+      },
+      "team2": {
+        "id": 25422,
+        "slug": "99firepower-1utility",
+        "name": "99firepower 1utility"
+      },
+      "tournament": {
+        "id": 6189,
+        "slug": "esea-season-59-advanced-division-europe",
+        "name": "ESEA Season 59: Advanced Division - Europe",
+        "status": "current",
+        "prize": 0,
+        "tier_rank": 4,
+        "image_url": "https://files.bo3.gg/uploads/tournament/6189/image/webp-e4ee3c513741b6aab04e0c22da563aa6.webp"
+      },
+      "streams": [],
+      "games": [
+        {
+          "id": 189002,
+          "map_name": "de_ancient",
+          "winner_clan_score": 16,
+          "loser_clan_score": 14,
+          "winner_clan_name": "99firepower 1utility",
+          "loser_clan_name": "PARTIZAN_qp5EEHZJV5rFPLz6",
+          "number": 1,
+          "winner_team_clan": {
+            "clan_name": "99firepower 1utility",
+            "team_id": 25422
+          },
+          "loser_team_clan": {
+            "clan_name": "PARTIZAN_qp5EEHZJV5rFPLz6",
+            "team_id": 9438
+          }
+        }
+      ],
+      "ai_predictions": {
+        "prediction_team1_score": 1,
+        "prediction_team2_score": 0,
+        "prediction_winner_team_id": 9438,
+        "prediction_scores_data": {
+          "neighbor_proximity_factor": 0.684472
+        }
+      }
+    },
+    {
+      "id": 130235,
+      "slug": "pcific-esport-vs-lavked-06-10-2026",
+      "status": "finished",
+      "parsed_status": "done",
+      "winner_team_id": 23078,
+      "discipline_id": 1,
+      "start_date": "2026-10-06T17:30:00.000+00:00",
+      "end_date": "2026-10-06T19:29:34.000+00:00",
+      "team1_id": 6255,
+      "team2_id": 23078,
+      "team1_score": 0,
+      "team2_score": 2,
+      "bo_type": 3,
+      "live_coverage": false,
+      "stars": 0,
+      "bet_updates": {
+        "path": "https://refpa04636.pro/L?tag=d_4812392m_129584c_bo3_odds_ww&site=4812392&ad=129584&utm_source=bo3_odds_ww&utm_medium=fix&r=/en/line/Esports/2686473-CS-2-CCT-Europe-Series/376772478-Wraith-PCIFIC-Lavked",
+        "team_1": {
+          "name": "PCIFIC",
+          "coeff": 2.124,
+          "active": true,
+          "team_id": 6255,
+          "max_coeff": 2.137,
+          "aggrement_score": 0.56
+        },
+        "team_2": {
+          "name": "Lavked",
+          "coeff": 1.607,
+          "active": true,
+          "team_id": 23078,
+          "max_coeff": 1.881,
+          "aggrement_score": 0.44
+        },
+        "markets_count": 14,
+        "bet_provider_id": 39,
+        "additional_markets": [
+          {
+            "coeff": 2.03,
+            "active": true,
+            "team_id": null,
+            "bet_type": "total_maps_over_2_5",
+            "max_coeff": 2.03,
+            "aggrement_score": 0.47
+          },
+          {
+            "coeff": 1.78,
+            "active": true,
+            "team_id": null,
+            "bet_type": "total_maps_under_2_5",
+            "max_coeff": 1.78,
+            "aggrement_score": 0.53
+          },
+          {
+            "coeff": 4.01,
+            "active": true,
+            "team_id": 6255,
+            "bet_type": "team_1_handicap_under_1_5",
+            "max_coeff": 4.03,
+            "aggrement_score": 0.46
+          },
+          {
+            "coeff": 1.4,
+            "active": true,
+            "team_id": 6255,
+            "bet_type": "team_1_handicap_over_1_5",
+            "max_coeff": 1.41,
+            "aggrement_score": 0.94
+          },
+          {
+            "coeff": 2.97,
+            "active": true,
+            "team_id": 23078,
+            "bet_type": "team_2_handicap_under_1_5",
+            "max_coeff": 3.55,
+            "aggrement_score": 0.06
+          },
+          {
+            "coeff": 1.25,
+            "active": true,
+            "team_id": 23078,
+            "bet_type": "team_2_handicap_over_1_5",
+            "max_coeff": 1.34,
+            "aggrement_score": 0.54
+          },
+          {
+            "coeff": 2.94,
+            "active": true,
+            "team_id": 23078,
+            "bet_type": "score_0_2",
+            "max_coeff": 3.54,
+            "aggrement_score": 0.06
+          },
+          {
+            "coeff": 3.5,
+            "active": true,
+            "team_id": 23078,
+            "bet_type": "score_1_2",
+            "max_coeff": 3.81,
+            "aggrement_score": 0.06
+          },
+          {
+            "coeff": 3.95,
+            "active": true,
+            "team_id": 6255,
+            "bet_type": "score_2_0",
+            "max_coeff": 4.0,
+            "aggrement_score": 0.46
+          },
+          {
+            "coeff": 4.25,
+            "active": true,
+            "team_id": 6255,
+            "bet_type": "score_2_1",
+            "max_coeff": 4.26,
+            "aggrement_score": 0.41
+          },
+          {
+            "coeff": 1.39,
+            "active": true,
+            "team_id": 6255,
+            "bet_type": "team_1_to_win_at_least_one_map",
+            "max_coeff": 1.4,
+            "aggrement_score": 0.94
+          },
+          {
+            "coeff": 2.95,
+            "active": true,
+            "team_id": 6255,
+            "bet_type": "team_1_to_not_win_at_least_one_map",
+            "max_coeff": 3.54,
+            "aggrement_score": 0.06
+          }
+        ]
+      },
+      "team1": {
+        "id": 6255,
+        "slug": "pcific-esport",
+        "name": "PCIFIC",
+        "image_url": "https://files.bo3.gg/uploads/team/6255/image/webp-c30fdfba36be313a421b8c418ef6305e.webp"
+      },
+      "team2": {
+        "id": 23078,
+        "slug": "lavked",
+        "name": "Lavked"
+      },
+      "tournament": {
+        "id": 6110,
+        "slug": "cct-europe-2026-series-10",
+        "name": "CCT Europe 2026 Series 10",
+        "status": "current",
+        "prize": 25000,
+        "tier_rank": 3,
+        "image_url": "https://files.bo3.gg/uploads/tournament/6110/image/webp-5188825d1ba151217a88685ade8c5448.webp"
+      },
+      "streams": [
+        {
+          "name": "CCT_CS2",
+          "preview_image_url": ""
+        },
+        {
+          "name": "betboom_cs_ru4",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_betboom_cs_ru4-600x336.jpg"
+        }
+      ],
+      "games": [
+        {
+          "id": 186806,
+          "map_name": "de_mirage",
+          "state": "done",
+          "winner_clan_score": 13,
+          "loser_clan_score": 10,
+          "winner_clan_name": "Lavked",
+          "loser_clan_name": "PCIFIC",
+          "number": 2,
+          "winner_team_clan": {
+            "clan_name": "Lavked",
+            "team_id": 23078
+          },
+          "loser_team_clan": {
+            "clan_name": "PCIFIC",
+            "team_id": 6255
+          }
+        },
+        {
+          "id": 186807,
+          "map_name": "de_anubis",
+          "state": "done",
+          "winner_clan_score": 13,
+          "loser_clan_score": 8,
+          "winner_clan_name": "Lavked",
+          "loser_clan_name": "PCIFIC",
+          "number": 1,
+          "winner_team_clan": {
+            "clan_name": "Lavked",
+            "team_id": 23078
+          },
+          "loser_team_clan": {
+            "clan_name": "PCIFIC",
+            "team_id": 6255
+          }
+        }
+      ],
+      "ai_predictions": {
+        "prediction_team1_score": 2,
+        "prediction_team2_score": 1,
+        "prediction_winner_team_id": 6255,
+        "prediction_scores_data": {
+          "neighbor_proximity_factor": 0.80455
+        }
+      }
+    },
+    {
+      "id": 131137,
+      "slug": "mellren-vs-gothic-06-10-2026",
+      "status": "finished",
+      "parsed_status": "waiting",
+      "winner_team_id": 23102,
+      "discipline_id": 1,
+      "start_date": "2026-10-06T17:15:00.000+00:00",
+      "end_date": "2026-10-06T19:57:03.000+00:00",
+      "team1_id": 23102,
+      "team2_id": 25275,
+      "team1_score": 2,
+      "team2_score": 1,
+      "bo_type": 3,
+      "live_coverage": false,
+      "stars": 0,
+      "bet_updates": {
+        "path": "https://refpa04636.pro/L?tag=d_4812392m_129584c_bo3_odds_ww&site=4812392&ad=129584&utm_source=bo3_odds_ww&utm_medium=fix&r=/en/line/Esports/2932737-CS-2-NODWIN-Clutch-Series-Closed-Qualifier/376890314-Gothic-Mellren",
+        "team_1": {
+          "name": "mellren",
+          "coeff": 1.86,
+          "active": true,
+          "team_id": 23102,
+          "max_coeff": 2.119,
+          "aggrement_score": 0.66
+        },
+        "team_2": {
+          "name": "Gothic",
+          "coeff": 1.74,
+          "active": true,
+          "team_id": 25275,
+          "max_coeff": 1.75,
+          "aggrement_score": 0.34
+        },
+        "markets_count": 6,
+        "bet_provider_id": 39,
+        "additional_markets": [
+          {
+            "coeff": 1.91,
+            "active": true,
+            "team_id": null,
+            "bet_type": "total_maps_over_2_5",
+            "max_coeff": 1.99,
+            "aggrement_score": 0.54
+          },
+          {
+            "coeff": 1.7,
+            "active": true,
+            "team_id": null,
+            "bet_type": "total_maps_under_2_5",
+            "max_coeff": 1.76,
+            "aggrement_score": 0.46
+          },
+          {
+            "coeff": 2.83,
+            "active": true,
+            "team_id": 25275,
+            "bet_type": "team_1_handicap_under_1_5",
+            "max_coeff": 2.96,
+            "aggrement_score": 0.06
+          },
+          {
+            "coeff": 1.28,
+            "active": true,
+            "team_id": 23102,
+            "bet_type": "team_2_handicap_over_1_5",
+            "max_coeff": 1.37,
+            "aggrement_score": 0.94
+          }
+        ]
+      },
+      "team1": {
+        "id": 23102,
+        "slug": "mellren",
+        "name": "mellren",
+        "image_url": "https://files.bo3.gg/uploads/team/23102/image/webp-72221ce6d54cf29875ea6401d24d8ed8.webp"
+      },
+      "team2": {
+        "id": 25275,
+        "slug": "gothic",
+        "name": "Gothic"
+      },
+      "tournament": {
+        "id": 6169,
+        "slug": "nodwin-clutch-series-13-play-in",
+        "name": "NODWIN Clutch Series 13 Play-In",
+        "status": "current",
+        "prize": 0,
+        "tier_rank": 4,
+        "image_url": "https://files.bo3.gg/uploads/tournament/6169/image/webp-626bc47062cf766c3ef81dddbd972723.webp"
+      },
+      "streams": [
+        {
+          "name": "Nodwin_CS2",
+          "preview_image_url": ""
+        },
+        {
+          "name": "ScoreSight"
+        },
+        {
+          "name": "ScoreSight",
+          "preview_image_url": ""
+        }
+      ],
+      "games": [
+        {
+          "id": 188318,
+          "map_name": "de_anubis",
+          "winner_clan_score": 13,
+          "loser_clan_score": 7,
+          "winner_clan_name": "Mellren",
+          "loser_clan_name": "Gothic",
+          "number": 3,
+          "winner_team_clan": {
+            "clan_name": "Mellren",
+            "team_id": 23102
+          },
+          "loser_team_clan": {
+            "clan_name": "Gothic",
+            "team_id": 25275
+          }
+        },
+        {
+          "id": 188319,
+          "map_name": "de_ancient",
+          "winner_clan_score": 13,
+          "loser_clan_score": 7,
+          "winner_clan_name": "Mellren",
+          "loser_clan_name": "Gothic",
+          "number": 2,
+          "winner_team_clan": {
+            "clan_name": "Mellren",
+            "team_id": 23102
+          },
+          "loser_team_clan": {
+            "clan_name": "Gothic",
+            "team_id": 25275
+          }
+        },
+        {
+          "id": 188320,
+          "map_name": "de_inferno",
+          "winner_clan_score": 13,
+          "loser_clan_score": 11,
+          "winner_clan_name": "Gothic",
+          "loser_clan_name": "Mellren",
+          "number": 1,
+          "winner_team_clan": {
+            "clan_name": "Gothic",
+            "team_id": 25275
+          },
+          "loser_team_clan": {
+            "clan_name": "Mellren",
+            "team_id": 23102
+          }
+        }
+      ],
+      "ai_predictions": {
+        "prediction_team1_score": 2,
+        "prediction_team2_score": 0,
+        "prediction_winner_team_id": 23102,
+        "prediction_scores_data": {
+          "neighbor_proximity_factor": 0.741547
+        }
+      }
+    },
+    {
+      "id": 130784,
+      "slug": "legacy-br-vs-m80-cs-go-06-10-2026",
+      "status": "finished",
+      "parsed_status": "done",
+      "winner_team_id": 7430,
+      "discipline_id": 1,
+      "start_date": "2026-10-06T17:00:00.000+00:00",
+      "end_date": "2026-10-06T19:40:43.000+00:00",
+      "team1_id": 8118,
+      "team2_id": 7430,
+      "team1_score": 1,
+      "team2_score": 2,
+      "bo_type": 3,
+      "live_coverage": true,
+      "live_coverage_source": 4,
+      "stars": 4,
+      "bet_updates": {
+        "path": "https://refpa04636.pro/L?tag=d_4812392m_129584c_bo3_odds_ww&site=4812392&ad=129584&utm_source=bo3_odds_ww&utm_medium=fix&r=/en/live/Esports/2652575-CS-2-ESL-Pro-League/759176033-Legacy-M80",
+        "team_1": {
+          "name": "Legacy",
+          "coeff": 15.0,
+          "active": true,
+          "team_id": 8118,
+          "max_coeff": 15.0,
+          "aggrement_score": 0.81
+        },
+        "team_2": {
+          "name": "M80",
+          "coeff": 1.01,
+          "active": false,
+          "team_id": 7430,
+          "max_coeff": 3.04,
+          "aggrement_score": 0.19
+        },
+        "markets_count": 0,
+        "bet_provider_id": 39,
+        "additional_markets": [
+          {
+            "coeff": 1.02,
+            "active": true,
+            "team_id": null,
+            "bet_type": "total_maps_over_2_5",
+            "max_coeff": 3.7,
+            "aggrement_score": 0.54
+          },
+          {
+            "coeff": 13.5,
+            "active": true,
+            "team_id": null,
+            "bet_type": "total_maps_under_2_5",
+            "max_coeff": 13.5,
+            "aggrement_score": 0.46
+          },
+          {
+            "coeff": 21.0,
+            "active": true,
+            "team_id": 8118,
+            "bet_type": "team_1_handicap_under_1_5",
+            "max_coeff": 21.0,
+            "aggrement_score": 0.4
+          },
+          {
+            "coeff": 1.02,
+            "active": true,
+            "team_id": 8118,
+            "bet_type": "team_1_handicap_over_1_5",
+            "max_coeff": 3.7,
+            "aggrement_score": 0.95
+          },
+          {
+            "coeff": 13.5,
+            "active": true,
+            "team_id": 7430,
+            "bet_type": "team_2_handicap_under_1_5",
+            "max_coeff": 13.5,
+            "aggrement_score": 0.05
+          },
+          {
+            "coeff": 1.001,
+            "active": true,
+            "team_id": 7430,
+            "bet_type": "team_2_handicap_over_1_5",
+            "max_coeff": 1.42,
+            "aggrement_score": 0.6
+          },
+          {
+            "coeff": 13.5,
+            "active": true,
+            "team_id": 7430,
+            "bet_type": "score_0_2",
+            "max_coeff": 13.5,
+            "aggrement_score": 0.05
+          },
+          {
+            "coeff": 2.168,
+            "active": true,
+            "team_id": 7430,
+            "bet_type": "score_1_2",
+            "max_coeff": 5.6,
+            "aggrement_score": 0.05
+          },
+          {
+            "coeff": 12.5,
+            "active": true,
+            "team_id": 8118,
+            "bet_type": "score_2_0",
+            "max_coeff": 12.5,
+            "aggrement_score": 0.4
+          },
+          {
+            "coeff": 1.69,
+            "active": true,
+            "team_id": 8118,
+            "bet_type": "score_2_1",
+            "max_coeff": 5.57,
+            "aggrement_score": 0.49
+          },
+          {
+            "coeff": 1.83,
+            "active": true,
+            "team_id": null,
+            "bet_type": "total_maps_even",
+            "max_coeff": 1.83,
+            "aggrement_score": 0.45
+          },
+          {
+            "coeff": 1.92,
+            "active": true,
+            "team_id": null,
+            "bet_type": "total_maps_odd",
+            "max_coeff": 1.94,
+            "aggrement_score": 0.55
+          },
+          {
+            "coeff": 1.616,
+            "active": true,
+            "team_id": 8118,
+            "bet_type": "team_1_to_win_at_least_one_map",
+            "max_coeff": 1.616,
+            "aggrement_score": 0.95
+          },
+          {
+            "coeff": 2.2,
+            "active": true,
+            "team_id": 8118,
+            "bet_type": "team_1_to_not_win_at_least_one_map",
+            "max_coeff": 4.07,
+            "aggrement_score": 0.05
+          }
+        ]
+      },
+      "team1": {
+        "id": 8118,
+        "slug": "legacy-br",
+        "name": "Legacy",
+        "image_url": "https://files.bo3.gg/uploads/team/8118/image/webp-e4a3b023443f1f3ba4ef588164e73111.webp"
+      },
+      "team2": {
+        "id": 7430,
+        "slug": "m80-cs-go",
+        "name": "M80",
+        "image_url": "https://files.bo3.gg/uploads/team/7430/image/webp-962834dcfa8bef22f2c4cbdbf777bfbf.webp"
+      },
+      "tournament": {
+        "id": 5110,
+        "slug": "esl-pro-league-season-24",
+        "name": "ESL Pro League Season 24",
+        "status": "current",
+        "prize": 1000000,
+        "tier_rank": 1,
+        "image_url": "https://files.bo3.gg/uploads/tournament/5110/image/webp-8e019c35557e43a47a0f2b1f6695d5cb.webp"
+      },
+      "streams": [
+        {
+          "name": "ESLCSb",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eslcsb-600x336.jpg"
+        },
+        {
+          "name": "CS2 Maincast 2",
+          "preview_image_url": "https://i.ytimg.com/vi/nt5bqrq7k4k/hqdefault_live.jpg"
+        },
+        {
+          "name": "eslcsb",
+          "preview_image_url": ""
+        },
+        {
+          "name": "gaules"
+        },
+        {
+          "name": "forg1",
+          "preview_image_url": "https://files.kick.com/images/channel/11505116/banner_image/default-banner-2.jpg"
+        },
+        {
+          "name": "Gaules",
+          "preview_image_url": "https://i.ytimg.com/vi/10H5aUPKS9U/hqdefault_live.jpg"
+        },
+        {
+          "name": "Team Spirit vs. 1WIN - ESL Pro League Season 24 - Group Stage",
+          "preview_image_url": "https://i.ytimg.com/vi/7cCU8tarIgk/hqdefault_live.jpg"
+        },
+        {
+          "name": "MADHOUSE TV",
+          "preview_image_url": "https://i.ytimg.com/vi/80unRiF-4k4/hqdefault_live.jpg"
+        },
+        {
+          "name": "madhousetv_",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_madhousetv_-600x336.jpg"
+        },
+        {
+          "name": "mch",
+          "preview_image_url": "https://i.ytimg.com/vi/vnXVlH5ew4Q/hqdefault_live.jpg"
+        },
+        {
+          "name": "Michel",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_michel-600x336.jpg"
+        },
+        {
+          "name": "cs2_maincast2",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_CS2_maincast2-600x336.jpg"
+        },
+        {
+          "name": "Michel",
+          "preview_image_url": ""
+        },
+        {
+          "name": "Locomas",
+          "preview_image_url": ""
+        },
+        {
+          "name": "cs2_paragon_ru2",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cs2_paragon_ru2-600x336.jpg"
+        },
+        {
+          "name": "watchfulTVb",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_watchfulTVb-600x336.jpg"
+        },
+        {
+          "name": "CroissantStrike2",
+          "preview_image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_croissantstrike2-600x336.jpg"
+        },
+        {
+          "name": "Polex",
+          "preview_image_url": "https://i.ytimg.com/vi/8u7T08T9sLk/hqdefault_live.jpg"
+        },
+        {
+          "name": "Polex"
+        },
+        {
+          "name": "Polex",
+          "preview_image_url": ""
+        }
+      ],
+      "games": [
+        {
+          "id": 187819,
+          "map_name": "de_dust2",
+          "state": "done",
+          "winner_clan_score": 13,
+          "loser_clan_score": 7,
+          "winner_clan_name": "M80",
+          "loser_clan_name": "Legacy",
+          "number": 3,
+          "winner_team_clan": {
+            "clan_name": "M80",
+            "team_id": 7430
+          },
+          "loser_team_clan": {
+            "clan_name": "Legacy",
+            "team_id": 8118
+          }
+        },
+        {
+          "id": 187820,
+          "map_name": "de_mirage",
+          "state": "done",
+          "winner_clan_score": 13,
+          "loser_clan_score": 9,
+          "winner_clan_name": "Legacy",
+          "loser_clan_name": "M80",
+          "number": 2,
+          "winner_team_clan": {
+            "clan_name": "Legacy",
+            "team_id": 8118
+          },
+          "loser_team_clan": {
+            "clan_name": "M80",
+            "team_id": 7430
+          }
+        },
+        {
+          "id": 187821,
+          "map_name": "de_cache",
+          "state": "done",
+          "winner_clan_score": 13,
+          "loser_clan_score": 4,
+          "winner_clan_name": "M80",
+          "loser_clan_name": "Legacy",
+          "number": 1,
+          "winner_team_clan": {
+            "clan_name": "M80",
+            "team_id": 7430
+          },
+          "loser_team_clan": {
+            "clan_name": "Legacy",
+            "team_id": 8118
+          }
+        }
+      ],
+      "ai_predictions": {
+        "prediction_team1_score": 2,
+        "prediction_team2_score": 0,
+        "prediction_winner_team_id": 8118,
+        "prediction_scores_data": {
+          "neighbor_proximity_factor": 0.654489
+        }
+      }
+    }
+  ]
+}
