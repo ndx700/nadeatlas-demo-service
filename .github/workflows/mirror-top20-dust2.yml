@@ -1,0 +1,37 @@
+name: Mirror verified Top20 Dust2 demos
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - test/hltv-playwright-download
+    paths:
+      - "scripts/mirror_top20_dust2.py"
+      - ".github/workflows/mirror-top20-dust2.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      GH_TOKEN: ${{ github.token }}
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: test/hltv-playwright-download
+
+      - name: Mirror all currently verified Top20 Dust2 demos
+        run: python3 scripts/mirror_top20_dust2.py
+
+      - name: Commit mirror manifest
+        run: |
+          git config user.name nadeatlas-demo-bot
+          git config user.email actions@users.noreply.github.com
+          git add data/top20-dust2-mirrored.json
+          git commit -m "Mirror verified Top20 Dust2 demos" || exit 0
+          git pull --rebase -X theirs origin test/hltv-playwright-download || true
+          git push origin HEAD:test/hltv-playwright-download
