@@ -29,7 +29,6 @@ jobs:
     env:
       DEMO_URL: ${{ inputs.demo_url }}
       EXTRACT_DEMO: ${{ inputs.extract }}
-      OUTPUT_DIR: ${{ runner.temp }}/hltv-${{ github.run_id }}-${{ github.run_attempt }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -37,6 +36,14 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Initialize per-run output directory
+        shell: python
+        run: |
+          import os, pathlib
+          output = pathlib.Path(os.environ['RUNNER_TEMP']) / ('hltv-' + os.environ['GITHUB_RUN_ID'] + '-' + os.environ['GITHUB_RUN_ATTEMPT'])
+          output.mkdir(parents=True, exist_ok=True)
+          with open(os.environ['GITHUB_ENV'], 'a', encoding='utf-8') as stream:
+              stream.write('OUTPUT_DIR=' + str(output) + '\n')
       - name: Check prerequisites and install isolated browser environment
         shell: python
         run: |
@@ -68,7 +75,7 @@ jobs:
         run: |
           import os, pathlib, shutil, subprocess
           output = pathlib.Path(os.environ['OUTPUT_DIR'])
-          tool = next(shutil.which(name) for name in ('7zz', '7z', '7za') if shutil.which(name))
+          tool = next(shutil.which(name) for name in ('7zz', '7z') if shutil.which(name))
           subprocess.run([tool, 't', str(output / 'demo.rar')], check=True)
           if os.environ['EXTRACT_DEMO'].lower() == 'true':
               subprocess.run([tool, 'x', str(output / 'demo.rar'), '-o' + str(output / 'extracted'), '-y'], check=True)
