@@ -1,16 +1,16 @@
 {
   "state": "ok",
   "message": "multi-source sync completed",
-  "updatedAt": "2026-10-07T19:28:17.718688Z",
+  "updatedAt": "2026-10-07T19:32:43.916954Z",
   "sources": {
     "public_pro_demo": {
       "state": "ok",
       "events": 23,
       "mapsListed": 1482,
-      "looked": 0,
+      "looked": 400,
       "added": 0,
       "addedDust2": 0,
-      "remaining": 0
+      "remaining": 984
     },
     "better_cs": {
       "state": "paused",
@@ -30,5 +30,9 @@
     "de_nuke": 11
   },
   "logos": 67,
-  "errors": []
+  "errors": [
+    "rlin hltv-2398088-m3: demo URL is not labelled dust2",
+    "rlin hltv-2394872-m1: demo URL is not labelled mirage",
+    "rlin hltv-2394867-m1: demo URL is not labelled mirage"
+  ]
 }
