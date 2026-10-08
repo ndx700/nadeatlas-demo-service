@@ -1,0 +1,29 @@
+name: HD team logos
+on:
+  workflow_dispatch:
+    inputs:
+      all:
+        description: Fetch every crest again
+        type: boolean
+        default: false
+  schedule:
+    - cron: '17 */6 * * *'
+permissions:
+  contents: write
+concurrency: hd-logos
+jobs:
+  logos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get install -y libcairo2 >/dev/null && pip install pillow cairosvg >/dev/null
+      - run: python3 scripts/hd_logos.py ${{ inputs.all && '--all' || '' }}
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add logos-hd
+          git diff --cached --quiet && exit 0
+          git commit -qm "logos-hd: high-resolution team crests"
+          for i in 1 2 3 4 5; do git pull -q --rebase origin main && git push -q origin HEAD:main && exit 0; sleep $((i*5)); done
+          exit 1
