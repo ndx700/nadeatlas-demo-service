@@ -5,19 +5,20 @@
  "rankHltv": null,
  "rankVrs": null,
  "players": [],
- "events": [],
+ "events": [
+  9428
+ ],
  "recent": [
   {
    "matchId": 2399373,
    "date": "2026-10-08",
-   "opponent": 12510,
+   "opponent": 13667,
    "bo": 3,
    "score": [
-    1,
-    0
+    0,
+    1
    ],
-   "eventId": 9428,
-   "_side": 2
+   "eventId": 9428
   }
  ],
  "mapStats": {

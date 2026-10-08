@@ -37,7 +37,10 @@
    "country": "AR"
   }
  ],
- "events": [],
+ "events": [
+  8057,
+  8266
+ ],
  "recent": [
   {
    "matchId": 2398106,
@@ -48,32 +51,29 @@
     0,
     2
    ],
-   "eventId": 8057,
-   "_side": 1
+   "eventId": 8057
   },
   {
    "matchId": 2398091,
    "date": "2026-09-18",
-   "opponent": 9215,
+   "opponent": 8297,
    "bo": 3,
    "score": [
-    2,
-    1
+    1,
+    2
    ],
-   "eventId": 8057,
-   "_side": 2
+   "eventId": 8057
   },
   {
    "matchId": 2397622,
    "date": "2026-09-12",
-   "opponent": 9215,
+   "opponent": 12468,
    "bo": 3,
    "score": [
-    2,
-    1
+    1,
+    2
    ],
-   "eventId": 8266,
-   "_side": 2
+   "eventId": 8266
   }
  ],
  "mapStats": {

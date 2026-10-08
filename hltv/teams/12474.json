@@ -37,19 +37,20 @@
    "country": "SE"
   }
  ],
- "events": [],
+ "events": [
+  8266
+ ],
  "recent": [
   {
    "matchId": 2397608,
    "date": "2026-09-09",
-   "opponent": 12474,
+   "opponent": 12468,
    "bo": 3,
    "score": [
-    2,
-    0
+    0,
+    2
    ],
-   "eventId": 8266,
-   "_side": 2
+   "eventId": 8266
   }
  ],
  "mapStats": {

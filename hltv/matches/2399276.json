@@ -1,0 +1,1042 @@
+{
+ "id": 2399276,
+ "eventId": 9441,
+ "stage": null,
+ "time": "2026-10-08T22:00:00+08:00",
+ "bo": 3,
+ "status": "finished",
+ "team1": {
+  "id": 11018,
+  "score": 0,
+  "players": [
+   8555,
+   13665,
+   14316,
+   20773,
+   7700,
+   17769
+  ]
+ },
+ "team2": {
+  "id": 12960,
+  "score": 2,
+  "players": [
+   25500,
+   22806,
+   15732,
+   25540,
+   25109
+  ]
+ },
+ "maps": [
+  {
+   "map": "de_mirage",
+   "pick": 11018,
+   "score": [
+    3,
+    13
+   ],
+   "halves": [
+    [
+     3,
+     9
+    ],
+    [
+     0,
+     4
+    ]
+   ]
+  },
+  {
+   "map": "de_anubis",
+   "pick": 12960,
+   "score": [
+    6,
+    13
+   ],
+   "halves": [
+    [
+     4,
+     8
+    ],
+    [
+     2,
+     5
+    ]
+   ]
+  },
+  {
+   "map": "de_dust2",
+   "pick": null,
+   "score": [
+    null,
+    null
+   ],
+   "halves": null
+  }
+ ],
+ "stats": {
+  "all": {
+   "both": [
+    {
+     "player": 8555,
+     "nick": "Aleksandar 'jayzaR' ZarkovicjayzaR",
+     "kills": 25,
+     "deaths": 30,
+     "swing": 2.18,
+     "adr": 86.4,
+     "kast": 68.6,
+     "rating": 1.32
+    },
+    {
+     "player": 13665,
+     "nick": "Armin 'Siz' SukuricaSiz",
+     "kills": 22,
+     "deaths": 31,
+     "swing": -0.58,
+     "adr": 80.4,
+     "kast": 51.4,
+     "rating": 0.99
+    },
+    {
+     "player": 14316,
+     "nick": "Hugo 'zen' Lindhqvistzen",
+     "kills": 24,
+     "deaths": 24,
+     "swing": -4.76,
+     "adr": 75.9,
+     "kast": 68.6,
+     "rating": 0.91
+    },
+    {
+     "player": 20773,
+     "nick": "Jimmy 'Ariant0' HusseiniAriant0",
+     "kills": 8,
+     "deaths": 16,
+     "swing": -5.58,
+     "adr": 51.9,
+     "kast": 62.5,
+     "rating": 0.64
+    },
+    {
+     "player": 7700,
+     "nick": "Robin 'robiin' Sjögrenrobiin",
+     "kills": 7,
+     "deaths": 16,
+     "swing": -5.51,
+     "adr": 46.5,
+     "kast": 52.6,
+     "rating": 0.59
+    },
+    {
+     "player": 17769,
+     "nick": "Elias 'Twinkey' Kjellander-DehmanTwinkey",
+     "kills": 12,
+     "deaths": 32,
+     "swing": -6.53,
+     "adr": 36.0,
+     "kast": 54.3,
+     "rating": 0.44
+    },
+    {
+     "player": 25500,
+     "nick": "Eyüphan 'xEternaLxx' BükenxEternaLxx",
+     "kills": 35,
+     "deaths": 26,
+     "swing": 5.26,
+     "adr": 106.4,
+     "kast": 77.1,
+     "rating": 1.52
+    },
+    {
+     "player": 22806,
+     "nick": "Ali 'Quality' Furkan AvcıQuality",
+     "kills": 36,
+     "deaths": 18,
+     "swing": 0.16,
+     "adr": 106.6,
+     "kast": 80.0,
+     "rating": 1.39
+    },
+    {
+     "player": 15732,
+     "nick": "Can 'Cizzx' ParsCizzx",
+     "kills": 24,
+     "deaths": 16,
+     "swing": 4.51,
+     "adr": 69.4,
+     "kast": 85.7,
+     "rating": 1.35
+    },
+    {
+     "player": 25540,
+     "nick": "Semih 'zemix' Baykarazemix",
+     "kills": 30,
+     "deaths": 21,
+     "swing": 2.51,
+     "adr": 87.1,
+     "kast": 85.7,
+     "rating": 1.33
+    },
+    {
+     "player": 25109,
+     "nick": "Ubeyde 'zer0UKY' Yalçınzer0UKY",
+     "kills": 24,
+     "deaths": 17,
+     "swing": 2.79,
+     "adr": 68.0,
+     "kast": 82.9,
+     "rating": 1.18
+    }
+   ],
+   "t": [
+    {
+     "player": 13665,
+     "nick": "Armin 'Siz' SukuricaSiz",
+     "kills": 14,
+     "deaths": 17,
+     "swing": 2.59,
+     "adr": 86.8,
+     "kast": 52.6,
+     "rating": 1.25
+    },
+    {
+     "player": 14316,
+     "nick": "Hugo 'zen' Lindhqvistzen",
+     "kills": 15,
+     "deaths": 13,
+     "swing": -1.12,
+     "adr": 84.1,
+     "kast": 63.2,
+     "rating": 1.13
+    },
+    {
+     "player": 8555,
+     "nick": "Aleksandar 'jayzaR' ZarkovicjayzaR",
+     "kills": 10,
+     "deaths": 17,
+     "swing": -2.75,
+     "adr": 68.1,
+     "kast": 63.2,
+     "rating": 0.85
+    },
+    {
+     "player": 20773,
+     "nick": "Jimmy 'Ariant0' HusseiniAriant0",
+     "kills": 5,
+     "deaths": 12,
+     "swing": -5.48,
+     "adr": 45.7,
+     "kast": 50.0,
+     "rating": 0.54
+    },
+    {
+     "player": 17769,
+     "nick": "Elias 'Twinkey' Kjellander-DehmanTwinkey",
+     "kills": 7,
+     "deaths": 18,
+     "swing": -6.0,
+     "adr": 39.1,
+     "kast": 52.6,
+     "rating": 0.5
+    },
+    {
+     "player": 7700,
+     "nick": "Robin 'robiin' Sjögrenrobiin",
+     "kills": 0,
+     "deaths": 6,
+     "swing": -12.07,
+     "adr": 15.0,
+     "kast": 28.6,
+     "rating": 0.21
+    },
+    {
+     "player": 25500,
+     "nick": "Eyüphan 'xEternaLxx' BükenxEternaLxx",
+     "kills": 17,
+     "deaths": 12,
+     "swing": 7.09,
+     "adr": 107.3,
+     "kast": 81.2,
+     "rating": 1.73
+    },
+    {
+     "player": 22806,
+     "nick": "Ali 'Quality' Furkan AvcıQuality",
+     "kills": 16,
+     "deaths": 9,
+     "swing": 5.54,
+     "adr": 110.4,
+     "kast": 75.0,
+     "rating": 1.58
+    },
+    {
+     "player": 25540,
+     "nick": "Semih 'zemix' Baykarazemix",
+     "kills": 14,
+     "deaths": 10,
+     "swing": 2.71,
+     "adr": 80.4,
+     "kast": 87.5,
+     "rating": 1.36
+    },
+    {
+     "player": 25109,
+     "nick": "Ubeyde 'zer0UKY' Yalçınzer0UKY",
+     "kills": 10,
+     "deaths": 8,
+     "swing": 2.47,
+     "adr": 65.8,
+     "kast": 87.5,
+     "rating": 1.19
+    },
+    {
+     "player": 15732,
+     "nick": "Can 'Cizzx' ParsCizzx",
+     "kills": 9,
+     "deaths": 8,
+     "swing": -2.54,
+     "adr": 62.2,
+     "kast": 81.2,
+     "rating": 0.97
+    }
+   ],
+   "ct": [
+    {
+     "player": 8555,
+     "nick": "Aleksandar 'jayzaR' ZarkovicjayzaR",
+     "kills": 15,
+     "deaths": 13,
+     "swing": 8.04,
+     "adr": 108.2,
+     "kast": 75.0,
+     "rating": 1.89
+    },
+    {
+     "player": 20773,
+     "nick": "Jimmy 'Ariant0' HusseiniAriant0",
+     "kills": 3,
+     "deaths": 4,
+     "swing": -5.85,
+     "adr": 70.8,
+     "kast": 100.0,
+     "rating": 0.91
+    },
+    {
+     "player": 7700,
+     "nick": "Robin 'robiin' Sjögrenrobiin",
+     "kills": 7,
+     "deaths": 10,
+     "swing": -1.68,
+     "adr": 64.8,
+     "kast": 66.7,
+     "rating": 0.81
+    },
+    {
+     "player": 13665,
+     "nick": "Armin 'Siz' SukuricaSiz",
+     "kills": 8,
+     "deaths": 14,
+     "swing": -4.35,
+     "adr": 72.9,
+     "kast": 50.0,
+     "rating": 0.68
+    },
+    {
+     "player": 14316,
+     "nick": "Hugo 'zen' Lindhqvistzen",
+     "kills": 9,
+     "deaths": 11,
+     "swing": -9.08,
+     "adr": 66.2,
+     "kast": 75.0,
+     "rating": 0.65
+    },
+    {
+     "player": 17769,
+     "nick": "Elias 'Twinkey' Kjellander-DehmanTwinkey",
+     "kills": 5,
+     "deaths": 14,
+     "swing": -7.16,
+     "adr": 32.3,
+     "kast": 56.2,
+     "rating": 0.38
+    },
+    {
+     "player": 15732,
+     "nick": "Can 'Cizzx' ParsCizzx",
+     "kills": 15,
+     "deaths": 8,
+     "swing": 10.44,
+     "adr": 75.4,
+     "kast": 89.5,
+     "rating": 1.67
+    },
+    {
+     "player": 25500,
+     "nick": "Eyüphan 'xEternaLxx' BükenxEternaLxx",
+     "kills": 18,
+     "deaths": 14,
+     "swing": 3.72,
+     "adr": 105.6,
+     "kast": 73.7,
+     "rating": 1.34
+    },
+    {
+     "player": 25540,
+     "nick": "Semih 'zemix' Baykarazemix",
+     "kills": 16,
+     "deaths": 11,
+     "swing": 2.34,
+     "adr": 92.8,
+     "kast": 84.2,
+     "rating": 1.31
+    },
+    {
+     "player": 22806,
+     "nick": "Ali 'Quality' Furkan AvcıQuality",
+     "kills": 20,
+     "deaths": 9,
+     "swing": -4.37,
+     "adr": 103.4,
+     "kast": 84.2,
+     "rating": 1.22
+    },
+    {
+     "player": 25109,
+     "nick": "Ubeyde 'zer0UKY' Yalçınzer0UKY",
+     "kills": 14,
+     "deaths": 9,
+     "swing": 3.06,
+     "adr": 69.9,
+     "kast": 78.9,
+     "rating": 1.16
+    }
+   ]
+  },
+  "de_mirage": {
+   "both": [
+    {
+     "player": 13665,
+     "nick": "Armin 'Siz' SukuricaSiz",
+     "kills": 14,
+     "deaths": 15,
+     "swing": 2.3,
+     "adr": 92.0,
+     "kast": 62.5,
+     "rating": 1.34
+    },
+    {
+     "player": 8555,
+     "nick": "Aleksandar 'jayzaR' ZarkovicjayzaR",
+     "kills": 12,
+     "deaths": 15,
+     "swing": -2.74,
+     "adr": 95.8,
+     "kast": 75.0,
+     "rating": 1.14
+    },
+    {
+     "player": 14316,
+     "nick": "Hugo 'zen' Lindhqvistzen",
+     "kills": 8,
+     "deaths": 12,
+     "swing": -10.34,
+     "adr": 62.6,
+     "kast": 56.2,
+     "rating": 0.64
+    },
+    {
+     "player": 20773,
+     "nick": "Jimmy 'Ariant0' HusseiniAriant0",
+     "kills": 8,
+     "deaths": 16,
+     "swing": -5.58,
+     "adr": 51.9,
+     "kast": 62.5,
+     "rating": 0.64
+    },
+    {
+     "player": 17769,
+     "nick": "Elias 'Twinkey' Kjellander-DehmanTwinkey",
+     "kills": 5,
+     "deaths": 15,
+     "swing": -6.42,
+     "adr": 39.8,
+     "kast": 56.2,
+     "rating": 0.51
+    },
+    {
+     "player": 15732,
+     "nick": "Can 'Cizzx' ParsCizzx",
+     "kills": 15,
+     "deaths": 7,
+     "swing": 14.76,
+     "adr": 84.9,
+     "kast": 93.8,
+     "rating": 2.1
+    },
+    {
+     "player": 25500,
+     "nick": "Eyüphan 'xEternaLxx' BükenxEternaLxx",
+     "kills": 17,
+     "deaths": 14,
+     "swing": 7.09,
+     "adr": 111.8,
+     "kast": 75.0,
+     "rating": 1.61
+    },
+    {
+     "player": 25540,
+     "nick": "Semih 'zemix' Baykarazemix",
+     "kills": 15,
+     "deaths": 10,
+     "swing": 2.35,
+     "adr": 96.7,
+     "kast": 81.2,
+     "rating": 1.4
+    },
+    {
+     "player": 22806,
+     "nick": "Ali 'Quality' Furkan AvcıQuality",
+     "kills": 17,
+     "deaths": 10,
+     "swing": -3.09,
+     "adr": 106.6,
+     "kast": 75.0,
+     "rating": 1.35
+    },
+    {
+     "player": 25109,
+     "nick": "Ubeyde 'zer0UKY' Yalçınzer0UKY",
+     "kills": 9,
+     "deaths": 6,
+     "swing": 1.66,
+     "adr": 64.8,
+     "kast": 81.2,
+     "rating": 1.14
+    }
+   ],
+   "t": [
+    {
+     "player": 13665,
+     "nick": "Armin 'Siz' SukuricaSiz",
+     "kills": 10,
+     "deaths": 11,
+     "swing": 4.42,
+     "adr": 97.5,
+     "kast": 58.3,
+     "rating": 1.48
+    },
+    {
+     "player": 8555,
+     "nick": "Aleksandar 'jayzaR' ZarkovicjayzaR",
+     "kills": 8,
+     "deaths": 11,
+     "swing": -2.73,
+     "adr": 83.4,
+     "kast": 66.7,
+     "rating": 0.95
+    },
+    {
+     "player": 14316,
+     "nick": "Hugo 'zen' Lindhqvistzen",
+     "kills": 7,
+     "deaths": 8,
+     "swing": -7.39,
+     "adr": 65.0,
+     "kast": 58.3,
+     "rating": 0.76
+    },
+    {
+     "player": 17769,
+     "nick": "Elias 'Twinkey' Kjellander-DehmanTwinkey",
+     "kills": 5,
+     "deaths": 11,
+     "swing": -4.09,
+     "adr": 41.9,
+     "kast": 58.3,
+     "rating": 0.62
+    },
+    {
+     "player": 20773,
+     "nick": "Jimmy 'Ariant0' HusseiniAriant0",
+     "kills": 5,
+     "deaths": 12,
+     "swing": -5.48,
+     "adr": 45.7,
+     "kast": 50.0,
+     "rating": 0.54
+    },
+    {
+     "player": 25540,
+     "nick": "Semih 'zemix' Baykarazemix",
+     "kills": 5,
+     "deaths": 2,
+     "swing": 11.15,
+     "adr": 107.0,
+     "kast": 100.0,
+     "rating": 2.23
+    },
+    {
+     "player": 15732,
+     "nick": "Can 'Cizzx' ParsCizzx",
+     "kills": 3,
+     "deaths": 2,
+     "swing": 10.62,
+     "adr": 91.2,
+     "kast": 100.0,
+     "rating": 1.89
+    },
+    {
+     "player": 22806,
+     "nick": "Ali 'Quality' Furkan AvcıQuality",
+     "kills": 5,
+     "deaths": 3,
+     "swing": 8.14,
+     "adr": 117.8,
+     "kast": 50.0,
+     "rating": 1.87
+    },
+    {
+     "player": 25109,
+     "nick": "Ubeyde 'zer0UKY' Yalçınzer0UKY",
+     "kills": 3,
+     "deaths": 1,
+     "swing": 7.57,
+     "adr": 92.2,
+     "kast": 100.0,
+     "rating": 1.82
+    },
+    {
+     "player": 25500,
+     "nick": "Eyüphan 'xEternaLxx' BükenxEternaLxx",
+     "kills": 4,
+     "deaths": 4,
+     "swing": 7.8,
+     "adr": 88.8,
+     "kast": 100.0,
+     "rating": 1.63
+    }
+   ],
+   "ct": [
+    {
+     "player": 8555,
+     "nick": "Aleksandar 'jayzaR' ZarkovicjayzaR",
+     "kills": 4,
+     "deaths": 4,
+     "swing": -2.76,
+     "adr": 133.0,
+     "kast": 100.0,
+     "rating": 1.69
+    },
+    {
+     "player": 13665,
+     "nick": "Armin 'Siz' SukuricaSiz",
+     "kills": 4,
+     "deaths": 4,
+     "swing": -4.07,
+     "adr": 75.5,
+     "kast": 75.0,
+     "rating": 0.92
+    },
+    {
+     "player": 20773,
+     "nick": "Jimmy 'Ariant0' HusseiniAriant0",
+     "kills": 3,
+     "deaths": 4,
+     "swing": -5.85,
+     "adr": 70.8,
+     "kast": 100.0,
+     "rating": 0.91
+    },
+    {
+     "player": 14316,
+     "nick": "Hugo 'zen' Lindhqvistzen",
+     "kills": 1,
+     "deaths": 4,
+     "swing": -19.2,
+     "adr": 55.5,
+     "kast": 50.0,
+     "rating": 0.28
+    },
+    {
+     "player": 17769,
+     "nick": "Elias 'Twinkey' Kjellander-DehmanTwinkey",
+     "kills": 0,
+     "deaths": 4,
+     "swing": -13.4,
+     "adr": 33.2,
+     "kast": 50.0,
+     "rating": 0.16
+    },
+    {
+     "player": 15732,
+     "nick": "Can 'Cizzx' ParsCizzx",
+     "kills": 12,
+     "deaths": 5,
+     "swing": 16.14,
+     "adr": 82.8,
+     "kast": 91.7,
+     "rating": 2.16
+    },
+    {
+     "player": 25500,
+     "nick": "Eyüphan 'xEternaLxx' BükenxEternaLxx",
+     "kills": 13,
+     "deaths": 10,
+     "swing": 6.86,
+     "adr": 119.5,
+     "kast": 66.7,
+     "rating": 1.61
+    },
+    {
+     "player": 22806,
+     "nick": "Ali 'Quality' Furkan AvcıQuality",
+     "kills": 12,
+     "deaths": 7,
+     "swing": -6.83,
+     "adr": 102.9,
+     "kast": 83.3,
+     "rating": 1.18
+    },
+    {
+     "player": 25540,
+     "nick": "Semih 'zemix' Baykarazemix",
+     "kills": 10,
+     "deaths": 8,
+     "swing": -0.59,
+     "adr": 93.2,
+     "kast": 75.0,
+     "rating": 1.12
+    },
+    {
+     "player": 25109,
+     "nick": "Ubeyde 'zer0UKY' Yalçınzer0UKY",
+     "kills": 6,
+     "deaths": 5,
+     "swing": -0.31,
+     "adr": 55.7,
+     "kast": 75.0,
+     "rating": 0.91
+    }
+   ]
+  },
+  "de_anubis": {
+   "both": [
+    {
+     "player": 8555,
+     "nick": "Aleksandar 'jayzaR' ZarkovicjayzaR",
+     "kills": 13,
+     "deaths": 15,
+     "swing": 6.33,
+     "adr": 78.5,
+     "kast": 63.2,
+     "rating": 1.53
+    },
+    {
+     "player": 14316,
+     "nick": "Hugo 'zen' Lindhqvistzen",
+     "kills": 16,
+     "deaths": 12,
+     "swing": -0.06,
+     "adr": 87.1,
+     "kast": 78.9,
+     "rating": 1.26
+    },
+    {
+     "player": 13665,
+     "nick": "Armin 'Siz' SukuricaSiz",
+     "kills": 8,
+     "deaths": 16,
+     "swing": -3.01,
+     "adr": 70.7,
+     "kast": 42.1,
+     "rating": 0.72
+    },
+    {
+     "player": 7700,
+     "nick": "Robin 'robiin' Sjögrenrobiin",
+     "kills": 7,
+     "deaths": 16,
+     "swing": -5.51,
+     "adr": 46.5,
+     "kast": 52.6,
+     "rating": 0.59
+    },
+    {
+     "player": 17769,
+     "nick": "Elias 'Twinkey' Kjellander-DehmanTwinkey",
+     "kills": 7,
+     "deaths": 17,
+     "swing": -6.62,
+     "adr": 32.8,
+     "kast": 52.6,
+     "rating": 0.41
+    },
+    {
+     "player": 25500,
+     "nick": "Eyüphan 'xEternaLxx' BükenxEternaLxx",
+     "kills": 18,
+     "deaths": 12,
+     "swing": 3.72,
+     "adr": 101.8,
+     "kast": 78.9,
+     "rating": 1.47
+    },
+    {
+     "player": 22806,
+     "nick": "Ali 'Quality' Furkan AvcıQuality",
+     "kills": 19,
+     "deaths": 8,
+     "swing": 2.89,
+     "adr": 106.5,
+     "kast": 84.2,
+     "rating": 1.43
+    },
+    {
+     "player": 25540,
+     "nick": "Semih 'zemix' Baykarazemix",
+     "kills": 15,
+     "deaths": 11,
+     "swing": 2.65,
+     "adr": 79.1,
+     "kast": 89.5,
+     "rating": 1.31
+    },
+    {
+     "player": 25109,
+     "nick": "Ubeyde 'zer0UKY' Yalçınzer0UKY",
+     "kills": 15,
+     "deaths": 11,
+     "swing": 3.74,
+     "adr": 70.7,
+     "kast": 84.2,
+     "rating": 1.25
+    },
+    {
+     "player": 15732,
+     "nick": "Can 'Cizzx' ParsCizzx",
+     "kills": 9,
+     "deaths": 9,
+     "swing": -4.13,
+     "adr": 56.3,
+     "kast": 78.9,
+     "rating": 0.82
+    }
+   ],
+   "t": [
+    {
+     "player": 14316,
+     "nick": "Hugo 'zen' Lindhqvistzen",
+     "kills": 8,
+     "deaths": 5,
+     "swing": 9.61,
+     "adr": 116.7,
+     "kast": 71.4,
+     "rating": 2.02
+    },
+    {
+     "player": 13665,
+     "nick": "Armin 'Siz' SukuricaSiz",
+     "kills": 4,
+     "deaths": 6,
+     "swing": -0.54,
+     "adr": 68.4,
+     "kast": 42.9,
+     "rating": 0.9
+    },
+    {
+     "player": 8555,
+     "nick": "Aleksandar 'jayzaR' ZarkovicjayzaR",
+     "kills": 2,
+     "deaths": 6,
+     "swing": -2.79,
+     "adr": 41.9,
+     "kast": 57.1,
+     "rating": 0.66
+    },
+    {
+     "player": 17769,
+     "nick": "Elias 'Twinkey' Kjellander-DehmanTwinkey",
+     "kills": 2,
+     "deaths": 7,
+     "swing": -9.26,
+     "adr": 34.3,
+     "kast": 42.9,
+     "rating": 0.29
+    },
+    {
+     "player": 7700,
+     "nick": "Robin 'robiin' Sjögrenrobiin",
+     "kills": 0,
+     "deaths": 6,
+     "swing": -12.07,
+     "adr": 15.0,
+     "kast": 28.6,
+     "rating": 0.21
+    },
+    {
+     "player": 25500,
+     "nick": "Eyüphan 'xEternaLxx' BükenxEternaLxx",
+     "kills": 13,
+     "deaths": 8,
+     "swing": 6.85,
+     "adr": 113.5,
+     "kast": 75.0,
+     "rating": 1.77
+    },
+    {
+     "player": 22806,
+     "nick": "Ali 'Quality' Furkan AvcıQuality",
+     "kills": 11,
+     "deaths": 6,
+     "swing": 4.67,
+     "adr": 107.9,
+     "kast": 83.3,
+     "rating": 1.49
+    },
+    {
+     "player": 25540,
+     "nick": "Semih 'zemix' Baykarazemix",
+     "kills": 9,
+     "deaths": 8,
+     "swing": -0.1,
+     "adr": 71.5,
+     "kast": 83.3,
+     "rating": 1.11
+    },
+    {
+     "player": 25109,
+     "nick": "Ubeyde 'zer0UKY' Yalçınzer0UKY",
+     "kills": 7,
+     "deaths": 7,
+     "swing": 0.77,
+     "adr": 57.0,
+     "kast": 83.3,
+     "rating": 1.01
+    },
+    {
+     "player": 15732,
+     "nick": "Can 'Cizzx' ParsCizzx",
+     "kills": 6,
+     "deaths": 6,
+     "swing": -6.93,
+     "adr": 52.6,
+     "kast": 75.0,
+     "rating": 0.77
+    }
+   ],
+   "ct": [
+    {
+     "player": 8555,
+     "nick": "Aleksandar 'jayzaR' ZarkovicjayzaR",
+     "kills": 11,
+     "deaths": 9,
+     "swing": 11.64,
+     "adr": 99.9,
+     "kast": 66.7,
+     "rating": 2.03
+    },
+    {
+     "player": 7700,
+     "nick": "Robin 'robiin' Sjögrenrobiin",
+     "kills": 7,
+     "deaths": 10,
+     "swing": -1.68,
+     "adr": 64.8,
+     "kast": 66.7,
+     "rating": 0.81
+    },
+    {
+     "player": 14316,
+     "nick": "Hugo 'zen' Lindhqvistzen",
+     "kills": 8,
+     "deaths": 7,
+     "swing": -5.7,
+     "adr": 69.8,
+     "kast": 83.3,
+     "rating": 0.81
+    },
+    {
+     "player": 13665,
+     "nick": "Armin 'Siz' SukuricaSiz",
+     "kills": 4,
+     "deaths": 10,
+     "swing": -4.44,
+     "adr": 72.0,
+     "kast": 41.7,
+     "rating": 0.62
+    },
+    {
+     "player": 17769,
+     "nick": "Elias 'Twinkey' Kjellander-DehmanTwinkey",
+     "kills": 5,
+     "deaths": 10,
+     "swing": -5.08,
+     "adr": 32.0,
+     "kast": 58.3,
+     "rating": 0.48
+    },
+    {
+     "player": 25540,
+     "nick": "Semih 'zemix' Baykarazemix",
+     "kills": 6,
+     "deaths": 3,
+     "swing": 7.35,
+     "adr": 92.1,
+     "kast": 100.0,
+     "rating": 1.66
+    },
+    {
+     "player": 25109,
+     "nick": "Ubeyde 'zer0UKY' Yalçınzer0UKY",
+     "kills": 8,
+     "deaths": 4,
+     "swing": 8.83,
+     "adr": 94.3,
+     "kast": 85.7,
+     "rating": 1.66
+    },
+    {
+     "player": 22806,
+     "nick": "Ali 'Quality' Furkan AvcıQuality",
+     "kills": 8,
+     "deaths": 2,
+     "swing": -0.15,
+     "adr": 104.1,
+     "kast": 85.7,
+     "rating": 1.32
+    },
+    {
+     "player": 25500,
+     "nick": "Eyüphan 'xEternaLxx' BükenxEternaLxx",
+     "kills": 5,
+     "deaths": 4,
+     "swing": -1.65,
+     "adr": 81.9,
+     "kast": 85.7,
+     "rating": 0.96
+    },
+    {
+     "player": 15732,
+     "nick": "Can 'Cizzx' ParsCizzx",
+     "kills": 3,
+     "deaths": 3,
+     "swing": 0.67,
+     "adr": 62.7,
+     "kast": 85.7,
+     "rating": 0.9
+    }
+   ]
+  }
+ },
+ "mvp": 25500,
+ "highlight": null,
+ "h2h": {
+  "team1Wins": 0,
+  "team2Wins": 0,
+  "overtimes": 0,
+  "maps": []
+ }
+}

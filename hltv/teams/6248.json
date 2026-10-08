@@ -3,7 +3,7 @@
  "name": "The MongolZ",
  "country": "MN",
  "rankHltv": 17,
- "rankVrs": 50,
+ "rankVrs": 51,
  "players": [
   {
    "id": 15072,
@@ -37,19 +37,20 @@
    "country": "MN"
   }
  ],
- "events": [],
+ "events": [
+  8261
+ ],
  "recent": [
   {
    "matchId": 2396604,
    "date": "2026-08-20",
-   "opponent": 6248,
+   "opponent": 11283,
    "bo": 3,
    "score": [
-    2,
-    0
+    0,
+    2
    ],
-   "eventId": 8261,
-   "_side": 2
+   "eventId": 8261
   }
  ],
  "mapStats": {

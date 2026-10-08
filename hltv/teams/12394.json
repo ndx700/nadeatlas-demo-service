@@ -37,31 +37,32 @@
    "country": "RU"
   }
  ],
- "events": [],
+ "events": [
+  8244,
+  8266
+ ],
  "recent": [
   {
    "matchId": 2398740,
    "date": "2026-10-06",
-   "opponent": 12394,
+   "opponent": 11861,
    "bo": 3,
    "score": [
-    2,
-    1
+    1,
+    2
    ],
-   "eventId": 8244,
-   "_side": 2
+   "eventId": 8244
   },
   {
    "matchId": 2398724,
    "date": "2026-10-04",
-   "opponent": 12394,
+   "opponent": 8297,
    "bo": 3,
    "score": [
-    2,
-    0
+    0,
+    2
    ],
-   "eventId": 8244,
-   "_side": 2
+   "eventId": 8244
   },
   {
    "matchId": 2397621,
@@ -72,8 +73,7 @@
     1,
     2
    ],
-   "eventId": 8266,
-   "_side": 1
+   "eventId": 8266
   }
  ],
  "mapStats": {

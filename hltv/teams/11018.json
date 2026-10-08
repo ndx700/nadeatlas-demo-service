@@ -1,30 +1,34 @@
 {
- "id": 13667,
- "name": "NEXVOID",
+ "id": 11018,
+ "name": "megoshort",
  "country": null,
  "rankHltv": null,
  "rankVrs": null,
  "players": [],
  "events": [
-  9428
+  9441
  ],
  "recent": [
   {
-   "matchId": 2399373,
+   "matchId": 2399276,
    "date": "2026-10-08",
-   "opponent": 12510,
+   "opponent": 12960,
    "bo": 3,
    "score": [
-    1,
-    0
+    0,
+    2
    ],
-   "eventId": 9428
+   "eventId": 9441
   }
  ],
  "mapStats": {
-  "de_ancient": {
+  "de_anubis": {
    "played": 1,
-   "winPct": 100
+   "winPct": 0
+  },
+  "de_mirage": {
+   "played": 1,
+   "winPct": 0
   }
  }
 }

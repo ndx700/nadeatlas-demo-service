@@ -37,7 +37,9 @@
    "country": "GB"
   }
  ],
- "events": [],
+ "events": [
+  8261
+ ],
  "recent": [
   {
    "matchId": 2396577,
@@ -48,8 +50,7 @@
     0,
     2
    ],
-   "eventId": 8261,
-   "_side": 1
+   "eventId": 8261
   }
  ],
  "mapStats": {

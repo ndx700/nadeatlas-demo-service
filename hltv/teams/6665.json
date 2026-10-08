@@ -37,31 +37,32 @@
    "country": "LT"
   }
  ],
- "events": [],
+ "events": [
+  8261,
+  8266
+ ],
  "recent": [
   {
    "matchId": 2397599,
    "date": "2026-09-08",
-   "opponent": 6665,
+   "opponent": 5995,
    "bo": 3,
    "score": [
-    1,
-    2
+    2,
+    1
    ],
-   "eventId": 8266,
-   "_side": 2
+   "eventId": 8266
   },
   {
    "matchId": 2396579,
    "date": "2026-08-14",
-   "opponent": 6665,
+   "opponent": 11283,
    "bo": 3,
    "score": [
-    2,
-    0
+    0,
+    2
    ],
-   "eventId": 8261,
-   "_side": 2
+   "eventId": 8261
   }
  ],
  "mapStats": {

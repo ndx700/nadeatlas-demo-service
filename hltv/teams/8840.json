@@ -3,7 +3,7 @@
  "name": "Lynn Vision",
  "country": "CN",
  "rankHltv": 36,
- "rankVrs": 68,
+ "rankVrs": 67,
  "players": [
   {
    "id": 16551,
@@ -37,31 +37,44 @@
    "country": "CN"
   }
  ],
- "events": [],
+ "events": [
+  8249,
+  8261,
+  9383
+ ],
  "recent": [
+  {
+   "matchId": 2399155,
+   "date": "2026-10-08",
+   "opponent": 12646,
+   "bo": 3,
+   "score": [
+    0,
+    1
+   ],
+   "eventId": 9383
+  },
   {
    "matchId": 2396937,
    "date": "2026-08-29",
-   "opponent": 8840,
+   "opponent": 13286,
    "bo": 3,
    "score": [
-    2,
-    1
+    1,
+    2
    ],
-   "eventId": 8249,
-   "_side": 2
+   "eventId": 8249
   },
   {
    "matchId": 2396930,
    "date": "2026-08-28",
-   "opponent": 8840,
+   "opponent": 11283,
    "bo": 3,
    "score": [
-    2,
-    1
+    1,
+    2
    ],
-   "eventId": 8249,
-   "_side": 2
+   "eventId": 8249
   },
   {
    "matchId": 2396570,
@@ -72,8 +85,7 @@
     0,
     1
    ],
-   "eventId": 8261,
-   "_side": 1
+   "eventId": 8261
   }
  ],
  "mapStats": {
@@ -86,10 +98,14 @@
    "winPct": 0
   },
   "de_dust2": {
-   "played": 3,
-   "winPct": 33
+   "played": 4,
+   "winPct": 25
   },
   "de_inferno": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_nuke": {
    "played": 1,
    "winPct": 0
   }

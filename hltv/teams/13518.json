@@ -5,7 +5,9 @@
  "rankHltv": null,
  "rankVrs": null,
  "players": [],
- "events": [],
+ "events": [
+  9420
+ ],
  "recent": [
   {
    "matchId": 2398403,
@@ -16,8 +18,7 @@
     0,
     0
    ],
-   "eventId": 9420,
-   "_side": 1
+   "eventId": 9420
   }
  ],
  "mapStats": {}

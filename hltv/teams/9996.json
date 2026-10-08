@@ -37,31 +37,33 @@
    "country": "CL"
   }
  ],
- "events": [],
+ "events": [
+  8244,
+  8249,
+  8266
+ ],
  "recent": [
   {
    "matchId": 2398747,
    "date": "2026-10-07",
-   "opponent": 9996,
+   "opponent": 8297,
    "bo": 3,
    "score": [
-    2,
-    0
+    0,
+    2
    ],
-   "eventId": 8244,
-   "_side": 2
+   "eventId": 8244
   },
   {
    "matchId": 2398721,
    "date": "2026-10-03",
-   "opponent": 9996,
+   "opponent": 11861,
    "bo": 3,
    "score": [
-    2,
-    0
+    0,
+    2
    ],
-   "eventId": 8244,
-   "_side": 2
+   "eventId": 8244
   },
   {
    "matchId": 2397611,
@@ -72,32 +74,29 @@
     1,
     2
    ],
-   "eventId": 8266,
-   "_side": 1
+   "eventId": 8266
   },
   {
    "matchId": 2396935,
    "date": "2026-08-29",
-   "opponent": 9996,
+   "opponent": 9565,
    "bo": 3,
    "score": [
-    2,
-    0
+    0,
+    2
    ],
-   "eventId": 8249,
-   "_side": 2
+   "eventId": 8249
   },
   {
    "matchId": 2396928,
    "date": "2026-08-27",
-   "opponent": 9996,
+   "opponent": 4494,
    "bo": 3,
    "score": [
-    2,
-    0
+    0,
+    2
    ],
-   "eventId": 8249,
-   "_side": 2
+   "eventId": 8249
   }
  ],
  "mapStats": {

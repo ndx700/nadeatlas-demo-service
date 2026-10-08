@@ -37,7 +37,9 @@
    "country": "UA"
   }
  ],
- "events": [],
+ "events": [
+  8249
+ ],
  "recent": [
   {
    "matchId": 2396942,
@@ -48,8 +50,7 @@
     0,
     2
    ],
-   "eventId": 8249,
-   "_side": 1
+   "eventId": 8249
   },
   {
    "matchId": 2396936,
@@ -60,20 +61,18 @@
     0,
     2
    ],
-   "eventId": 8249,
-   "_side": 1
+   "eventId": 8249
   },
   {
    "matchId": 2396927,
    "date": "2026-08-27",
-   "opponent": 13117,
+   "opponent": 9565,
    "bo": 3,
    "score": [
-    0,
-    2
+    2,
+    0
    ],
-   "eventId": 8249,
-   "_side": 2
+   "eventId": 8249
   }
  ],
  "mapStats": {

@@ -1,0 +1,71 @@
+{
+ "id": 2399362,
+ "eventId": 9374,
+ "stage": null,
+ "time": "2026-10-09T01:00:00+08:00",
+ "bo": 3,
+ "status": "upcoming",
+ "team1": {
+  "id": 13998,
+  "score": null,
+  "players": []
+ },
+ "team2": {
+  "id": 13759,
+  "score": null,
+  "players": []
+ },
+ "maps": [],
+ "stats": {
+  "all": {
+   "both": [],
+   "t": [],
+   "ct": []
+  }
+ },
+ "mvp": null,
+ "highlight": null,
+ "h2h": {
+  "team1Wins": 1,
+  "team2Wins": 2,
+  "overtimes": 1,
+  "maps": [
+   {
+    "date": "2026-09-12",
+    "matchId": 2398019,
+    "eventId": null,
+    "event": "European Pro League Series 9",
+    "map": "de_mirage",
+    "score": [
+     8,
+     13
+    ],
+    "winner": 13759
+   },
+   {
+    "date": "2026-09-12",
+    "matchId": 2398019,
+    "eventId": null,
+    "event": "European Pro League Series 9",
+    "map": "de_nuke",
+    "score": [
+     22,
+     20
+    ],
+    "winner": 13998
+   },
+   {
+    "date": "2026-09-12",
+    "matchId": 2398019,
+    "eventId": null,
+    "event": "European Pro League Series 9",
+    "map": "de_inferno",
+    "score": [
+     10,
+     13
+    ],
+    "winner": 13759
+   }
+  ]
+ }
+}

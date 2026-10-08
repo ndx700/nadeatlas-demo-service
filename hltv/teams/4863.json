@@ -37,31 +37,32 @@
    "country": "CN"
   }
  ],
- "events": [],
+ "events": [
+  8244,
+  8261
+ ],
  "recent": [
   {
    "matchId": 2398717,
    "date": "2026-10-03",
-   "opponent": 4863,
+   "opponent": 11283,
    "bo": 3,
    "score": [
-    2,
-    0
+    0,
+    2
    ],
-   "eventId": 8244,
-   "_side": 2
+   "eventId": 8244
   },
   {
    "matchId": 2396569,
    "date": "2026-08-12",
-   "opponent": 4863,
+   "opponent": 13286,
    "bo": 1,
    "score": [
-    1,
-    0
+    0,
+    1
    ],
-   "eventId": 8261,
-   "_side": 2
+   "eventId": 8261
   }
  ],
  "mapStats": {
