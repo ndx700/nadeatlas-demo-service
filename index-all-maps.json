@@ -7,8 +7,8 @@
     "map": "de_dust2",
     "url": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/dust2-pilot-2026-10/furia-furia-vs-aurora-esl-pro-league-season-24.rar",
     "matchId": "hltv-2398743-m1",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/FURIA-vs-Aurora-2026-10-06-Dust2-hltv-2398743-m1-r2.nar",
-    "replaySize": 2798348,
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/FURIA-vs-Aurora-2026-10-06-Dust2-hltv-2398743-m1-r3.nar",
+    "replaySize": 2895896,
     "source": "cloud"
   },
   {
@@ -19,8 +19,8 @@
     "map": "de_mirage",
     "url": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/dust2-pilot-2026-10/furia-furia-vs-aurora-esl-pro-league-season-24.rar",
     "matchId": "hltv-2398743-m2",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/FURIA-vs-Aurora-2026-10-06-Mirage-hltv-2398743-m2-r2.nar",
-    "replaySize": 2779899,
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/FURIA-vs-Aurora-2026-10-06-Mirage-hltv-2398743-m2-r3.nar",
+    "replaySize": 2858656,
     "source": "cloud"
   },
   {
@@ -31,8 +31,8 @@
     "map": "de_nuke",
     "url": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/dust2-pilot-2026-10/furia-furia-vs-aurora-esl-pro-league-season-24.rar",
     "matchId": "hltv-2398743-m3",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/FURIA-vs-Aurora-2026-10-06-Nuke-hltv-2398743-m3-r2.nar",
-    "replaySize": 2390544,
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/FURIA-vs-Aurora-2026-10-06-Nuke-hltv-2398743-m3-r3.nar",
+    "replaySize": 2470194,
     "source": "cloud"
   },
   {
@@ -473,8 +473,8 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398102-m2-vitality-vs-furia-m2-dust2.dem",
     "size": 304828588,
     "matchId": "hltv-2398102-m2",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Vitality-vs-FURIA-2026-09-18-Dust2-hltv-2398102-m2-r2.nar",
-    "replaySize": 2245178
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Vitality-vs-FURIA-2026-09-18-Dust2-hltv-2398102-m2-r3.nar",
+    "replaySize": 2321154
   },
   {
     "date": "2026-09-18",
@@ -487,8 +487,8 @@
     "size": 359705788,
     "matchId": "hltv-2398102-m1",
     "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2398102-m1-326c1867778994a6.msgpack.gz",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Vitality-vs-FURIA-2026-09-18-Mirage-hltv-2398102-m1-r2.nar",
-    "replaySize": 2496118
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Vitality-vs-FURIA-2026-09-18-Mirage-hltv-2398102-m1-r3.nar",
+    "replaySize": 2575704
   },
   {
     "date": "2026-09-18",
@@ -737,8 +737,8 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2397623-m3-legacy-vs-g2-m3-dust2.dem",
     "size": 405258338,
     "matchId": "hltv-2397623-m3",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Legacy-vs-G2-2026-09-13-Dust2-hltv-2397623-m3-r2.nar",
-    "replaySize": 2351507
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Legacy-vs-G2-2026-09-13-Dust2-hltv-2397623-m3-r3.nar",
+    "replaySize": 2444449
   },
   {
     "date": "2026-09-13",
@@ -862,8 +862,8 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2397619-m2-furia-vs-g2-m2-dust2.dem",
     "size": 304505435,
     "matchId": "hltv-2397619-m2",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/FURIA-vs-G2-2026-09-11-Dust2-hltv-2397619-m2-r2.nar",
-    "replaySize": 1997982
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/FURIA-vs-G2-2026-09-11-Dust2-hltv-2397619-m2-r3.nar",
+    "replaySize": 2066550
   },
   {
     "date": "2026-09-11",
@@ -917,8 +917,8 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2397611-m1-9z-vs-g2-m1-dust2.dem",
     "size": 415152180,
     "matchId": "hltv-2397611-m1",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/9z-vs-G2-2026-09-10-Dust2-hltv-2397611-m1-r2.nar",
-    "replaySize": 2923395
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/9z-vs-G2-2026-09-10-Dust2-hltv-2397611-m1-r3.nar",
+    "replaySize": 3037442
   },
   {
     "date": "2026-09-10",
@@ -1902,8 +1902,8 @@
     "map": "de_dust2",
     "url": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/dust2-pilot-2026-10/mouz-mouz-vs-parivision-esports-world-cup-2026.rar",
     "matchId": "hltv-2396595-m1",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/MOUZ-vs-PARIVISION-2026-08-16-Dust2-hltv-2396595-m1-r2.nar",
-    "replaySize": 2432045,
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/MOUZ-vs-PARIVISION-2026-08-16-Dust2-hltv-2396595-m1-r3.nar",
+    "replaySize": 2519002,
     "source": "cloud"
   },
   {
@@ -1914,8 +1914,8 @@
     "map": "de_inferno",
     "url": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/dust2-pilot-2026-10/mouz-mouz-vs-parivision-esports-world-cup-2026.rar",
     "matchId": "hltv-2396595-m2",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/MOUZ-vs-PARIVISION-2026-08-16-Inferno-hltv-2396595-m2-r2.nar",
-    "replaySize": 3458048,
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/MOUZ-vs-PARIVISION-2026-08-16-Inferno-hltv-2396595-m2-r3.nar",
+    "replaySize": 3560190,
     "source": "cloud"
   },
   {
@@ -2022,8 +2022,8 @@
     "map": "de_dust2",
     "url": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/dust2-pilot-2026-10/lynn-vision-lynn-vision-vs-mouz-esports-world-cup-2026.rar",
     "matchId": "hltv-2396570-m1",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Lynn-Vision-vs-MOUZ-2026-08-12-Dust2-hltv-2396570-m1-r2.nar",
-    "replaySize": 2548998,
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Lynn-Vision-vs-MOUZ-2026-08-12-Dust2-hltv-2396570-m1-r3.nar",
+    "replaySize": 2649561,
     "source": "cloud"
   },
   {
