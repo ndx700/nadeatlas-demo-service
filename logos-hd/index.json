@@ -13,11 +13,32 @@
   "page": "ENVY",
   "source": "hltv svg"
  },
+ "exrustec": {
+  "file": null,
+  "id": 13901,
+  "name": "ex-RUSTEC",
+  "page": null,
+  "source": "hltv svg"
+ },
+ "exzerotenacity": {
+  "file": null,
+  "id": 13573,
+  "name": "ex-Zero Tenacity",
+  "page": null,
+  "source": "hltv svg"
+ },
  "furia": {
   "file": "FURIA Esports full darkmode.png",
   "id": 8297,
   "name": "FURIA",
   "page": "FURIA",
+  "source": "hltv svg"
+ },
+ "lavked": {
+  "file": "|location=Russia",
+  "id": 12609,
+  "name": "Lavked",
+  "page": "Lavked",
   "source": "hltv svg"
  },
  "liquid": {
@@ -39,6 +60,20 @@
   "id": 4608,
   "name": "Natus Vincere",
   "page": "Natus Vincere",
+  "source": "hltv svg"
+ },
+ "navijunior": {
+  "file": "Natus Vincere Junior 2021 darkmode.png",
+  "id": 10371,
+  "name": "NAVI Junior",
+  "page": "Natus Vincere Junior",
+  "source": "hltv svg"
+ },
+ "theaudacity": {
+  "file": null,
+  "id": 14086,
+  "name": "The Audacity",
+  "page": null,
   "source": "hltv svg"
  },
  "tyloo": {
