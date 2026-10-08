@@ -6,105 +6,139 @@
  "status": "live",
  "location": "Europe (Online)",
  "prize": "Spots at Main Event",
+ "teams": [
+  9928,
+  4991,
+  11581,
+  13355,
+  12895,
+  10577,
+  11641,
+  13027,
+  13973,
+  13619,
+  12916,
+  14030,
+  13173,
+  13518,
+  11712,
+  13623
+ ],
+ "matches": [
+  2398975,
+  2398976,
+  2398977,
+  2398978,
+  2398979,
+  2398980,
+  2398981,
+  2398982,
+  2398983,
+  2398984,
+  2398985,
+  2398986,
+  2398987,
+  2398988
+ ],
  "playoffs": [
   {
    "round": "Round of 16",
    "matches": [
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "HOTU",
-     "team2": "STATE",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Acend",
-     "team2": "Sashi",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "fnatic",
-     "team2": "Phantom",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "K27",
-     "team2": "Metizport",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
+     "matchId": 2398975,
+     "time": "2026-10-07T09:00:00Z",
      "bo": 3,
-     "team1": "GamerLegion",
-     "team2": "BET-M",
+     "team1": 11581,
+     "team2": 13623,
      "score": [
-      null,
-      null
+      2,
+      1
      ],
-     "winner": null
+     "winner": 11581
     },
     {
-     "matchId": null,
-     "time": null,
+     "matchId": 2398976,
+     "time": "2026-10-07T11:40:00Z",
      "bo": 3,
-     "team1": "Nemesis",
-     "team2": "SINNERS",
+     "team1": 13518,
+     "team2": 11712,
      "score": [
-      null,
-      null
+      1,
+      0
      ],
-     "winner": null
+     "winner": 13518
     },
     {
-     "matchId": null,
-     "time": null,
+     "matchId": 2398977,
+     "time": "2026-10-07T15:00:00Z",
      "bo": 3,
-     "team1": "Betclic",
-     "team2": "PRIVATE",
+     "team1": 4991,
+     "team2": 13173,
      "score": [
-      null,
-      null
+      2,
+      1
      ],
-     "winner": null
+     "winner": 4991
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Nuclear TigeRES",
-     "team2": "Color",
+     "matchId": 2398978,
+     "time": "2026-10-07T17:45:00Z",
+     "bo": 3,
+     "team1": 12895,
+     "team2": 11641,
      "score": [
-      null,
-      null
+      2,
+      1
      ],
-     "winner": null
+     "winner": 12895
+    },
+    {
+     "matchId": 2398979,
+     "time": "2026-10-08T09:00:00Z",
+     "bo": 3,
+     "team1": 9928,
+     "team2": 13619,
+     "score": [
+      2,
+      0
+     ],
+     "winner": 9928
+    },
+    {
+     "matchId": 2398980,
+     "time": "2026-10-08T12:00:00Z",
+     "bo": 3,
+     "team1": 13355,
+     "team2": 10577,
+     "score": [
+      1,
+      2
+     ],
+     "winner": 10577
+    },
+    {
+     "matchId": 2398981,
+     "time": "2026-10-08T15:00:00Z",
+     "bo": 3,
+     "team1": 12916,
+     "team2": 14030,
+     "score": [
+      0,
+      2
+     ],
+     "winner": 14030
+    },
+    {
+     "matchId": 2398982,
+     "time": "2026-10-08T07:30:00Z",
+     "bo": 3,
+     "team1": 13027,
+     "team2": 13973,
+     "score": [
+      1,
+      0
+     ],
+     "winner": 13027
     }
    ]
   },
@@ -112,52 +146,52 @@
    "round": "Quarter-finals",
    "matches": [
     {
-     "matchId": null,
-     "time": null,
+     "matchId": 2398983,
+     "time": "2026-10-09T09:00:00Z",
      "bo": 3,
-     "team1": "HOTU",
-     "team2": "Acend",
+     "team1": 11581,
+     "team2": 13518,
      "score": [
       null,
       null
      ],
-     "winner": null
+     "winner": 0
     },
     {
-     "matchId": null,
-     "time": null,
+     "matchId": 2398985,
+     "time": "2026-10-09T15:00:00Z",
      "bo": 3,
-     "team1": "fnatic",
-     "team2": "K27",
+     "team1": 4991,
+     "team2": 12895,
      "score": [
       null,
       null
      ],
-     "winner": null
+     "winner": 0
     },
     {
-     "matchId": null,
-     "time": null,
+     "matchId": 2398984,
+     "time": "2026-10-09T12:00:00Z",
      "bo": 3,
-     "team1": "TBD",
-     "team2": "TBD",
+     "team1": 9928,
+     "team2": 10577,
      "score": [
       null,
       null
      ],
-     "winner": null
+     "winner": 0
     },
     {
-     "matchId": null,
-     "time": null,
+     "matchId": 2398986,
+     "time": "2026-10-09T18:00:00Z",
      "bo": 3,
-     "team1": "TBD",
-     "team2": "Nuclear TigeRES",
+     "team1": 14030,
+     "team2": 13027,
      "score": [
       null,
       null
      ],
-     "winner": null
+     "winner": 0
     }
    ]
   },
@@ -165,53 +199,33 @@
    "round": "Semi-finals",
    "matches": [
     {
-     "matchId": null,
-     "time": null,
+     "matchId": 2398987,
+     "time": "2026-10-10T10:00:00Z",
      "bo": 3,
-     "team1": "TBD",
-     "team2": "TBD",
+     "team1": 0,
+     "team2": 0,
      "score": [
       null,
       null
      ],
-     "winner": null
+     "winner": 0
     },
     {
-     "matchId": null,
-     "time": null,
+     "matchId": 2398988,
+     "time": "2026-10-10T13:00:00Z",
      "bo": 3,
-     "team1": "TBD",
-     "team2": "TBD",
+     "team1": 0,
+     "team2": 0,
      "score": [
       null,
       null
      ],
-     "winner": null
+     "winner": 0
     }
    ]
   }
  ],
+ "lower": [],
  "thirdPlace": [],
- "teams": [
-  11641,
-  13173,
-  11712,
-  13623,
-  13973,
-  9928,
-  4991,
-  11581,
-  13355,
-  12895,
-  10577,
-  13027,
-  13619,
-  12916,
-  14030,
-  13518,
-  13592,
-  6290,
-  12510,
-  6248
- ]
+ "groups": []
 }

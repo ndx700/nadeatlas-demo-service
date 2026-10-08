@@ -6,105 +6,197 @@
  "status": "finished",
  "location": "Paris, France",
  "prize": "$2,000,000",
+ "teams": [
+  11283,
+  7020,
+  8297,
+  9565,
+  4494,
+  4608,
+  9996,
+  11861,
+  6667,
+  5995,
+  6665,
+  12394,
+  6248,
+  12467,
+  12468,
+  4773,
+  13286,
+  7532,
+  11241,
+  4914,
+  13592,
+  4863,
+  9928,
+  9215,
+  4411,
+  8474,
+  12895,
+  6290,
+  8840,
+  12376,
+  10245,
+  12257
+ ],
+ "matches": [
+  2396559,
+  2396560,
+  2396561,
+  2396562,
+  2396563,
+  2396564,
+  2396565,
+  2396566,
+  2396567,
+  2396568,
+  2396569,
+  2396570,
+  2396571,
+  2396572,
+  2396573,
+  2396574,
+  2396575,
+  2396576,
+  2396577,
+  2396578,
+  2396579,
+  2396580,
+  2396581,
+  2396582,
+  2396583,
+  2396584,
+  2396585,
+  2396586,
+  2396587,
+  2396588,
+  2396589,
+  2396590,
+  2396591,
+  2396592,
+  2396593,
+  2396594,
+  2396595,
+  2396596,
+  2396597,
+  2396598,
+  2396599,
+  2396600,
+  2396601,
+  2396602,
+  2396603,
+  2396604,
+  2396605,
+  2396606,
+  2396607,
+  2396608,
+  2396609,
+  2396610,
+  2396611,
+  2396612,
+  2396613,
+  2396614
+ ],
  "playoffs": [
   {
    "round": "Round of 16",
    "matches": [
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "G2",
-     "team2": "Astralis",
+     "matchId": 2396599,
+     "time": "2026-08-19T14:10:00Z",
+     "bo": 3,
+     "team1": 5995,
+     "team2": 6665,
      "score": [
-      null,
-      null
+      2,
+      1
      ],
-     "winner": null
+     "winner": 5995
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "FURIA",
-     "team2": "Aurora",
+     "matchId": 2396600,
+     "time": "2026-08-19T17:40:00Z",
+     "bo": 3,
+     "team1": 8297,
+     "team2": 11861,
      "score": [
-      null,
-      null
+      2,
+      1
      ],
-     "winner": null
+     "winner": 8297
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "FUT",
-     "team2": "magic",
+     "matchId": 2396601,
+     "time": "2026-08-19T14:20:00Z",
+     "bo": 3,
+     "team1": 13286,
+     "team2": 13592,
      "score": [
-      null,
-      null
+      2,
+      1
      ],
-     "winner": null
+     "winner": 13286
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "GamerLegion",
-     "team2": "MOUZ",
+     "matchId": 2396602,
+     "time": "2026-08-19T17:55:00Z",
+     "bo": 3,
+     "team1": 9928,
+     "team2": 4494,
      "score": [
-      null,
-      null
+      1,
+      2
      ],
-     "winner": null
+     "winner": 4494
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Natus Vincere",
-     "team2": "Legacy",
+     "matchId": 2396603,
+     "time": "2026-08-20T11:00:00Z",
+     "bo": 3,
+     "team1": 4608,
+     "team2": 12468,
      "score": [
-      null,
-      null
+      0,
+      2
      ],
-     "winner": null
+     "winner": 12468
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Falcons",
-     "team2": "The MongolZ",
+     "matchId": 2396604,
+     "time": "2026-08-20T11:00:00Z",
+     "bo": 3,
+     "team1": 11283,
+     "team2": 6248,
      "score": [
-      null,
-      null
+      2,
+      0
      ],
-     "winner": null
+     "winner": 11283
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "FaZe",
-     "team2": "Vitality",
+     "matchId": 2396605,
+     "time": "2026-08-20T13:35:00Z",
+     "bo": 3,
+     "team1": 6667,
+     "team2": 9565,
      "score": [
-      null,
-      null
+      0,
+      2
      ],
-     "winner": null
+     "winner": 9565
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "B8",
-     "team2": "Spirit",
+     "matchId": 2396606,
+     "time": "2026-08-20T13:30:00Z",
+     "bo": 3,
+     "team1": 11241,
+     "team2": 7020,
      "score": [
-      null,
-      null
+      0,
+      2
      ],
-     "winner": null
+     "winner": 7020
     }
    ]
   },
@@ -112,52 +204,52 @@
    "round": "Quarter-finals",
    "matches": [
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "G2",
-     "team2": "FURIA",
+     "matchId": 2396607,
+     "time": "2026-08-20T16:20:00Z",
+     "bo": 3,
+     "team1": 5995,
+     "team2": 8297,
      "score": [
-      null,
-      null
+      1,
+      2
      ],
-     "winner": null
+     "winner": 8297
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "FUT",
-     "team2": "MOUZ",
+     "matchId": 2396608,
+     "time": "2026-08-21T11:00:00Z",
+     "bo": 3,
+     "team1": 13286,
+     "team2": 4494,
      "score": [
-      null,
-      null
+      2,
+      0
      ],
-     "winner": null
+     "winner": 13286
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Legacy",
-     "team2": "Falcons",
+     "matchId": 2396609,
+     "time": "2026-08-21T13:50:00Z",
+     "bo": 3,
+     "team1": 12468,
+     "team2": 11283,
      "score": [
-      null,
-      null
+      2,
+      0
      ],
-     "winner": null
+     "winner": 12468
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Vitality",
-     "team2": "Spirit",
+     "matchId": 2396610,
+     "time": "2026-08-21T16:30:00Z",
+     "bo": 3,
+     "team1": 9565,
+     "team2": 7020,
      "score": [
-      null,
-      null
+      1,
+      2
      ],
-     "winner": null
+     "winner": 7020
     }
    ]
   },
@@ -165,28 +257,28 @@
    "round": "Semi-finals",
    "matches": [
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "FURIA",
-     "team2": "FUT",
+     "matchId": 2396611,
+     "time": "2026-08-22T14:00:00Z",
+     "bo": 3,
+     "team1": 8297,
+     "team2": 13286,
      "score": [
-      null,
-      null
+      1,
+      2
      ],
-     "winner": null
+     "winner": 13286
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Legacy",
-     "team2": "Spirit",
+     "matchId": 2396612,
+     "time": "2026-08-22T18:00:00Z",
+     "bo": 3,
+     "team1": 12468,
+     "team2": 7020,
      "score": [
-      null,
-      null
+      0,
+      2
      ],
-     "winner": null
+     "winner": 7020
     }
    ]
   },
@@ -194,628 +286,535 @@
    "round": "Grand final",
    "matches": [
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "FUT",
-     "team2": "Spirit",
+     "matchId": 2396614,
+     "time": "2026-08-23T12:15:00Z",
+     "bo": 5,
+     "team1": 13286,
+     "team2": 7020,
      "score": [
-      null,
-      null
+      1,
+      3
      ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Opening round",
-   "matches": [
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Spirit",
-     "team2": "JiJieHao",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Luminosity",
-     "team2": "GamerLegion",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "G2",
-     "team2": "M80",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "BIG",
-     "team2": "Aurora",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Upper semi-finals",
-   "matches": [
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "JiJieHao",
-     "team2": "GamerLegion",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "G2",
-     "team2": "BIG",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Lower round 1",
-   "matches": [
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Spirit",
-     "team2": "Luminosity",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "M80",
-     "team2": "Aurora",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Lower semi-finals",
-   "matches": [
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "BIG",
-     "team2": "Spirit",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "JiJieHao",
-     "team2": "Aurora",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Opening round",
-   "matches": [
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Falcons",
-     "team2": "K27",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "MIBR",
-     "team2": "Astralis",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "BETBOOM",
-     "team2": "FaZe",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Ninjas in Pyjamas",
-     "team2": "Legacy",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Upper semi-finals",
-   "matches": [
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Falcons",
-     "team2": "Astralis",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "FaZe",
-     "team2": "Legacy",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Lower round 1",
-   "matches": [
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "K27",
-     "team2": "MIBR",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "BETBOOM",
-     "team2": "Ninjas in Pyjamas",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Lower semi-finals",
-   "matches": [
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Legacy",
-     "team2": "MIBR",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Astralis",
-     "team2": "Ninjas in Pyjamas",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Opening round",
-   "matches": [
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Vitality",
-     "team2": "100 Thieves",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "PARIVISION",
-     "team2": "B8",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "FUT",
-     "team2": "TYLOO",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Lynn Vision",
-     "team2": "MOUZ",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Upper semi-finals",
-   "matches": [
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Vitality",
-     "team2": "B8",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "FUT",
-     "team2": "MOUZ",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Lower round 1",
-   "matches": [
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "100 Thieves",
-     "team2": "PARIVISION",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "TYLOO",
-     "team2": "Lynn Vision",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Lower semi-finals",
-   "matches": [
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "MOUZ",
-     "team2": "PARIVISION",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Vitality",
-     "team2": "Lynn Vision",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Opening round",
-   "matches": [
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Natus Vincere",
-     "team2": "3DMAX",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "magic",
-     "team2": "The MongolZ",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "9z",
-     "team2": "paiN",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Wildcard",
-     "team2": "FURIA",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Upper semi-finals",
-   "matches": [
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Natus Vincere",
-     "team2": "The MongolZ",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "9z",
-     "team2": "FURIA",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Lower round 1",
-   "matches": [
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "3DMAX",
-     "team2": "magic",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "paiN",
-     "team2": "Wildcard",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Lower semi-finals",
-   "matches": [
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "9z",
-     "team2": "magic",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "The MongolZ",
-     "team2": "paiN",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
+     "winner": 7020
     }
    ]
   }
  ],
+ "lower": [],
  "thirdPlace": [
   {
-   "matchId": null,
-   "time": null,
-   "bo": null,
-   "team1": "FURIA",
-   "team2": "Legacy",
+   "matchId": 2396613,
+   "time": "2026-08-23T08:00:00Z",
+   "bo": 3,
+   "team1": 8297,
+   "team2": 12468,
    "score": [
-    null,
-    null
+    1,
+    2
    ],
-   "winner": null
+   "winner": 12468
   }
  ],
- "teams": [
-  7020,
-  13286,
-  12468,
-  8297,
-  9565,
-  11283,
-  4494,
-  5995,
-  11241,
-  6667,
-  4608,
-  6248,
-  9928,
-  11861,
-  13592,
-  6665,
-  9215,
-  4411,
-  9996,
-  12467,
-  4773,
-  8840,
-  7532,
-  10245,
-  4914,
-  12257,
-  8474,
-  12895,
-  4863,
-  12394,
-  12376,
-  6290,
-  13973,
-  12510
+ "groups": [
+  {
+   "name": "Group A",
+   "matches": [
+    {
+     "matchId": 2396559,
+     "time": "2026-08-12T10:35:00Z",
+     "bo": 1,
+     "team1": 7020,
+     "team2": 10245,
+     "score": [
+      10,
+      13
+     ],
+     "winner": 10245
+    },
+    {
+     "matchId": 2396560,
+     "time": "2026-08-12T09:00:00Z",
+     "bo": 1,
+     "team1": 6290,
+     "team2": 9928,
+     "score": [
+      3,
+      13
+     ],
+     "winner": 9928
+    },
+    {
+     "matchId": 2396561,
+     "time": "2026-08-12T12:10:00Z",
+     "bo": 1,
+     "team1": 5995,
+     "team2": 12376,
+     "score": [
+      13,
+      11
+     ],
+     "winner": 5995
+    },
+    {
+     "matchId": 2396562,
+     "time": "2026-08-12T09:00:00Z",
+     "bo": 1,
+     "team1": 7532,
+     "team2": 11861,
+     "score": [
+      13,
+      9
+     ],
+     "winner": 7532
+    },
+    {
+     "matchId": 2396575,
+     "time": "2026-08-13T11:00:00Z",
+     "bo": 3,
+     "team1": 10245,
+     "team2": 9928,
+     "score": [
+      0,
+      2
+     ],
+     "winner": 9928
+    },
+    {
+     "matchId": 2396576,
+     "time": "2026-08-13T13:15:00Z",
+     "bo": 3,
+     "team1": 5995,
+     "team2": 7532,
+     "score": [
+      2,
+      1
+     ],
+     "winner": 5995
+    },
+    {
+     "matchId": 2396577,
+     "time": "2026-08-13T11:00:00Z",
+     "bo": 3,
+     "team1": 7020,
+     "team2": 6290,
+     "score": [
+      2,
+      0
+     ],
+     "winner": 7020
+    },
+    {
+     "matchId": 2396578,
+     "time": "2026-08-13T13:55:00Z",
+     "bo": 3,
+     "team1": 12376,
+     "team2": 11861,
+     "score": [
+      0,
+      2
+     ],
+     "winner": 11861
+    },
+    {
+     "matchId": 2396591,
+     "time": "2026-08-15T18:10:00Z",
+     "bo": 3,
+     "team1": 7532,
+     "team2": 7020,
+     "score": [
+      1,
+      2
+     ],
+     "winner": 7020
+    },
+    {
+     "matchId": 2396592,
+     "time": "2026-08-15T16:50:00Z",
+     "bo": 3,
+     "team1": 10245,
+     "team2": 11861,
+     "score": [
+      0,
+      2
+     ],
+     "winner": 11861
+    }
+   ]
+  },
+  {
+   "name": "Group B",
+   "matches": [
+    {
+     "matchId": 2396563,
+     "time": "2026-08-12T13:45:00Z",
+     "bo": 1,
+     "team1": 11283,
+     "team2": 12895,
+     "score": [
+      13,
+      6
+     ],
+     "winner": 11283
+    },
+    {
+     "matchId": 2396564,
+     "time": "2026-08-12T16:25:00Z",
+     "bo": 1,
+     "team1": 9215,
+     "team2": 6665,
+     "score": [
+      6,
+      13
+     ],
+     "winner": 6665
+    },
+    {
+     "matchId": 2396565,
+     "time": "2026-08-12T15:10:00Z",
+     "bo": 1,
+     "team1": 12394,
+     "team2": 6667,
+     "score": [
+      11,
+      13
+     ],
+     "winner": 6667
+    },
+    {
+     "matchId": 2396566,
+     "time": "2026-08-12T13:20:00Z",
+     "bo": 1,
+     "team1": 4411,
+     "team2": 12468,
+     "score": [
+      5,
+      13
+     ],
+     "winner": 12468
+    },
+    {
+     "matchId": 2396579,
+     "time": "2026-08-13T16:40:00Z",
+     "bo": 3,
+     "team1": 11283,
+     "team2": 6665,
+     "score": [
+      2,
+      0
+     ],
+     "winner": 11283
+    },
+    {
+     "matchId": 2396580,
+     "time": "2026-08-13T16:50:00Z",
+     "bo": 3,
+     "team1": 6667,
+     "team2": 12468,
+     "score": [
+      2,
+      0
+     ],
+     "winner": 6667
+    },
+    {
+     "matchId": 2396581,
+     "time": "2026-08-14T17:15:00Z",
+     "bo": 3,
+     "team1": 12895,
+     "team2": 9215,
+     "score": [
+      0,
+      2
+     ],
+     "winner": 9215
+    },
+    {
+     "matchId": 2396582,
+     "time": "2026-08-14T11:00:00Z",
+     "bo": 3,
+     "team1": 12394,
+     "team2": 4411,
+     "score": [
+      0,
+      2
+     ],
+     "winner": 4411
+    },
+    {
+     "matchId": 2396593,
+     "time": "2026-08-16T17:45:00Z",
+     "bo": 3,
+     "team1": 12468,
+     "team2": 9215,
+     "score": [
+      2,
+      0
+     ],
+     "winner": 12468
+    },
+    {
+     "matchId": 2396594,
+     "time": "2026-08-16T16:00:00Z",
+     "bo": 3,
+     "team1": 6665,
+     "team2": 4411,
+     "score": [
+      2,
+      1
+     ],
+     "winner": 6665
+    }
+   ]
+  },
+  {
+   "name": "Group C",
+   "matches": [
+    {
+     "matchId": 2396567,
+     "time": "2026-08-12T18:20:00Z",
+     "bo": 1,
+     "team1": 9565,
+     "team2": 8474,
+     "score": [
+      13,
+      4
+     ],
+     "winner": 9565
+    },
+    {
+     "matchId": 2396568,
+     "time": "2026-08-12T14:45:00Z",
+     "bo": 1,
+     "team1": 12467,
+     "team2": 11241,
+     "score": [
+      11,
+      13
+     ],
+     "winner": 11241
+    },
+    {
+     "matchId": 2396569,
+     "time": "2026-08-12T10:20:00Z",
+     "bo": 1,
+     "team1": 13286,
+     "team2": 4863,
+     "score": [
+      13,
+      10
+     ],
+     "winner": 13286
+    },
+    {
+     "matchId": 2396570,
+     "time": "2026-08-12T19:30:00Z",
+     "bo": 1,
+     "team1": 8840,
+     "team2": 4494,
+     "score": [
+      8,
+      13
+     ],
+     "winner": 4494
+    },
+    {
+     "matchId": 2396583,
+     "time": "2026-08-14T13:30:00Z",
+     "bo": 3,
+     "team1": 9565,
+     "team2": 11241,
+     "score": [
+      1,
+      2
+     ],
+     "winner": 11241
+    },
+    {
+     "matchId": 2396584,
+     "time": "2026-08-14T13:30:00Z",
+     "bo": 3,
+     "team1": 13286,
+     "team2": 4494,
+     "score": [
+      2,
+      1
+     ],
+     "winner": 13286
+    },
+    {
+     "matchId": 2396585,
+     "time": "2026-08-14T17:15:00Z",
+     "bo": 3,
+     "team1": 8474,
+     "team2": 12467,
+     "score": [
+      0,
+      2
+     ],
+     "winner": 12467
+    },
+    {
+     "matchId": 2396586,
+     "time": "2026-08-14T11:00:00Z",
+     "bo": 3,
+     "team1": 4863,
+     "team2": 8840,
+     "score": [
+      0,
+      2
+     ],
+     "winner": 8840
+    },
+    {
+     "matchId": 2396595,
+     "time": "2026-08-16T13:15:00Z",
+     "bo": 3,
+     "team1": 4494,
+     "team2": 12467,
+     "score": [
+      2,
+      0
+     ],
+     "winner": 4494
+    },
+    {
+     "matchId": 2396596,
+     "time": "2026-08-16T11:00:00Z",
+     "bo": 3,
+     "team1": 9565,
+     "team2": 8840,
+     "score": [
+      2,
+      0
+     ],
+     "winner": 9565
+    }
+   ]
+  },
+  {
+   "name": "Group D",
+   "matches": [
+    {
+     "matchId": 2396571,
+     "time": "2026-08-12T16:45:00Z",
+     "bo": 1,
+     "team1": 4608,
+     "team2": 4914,
+     "score": [
+      13,
+      9
+     ],
+     "winner": 4608
+    },
+    {
+     "matchId": 2396572,
+     "time": "2026-08-12T11:55:00Z",
+     "bo": 1,
+     "team1": 13592,
+     "team2": 6248,
+     "score": [
+      7,
+      13
+     ],
+     "winner": 6248
+    },
+    {
+     "matchId": 2396573,
+     "time": "2026-08-12T19:50:00Z",
+     "bo": 1,
+     "team1": 9996,
+     "team2": 4773,
+     "score": [
+      13,
+      3
+     ],
+     "winner": 9996
+    },
+    {
+     "matchId": 2396574,
+     "time": "2026-08-12T17:55:00Z",
+     "bo": 1,
+     "team1": 12257,
+     "team2": 8297,
+     "score": [
+      10,
+      13
+     ],
+     "winner": 8297
+    },
+    {
+     "matchId": 2396587,
+     "time": "2026-08-15T11:00:00Z",
+     "bo": 3,
+     "team1": 4608,
+     "team2": 6248,
+     "score": [
+      2,
+      1
+     ],
+     "winner": 4608
+    },
+    {
+     "matchId": 2396588,
+     "time": "2026-08-15T14:20:00Z",
+     "bo": 3,
+     "team1": 9996,
+     "team2": 8297,
+     "score": [
+      1,
+      2
+     ],
+     "winner": 8297
+    },
+    {
+     "matchId": 2396589,
+     "time": "2026-08-15T14:25:00Z",
+     "bo": 3,
+     "team1": 4914,
+     "team2": 13592,
+     "score": [
+      0,
+      2
+     ],
+     "winner": 13592
+    },
+    {
+     "matchId": 2396590,
+     "time": "2026-08-15T11:00:00Z",
+     "bo": 3,
+     "team1": 4773,
+     "team2": 12257,
+     "score": [
+      2,
+      1
+     ],
+     "winner": 4773
+    },
+    {
+     "matchId": 2396597,
+     "time": "2026-08-16T13:25:00Z",
+     "bo": 3,
+     "team1": 9996,
+     "team2": 13592,
+     "score": [
+      1,
+      2
+     ],
+     "winner": 13592
+    },
+    {
+     "matchId": 2396598,
+     "time": "2026-08-16T11:00:00Z",
+     "bo": 3,
+     "team1": 6248,
+     "team2": 4773,
+     "score": [
+      2,
+      0
+     ],
+     "winner": 6248
+    }
+   ]
+  }
  ]
 }

@@ -1,0 +1,453 @@
+{
+ "id": 9383,
+ "name": "ESL Challenger League Season 52 Asia-Pacific Cup 3",
+ "start": "2026-10-07",
+ "end": "2026-10-14",
+ "status": "live",
+ "location": "Asia (Online)",
+ "prize": "$10,000",
+ "teams": [
+  8840,
+  11514,
+  12646,
+  12510,
+  9958,
+  13331,
+  13053,
+  13983,
+  13826,
+  10287,
+  13242,
+  13694,
+  12948,
+  14049,
+  14048
+ ],
+ "matches": [
+  2399148,
+  2399149,
+  2399150,
+  2399151,
+  2399152,
+  2399153,
+  2399154,
+  2399155,
+  2399156,
+  2399157,
+  2399158,
+  2399159,
+  2399160,
+  2399161,
+  2399162,
+  2399163,
+  2399164,
+  2399165,
+  2399166,
+  2399167,
+  2399168,
+  2399169,
+  2399170,
+  2399171,
+  2399172,
+  2399173,
+  2399174,
+  2399175
+ ],
+ "playoffs": [
+  {
+   "round": "Opening round",
+   "matches": [
+    {
+     "matchId": 2399148,
+     "time": "2026-10-07T13:00:00Z",
+     "bo": 3,
+     "team1": 12646,
+     "team2": 13983,
+     "score": [
+      2,
+      1
+     ],
+     "winner": 12646
+    },
+    {
+     "matchId": 2399149,
+     "time": "2026-10-07T13:00:00Z",
+     "bo": 3,
+     "team1": 13694,
+     "team2": 13242,
+     "score": [
+      1,
+      0
+     ],
+     "winner": 13694
+    },
+    {
+     "matchId": 2399150,
+     "time": "2026-10-07T13:00:00Z",
+     "bo": 3,
+     "team1": 14049,
+     "team2": 12510,
+     "score": [
+      2,
+      0
+     ],
+     "winner": 14049
+    },
+    {
+     "matchId": 2399151,
+     "time": "2026-10-07T13:00:00Z",
+     "bo": 3,
+     "team1": 9958,
+     "team2": 10287,
+     "score": [
+      2,
+      0
+     ],
+     "winner": 9958
+    },
+    {
+     "matchId": 2399152,
+     "time": "2026-10-07T13:00:00Z",
+     "bo": 3,
+     "team1": 13826,
+     "team2": 13331,
+     "score": [
+      1,
+      2
+     ],
+     "winner": 13331
+    },
+    {
+     "matchId": 2399153,
+     "time": "2026-10-07T13:00:00Z",
+     "bo": 3,
+     "team1": 13053,
+     "team2": 12948,
+     "score": [
+      2,
+      1
+     ],
+     "winner": 13053
+    },
+    {
+     "matchId": 2399154,
+     "time": "2026-10-07T13:00:00Z",
+     "bo": 3,
+     "team1": 14048,
+     "team2": 11514,
+     "score": [
+      0,
+      2
+     ],
+     "winner": 11514
+    }
+   ]
+  },
+  {
+   "round": "Upper quarter-finals",
+   "matches": [
+    {
+     "matchId": 2399155,
+     "time": "2026-10-08T13:00:00Z",
+     "bo": 3,
+     "team1": 8840,
+     "team2": 12646,
+     "score": [
+      2,
+      1
+     ],
+     "winner": 8840
+    },
+    {
+     "matchId": 2399156,
+     "time": "2026-10-08T13:00:00Z",
+     "bo": 3,
+     "team1": 13694,
+     "team2": 14049,
+     "score": [
+      0,
+      2
+     ],
+     "winner": 14049
+    },
+    {
+     "matchId": 2399157,
+     "time": "2026-10-08T13:00:00Z",
+     "bo": 3,
+     "team1": 9958,
+     "team2": 13331,
+     "score": [
+      1,
+      2
+     ],
+     "winner": 13331
+    },
+    {
+     "matchId": 2399158,
+     "time": "2026-10-08T13:00:00Z",
+     "bo": 3,
+     "team1": 13053,
+     "team2": 11514,
+     "score": [
+      2,
+      1
+     ],
+     "winner": 13053
+    }
+   ]
+  },
+  {
+   "round": "Upper semi-finals",
+   "matches": [
+    {
+     "matchId": 2399166,
+     "time": "2026-10-10T13:00:00Z",
+     "bo": 3,
+     "team1": 8840,
+     "team2": 14049,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 2399167,
+     "time": "2026-10-10T13:00:00Z",
+     "bo": 3,
+     "team1": 13331,
+     "team2": 13053,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    }
+   ]
+  },
+  {
+   "round": "Upper final",
+   "matches": [
+    {
+     "matchId": 2399172,
+     "time": "2026-10-12T13:00:00Z",
+     "bo": 3,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    }
+   ]
+  },
+  {
+   "round": "Grand final",
+   "matches": [
+    {
+     "matchId": 2399175,
+     "time": "2026-10-14T13:00:00Z",
+     "bo": 3,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    }
+   ]
+  }
+ ],
+ "lower": [
+  {
+   "round": "Lower round 1",
+   "matches": [
+    {
+     "matchId": 2399160,
+     "time": "2026-10-08T13:35:00Z",
+     "bo": 3,
+     "team1": 13242,
+     "team2": 12510,
+     "score": [
+      0,
+      1
+     ],
+     "winner": 12510
+    },
+    {
+     "matchId": 2399161,
+     "time": "2026-10-08T13:00:00Z",
+     "bo": 3,
+     "team1": 10287,
+     "team2": 13826,
+     "score": [
+      1,
+      2
+     ],
+     "winner": 13826
+    },
+    {
+     "matchId": 2399162,
+     "time": "2026-10-08T13:00:00Z",
+     "bo": 3,
+     "team1": 12948,
+     "team2": 14048,
+     "score": [
+      2,
+      0
+     ],
+     "winner": 12948
+    }
+   ]
+  },
+  {
+   "round": "Lower round 2",
+   "matches": [
+    {
+     "matchId": 2399159,
+     "time": "2026-10-09T13:00:00Z",
+     "bo": 3,
+     "team1": 11514,
+     "team2": 13983,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 2399163,
+     "time": "2026-10-09T13:00:00Z",
+     "bo": 3,
+     "team1": 9958,
+     "team2": 12510,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 2399164,
+     "time": "2026-10-09T13:00:00Z",
+     "bo": 3,
+     "team1": 13694,
+     "team2": 13826,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 2399165,
+     "time": "2026-10-09T13:00:00Z",
+     "bo": 3,
+     "team1": 12646,
+     "team2": 12948,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    }
+   ]
+  },
+  {
+   "round": "Lower round 3",
+   "matches": [
+    {
+     "matchId": 2399168,
+     "time": "2026-10-10T13:00:00Z",
+     "bo": 3,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 2399169,
+     "time": "2026-10-10T13:00:00Z",
+     "bo": 3,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    }
+   ]
+  },
+  {
+   "round": "Lower semi-finals",
+   "matches": [
+    {
+     "matchId": 2399170,
+     "time": "2026-10-11T13:00:00Z",
+     "bo": 3,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 2399171,
+     "time": "2026-10-11T13:00:00Z",
+     "bo": 3,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    }
+   ]
+  },
+  {
+   "round": "Lower final",
+   "matches": [
+    {
+     "matchId": 2399173,
+     "time": "2026-10-12T13:00:00Z",
+     "bo": 3,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    }
+   ]
+  },
+  {
+   "round": "Consolidation final",
+   "matches": [
+    {
+     "matchId": 2399174,
+     "time": "2026-10-13T13:00:00Z",
+     "bo": 3,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    }
+   ]
+  }
+ ],
+ "thirdPlace": [],
+ "groups": []
+}

@@ -6,13 +6,88 @@
  "status": "live",
  "location": "Europe (Online)",
  "prize": "$25,000",
+ "teams": [
+  7969,
+  10577,
+  13104,
+  13518,
+  13901,
+  13838,
+  13924,
+  13573,
+  13908,
+  12380,
+  13479,
+  11446,
+  12609,
+  13054,
+  7187,
+  13877,
+  13991,
+  13808,
+  13747,
+  11018,
+  4246,
+  13766,
+  10867,
+  14014
+ ],
+ "matches": [
+  2398366,
+  2398367,
+  2398368,
+  2398369,
+  2398370,
+  2398371,
+  2398372,
+  2398373,
+  2398374,
+  2398375,
+  2398376,
+  2398377,
+  2398378,
+  2398379,
+  2398380,
+  2398381,
+  2398382,
+  2398383,
+  2398384,
+  2398385,
+  2398386,
+  2398387,
+  2398388,
+  2398389,
+  2398390,
+  2398391,
+  2398392,
+  2398393,
+  2398394,
+  2398395,
+  2398396,
+  2398397,
+  2398398,
+  2398399,
+  2398400,
+  2398401,
+  2398402,
+  2398403,
+  2398404,
+  2398405,
+  2398406,
+  2398407,
+  2398408,
+  2398409,
+  2398411,
+  2398412,
+  2398413
+ ],
  "playoffs": [
   {
    "round": "Round of 16",
    "matches": [
     {
      "matchId": 2398403,
-     "time": "2026-10-08T16:00:00+08:00",
+     "time": "2026-10-08T08:00:00Z",
      "bo": 3,
      "team1": 13518,
      "team2": 13573,
@@ -23,9 +98,9 @@
      "winner": 13518
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
+     "matchId": 2398405,
+     "time": "2026-10-08T14:00:00Z",
+     "bo": 3,
      "team1": 12380,
      "team2": 7187,
      "score": [
@@ -35,21 +110,21 @@
      "winner": 7187
     },
     {
-     "matchId": null,
-     "time": null,
+     "matchId": 2398406,
+     "time": "2026-10-08T17:00:00Z",
      "bo": 3,
-     "team1": null,
+     "team1": 10577,
      "team2": 13924,
      "score": [
-      null,
-      null
+      1,
+      2
      ],
-     "winner": null
+     "winner": 13924
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
+     "matchId": 2398399,
+     "time": "2026-10-07T08:00:00Z",
+     "bo": 3,
      "team1": 13808,
      "team2": 11446,
      "score": [
@@ -59,21 +134,21 @@
      "winner": 11446
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": null,
+     "matchId": 2398402,
+     "time": "2026-10-07T17:20:00Z",
+     "bo": 3,
+     "team1": 13104,
      "team2": 13901,
      "score": [
       2,
       0
      ],
-     "winner": null
+     "winner": 13104
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
+     "matchId": 2398401,
+     "time": "2026-10-07T14:00:00Z",
+     "bo": 3,
      "team1": 13479,
      "team2": 13877,
      "score": [
@@ -84,7 +159,7 @@
     },
     {
      "matchId": 2398404,
-     "time": "2026-10-08T19:30:00+08:00",
+     "time": "2026-10-08T11:30:00Z",
      "bo": 3,
      "team1": 7969,
      "team2": 12609,
@@ -95,16 +170,16 @@
      "winner": 7969
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": null,
+     "matchId": 2398400,
+     "time": "2026-10-07T11:00:00Z",
+     "bo": 3,
+     "team1": 14014,
      "team2": 13838,
      "score": [
       2,
       0
      ],
-     "winner": null
+     "winner": 14014
     }
    ]
   },
@@ -112,52 +187,52 @@
    "round": "Quarter-finals",
    "matches": [
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
+     "matchId": 2398409,
+     "time": "2026-10-09T14:00:00Z",
+     "bo": 3,
      "team1": 13518,
      "team2": 7187,
      "score": [
       null,
       null
      ],
-     "winner": null
+     "winner": 0
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": null,
+     "matchId": 2398407,
+     "time": "2026-10-09T08:00:00Z",
+     "bo": 3,
+     "team1": 13924,
      "team2": 11446,
      "score": [
       null,
       null
      ],
-     "winner": null
+     "winner": 0
     },
     {
-     "matchId": null,
+     "matchId": 0,
      "time": null,
      "bo": null,
-     "team1": null,
+     "team1": 13104,
      "team2": 13877,
      "score": [
       null,
       null
      ],
-     "winner": null
+     "winner": 0
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
+     "matchId": 2398408,
+     "time": "2026-10-09T11:00:00Z",
+     "bo": 3,
      "team1": 7969,
-     "team2": null,
+     "team2": 14014,
      "score": [
       null,
       null
      ],
-     "winner": null
+     "winner": 0
     }
    ]
   },
@@ -165,28 +240,28 @@
    "round": "Semi-finals",
    "matches": [
     {
-     "matchId": null,
+     "matchId": 0,
      "time": null,
      "bo": null,
-     "team1": null,
-     "team2": null,
+     "team1": 0,
+     "team2": 0,
      "score": [
       null,
       null
      ],
-     "winner": null
+     "winner": 0
     },
     {
-     "matchId": null,
+     "matchId": 0,
      "time": null,
      "bo": null,
-     "team1": null,
-     "team2": null,
+     "team1": 0,
+     "team2": 0,
      "score": [
       null,
       null
      ],
-     "winner": null
+     "winner": 0
     }
    ]
   },
@@ -194,52 +269,21 @@
    "round": "Grand final",
    "matches": [
     {
-     "matchId": null,
-     "time": null,
+     "matchId": 2398413,
+     "time": "2026-10-10T16:00:00Z",
      "bo": 3,
-     "team1": null,
-     "team2": null,
+     "team1": 0,
+     "team2": 0,
      "score": [
       null,
       null
      ],
-     "winner": null
+     "winner": 0
     }
    ]
   }
  ],
  "lower": [],
- "groups": [],
  "thirdPlace": [],
- "teams": [
-  7187,
-  13877,
-  13838,
-  13924,
-  11446,
-  13573,
-  12609,
-  13901,
-  13908,
-  13054,
-  10867,
-  4246,
-  13766,
-  11018,
-  13747,
-  13991,
-  12380,
-  13479,
-  13808,
-  7969,
-  10577,
-  13104,
-  13518,
-  14014,
-  13973,
-  13592,
-  6290,
-  12510,
-  6248
- ]
+ "groups": []
 }

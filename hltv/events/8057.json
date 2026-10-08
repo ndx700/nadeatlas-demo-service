@@ -6,86 +6,112 @@
  "status": "finished",
  "location": "Barcelona, Spain",
  "prize": "$500,000",
+ "teams": [
+  4494,
+  8297,
+  9565,
+  11861,
+  4608,
+  13592,
+  9215,
+  6673
+ ],
+ "matches": [
+  2398088,
+  2398089,
+  2398090,
+  2398091,
+  2398099,
+  2398100,
+  2398101,
+  2398102,
+  2398103,
+  2398104,
+  2398105,
+  2398106,
+  2398107,
+  2398108
+ ],
  "playoffs": [
   {
-   "round": "Opening rd",
+   "round": "Opening round",
    "matches": [
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "MOUZ",
-     "team2": "NRG",
+     "matchId": 2398088,
+     "time": "2026-09-17T10:00:00Z",
+     "bo": 3,
+     "team1": 4494,
+     "team2": 6673,
      "score": [
-      null,
-      null
+      1,
+      2
      ],
-     "winner": null
+     "winner": 6673
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Natus Vincere",
-     "team2": "Aurora",
+     "matchId": 2398090,
+     "time": "2026-09-17T15:05:00Z",
+     "bo": 3,
+     "team1": 4608,
+     "team2": 11861,
      "score": [
-      null,
-      null
+      0,
+      2
      ],
-     "winner": null
+     "winner": 11861
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Vitality",
-     "team2": "magic",
+     "matchId": 2398089,
+     "time": "2026-09-17T13:05:00Z",
+     "bo": 3,
+     "team1": 9565,
+     "team2": 13592,
      "score": [
-      null,
-      null
+      2,
+      0
      ],
-     "winner": null
+     "winner": 9565
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "FURIA",
-     "team2": "MIBR",
+     "matchId": 2398091,
+     "time": "2026-09-17T17:10:00Z",
+     "bo": 3,
+     "team1": 8297,
+     "team2": 9215,
      "score": [
-      null,
-      null
+      2,
+      1
      ],
-     "winner": null
+     "winner": 8297
     }
    ]
   },
   {
-   "round": "U. semis",
+   "round": "Upper semi-finals",
    "matches": [
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "NRG",
-     "team2": "Aurora",
+     "matchId": 2398101,
+     "time": "2026-09-18T16:05:00Z",
+     "bo": 3,
+     "team1": 6673,
+     "team2": 11861,
      "score": [
-      null,
-      null
+      0,
+      2
      ],
-     "winner": null
+     "winner": 11861
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Vitality",
-     "team2": "FURIA",
+     "matchId": 2398102,
+     "time": "2026-09-18T18:35:00Z",
+     "bo": 3,
+     "team1": 9565,
+     "team2": 8297,
      "score": [
-      null,
-      null
+      2,
+      0
      ],
-     "winner": null
+     "winner": 9565
     }
    ]
   },
@@ -93,16 +119,16 @@
    "round": "Upper final",
    "matches": [
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Aurora",
-     "team2": "Vitality",
+     "matchId": 2398105,
+     "time": "2026-09-19T15:25:00Z",
+     "bo": 3,
+     "team1": 11861,
+     "team2": 9565,
      "score": [
-      null,
-      null
+      2,
+      1
      ],
-     "winner": null
+     "winner": 11861
     }
    ]
   },
@@ -110,74 +136,76 @@
    "round": "Grand final",
    "matches": [
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Aurora",
-     "team2": "Vitality",
+     "matchId": 2398108,
+     "time": "2026-09-20T15:00:00Z",
+     "bo": 5,
+     "team1": 11861,
+     "team2": 9565,
      "score": [
-      null,
-      null
+      1,
+      3
      ],
-     "winner": null
+     "winner": 9565
+    }
+   ]
+  }
+ ],
+ "lower": [
+  {
+   "round": "Lower round 1",
+   "matches": [
+    {
+     "matchId": 2398099,
+     "time": "2026-09-18T10:00:00Z",
+     "bo": 3,
+     "team1": 4494,
+     "team2": 4608,
+     "score": [
+      2,
+      1
+     ],
+     "winner": 4494
+    },
+    {
+     "matchId": 2398100,
+     "time": "2026-09-18T13:10:00Z",
+     "bo": 3,
+     "team1": 13592,
+     "team2": 9215,
+     "score": [
+      1,
+      2
+     ],
+     "winner": 9215
     }
    ]
   },
   {
-   "round": "L. round 1",
+   "round": "Lower semi-finals",
    "matches": [
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "MOUZ",
-     "team2": "Natus Vincere",
+     "matchId": 2398103,
+     "time": "2026-09-19T12:00:00Z",
+     "bo": 3,
+     "team1": 8297,
+     "team2": 4494,
      "score": [
-      null,
-      null
+      2,
+      1
      ],
-     "winner": null
+     "winner": 8297
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "magic",
-     "team2": "MIBR",
+     "matchId": 2398104,
+     "time": "2026-09-19T10:00:00Z",
+     "bo": 3,
+     "team1": 6673,
+     "team2": 9215,
      "score": [
-      null,
-      null
+      0,
+      2
      ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "L. semis",
-   "matches": [
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "FURIA",
-     "team2": "MOUZ",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "NRG",
-     "team2": "MIBR",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
+     "winner": 9215
     }
    ]
   },
@@ -185,16 +213,16 @@
    "round": "Lower final",
    "matches": [
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "FURIA",
-     "team2": "MIBR",
+     "matchId": 2398106,
+     "time": "2026-09-19T18:30:00Z",
+     "bo": 3,
+     "team1": 8297,
+     "team2": 9215,
      "score": [
-      null,
-      null
+      2,
+      0
      ],
-     "winner": null
+     "winner": 8297
     }
    ]
   },
@@ -202,33 +230,20 @@
    "round": "Consolidation final",
    "matches": [
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Vitality",
-     "team2": "FURIA",
+     "matchId": 2398107,
+     "time": "2026-09-20T12:00:00Z",
+     "bo": 3,
+     "team1": 9565,
+     "team2": 8297,
      "score": [
-      null,
-      null
+      2,
+      0
      ],
-     "winner": null
+     "winner": 9565
     }
    ]
   }
  ],
  "thirdPlace": [],
- "teams": [
-  9565,
-  11861,
-  8297,
-  9215,
-  4494,
-  6673,
-  13592,
-  4608,
-  13973,
-  6290,
-  12510,
-  6248
- ]
+ "groups": []
 }

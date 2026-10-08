@@ -1,0 +1,435 @@
+{
+ "id": 9223,
+ "name": "Stake Pulse Beat III",
+ "start": "2026-10-12",
+ "end": "2026-10-17",
+ "status": "upcoming",
+ "location": "Stockholm, Sweden",
+ "prize": "$80,000",
+ "teams": [
+  6665,
+  9215,
+  5991,
+  5973,
+  4411,
+  13117,
+  7175,
+  10245,
+  8474,
+  4991,
+  11581,
+  13996,
+  10333,
+  12916,
+  12878,
+  11712
+ ],
+ "matches": [
+  2399130,
+  2399131,
+  2399132,
+  2399133,
+  2399134,
+  2399135,
+  2399136,
+  2399137,
+  2399250,
+  2399251,
+  2399252,
+  2399253,
+  2399254,
+  2399255,
+  2399256,
+  2399257,
+  2399258,
+  2399259,
+  2399260,
+  2399261,
+  2399262,
+  2399263,
+  2399264,
+  2399265,
+  2399266,
+  2399267,
+  2399268,
+  2399269
+ ],
+ "playoffs": [
+  {
+   "round": "Quarter-finals",
+   "matches": [
+    {
+     "matchId": 2399262,
+     "time": "2026-10-16T08:00:00Z",
+     "bo": 3,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 2399263,
+     "time": "2026-10-16T11:00:00Z",
+     "bo": 3,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 2399264,
+     "time": "2026-10-16T14:00:00Z",
+     "bo": 3,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 2399265,
+     "time": "2026-10-16T17:00:00Z",
+     "bo": 3,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    }
+   ]
+  },
+  {
+   "round": "Semi-finals",
+   "matches": [
+    {
+     "matchId": 2399266,
+     "time": "2026-10-17T08:00:00Z",
+     "bo": 3,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 2399267,
+     "time": "2026-10-17T11:00:00Z",
+     "bo": 3,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    }
+   ]
+  },
+  {
+   "round": "Grand final",
+   "matches": [
+    {
+     "matchId": 2399269,
+     "time": "2026-10-17T17:00:00Z",
+     "bo": 3,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    }
+   ]
+  }
+ ],
+ "lower": [],
+ "thirdPlace": [
+  {
+   "matchId": 2399268,
+   "time": "2026-10-17T14:00:00Z",
+   "bo": 3,
+   "team1": 0,
+   "team2": 0,
+   "score": [
+    null,
+    null
+   ],
+   "winner": 0
+  }
+ ],
+ "groups": [
+  {
+   "name": "Group A",
+   "matches": [
+    {
+     "matchId": 2399130,
+     "time": "2026-10-12T10:00:00Z",
+     "bo": 3,
+     "team1": 13117,
+     "team2": 10333,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 2399131,
+     "time": "2026-10-12T10:00:00Z",
+     "bo": 3,
+     "team1": 4411,
+     "team2": 12916,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 2399250,
+     "time": "2026-10-12T13:00:00Z",
+     "bo": 3,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 2399251,
+     "time": "2026-10-12T13:00:00Z",
+     "bo": 3,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 2399252,
+     "time": "2026-10-12T16:00:00Z",
+     "bo": 3,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    }
+   ]
+  },
+  {
+   "name": "Group B",
+   "matches": [
+    {
+     "matchId": 2399132,
+     "time": "2026-10-13T10:00:00Z",
+     "bo": 3,
+     "team1": 5973,
+     "team2": 13996,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 2399133,
+     "time": "2026-10-13T10:00:00Z",
+     "bo": 3,
+     "team1": 8474,
+     "team2": 10245,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 2399253,
+     "time": "2026-10-13T13:00:00Z",
+     "bo": 3,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 2399254,
+     "time": "2026-10-13T13:00:00Z",
+     "bo": 3,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 2399255,
+     "time": "2026-10-13T16:00:00Z",
+     "bo": 3,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    }
+   ]
+  },
+  {
+   "name": "Group C",
+   "matches": [
+    {
+     "matchId": 2399134,
+     "time": "2026-10-14T10:00:00Z",
+     "bo": 3,
+     "team1": 6665,
+     "team2": 11712,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 2399135,
+     "time": "2026-10-14T10:00:00Z",
+     "bo": 3,
+     "team1": 11581,
+     "team2": 4991,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 2399256,
+     "time": "2026-10-14T13:00:00Z",
+     "bo": 3,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 2399257,
+     "time": "2026-10-14T13:00:00Z",
+     "bo": 3,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 2399258,
+     "time": "2026-10-14T16:00:00Z",
+     "bo": 3,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    }
+   ]
+  },
+  {
+   "name": "Group D",
+   "matches": [
+    {
+     "matchId": 2399136,
+     "time": "2026-10-15T10:00:00Z",
+     "bo": 3,
+     "team1": 9215,
+     "team2": 12878,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 2399137,
+     "time": "2026-10-15T10:00:00Z",
+     "bo": 3,
+     "team1": 7175,
+     "team2": 5991,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 2399259,
+     "time": "2026-10-15T13:00:00Z",
+     "bo": 3,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 2399260,
+     "time": "2026-10-15T13:00:00Z",
+     "bo": 3,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 2399261,
+     "time": "2026-10-15T16:00:00Z",
+     "bo": 3,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    }
+   ]
+  }
+ ]
+}

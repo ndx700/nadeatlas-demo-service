@@ -6,13 +6,31 @@
  "status": "live",
  "location": "Ulaanbaatar, Mongolia",
  "prize": "$3,000",
+ "teams": [
+  13724,
+  13667,
+  12646,
+  12510,
+  14086,
+  14075
+ ],
+ "matches": [
+  2399372,
+  2399373,
+  2399374,
+  2399375,
+  2399376,
+  2399377,
+  2399378,
+  2399379
+ ],
  "playoffs": [
   {
    "round": "Upper semi-finals",
    "matches": [
     {
      "matchId": 2399372,
-     "time": "2026-10-08T13:00:00+08:00",
+     "time": "2026-10-08T05:00:00Z",
      "bo": 3,
      "team1": 13724,
      "team2": 12646,
@@ -23,16 +41,16 @@
      "winner": 13724
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": null,
-     "team2": null,
+     "matchId": 2399373,
+     "time": "2026-10-08T08:20:00Z",
+     "bo": 3,
+     "team1": 13667,
+     "team2": 12510,
      "score": [
       2,
       0
      ],
-     "winner": null
+     "winner": 13667
     }
    ]
   },
@@ -40,16 +58,16 @@
    "round": "Upper final",
    "matches": [
     {
-     "matchId": null,
-     "time": null,
+     "matchId": 2399376,
+     "time": "2026-10-10T04:00:00Z",
      "bo": 3,
      "team1": 13724,
-     "team2": null,
+     "team2": 13667,
      "score": [
       null,
       null
      ],
-     "winner": null
+     "winner": 0
     }
    ]
   },
@@ -57,45 +75,47 @@
    "round": "Grand final",
    "matches": [
     {
-     "matchId": null,
-     "time": null,
+     "matchId": 2399379,
+     "time": "2026-10-11T07:00:00Z",
      "bo": 3,
-     "team1": null,
-     "team2": null,
+     "team1": 0,
+     "team2": 0,
      "score": [
       null,
       null
      ],
-     "winner": null
+     "winner": 0
     }
    ]
-  },
+  }
+ ],
+ "lower": [
   {
    "round": "Lower semi-finals",
    "matches": [
     {
-     "matchId": null,
-     "time": null,
+     "matchId": 2399374,
+     "time": "2026-10-09T04:00:00Z",
      "bo": 3,
-     "team1": null,
+     "team1": 12510,
      "team2": 14086,
      "score": [
       null,
       null
      ],
-     "winner": null
+     "winner": 0
     },
     {
-     "matchId": null,
-     "time": null,
+     "matchId": 2399375,
+     "time": "2026-10-09T07:00:00Z",
      "bo": 3,
      "team1": 12646,
-     "team2": null,
+     "team2": 14075,
      "score": [
       null,
       null
      ],
-     "winner": null
+     "winner": 0
     }
    ]
   },
@@ -103,16 +123,16 @@
    "round": "Lower final",
    "matches": [
     {
-     "matchId": null,
-     "time": null,
+     "matchId": 2399377,
+     "time": "2026-10-10T07:00:00Z",
      "bo": 3,
-     "team1": null,
-     "team2": null,
+     "team1": 0,
+     "team2": 0,
      "score": [
       null,
       null
      ],
-     "winner": null
+     "winner": 0
     }
    ]
   },
@@ -120,33 +140,20 @@
    "round": "Consolidation final",
    "matches": [
     {
-     "matchId": null,
-     "time": null,
+     "matchId": 2399378,
+     "time": "2026-10-11T04:00:00Z",
      "bo": 3,
-     "team1": null,
-     "team2": null,
+     "team1": 0,
+     "team2": 0,
      "score": [
       null,
       null
      ],
-     "winner": null
+     "winner": 0
     }
    ]
   }
  ],
- "lower": [],
- "groups": [],
  "thirdPlace": [],
- "teams": [
-  13724,
-  13667,
-  12646,
-  12510,
-  14086,
-  14075,
-  13973,
-  13592,
-  6290,
-  6248
- ]
+ "groups": []
 }
