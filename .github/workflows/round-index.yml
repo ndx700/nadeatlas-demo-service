@@ -5,6 +5,11 @@ name: Round index
 # after the first step. See scripts/rounds/build_rounds.py.
 on:
   workflow_dispatch:
+    inputs:
+      rebuild:
+        description: "Read every replay again (after the reader or the facts changed)"
+        type: boolean
+        default: false
   workflow_run:
     workflows: ["Sync verified Dust2 demos"]
     types: [completed]
@@ -28,6 +33,8 @@ jobs:
   index:
     runs-on: ubuntu-latest
     timeout-minutes: 60
+    env:
+      ROUNDS_REBUILD: ${{ github.event_name == 'workflow_dispatch' && inputs.rebuild && '1' || '' }}
     steps:
       - uses: actions/checkout@v4
       - name: Anything new?

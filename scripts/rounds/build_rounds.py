@@ -49,7 +49,9 @@ def done(e):
 
 
 def pending(list_, skipped):
-    return [e for e in list_ if not done(e) and skipped.get(e["matchId"]) != e["replay"]]
+    # ROUNDS_REBUILD=1 (the workflow's "rebuild" input): read every replay again, e.g. after the reader changed.
+    again = os.environ.get("ROUNDS_REBUILD") == "1"
+    return [e for e in list_ if (again or not done(e)) and skipped.get(e["matchId"]) != e["replay"]]
 
 
 def output(**kv):
