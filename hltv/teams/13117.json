@@ -1,0 +1,85 @@
+{
+ "id": 13117,
+ "name": "Inner Circle",
+ "country": "UA",
+ "rankHltv": 28,
+ "rankVrs": 24,
+ "players": [
+  {
+   "id": 16147,
+   "nick": "cptkurtka023",
+   "name": "Arseniy Derevinskiy",
+   "country": "UA"
+  },
+  {
+   "id": 19592,
+   "nick": "headtr1ck",
+   "name": "Daniil Valitov",
+   "country": "UA"
+  },
+  {
+   "id": 23415,
+   "nick": "zeRRoFIX",
+   "name": "Eduard Petrovskyi",
+   "country": "UA"
+  },
+  {
+   "id": 24168,
+   "nick": "onic",
+   "name": "Viktor Babii",
+   "country": "UA",
+   "role": "igl"
+  },
+  {
+   "id": 24282,
+   "nick": "Dawy",
+   "name": "David Bibik",
+   "country": "UA"
+  }
+ ],
+ "events": [],
+ "recent": [
+  {
+   "matchId": 2396936,
+   "date": "2026-08-29",
+   "opponent": 4494,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8249,
+   "_side": 1
+  },
+  {
+   "matchId": 2396927,
+   "date": "2026-08-27",
+   "opponent": 13117,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8249,
+   "_side": 2
+  }
+ ],
+ "mapStats": {
+  "de_ancient": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_anubis": {
+   "played": 1,
+   "winPct": 100
+  },
+  "de_cache": {
+   "played": 1,
+   "winPct": 100
+  },
+  "de_mirage": {
+   "played": 1,
+   "winPct": 0
+  }
+ }
+}

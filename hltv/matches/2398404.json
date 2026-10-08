@@ -1,0 +1,83 @@
+{
+ "id": 2398404,
+ "eventId": 9420,
+ "stage": null,
+ "time": "2026-10-08T19:00:00+08:00",
+ "bo": 3,
+ "status": "upcoming",
+ "team1": {
+  "id": 7969,
+  "score": null,
+  "players": []
+ },
+ "team2": {
+  "id": 12609,
+  "score": null,
+  "players": []
+ },
+ "maps": [],
+ "stats": {
+  "all": {
+   "both": [],
+   "t": [],
+   "ct": []
+  }
+ },
+ "mvp": null,
+ "highlight": null,
+ "h2h": {
+  "team1Wins": 4,
+  "team2Wins": 0,
+  "overtimes": 0,
+  "maps": [
+   {
+    "date": "2026-07-28",
+    "matchId": 2396265,
+    "eventId": null,
+    "event": "WINLINE MPKBK CIS LAN Season 6",
+    "map": "de_dust2",
+    "score": [
+     13,
+     5
+    ],
+    "winner": 7969
+   },
+   {
+    "date": "2026-07-28",
+    "matchId": 2396265,
+    "eventId": null,
+    "event": "WINLINE MPKBK CIS LAN Season 6",
+    "map": "de_mirage",
+    "score": [
+     13,
+     8
+    ],
+    "winner": 7969
+   },
+   {
+    "date": "2026-05-16",
+    "matchId": 2393845,
+    "eventId": null,
+    "event": "CCT 2026 Europe Series 1",
+    "map": "de_mirage",
+    "score": [
+     13,
+     7
+    ],
+    "winner": 7969
+   },
+   {
+    "date": "2026-05-16",
+    "matchId": 2393845,
+    "eventId": null,
+    "event": "CCT 2026 Europe Series 1",
+    "map": "de_anubis",
+    "score": [
+     13,
+     6
+    ],
+    "winner": 7969
+   }
+  ]
+ }
+}

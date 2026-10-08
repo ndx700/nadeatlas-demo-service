@@ -1,0 +1,559 @@
+{
+ "id": 9410,
+ "name": "CROSSFIRE Season 6",
+ "start": "2026-09-15",
+ "end": "2026-10-07",
+ "status": "finished",
+ "location": "North America (Online)",
+ "prize": "$10,000",
+ "playoffs": [
+  {
+   "round": "RO16",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "my life be like",
+     "team2": "DETONATE",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Olympus",
+     "team2": "BucketJonsBoys",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Overtake Sector",
+     "team2": "F5",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Villainous",
+     "team2": "Wanted Goons",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Marsborne",
+     "team2": "KODEX",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Iowa Stormboar",
+     "team2": "FarmVille",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "regain",
+     "team2": "Babag",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "NuTorious",
+     "team2": "Without a Roof",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "U. quarters",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "DETONATE",
+     "team2": "Olympus",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Overtake Sector",
+     "team2": "Villainous",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Marsborne",
+     "team2": "Iowa Stormboar",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "regain",
+     "team2": "Without a Roof",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "U. semis",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Olympus",
+     "team2": "Overtake Sector",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Marsborne",
+     "team2": "regain",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Upper final",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Overtake Sector",
+     "team2": "Marsborne",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Grand final",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Marsborne",
+     "team2": "Without a Roof",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "L. round 2",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "FarmVille",
+     "team2": "LAG",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "KODEX",
+     "team2": "Unreal Nightmare",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "NuTorious",
+     "team2": "Arctic Ace",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Babag",
+     "team2": "Zomblers",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "BucketJonsBoys",
+     "team2": "Addice",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "my life be like",
+     "team2": "Beyond Limits",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Wanted Goons",
+     "team2": "Fathom",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "F5",
+     "team2": "Omen",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "L. round 3",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "LAG",
+     "team2": "KODEX",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "NuTorious",
+     "team2": "Zomblers",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Addice",
+     "team2": "my life be like",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Fathom",
+     "team2": "F5",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "L. round 4",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "DETONATE",
+     "team2": "LAG",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Villainous",
+     "team2": "Zomblers",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Iowa Stormboar",
+     "team2": "Addice",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Without a Roof",
+     "team2": "F5",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "L. round 5",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "LAG",
+     "team2": "Villainous",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Iowa Stormboar",
+     "team2": "Without a Roof",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "L. semis",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "regain",
+     "team2": "LAG",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Olympus",
+     "team2": "Without a Roof",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Lower final",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "LAG",
+     "team2": "Without a Roof",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Cons. final",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Overtake Sector",
+     "team2": "Without a Roof",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  }
+ ],
+ "thirdPlace": [],
+ "teams": [
+  6914,
+  13124,
+  13855,
+  11955,
+  12554,
+  13884,
+  13857,
+  11795,
+  13201,
+  10772,
+  11336,
+  12164,
+  14047,
+  12612,
+  13994,
+  12973,
+  13673,
+  14046,
+  14043,
+  12971,
+  13610,
+  13665,
+  14019,
+  13995,
+  13973,
+  13592,
+  6290,
+  12510,
+  6248
+ ]
+}

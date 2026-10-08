@@ -1,0 +1,89 @@
+{
+ "id": 4608,
+ "name": "Natus Vincere",
+ "country": "FI",
+ "rankHltv": 10,
+ "rankVrs": 20,
+ "players": [
+  {
+   "id": 9816,
+   "nick": "Aleksib",
+   "name": "Aleksi Virolainen",
+   "country": "FI",
+   "role": "igl"
+  },
+  {
+   "id": 14759,
+   "nick": "iM",
+   "name": "Mihai Ivan",
+   "country": "RO"
+  },
+  {
+   "id": 18987,
+   "nick": "b1t",
+   "name": "Valeriy Vakhovskiy",
+   "country": "UA"
+  },
+  {
+   "id": 20127,
+   "nick": "w0nderful",
+   "name": "Ihor Zhdanov",
+   "country": "UA"
+  },
+  {
+   "id": 22673,
+   "nick": "makazze",
+   "name": "Drin Shaqiri",
+   "country": "XK"
+  }
+ ],
+ "events": [],
+ "recent": [
+  {
+   "matchId": 2398731,
+   "date": "2026-10-05",
+   "opponent": 4608,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 8244,
+   "_side": 2
+  },
+  {
+   "matchId": 2398099,
+   "date": "2026-09-18",
+   "opponent": 4608,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 8057,
+   "_side": 2
+  }
+ ],
+ "mapStats": {
+  "de_anubis": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_cache": {
+   "played": 1,
+   "winPct": 100
+  },
+  "de_inferno": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_mirage": {
+   "played": 2,
+   "winPct": 0
+  },
+  "de_nuke": {
+   "played": 1,
+   "winPct": 100
+  }
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "id": 2398985,
+ "eventId": 9408,
+ "stage": null,
+ "time": "2026-10-09T23:00:00+08:00",
+ "bo": 3,
+ "status": "upcoming",
+ "team1": {
+  "id": 4991,
+  "score": null,
+  "players": []
+ },
+ "team2": {
+  "id": 12895,
+  "score": null,
+  "players": []
+ },
+ "maps": [],
+ "stats": {
+  "all": {
+   "both": [],
+   "t": [],
+   "ct": []
+  }
+ },
+ "mvp": null,
+ "highlight": null,
+ "h2h": {
+  "team1Wins": 3,
+  "team2Wins": 3,
+  "overtimes": 2,
+  "maps": [
+   {
+    "date": "2026-08-10",
+    "matchId": 2396555,
+    "eventId": null,
+    "event": "Esports World Cup 2026 Open Qualifier",
+    "map": "de_cache",
+    "score": [
+     10,
+     13
+    ],
+    "winner": 12895
+   },
+   {
+    "date": "2026-08-10",
+    "matchId": 2396555,
+    "eventId": null,
+    "event": "Esports World Cup 2026 Open Qualifier",
+    "map": "de_mirage",
+    "score": [
+     13,
+     16
+    ],
+    "winner": 12895
+   },
+   {
+    "date": "2026-08-10",
+    "matchId": 2396555,
+    "eventId": null,
+    "event": "Esports World Cup 2026 Open Qualifier",
+    "map": "de_ancient",
+    "score": [
+     13,
+     8
+    ],
+    "winner": 4991
+   },
+   {
+    "date": "2026-02-11",
+    "matchId": 2390116,
+    "eventId": null,
+    "event": "IEM Atlanta 2026 Closed Qualifier",
+    "map": "de_overpass",
+    "score": [
+     13,
+     8
+    ],
+    "winner": 4991
+   },
+   {
+    "date": "2026-02-11",
+    "matchId": 2390116,
+    "eventId": null,
+    "event": "IEM Atlanta 2026 Closed Qualifier",
+    "map": "de_mirage",
+    "score": [
+     0,
+     13
+    ],
+    "winner": 12895
+   },
+   {
+    "date": "2026-02-11",
+    "matchId": 2390116,
+    "eventId": null,
+    "event": "IEM Atlanta 2026 Closed Qualifier",
+    "map": "de_dust2",
+    "score": [
+     16,
+     13
+    ],
+    "winner": 4991
+   }
+  ]
+ }
+}

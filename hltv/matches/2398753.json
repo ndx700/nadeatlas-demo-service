@@ -1,0 +1,275 @@
+{
+ "id": 2398753,
+ "eventId": 8244,
+ "stage": null,
+ "time": "2026-10-10T00:00:00+08:00",
+ "bo": 3,
+ "status": "upcoming",
+ "team1": {
+  "id": 11283,
+  "score": null,
+  "players": []
+ },
+ "team2": {
+  "id": 7020,
+  "score": null,
+  "players": []
+ },
+ "maps": [],
+ "stats": {
+  "all": {
+   "both": [],
+   "t": [],
+   "ct": []
+  }
+ },
+ "mvp": null,
+ "highlight": null,
+ "h2h": {
+  "team1Wins": 10,
+  "team2Wins": 11,
+  "overtimes": 7,
+  "maps": [
+   {
+    "date": "2026-09-05",
+    "matchId": 2396949,
+    "eventId": null,
+    "event": "BLAST Open Porto 2026",
+    "map": "de_ancient",
+    "score": [
+     11,
+     13
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2026-09-05",
+    "matchId": 2396949,
+    "eventId": null,
+    "event": "BLAST Open Porto 2026",
+    "map": "de_nuke",
+    "score": [
+     8,
+     13
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2026-06-21",
+    "matchId": 2395001,
+    "eventId": null,
+    "event": "IEM Cologne Major 2026",
+    "map": "de_dust2",
+    "score": [
+     16,
+     12
+    ],
+    "winner": 11283
+   },
+   {
+    "date": "2026-06-21",
+    "matchId": 2395001,
+    "eventId": null,
+    "event": "IEM Cologne Major 2026",
+    "map": "de_mirage",
+    "score": [
+     8,
+     13
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2026-06-21",
+    "matchId": 2395001,
+    "eventId": null,
+    "event": "IEM Cologne Major 2026",
+    "map": "de_anubis",
+    "score": [
+     16,
+     14
+    ],
+    "winner": 11283
+   },
+   {
+    "date": "2026-05-17",
+    "matchId": 2394156,
+    "eventId": null,
+    "event": "PGL Astana 2026",
+    "map": "de_ancient",
+    "score": [
+     10,
+     13
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2026-05-17",
+    "matchId": 2394156,
+    "eventId": null,
+    "event": "PGL Astana 2026",
+    "map": "de_mirage",
+    "score": [
+     7,
+     13
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2026-05-17",
+    "matchId": 2394156,
+    "eventId": null,
+    "event": "PGL Astana 2026",
+    "map": "de_dust2",
+    "score": [
+     12,
+     16
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2026-04-19",
+    "matchId": 2393242,
+    "eventId": null,
+    "event": "IEM Rio 2026",
+    "map": "de_mirage",
+    "score": [
+     4,
+     13
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2026-04-19",
+    "matchId": 2393242,
+    "eventId": null,
+    "event": "IEM Rio 2026",
+    "map": "de_dust2",
+    "score": [
+     7,
+     13
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2026-04-15",
+    "matchId": 2393226,
+    "eventId": null,
+    "event": "IEM Rio 2026",
+    "map": "de_mirage",
+    "score": [
+     13,
+     5
+    ],
+    "winner": 11283
+   },
+   {
+    "date": "2026-04-15",
+    "matchId": 2393226,
+    "eventId": null,
+    "event": "IEM Rio 2026",
+    "map": "de_anubis",
+    "score": [
+     13,
+     4
+    ],
+    "winner": 11283
+   },
+   {
+    "date": "2025-12-12",
+    "matchId": 2388125,
+    "eventId": null,
+    "event": "StarLadder Budapest Major 2025",
+    "map": "de_dust2",
+    "score": [
+     12,
+     16
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2025-12-12",
+    "matchId": 2388125,
+    "eventId": null,
+    "event": "StarLadder Budapest Major 2025",
+    "map": "de_nuke",
+    "score": [
+     4,
+     13
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2025-11-12",
+    "matchId": 2387504,
+    "eventId": null,
+    "event": "BLAST Rivals 2025 Season 2",
+    "map": "de_nuke",
+    "score": [
+     13,
+     8
+    ],
+    "winner": 11283
+   },
+   {
+    "date": "2025-11-12",
+    "matchId": 2387504,
+    "eventId": null,
+    "event": "BLAST Rivals 2025 Season 2",
+    "map": "de_dust2",
+    "score": [
+     16,
+     13
+    ],
+    "winner": 11283
+   },
+   {
+    "date": "2025-11-04",
+    "matchId": 2387397,
+    "eventId": null,
+    "event": "IEM Chengdu 2025",
+    "map": "de_ancient",
+    "score": [
+     16,
+     13
+    ],
+    "winner": 11283
+   },
+   {
+    "date": "2025-11-04",
+    "matchId": 2387397,
+    "eventId": null,
+    "event": "IEM Chengdu 2025",
+    "map": "de_dust2",
+    "score": [
+     13,
+     6
+    ],
+    "winner": 11283
+   },
+   {
+    "date": "2025-05-02",
+    "matchId": 2381913,
+    "eventId": null,
+    "event": "BLAST Rivals 2025 Season 1",
+    "map": "de_dust2",
+    "score": [
+     16,
+     12
+    ],
+    "winner": 11283
+   },
+   {
+    "date": "2025-05-02",
+    "matchId": 2381913,
+    "eventId": null,
+    "event": "BLAST Rivals 2025 Season 1",
+    "map": "de_ancient",
+    "score": [
+     13,
+     6
+    ],
+    "winner": 11283
+   }
+  ]
+ }
+}

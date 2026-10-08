@@ -1,0 +1,117 @@
+{
+ "id": 13286,
+ "name": "FUT",
+ "country": "ES",
+ "rankHltv": 8,
+ "rankVrs": 9,
+ "players": [
+  {
+   "id": 19164,
+   "nick": "SunPayus",
+   "name": "Álvaro García",
+   "country": "ES"
+  },
+  {
+   "id": 19187,
+   "nick": "xfl0ud",
+   "name": "Yasin Koç",
+   "country": "TR"
+  },
+  {
+   "id": 20584,
+   "nick": "dem0n",
+   "name": "Dmytro Myroshnychenko",
+   "country": "UA"
+  },
+  {
+   "id": 22203,
+   "nick": "Krabeni",
+   "name": "Aulon Fazlija",
+   "country": "XK",
+   "role": "igl"
+  },
+  {
+   "id": 23553,
+   "nick": "dziugss",
+   "name": "Džiugas Steponavičius",
+   "country": "LT"
+  }
+ ],
+ "events": [],
+ "recent": [
+  {
+   "matchId": 2396946,
+   "date": "2026-09-01",
+   "opponent": 9565,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8249,
+   "_side": 1
+  },
+  {
+   "matchId": 2396614,
+   "date": "2026-08-23",
+   "opponent": 7020,
+   "bo": 5,
+   "score": [
+    1,
+    3
+   ],
+   "eventId": 8261,
+   "_side": 1
+  },
+  {
+   "matchId": 2396608,
+   "date": "2026-08-21",
+   "opponent": 4494,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8261,
+   "_side": 1
+  },
+  {
+   "matchId": 2396584,
+   "date": "2026-08-14",
+   "opponent": 4494,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 8261,
+   "_side": 1
+  }
+ ],
+ "mapStats": {
+  "de_ancient": {
+   "played": 3,
+   "winPct": 67
+  },
+  "de_anubis": {
+   "played": 2,
+   "winPct": 0
+  },
+  "de_cache": {
+   "played": 1,
+   "winPct": 100
+  },
+  "de_dust2": {
+   "played": 2,
+   "winPct": 50
+  },
+  "de_mirage": {
+   "played": 1,
+   "winPct": 100
+  },
+  "de_nuke": {
+   "played": 2,
+   "winPct": 0
+  }
+ }
+}

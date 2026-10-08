@@ -1,0 +1,157 @@
+{
+ "id": 8297,
+ "name": "FURIA",
+ "country": "BR",
+ "rankHltv": 4,
+ "rankVrs": 6,
+ "players": [
+  {
+   "id": 2023,
+   "nick": "FalleN",
+   "name": "Gabriel Toledo",
+   "country": "BR",
+   "role": "igl"
+  },
+  {
+   "id": 12553,
+   "nick": "yuurih",
+   "name": "Yuri Santos",
+   "country": "BR"
+  },
+  {
+   "id": 13915,
+   "nick": "YEKINDAR",
+   "name": "Mareks Gaļinskis",
+   "country": "LV"
+  },
+  {
+   "id": 15631,
+   "nick": "KSCERATO",
+   "name": "Kaike Cerato",
+   "country": "BR"
+  },
+  {
+   "id": 24144,
+   "nick": "molodoy",
+   "name": "Danil Golubenko",
+   "country": "KZ"
+  }
+ ],
+ "events": [],
+ "recent": [
+  {
+   "matchId": 2398747,
+   "date": "2026-10-07",
+   "opponent": 9996,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8244,
+   "_side": 1
+  },
+  {
+   "matchId": 2398729,
+   "date": "2026-10-04",
+   "opponent": 4494,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8244,
+   "_side": 1
+  },
+  {
+   "matchId": 2398107,
+   "date": "2026-09-20",
+   "opponent": 8297,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8057,
+   "_side": 2
+  },
+  {
+   "matchId": 2398102,
+   "date": "2026-09-19",
+   "opponent": 8297,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8057,
+   "_side": 2
+  },
+  {
+   "matchId": 2398103,
+   "date": "2026-09-19",
+   "opponent": 8297,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 8057,
+   "_side": 2
+  },
+  {
+   "matchId": 2396948,
+   "date": "2026-09-05",
+   "opponent": 9565,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 8249,
+   "_side": 1
+  },
+  {
+   "matchId": 2396943,
+   "date": "2026-08-31",
+   "opponent": 8297,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8249,
+   "_side": 2
+  }
+ ],
+ "mapStats": {
+  "de_ancient": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_anubis": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_cache": {
+   "played": 5,
+   "winPct": 20
+  },
+  "de_dust2": {
+   "played": 2,
+   "winPct": 0
+  },
+  "de_inferno": {
+   "played": 1,
+   "winPct": 100
+  },
+  "de_mirage": {
+   "played": 3,
+   "winPct": 0
+  },
+  "de_nuke": {
+   "played": 3,
+   "winPct": 100
+  }
+ }
+}

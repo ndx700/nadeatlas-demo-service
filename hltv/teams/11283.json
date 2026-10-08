@@ -1,0 +1,105 @@
+{
+ "id": 11283,
+ "name": "Falcons",
+ "country": "DK",
+ "rankHltv": 5,
+ "rankVrs": 4,
+ "players": [
+  {
+   "id": 429,
+   "nick": "karrigan",
+   "name": "Finn Andersen",
+   "country": "DK",
+   "role": "igl"
+  },
+  {
+   "id": 3741,
+   "nick": "NiKo",
+   "name": "Nikola Kovač",
+   "country": "BA"
+  },
+  {
+   "id": 12018,
+   "nick": "TeSeS",
+   "name": "René Madsen",
+   "country": "DK"
+  },
+  {
+   "id": 19230,
+   "nick": "m0NESY",
+   "name": "Ilya Osipov",
+   "country": "RU"
+  },
+  {
+   "id": 24177,
+   "nick": "kyousuke",
+   "name": "Maksim Lukin",
+   "country": "RU"
+  }
+ ],
+ "events": [],
+ "recent": [
+  {
+   "matchId": 2398739,
+   "date": "2026-10-06",
+   "opponent": 11283,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 8244,
+   "_side": 2
+  },
+  {
+   "matchId": 2396949,
+   "date": "2026-09-05",
+   "opponent": 11283,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8249,
+   "_side": 2
+  },
+  {
+   "matchId": 2396945,
+   "date": "2026-08-31",
+   "opponent": 11283,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 8249,
+   "_side": 2
+  }
+ ],
+ "mapStats": {
+  "de_ancient": {
+   "played": 2,
+   "winPct": 0
+  },
+  "de_anubis": {
+   "played": 1,
+   "winPct": 100
+  },
+  "de_dust2": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_inferno": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_mirage": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_nuke": {
+   "played": 2,
+   "winPct": 50
+  }
+ }
+}

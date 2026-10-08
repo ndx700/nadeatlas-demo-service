@@ -1,0 +1,65 @@
+{
+ "id": 11241,
+ "name": "B8",
+ "country": "UA",
+ "rankHltv": 15,
+ "rankVrs": 16,
+ "players": [
+  {
+   "id": 20112,
+   "nick": "alex666",
+   "name": "Alexey Yarmoshchuk",
+   "country": "UA",
+   "role": "igl"
+  },
+  {
+   "id": 21708,
+   "nick": "npl",
+   "name": "Andrii Kukharskyi",
+   "country": "UA"
+  },
+  {
+   "id": 22842,
+   "nick": "kensizor",
+   "name": "Artem Kapran",
+   "country": "UA"
+  },
+  {
+   "id": 23643,
+   "nick": "esenthial",
+   "name": "Dmytro Tsvir",
+   "country": "UA"
+  },
+  {
+   "id": 25619,
+   "nick": "s1zzi",
+   "name": "Danylo Vinnyk",
+   "country": "UA"
+  }
+ ],
+ "events": [],
+ "recent": [
+  {
+   "matchId": 2396606,
+   "date": "2026-08-20",
+   "opponent": 7020,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8261,
+   "_side": 1
+  }
+ ],
+ "mapStats": {
+  "de_dust2": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_mirage": {
+   "played": 1,
+   "winPct": 0
+  }
+ }
+}

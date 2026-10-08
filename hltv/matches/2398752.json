@@ -1,0 +1,275 @@
+{
+ "id": 2398752,
+ "eventId": 8244,
+ "stage": null,
+ "time": "2026-10-09T21:30:00+08:00",
+ "bo": 3,
+ "status": "upcoming",
+ "team1": {
+  "id": 8297,
+  "score": null,
+  "players": []
+ },
+ "team2": {
+  "id": 4494,
+  "score": null,
+  "players": []
+ },
+ "maps": [],
+ "stats": {
+  "all": {
+   "both": [],
+   "t": [],
+   "ct": []
+  }
+ },
+ "mvp": null,
+ "highlight": null,
+ "h2h": {
+  "team1Wins": 11,
+  "team2Wins": 10,
+  "overtimes": 5,
+  "maps": [
+   {
+    "date": "2026-10-04",
+    "matchId": 2398729,
+    "eventId": null,
+    "event": "ESL Pro League Season 24",
+    "map": "de_mirage",
+    "score": [
+     7,
+     13
+    ],
+    "winner": 4494
+   },
+   {
+    "date": "2026-10-04",
+    "matchId": 2398729,
+    "eventId": null,
+    "event": "ESL Pro League Season 24",
+    "map": "de_cache",
+    "score": [
+     4,
+     13
+    ],
+    "winner": 4494
+   },
+   {
+    "date": "2026-09-19",
+    "matchId": 2398103,
+    "eventId": null,
+    "event": "StarLadder StarSeries Fall 2026",
+    "map": "de_nuke",
+    "score": [
+     13,
+     6
+    ],
+    "winner": 8297
+   },
+   {
+    "date": "2026-09-19",
+    "matchId": 2398103,
+    "eventId": null,
+    "event": "StarLadder StarSeries Fall 2026",
+    "map": "de_mirage",
+    "score": [
+     16,
+     19
+    ],
+    "winner": 4494
+   },
+   {
+    "date": "2026-09-19",
+    "matchId": 2398103,
+    "eventId": null,
+    "event": "StarLadder StarSeries Fall 2026",
+    "map": "de_cache",
+    "score": [
+     13,
+     8
+    ],
+    "winner": 8297
+   },
+   {
+    "date": "2026-06-12",
+    "matchId": 2394971,
+    "eventId": null,
+    "event": "IEM Cologne Major 2026",
+    "map": "de_overpass",
+    "score": [
+     13,
+     7
+    ],
+    "winner": 8297
+   },
+   {
+    "date": "2026-06-12",
+    "matchId": 2394971,
+    "eventId": null,
+    "event": "IEM Cologne Major 2026",
+    "map": "de_inferno",
+    "score": [
+     5,
+     13
+    ],
+    "winner": 4494
+   },
+   {
+    "date": "2026-06-12",
+    "matchId": 2394971,
+    "eventId": null,
+    "event": "IEM Cologne Major 2026",
+    "map": "de_nuke",
+    "score": [
+     13,
+     5
+    ],
+    "winner": 8297
+   },
+   {
+    "date": "2026-04-16",
+    "matchId": 2393238,
+    "eventId": null,
+    "event": "IEM Rio 2026",
+    "map": "de_dust2",
+    "score": [
+     13,
+     9
+    ],
+    "winner": 8297
+   },
+   {
+    "date": "2026-04-16",
+    "matchId": 2393238,
+    "eventId": null,
+    "event": "IEM Rio 2026",
+    "map": "de_mirage",
+    "score": [
+     13,
+     5
+    ],
+    "winner": 8297
+   },
+   {
+    "date": "2025-11-05",
+    "matchId": 2387405,
+    "eventId": null,
+    "event": "IEM Chengdu 2025",
+    "map": "de_train",
+    "score": [
+     14,
+     16
+    ],
+    "winner": 4494
+   },
+   {
+    "date": "2025-11-05",
+    "matchId": 2387405,
+    "eventId": null,
+    "event": "IEM Chengdu 2025",
+    "map": "de_overpass",
+    "score": [
+     13,
+     11
+    ],
+    "winner": 8297
+   },
+   {
+    "date": "2025-11-05",
+    "matchId": 2387405,
+    "eventId": null,
+    "event": "IEM Chengdu 2025",
+    "map": "de_inferno",
+    "score": [
+     2,
+     13
+    ],
+    "winner": 4494
+   },
+   {
+    "date": "2025-09-02",
+    "matchId": 2384850,
+    "eventId": null,
+    "event": "BLAST Open London 2025",
+    "map": "de_mirage",
+    "score": [
+     16,
+     14
+    ],
+    "winner": 8297
+   },
+   {
+    "date": "2025-09-02",
+    "matchId": 2384850,
+    "eventId": null,
+    "event": "BLAST Open London 2025",
+    "map": "de_inferno",
+    "score": [
+     13,
+     7
+    ],
+    "winner": 8297
+   },
+   {
+    "date": "2025-08-02",
+    "matchId": 2383840,
+    "eventId": null,
+    "event": "IEM Cologne 2025",
+    "map": "de_inferno",
+    "score": [
+     11,
+     13
+    ],
+    "winner": 4494
+   },
+   {
+    "date": "2025-08-02",
+    "matchId": 2383840,
+    "eventId": null,
+    "event": "IEM Cologne 2025",
+    "map": "de_mirage",
+    "score": [
+     13,
+     10
+    ],
+    "winner": 8297
+   },
+   {
+    "date": "2025-08-02",
+    "matchId": 2383840,
+    "eventId": null,
+    "event": "IEM Cologne 2025",
+    "map": "de_train",
+    "score": [
+     16,
+     19
+    ],
+    "winner": 4494
+   },
+   {
+    "date": "2025-03-08",
+    "matchId": 2380042,
+    "eventId": null,
+    "event": "ESL Pro League Season 21",
+    "map": "de_nuke",
+    "score": [
+     11,
+     13
+    ],
+    "winner": 4494
+   },
+   {
+    "date": "2025-03-08",
+    "matchId": 2380042,
+    "eventId": null,
+    "event": "ESL Pro League Season 21",
+    "map": "de_inferno",
+    "score": [
+     16,
+     13
+    ],
+    "winner": 8297
+   }
+  ]
+ }
+}

@@ -1,0 +1,7794 @@
+{
+ "id": 2398108,
+ "eventId": 8057,
+ "stage": null,
+ "time": "2026-09-20T23:00:00+08:00",
+ "bo": 5,
+ "status": "finished",
+ "team1": {
+  "id": 11861,
+  "score": 1,
+  "players": [
+   21243,
+   19677,
+   8574,
+   18850,
+   7938
+  ]
+ },
+ "team2": {
+  "id": 9565,
+  "score": 3,
+  "players": [
+   11893,
+   16693,
+   11816,
+   18462,
+   7322
+  ]
+ },
+ "maps": [
+  {
+   "map": "de_anubis",
+   "pick": 11861,
+   "score": [
+    4,
+    13
+   ],
+   "halves": [
+    [
+     3,
+     9
+    ],
+    [
+     1,
+     4
+    ]
+   ]
+  },
+  {
+   "map": "de_inferno",
+   "pick": 9565,
+   "score": [
+    13,
+    11
+   ],
+   "halves": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     6
+    ]
+   ]
+  },
+  {
+   "map": "de_mirage",
+   "pick": 11861,
+   "score": [
+    4,
+    13
+   ],
+   "halves": [
+    [
+     4,
+     8
+    ],
+    [
+     0,
+     5
+    ]
+   ]
+  },
+  {
+   "map": "de_cache",
+   "pick": 9565,
+   "score": [
+    7,
+    13
+   ],
+   "halves": [
+    [
+     5,
+     7
+    ],
+    [
+     2,
+     6
+    ]
+   ]
+  },
+  {
+   "map": "de_nuke",
+   "pick": null,
+   "score": [
+    null,
+    null
+   ],
+   "halves": null
+  }
+ ],
+ "stats": {
+  "all": {
+   "both": [
+    {
+     "player": 21243,
+     "kills": 63,
+     "deaths": 59,
+     "swing": 1.13,
+     "adr": 81.9,
+     "kast": 64.1,
+     "rating": 1.19
+    },
+    {
+     "player": 19677,
+     "kills": 38,
+     "deaths": 60,
+     "swing": -1.96,
+     "adr": 63.1,
+     "kast": 65.4,
+     "rating": 0.83
+    },
+    {
+     "player": 8574,
+     "kills": 39,
+     "deaths": 55,
+     "swing": -1.11,
+     "adr": 51.6,
+     "kast": 61.5,
+     "rating": 0.83
+    },
+    {
+     "player": 18850,
+     "kills": 41,
+     "deaths": 54,
+     "swing": -3.16,
+     "adr": 58.4,
+     "kast": 59.0,
+     "rating": 0.8
+    },
+    {
+     "player": 7938,
+     "kills": 37,
+     "deaths": 58,
+     "swing": -5.0,
+     "adr": 63.0,
+     "kast": 65.4,
+     "rating": 0.68
+    },
+    {
+     "player": 11893,
+     "kills": 71,
+     "deaths": 44,
+     "swing": 5.48,
+     "adr": 95.3,
+     "kast": 80.8,
+     "rating": 1.53
+    },
+    {
+     "player": 16693,
+     "kills": 51,
+     "deaths": 45,
+     "swing": 4.22,
+     "adr": 74.8,
+     "kast": 82.1,
+     "rating": 1.31
+    },
+    {
+     "player": 11816,
+     "kills": 61,
+     "deaths": 43,
+     "swing": 0.75,
+     "adr": 81.5,
+     "kast": 82.1,
+     "rating": 1.2
+    },
+    {
+     "player": 18462,
+     "kills": 59,
+     "deaths": 42,
+     "swing": 1.1,
+     "adr": 75.9,
+     "kast": 74.4,
+     "rating": 1.19
+    },
+    {
+     "player": 7322,
+     "kills": 44,
+     "deaths": 46,
+     "swing": -1.45,
+     "adr": 61.3,
+     "kast": 75.6,
+     "rating": 0.93
+    },
+    {
+     "player": 21243,
+     "kills": 14,
+     "deaths": 15,
+     "swing": -0.07,
+     "adr": 80.6,
+     "kast": 64.7,
+     "rating": 1.22
+    },
+    {
+     "player": 18850,
+     "kills": 10,
+     "deaths": 13,
+     "swing": -2.79,
+     "adr": 57.5,
+     "kast": 52.9,
+     "rating": 0.85
+    },
+    {
+     "player": 7938,
+     "kills": 10,
+     "deaths": 14,
+     "swing": -4.26,
+     "adr": 75.9,
+     "kast": 70.6,
+     "rating": 0.84
+    },
+    {
+     "player": 19677,
+     "kills": 5,
+     "deaths": 15,
+     "swing": -7.36,
+     "adr": 42.1,
+     "kast": 64.7,
+     "rating": 0.59
+    },
+    {
+     "player": 8574,
+     "kills": 6,
+     "deaths": 13,
+     "swing": -6.48,
+     "adr": 40.9,
+     "kast": 47.1,
+     "rating": 0.55
+    },
+    {
+     "player": 18462,
+     "kills": 22,
+     "deaths": 9,
+     "swing": 6.92,
+     "adr": 106.8,
+     "kast": 88.2,
+     "rating": 1.99
+    },
+    {
+     "player": 11893,
+     "kills": 18,
+     "deaths": 6,
+     "swing": 8.6,
+     "adr": 104.1,
+     "kast": 94.1,
+     "rating": 1.9
+    },
+    {
+     "player": 11816,
+     "kills": 15,
+     "deaths": 7,
+     "swing": 3.68,
+     "adr": 92.1,
+     "kast": 100.0,
+     "rating": 1.54
+    },
+    {
+     "player": 16693,
+     "kills": 9,
+     "deaths": 12,
+     "swing": 6.09,
+     "adr": 67.3,
+     "kast": 64.7,
+     "rating": 1.29
+    },
+    {
+     "player": 7322,
+     "kills": 6,
+     "deaths": 11,
+     "swing": -4.33,
+     "adr": 56.5,
+     "kast": 76.5,
+     "rating": 0.7
+    },
+    {
+     "player": 21243,
+     "kills": 23,
+     "deaths": 18,
+     "swing": 5.67,
+     "adr": 97.1,
+     "kast": 70.8,
+     "rating": 1.6
+    },
+    {
+     "player": 8574,
+     "kills": 17,
+     "deaths": 14,
+     "swing": 1.8,
+     "adr": 61.6,
+     "kast": 70.8,
+     "rating": 1.18
+    },
+    {
+     "player": 19677,
+     "kills": 16,
+     "deaths": 16,
+     "swing": 0.96,
+     "adr": 86.6,
+     "kast": 70.8,
+     "rating": 1.13
+    },
+    {
+     "player": 18850,
+     "kills": 14,
+     "deaths": 15,
+     "swing": -1.98,
+     "adr": 50.2,
+     "kast": 66.7,
+     "rating": 0.96
+    },
+    {
+     "player": 7938,
+     "kills": 11,
+     "deaths": 16,
+     "swing": -3.11,
+     "adr": 66.6,
+     "kast": 66.7,
+     "rating": 0.75
+    },
+    {
+     "player": 11816,
+     "kills": 22,
+     "deaths": 17,
+     "swing": -0.21,
+     "adr": 90.1,
+     "kast": 66.7,
+     "rating": 1.22
+    },
+    {
+     "player": 11893,
+     "kills": 18,
+     "deaths": 19,
+     "swing": 1.61,
+     "adr": 91.3,
+     "kast": 70.8,
+     "rating": 1.22
+    },
+    {
+     "player": 7322,
+     "kills": 15,
+     "deaths": 16,
+     "swing": 0.8,
+     "adr": 69.5,
+     "kast": 79.2,
+     "rating": 1.07
+    },
+    {
+     "player": 16693,
+     "kills": 13,
+     "deaths": 16,
+     "swing": 2.16,
+     "adr": 49.0,
+     "kast": 79.2,
+     "rating": 1.06
+    },
+    {
+     "player": 18462,
+     "kills": 11,
+     "deaths": 15,
+     "swing": -7.69,
+     "adr": 50.0,
+     "kast": 70.8,
+     "rating": 0.63
+    },
+    {
+     "player": 21243,
+     "kills": 12,
+     "deaths": 12,
+     "swing": -3.46,
+     "adr": 87.1,
+     "kast": 58.8,
+     "rating": 1.1
+    },
+    {
+     "player": 19677,
+     "kills": 8,
+     "deaths": 15,
+     "swing": -1.26,
+     "adr": 53.2,
+     "kast": 52.9,
+     "rating": 0.8
+    },
+    {
+     "player": 18850,
+     "kills": 8,
+     "deaths": 12,
+     "swing": -4.12,
+     "adr": 64.4,
+     "kast": 58.8,
+     "rating": 0.74
+    },
+    {
+     "player": 8574,
+     "kills": 5,
+     "deaths": 14,
+     "swing": -2.52,
+     "adr": 36.9,
+     "kast": 52.9,
+     "rating": 0.6
+    },
+    {
+     "player": 7938,
+     "kills": 5,
+     "deaths": 14,
+     "swing": -9.0,
+     "adr": 41.4,
+     "kast": 58.8,
+     "rating": 0.47
+    },
+    {
+     "player": 16693,
+     "kills": 17,
+     "deaths": 7,
+     "swing": 6.97,
+     "adr": 109.9,
+     "kast": 100.0,
+     "rating": 1.83
+    },
+    {
+     "player": 18462,
+     "kills": 15,
+     "deaths": 7,
+     "swing": 9.44,
+     "adr": 96.2,
+     "kast": 64.7,
+     "rating": 1.73
+    },
+    {
+     "player": 11893,
+     "kills": 17,
+     "deaths": 7,
+     "swing": 7.71,
+     "adr": 98.8,
+     "kast": 94.1,
+     "rating": 1.67
+    },
+    {
+     "player": 11816,
+     "kills": 8,
+     "deaths": 9,
+     "swing": -0.63,
+     "adr": 65.8,
+     "kast": 82.4,
+     "rating": 1.05
+    },
+    {
+     "player": 7322,
+     "kills": 10,
+     "deaths": 8,
+     "swing": -3.12,
+     "adr": 40.2,
+     "kast": 82.4,
+     "rating": 0.88
+    },
+    {
+     "player": 21243,
+     "kills": 14,
+     "deaths": 14,
+     "swing": 0.61,
+     "adr": 60.3,
+     "kast": 60.0,
+     "rating": 1.0
+    },
+    {
+     "player": 8574,
+     "kills": 11,
+     "deaths": 14,
+     "swing": 1.15,
+     "adr": 61.2,
+     "kast": 70.0,
+     "rating": 0.96
+    },
+    {
+     "player": 19677,
+     "kills": 9,
+     "deaths": 14,
+     "swing": -1.47,
+     "adr": 61.4,
+     "kast": 70.0,
+     "rating": 0.89
+    },
+    {
+     "player": 18850,
+     "kills": 9,
+     "deaths": 14,
+     "swing": -4.07,
+     "adr": 64.0,
+     "kast": 55.0,
+     "rating": 0.77
+    },
+    {
+     "player": 7938,
+     "kills": 11,
+     "deaths": 14,
+     "swing": -4.47,
+     "adr": 66.2,
+     "kast": 65.0,
+     "rating": 0.68
+    },
+    {
+     "player": 11893,
+     "kills": 18,
+     "deaths": 12,
+     "swing": 5.58,
+     "adr": 89.5,
+     "kast": 70.0,
+     "rating": 1.6
+    },
+    {
+     "player": 16693,
+     "kills": 12,
+     "deaths": 10,
+     "swing": 2.78,
+     "adr": 82.5,
+     "kast": 85.0,
+     "rating": 1.29
+    },
+    {
+     "player": 11816,
+     "kills": 16,
+     "deaths": 10,
+     "swing": 0.56,
+     "adr": 75.7,
+     "kast": 85.0,
+     "rating": 1.17
+    },
+    {
+     "player": 7322,
+     "kills": 13,
+     "deaths": 11,
+     "swing": -0.27,
+     "adr": 73.5,
+     "kast": 65.0,
+     "rating": 1.02
+    },
+    {
+     "player": 18462,
+     "kills": 11,
+     "deaths": 11,
+     "swing": -0.4,
+     "adr": 63.4,
+     "kast": 75.0,
+     "rating": 1.01
+    }
+   ],
+   "t": [
+    {
+     "player": 21243,
+     "kills": 37,
+     "deaths": 31,
+     "swing": 2.74,
+     "adr": 81.9,
+     "kast": 72.7,
+     "rating": 1.44,
+     "_ordinal": "1"
+    },
+    {
+     "player": 18850,
+     "kills": 26,
+     "deaths": 32,
+     "swing": -2.04,
+     "adr": 63.4,
+     "kast": 59.1,
+     "rating": 0.92,
+     "_ordinal": "1"
+    },
+    {
+     "player": 19677,
+     "kills": 18,
+     "deaths": 36,
+     "swing": -1.45,
+     "adr": 51.0,
+     "kast": 59.1,
+     "rating": 0.82,
+     "_ordinal": "1"
+    },
+    {
+     "player": 7938,
+     "kills": 18,
+     "deaths": 36,
+     "swing": -6.26,
+     "adr": 61.5,
+     "kast": 56.8,
+     "rating": 0.62,
+     "_ordinal": "1"
+    },
+    {
+     "player": 8574,
+     "kills": 13,
+     "deaths": 34,
+     "swing": -4.26,
+     "adr": 35.4,
+     "kast": 56.8,
+     "rating": 0.61,
+     "_ordinal": "1"
+    },
+    {
+     "player": 11893,
+     "kills": 36,
+     "deaths": 23,
+     "swing": 10.09,
+     "adr": 110.4,
+     "kast": 85.3,
+     "rating": 2.07,
+     "_ordinal": "2"
+    },
+    {
+     "player": 11816,
+     "kills": 29,
+     "deaths": 20,
+     "swing": 3.12,
+     "adr": 89.9,
+     "kast": 82.4,
+     "rating": 1.49,
+     "_ordinal": "2"
+    },
+    {
+     "player": 7322,
+     "kills": 20,
+     "deaths": 19,
+     "swing": 0.56,
+     "adr": 61.0,
+     "kast": 70.6,
+     "rating": 1.06,
+     "_ordinal": "2"
+    },
+    {
+     "player": 18462,
+     "kills": 18,
+     "deaths": 20,
+     "swing": -2.62,
+     "adr": 53.3,
+     "kast": 70.6,
+     "rating": 0.91,
+     "_ordinal": "2"
+    },
+    {
+     "player": 16693,
+     "kills": 14,
+     "deaths": 26,
+     "swing": -2.57,
+     "adr": 61.6,
+     "kast": 76.5,
+     "rating": 0.84,
+     "_ordinal": "2"
+    },
+    {
+     "player": 21243,
+     "kills": 8,
+     "deaths": 10,
+     "swing": -2.21,
+     "adr": 63.2,
+     "kast": 58.3,
+     "rating": 0.99,
+     "_ordinal": "3"
+    },
+    {
+     "player": 7938,
+     "kills": 7,
+     "deaths": 10,
+     "swing": -3.73,
+     "adr": 85.0,
+     "kast": 66.7,
+     "rating": 0.85,
+     "_ordinal": "3"
+    },
+    {
+     "player": 8574,
+     "kills": 5,
+     "deaths": 9,
+     "swing": -4.18,
+     "adr": 48.6,
+     "kast": 58.3,
+     "rating": 0.69,
+     "_ordinal": "3"
+    },
+    {
+     "player": 19677,
+     "kills": 4,
+     "deaths": 10,
+     "swing": -6.24,
+     "adr": 38.2,
+     "kast": 58.3,
+     "rating": 0.63,
+     "_ordinal": "3"
+    },
+    {
+     "player": 18850,
+     "kills": 5,
+     "deaths": 9,
+     "swing": -6.36,
+     "adr": 34.6,
+     "kast": 50.0,
+     "rating": 0.55,
+     "_ordinal": "3"
+    },
+    {
+     "player": 11893,
+     "kills": 8,
+     "deaths": 3,
+     "swing": 15.3,
+     "adr": 154.8,
+     "kast": 100.0,
+     "rating": 2.89,
+     "_ordinal": "4"
+    },
+    {
+     "player": 11816,
+     "kills": 6,
+     "deaths": 2,
+     "swing": 4.75,
+     "adr": 117.4,
+     "kast": 100.0,
+     "rating": 1.92,
+     "_ordinal": "4"
+    },
+    {
+     "player": 18462,
+     "kills": 5,
+     "deaths": 4,
+     "swing": 1.5,
+     "adr": 83.4,
+     "kast": 100.0,
+     "rating": 1.25,
+     "_ordinal": "4"
+    },
+    {
+     "player": 7322,
+     "kills": 2,
+     "deaths": 2,
+     "swing": 1.59,
+     "adr": 62.0,
+     "kast": 80.0,
+     "rating": 1.06,
+     "_ordinal": "4"
+    },
+    {
+     "player": 16693,
+     "kills": 1,
+     "deaths": 5,
+     "swing": -6.39,
+     "adr": 50.0,
+     "kast": 60.0,
+     "rating": 0.38,
+     "_ordinal": "4"
+    },
+    {
+     "player": 21243,
+     "kills": 13,
+     "deaths": 7,
+     "swing": 12.75,
+     "adr": 107.8,
+     "kast": 83.3,
+     "rating": 2.41,
+     "_ordinal": "5"
+    },
+    {
+     "player": 18850,
+     "kills": 11,
+     "deaths": 7,
+     "swing": 3.31,
+     "adr": 73.2,
+     "kast": 75.0,
+     "rating": 1.46,
+     "_ordinal": "5"
+    },
+    {
+     "player": 19677,
+     "kills": 3,
+     "deaths": 9,
+     "swing": -3.61,
+     "adr": 50.2,
+     "kast": 58.3,
+     "rating": 0.69,
+     "_ordinal": "5"
+    },
+    {
+     "player": 7938,
+     "kills": 4,
+     "deaths": 8,
+     "swing": -4.58,
+     "adr": 54.2,
+     "kast": 58.3,
+     "rating": 0.65,
+     "_ordinal": "5"
+    },
+    {
+     "player": 8574,
+     "kills": 4,
+     "deaths": 8,
+     "swing": -6.86,
+     "adr": 33.5,
+     "kast": 58.3,
+     "rating": 0.56,
+     "_ordinal": "5"
+    },
+    {
+     "player": 11893,
+     "kills": 12,
+     "deaths": 11,
+     "swing": 4.5,
+     "adr": 107.0,
+     "kast": 83.3,
+     "rating": 1.67,
+     "_ordinal": "6"
+    },
+    {
+     "player": 11816,
+     "kills": 12,
+     "deaths": 9,
+     "swing": 3.82,
+     "adr": 101.2,
+     "kast": 75.0,
+     "rating": 1.66,
+     "_ordinal": "6"
+    },
+    {
+     "player": 7322,
+     "kills": 6,
+     "deaths": 9,
+     "swing": 0.34,
+     "adr": 62.4,
+     "kast": 75.0,
+     "rating": 1.05,
+     "_ordinal": "6"
+    },
+    {
+     "player": 16693,
+     "kills": 6,
+     "deaths": 11,
+     "swing": -3.1,
+     "adr": 37.5,
+     "kast": 75.0,
+     "rating": 0.76,
+     "_ordinal": "6"
+    },
+    {
+     "player": 18462,
+     "kills": 4,
+     "deaths": 8,
+     "swing": -11.21,
+     "adr": 45.4,
+     "kast": 66.7,
+     "rating": 0.6,
+     "_ordinal": "6"
+    },
+    {
+     "player": 21243,
+     "kills": 11,
+     "deaths": 8,
+     "swing": 1.37,
+     "adr": 106.0,
+     "kast": 75.0,
+     "rating": 1.48,
+     "_ordinal": "7"
+    },
+    {
+     "player": 19677,
+     "kills": 7,
+     "deaths": 10,
+     "swing": 4.53,
+     "adr": 54.6,
+     "kast": 50.0,
+     "rating": 1.03,
+     "_ordinal": "7"
+    },
+    {
+     "player": 18850,
+     "kills": 6,
+     "deaths": 9,
+     "swing": -3.7,
+     "adr": 76.8,
+     "kast": 50.0,
+     "rating": 0.82,
+     "_ordinal": "7"
+    },
+    {
+     "player": 8574,
+     "kills": 1,
+     "deaths": 10,
+     "swing": -3.82,
+     "adr": 19.3,
+     "kast": 58.3,
+     "rating": 0.5,
+     "_ordinal": "7"
+    },
+    {
+     "player": 7938,
+     "kills": 4,
+     "deaths": 10,
+     "swing": -10.06,
+     "adr": 35.1,
+     "kast": 50.0,
+     "rating": 0.48,
+     "_ordinal": "7"
+    },
+    {
+     "player": 16693,
+     "kills": 5,
+     "deaths": 2,
+     "swing": 7.3,
+     "adr": 156.2,
+     "kast": 100.0,
+     "rating": 2.29,
+     "_ordinal": "8"
+    },
+    {
+     "player": 11816,
+     "kills": 4,
+     "deaths": 2,
+     "swing": 11.24,
+     "adr": 88.4,
+     "kast": 100.0,
+     "rating": 2.06,
+     "_ordinal": "8"
+    },
+    {
+     "player": 18462,
+     "kills": 3,
+     "deaths": 1,
+     "swing": 13.74,
+     "adr": 58.0,
+     "kast": 80.0,
+     "rating": 1.97,
+     "_ordinal": "8"
+    },
+    {
+     "player": 11893,
+     "kills": 3,
+     "deaths": 3,
+     "swing": 6.62,
+     "adr": 70.6,
+     "kast": 100.0,
+     "rating": 1.52,
+     "_ordinal": "8"
+    },
+    {
+     "player": 7322,
+     "kills": 5,
+     "deaths": 1,
+     "swing": 2.29,
+     "adr": 46.4,
+     "kast": 100.0,
+     "rating": 1.38,
+     "_ordinal": "8"
+    },
+    {
+     "player": 19677,
+     "kills": 4,
+     "deaths": 7,
+     "swing": 0.01,
+     "adr": 66.0,
+     "kast": 75.0,
+     "rating": 1.11,
+     "_ordinal": "9"
+    },
+    {
+     "player": 18850,
+     "kills": 4,
+     "deaths": 7,
+     "swing": -1.11,
+     "adr": 71.8,
+     "kast": 62.5,
+     "rating": 0.96,
+     "_ordinal": "9"
+    },
+    {
+     "player": 21243,
+     "kills": 5,
+     "deaths": 6,
+     "swing": -2.79,
+     "adr": 34.8,
+     "kast": 75.0,
+     "rating": 0.83,
+     "_ordinal": "9"
+    },
+    {
+     "player": 8574,
+     "kills": 3,
+     "deaths": 7,
+     "swing": -1.13,
+     "adr": 42.5,
+     "kast": 50.0,
+     "rating": 0.72,
+     "_ordinal": "9"
+    },
+    {
+     "player": 7938,
+     "kills": 3,
+     "deaths": 8,
+     "swing": -6.89,
+     "adr": 77.0,
+     "kast": 50.0,
+     "rating": 0.57,
+     "_ordinal": "9"
+    },
+    {
+     "player": 11893,
+     "kills": 13,
+     "deaths": 6,
+     "swing": 14.94,
+     "adr": 111.9,
+     "kast": 75.0,
+     "rating": 2.35,
+     "_ordinal": "10"
+    },
+    {
+     "player": 11816,
+     "kills": 7,
+     "deaths": 7,
+     "swing": -1.63,
+     "adr": 67.8,
+     "kast": 75.0,
+     "rating": 0.98,
+     "_ordinal": "10"
+    },
+    {
+     "player": 7322,
+     "kills": 7,
+     "deaths": 7,
+     "swing": -0.37,
+     "adr": 65.3,
+     "kast": 50.0,
+     "rating": 0.94,
+     "_ordinal": "10"
+    },
+    {
+     "player": 18462,
+     "kills": 6,
+     "deaths": 7,
+     "swing": -2.56,
+     "adr": 46.7,
+     "kast": 58.3,
+     "rating": 0.86,
+     "_ordinal": "10"
+    },
+    {
+     "player": 16693,
+     "kills": 2,
+     "deaths": 8,
+     "swing": -4.57,
+     "adr": 51.2,
+     "kast": 75.0,
+     "rating": 0.65,
+     "_ordinal": "10"
+    }
+   ],
+   "ct": [
+    {
+     "player": 8574,
+     "kills": 26,
+     "deaths": 21,
+     "swing": 2.96,
+     "adr": 72.6,
+     "kast": 67.6,
+     "rating": 1.11,
+     "_ordinal": "1"
+    },
+    {
+     "player": 21243,
+     "kills": 26,
+     "deaths": 28,
+     "swing": -0.95,
+     "adr": 81.9,
+     "kast": 52.9,
+     "rating": 0.86,
+     "_ordinal": "1"
+    },
+    {
+     "player": 19677,
+     "kills": 20,
+     "deaths": 24,
+     "swing": -2.62,
+     "adr": 78.8,
+     "kast": 73.5,
+     "rating": 0.85,
+     "_ordinal": "1"
+    },
+    {
+     "player": 7938,
+     "kills": 19,
+     "deaths": 22,
+     "swing": -3.35,
+     "adr": 65.0,
+     "kast": 76.5,
+     "rating": 0.75,
+     "_ordinal": "1"
+    },
+    {
+     "player": 18850,
+     "kills": 15,
+     "deaths": 22,
+     "swing": -4.6,
+     "adr": 51.9,
+     "kast": 58.8,
+     "rating": 0.66,
+     "_ordinal": "1"
+    },
+    {
+     "player": 16693,
+     "kills": 37,
+     "deaths": 19,
+     "swing": 9.47,
+     "adr": 85.1,
+     "kast": 86.4,
+     "rating": 1.67,
+     "_ordinal": "2"
+    },
+    {
+     "player": 18462,
+     "kills": 41,
+     "deaths": 22,
+     "swing": 3.97,
+     "adr": 93.3,
+     "kast": 77.3,
+     "rating": 1.41,
+     "_ordinal": "2"
+    },
+    {
+     "player": 11893,
+     "kills": 35,
+     "deaths": 21,
+     "swing": 1.92,
+     "adr": 83.5,
+     "kast": 77.3,
+     "rating": 1.12,
+     "_ordinal": "2"
+    },
+    {
+     "player": 11816,
+     "kills": 32,
+     "deaths": 23,
+     "swing": -1.09,
+     "adr": 75.0,
+     "kast": 81.8,
+     "rating": 0.98,
+     "_ordinal": "2"
+    },
+    {
+     "player": 7322,
+     "kills": 24,
+     "deaths": 27,
+     "swing": -3.0,
+     "adr": 61.6,
+     "kast": 79.5,
+     "rating": 0.83,
+     "_ordinal": "2"
+    },
+    {
+     "player": 21243,
+     "kills": 6,
+     "deaths": 5,
+     "swing": 5.05,
+     "adr": 122.2,
+     "kast": 80.0,
+     "rating": 1.76,
+     "_ordinal": "3"
+    },
+    {
+     "player": 18850,
+     "kills": 5,
+     "deaths": 4,
+     "swing": 5.79,
+     "adr": 112.4,
+     "kast": 60.0,
+     "rating": 1.58,
+     "_ordinal": "3"
+    },
+    {
+     "player": 7938,
+     "kills": 3,
+     "deaths": 4,
+     "swing": -5.53,
+     "adr": 54.0,
+     "kast": 80.0,
+     "rating": 0.83,
+     "_ordinal": "3"
+    },
+    {
+     "player": 19677,
+     "kills": 1,
+     "deaths": 5,
+     "swing": -10.04,
+     "adr": 51.2,
+     "kast": 80.0,
+     "rating": 0.51,
+     "_ordinal": "3"
+    },
+    {
+     "player": 8574,
+     "kills": 1,
+     "deaths": 4,
+     "swing": -12.01,
+     "adr": 22.6,
+     "kast": 20.0,
+     "rating": 0.24,
+     "_ordinal": "3"
+    },
+    {
+     "player": 18462,
+     "kills": 17,
+     "deaths": 5,
+     "swing": 9.18,
+     "adr": 116.6,
+     "kast": 83.3,
+     "rating": 2.3,
+     "_ordinal": "4"
+    },
+    {
+     "player": 16693,
+     "kills": 8,
+     "deaths": 7,
+     "swing": 11.3,
+     "adr": 74.5,
+     "kast": 66.7,
+     "rating": 1.67,
+     "_ordinal": "4"
+    },
+    {
+     "player": 11893,
+     "kills": 10,
+     "deaths": 3,
+     "swing": 5.81,
+     "adr": 83.0,
+     "kast": 91.7,
+     "rating": 1.48,
+     "_ordinal": "4"
+    },
+    {
+     "player": 11816,
+     "kills": 9,
+     "deaths": 5,
+     "swing": 3.23,
+     "adr": 81.5,
+     "kast": 100.0,
+     "rating": 1.38,
+     "_ordinal": "4"
+    },
+    {
+     "player": 7322,
+     "kills": 4,
+     "deaths": 9,
+     "swing": -6.8,
+     "adr": 54.2,
+     "kast": 75.0,
+     "rating": 0.55,
+     "_ordinal": "4"
+    },
+    {
+     "player": 8574,
+     "kills": 13,
+     "deaths": 6,
+     "swing": 10.45,
+     "adr": 89.8,
+     "kast": 83.3,
+     "rating": 1.81,
+     "_ordinal": "5"
+    },
+    {
+     "player": 19677,
+     "kills": 13,
+     "deaths": 7,
+     "swing": 5.53,
+     "adr": 122.9,
+     "kast": 83.3,
+     "rating": 1.57,
+     "_ordinal": "5"
+    },
+    {
+     "player": 7938,
+     "kills": 7,
+     "deaths": 8,
+     "swing": -1.65,
+     "adr": 79.0,
+     "kast": 75.0,
+     "rating": 0.85,
+     "_ordinal": "5"
+    },
+    {
+     "player": 21243,
+     "kills": 10,
+     "deaths": 11,
+     "swing": -1.41,
+     "adr": 86.4,
+     "kast": 58.3,
+     "rating": 0.8,
+     "_ordinal": "5"
+    },
+    {
+     "player": 18850,
+     "kills": 3,
+     "deaths": 8,
+     "swing": -7.27,
+     "adr": 27.2,
+     "kast": 58.3,
+     "rating": 0.46,
+     "_ordinal": "5"
+    },
+    {
+     "player": 16693,
+     "kills": 7,
+     "deaths": 5,
+     "swing": 7.41,
+     "adr": 60.5,
+     "kast": 83.3,
+     "rating": 1.36,
+     "_ordinal": "6"
+    },
+    {
+     "player": 7322,
+     "kills": 9,
+     "deaths": 7,
+     "swing": 1.26,
+     "adr": 76.7,
+     "kast": 83.3,
+     "rating": 1.1,
+     "_ordinal": "6"
+    },
+    {
+     "player": 11816,
+     "kills": 10,
+     "deaths": 8,
+     "swing": -4.23,
+     "adr": 78.9,
+     "kast": 58.3,
+     "rating": 0.78,
+     "_ordinal": "6"
+    },
+    {
+     "player": 11893,
+     "kills": 6,
+     "deaths": 8,
+     "swing": -1.29,
+     "adr": 75.6,
+     "kast": 58.3,
+     "rating": 0.76,
+     "_ordinal": "6"
+    },
+    {
+     "player": 18462,
+     "kills": 7,
+     "deaths": 7,
+     "swing": -4.16,
+     "adr": 54.5,
+     "kast": 75.0,
+     "rating": 0.66,
+     "_ordinal": "6"
+    },
+    {
+     "player": 8574,
+     "kills": 4,
+     "deaths": 4,
+     "swing": 0.62,
+     "adr": 79.0,
+     "kast": 40.0,
+     "rating": 0.83,
+     "_ordinal": "7"
+    },
+    {
+     "player": 18850,
+     "kills": 2,
+     "deaths": 3,
+     "swing": -5.13,
+     "adr": 34.4,
+     "kast": 80.0,
+     "rating": 0.55,
+     "_ordinal": "7"
+    },
+    {
+     "player": 7938,
+     "kills": 1,
+     "deaths": 4,
+     "swing": -6.45,
+     "adr": 56.6,
+     "kast": 80.0,
+     "rating": 0.44,
+     "_ordinal": "7"
+    },
+    {
+     "player": 19677,
+     "kills": 1,
+     "deaths": 5,
+     "swing": -15.16,
+     "adr": 49.8,
+     "kast": 60.0,
+     "rating": 0.25,
+     "_ordinal": "7"
+    },
+    {
+     "player": 21243,
+     "kills": 1,
+     "deaths": 4,
+     "swing": -15.06,
+     "adr": 41.8,
+     "kast": 20.0,
+     "rating": 0.18,
+     "_ordinal": "7"
+    },
+    {
+     "player": 11893,
+     "kills": 14,
+     "deaths": 4,
+     "swing": 8.16,
+     "adr": 110.5,
+     "kast": 91.7,
+     "rating": 1.74,
+     "_ordinal": "8"
+    },
+    {
+     "player": 16693,
+     "kills": 12,
+     "deaths": 5,
+     "swing": 6.83,
+     "adr": 90.7,
+     "kast": 100.0,
+     "rating": 1.63,
+     "_ordinal": "8"
+    },
+    {
+     "player": 18462,
+     "kills": 12,
+     "deaths": 6,
+     "swing": 7.65,
+     "adr": 112.2,
+     "kast": 58.3,
+     "rating": 1.62,
+     "_ordinal": "8"
+    },
+    {
+     "player": 7322,
+     "kills": 5,
+     "deaths": 7,
+     "swing": -5.37,
+     "adr": 37.7,
+     "kast": 75.0,
+     "rating": 0.68,
+     "_ordinal": "8"
+    },
+    {
+     "player": 11816,
+     "kills": 4,
+     "deaths": 7,
+     "swing": -5.58,
+     "adr": 56.3,
+     "kast": 75.0,
+     "rating": 0.63,
+     "_ordinal": "8"
+    },
+    {
+     "player": 8574,
+     "kills": 8,
+     "deaths": 7,
+     "swing": 2.67,
+     "adr": 73.7,
+     "kast": 83.3,
+     "rating": 1.12,
+     "_ordinal": "9"
+    },
+    {
+     "player": 21243,
+     "kills": 9,
+     "deaths": 8,
+     "swing": 2.88,
+     "adr": 77.3,
+     "kast": 50.0,
+     "rating": 1.11,
+     "_ordinal": "9"
+    },
+    {
+     "player": 7938,
+     "kills": 8,
+     "deaths": 6,
+     "swing": -2.86,
+     "adr": 59.0,
+     "kast": 75.0,
+     "rating": 0.76,
+     "_ordinal": "9"
+    },
+    {
+     "player": 19677,
+     "kills": 5,
+     "deaths": 7,
+     "swing": -2.45,
+     "adr": 58.3,
+     "kast": 66.7,
+     "rating": 0.74,
+     "_ordinal": "9"
+    },
+    {
+     "player": 18850,
+     "kills": 5,
+     "deaths": 7,
+     "swing": -6.04,
+     "adr": 58.8,
+     "kast": 50.0,
+     "rating": 0.65,
+     "_ordinal": "9"
+    },
+    {
+     "player": 16693,
+     "kills": 10,
+     "deaths": 2,
+     "swing": 13.79,
+     "adr": 129.4,
+     "kast": 100.0,
+     "rating": 2.25,
+     "_ordinal": "10"
+    },
+    {
+     "player": 11816,
+     "kills": 9,
+     "deaths": 3,
+     "swing": 3.86,
+     "adr": 87.6,
+     "kast": 100.0,
+     "rating": 1.44,
+     "_ordinal": "10"
+    },
+    {
+     "player": 18462,
+     "kills": 5,
+     "deaths": 4,
+     "swing": 2.84,
+     "adr": 88.4,
+     "kast": 100.0,
+     "rating": 1.24,
+     "_ordinal": "10"
+    },
+    {
+     "player": 7322,
+     "kills": 6,
+     "deaths": 4,
+     "swing": -0.13,
+     "adr": 85.9,
+     "kast": 87.5,
+     "rating": 1.14,
+     "_ordinal": "10"
+    },
+    {
+     "player": 11893,
+     "kills": 5,
+     "deaths": 6,
+     "swing": -8.47,
+     "adr": 55.9,
+     "kast": 62.5,
+     "rating": 0.48,
+     "_ordinal": "10"
+    }
+   ]
+  },
+  "de_anubis": {
+   "both": [
+    {
+     "player": 21243,
+     "kills": 63,
+     "deaths": 59,
+     "swing": 1.13,
+     "adr": 81.9,
+     "kast": 64.1,
+     "rating": 1.19,
+     "_ordinal": "1"
+    },
+    {
+     "player": 19677,
+     "kills": 38,
+     "deaths": 60,
+     "swing": -1.96,
+     "adr": 63.1,
+     "kast": 65.4,
+     "rating": 0.83,
+     "_ordinal": "1"
+    },
+    {
+     "player": 8574,
+     "kills": 39,
+     "deaths": 55,
+     "swing": -1.11,
+     "adr": 51.6,
+     "kast": 61.5,
+     "rating": 0.83,
+     "_ordinal": "1"
+    },
+    {
+     "player": 18850,
+     "kills": 41,
+     "deaths": 54,
+     "swing": -3.16,
+     "adr": 58.4,
+     "kast": 59.0,
+     "rating": 0.8,
+     "_ordinal": "1"
+    },
+    {
+     "player": 7938,
+     "kills": 37,
+     "deaths": 58,
+     "swing": -5.0,
+     "adr": 63.0,
+     "kast": 65.4,
+     "rating": 0.68,
+     "_ordinal": "1"
+    },
+    {
+     "player": 11893,
+     "kills": 71,
+     "deaths": 44,
+     "swing": 5.48,
+     "adr": 95.3,
+     "kast": 80.8,
+     "rating": 1.53,
+     "_ordinal": "2"
+    },
+    {
+     "player": 16693,
+     "kills": 51,
+     "deaths": 45,
+     "swing": 4.22,
+     "adr": 74.8,
+     "kast": 82.1,
+     "rating": 1.31,
+     "_ordinal": "2"
+    },
+    {
+     "player": 11816,
+     "kills": 61,
+     "deaths": 43,
+     "swing": 0.75,
+     "adr": 81.5,
+     "kast": 82.1,
+     "rating": 1.2,
+     "_ordinal": "2"
+    },
+    {
+     "player": 18462,
+     "kills": 59,
+     "deaths": 42,
+     "swing": 1.1,
+     "adr": 75.9,
+     "kast": 74.4,
+     "rating": 1.19,
+     "_ordinal": "2"
+    },
+    {
+     "player": 7322,
+     "kills": 44,
+     "deaths": 46,
+     "swing": -1.45,
+     "adr": 61.3,
+     "kast": 75.6,
+     "rating": 0.93,
+     "_ordinal": "2"
+    },
+    {
+     "player": 21243,
+     "kills": 14,
+     "deaths": 15,
+     "swing": -0.07,
+     "adr": 80.6,
+     "kast": 64.7,
+     "rating": 1.22,
+     "_ordinal": "3"
+    },
+    {
+     "player": 18850,
+     "kills": 10,
+     "deaths": 13,
+     "swing": -2.79,
+     "adr": 57.5,
+     "kast": 52.9,
+     "rating": 0.85,
+     "_ordinal": "3"
+    },
+    {
+     "player": 7938,
+     "kills": 10,
+     "deaths": 14,
+     "swing": -4.26,
+     "adr": 75.9,
+     "kast": 70.6,
+     "rating": 0.84,
+     "_ordinal": "3"
+    },
+    {
+     "player": 19677,
+     "kills": 5,
+     "deaths": 15,
+     "swing": -7.36,
+     "adr": 42.1,
+     "kast": 64.7,
+     "rating": 0.59,
+     "_ordinal": "3"
+    },
+    {
+     "player": 8574,
+     "kills": 6,
+     "deaths": 13,
+     "swing": -6.48,
+     "adr": 40.9,
+     "kast": 47.1,
+     "rating": 0.55,
+     "_ordinal": "3"
+    },
+    {
+     "player": 18462,
+     "kills": 22,
+     "deaths": 9,
+     "swing": 6.92,
+     "adr": 106.8,
+     "kast": 88.2,
+     "rating": 1.99,
+     "_ordinal": "4"
+    },
+    {
+     "player": 11893,
+     "kills": 18,
+     "deaths": 6,
+     "swing": 8.6,
+     "adr": 104.1,
+     "kast": 94.1,
+     "rating": 1.9,
+     "_ordinal": "4"
+    },
+    {
+     "player": 11816,
+     "kills": 15,
+     "deaths": 7,
+     "swing": 3.68,
+     "adr": 92.1,
+     "kast": 100.0,
+     "rating": 1.54,
+     "_ordinal": "4"
+    },
+    {
+     "player": 16693,
+     "kills": 9,
+     "deaths": 12,
+     "swing": 6.09,
+     "adr": 67.3,
+     "kast": 64.7,
+     "rating": 1.29,
+     "_ordinal": "4"
+    },
+    {
+     "player": 7322,
+     "kills": 6,
+     "deaths": 11,
+     "swing": -4.33,
+     "adr": 56.5,
+     "kast": 76.5,
+     "rating": 0.7,
+     "_ordinal": "4"
+    },
+    {
+     "player": 21243,
+     "kills": 23,
+     "deaths": 18,
+     "swing": 5.67,
+     "adr": 97.1,
+     "kast": 70.8,
+     "rating": 1.6,
+     "_ordinal": "5"
+    },
+    {
+     "player": 8574,
+     "kills": 17,
+     "deaths": 14,
+     "swing": 1.8,
+     "adr": 61.6,
+     "kast": 70.8,
+     "rating": 1.18,
+     "_ordinal": "5"
+    },
+    {
+     "player": 19677,
+     "kills": 16,
+     "deaths": 16,
+     "swing": 0.96,
+     "adr": 86.6,
+     "kast": 70.8,
+     "rating": 1.13,
+     "_ordinal": "5"
+    },
+    {
+     "player": 18850,
+     "kills": 14,
+     "deaths": 15,
+     "swing": -1.98,
+     "adr": 50.2,
+     "kast": 66.7,
+     "rating": 0.96,
+     "_ordinal": "5"
+    },
+    {
+     "player": 7938,
+     "kills": 11,
+     "deaths": 16,
+     "swing": -3.11,
+     "adr": 66.6,
+     "kast": 66.7,
+     "rating": 0.75,
+     "_ordinal": "5"
+    },
+    {
+     "player": 11816,
+     "kills": 22,
+     "deaths": 17,
+     "swing": -0.21,
+     "adr": 90.1,
+     "kast": 66.7,
+     "rating": 1.22,
+     "_ordinal": "6"
+    },
+    {
+     "player": 11893,
+     "kills": 18,
+     "deaths": 19,
+     "swing": 1.61,
+     "adr": 91.3,
+     "kast": 70.8,
+     "rating": 1.22,
+     "_ordinal": "6"
+    },
+    {
+     "player": 7322,
+     "kills": 15,
+     "deaths": 16,
+     "swing": 0.8,
+     "adr": 69.5,
+     "kast": 79.2,
+     "rating": 1.07,
+     "_ordinal": "6"
+    },
+    {
+     "player": 16693,
+     "kills": 13,
+     "deaths": 16,
+     "swing": 2.16,
+     "adr": 49.0,
+     "kast": 79.2,
+     "rating": 1.06,
+     "_ordinal": "6"
+    },
+    {
+     "player": 18462,
+     "kills": 11,
+     "deaths": 15,
+     "swing": -7.69,
+     "adr": 50.0,
+     "kast": 70.8,
+     "rating": 0.63,
+     "_ordinal": "6"
+    },
+    {
+     "player": 21243,
+     "kills": 12,
+     "deaths": 12,
+     "swing": -3.46,
+     "adr": 87.1,
+     "kast": 58.8,
+     "rating": 1.1,
+     "_ordinal": "7"
+    },
+    {
+     "player": 19677,
+     "kills": 8,
+     "deaths": 15,
+     "swing": -1.26,
+     "adr": 53.2,
+     "kast": 52.9,
+     "rating": 0.8,
+     "_ordinal": "7"
+    },
+    {
+     "player": 18850,
+     "kills": 8,
+     "deaths": 12,
+     "swing": -4.12,
+     "adr": 64.4,
+     "kast": 58.8,
+     "rating": 0.74,
+     "_ordinal": "7"
+    },
+    {
+     "player": 8574,
+     "kills": 5,
+     "deaths": 14,
+     "swing": -2.52,
+     "adr": 36.9,
+     "kast": 52.9,
+     "rating": 0.6,
+     "_ordinal": "7"
+    },
+    {
+     "player": 7938,
+     "kills": 5,
+     "deaths": 14,
+     "swing": -9.0,
+     "adr": 41.4,
+     "kast": 58.8,
+     "rating": 0.47,
+     "_ordinal": "7"
+    },
+    {
+     "player": 16693,
+     "kills": 17,
+     "deaths": 7,
+     "swing": 6.97,
+     "adr": 109.9,
+     "kast": 100.0,
+     "rating": 1.83,
+     "_ordinal": "8"
+    },
+    {
+     "player": 18462,
+     "kills": 15,
+     "deaths": 7,
+     "swing": 9.44,
+     "adr": 96.2,
+     "kast": 64.7,
+     "rating": 1.73,
+     "_ordinal": "8"
+    },
+    {
+     "player": 11893,
+     "kills": 17,
+     "deaths": 7,
+     "swing": 7.71,
+     "adr": 98.8,
+     "kast": 94.1,
+     "rating": 1.67,
+     "_ordinal": "8"
+    },
+    {
+     "player": 11816,
+     "kills": 8,
+     "deaths": 9,
+     "swing": -0.63,
+     "adr": 65.8,
+     "kast": 82.4,
+     "rating": 1.05,
+     "_ordinal": "8"
+    },
+    {
+     "player": 7322,
+     "kills": 10,
+     "deaths": 8,
+     "swing": -3.12,
+     "adr": 40.2,
+     "kast": 82.4,
+     "rating": 0.88,
+     "_ordinal": "8"
+    },
+    {
+     "player": 21243,
+     "kills": 14,
+     "deaths": 14,
+     "swing": 0.61,
+     "adr": 60.3,
+     "kast": 60.0,
+     "rating": 1.0,
+     "_ordinal": "9"
+    },
+    {
+     "player": 8574,
+     "kills": 11,
+     "deaths": 14,
+     "swing": 1.15,
+     "adr": 61.2,
+     "kast": 70.0,
+     "rating": 0.96,
+     "_ordinal": "9"
+    },
+    {
+     "player": 19677,
+     "kills": 9,
+     "deaths": 14,
+     "swing": -1.47,
+     "adr": 61.4,
+     "kast": 70.0,
+     "rating": 0.89,
+     "_ordinal": "9"
+    },
+    {
+     "player": 18850,
+     "kills": 9,
+     "deaths": 14,
+     "swing": -4.07,
+     "adr": 64.0,
+     "kast": 55.0,
+     "rating": 0.77,
+     "_ordinal": "9"
+    },
+    {
+     "player": 7938,
+     "kills": 11,
+     "deaths": 14,
+     "swing": -4.47,
+     "adr": 66.2,
+     "kast": 65.0,
+     "rating": 0.68,
+     "_ordinal": "9"
+    },
+    {
+     "player": 11893,
+     "kills": 18,
+     "deaths": 12,
+     "swing": 5.58,
+     "adr": 89.5,
+     "kast": 70.0,
+     "rating": 1.6,
+     "_ordinal": "10"
+    },
+    {
+     "player": 16693,
+     "kills": 12,
+     "deaths": 10,
+     "swing": 2.78,
+     "adr": 82.5,
+     "kast": 85.0,
+     "rating": 1.29,
+     "_ordinal": "10"
+    },
+    {
+     "player": 11816,
+     "kills": 16,
+     "deaths": 10,
+     "swing": 0.56,
+     "adr": 75.7,
+     "kast": 85.0,
+     "rating": 1.17,
+     "_ordinal": "10"
+    },
+    {
+     "player": 7322,
+     "kills": 13,
+     "deaths": 11,
+     "swing": -0.27,
+     "adr": 73.5,
+     "kast": 65.0,
+     "rating": 1.02,
+     "_ordinal": "10"
+    },
+    {
+     "player": 18462,
+     "kills": 11,
+     "deaths": 11,
+     "swing": -0.4,
+     "adr": 63.4,
+     "kast": 75.0,
+     "rating": 1.01,
+     "_ordinal": "10"
+    }
+   ],
+   "t": [
+    {
+     "player": 21243,
+     "kills": 37,
+     "deaths": 31,
+     "swing": 2.74,
+     "adr": 81.9,
+     "kast": 72.7,
+     "rating": 1.44,
+     "_ordinal": "1"
+    },
+    {
+     "player": 18850,
+     "kills": 26,
+     "deaths": 32,
+     "swing": -2.04,
+     "adr": 63.4,
+     "kast": 59.1,
+     "rating": 0.92,
+     "_ordinal": "1"
+    },
+    {
+     "player": 19677,
+     "kills": 18,
+     "deaths": 36,
+     "swing": -1.45,
+     "adr": 51.0,
+     "kast": 59.1,
+     "rating": 0.82,
+     "_ordinal": "1"
+    },
+    {
+     "player": 7938,
+     "kills": 18,
+     "deaths": 36,
+     "swing": -6.26,
+     "adr": 61.5,
+     "kast": 56.8,
+     "rating": 0.62,
+     "_ordinal": "1"
+    },
+    {
+     "player": 8574,
+     "kills": 13,
+     "deaths": 34,
+     "swing": -4.26,
+     "adr": 35.4,
+     "kast": 56.8,
+     "rating": 0.61,
+     "_ordinal": "1"
+    },
+    {
+     "player": 11893,
+     "kills": 36,
+     "deaths": 23,
+     "swing": 10.09,
+     "adr": 110.4,
+     "kast": 85.3,
+     "rating": 2.07,
+     "_ordinal": "2"
+    },
+    {
+     "player": 11816,
+     "kills": 29,
+     "deaths": 20,
+     "swing": 3.12,
+     "adr": 89.9,
+     "kast": 82.4,
+     "rating": 1.49,
+     "_ordinal": "2"
+    },
+    {
+     "player": 7322,
+     "kills": 20,
+     "deaths": 19,
+     "swing": 0.56,
+     "adr": 61.0,
+     "kast": 70.6,
+     "rating": 1.06,
+     "_ordinal": "2"
+    },
+    {
+     "player": 18462,
+     "kills": 18,
+     "deaths": 20,
+     "swing": -2.62,
+     "adr": 53.3,
+     "kast": 70.6,
+     "rating": 0.91,
+     "_ordinal": "2"
+    },
+    {
+     "player": 16693,
+     "kills": 14,
+     "deaths": 26,
+     "swing": -2.57,
+     "adr": 61.6,
+     "kast": 76.5,
+     "rating": 0.84,
+     "_ordinal": "2"
+    },
+    {
+     "player": 21243,
+     "kills": 8,
+     "deaths": 10,
+     "swing": -2.21,
+     "adr": 63.2,
+     "kast": 58.3,
+     "rating": 0.99,
+     "_ordinal": "3"
+    },
+    {
+     "player": 7938,
+     "kills": 7,
+     "deaths": 10,
+     "swing": -3.73,
+     "adr": 85.0,
+     "kast": 66.7,
+     "rating": 0.85,
+     "_ordinal": "3"
+    },
+    {
+     "player": 8574,
+     "kills": 5,
+     "deaths": 9,
+     "swing": -4.18,
+     "adr": 48.6,
+     "kast": 58.3,
+     "rating": 0.69,
+     "_ordinal": "3"
+    },
+    {
+     "player": 19677,
+     "kills": 4,
+     "deaths": 10,
+     "swing": -6.24,
+     "adr": 38.2,
+     "kast": 58.3,
+     "rating": 0.63,
+     "_ordinal": "3"
+    },
+    {
+     "player": 18850,
+     "kills": 5,
+     "deaths": 9,
+     "swing": -6.36,
+     "adr": 34.6,
+     "kast": 50.0,
+     "rating": 0.55,
+     "_ordinal": "3"
+    },
+    {
+     "player": 11893,
+     "kills": 8,
+     "deaths": 3,
+     "swing": 15.3,
+     "adr": 154.8,
+     "kast": 100.0,
+     "rating": 2.89,
+     "_ordinal": "4"
+    },
+    {
+     "player": 11816,
+     "kills": 6,
+     "deaths": 2,
+     "swing": 4.75,
+     "adr": 117.4,
+     "kast": 100.0,
+     "rating": 1.92,
+     "_ordinal": "4"
+    },
+    {
+     "player": 18462,
+     "kills": 5,
+     "deaths": 4,
+     "swing": 1.5,
+     "adr": 83.4,
+     "kast": 100.0,
+     "rating": 1.25,
+     "_ordinal": "4"
+    },
+    {
+     "player": 7322,
+     "kills": 2,
+     "deaths": 2,
+     "swing": 1.59,
+     "adr": 62.0,
+     "kast": 80.0,
+     "rating": 1.06,
+     "_ordinal": "4"
+    },
+    {
+     "player": 16693,
+     "kills": 1,
+     "deaths": 5,
+     "swing": -6.39,
+     "adr": 50.0,
+     "kast": 60.0,
+     "rating": 0.38,
+     "_ordinal": "4"
+    },
+    {
+     "player": 21243,
+     "kills": 13,
+     "deaths": 7,
+     "swing": 12.75,
+     "adr": 107.8,
+     "kast": 83.3,
+     "rating": 2.41,
+     "_ordinal": "5"
+    },
+    {
+     "player": 18850,
+     "kills": 11,
+     "deaths": 7,
+     "swing": 3.31,
+     "adr": 73.2,
+     "kast": 75.0,
+     "rating": 1.46,
+     "_ordinal": "5"
+    },
+    {
+     "player": 19677,
+     "kills": 3,
+     "deaths": 9,
+     "swing": -3.61,
+     "adr": 50.2,
+     "kast": 58.3,
+     "rating": 0.69,
+     "_ordinal": "5"
+    },
+    {
+     "player": 7938,
+     "kills": 4,
+     "deaths": 8,
+     "swing": -4.58,
+     "adr": 54.2,
+     "kast": 58.3,
+     "rating": 0.65,
+     "_ordinal": "5"
+    },
+    {
+     "player": 8574,
+     "kills": 4,
+     "deaths": 8,
+     "swing": -6.86,
+     "adr": 33.5,
+     "kast": 58.3,
+     "rating": 0.56,
+     "_ordinal": "5"
+    },
+    {
+     "player": 11893,
+     "kills": 12,
+     "deaths": 11,
+     "swing": 4.5,
+     "adr": 107.0,
+     "kast": 83.3,
+     "rating": 1.67,
+     "_ordinal": "6"
+    },
+    {
+     "player": 11816,
+     "kills": 12,
+     "deaths": 9,
+     "swing": 3.82,
+     "adr": 101.2,
+     "kast": 75.0,
+     "rating": 1.66,
+     "_ordinal": "6"
+    },
+    {
+     "player": 7322,
+     "kills": 6,
+     "deaths": 9,
+     "swing": 0.34,
+     "adr": 62.4,
+     "kast": 75.0,
+     "rating": 1.05,
+     "_ordinal": "6"
+    },
+    {
+     "player": 16693,
+     "kills": 6,
+     "deaths": 11,
+     "swing": -3.1,
+     "adr": 37.5,
+     "kast": 75.0,
+     "rating": 0.76,
+     "_ordinal": "6"
+    },
+    {
+     "player": 18462,
+     "kills": 4,
+     "deaths": 8,
+     "swing": -11.21,
+     "adr": 45.4,
+     "kast": 66.7,
+     "rating": 0.6,
+     "_ordinal": "6"
+    },
+    {
+     "player": 21243,
+     "kills": 11,
+     "deaths": 8,
+     "swing": 1.37,
+     "adr": 106.0,
+     "kast": 75.0,
+     "rating": 1.48,
+     "_ordinal": "7"
+    },
+    {
+     "player": 19677,
+     "kills": 7,
+     "deaths": 10,
+     "swing": 4.53,
+     "adr": 54.6,
+     "kast": 50.0,
+     "rating": 1.03,
+     "_ordinal": "7"
+    },
+    {
+     "player": 18850,
+     "kills": 6,
+     "deaths": 9,
+     "swing": -3.7,
+     "adr": 76.8,
+     "kast": 50.0,
+     "rating": 0.82,
+     "_ordinal": "7"
+    },
+    {
+     "player": 8574,
+     "kills": 1,
+     "deaths": 10,
+     "swing": -3.82,
+     "adr": 19.3,
+     "kast": 58.3,
+     "rating": 0.5,
+     "_ordinal": "7"
+    },
+    {
+     "player": 7938,
+     "kills": 4,
+     "deaths": 10,
+     "swing": -10.06,
+     "adr": 35.1,
+     "kast": 50.0,
+     "rating": 0.48,
+     "_ordinal": "7"
+    },
+    {
+     "player": 16693,
+     "kills": 5,
+     "deaths": 2,
+     "swing": 7.3,
+     "adr": 156.2,
+     "kast": 100.0,
+     "rating": 2.29,
+     "_ordinal": "8"
+    },
+    {
+     "player": 11816,
+     "kills": 4,
+     "deaths": 2,
+     "swing": 11.24,
+     "adr": 88.4,
+     "kast": 100.0,
+     "rating": 2.06,
+     "_ordinal": "8"
+    },
+    {
+     "player": 18462,
+     "kills": 3,
+     "deaths": 1,
+     "swing": 13.74,
+     "adr": 58.0,
+     "kast": 80.0,
+     "rating": 1.97,
+     "_ordinal": "8"
+    },
+    {
+     "player": 11893,
+     "kills": 3,
+     "deaths": 3,
+     "swing": 6.62,
+     "adr": 70.6,
+     "kast": 100.0,
+     "rating": 1.52,
+     "_ordinal": "8"
+    },
+    {
+     "player": 7322,
+     "kills": 5,
+     "deaths": 1,
+     "swing": 2.29,
+     "adr": 46.4,
+     "kast": 100.0,
+     "rating": 1.38,
+     "_ordinal": "8"
+    },
+    {
+     "player": 19677,
+     "kills": 4,
+     "deaths": 7,
+     "swing": 0.01,
+     "adr": 66.0,
+     "kast": 75.0,
+     "rating": 1.11,
+     "_ordinal": "9"
+    },
+    {
+     "player": 18850,
+     "kills": 4,
+     "deaths": 7,
+     "swing": -1.11,
+     "adr": 71.8,
+     "kast": 62.5,
+     "rating": 0.96,
+     "_ordinal": "9"
+    },
+    {
+     "player": 21243,
+     "kills": 5,
+     "deaths": 6,
+     "swing": -2.79,
+     "adr": 34.8,
+     "kast": 75.0,
+     "rating": 0.83,
+     "_ordinal": "9"
+    },
+    {
+     "player": 8574,
+     "kills": 3,
+     "deaths": 7,
+     "swing": -1.13,
+     "adr": 42.5,
+     "kast": 50.0,
+     "rating": 0.72,
+     "_ordinal": "9"
+    },
+    {
+     "player": 7938,
+     "kills": 3,
+     "deaths": 8,
+     "swing": -6.89,
+     "adr": 77.0,
+     "kast": 50.0,
+     "rating": 0.57,
+     "_ordinal": "9"
+    },
+    {
+     "player": 11893,
+     "kills": 13,
+     "deaths": 6,
+     "swing": 14.94,
+     "adr": 111.9,
+     "kast": 75.0,
+     "rating": 2.35,
+     "_ordinal": "10"
+    },
+    {
+     "player": 11816,
+     "kills": 7,
+     "deaths": 7,
+     "swing": -1.63,
+     "adr": 67.8,
+     "kast": 75.0,
+     "rating": 0.98,
+     "_ordinal": "10"
+    },
+    {
+     "player": 7322,
+     "kills": 7,
+     "deaths": 7,
+     "swing": -0.37,
+     "adr": 65.3,
+     "kast": 50.0,
+     "rating": 0.94,
+     "_ordinal": "10"
+    },
+    {
+     "player": 18462,
+     "kills": 6,
+     "deaths": 7,
+     "swing": -2.56,
+     "adr": 46.7,
+     "kast": 58.3,
+     "rating": 0.86,
+     "_ordinal": "10"
+    },
+    {
+     "player": 16693,
+     "kills": 2,
+     "deaths": 8,
+     "swing": -4.57,
+     "adr": 51.2,
+     "kast": 75.0,
+     "rating": 0.65,
+     "_ordinal": "10"
+    }
+   ],
+   "ct": [
+    {
+     "player": 8574,
+     "kills": 26,
+     "deaths": 21,
+     "swing": 2.96,
+     "adr": 72.6,
+     "kast": 67.6,
+     "rating": 1.11,
+     "_ordinal": "1"
+    },
+    {
+     "player": 21243,
+     "kills": 26,
+     "deaths": 28,
+     "swing": -0.95,
+     "adr": 81.9,
+     "kast": 52.9,
+     "rating": 0.86,
+     "_ordinal": "1"
+    },
+    {
+     "player": 19677,
+     "kills": 20,
+     "deaths": 24,
+     "swing": -2.62,
+     "adr": 78.8,
+     "kast": 73.5,
+     "rating": 0.85,
+     "_ordinal": "1"
+    },
+    {
+     "player": 7938,
+     "kills": 19,
+     "deaths": 22,
+     "swing": -3.35,
+     "adr": 65.0,
+     "kast": 76.5,
+     "rating": 0.75,
+     "_ordinal": "1"
+    },
+    {
+     "player": 18850,
+     "kills": 15,
+     "deaths": 22,
+     "swing": -4.6,
+     "adr": 51.9,
+     "kast": 58.8,
+     "rating": 0.66,
+     "_ordinal": "1"
+    },
+    {
+     "player": 16693,
+     "kills": 37,
+     "deaths": 19,
+     "swing": 9.47,
+     "adr": 85.1,
+     "kast": 86.4,
+     "rating": 1.67,
+     "_ordinal": "2"
+    },
+    {
+     "player": 18462,
+     "kills": 41,
+     "deaths": 22,
+     "swing": 3.97,
+     "adr": 93.3,
+     "kast": 77.3,
+     "rating": 1.41,
+     "_ordinal": "2"
+    },
+    {
+     "player": 11893,
+     "kills": 35,
+     "deaths": 21,
+     "swing": 1.92,
+     "adr": 83.5,
+     "kast": 77.3,
+     "rating": 1.12,
+     "_ordinal": "2"
+    },
+    {
+     "player": 11816,
+     "kills": 32,
+     "deaths": 23,
+     "swing": -1.09,
+     "adr": 75.0,
+     "kast": 81.8,
+     "rating": 0.98,
+     "_ordinal": "2"
+    },
+    {
+     "player": 7322,
+     "kills": 24,
+     "deaths": 27,
+     "swing": -3.0,
+     "adr": 61.6,
+     "kast": 79.5,
+     "rating": 0.83,
+     "_ordinal": "2"
+    },
+    {
+     "player": 21243,
+     "kills": 6,
+     "deaths": 5,
+     "swing": 5.05,
+     "adr": 122.2,
+     "kast": 80.0,
+     "rating": 1.76,
+     "_ordinal": "3"
+    },
+    {
+     "player": 18850,
+     "kills": 5,
+     "deaths": 4,
+     "swing": 5.79,
+     "adr": 112.4,
+     "kast": 60.0,
+     "rating": 1.58,
+     "_ordinal": "3"
+    },
+    {
+     "player": 7938,
+     "kills": 3,
+     "deaths": 4,
+     "swing": -5.53,
+     "adr": 54.0,
+     "kast": 80.0,
+     "rating": 0.83,
+     "_ordinal": "3"
+    },
+    {
+     "player": 19677,
+     "kills": 1,
+     "deaths": 5,
+     "swing": -10.04,
+     "adr": 51.2,
+     "kast": 80.0,
+     "rating": 0.51,
+     "_ordinal": "3"
+    },
+    {
+     "player": 8574,
+     "kills": 1,
+     "deaths": 4,
+     "swing": -12.01,
+     "adr": 22.6,
+     "kast": 20.0,
+     "rating": 0.24,
+     "_ordinal": "3"
+    },
+    {
+     "player": 18462,
+     "kills": 17,
+     "deaths": 5,
+     "swing": 9.18,
+     "adr": 116.6,
+     "kast": 83.3,
+     "rating": 2.3,
+     "_ordinal": "4"
+    },
+    {
+     "player": 16693,
+     "kills": 8,
+     "deaths": 7,
+     "swing": 11.3,
+     "adr": 74.5,
+     "kast": 66.7,
+     "rating": 1.67,
+     "_ordinal": "4"
+    },
+    {
+     "player": 11893,
+     "kills": 10,
+     "deaths": 3,
+     "swing": 5.81,
+     "adr": 83.0,
+     "kast": 91.7,
+     "rating": 1.48,
+     "_ordinal": "4"
+    },
+    {
+     "player": 11816,
+     "kills": 9,
+     "deaths": 5,
+     "swing": 3.23,
+     "adr": 81.5,
+     "kast": 100.0,
+     "rating": 1.38,
+     "_ordinal": "4"
+    },
+    {
+     "player": 7322,
+     "kills": 4,
+     "deaths": 9,
+     "swing": -6.8,
+     "adr": 54.2,
+     "kast": 75.0,
+     "rating": 0.55,
+     "_ordinal": "4"
+    },
+    {
+     "player": 8574,
+     "kills": 13,
+     "deaths": 6,
+     "swing": 10.45,
+     "adr": 89.8,
+     "kast": 83.3,
+     "rating": 1.81,
+     "_ordinal": "5"
+    },
+    {
+     "player": 19677,
+     "kills": 13,
+     "deaths": 7,
+     "swing": 5.53,
+     "adr": 122.9,
+     "kast": 83.3,
+     "rating": 1.57,
+     "_ordinal": "5"
+    },
+    {
+     "player": 7938,
+     "kills": 7,
+     "deaths": 8,
+     "swing": -1.65,
+     "adr": 79.0,
+     "kast": 75.0,
+     "rating": 0.85,
+     "_ordinal": "5"
+    },
+    {
+     "player": 21243,
+     "kills": 10,
+     "deaths": 11,
+     "swing": -1.41,
+     "adr": 86.4,
+     "kast": 58.3,
+     "rating": 0.8,
+     "_ordinal": "5"
+    },
+    {
+     "player": 18850,
+     "kills": 3,
+     "deaths": 8,
+     "swing": -7.27,
+     "adr": 27.2,
+     "kast": 58.3,
+     "rating": 0.46,
+     "_ordinal": "5"
+    },
+    {
+     "player": 16693,
+     "kills": 7,
+     "deaths": 5,
+     "swing": 7.41,
+     "adr": 60.5,
+     "kast": 83.3,
+     "rating": 1.36,
+     "_ordinal": "6"
+    },
+    {
+     "player": 7322,
+     "kills": 9,
+     "deaths": 7,
+     "swing": 1.26,
+     "adr": 76.7,
+     "kast": 83.3,
+     "rating": 1.1,
+     "_ordinal": "6"
+    },
+    {
+     "player": 11816,
+     "kills": 10,
+     "deaths": 8,
+     "swing": -4.23,
+     "adr": 78.9,
+     "kast": 58.3,
+     "rating": 0.78,
+     "_ordinal": "6"
+    },
+    {
+     "player": 11893,
+     "kills": 6,
+     "deaths": 8,
+     "swing": -1.29,
+     "adr": 75.6,
+     "kast": 58.3,
+     "rating": 0.76,
+     "_ordinal": "6"
+    },
+    {
+     "player": 18462,
+     "kills": 7,
+     "deaths": 7,
+     "swing": -4.16,
+     "adr": 54.5,
+     "kast": 75.0,
+     "rating": 0.66,
+     "_ordinal": "6"
+    },
+    {
+     "player": 8574,
+     "kills": 4,
+     "deaths": 4,
+     "swing": 0.62,
+     "adr": 79.0,
+     "kast": 40.0,
+     "rating": 0.83,
+     "_ordinal": "7"
+    },
+    {
+     "player": 18850,
+     "kills": 2,
+     "deaths": 3,
+     "swing": -5.13,
+     "adr": 34.4,
+     "kast": 80.0,
+     "rating": 0.55,
+     "_ordinal": "7"
+    },
+    {
+     "player": 7938,
+     "kills": 1,
+     "deaths": 4,
+     "swing": -6.45,
+     "adr": 56.6,
+     "kast": 80.0,
+     "rating": 0.44,
+     "_ordinal": "7"
+    },
+    {
+     "player": 19677,
+     "kills": 1,
+     "deaths": 5,
+     "swing": -15.16,
+     "adr": 49.8,
+     "kast": 60.0,
+     "rating": 0.25,
+     "_ordinal": "7"
+    },
+    {
+     "player": 21243,
+     "kills": 1,
+     "deaths": 4,
+     "swing": -15.06,
+     "adr": 41.8,
+     "kast": 20.0,
+     "rating": 0.18,
+     "_ordinal": "7"
+    },
+    {
+     "player": 11893,
+     "kills": 14,
+     "deaths": 4,
+     "swing": 8.16,
+     "adr": 110.5,
+     "kast": 91.7,
+     "rating": 1.74,
+     "_ordinal": "8"
+    },
+    {
+     "player": 16693,
+     "kills": 12,
+     "deaths": 5,
+     "swing": 6.83,
+     "adr": 90.7,
+     "kast": 100.0,
+     "rating": 1.63,
+     "_ordinal": "8"
+    },
+    {
+     "player": 18462,
+     "kills": 12,
+     "deaths": 6,
+     "swing": 7.65,
+     "adr": 112.2,
+     "kast": 58.3,
+     "rating": 1.62,
+     "_ordinal": "8"
+    },
+    {
+     "player": 7322,
+     "kills": 5,
+     "deaths": 7,
+     "swing": -5.37,
+     "adr": 37.7,
+     "kast": 75.0,
+     "rating": 0.68,
+     "_ordinal": "8"
+    },
+    {
+     "player": 11816,
+     "kills": 4,
+     "deaths": 7,
+     "swing": -5.58,
+     "adr": 56.3,
+     "kast": 75.0,
+     "rating": 0.63,
+     "_ordinal": "8"
+    },
+    {
+     "player": 8574,
+     "kills": 8,
+     "deaths": 7,
+     "swing": 2.67,
+     "adr": 73.7,
+     "kast": 83.3,
+     "rating": 1.12,
+     "_ordinal": "9"
+    },
+    {
+     "player": 21243,
+     "kills": 9,
+     "deaths": 8,
+     "swing": 2.88,
+     "adr": 77.3,
+     "kast": 50.0,
+     "rating": 1.11,
+     "_ordinal": "9"
+    },
+    {
+     "player": 7938,
+     "kills": 8,
+     "deaths": 6,
+     "swing": -2.86,
+     "adr": 59.0,
+     "kast": 75.0,
+     "rating": 0.76,
+     "_ordinal": "9"
+    },
+    {
+     "player": 19677,
+     "kills": 5,
+     "deaths": 7,
+     "swing": -2.45,
+     "adr": 58.3,
+     "kast": 66.7,
+     "rating": 0.74,
+     "_ordinal": "9"
+    },
+    {
+     "player": 18850,
+     "kills": 5,
+     "deaths": 7,
+     "swing": -6.04,
+     "adr": 58.8,
+     "kast": 50.0,
+     "rating": 0.65,
+     "_ordinal": "9"
+    },
+    {
+     "player": 16693,
+     "kills": 10,
+     "deaths": 2,
+     "swing": 13.79,
+     "adr": 129.4,
+     "kast": 100.0,
+     "rating": 2.25,
+     "_ordinal": "10"
+    },
+    {
+     "player": 11816,
+     "kills": 9,
+     "deaths": 3,
+     "swing": 3.86,
+     "adr": 87.6,
+     "kast": 100.0,
+     "rating": 1.44,
+     "_ordinal": "10"
+    },
+    {
+     "player": 18462,
+     "kills": 5,
+     "deaths": 4,
+     "swing": 2.84,
+     "adr": 88.4,
+     "kast": 100.0,
+     "rating": 1.24,
+     "_ordinal": "10"
+    },
+    {
+     "player": 7322,
+     "kills": 6,
+     "deaths": 4,
+     "swing": -0.13,
+     "adr": 85.9,
+     "kast": 87.5,
+     "rating": 1.14,
+     "_ordinal": "10"
+    },
+    {
+     "player": 11893,
+     "kills": 5,
+     "deaths": 6,
+     "swing": -8.47,
+     "adr": 55.9,
+     "kast": 62.5,
+     "rating": 0.48,
+     "_ordinal": "10"
+    }
+   ]
+  },
+  "de_inferno": {
+   "both": [
+    {
+     "player": 21243,
+     "kills": 63,
+     "deaths": 59,
+     "swing": 1.13,
+     "adr": 81.9,
+     "kast": 64.1,
+     "rating": 1.19,
+     "_ordinal": "1"
+    },
+    {
+     "player": 19677,
+     "kills": 38,
+     "deaths": 60,
+     "swing": -1.96,
+     "adr": 63.1,
+     "kast": 65.4,
+     "rating": 0.83,
+     "_ordinal": "1"
+    },
+    {
+     "player": 8574,
+     "kills": 39,
+     "deaths": 55,
+     "swing": -1.11,
+     "adr": 51.6,
+     "kast": 61.5,
+     "rating": 0.83,
+     "_ordinal": "1"
+    },
+    {
+     "player": 18850,
+     "kills": 41,
+     "deaths": 54,
+     "swing": -3.16,
+     "adr": 58.4,
+     "kast": 59.0,
+     "rating": 0.8,
+     "_ordinal": "1"
+    },
+    {
+     "player": 7938,
+     "kills": 37,
+     "deaths": 58,
+     "swing": -5.0,
+     "adr": 63.0,
+     "kast": 65.4,
+     "rating": 0.68,
+     "_ordinal": "1"
+    },
+    {
+     "player": 11893,
+     "kills": 71,
+     "deaths": 44,
+     "swing": 5.48,
+     "adr": 95.3,
+     "kast": 80.8,
+     "rating": 1.53,
+     "_ordinal": "2"
+    },
+    {
+     "player": 16693,
+     "kills": 51,
+     "deaths": 45,
+     "swing": 4.22,
+     "adr": 74.8,
+     "kast": 82.1,
+     "rating": 1.31,
+     "_ordinal": "2"
+    },
+    {
+     "player": 11816,
+     "kills": 61,
+     "deaths": 43,
+     "swing": 0.75,
+     "adr": 81.5,
+     "kast": 82.1,
+     "rating": 1.2,
+     "_ordinal": "2"
+    },
+    {
+     "player": 18462,
+     "kills": 59,
+     "deaths": 42,
+     "swing": 1.1,
+     "adr": 75.9,
+     "kast": 74.4,
+     "rating": 1.19,
+     "_ordinal": "2"
+    },
+    {
+     "player": 7322,
+     "kills": 44,
+     "deaths": 46,
+     "swing": -1.45,
+     "adr": 61.3,
+     "kast": 75.6,
+     "rating": 0.93,
+     "_ordinal": "2"
+    },
+    {
+     "player": 21243,
+     "kills": 14,
+     "deaths": 15,
+     "swing": -0.07,
+     "adr": 80.6,
+     "kast": 64.7,
+     "rating": 1.22,
+     "_ordinal": "3"
+    },
+    {
+     "player": 18850,
+     "kills": 10,
+     "deaths": 13,
+     "swing": -2.79,
+     "adr": 57.5,
+     "kast": 52.9,
+     "rating": 0.85,
+     "_ordinal": "3"
+    },
+    {
+     "player": 7938,
+     "kills": 10,
+     "deaths": 14,
+     "swing": -4.26,
+     "adr": 75.9,
+     "kast": 70.6,
+     "rating": 0.84,
+     "_ordinal": "3"
+    },
+    {
+     "player": 19677,
+     "kills": 5,
+     "deaths": 15,
+     "swing": -7.36,
+     "adr": 42.1,
+     "kast": 64.7,
+     "rating": 0.59,
+     "_ordinal": "3"
+    },
+    {
+     "player": 8574,
+     "kills": 6,
+     "deaths": 13,
+     "swing": -6.48,
+     "adr": 40.9,
+     "kast": 47.1,
+     "rating": 0.55,
+     "_ordinal": "3"
+    },
+    {
+     "player": 18462,
+     "kills": 22,
+     "deaths": 9,
+     "swing": 6.92,
+     "adr": 106.8,
+     "kast": 88.2,
+     "rating": 1.99,
+     "_ordinal": "4"
+    },
+    {
+     "player": 11893,
+     "kills": 18,
+     "deaths": 6,
+     "swing": 8.6,
+     "adr": 104.1,
+     "kast": 94.1,
+     "rating": 1.9,
+     "_ordinal": "4"
+    },
+    {
+     "player": 11816,
+     "kills": 15,
+     "deaths": 7,
+     "swing": 3.68,
+     "adr": 92.1,
+     "kast": 100.0,
+     "rating": 1.54,
+     "_ordinal": "4"
+    },
+    {
+     "player": 16693,
+     "kills": 9,
+     "deaths": 12,
+     "swing": 6.09,
+     "adr": 67.3,
+     "kast": 64.7,
+     "rating": 1.29,
+     "_ordinal": "4"
+    },
+    {
+     "player": 7322,
+     "kills": 6,
+     "deaths": 11,
+     "swing": -4.33,
+     "adr": 56.5,
+     "kast": 76.5,
+     "rating": 0.7,
+     "_ordinal": "4"
+    },
+    {
+     "player": 21243,
+     "kills": 23,
+     "deaths": 18,
+     "swing": 5.67,
+     "adr": 97.1,
+     "kast": 70.8,
+     "rating": 1.6,
+     "_ordinal": "5"
+    },
+    {
+     "player": 8574,
+     "kills": 17,
+     "deaths": 14,
+     "swing": 1.8,
+     "adr": 61.6,
+     "kast": 70.8,
+     "rating": 1.18,
+     "_ordinal": "5"
+    },
+    {
+     "player": 19677,
+     "kills": 16,
+     "deaths": 16,
+     "swing": 0.96,
+     "adr": 86.6,
+     "kast": 70.8,
+     "rating": 1.13,
+     "_ordinal": "5"
+    },
+    {
+     "player": 18850,
+     "kills": 14,
+     "deaths": 15,
+     "swing": -1.98,
+     "adr": 50.2,
+     "kast": 66.7,
+     "rating": 0.96,
+     "_ordinal": "5"
+    },
+    {
+     "player": 7938,
+     "kills": 11,
+     "deaths": 16,
+     "swing": -3.11,
+     "adr": 66.6,
+     "kast": 66.7,
+     "rating": 0.75,
+     "_ordinal": "5"
+    },
+    {
+     "player": 11816,
+     "kills": 22,
+     "deaths": 17,
+     "swing": -0.21,
+     "adr": 90.1,
+     "kast": 66.7,
+     "rating": 1.22,
+     "_ordinal": "6"
+    },
+    {
+     "player": 11893,
+     "kills": 18,
+     "deaths": 19,
+     "swing": 1.61,
+     "adr": 91.3,
+     "kast": 70.8,
+     "rating": 1.22,
+     "_ordinal": "6"
+    },
+    {
+     "player": 7322,
+     "kills": 15,
+     "deaths": 16,
+     "swing": 0.8,
+     "adr": 69.5,
+     "kast": 79.2,
+     "rating": 1.07,
+     "_ordinal": "6"
+    },
+    {
+     "player": 16693,
+     "kills": 13,
+     "deaths": 16,
+     "swing": 2.16,
+     "adr": 49.0,
+     "kast": 79.2,
+     "rating": 1.06,
+     "_ordinal": "6"
+    },
+    {
+     "player": 18462,
+     "kills": 11,
+     "deaths": 15,
+     "swing": -7.69,
+     "adr": 50.0,
+     "kast": 70.8,
+     "rating": 0.63,
+     "_ordinal": "6"
+    },
+    {
+     "player": 21243,
+     "kills": 12,
+     "deaths": 12,
+     "swing": -3.46,
+     "adr": 87.1,
+     "kast": 58.8,
+     "rating": 1.1,
+     "_ordinal": "7"
+    },
+    {
+     "player": 19677,
+     "kills": 8,
+     "deaths": 15,
+     "swing": -1.26,
+     "adr": 53.2,
+     "kast": 52.9,
+     "rating": 0.8,
+     "_ordinal": "7"
+    },
+    {
+     "player": 18850,
+     "kills": 8,
+     "deaths": 12,
+     "swing": -4.12,
+     "adr": 64.4,
+     "kast": 58.8,
+     "rating": 0.74,
+     "_ordinal": "7"
+    },
+    {
+     "player": 8574,
+     "kills": 5,
+     "deaths": 14,
+     "swing": -2.52,
+     "adr": 36.9,
+     "kast": 52.9,
+     "rating": 0.6,
+     "_ordinal": "7"
+    },
+    {
+     "player": 7938,
+     "kills": 5,
+     "deaths": 14,
+     "swing": -9.0,
+     "adr": 41.4,
+     "kast": 58.8,
+     "rating": 0.47,
+     "_ordinal": "7"
+    },
+    {
+     "player": 16693,
+     "kills": 17,
+     "deaths": 7,
+     "swing": 6.97,
+     "adr": 109.9,
+     "kast": 100.0,
+     "rating": 1.83,
+     "_ordinal": "8"
+    },
+    {
+     "player": 18462,
+     "kills": 15,
+     "deaths": 7,
+     "swing": 9.44,
+     "adr": 96.2,
+     "kast": 64.7,
+     "rating": 1.73,
+     "_ordinal": "8"
+    },
+    {
+     "player": 11893,
+     "kills": 17,
+     "deaths": 7,
+     "swing": 7.71,
+     "adr": 98.8,
+     "kast": 94.1,
+     "rating": 1.67,
+     "_ordinal": "8"
+    },
+    {
+     "player": 11816,
+     "kills": 8,
+     "deaths": 9,
+     "swing": -0.63,
+     "adr": 65.8,
+     "kast": 82.4,
+     "rating": 1.05,
+     "_ordinal": "8"
+    },
+    {
+     "player": 7322,
+     "kills": 10,
+     "deaths": 8,
+     "swing": -3.12,
+     "adr": 40.2,
+     "kast": 82.4,
+     "rating": 0.88,
+     "_ordinal": "8"
+    },
+    {
+     "player": 21243,
+     "kills": 14,
+     "deaths": 14,
+     "swing": 0.61,
+     "adr": 60.3,
+     "kast": 60.0,
+     "rating": 1.0,
+     "_ordinal": "9"
+    },
+    {
+     "player": 8574,
+     "kills": 11,
+     "deaths": 14,
+     "swing": 1.15,
+     "adr": 61.2,
+     "kast": 70.0,
+     "rating": 0.96,
+     "_ordinal": "9"
+    },
+    {
+     "player": 19677,
+     "kills": 9,
+     "deaths": 14,
+     "swing": -1.47,
+     "adr": 61.4,
+     "kast": 70.0,
+     "rating": 0.89,
+     "_ordinal": "9"
+    },
+    {
+     "player": 18850,
+     "kills": 9,
+     "deaths": 14,
+     "swing": -4.07,
+     "adr": 64.0,
+     "kast": 55.0,
+     "rating": 0.77,
+     "_ordinal": "9"
+    },
+    {
+     "player": 7938,
+     "kills": 11,
+     "deaths": 14,
+     "swing": -4.47,
+     "adr": 66.2,
+     "kast": 65.0,
+     "rating": 0.68,
+     "_ordinal": "9"
+    },
+    {
+     "player": 11893,
+     "kills": 18,
+     "deaths": 12,
+     "swing": 5.58,
+     "adr": 89.5,
+     "kast": 70.0,
+     "rating": 1.6,
+     "_ordinal": "10"
+    },
+    {
+     "player": 16693,
+     "kills": 12,
+     "deaths": 10,
+     "swing": 2.78,
+     "adr": 82.5,
+     "kast": 85.0,
+     "rating": 1.29,
+     "_ordinal": "10"
+    },
+    {
+     "player": 11816,
+     "kills": 16,
+     "deaths": 10,
+     "swing": 0.56,
+     "adr": 75.7,
+     "kast": 85.0,
+     "rating": 1.17,
+     "_ordinal": "10"
+    },
+    {
+     "player": 7322,
+     "kills": 13,
+     "deaths": 11,
+     "swing": -0.27,
+     "adr": 73.5,
+     "kast": 65.0,
+     "rating": 1.02,
+     "_ordinal": "10"
+    },
+    {
+     "player": 18462,
+     "kills": 11,
+     "deaths": 11,
+     "swing": -0.4,
+     "adr": 63.4,
+     "kast": 75.0,
+     "rating": 1.01,
+     "_ordinal": "10"
+    }
+   ],
+   "t": [
+    {
+     "player": 21243,
+     "kills": 37,
+     "deaths": 31,
+     "swing": 2.74,
+     "adr": 81.9,
+     "kast": 72.7,
+     "rating": 1.44,
+     "_ordinal": "1"
+    },
+    {
+     "player": 18850,
+     "kills": 26,
+     "deaths": 32,
+     "swing": -2.04,
+     "adr": 63.4,
+     "kast": 59.1,
+     "rating": 0.92,
+     "_ordinal": "1"
+    },
+    {
+     "player": 19677,
+     "kills": 18,
+     "deaths": 36,
+     "swing": -1.45,
+     "adr": 51.0,
+     "kast": 59.1,
+     "rating": 0.82,
+     "_ordinal": "1"
+    },
+    {
+     "player": 7938,
+     "kills": 18,
+     "deaths": 36,
+     "swing": -6.26,
+     "adr": 61.5,
+     "kast": 56.8,
+     "rating": 0.62,
+     "_ordinal": "1"
+    },
+    {
+     "player": 8574,
+     "kills": 13,
+     "deaths": 34,
+     "swing": -4.26,
+     "adr": 35.4,
+     "kast": 56.8,
+     "rating": 0.61,
+     "_ordinal": "1"
+    },
+    {
+     "player": 11893,
+     "kills": 36,
+     "deaths": 23,
+     "swing": 10.09,
+     "adr": 110.4,
+     "kast": 85.3,
+     "rating": 2.07,
+     "_ordinal": "2"
+    },
+    {
+     "player": 11816,
+     "kills": 29,
+     "deaths": 20,
+     "swing": 3.12,
+     "adr": 89.9,
+     "kast": 82.4,
+     "rating": 1.49,
+     "_ordinal": "2"
+    },
+    {
+     "player": 7322,
+     "kills": 20,
+     "deaths": 19,
+     "swing": 0.56,
+     "adr": 61.0,
+     "kast": 70.6,
+     "rating": 1.06,
+     "_ordinal": "2"
+    },
+    {
+     "player": 18462,
+     "kills": 18,
+     "deaths": 20,
+     "swing": -2.62,
+     "adr": 53.3,
+     "kast": 70.6,
+     "rating": 0.91,
+     "_ordinal": "2"
+    },
+    {
+     "player": 16693,
+     "kills": 14,
+     "deaths": 26,
+     "swing": -2.57,
+     "adr": 61.6,
+     "kast": 76.5,
+     "rating": 0.84,
+     "_ordinal": "2"
+    },
+    {
+     "player": 21243,
+     "kills": 8,
+     "deaths": 10,
+     "swing": -2.21,
+     "adr": 63.2,
+     "kast": 58.3,
+     "rating": 0.99,
+     "_ordinal": "3"
+    },
+    {
+     "player": 7938,
+     "kills": 7,
+     "deaths": 10,
+     "swing": -3.73,
+     "adr": 85.0,
+     "kast": 66.7,
+     "rating": 0.85,
+     "_ordinal": "3"
+    },
+    {
+     "player": 8574,
+     "kills": 5,
+     "deaths": 9,
+     "swing": -4.18,
+     "adr": 48.6,
+     "kast": 58.3,
+     "rating": 0.69,
+     "_ordinal": "3"
+    },
+    {
+     "player": 19677,
+     "kills": 4,
+     "deaths": 10,
+     "swing": -6.24,
+     "adr": 38.2,
+     "kast": 58.3,
+     "rating": 0.63,
+     "_ordinal": "3"
+    },
+    {
+     "player": 18850,
+     "kills": 5,
+     "deaths": 9,
+     "swing": -6.36,
+     "adr": 34.6,
+     "kast": 50.0,
+     "rating": 0.55,
+     "_ordinal": "3"
+    },
+    {
+     "player": 11893,
+     "kills": 8,
+     "deaths": 3,
+     "swing": 15.3,
+     "adr": 154.8,
+     "kast": 100.0,
+     "rating": 2.89,
+     "_ordinal": "4"
+    },
+    {
+     "player": 11816,
+     "kills": 6,
+     "deaths": 2,
+     "swing": 4.75,
+     "adr": 117.4,
+     "kast": 100.0,
+     "rating": 1.92,
+     "_ordinal": "4"
+    },
+    {
+     "player": 18462,
+     "kills": 5,
+     "deaths": 4,
+     "swing": 1.5,
+     "adr": 83.4,
+     "kast": 100.0,
+     "rating": 1.25,
+     "_ordinal": "4"
+    },
+    {
+     "player": 7322,
+     "kills": 2,
+     "deaths": 2,
+     "swing": 1.59,
+     "adr": 62.0,
+     "kast": 80.0,
+     "rating": 1.06,
+     "_ordinal": "4"
+    },
+    {
+     "player": 16693,
+     "kills": 1,
+     "deaths": 5,
+     "swing": -6.39,
+     "adr": 50.0,
+     "kast": 60.0,
+     "rating": 0.38,
+     "_ordinal": "4"
+    },
+    {
+     "player": 21243,
+     "kills": 13,
+     "deaths": 7,
+     "swing": 12.75,
+     "adr": 107.8,
+     "kast": 83.3,
+     "rating": 2.41,
+     "_ordinal": "5"
+    },
+    {
+     "player": 18850,
+     "kills": 11,
+     "deaths": 7,
+     "swing": 3.31,
+     "adr": 73.2,
+     "kast": 75.0,
+     "rating": 1.46,
+     "_ordinal": "5"
+    },
+    {
+     "player": 19677,
+     "kills": 3,
+     "deaths": 9,
+     "swing": -3.61,
+     "adr": 50.2,
+     "kast": 58.3,
+     "rating": 0.69,
+     "_ordinal": "5"
+    },
+    {
+     "player": 7938,
+     "kills": 4,
+     "deaths": 8,
+     "swing": -4.58,
+     "adr": 54.2,
+     "kast": 58.3,
+     "rating": 0.65,
+     "_ordinal": "5"
+    },
+    {
+     "player": 8574,
+     "kills": 4,
+     "deaths": 8,
+     "swing": -6.86,
+     "adr": 33.5,
+     "kast": 58.3,
+     "rating": 0.56,
+     "_ordinal": "5"
+    },
+    {
+     "player": 11893,
+     "kills": 12,
+     "deaths": 11,
+     "swing": 4.5,
+     "adr": 107.0,
+     "kast": 83.3,
+     "rating": 1.67,
+     "_ordinal": "6"
+    },
+    {
+     "player": 11816,
+     "kills": 12,
+     "deaths": 9,
+     "swing": 3.82,
+     "adr": 101.2,
+     "kast": 75.0,
+     "rating": 1.66,
+     "_ordinal": "6"
+    },
+    {
+     "player": 7322,
+     "kills": 6,
+     "deaths": 9,
+     "swing": 0.34,
+     "adr": 62.4,
+     "kast": 75.0,
+     "rating": 1.05,
+     "_ordinal": "6"
+    },
+    {
+     "player": 16693,
+     "kills": 6,
+     "deaths": 11,
+     "swing": -3.1,
+     "adr": 37.5,
+     "kast": 75.0,
+     "rating": 0.76,
+     "_ordinal": "6"
+    },
+    {
+     "player": 18462,
+     "kills": 4,
+     "deaths": 8,
+     "swing": -11.21,
+     "adr": 45.4,
+     "kast": 66.7,
+     "rating": 0.6,
+     "_ordinal": "6"
+    },
+    {
+     "player": 21243,
+     "kills": 11,
+     "deaths": 8,
+     "swing": 1.37,
+     "adr": 106.0,
+     "kast": 75.0,
+     "rating": 1.48,
+     "_ordinal": "7"
+    },
+    {
+     "player": 19677,
+     "kills": 7,
+     "deaths": 10,
+     "swing": 4.53,
+     "adr": 54.6,
+     "kast": 50.0,
+     "rating": 1.03,
+     "_ordinal": "7"
+    },
+    {
+     "player": 18850,
+     "kills": 6,
+     "deaths": 9,
+     "swing": -3.7,
+     "adr": 76.8,
+     "kast": 50.0,
+     "rating": 0.82,
+     "_ordinal": "7"
+    },
+    {
+     "player": 8574,
+     "kills": 1,
+     "deaths": 10,
+     "swing": -3.82,
+     "adr": 19.3,
+     "kast": 58.3,
+     "rating": 0.5,
+     "_ordinal": "7"
+    },
+    {
+     "player": 7938,
+     "kills": 4,
+     "deaths": 10,
+     "swing": -10.06,
+     "adr": 35.1,
+     "kast": 50.0,
+     "rating": 0.48,
+     "_ordinal": "7"
+    },
+    {
+     "player": 16693,
+     "kills": 5,
+     "deaths": 2,
+     "swing": 7.3,
+     "adr": 156.2,
+     "kast": 100.0,
+     "rating": 2.29,
+     "_ordinal": "8"
+    },
+    {
+     "player": 11816,
+     "kills": 4,
+     "deaths": 2,
+     "swing": 11.24,
+     "adr": 88.4,
+     "kast": 100.0,
+     "rating": 2.06,
+     "_ordinal": "8"
+    },
+    {
+     "player": 18462,
+     "kills": 3,
+     "deaths": 1,
+     "swing": 13.74,
+     "adr": 58.0,
+     "kast": 80.0,
+     "rating": 1.97,
+     "_ordinal": "8"
+    },
+    {
+     "player": 11893,
+     "kills": 3,
+     "deaths": 3,
+     "swing": 6.62,
+     "adr": 70.6,
+     "kast": 100.0,
+     "rating": 1.52,
+     "_ordinal": "8"
+    },
+    {
+     "player": 7322,
+     "kills": 5,
+     "deaths": 1,
+     "swing": 2.29,
+     "adr": 46.4,
+     "kast": 100.0,
+     "rating": 1.38,
+     "_ordinal": "8"
+    },
+    {
+     "player": 19677,
+     "kills": 4,
+     "deaths": 7,
+     "swing": 0.01,
+     "adr": 66.0,
+     "kast": 75.0,
+     "rating": 1.11,
+     "_ordinal": "9"
+    },
+    {
+     "player": 18850,
+     "kills": 4,
+     "deaths": 7,
+     "swing": -1.11,
+     "adr": 71.8,
+     "kast": 62.5,
+     "rating": 0.96,
+     "_ordinal": "9"
+    },
+    {
+     "player": 21243,
+     "kills": 5,
+     "deaths": 6,
+     "swing": -2.79,
+     "adr": 34.8,
+     "kast": 75.0,
+     "rating": 0.83,
+     "_ordinal": "9"
+    },
+    {
+     "player": 8574,
+     "kills": 3,
+     "deaths": 7,
+     "swing": -1.13,
+     "adr": 42.5,
+     "kast": 50.0,
+     "rating": 0.72,
+     "_ordinal": "9"
+    },
+    {
+     "player": 7938,
+     "kills": 3,
+     "deaths": 8,
+     "swing": -6.89,
+     "adr": 77.0,
+     "kast": 50.0,
+     "rating": 0.57,
+     "_ordinal": "9"
+    },
+    {
+     "player": 11893,
+     "kills": 13,
+     "deaths": 6,
+     "swing": 14.94,
+     "adr": 111.9,
+     "kast": 75.0,
+     "rating": 2.35,
+     "_ordinal": "10"
+    },
+    {
+     "player": 11816,
+     "kills": 7,
+     "deaths": 7,
+     "swing": -1.63,
+     "adr": 67.8,
+     "kast": 75.0,
+     "rating": 0.98,
+     "_ordinal": "10"
+    },
+    {
+     "player": 7322,
+     "kills": 7,
+     "deaths": 7,
+     "swing": -0.37,
+     "adr": 65.3,
+     "kast": 50.0,
+     "rating": 0.94,
+     "_ordinal": "10"
+    },
+    {
+     "player": 18462,
+     "kills": 6,
+     "deaths": 7,
+     "swing": -2.56,
+     "adr": 46.7,
+     "kast": 58.3,
+     "rating": 0.86,
+     "_ordinal": "10"
+    },
+    {
+     "player": 16693,
+     "kills": 2,
+     "deaths": 8,
+     "swing": -4.57,
+     "adr": 51.2,
+     "kast": 75.0,
+     "rating": 0.65,
+     "_ordinal": "10"
+    }
+   ],
+   "ct": [
+    {
+     "player": 8574,
+     "kills": 26,
+     "deaths": 21,
+     "swing": 2.96,
+     "adr": 72.6,
+     "kast": 67.6,
+     "rating": 1.11,
+     "_ordinal": "1"
+    },
+    {
+     "player": 21243,
+     "kills": 26,
+     "deaths": 28,
+     "swing": -0.95,
+     "adr": 81.9,
+     "kast": 52.9,
+     "rating": 0.86,
+     "_ordinal": "1"
+    },
+    {
+     "player": 19677,
+     "kills": 20,
+     "deaths": 24,
+     "swing": -2.62,
+     "adr": 78.8,
+     "kast": 73.5,
+     "rating": 0.85,
+     "_ordinal": "1"
+    },
+    {
+     "player": 7938,
+     "kills": 19,
+     "deaths": 22,
+     "swing": -3.35,
+     "adr": 65.0,
+     "kast": 76.5,
+     "rating": 0.75,
+     "_ordinal": "1"
+    },
+    {
+     "player": 18850,
+     "kills": 15,
+     "deaths": 22,
+     "swing": -4.6,
+     "adr": 51.9,
+     "kast": 58.8,
+     "rating": 0.66,
+     "_ordinal": "1"
+    },
+    {
+     "player": 16693,
+     "kills": 37,
+     "deaths": 19,
+     "swing": 9.47,
+     "adr": 85.1,
+     "kast": 86.4,
+     "rating": 1.67,
+     "_ordinal": "2"
+    },
+    {
+     "player": 18462,
+     "kills": 41,
+     "deaths": 22,
+     "swing": 3.97,
+     "adr": 93.3,
+     "kast": 77.3,
+     "rating": 1.41,
+     "_ordinal": "2"
+    },
+    {
+     "player": 11893,
+     "kills": 35,
+     "deaths": 21,
+     "swing": 1.92,
+     "adr": 83.5,
+     "kast": 77.3,
+     "rating": 1.12,
+     "_ordinal": "2"
+    },
+    {
+     "player": 11816,
+     "kills": 32,
+     "deaths": 23,
+     "swing": -1.09,
+     "adr": 75.0,
+     "kast": 81.8,
+     "rating": 0.98,
+     "_ordinal": "2"
+    },
+    {
+     "player": 7322,
+     "kills": 24,
+     "deaths": 27,
+     "swing": -3.0,
+     "adr": 61.6,
+     "kast": 79.5,
+     "rating": 0.83,
+     "_ordinal": "2"
+    },
+    {
+     "player": 21243,
+     "kills": 6,
+     "deaths": 5,
+     "swing": 5.05,
+     "adr": 122.2,
+     "kast": 80.0,
+     "rating": 1.76,
+     "_ordinal": "3"
+    },
+    {
+     "player": 18850,
+     "kills": 5,
+     "deaths": 4,
+     "swing": 5.79,
+     "adr": 112.4,
+     "kast": 60.0,
+     "rating": 1.58,
+     "_ordinal": "3"
+    },
+    {
+     "player": 7938,
+     "kills": 3,
+     "deaths": 4,
+     "swing": -5.53,
+     "adr": 54.0,
+     "kast": 80.0,
+     "rating": 0.83,
+     "_ordinal": "3"
+    },
+    {
+     "player": 19677,
+     "kills": 1,
+     "deaths": 5,
+     "swing": -10.04,
+     "adr": 51.2,
+     "kast": 80.0,
+     "rating": 0.51,
+     "_ordinal": "3"
+    },
+    {
+     "player": 8574,
+     "kills": 1,
+     "deaths": 4,
+     "swing": -12.01,
+     "adr": 22.6,
+     "kast": 20.0,
+     "rating": 0.24,
+     "_ordinal": "3"
+    },
+    {
+     "player": 18462,
+     "kills": 17,
+     "deaths": 5,
+     "swing": 9.18,
+     "adr": 116.6,
+     "kast": 83.3,
+     "rating": 2.3,
+     "_ordinal": "4"
+    },
+    {
+     "player": 16693,
+     "kills": 8,
+     "deaths": 7,
+     "swing": 11.3,
+     "adr": 74.5,
+     "kast": 66.7,
+     "rating": 1.67,
+     "_ordinal": "4"
+    },
+    {
+     "player": 11893,
+     "kills": 10,
+     "deaths": 3,
+     "swing": 5.81,
+     "adr": 83.0,
+     "kast": 91.7,
+     "rating": 1.48,
+     "_ordinal": "4"
+    },
+    {
+     "player": 11816,
+     "kills": 9,
+     "deaths": 5,
+     "swing": 3.23,
+     "adr": 81.5,
+     "kast": 100.0,
+     "rating": 1.38,
+     "_ordinal": "4"
+    },
+    {
+     "player": 7322,
+     "kills": 4,
+     "deaths": 9,
+     "swing": -6.8,
+     "adr": 54.2,
+     "kast": 75.0,
+     "rating": 0.55,
+     "_ordinal": "4"
+    },
+    {
+     "player": 8574,
+     "kills": 13,
+     "deaths": 6,
+     "swing": 10.45,
+     "adr": 89.8,
+     "kast": 83.3,
+     "rating": 1.81,
+     "_ordinal": "5"
+    },
+    {
+     "player": 19677,
+     "kills": 13,
+     "deaths": 7,
+     "swing": 5.53,
+     "adr": 122.9,
+     "kast": 83.3,
+     "rating": 1.57,
+     "_ordinal": "5"
+    },
+    {
+     "player": 7938,
+     "kills": 7,
+     "deaths": 8,
+     "swing": -1.65,
+     "adr": 79.0,
+     "kast": 75.0,
+     "rating": 0.85,
+     "_ordinal": "5"
+    },
+    {
+     "player": 21243,
+     "kills": 10,
+     "deaths": 11,
+     "swing": -1.41,
+     "adr": 86.4,
+     "kast": 58.3,
+     "rating": 0.8,
+     "_ordinal": "5"
+    },
+    {
+     "player": 18850,
+     "kills": 3,
+     "deaths": 8,
+     "swing": -7.27,
+     "adr": 27.2,
+     "kast": 58.3,
+     "rating": 0.46,
+     "_ordinal": "5"
+    },
+    {
+     "player": 16693,
+     "kills": 7,
+     "deaths": 5,
+     "swing": 7.41,
+     "adr": 60.5,
+     "kast": 83.3,
+     "rating": 1.36,
+     "_ordinal": "6"
+    },
+    {
+     "player": 7322,
+     "kills": 9,
+     "deaths": 7,
+     "swing": 1.26,
+     "adr": 76.7,
+     "kast": 83.3,
+     "rating": 1.1,
+     "_ordinal": "6"
+    },
+    {
+     "player": 11816,
+     "kills": 10,
+     "deaths": 8,
+     "swing": -4.23,
+     "adr": 78.9,
+     "kast": 58.3,
+     "rating": 0.78,
+     "_ordinal": "6"
+    },
+    {
+     "player": 11893,
+     "kills": 6,
+     "deaths": 8,
+     "swing": -1.29,
+     "adr": 75.6,
+     "kast": 58.3,
+     "rating": 0.76,
+     "_ordinal": "6"
+    },
+    {
+     "player": 18462,
+     "kills": 7,
+     "deaths": 7,
+     "swing": -4.16,
+     "adr": 54.5,
+     "kast": 75.0,
+     "rating": 0.66,
+     "_ordinal": "6"
+    },
+    {
+     "player": 8574,
+     "kills": 4,
+     "deaths": 4,
+     "swing": 0.62,
+     "adr": 79.0,
+     "kast": 40.0,
+     "rating": 0.83,
+     "_ordinal": "7"
+    },
+    {
+     "player": 18850,
+     "kills": 2,
+     "deaths": 3,
+     "swing": -5.13,
+     "adr": 34.4,
+     "kast": 80.0,
+     "rating": 0.55,
+     "_ordinal": "7"
+    },
+    {
+     "player": 7938,
+     "kills": 1,
+     "deaths": 4,
+     "swing": -6.45,
+     "adr": 56.6,
+     "kast": 80.0,
+     "rating": 0.44,
+     "_ordinal": "7"
+    },
+    {
+     "player": 19677,
+     "kills": 1,
+     "deaths": 5,
+     "swing": -15.16,
+     "adr": 49.8,
+     "kast": 60.0,
+     "rating": 0.25,
+     "_ordinal": "7"
+    },
+    {
+     "player": 21243,
+     "kills": 1,
+     "deaths": 4,
+     "swing": -15.06,
+     "adr": 41.8,
+     "kast": 20.0,
+     "rating": 0.18,
+     "_ordinal": "7"
+    },
+    {
+     "player": 11893,
+     "kills": 14,
+     "deaths": 4,
+     "swing": 8.16,
+     "adr": 110.5,
+     "kast": 91.7,
+     "rating": 1.74,
+     "_ordinal": "8"
+    },
+    {
+     "player": 16693,
+     "kills": 12,
+     "deaths": 5,
+     "swing": 6.83,
+     "adr": 90.7,
+     "kast": 100.0,
+     "rating": 1.63,
+     "_ordinal": "8"
+    },
+    {
+     "player": 18462,
+     "kills": 12,
+     "deaths": 6,
+     "swing": 7.65,
+     "adr": 112.2,
+     "kast": 58.3,
+     "rating": 1.62,
+     "_ordinal": "8"
+    },
+    {
+     "player": 7322,
+     "kills": 5,
+     "deaths": 7,
+     "swing": -5.37,
+     "adr": 37.7,
+     "kast": 75.0,
+     "rating": 0.68,
+     "_ordinal": "8"
+    },
+    {
+     "player": 11816,
+     "kills": 4,
+     "deaths": 7,
+     "swing": -5.58,
+     "adr": 56.3,
+     "kast": 75.0,
+     "rating": 0.63,
+     "_ordinal": "8"
+    },
+    {
+     "player": 8574,
+     "kills": 8,
+     "deaths": 7,
+     "swing": 2.67,
+     "adr": 73.7,
+     "kast": 83.3,
+     "rating": 1.12,
+     "_ordinal": "9"
+    },
+    {
+     "player": 21243,
+     "kills": 9,
+     "deaths": 8,
+     "swing": 2.88,
+     "adr": 77.3,
+     "kast": 50.0,
+     "rating": 1.11,
+     "_ordinal": "9"
+    },
+    {
+     "player": 7938,
+     "kills": 8,
+     "deaths": 6,
+     "swing": -2.86,
+     "adr": 59.0,
+     "kast": 75.0,
+     "rating": 0.76,
+     "_ordinal": "9"
+    },
+    {
+     "player": 19677,
+     "kills": 5,
+     "deaths": 7,
+     "swing": -2.45,
+     "adr": 58.3,
+     "kast": 66.7,
+     "rating": 0.74,
+     "_ordinal": "9"
+    },
+    {
+     "player": 18850,
+     "kills": 5,
+     "deaths": 7,
+     "swing": -6.04,
+     "adr": 58.8,
+     "kast": 50.0,
+     "rating": 0.65,
+     "_ordinal": "9"
+    },
+    {
+     "player": 16693,
+     "kills": 10,
+     "deaths": 2,
+     "swing": 13.79,
+     "adr": 129.4,
+     "kast": 100.0,
+     "rating": 2.25,
+     "_ordinal": "10"
+    },
+    {
+     "player": 11816,
+     "kills": 9,
+     "deaths": 3,
+     "swing": 3.86,
+     "adr": 87.6,
+     "kast": 100.0,
+     "rating": 1.44,
+     "_ordinal": "10"
+    },
+    {
+     "player": 18462,
+     "kills": 5,
+     "deaths": 4,
+     "swing": 2.84,
+     "adr": 88.4,
+     "kast": 100.0,
+     "rating": 1.24,
+     "_ordinal": "10"
+    },
+    {
+     "player": 7322,
+     "kills": 6,
+     "deaths": 4,
+     "swing": -0.13,
+     "adr": 85.9,
+     "kast": 87.5,
+     "rating": 1.14,
+     "_ordinal": "10"
+    },
+    {
+     "player": 11893,
+     "kills": 5,
+     "deaths": 6,
+     "swing": -8.47,
+     "adr": 55.9,
+     "kast": 62.5,
+     "rating": 0.48,
+     "_ordinal": "10"
+    }
+   ]
+  },
+  "de_mirage": {
+   "both": [
+    {
+     "player": 21243,
+     "kills": 63,
+     "deaths": 59,
+     "swing": 1.13,
+     "adr": 81.9,
+     "kast": 64.1,
+     "rating": 1.19,
+     "_ordinal": "1"
+    },
+    {
+     "player": 19677,
+     "kills": 38,
+     "deaths": 60,
+     "swing": -1.96,
+     "adr": 63.1,
+     "kast": 65.4,
+     "rating": 0.83,
+     "_ordinal": "1"
+    },
+    {
+     "player": 8574,
+     "kills": 39,
+     "deaths": 55,
+     "swing": -1.11,
+     "adr": 51.6,
+     "kast": 61.5,
+     "rating": 0.83,
+     "_ordinal": "1"
+    },
+    {
+     "player": 18850,
+     "kills": 41,
+     "deaths": 54,
+     "swing": -3.16,
+     "adr": 58.4,
+     "kast": 59.0,
+     "rating": 0.8,
+     "_ordinal": "1"
+    },
+    {
+     "player": 7938,
+     "kills": 37,
+     "deaths": 58,
+     "swing": -5.0,
+     "adr": 63.0,
+     "kast": 65.4,
+     "rating": 0.68,
+     "_ordinal": "1"
+    },
+    {
+     "player": 11893,
+     "kills": 71,
+     "deaths": 44,
+     "swing": 5.48,
+     "adr": 95.3,
+     "kast": 80.8,
+     "rating": 1.53,
+     "_ordinal": "2"
+    },
+    {
+     "player": 16693,
+     "kills": 51,
+     "deaths": 45,
+     "swing": 4.22,
+     "adr": 74.8,
+     "kast": 82.1,
+     "rating": 1.31,
+     "_ordinal": "2"
+    },
+    {
+     "player": 11816,
+     "kills": 61,
+     "deaths": 43,
+     "swing": 0.75,
+     "adr": 81.5,
+     "kast": 82.1,
+     "rating": 1.2,
+     "_ordinal": "2"
+    },
+    {
+     "player": 18462,
+     "kills": 59,
+     "deaths": 42,
+     "swing": 1.1,
+     "adr": 75.9,
+     "kast": 74.4,
+     "rating": 1.19,
+     "_ordinal": "2"
+    },
+    {
+     "player": 7322,
+     "kills": 44,
+     "deaths": 46,
+     "swing": -1.45,
+     "adr": 61.3,
+     "kast": 75.6,
+     "rating": 0.93,
+     "_ordinal": "2"
+    },
+    {
+     "player": 21243,
+     "kills": 14,
+     "deaths": 15,
+     "swing": -0.07,
+     "adr": 80.6,
+     "kast": 64.7,
+     "rating": 1.22,
+     "_ordinal": "3"
+    },
+    {
+     "player": 18850,
+     "kills": 10,
+     "deaths": 13,
+     "swing": -2.79,
+     "adr": 57.5,
+     "kast": 52.9,
+     "rating": 0.85,
+     "_ordinal": "3"
+    },
+    {
+     "player": 7938,
+     "kills": 10,
+     "deaths": 14,
+     "swing": -4.26,
+     "adr": 75.9,
+     "kast": 70.6,
+     "rating": 0.84,
+     "_ordinal": "3"
+    },
+    {
+     "player": 19677,
+     "kills": 5,
+     "deaths": 15,
+     "swing": -7.36,
+     "adr": 42.1,
+     "kast": 64.7,
+     "rating": 0.59,
+     "_ordinal": "3"
+    },
+    {
+     "player": 8574,
+     "kills": 6,
+     "deaths": 13,
+     "swing": -6.48,
+     "adr": 40.9,
+     "kast": 47.1,
+     "rating": 0.55,
+     "_ordinal": "3"
+    },
+    {
+     "player": 18462,
+     "kills": 22,
+     "deaths": 9,
+     "swing": 6.92,
+     "adr": 106.8,
+     "kast": 88.2,
+     "rating": 1.99,
+     "_ordinal": "4"
+    },
+    {
+     "player": 11893,
+     "kills": 18,
+     "deaths": 6,
+     "swing": 8.6,
+     "adr": 104.1,
+     "kast": 94.1,
+     "rating": 1.9,
+     "_ordinal": "4"
+    },
+    {
+     "player": 11816,
+     "kills": 15,
+     "deaths": 7,
+     "swing": 3.68,
+     "adr": 92.1,
+     "kast": 100.0,
+     "rating": 1.54,
+     "_ordinal": "4"
+    },
+    {
+     "player": 16693,
+     "kills": 9,
+     "deaths": 12,
+     "swing": 6.09,
+     "adr": 67.3,
+     "kast": 64.7,
+     "rating": 1.29,
+     "_ordinal": "4"
+    },
+    {
+     "player": 7322,
+     "kills": 6,
+     "deaths": 11,
+     "swing": -4.33,
+     "adr": 56.5,
+     "kast": 76.5,
+     "rating": 0.7,
+     "_ordinal": "4"
+    },
+    {
+     "player": 21243,
+     "kills": 23,
+     "deaths": 18,
+     "swing": 5.67,
+     "adr": 97.1,
+     "kast": 70.8,
+     "rating": 1.6,
+     "_ordinal": "5"
+    },
+    {
+     "player": 8574,
+     "kills": 17,
+     "deaths": 14,
+     "swing": 1.8,
+     "adr": 61.6,
+     "kast": 70.8,
+     "rating": 1.18,
+     "_ordinal": "5"
+    },
+    {
+     "player": 19677,
+     "kills": 16,
+     "deaths": 16,
+     "swing": 0.96,
+     "adr": 86.6,
+     "kast": 70.8,
+     "rating": 1.13,
+     "_ordinal": "5"
+    },
+    {
+     "player": 18850,
+     "kills": 14,
+     "deaths": 15,
+     "swing": -1.98,
+     "adr": 50.2,
+     "kast": 66.7,
+     "rating": 0.96,
+     "_ordinal": "5"
+    },
+    {
+     "player": 7938,
+     "kills": 11,
+     "deaths": 16,
+     "swing": -3.11,
+     "adr": 66.6,
+     "kast": 66.7,
+     "rating": 0.75,
+     "_ordinal": "5"
+    },
+    {
+     "player": 11816,
+     "kills": 22,
+     "deaths": 17,
+     "swing": -0.21,
+     "adr": 90.1,
+     "kast": 66.7,
+     "rating": 1.22,
+     "_ordinal": "6"
+    },
+    {
+     "player": 11893,
+     "kills": 18,
+     "deaths": 19,
+     "swing": 1.61,
+     "adr": 91.3,
+     "kast": 70.8,
+     "rating": 1.22,
+     "_ordinal": "6"
+    },
+    {
+     "player": 7322,
+     "kills": 15,
+     "deaths": 16,
+     "swing": 0.8,
+     "adr": 69.5,
+     "kast": 79.2,
+     "rating": 1.07,
+     "_ordinal": "6"
+    },
+    {
+     "player": 16693,
+     "kills": 13,
+     "deaths": 16,
+     "swing": 2.16,
+     "adr": 49.0,
+     "kast": 79.2,
+     "rating": 1.06,
+     "_ordinal": "6"
+    },
+    {
+     "player": 18462,
+     "kills": 11,
+     "deaths": 15,
+     "swing": -7.69,
+     "adr": 50.0,
+     "kast": 70.8,
+     "rating": 0.63,
+     "_ordinal": "6"
+    },
+    {
+     "player": 21243,
+     "kills": 12,
+     "deaths": 12,
+     "swing": -3.46,
+     "adr": 87.1,
+     "kast": 58.8,
+     "rating": 1.1,
+     "_ordinal": "7"
+    },
+    {
+     "player": 19677,
+     "kills": 8,
+     "deaths": 15,
+     "swing": -1.26,
+     "adr": 53.2,
+     "kast": 52.9,
+     "rating": 0.8,
+     "_ordinal": "7"
+    },
+    {
+     "player": 18850,
+     "kills": 8,
+     "deaths": 12,
+     "swing": -4.12,
+     "adr": 64.4,
+     "kast": 58.8,
+     "rating": 0.74,
+     "_ordinal": "7"
+    },
+    {
+     "player": 8574,
+     "kills": 5,
+     "deaths": 14,
+     "swing": -2.52,
+     "adr": 36.9,
+     "kast": 52.9,
+     "rating": 0.6,
+     "_ordinal": "7"
+    },
+    {
+     "player": 7938,
+     "kills": 5,
+     "deaths": 14,
+     "swing": -9.0,
+     "adr": 41.4,
+     "kast": 58.8,
+     "rating": 0.47,
+     "_ordinal": "7"
+    },
+    {
+     "player": 16693,
+     "kills": 17,
+     "deaths": 7,
+     "swing": 6.97,
+     "adr": 109.9,
+     "kast": 100.0,
+     "rating": 1.83,
+     "_ordinal": "8"
+    },
+    {
+     "player": 18462,
+     "kills": 15,
+     "deaths": 7,
+     "swing": 9.44,
+     "adr": 96.2,
+     "kast": 64.7,
+     "rating": 1.73,
+     "_ordinal": "8"
+    },
+    {
+     "player": 11893,
+     "kills": 17,
+     "deaths": 7,
+     "swing": 7.71,
+     "adr": 98.8,
+     "kast": 94.1,
+     "rating": 1.67,
+     "_ordinal": "8"
+    },
+    {
+     "player": 11816,
+     "kills": 8,
+     "deaths": 9,
+     "swing": -0.63,
+     "adr": 65.8,
+     "kast": 82.4,
+     "rating": 1.05,
+     "_ordinal": "8"
+    },
+    {
+     "player": 7322,
+     "kills": 10,
+     "deaths": 8,
+     "swing": -3.12,
+     "adr": 40.2,
+     "kast": 82.4,
+     "rating": 0.88,
+     "_ordinal": "8"
+    },
+    {
+     "player": 21243,
+     "kills": 14,
+     "deaths": 14,
+     "swing": 0.61,
+     "adr": 60.3,
+     "kast": 60.0,
+     "rating": 1.0,
+     "_ordinal": "9"
+    },
+    {
+     "player": 8574,
+     "kills": 11,
+     "deaths": 14,
+     "swing": 1.15,
+     "adr": 61.2,
+     "kast": 70.0,
+     "rating": 0.96,
+     "_ordinal": "9"
+    },
+    {
+     "player": 19677,
+     "kills": 9,
+     "deaths": 14,
+     "swing": -1.47,
+     "adr": 61.4,
+     "kast": 70.0,
+     "rating": 0.89,
+     "_ordinal": "9"
+    },
+    {
+     "player": 18850,
+     "kills": 9,
+     "deaths": 14,
+     "swing": -4.07,
+     "adr": 64.0,
+     "kast": 55.0,
+     "rating": 0.77,
+     "_ordinal": "9"
+    },
+    {
+     "player": 7938,
+     "kills": 11,
+     "deaths": 14,
+     "swing": -4.47,
+     "adr": 66.2,
+     "kast": 65.0,
+     "rating": 0.68,
+     "_ordinal": "9"
+    },
+    {
+     "player": 11893,
+     "kills": 18,
+     "deaths": 12,
+     "swing": 5.58,
+     "adr": 89.5,
+     "kast": 70.0,
+     "rating": 1.6,
+     "_ordinal": "10"
+    },
+    {
+     "player": 16693,
+     "kills": 12,
+     "deaths": 10,
+     "swing": 2.78,
+     "adr": 82.5,
+     "kast": 85.0,
+     "rating": 1.29,
+     "_ordinal": "10"
+    },
+    {
+     "player": 11816,
+     "kills": 16,
+     "deaths": 10,
+     "swing": 0.56,
+     "adr": 75.7,
+     "kast": 85.0,
+     "rating": 1.17,
+     "_ordinal": "10"
+    },
+    {
+     "player": 7322,
+     "kills": 13,
+     "deaths": 11,
+     "swing": -0.27,
+     "adr": 73.5,
+     "kast": 65.0,
+     "rating": 1.02,
+     "_ordinal": "10"
+    },
+    {
+     "player": 18462,
+     "kills": 11,
+     "deaths": 11,
+     "swing": -0.4,
+     "adr": 63.4,
+     "kast": 75.0,
+     "rating": 1.01,
+     "_ordinal": "10"
+    }
+   ],
+   "t": [
+    {
+     "player": 21243,
+     "kills": 37,
+     "deaths": 31,
+     "swing": 2.74,
+     "adr": 81.9,
+     "kast": 72.7,
+     "rating": 1.44,
+     "_ordinal": "1"
+    },
+    {
+     "player": 18850,
+     "kills": 26,
+     "deaths": 32,
+     "swing": -2.04,
+     "adr": 63.4,
+     "kast": 59.1,
+     "rating": 0.92,
+     "_ordinal": "1"
+    },
+    {
+     "player": 19677,
+     "kills": 18,
+     "deaths": 36,
+     "swing": -1.45,
+     "adr": 51.0,
+     "kast": 59.1,
+     "rating": 0.82,
+     "_ordinal": "1"
+    },
+    {
+     "player": 7938,
+     "kills": 18,
+     "deaths": 36,
+     "swing": -6.26,
+     "adr": 61.5,
+     "kast": 56.8,
+     "rating": 0.62,
+     "_ordinal": "1"
+    },
+    {
+     "player": 8574,
+     "kills": 13,
+     "deaths": 34,
+     "swing": -4.26,
+     "adr": 35.4,
+     "kast": 56.8,
+     "rating": 0.61,
+     "_ordinal": "1"
+    },
+    {
+     "player": 11893,
+     "kills": 36,
+     "deaths": 23,
+     "swing": 10.09,
+     "adr": 110.4,
+     "kast": 85.3,
+     "rating": 2.07,
+     "_ordinal": "2"
+    },
+    {
+     "player": 11816,
+     "kills": 29,
+     "deaths": 20,
+     "swing": 3.12,
+     "adr": 89.9,
+     "kast": 82.4,
+     "rating": 1.49,
+     "_ordinal": "2"
+    },
+    {
+     "player": 7322,
+     "kills": 20,
+     "deaths": 19,
+     "swing": 0.56,
+     "adr": 61.0,
+     "kast": 70.6,
+     "rating": 1.06,
+     "_ordinal": "2"
+    },
+    {
+     "player": 18462,
+     "kills": 18,
+     "deaths": 20,
+     "swing": -2.62,
+     "adr": 53.3,
+     "kast": 70.6,
+     "rating": 0.91,
+     "_ordinal": "2"
+    },
+    {
+     "player": 16693,
+     "kills": 14,
+     "deaths": 26,
+     "swing": -2.57,
+     "adr": 61.6,
+     "kast": 76.5,
+     "rating": 0.84,
+     "_ordinal": "2"
+    },
+    {
+     "player": 21243,
+     "kills": 8,
+     "deaths": 10,
+     "swing": -2.21,
+     "adr": 63.2,
+     "kast": 58.3,
+     "rating": 0.99,
+     "_ordinal": "3"
+    },
+    {
+     "player": 7938,
+     "kills": 7,
+     "deaths": 10,
+     "swing": -3.73,
+     "adr": 85.0,
+     "kast": 66.7,
+     "rating": 0.85,
+     "_ordinal": "3"
+    },
+    {
+     "player": 8574,
+     "kills": 5,
+     "deaths": 9,
+     "swing": -4.18,
+     "adr": 48.6,
+     "kast": 58.3,
+     "rating": 0.69,
+     "_ordinal": "3"
+    },
+    {
+     "player": 19677,
+     "kills": 4,
+     "deaths": 10,
+     "swing": -6.24,
+     "adr": 38.2,
+     "kast": 58.3,
+     "rating": 0.63,
+     "_ordinal": "3"
+    },
+    {
+     "player": 18850,
+     "kills": 5,
+     "deaths": 9,
+     "swing": -6.36,
+     "adr": 34.6,
+     "kast": 50.0,
+     "rating": 0.55,
+     "_ordinal": "3"
+    },
+    {
+     "player": 11893,
+     "kills": 8,
+     "deaths": 3,
+     "swing": 15.3,
+     "adr": 154.8,
+     "kast": 100.0,
+     "rating": 2.89,
+     "_ordinal": "4"
+    },
+    {
+     "player": 11816,
+     "kills": 6,
+     "deaths": 2,
+     "swing": 4.75,
+     "adr": 117.4,
+     "kast": 100.0,
+     "rating": 1.92,
+     "_ordinal": "4"
+    },
+    {
+     "player": 18462,
+     "kills": 5,
+     "deaths": 4,
+     "swing": 1.5,
+     "adr": 83.4,
+     "kast": 100.0,
+     "rating": 1.25,
+     "_ordinal": "4"
+    },
+    {
+     "player": 7322,
+     "kills": 2,
+     "deaths": 2,
+     "swing": 1.59,
+     "adr": 62.0,
+     "kast": 80.0,
+     "rating": 1.06,
+     "_ordinal": "4"
+    },
+    {
+     "player": 16693,
+     "kills": 1,
+     "deaths": 5,
+     "swing": -6.39,
+     "adr": 50.0,
+     "kast": 60.0,
+     "rating": 0.38,
+     "_ordinal": "4"
+    },
+    {
+     "player": 21243,
+     "kills": 13,
+     "deaths": 7,
+     "swing": 12.75,
+     "adr": 107.8,
+     "kast": 83.3,
+     "rating": 2.41,
+     "_ordinal": "5"
+    },
+    {
+     "player": 18850,
+     "kills": 11,
+     "deaths": 7,
+     "swing": 3.31,
+     "adr": 73.2,
+     "kast": 75.0,
+     "rating": 1.46,
+     "_ordinal": "5"
+    },
+    {
+     "player": 19677,
+     "kills": 3,
+     "deaths": 9,
+     "swing": -3.61,
+     "adr": 50.2,
+     "kast": 58.3,
+     "rating": 0.69,
+     "_ordinal": "5"
+    },
+    {
+     "player": 7938,
+     "kills": 4,
+     "deaths": 8,
+     "swing": -4.58,
+     "adr": 54.2,
+     "kast": 58.3,
+     "rating": 0.65,
+     "_ordinal": "5"
+    },
+    {
+     "player": 8574,
+     "kills": 4,
+     "deaths": 8,
+     "swing": -6.86,
+     "adr": 33.5,
+     "kast": 58.3,
+     "rating": 0.56,
+     "_ordinal": "5"
+    },
+    {
+     "player": 11893,
+     "kills": 12,
+     "deaths": 11,
+     "swing": 4.5,
+     "adr": 107.0,
+     "kast": 83.3,
+     "rating": 1.67,
+     "_ordinal": "6"
+    },
+    {
+     "player": 11816,
+     "kills": 12,
+     "deaths": 9,
+     "swing": 3.82,
+     "adr": 101.2,
+     "kast": 75.0,
+     "rating": 1.66,
+     "_ordinal": "6"
+    },
+    {
+     "player": 7322,
+     "kills": 6,
+     "deaths": 9,
+     "swing": 0.34,
+     "adr": 62.4,
+     "kast": 75.0,
+     "rating": 1.05,
+     "_ordinal": "6"
+    },
+    {
+     "player": 16693,
+     "kills": 6,
+     "deaths": 11,
+     "swing": -3.1,
+     "adr": 37.5,
+     "kast": 75.0,
+     "rating": 0.76,
+     "_ordinal": "6"
+    },
+    {
+     "player": 18462,
+     "kills": 4,
+     "deaths": 8,
+     "swing": -11.21,
+     "adr": 45.4,
+     "kast": 66.7,
+     "rating": 0.6,
+     "_ordinal": "6"
+    },
+    {
+     "player": 21243,
+     "kills": 11,
+     "deaths": 8,
+     "swing": 1.37,
+     "adr": 106.0,
+     "kast": 75.0,
+     "rating": 1.48,
+     "_ordinal": "7"
+    },
+    {
+     "player": 19677,
+     "kills": 7,
+     "deaths": 10,
+     "swing": 4.53,
+     "adr": 54.6,
+     "kast": 50.0,
+     "rating": 1.03,
+     "_ordinal": "7"
+    },
+    {
+     "player": 18850,
+     "kills": 6,
+     "deaths": 9,
+     "swing": -3.7,
+     "adr": 76.8,
+     "kast": 50.0,
+     "rating": 0.82,
+     "_ordinal": "7"
+    },
+    {
+     "player": 8574,
+     "kills": 1,
+     "deaths": 10,
+     "swing": -3.82,
+     "adr": 19.3,
+     "kast": 58.3,
+     "rating": 0.5,
+     "_ordinal": "7"
+    },
+    {
+     "player": 7938,
+     "kills": 4,
+     "deaths": 10,
+     "swing": -10.06,
+     "adr": 35.1,
+     "kast": 50.0,
+     "rating": 0.48,
+     "_ordinal": "7"
+    },
+    {
+     "player": 16693,
+     "kills": 5,
+     "deaths": 2,
+     "swing": 7.3,
+     "adr": 156.2,
+     "kast": 100.0,
+     "rating": 2.29,
+     "_ordinal": "8"
+    },
+    {
+     "player": 11816,
+     "kills": 4,
+     "deaths": 2,
+     "swing": 11.24,
+     "adr": 88.4,
+     "kast": 100.0,
+     "rating": 2.06,
+     "_ordinal": "8"
+    },
+    {
+     "player": 18462,
+     "kills": 3,
+     "deaths": 1,
+     "swing": 13.74,
+     "adr": 58.0,
+     "kast": 80.0,
+     "rating": 1.97,
+     "_ordinal": "8"
+    },
+    {
+     "player": 11893,
+     "kills": 3,
+     "deaths": 3,
+     "swing": 6.62,
+     "adr": 70.6,
+     "kast": 100.0,
+     "rating": 1.52,
+     "_ordinal": "8"
+    },
+    {
+     "player": 7322,
+     "kills": 5,
+     "deaths": 1,
+     "swing": 2.29,
+     "adr": 46.4,
+     "kast": 100.0,
+     "rating": 1.38,
+     "_ordinal": "8"
+    },
+    {
+     "player": 19677,
+     "kills": 4,
+     "deaths": 7,
+     "swing": 0.01,
+     "adr": 66.0,
+     "kast": 75.0,
+     "rating": 1.11,
+     "_ordinal": "9"
+    },
+    {
+     "player": 18850,
+     "kills": 4,
+     "deaths": 7,
+     "swing": -1.11,
+     "adr": 71.8,
+     "kast": 62.5,
+     "rating": 0.96,
+     "_ordinal": "9"
+    },
+    {
+     "player": 21243,
+     "kills": 5,
+     "deaths": 6,
+     "swing": -2.79,
+     "adr": 34.8,
+     "kast": 75.0,
+     "rating": 0.83,
+     "_ordinal": "9"
+    },
+    {
+     "player": 8574,
+     "kills": 3,
+     "deaths": 7,
+     "swing": -1.13,
+     "adr": 42.5,
+     "kast": 50.0,
+     "rating": 0.72,
+     "_ordinal": "9"
+    },
+    {
+     "player": 7938,
+     "kills": 3,
+     "deaths": 8,
+     "swing": -6.89,
+     "adr": 77.0,
+     "kast": 50.0,
+     "rating": 0.57,
+     "_ordinal": "9"
+    },
+    {
+     "player": 11893,
+     "kills": 13,
+     "deaths": 6,
+     "swing": 14.94,
+     "adr": 111.9,
+     "kast": 75.0,
+     "rating": 2.35,
+     "_ordinal": "10"
+    },
+    {
+     "player": 11816,
+     "kills": 7,
+     "deaths": 7,
+     "swing": -1.63,
+     "adr": 67.8,
+     "kast": 75.0,
+     "rating": 0.98,
+     "_ordinal": "10"
+    },
+    {
+     "player": 7322,
+     "kills": 7,
+     "deaths": 7,
+     "swing": -0.37,
+     "adr": 65.3,
+     "kast": 50.0,
+     "rating": 0.94,
+     "_ordinal": "10"
+    },
+    {
+     "player": 18462,
+     "kills": 6,
+     "deaths": 7,
+     "swing": -2.56,
+     "adr": 46.7,
+     "kast": 58.3,
+     "rating": 0.86,
+     "_ordinal": "10"
+    },
+    {
+     "player": 16693,
+     "kills": 2,
+     "deaths": 8,
+     "swing": -4.57,
+     "adr": 51.2,
+     "kast": 75.0,
+     "rating": 0.65,
+     "_ordinal": "10"
+    }
+   ],
+   "ct": [
+    {
+     "player": 8574,
+     "kills": 26,
+     "deaths": 21,
+     "swing": 2.96,
+     "adr": 72.6,
+     "kast": 67.6,
+     "rating": 1.11,
+     "_ordinal": "1"
+    },
+    {
+     "player": 21243,
+     "kills": 26,
+     "deaths": 28,
+     "swing": -0.95,
+     "adr": 81.9,
+     "kast": 52.9,
+     "rating": 0.86,
+     "_ordinal": "1"
+    },
+    {
+     "player": 19677,
+     "kills": 20,
+     "deaths": 24,
+     "swing": -2.62,
+     "adr": 78.8,
+     "kast": 73.5,
+     "rating": 0.85,
+     "_ordinal": "1"
+    },
+    {
+     "player": 7938,
+     "kills": 19,
+     "deaths": 22,
+     "swing": -3.35,
+     "adr": 65.0,
+     "kast": 76.5,
+     "rating": 0.75,
+     "_ordinal": "1"
+    },
+    {
+     "player": 18850,
+     "kills": 15,
+     "deaths": 22,
+     "swing": -4.6,
+     "adr": 51.9,
+     "kast": 58.8,
+     "rating": 0.66,
+     "_ordinal": "1"
+    },
+    {
+     "player": 16693,
+     "kills": 37,
+     "deaths": 19,
+     "swing": 9.47,
+     "adr": 85.1,
+     "kast": 86.4,
+     "rating": 1.67,
+     "_ordinal": "2"
+    },
+    {
+     "player": 18462,
+     "kills": 41,
+     "deaths": 22,
+     "swing": 3.97,
+     "adr": 93.3,
+     "kast": 77.3,
+     "rating": 1.41,
+     "_ordinal": "2"
+    },
+    {
+     "player": 11893,
+     "kills": 35,
+     "deaths": 21,
+     "swing": 1.92,
+     "adr": 83.5,
+     "kast": 77.3,
+     "rating": 1.12,
+     "_ordinal": "2"
+    },
+    {
+     "player": 11816,
+     "kills": 32,
+     "deaths": 23,
+     "swing": -1.09,
+     "adr": 75.0,
+     "kast": 81.8,
+     "rating": 0.98,
+     "_ordinal": "2"
+    },
+    {
+     "player": 7322,
+     "kills": 24,
+     "deaths": 27,
+     "swing": -3.0,
+     "adr": 61.6,
+     "kast": 79.5,
+     "rating": 0.83,
+     "_ordinal": "2"
+    },
+    {
+     "player": 21243,
+     "kills": 6,
+     "deaths": 5,
+     "swing": 5.05,
+     "adr": 122.2,
+     "kast": 80.0,
+     "rating": 1.76,
+     "_ordinal": "3"
+    },
+    {
+     "player": 18850,
+     "kills": 5,
+     "deaths": 4,
+     "swing": 5.79,
+     "adr": 112.4,
+     "kast": 60.0,
+     "rating": 1.58,
+     "_ordinal": "3"
+    },
+    {
+     "player": 7938,
+     "kills": 3,
+     "deaths": 4,
+     "swing": -5.53,
+     "adr": 54.0,
+     "kast": 80.0,
+     "rating": 0.83,
+     "_ordinal": "3"
+    },
+    {
+     "player": 19677,
+     "kills": 1,
+     "deaths": 5,
+     "swing": -10.04,
+     "adr": 51.2,
+     "kast": 80.0,
+     "rating": 0.51,
+     "_ordinal": "3"
+    },
+    {
+     "player": 8574,
+     "kills": 1,
+     "deaths": 4,
+     "swing": -12.01,
+     "adr": 22.6,
+     "kast": 20.0,
+     "rating": 0.24,
+     "_ordinal": "3"
+    },
+    {
+     "player": 18462,
+     "kills": 17,
+     "deaths": 5,
+     "swing": 9.18,
+     "adr": 116.6,
+     "kast": 83.3,
+     "rating": 2.3,
+     "_ordinal": "4"
+    },
+    {
+     "player": 16693,
+     "kills": 8,
+     "deaths": 7,
+     "swing": 11.3,
+     "adr": 74.5,
+     "kast": 66.7,
+     "rating": 1.67,
+     "_ordinal": "4"
+    },
+    {
+     "player": 11893,
+     "kills": 10,
+     "deaths": 3,
+     "swing": 5.81,
+     "adr": 83.0,
+     "kast": 91.7,
+     "rating": 1.48,
+     "_ordinal": "4"
+    },
+    {
+     "player": 11816,
+     "kills": 9,
+     "deaths": 5,
+     "swing": 3.23,
+     "adr": 81.5,
+     "kast": 100.0,
+     "rating": 1.38,
+     "_ordinal": "4"
+    },
+    {
+     "player": 7322,
+     "kills": 4,
+     "deaths": 9,
+     "swing": -6.8,
+     "adr": 54.2,
+     "kast": 75.0,
+     "rating": 0.55,
+     "_ordinal": "4"
+    },
+    {
+     "player": 8574,
+     "kills": 13,
+     "deaths": 6,
+     "swing": 10.45,
+     "adr": 89.8,
+     "kast": 83.3,
+     "rating": 1.81,
+     "_ordinal": "5"
+    },
+    {
+     "player": 19677,
+     "kills": 13,
+     "deaths": 7,
+     "swing": 5.53,
+     "adr": 122.9,
+     "kast": 83.3,
+     "rating": 1.57,
+     "_ordinal": "5"
+    },
+    {
+     "player": 7938,
+     "kills": 7,
+     "deaths": 8,
+     "swing": -1.65,
+     "adr": 79.0,
+     "kast": 75.0,
+     "rating": 0.85,
+     "_ordinal": "5"
+    },
+    {
+     "player": 21243,
+     "kills": 10,
+     "deaths": 11,
+     "swing": -1.41,
+     "adr": 86.4,
+     "kast": 58.3,
+     "rating": 0.8,
+     "_ordinal": "5"
+    },
+    {
+     "player": 18850,
+     "kills": 3,
+     "deaths": 8,
+     "swing": -7.27,
+     "adr": 27.2,
+     "kast": 58.3,
+     "rating": 0.46,
+     "_ordinal": "5"
+    },
+    {
+     "player": 16693,
+     "kills": 7,
+     "deaths": 5,
+     "swing": 7.41,
+     "adr": 60.5,
+     "kast": 83.3,
+     "rating": 1.36,
+     "_ordinal": "6"
+    },
+    {
+     "player": 7322,
+     "kills": 9,
+     "deaths": 7,
+     "swing": 1.26,
+     "adr": 76.7,
+     "kast": 83.3,
+     "rating": 1.1,
+     "_ordinal": "6"
+    },
+    {
+     "player": 11816,
+     "kills": 10,
+     "deaths": 8,
+     "swing": -4.23,
+     "adr": 78.9,
+     "kast": 58.3,
+     "rating": 0.78,
+     "_ordinal": "6"
+    },
+    {
+     "player": 11893,
+     "kills": 6,
+     "deaths": 8,
+     "swing": -1.29,
+     "adr": 75.6,
+     "kast": 58.3,
+     "rating": 0.76,
+     "_ordinal": "6"
+    },
+    {
+     "player": 18462,
+     "kills": 7,
+     "deaths": 7,
+     "swing": -4.16,
+     "adr": 54.5,
+     "kast": 75.0,
+     "rating": 0.66,
+     "_ordinal": "6"
+    },
+    {
+     "player": 8574,
+     "kills": 4,
+     "deaths": 4,
+     "swing": 0.62,
+     "adr": 79.0,
+     "kast": 40.0,
+     "rating": 0.83,
+     "_ordinal": "7"
+    },
+    {
+     "player": 18850,
+     "kills": 2,
+     "deaths": 3,
+     "swing": -5.13,
+     "adr": 34.4,
+     "kast": 80.0,
+     "rating": 0.55,
+     "_ordinal": "7"
+    },
+    {
+     "player": 7938,
+     "kills": 1,
+     "deaths": 4,
+     "swing": -6.45,
+     "adr": 56.6,
+     "kast": 80.0,
+     "rating": 0.44,
+     "_ordinal": "7"
+    },
+    {
+     "player": 19677,
+     "kills": 1,
+     "deaths": 5,
+     "swing": -15.16,
+     "adr": 49.8,
+     "kast": 60.0,
+     "rating": 0.25,
+     "_ordinal": "7"
+    },
+    {
+     "player": 21243,
+     "kills": 1,
+     "deaths": 4,
+     "swing": -15.06,
+     "adr": 41.8,
+     "kast": 20.0,
+     "rating": 0.18,
+     "_ordinal": "7"
+    },
+    {
+     "player": 11893,
+     "kills": 14,
+     "deaths": 4,
+     "swing": 8.16,
+     "adr": 110.5,
+     "kast": 91.7,
+     "rating": 1.74,
+     "_ordinal": "8"
+    },
+    {
+     "player": 16693,
+     "kills": 12,
+     "deaths": 5,
+     "swing": 6.83,
+     "adr": 90.7,
+     "kast": 100.0,
+     "rating": 1.63,
+     "_ordinal": "8"
+    },
+    {
+     "player": 18462,
+     "kills": 12,
+     "deaths": 6,
+     "swing": 7.65,
+     "adr": 112.2,
+     "kast": 58.3,
+     "rating": 1.62,
+     "_ordinal": "8"
+    },
+    {
+     "player": 7322,
+     "kills": 5,
+     "deaths": 7,
+     "swing": -5.37,
+     "adr": 37.7,
+     "kast": 75.0,
+     "rating": 0.68,
+     "_ordinal": "8"
+    },
+    {
+     "player": 11816,
+     "kills": 4,
+     "deaths": 7,
+     "swing": -5.58,
+     "adr": 56.3,
+     "kast": 75.0,
+     "rating": 0.63,
+     "_ordinal": "8"
+    },
+    {
+     "player": 8574,
+     "kills": 8,
+     "deaths": 7,
+     "swing": 2.67,
+     "adr": 73.7,
+     "kast": 83.3,
+     "rating": 1.12,
+     "_ordinal": "9"
+    },
+    {
+     "player": 21243,
+     "kills": 9,
+     "deaths": 8,
+     "swing": 2.88,
+     "adr": 77.3,
+     "kast": 50.0,
+     "rating": 1.11,
+     "_ordinal": "9"
+    },
+    {
+     "player": 7938,
+     "kills": 8,
+     "deaths": 6,
+     "swing": -2.86,
+     "adr": 59.0,
+     "kast": 75.0,
+     "rating": 0.76,
+     "_ordinal": "9"
+    },
+    {
+     "player": 19677,
+     "kills": 5,
+     "deaths": 7,
+     "swing": -2.45,
+     "adr": 58.3,
+     "kast": 66.7,
+     "rating": 0.74,
+     "_ordinal": "9"
+    },
+    {
+     "player": 18850,
+     "kills": 5,
+     "deaths": 7,
+     "swing": -6.04,
+     "adr": 58.8,
+     "kast": 50.0,
+     "rating": 0.65,
+     "_ordinal": "9"
+    },
+    {
+     "player": 16693,
+     "kills": 10,
+     "deaths": 2,
+     "swing": 13.79,
+     "adr": 129.4,
+     "kast": 100.0,
+     "rating": 2.25,
+     "_ordinal": "10"
+    },
+    {
+     "player": 11816,
+     "kills": 9,
+     "deaths": 3,
+     "swing": 3.86,
+     "adr": 87.6,
+     "kast": 100.0,
+     "rating": 1.44,
+     "_ordinal": "10"
+    },
+    {
+     "player": 18462,
+     "kills": 5,
+     "deaths": 4,
+     "swing": 2.84,
+     "adr": 88.4,
+     "kast": 100.0,
+     "rating": 1.24,
+     "_ordinal": "10"
+    },
+    {
+     "player": 7322,
+     "kills": 6,
+     "deaths": 4,
+     "swing": -0.13,
+     "adr": 85.9,
+     "kast": 87.5,
+     "rating": 1.14,
+     "_ordinal": "10"
+    },
+    {
+     "player": 11893,
+     "kills": 5,
+     "deaths": 6,
+     "swing": -8.47,
+     "adr": 55.9,
+     "kast": 62.5,
+     "rating": 0.48,
+     "_ordinal": "10"
+    }
+   ]
+  },
+  "de_cache": {
+   "both": [
+    {
+     "player": 21243,
+     "kills": 63,
+     "deaths": 59,
+     "swing": 1.13,
+     "adr": 81.9,
+     "kast": 64.1,
+     "rating": 1.19,
+     "_ordinal": "1"
+    },
+    {
+     "player": 19677,
+     "kills": 38,
+     "deaths": 60,
+     "swing": -1.96,
+     "adr": 63.1,
+     "kast": 65.4,
+     "rating": 0.83,
+     "_ordinal": "1"
+    },
+    {
+     "player": 8574,
+     "kills": 39,
+     "deaths": 55,
+     "swing": -1.11,
+     "adr": 51.6,
+     "kast": 61.5,
+     "rating": 0.83,
+     "_ordinal": "1"
+    },
+    {
+     "player": 18850,
+     "kills": 41,
+     "deaths": 54,
+     "swing": -3.16,
+     "adr": 58.4,
+     "kast": 59.0,
+     "rating": 0.8,
+     "_ordinal": "1"
+    },
+    {
+     "player": 7938,
+     "kills": 37,
+     "deaths": 58,
+     "swing": -5.0,
+     "adr": 63.0,
+     "kast": 65.4,
+     "rating": 0.68,
+     "_ordinal": "1"
+    },
+    {
+     "player": 11893,
+     "kills": 71,
+     "deaths": 44,
+     "swing": 5.48,
+     "adr": 95.3,
+     "kast": 80.8,
+     "rating": 1.53,
+     "_ordinal": "2"
+    },
+    {
+     "player": 16693,
+     "kills": 51,
+     "deaths": 45,
+     "swing": 4.22,
+     "adr": 74.8,
+     "kast": 82.1,
+     "rating": 1.31,
+     "_ordinal": "2"
+    },
+    {
+     "player": 11816,
+     "kills": 61,
+     "deaths": 43,
+     "swing": 0.75,
+     "adr": 81.5,
+     "kast": 82.1,
+     "rating": 1.2,
+     "_ordinal": "2"
+    },
+    {
+     "player": 18462,
+     "kills": 59,
+     "deaths": 42,
+     "swing": 1.1,
+     "adr": 75.9,
+     "kast": 74.4,
+     "rating": 1.19,
+     "_ordinal": "2"
+    },
+    {
+     "player": 7322,
+     "kills": 44,
+     "deaths": 46,
+     "swing": -1.45,
+     "adr": 61.3,
+     "kast": 75.6,
+     "rating": 0.93,
+     "_ordinal": "2"
+    },
+    {
+     "player": 21243,
+     "kills": 14,
+     "deaths": 15,
+     "swing": -0.07,
+     "adr": 80.6,
+     "kast": 64.7,
+     "rating": 1.22,
+     "_ordinal": "3"
+    },
+    {
+     "player": 18850,
+     "kills": 10,
+     "deaths": 13,
+     "swing": -2.79,
+     "adr": 57.5,
+     "kast": 52.9,
+     "rating": 0.85,
+     "_ordinal": "3"
+    },
+    {
+     "player": 7938,
+     "kills": 10,
+     "deaths": 14,
+     "swing": -4.26,
+     "adr": 75.9,
+     "kast": 70.6,
+     "rating": 0.84,
+     "_ordinal": "3"
+    },
+    {
+     "player": 19677,
+     "kills": 5,
+     "deaths": 15,
+     "swing": -7.36,
+     "adr": 42.1,
+     "kast": 64.7,
+     "rating": 0.59,
+     "_ordinal": "3"
+    },
+    {
+     "player": 8574,
+     "kills": 6,
+     "deaths": 13,
+     "swing": -6.48,
+     "adr": 40.9,
+     "kast": 47.1,
+     "rating": 0.55,
+     "_ordinal": "3"
+    },
+    {
+     "player": 18462,
+     "kills": 22,
+     "deaths": 9,
+     "swing": 6.92,
+     "adr": 106.8,
+     "kast": 88.2,
+     "rating": 1.99,
+     "_ordinal": "4"
+    },
+    {
+     "player": 11893,
+     "kills": 18,
+     "deaths": 6,
+     "swing": 8.6,
+     "adr": 104.1,
+     "kast": 94.1,
+     "rating": 1.9,
+     "_ordinal": "4"
+    },
+    {
+     "player": 11816,
+     "kills": 15,
+     "deaths": 7,
+     "swing": 3.68,
+     "adr": 92.1,
+     "kast": 100.0,
+     "rating": 1.54,
+     "_ordinal": "4"
+    },
+    {
+     "player": 16693,
+     "kills": 9,
+     "deaths": 12,
+     "swing": 6.09,
+     "adr": 67.3,
+     "kast": 64.7,
+     "rating": 1.29,
+     "_ordinal": "4"
+    },
+    {
+     "player": 7322,
+     "kills": 6,
+     "deaths": 11,
+     "swing": -4.33,
+     "adr": 56.5,
+     "kast": 76.5,
+     "rating": 0.7,
+     "_ordinal": "4"
+    },
+    {
+     "player": 21243,
+     "kills": 23,
+     "deaths": 18,
+     "swing": 5.67,
+     "adr": 97.1,
+     "kast": 70.8,
+     "rating": 1.6,
+     "_ordinal": "5"
+    },
+    {
+     "player": 8574,
+     "kills": 17,
+     "deaths": 14,
+     "swing": 1.8,
+     "adr": 61.6,
+     "kast": 70.8,
+     "rating": 1.18,
+     "_ordinal": "5"
+    },
+    {
+     "player": 19677,
+     "kills": 16,
+     "deaths": 16,
+     "swing": 0.96,
+     "adr": 86.6,
+     "kast": 70.8,
+     "rating": 1.13,
+     "_ordinal": "5"
+    },
+    {
+     "player": 18850,
+     "kills": 14,
+     "deaths": 15,
+     "swing": -1.98,
+     "adr": 50.2,
+     "kast": 66.7,
+     "rating": 0.96,
+     "_ordinal": "5"
+    },
+    {
+     "player": 7938,
+     "kills": 11,
+     "deaths": 16,
+     "swing": -3.11,
+     "adr": 66.6,
+     "kast": 66.7,
+     "rating": 0.75,
+     "_ordinal": "5"
+    },
+    {
+     "player": 11816,
+     "kills": 22,
+     "deaths": 17,
+     "swing": -0.21,
+     "adr": 90.1,
+     "kast": 66.7,
+     "rating": 1.22,
+     "_ordinal": "6"
+    },
+    {
+     "player": 11893,
+     "kills": 18,
+     "deaths": 19,
+     "swing": 1.61,
+     "adr": 91.3,
+     "kast": 70.8,
+     "rating": 1.22,
+     "_ordinal": "6"
+    },
+    {
+     "player": 7322,
+     "kills": 15,
+     "deaths": 16,
+     "swing": 0.8,
+     "adr": 69.5,
+     "kast": 79.2,
+     "rating": 1.07,
+     "_ordinal": "6"
+    },
+    {
+     "player": 16693,
+     "kills": 13,
+     "deaths": 16,
+     "swing": 2.16,
+     "adr": 49.0,
+     "kast": 79.2,
+     "rating": 1.06,
+     "_ordinal": "6"
+    },
+    {
+     "player": 18462,
+     "kills": 11,
+     "deaths": 15,
+     "swing": -7.69,
+     "adr": 50.0,
+     "kast": 70.8,
+     "rating": 0.63,
+     "_ordinal": "6"
+    },
+    {
+     "player": 21243,
+     "kills": 12,
+     "deaths": 12,
+     "swing": -3.46,
+     "adr": 87.1,
+     "kast": 58.8,
+     "rating": 1.1,
+     "_ordinal": "7"
+    },
+    {
+     "player": 19677,
+     "kills": 8,
+     "deaths": 15,
+     "swing": -1.26,
+     "adr": 53.2,
+     "kast": 52.9,
+     "rating": 0.8,
+     "_ordinal": "7"
+    },
+    {
+     "player": 18850,
+     "kills": 8,
+     "deaths": 12,
+     "swing": -4.12,
+     "adr": 64.4,
+     "kast": 58.8,
+     "rating": 0.74,
+     "_ordinal": "7"
+    },
+    {
+     "player": 8574,
+     "kills": 5,
+     "deaths": 14,
+     "swing": -2.52,
+     "adr": 36.9,
+     "kast": 52.9,
+     "rating": 0.6,
+     "_ordinal": "7"
+    },
+    {
+     "player": 7938,
+     "kills": 5,
+     "deaths": 14,
+     "swing": -9.0,
+     "adr": 41.4,
+     "kast": 58.8,
+     "rating": 0.47,
+     "_ordinal": "7"
+    },
+    {
+     "player": 16693,
+     "kills": 17,
+     "deaths": 7,
+     "swing": 6.97,
+     "adr": 109.9,
+     "kast": 100.0,
+     "rating": 1.83,
+     "_ordinal": "8"
+    },
+    {
+     "player": 18462,
+     "kills": 15,
+     "deaths": 7,
+     "swing": 9.44,
+     "adr": 96.2,
+     "kast": 64.7,
+     "rating": 1.73,
+     "_ordinal": "8"
+    },
+    {
+     "player": 11893,
+     "kills": 17,
+     "deaths": 7,
+     "swing": 7.71,
+     "adr": 98.8,
+     "kast": 94.1,
+     "rating": 1.67,
+     "_ordinal": "8"
+    },
+    {
+     "player": 11816,
+     "kills": 8,
+     "deaths": 9,
+     "swing": -0.63,
+     "adr": 65.8,
+     "kast": 82.4,
+     "rating": 1.05,
+     "_ordinal": "8"
+    },
+    {
+     "player": 7322,
+     "kills": 10,
+     "deaths": 8,
+     "swing": -3.12,
+     "adr": 40.2,
+     "kast": 82.4,
+     "rating": 0.88,
+     "_ordinal": "8"
+    },
+    {
+     "player": 21243,
+     "kills": 14,
+     "deaths": 14,
+     "swing": 0.61,
+     "adr": 60.3,
+     "kast": 60.0,
+     "rating": 1.0,
+     "_ordinal": "9"
+    },
+    {
+     "player": 8574,
+     "kills": 11,
+     "deaths": 14,
+     "swing": 1.15,
+     "adr": 61.2,
+     "kast": 70.0,
+     "rating": 0.96,
+     "_ordinal": "9"
+    },
+    {
+     "player": 19677,
+     "kills": 9,
+     "deaths": 14,
+     "swing": -1.47,
+     "adr": 61.4,
+     "kast": 70.0,
+     "rating": 0.89,
+     "_ordinal": "9"
+    },
+    {
+     "player": 18850,
+     "kills": 9,
+     "deaths": 14,
+     "swing": -4.07,
+     "adr": 64.0,
+     "kast": 55.0,
+     "rating": 0.77,
+     "_ordinal": "9"
+    },
+    {
+     "player": 7938,
+     "kills": 11,
+     "deaths": 14,
+     "swing": -4.47,
+     "adr": 66.2,
+     "kast": 65.0,
+     "rating": 0.68,
+     "_ordinal": "9"
+    },
+    {
+     "player": 11893,
+     "kills": 18,
+     "deaths": 12,
+     "swing": 5.58,
+     "adr": 89.5,
+     "kast": 70.0,
+     "rating": 1.6,
+     "_ordinal": "10"
+    },
+    {
+     "player": 16693,
+     "kills": 12,
+     "deaths": 10,
+     "swing": 2.78,
+     "adr": 82.5,
+     "kast": 85.0,
+     "rating": 1.29,
+     "_ordinal": "10"
+    },
+    {
+     "player": 11816,
+     "kills": 16,
+     "deaths": 10,
+     "swing": 0.56,
+     "adr": 75.7,
+     "kast": 85.0,
+     "rating": 1.17,
+     "_ordinal": "10"
+    },
+    {
+     "player": 7322,
+     "kills": 13,
+     "deaths": 11,
+     "swing": -0.27,
+     "adr": 73.5,
+     "kast": 65.0,
+     "rating": 1.02,
+     "_ordinal": "10"
+    },
+    {
+     "player": 18462,
+     "kills": 11,
+     "deaths": 11,
+     "swing": -0.4,
+     "adr": 63.4,
+     "kast": 75.0,
+     "rating": 1.01,
+     "_ordinal": "10"
+    }
+   ],
+   "t": [
+    {
+     "player": 21243,
+     "kills": 37,
+     "deaths": 31,
+     "swing": 2.74,
+     "adr": 81.9,
+     "kast": 72.7,
+     "rating": 1.44,
+     "_ordinal": "1"
+    },
+    {
+     "player": 18850,
+     "kills": 26,
+     "deaths": 32,
+     "swing": -2.04,
+     "adr": 63.4,
+     "kast": 59.1,
+     "rating": 0.92,
+     "_ordinal": "1"
+    },
+    {
+     "player": 19677,
+     "kills": 18,
+     "deaths": 36,
+     "swing": -1.45,
+     "adr": 51.0,
+     "kast": 59.1,
+     "rating": 0.82,
+     "_ordinal": "1"
+    },
+    {
+     "player": 7938,
+     "kills": 18,
+     "deaths": 36,
+     "swing": -6.26,
+     "adr": 61.5,
+     "kast": 56.8,
+     "rating": 0.62,
+     "_ordinal": "1"
+    },
+    {
+     "player": 8574,
+     "kills": 13,
+     "deaths": 34,
+     "swing": -4.26,
+     "adr": 35.4,
+     "kast": 56.8,
+     "rating": 0.61,
+     "_ordinal": "1"
+    },
+    {
+     "player": 11893,
+     "kills": 36,
+     "deaths": 23,
+     "swing": 10.09,
+     "adr": 110.4,
+     "kast": 85.3,
+     "rating": 2.07,
+     "_ordinal": "2"
+    },
+    {
+     "player": 11816,
+     "kills": 29,
+     "deaths": 20,
+     "swing": 3.12,
+     "adr": 89.9,
+     "kast": 82.4,
+     "rating": 1.49,
+     "_ordinal": "2"
+    },
+    {
+     "player": 7322,
+     "kills": 20,
+     "deaths": 19,
+     "swing": 0.56,
+     "adr": 61.0,
+     "kast": 70.6,
+     "rating": 1.06,
+     "_ordinal": "2"
+    },
+    {
+     "player": 18462,
+     "kills": 18,
+     "deaths": 20,
+     "swing": -2.62,
+     "adr": 53.3,
+     "kast": 70.6,
+     "rating": 0.91,
+     "_ordinal": "2"
+    },
+    {
+     "player": 16693,
+     "kills": 14,
+     "deaths": 26,
+     "swing": -2.57,
+     "adr": 61.6,
+     "kast": 76.5,
+     "rating": 0.84,
+     "_ordinal": "2"
+    },
+    {
+     "player": 21243,
+     "kills": 8,
+     "deaths": 10,
+     "swing": -2.21,
+     "adr": 63.2,
+     "kast": 58.3,
+     "rating": 0.99,
+     "_ordinal": "3"
+    },
+    {
+     "player": 7938,
+     "kills": 7,
+     "deaths": 10,
+     "swing": -3.73,
+     "adr": 85.0,
+     "kast": 66.7,
+     "rating": 0.85,
+     "_ordinal": "3"
+    },
+    {
+     "player": 8574,
+     "kills": 5,
+     "deaths": 9,
+     "swing": -4.18,
+     "adr": 48.6,
+     "kast": 58.3,
+     "rating": 0.69,
+     "_ordinal": "3"
+    },
+    {
+     "player": 19677,
+     "kills": 4,
+     "deaths": 10,
+     "swing": -6.24,
+     "adr": 38.2,
+     "kast": 58.3,
+     "rating": 0.63,
+     "_ordinal": "3"
+    },
+    {
+     "player": 18850,
+     "kills": 5,
+     "deaths": 9,
+     "swing": -6.36,
+     "adr": 34.6,
+     "kast": 50.0,
+     "rating": 0.55,
+     "_ordinal": "3"
+    },
+    {
+     "player": 11893,
+     "kills": 8,
+     "deaths": 3,
+     "swing": 15.3,
+     "adr": 154.8,
+     "kast": 100.0,
+     "rating": 2.89,
+     "_ordinal": "4"
+    },
+    {
+     "player": 11816,
+     "kills": 6,
+     "deaths": 2,
+     "swing": 4.75,
+     "adr": 117.4,
+     "kast": 100.0,
+     "rating": 1.92,
+     "_ordinal": "4"
+    },
+    {
+     "player": 18462,
+     "kills": 5,
+     "deaths": 4,
+     "swing": 1.5,
+     "adr": 83.4,
+     "kast": 100.0,
+     "rating": 1.25,
+     "_ordinal": "4"
+    },
+    {
+     "player": 7322,
+     "kills": 2,
+     "deaths": 2,
+     "swing": 1.59,
+     "adr": 62.0,
+     "kast": 80.0,
+     "rating": 1.06,
+     "_ordinal": "4"
+    },
+    {
+     "player": 16693,
+     "kills": 1,
+     "deaths": 5,
+     "swing": -6.39,
+     "adr": 50.0,
+     "kast": 60.0,
+     "rating": 0.38,
+     "_ordinal": "4"
+    },
+    {
+     "player": 21243,
+     "kills": 13,
+     "deaths": 7,
+     "swing": 12.75,
+     "adr": 107.8,
+     "kast": 83.3,
+     "rating": 2.41,
+     "_ordinal": "5"
+    },
+    {
+     "player": 18850,
+     "kills": 11,
+     "deaths": 7,
+     "swing": 3.31,
+     "adr": 73.2,
+     "kast": 75.0,
+     "rating": 1.46,
+     "_ordinal": "5"
+    },
+    {
+     "player": 19677,
+     "kills": 3,
+     "deaths": 9,
+     "swing": -3.61,
+     "adr": 50.2,
+     "kast": 58.3,
+     "rating": 0.69,
+     "_ordinal": "5"
+    },
+    {
+     "player": 7938,
+     "kills": 4,
+     "deaths": 8,
+     "swing": -4.58,
+     "adr": 54.2,
+     "kast": 58.3,
+     "rating": 0.65,
+     "_ordinal": "5"
+    },
+    {
+     "player": 8574,
+     "kills": 4,
+     "deaths": 8,
+     "swing": -6.86,
+     "adr": 33.5,
+     "kast": 58.3,
+     "rating": 0.56,
+     "_ordinal": "5"
+    },
+    {
+     "player": 11893,
+     "kills": 12,
+     "deaths": 11,
+     "swing": 4.5,
+     "adr": 107.0,
+     "kast": 83.3,
+     "rating": 1.67,
+     "_ordinal": "6"
+    },
+    {
+     "player": 11816,
+     "kills": 12,
+     "deaths": 9,
+     "swing": 3.82,
+     "adr": 101.2,
+     "kast": 75.0,
+     "rating": 1.66,
+     "_ordinal": "6"
+    },
+    {
+     "player": 7322,
+     "kills": 6,
+     "deaths": 9,
+     "swing": 0.34,
+     "adr": 62.4,
+     "kast": 75.0,
+     "rating": 1.05,
+     "_ordinal": "6"
+    },
+    {
+     "player": 16693,
+     "kills": 6,
+     "deaths": 11,
+     "swing": -3.1,
+     "adr": 37.5,
+     "kast": 75.0,
+     "rating": 0.76,
+     "_ordinal": "6"
+    },
+    {
+     "player": 18462,
+     "kills": 4,
+     "deaths": 8,
+     "swing": -11.21,
+     "adr": 45.4,
+     "kast": 66.7,
+     "rating": 0.6,
+     "_ordinal": "6"
+    },
+    {
+     "player": 21243,
+     "kills": 11,
+     "deaths": 8,
+     "swing": 1.37,
+     "adr": 106.0,
+     "kast": 75.0,
+     "rating": 1.48,
+     "_ordinal": "7"
+    },
+    {
+     "player": 19677,
+     "kills": 7,
+     "deaths": 10,
+     "swing": 4.53,
+     "adr": 54.6,
+     "kast": 50.0,
+     "rating": 1.03,
+     "_ordinal": "7"
+    },
+    {
+     "player": 18850,
+     "kills": 6,
+     "deaths": 9,
+     "swing": -3.7,
+     "adr": 76.8,
+     "kast": 50.0,
+     "rating": 0.82,
+     "_ordinal": "7"
+    },
+    {
+     "player": 8574,
+     "kills": 1,
+     "deaths": 10,
+     "swing": -3.82,
+     "adr": 19.3,
+     "kast": 58.3,
+     "rating": 0.5,
+     "_ordinal": "7"
+    },
+    {
+     "player": 7938,
+     "kills": 4,
+     "deaths": 10,
+     "swing": -10.06,
+     "adr": 35.1,
+     "kast": 50.0,
+     "rating": 0.48,
+     "_ordinal": "7"
+    },
+    {
+     "player": 16693,
+     "kills": 5,
+     "deaths": 2,
+     "swing": 7.3,
+     "adr": 156.2,
+     "kast": 100.0,
+     "rating": 2.29,
+     "_ordinal": "8"
+    },
+    {
+     "player": 11816,
+     "kills": 4,
+     "deaths": 2,
+     "swing": 11.24,
+     "adr": 88.4,
+     "kast": 100.0,
+     "rating": 2.06,
+     "_ordinal": "8"
+    },
+    {
+     "player": 18462,
+     "kills": 3,
+     "deaths": 1,
+     "swing": 13.74,
+     "adr": 58.0,
+     "kast": 80.0,
+     "rating": 1.97,
+     "_ordinal": "8"
+    },
+    {
+     "player": 11893,
+     "kills": 3,
+     "deaths": 3,
+     "swing": 6.62,
+     "adr": 70.6,
+     "kast": 100.0,
+     "rating": 1.52,
+     "_ordinal": "8"
+    },
+    {
+     "player": 7322,
+     "kills": 5,
+     "deaths": 1,
+     "swing": 2.29,
+     "adr": 46.4,
+     "kast": 100.0,
+     "rating": 1.38,
+     "_ordinal": "8"
+    },
+    {
+     "player": 19677,
+     "kills": 4,
+     "deaths": 7,
+     "swing": 0.01,
+     "adr": 66.0,
+     "kast": 75.0,
+     "rating": 1.11,
+     "_ordinal": "9"
+    },
+    {
+     "player": 18850,
+     "kills": 4,
+     "deaths": 7,
+     "swing": -1.11,
+     "adr": 71.8,
+     "kast": 62.5,
+     "rating": 0.96,
+     "_ordinal": "9"
+    },
+    {
+     "player": 21243,
+     "kills": 5,
+     "deaths": 6,
+     "swing": -2.79,
+     "adr": 34.8,
+     "kast": 75.0,
+     "rating": 0.83,
+     "_ordinal": "9"
+    },
+    {
+     "player": 8574,
+     "kills": 3,
+     "deaths": 7,
+     "swing": -1.13,
+     "adr": 42.5,
+     "kast": 50.0,
+     "rating": 0.72,
+     "_ordinal": "9"
+    },
+    {
+     "player": 7938,
+     "kills": 3,
+     "deaths": 8,
+     "swing": -6.89,
+     "adr": 77.0,
+     "kast": 50.0,
+     "rating": 0.57,
+     "_ordinal": "9"
+    },
+    {
+     "player": 11893,
+     "kills": 13,
+     "deaths": 6,
+     "swing": 14.94,
+     "adr": 111.9,
+     "kast": 75.0,
+     "rating": 2.35,
+     "_ordinal": "10"
+    },
+    {
+     "player": 11816,
+     "kills": 7,
+     "deaths": 7,
+     "swing": -1.63,
+     "adr": 67.8,
+     "kast": 75.0,
+     "rating": 0.98,
+     "_ordinal": "10"
+    },
+    {
+     "player": 7322,
+     "kills": 7,
+     "deaths": 7,
+     "swing": -0.37,
+     "adr": 65.3,
+     "kast": 50.0,
+     "rating": 0.94,
+     "_ordinal": "10"
+    },
+    {
+     "player": 18462,
+     "kills": 6,
+     "deaths": 7,
+     "swing": -2.56,
+     "adr": 46.7,
+     "kast": 58.3,
+     "rating": 0.86,
+     "_ordinal": "10"
+    },
+    {
+     "player": 16693,
+     "kills": 2,
+     "deaths": 8,
+     "swing": -4.57,
+     "adr": 51.2,
+     "kast": 75.0,
+     "rating": 0.65,
+     "_ordinal": "10"
+    }
+   ],
+   "ct": [
+    {
+     "player": 8574,
+     "kills": 26,
+     "deaths": 21,
+     "swing": 2.96,
+     "adr": 72.6,
+     "kast": 67.6,
+     "rating": 1.11,
+     "_ordinal": "1"
+    },
+    {
+     "player": 21243,
+     "kills": 26,
+     "deaths": 28,
+     "swing": -0.95,
+     "adr": 81.9,
+     "kast": 52.9,
+     "rating": 0.86,
+     "_ordinal": "1"
+    },
+    {
+     "player": 19677,
+     "kills": 20,
+     "deaths": 24,
+     "swing": -2.62,
+     "adr": 78.8,
+     "kast": 73.5,
+     "rating": 0.85,
+     "_ordinal": "1"
+    },
+    {
+     "player": 7938,
+     "kills": 19,
+     "deaths": 22,
+     "swing": -3.35,
+     "adr": 65.0,
+     "kast": 76.5,
+     "rating": 0.75,
+     "_ordinal": "1"
+    },
+    {
+     "player": 18850,
+     "kills": 15,
+     "deaths": 22,
+     "swing": -4.6,
+     "adr": 51.9,
+     "kast": 58.8,
+     "rating": 0.66,
+     "_ordinal": "1"
+    },
+    {
+     "player": 16693,
+     "kills": 37,
+     "deaths": 19,
+     "swing": 9.47,
+     "adr": 85.1,
+     "kast": 86.4,
+     "rating": 1.67,
+     "_ordinal": "2"
+    },
+    {
+     "player": 18462,
+     "kills": 41,
+     "deaths": 22,
+     "swing": 3.97,
+     "adr": 93.3,
+     "kast": 77.3,
+     "rating": 1.41,
+     "_ordinal": "2"
+    },
+    {
+     "player": 11893,
+     "kills": 35,
+     "deaths": 21,
+     "swing": 1.92,
+     "adr": 83.5,
+     "kast": 77.3,
+     "rating": 1.12,
+     "_ordinal": "2"
+    },
+    {
+     "player": 11816,
+     "kills": 32,
+     "deaths": 23,
+     "swing": -1.09,
+     "adr": 75.0,
+     "kast": 81.8,
+     "rating": 0.98,
+     "_ordinal": "2"
+    },
+    {
+     "player": 7322,
+     "kills": 24,
+     "deaths": 27,
+     "swing": -3.0,
+     "adr": 61.6,
+     "kast": 79.5,
+     "rating": 0.83,
+     "_ordinal": "2"
+    },
+    {
+     "player": 21243,
+     "kills": 6,
+     "deaths": 5,
+     "swing": 5.05,
+     "adr": 122.2,
+     "kast": 80.0,
+     "rating": 1.76,
+     "_ordinal": "3"
+    },
+    {
+     "player": 18850,
+     "kills": 5,
+     "deaths": 4,
+     "swing": 5.79,
+     "adr": 112.4,
+     "kast": 60.0,
+     "rating": 1.58,
+     "_ordinal": "3"
+    },
+    {
+     "player": 7938,
+     "kills": 3,
+     "deaths": 4,
+     "swing": -5.53,
+     "adr": 54.0,
+     "kast": 80.0,
+     "rating": 0.83,
+     "_ordinal": "3"
+    },
+    {
+     "player": 19677,
+     "kills": 1,
+     "deaths": 5,
+     "swing": -10.04,
+     "adr": 51.2,
+     "kast": 80.0,
+     "rating": 0.51,
+     "_ordinal": "3"
+    },
+    {
+     "player": 8574,
+     "kills": 1,
+     "deaths": 4,
+     "swing": -12.01,
+     "adr": 22.6,
+     "kast": 20.0,
+     "rating": 0.24,
+     "_ordinal": "3"
+    },
+    {
+     "player": 18462,
+     "kills": 17,
+     "deaths": 5,
+     "swing": 9.18,
+     "adr": 116.6,
+     "kast": 83.3,
+     "rating": 2.3,
+     "_ordinal": "4"
+    },
+    {
+     "player": 16693,
+     "kills": 8,
+     "deaths": 7,
+     "swing": 11.3,
+     "adr": 74.5,
+     "kast": 66.7,
+     "rating": 1.67,
+     "_ordinal": "4"
+    },
+    {
+     "player": 11893,
+     "kills": 10,
+     "deaths": 3,
+     "swing": 5.81,
+     "adr": 83.0,
+     "kast": 91.7,
+     "rating": 1.48,
+     "_ordinal": "4"
+    },
+    {
+     "player": 11816,
+     "kills": 9,
+     "deaths": 5,
+     "swing": 3.23,
+     "adr": 81.5,
+     "kast": 100.0,
+     "rating": 1.38,
+     "_ordinal": "4"
+    },
+    {
+     "player": 7322,
+     "kills": 4,
+     "deaths": 9,
+     "swing": -6.8,
+     "adr": 54.2,
+     "kast": 75.0,
+     "rating": 0.55,
+     "_ordinal": "4"
+    },
+    {
+     "player": 8574,
+     "kills": 13,
+     "deaths": 6,
+     "swing": 10.45,
+     "adr": 89.8,
+     "kast": 83.3,
+     "rating": 1.81,
+     "_ordinal": "5"
+    },
+    {
+     "player": 19677,
+     "kills": 13,
+     "deaths": 7,
+     "swing": 5.53,
+     "adr": 122.9,
+     "kast": 83.3,
+     "rating": 1.57,
+     "_ordinal": "5"
+    },
+    {
+     "player": 7938,
+     "kills": 7,
+     "deaths": 8,
+     "swing": -1.65,
+     "adr": 79.0,
+     "kast": 75.0,
+     "rating": 0.85,
+     "_ordinal": "5"
+    },
+    {
+     "player": 21243,
+     "kills": 10,
+     "deaths": 11,
+     "swing": -1.41,
+     "adr": 86.4,
+     "kast": 58.3,
+     "rating": 0.8,
+     "_ordinal": "5"
+    },
+    {
+     "player": 18850,
+     "kills": 3,
+     "deaths": 8,
+     "swing": -7.27,
+     "adr": 27.2,
+     "kast": 58.3,
+     "rating": 0.46,
+     "_ordinal": "5"
+    },
+    {
+     "player": 16693,
+     "kills": 7,
+     "deaths": 5,
+     "swing": 7.41,
+     "adr": 60.5,
+     "kast": 83.3,
+     "rating": 1.36,
+     "_ordinal": "6"
+    },
+    {
+     "player": 7322,
+     "kills": 9,
+     "deaths": 7,
+     "swing": 1.26,
+     "adr": 76.7,
+     "kast": 83.3,
+     "rating": 1.1,
+     "_ordinal": "6"
+    },
+    {
+     "player": 11816,
+     "kills": 10,
+     "deaths": 8,
+     "swing": -4.23,
+     "adr": 78.9,
+     "kast": 58.3,
+     "rating": 0.78,
+     "_ordinal": "6"
+    },
+    {
+     "player": 11893,
+     "kills": 6,
+     "deaths": 8,
+     "swing": -1.29,
+     "adr": 75.6,
+     "kast": 58.3,
+     "rating": 0.76,
+     "_ordinal": "6"
+    },
+    {
+     "player": 18462,
+     "kills": 7,
+     "deaths": 7,
+     "swing": -4.16,
+     "adr": 54.5,
+     "kast": 75.0,
+     "rating": 0.66,
+     "_ordinal": "6"
+    },
+    {
+     "player": 8574,
+     "kills": 4,
+     "deaths": 4,
+     "swing": 0.62,
+     "adr": 79.0,
+     "kast": 40.0,
+     "rating": 0.83,
+     "_ordinal": "7"
+    },
+    {
+     "player": 18850,
+     "kills": 2,
+     "deaths": 3,
+     "swing": -5.13,
+     "adr": 34.4,
+     "kast": 80.0,
+     "rating": 0.55,
+     "_ordinal": "7"
+    },
+    {
+     "player": 7938,
+     "kills": 1,
+     "deaths": 4,
+     "swing": -6.45,
+     "adr": 56.6,
+     "kast": 80.0,
+     "rating": 0.44,
+     "_ordinal": "7"
+    },
+    {
+     "player": 19677,
+     "kills": 1,
+     "deaths": 5,
+     "swing": -15.16,
+     "adr": 49.8,
+     "kast": 60.0,
+     "rating": 0.25,
+     "_ordinal": "7"
+    },
+    {
+     "player": 21243,
+     "kills": 1,
+     "deaths": 4,
+     "swing": -15.06,
+     "adr": 41.8,
+     "kast": 20.0,
+     "rating": 0.18,
+     "_ordinal": "7"
+    },
+    {
+     "player": 11893,
+     "kills": 14,
+     "deaths": 4,
+     "swing": 8.16,
+     "adr": 110.5,
+     "kast": 91.7,
+     "rating": 1.74,
+     "_ordinal": "8"
+    },
+    {
+     "player": 16693,
+     "kills": 12,
+     "deaths": 5,
+     "swing": 6.83,
+     "adr": 90.7,
+     "kast": 100.0,
+     "rating": 1.63,
+     "_ordinal": "8"
+    },
+    {
+     "player": 18462,
+     "kills": 12,
+     "deaths": 6,
+     "swing": 7.65,
+     "adr": 112.2,
+     "kast": 58.3,
+     "rating": 1.62,
+     "_ordinal": "8"
+    },
+    {
+     "player": 7322,
+     "kills": 5,
+     "deaths": 7,
+     "swing": -5.37,
+     "adr": 37.7,
+     "kast": 75.0,
+     "rating": 0.68,
+     "_ordinal": "8"
+    },
+    {
+     "player": 11816,
+     "kills": 4,
+     "deaths": 7,
+     "swing": -5.58,
+     "adr": 56.3,
+     "kast": 75.0,
+     "rating": 0.63,
+     "_ordinal": "8"
+    },
+    {
+     "player": 8574,
+     "kills": 8,
+     "deaths": 7,
+     "swing": 2.67,
+     "adr": 73.7,
+     "kast": 83.3,
+     "rating": 1.12,
+     "_ordinal": "9"
+    },
+    {
+     "player": 21243,
+     "kills": 9,
+     "deaths": 8,
+     "swing": 2.88,
+     "adr": 77.3,
+     "kast": 50.0,
+     "rating": 1.11,
+     "_ordinal": "9"
+    },
+    {
+     "player": 7938,
+     "kills": 8,
+     "deaths": 6,
+     "swing": -2.86,
+     "adr": 59.0,
+     "kast": 75.0,
+     "rating": 0.76,
+     "_ordinal": "9"
+    },
+    {
+     "player": 19677,
+     "kills": 5,
+     "deaths": 7,
+     "swing": -2.45,
+     "adr": 58.3,
+     "kast": 66.7,
+     "rating": 0.74,
+     "_ordinal": "9"
+    },
+    {
+     "player": 18850,
+     "kills": 5,
+     "deaths": 7,
+     "swing": -6.04,
+     "adr": 58.8,
+     "kast": 50.0,
+     "rating": 0.65,
+     "_ordinal": "9"
+    },
+    {
+     "player": 16693,
+     "kills": 10,
+     "deaths": 2,
+     "swing": 13.79,
+     "adr": 129.4,
+     "kast": 100.0,
+     "rating": 2.25,
+     "_ordinal": "10"
+    },
+    {
+     "player": 11816,
+     "kills": 9,
+     "deaths": 3,
+     "swing": 3.86,
+     "adr": 87.6,
+     "kast": 100.0,
+     "rating": 1.44,
+     "_ordinal": "10"
+    },
+    {
+     "player": 18462,
+     "kills": 5,
+     "deaths": 4,
+     "swing": 2.84,
+     "adr": 88.4,
+     "kast": 100.0,
+     "rating": 1.24,
+     "_ordinal": "10"
+    },
+    {
+     "player": 7322,
+     "kills": 6,
+     "deaths": 4,
+     "swing": -0.13,
+     "adr": 85.9,
+     "kast": 87.5,
+     "rating": 1.14,
+     "_ordinal": "10"
+    },
+    {
+     "player": 11893,
+     "kills": 5,
+     "deaths": 6,
+     "swing": -8.47,
+     "adr": 55.9,
+     "kast": 62.5,
+     "rating": 0.48,
+     "_ordinal": "10"
+    }
+   ]
+  }
+ },
+ "mvp": null,
+ "highlight": null,
+ "h2h": {
+  "team1Wins": 7,
+  "team2Wins": 8,
+  "overtimes": 3,
+  "maps": [
+   {
+    "date": "2026-09-20",
+    "matchId": 2398105,
+    "eventId": null,
+    "event": "StarLadder StarSeries Fall 2026",
+    "map": "de_nuke",
+    "score": [
+     13,
+     8
+    ],
+    "winner": 11861
+   },
+   {
+    "date": "2026-09-20",
+    "matchId": 2398105,
+    "eventId": null,
+    "event": "StarLadder StarSeries Fall 2026",
+    "map": "de_inferno",
+    "score": [
+     11,
+     13
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2026-09-20",
+    "matchId": 2398105,
+    "eventId": null,
+    "event": "StarLadder StarSeries Fall 2026",
+    "map": "de_anubis",
+    "score": [
+     13,
+     7
+    ],
+    "winner": 11861
+   },
+   {
+    "date": "2026-03-28",
+    "matchId": 2391773,
+    "eventId": null,
+    "event": "BLAST Open Rotterdam 2026",
+    "map": "de_nuke",
+    "score": [
+     5,
+     13
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2026-03-28",
+    "matchId": 2391773,
+    "eventId": null,
+    "event": "BLAST Open Rotterdam 2026",
+    "map": "de_inferno",
+    "score": [
+     5,
+     13
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2026-02-21",
+    "matchId": 2389982,
+    "eventId": null,
+    "event": "PGL Cluj-Napoca 2026",
+    "map": "de_overpass",
+    "score": [
+     10,
+     13
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2026-02-21",
+    "matchId": 2389982,
+    "eventId": null,
+    "event": "PGL Cluj-Napoca 2026",
+    "map": "de_inferno",
+    "score": [
+     8,
+     13
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2026-02-04",
+    "matchId": 2389658,
+    "eventId": null,
+    "event": "IEM Kraków 2026",
+    "map": "de_overpass",
+    "score": [
+     7,
+     13
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2026-02-04",
+    "matchId": 2389658,
+    "eventId": null,
+    "event": "IEM Kraków 2026",
+    "map": "de_ancient",
+    "score": [
+     22,
+     25
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2025-01-25",
+    "matchId": 2378456,
+    "eventId": null,
+    "event": "BLAST Bounty 2025 Season 1 Finals",
+    "map": "de_mirage",
+    "score": [
+     13,
+     11
+    ],
+    "winner": 11861
+   },
+   {
+    "date": "2025-01-25",
+    "matchId": 2378456,
+    "eventId": null,
+    "event": "BLAST Bounty 2025 Season 1 Finals",
+    "map": "de_anubis",
+    "score": [
+     13,
+     9
+    ],
+    "winner": 11861
+   },
+   {
+    "date": "2024-09-20",
+    "matchId": 2375423,
+    "eventId": null,
+    "event": "ESL Pro League Season 20",
+    "map": "de_inferno",
+    "score": [
+     22,
+     20
+    ],
+    "winner": 11861
+   },
+   {
+    "date": "2024-09-20",
+    "matchId": 2375423,
+    "eventId": null,
+    "event": "ESL Pro League Season 20",
+    "map": "de_nuke",
+    "score": [
+     5,
+     13
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2024-09-20",
+    "matchId": 2375423,
+    "eventId": null,
+    "event": "ESL Pro League Season 20",
+    "map": "de_anubis",
+    "score": [
+     16,
+     14
+    ],
+    "winner": 11861
+   },
+   {
+    "date": "2024-03-21",
+    "matchId": 2370630,
+    "eventId": null,
+    "event": "PGL CS2 Major Copenhagen 2024",
+    "map": "de_inferno",
+    "score": [
+     13,
+     10
+    ],
+    "winner": 11861
+   }
+  ]
+ }
+}

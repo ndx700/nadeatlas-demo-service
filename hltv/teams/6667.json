@@ -1,0 +1,65 @@
+{
+ "id": 6667,
+ "name": "FaZe",
+ "country": "SK",
+ "rankHltv": 14,
+ "rankVrs": 31,
+ "players": [
+  {
+   "id": 9960,
+   "nick": "frozen",
+   "name": "David Čerňanský",
+   "country": "SK"
+  },
+  {
+   "id": 10394,
+   "nick": "Twistzz",
+   "name": "Russel Van Dulken",
+   "country": "CA",
+   "role": "igl"
+  },
+  {
+   "id": 21972,
+   "nick": "Neityu",
+   "name": "Ryan Aubry",
+   "country": "FR"
+  },
+  {
+   "id": 22383,
+   "nick": "jcobbb",
+   "name": "Jakub Pietruszewski",
+   "country": "PL"
+  },
+  {
+   "id": 22866,
+   "nick": "JBOEN",
+   "name": "Jason Boe Nielsen",
+   "country": "DK"
+  }
+ ],
+ "events": [],
+ "recent": [
+  {
+   "matchId": 2396605,
+   "date": "2026-08-20",
+   "opponent": 9565,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8261,
+   "_side": 1
+  }
+ ],
+ "mapStats": {
+  "de_cache": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_dust2": {
+   "played": 1,
+   "winPct": 0
+  }
+ }
+}

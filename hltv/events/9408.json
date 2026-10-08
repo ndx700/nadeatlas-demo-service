@@ -1,0 +1,217 @@
+{
+ "id": 9408,
+ "name": "1win Private Club Season 2 Closed Qualifier",
+ "start": "2026-10-07",
+ "end": "2026-10-10",
+ "status": "live",
+ "location": "Europe (Online)",
+ "prize": "Spots at Main Event",
+ "playoffs": [
+  {
+   "round": "Round of 16",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "HOTU",
+     "team2": "STATE",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Acend",
+     "team2": "Sashi",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "fnatic",
+     "team2": "Phantom",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "K27",
+     "team2": "Metizport",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": 3,
+     "team1": "GamerLegion",
+     "team2": "BET-M",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": 3,
+     "team1": "Nemesis",
+     "team2": "SINNERS",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": 3,
+     "team1": "Betclic",
+     "team2": "PRIVATE",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Nuclear TigeRES",
+     "team2": "Color",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Quarter-finals",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": 3,
+     "team1": "HOTU",
+     "team2": "Acend",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": 3,
+     "team1": "fnatic",
+     "team2": "K27",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": 3,
+     "team1": "TBD",
+     "team2": "TBD",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": 3,
+     "team1": "TBD",
+     "team2": "Nuclear TigeRES",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Semi-finals",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": 3,
+     "team1": "TBD",
+     "team2": "TBD",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": 3,
+     "team1": "TBD",
+     "team2": "TBD",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  }
+ ],
+ "thirdPlace": [],
+ "teams": [
+  11641,
+  13173,
+  11712,
+  13623,
+  13973,
+  9928,
+  4991,
+  11581,
+  13355,
+  12895,
+  10577,
+  13027,
+  13619,
+  12916,
+  14030,
+  13518,
+  13592,
+  6290,
+  12510,
+  6248
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "id": 9996,
+ "name": "9z",
+ "country": "UY",
+ "rankHltv": 16,
+ "rankVrs": 13,
+ "players": [
+  {
+   "id": 12092,
+   "nick": "max",
+   "name": "Maximiliano Gonzalez",
+   "country": "UY",
+   "role": "igl"
+  },
+  {
+   "id": 14736,
+   "nick": "dgt",
+   "name": "Franco Garcia",
+   "country": "UY"
+  },
+  {
+   "id": 14737,
+   "nick": "meyern",
+   "name": "Ignacio Meyer",
+   "country": "AR"
+  },
+  {
+   "id": 20394,
+   "nick": "luchov",
+   "name": "Luciano Herrera",
+   "country": "AR"
+  },
+  {
+   "id": 22613,
+   "nick": "HUASOPEEK",
+   "name": "Matias Ibañez Hernandez",
+   "country": "CL"
+  }
+ ],
+ "events": [],
+ "recent": [
+  {
+   "matchId": 2398747,
+   "date": "2026-10-07",
+   "opponent": 9996,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8244,
+   "_side": 2
+  },
+  {
+   "matchId": 2396935,
+   "date": "2026-08-29",
+   "opponent": 9996,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8249,
+   "_side": 2
+  },
+  {
+   "matchId": 2396928,
+   "date": "2026-08-27",
+   "opponent": 9996,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8249,
+   "_side": 2
+  }
+ ],
+ "mapStats": {
+  "de_cache": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_dust2": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_inferno": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_nuke": {
+   "played": 3,
+   "winPct": 0
+  }
+ }
+}

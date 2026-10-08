@@ -1,0 +1,234 @@
+{
+ "id": 8057,
+ "name": "StarLadder StarSeries Fall 2026",
+ "start": "2026-09-17",
+ "end": "2026-09-20",
+ "status": "finished",
+ "location": "Barcelona, Spain",
+ "prize": "$500,000",
+ "playoffs": [
+  {
+   "round": "Opening rd",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "MOUZ",
+     "team2": "NRG",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Natus Vincere",
+     "team2": "Aurora",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Vitality",
+     "team2": "magic",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "FURIA",
+     "team2": "MIBR",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "U. semis",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "NRG",
+     "team2": "Aurora",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Vitality",
+     "team2": "FURIA",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Upper final",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Aurora",
+     "team2": "Vitality",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Grand final",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Aurora",
+     "team2": "Vitality",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "L. round 1",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "MOUZ",
+     "team2": "Natus Vincere",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "magic",
+     "team2": "MIBR",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "L. semis",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "FURIA",
+     "team2": "MOUZ",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "NRG",
+     "team2": "MIBR",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Lower final",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "FURIA",
+     "team2": "MIBR",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Consolidation final",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Vitality",
+     "team2": "FURIA",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  }
+ ],
+ "thirdPlace": [],
+ "teams": [
+  9565,
+  11861,
+  8297,
+  9215,
+  4494,
+  6673,
+  13592,
+  4608,
+  13973,
+  6290,
+  12510,
+  6248
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "id": 8840,
+ "name": "Lynn Vision",
+ "country": "CN",
+ "rankHltv": 36,
+ "rankVrs": 68,
+ "players": [
+  {
+   "id": 16551,
+   "nick": "Westmelon",
+   "name": "Zhe Niu",
+   "country": "CN",
+   "role": "igl"
+  },
+  {
+   "id": 18744,
+   "nick": "z4KR",
+   "name": "Sike Zhang",
+   "country": "CN"
+  },
+  {
+   "id": 20254,
+   "nick": "Starry",
+   "name": "Lizhi Ye",
+   "country": "CN"
+  },
+  {
+   "id": 22922,
+   "nick": "EmiliaQAQ",
+   "name": "Junjie Tang",
+   "country": "CN"
+  },
+  {
+   "id": 23100,
+   "nick": "C4LLM3SU3",
+   "name": "Qihao Su",
+   "country": "CN"
+  }
+ ],
+ "events": [],
+ "recent": [
+  {
+   "matchId": 2396570,
+   "date": "2026-08-13",
+   "opponent": 4494,
+   "bo": 1,
+   "score": [
+    0,
+    1
+   ],
+   "eventId": 8261,
+   "_side": 1
+  }
+ ],
+ "mapStats": {
+  "de_dust2": {
+   "played": 1,
+   "winPct": 0
+  }
+ }
+}

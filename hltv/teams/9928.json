@@ -1,0 +1,69 @@
+{
+ "id": 9928,
+ "name": "GamerLegion",
+ "country": "PL",
+ "rankHltv": 19,
+ "rankVrs": 30,
+ "players": [
+  {
+   "id": 2553,
+   "nick": "Snax",
+   "name": "Janusz Pogorzelski",
+   "country": "PL",
+   "role": "igl"
+  },
+  {
+   "id": 9278,
+   "nick": "REZ",
+   "name": "Fredrik Sterner",
+   "country": "SE"
+  },
+  {
+   "id": 20301,
+   "nick": "Tauson",
+   "name": "Sebastian Tauson Lindelof",
+   "country": "DK"
+  },
+  {
+   "id": 20994,
+   "nick": "FL4MUS",
+   "name": "Timur Marev",
+   "country": "RU"
+  },
+  {
+   "id": 23766,
+   "nick": "hypex",
+   "name": "Milan Polowiec",
+   "country": "PL"
+  }
+ ],
+ "events": [],
+ "recent": [
+  {
+   "matchId": 2396602,
+   "date": "2026-08-20",
+   "opponent": 4494,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 8261,
+   "_side": 1
+  }
+ ],
+ "mapStats": {
+  "de_ancient": {
+   "played": 1,
+   "winPct": 100
+  },
+  "de_mirage": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_nuke": {
+   "played": 1,
+   "winPct": 0
+  }
+ }
+}

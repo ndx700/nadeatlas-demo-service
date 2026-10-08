@@ -1,0 +1,65 @@
+{
+ "id": 13592,
+ "name": "magic",
+ "country": "BY",
+ "rankHltv": 18,
+ "rankVrs": 27,
+ "players": [
+  {
+   "id": 19874,
+   "nick": "MaSvAl",
+   "name": "Svyatoslav Masko",
+   "country": "BY"
+  },
+  {
+   "id": 20700,
+   "nick": "lattykk",
+   "name": "Vladislav Vydrin",
+   "country": "RU"
+  },
+  {
+   "id": 22075,
+   "nick": "sFade8",
+   "name": "Vitaliy Marushka",
+   "country": "UA",
+   "role": "igl"
+  },
+  {
+   "id": 22076,
+   "nick": "AW",
+   "name": "Andrey Anisimov",
+   "country": "RU"
+  },
+  {
+   "id": 24173,
+   "nick": "tenzy",
+   "name": "Nikita Kochenyuk",
+   "country": "RU"
+  }
+ ],
+ "events": [],
+ "recent": [
+  {
+   "matchId": 2398089,
+   "date": "2026-09-17",
+   "opponent": 13592,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8057,
+   "_side": 2
+  }
+ ],
+ "mapStats": {
+  "de_dust2": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_mirage": {
+   "played": 1,
+   "winPct": 0
+  }
+ }
+}

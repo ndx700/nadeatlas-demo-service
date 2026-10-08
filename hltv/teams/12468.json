@@ -1,0 +1,65 @@
+{
+ "id": 12468,
+ "name": "Legacy",
+ "country": "BR",
+ "rankHltv": 6,
+ "rankVrs": 5,
+ "players": [
+  {
+   "id": 12521,
+   "nick": "arT",
+   "name": "Andrei Piovezan",
+   "country": "BR",
+   "role": "igl"
+  },
+  {
+   "id": 15698,
+   "nick": "dumau",
+   "name": "Eduardo Wolkmer",
+   "country": "BR"
+  },
+  {
+   "id": 19045,
+   "nick": "latto",
+   "name": "Bruno Rebelatto",
+   "country": "BR"
+  },
+  {
+   "id": 19686,
+   "nick": "n1ssim",
+   "name": "Vinicius Pereira",
+   "country": "BR"
+  },
+  {
+   "id": 19869,
+   "nick": "try",
+   "name": "Santino Rigal",
+   "country": "AR"
+  }
+ ],
+ "events": [],
+ "recent": [
+  {
+   "matchId": 2396612,
+   "date": "2026-08-23",
+   "opponent": 7020,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8261,
+   "_side": 1
+  }
+ ],
+ "mapStats": {
+  "de_ancient": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_dust2": {
+   "played": 1,
+   "winPct": 0
+  }
+ }
+}

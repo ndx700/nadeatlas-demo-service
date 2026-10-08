@@ -1,0 +1,261 @@
+{
+ "id": 7020,
+ "name": "Spirit",
+ "country": "RU",
+ "rankHltv": 1,
+ "rankVrs": 1,
+ "players": [
+  {
+   "id": 16920,
+   "nick": "sh1ro",
+   "name": "Dmitry Sokolov",
+   "country": "RU"
+  },
+  {
+   "id": 18317,
+   "nick": "magixx",
+   "name": "Boris Vorobiev",
+   "country": "RU",
+   "role": "igl"
+  },
+  {
+   "id": 19808,
+   "nick": "tN1R",
+   "name": "Andrey Tatarinovich",
+   "country": "BY"
+  },
+  {
+   "id": 20423,
+   "nick": "zont1x",
+   "name": "Myroslav Plakhotia",
+   "country": "UA"
+  },
+  {
+   "id": 21167,
+   "nick": "donk",
+   "name": "Danil Kryshkovets",
+   "country": "RU"
+  }
+ ],
+ "events": [],
+ "recent": [
+  {
+   "matchId": 2398749,
+   "date": "2026-10-08",
+   "opponent": 12376,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8244,
+   "_side": 1
+  },
+  {
+   "matchId": 2398742,
+   "date": "2026-10-06",
+   "opponent": 10621,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8244,
+   "_side": 1
+  },
+  {
+   "matchId": 2398737,
+   "date": "2026-10-05",
+   "opponent": 4494,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8244,
+   "_side": 1
+  },
+  {
+   "matchId": 2398725,
+   "date": "2026-10-04",
+   "opponent": 12467,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 8244,
+   "_side": 1
+  },
+  {
+   "matchId": 2398720,
+   "date": "2026-10-03",
+   "opponent": 12959,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 8244,
+   "_side": 1
+  },
+  {
+   "matchId": 2396951,
+   "date": "2026-09-06",
+   "opponent": 4494,
+   "bo": 5,
+   "score": [
+    3,
+    1
+   ],
+   "eventId": 8249,
+   "_side": 1
+  },
+  {
+   "matchId": 2396949,
+   "date": "2026-09-05",
+   "opponent": 11283,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8249,
+   "_side": 1
+  },
+  {
+   "matchId": 2396943,
+   "date": "2026-08-31",
+   "opponent": 8297,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8249,
+   "_side": 1
+  },
+  {
+   "matchId": 2396932,
+   "date": "2026-08-28",
+   "opponent": 7020,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8249,
+   "_side": 2
+  },
+  {
+   "matchId": 2396924,
+   "date": "2026-08-26",
+   "opponent": 13926,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8249,
+   "_side": 1
+  },
+  {
+   "matchId": 2396614,
+   "date": "2026-08-23",
+   "opponent": 7020,
+   "bo": 5,
+   "score": [
+    1,
+    3
+   ],
+   "eventId": 8261,
+   "_side": 2
+  },
+  {
+   "matchId": 2396612,
+   "date": "2026-08-23",
+   "opponent": 7020,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8261,
+   "_side": 2
+  },
+  {
+   "matchId": 2396610,
+   "date": "2026-08-22",
+   "opponent": 7020,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 8261,
+   "_side": 2
+  },
+  {
+   "matchId": 2396606,
+   "date": "2026-08-20",
+   "opponent": 7020,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8261,
+   "_side": 2
+  },
+  {
+   "matchId": 2396591,
+   "date": "2026-08-16",
+   "opponent": 7532,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 8261,
+   "_side": 1
+  },
+  {
+   "matchId": 2396577,
+   "date": "2026-08-13",
+   "opponent": 7020,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8261,
+   "_side": 2
+  }
+ ],
+ "mapStats": {
+  "de_ancient": {
+   "played": 8,
+   "winPct": 88
+  },
+  "de_anubis": {
+   "played": 4,
+   "winPct": 75
+  },
+  "de_cache": {
+   "played": 7,
+   "winPct": 57
+  },
+  "de_dust2": {
+   "played": 10,
+   "winPct": 80
+  },
+  "de_mirage": {
+   "played": 6,
+   "winPct": 67
+  },
+  "de_nuke": {
+   "played": 5,
+   "winPct": 80
+  }
+ }
+}

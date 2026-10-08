@@ -1,0 +1,95 @@
+{
+ "id": 2398751,
+ "eventId": 8244,
+ "stage": null,
+ "time": "2026-10-09T19:00:00+08:00",
+ "bo": 3,
+ "status": "upcoming",
+ "team1": {
+  "id": 9565,
+  "score": null,
+  "players": []
+ },
+ "team2": {
+  "id": 12467,
+  "score": null,
+  "players": []
+ },
+ "maps": [],
+ "stats": {
+  "all": {
+   "both": [],
+   "t": [],
+   "ct": []
+  }
+ },
+ "mvp": null,
+ "highlight": null,
+ "h2h": {
+  "team1Wins": 5,
+  "team2Wins": 0,
+  "overtimes": 2,
+  "maps": [
+   {
+    "date": "2026-03-24",
+    "matchId": 2391769,
+    "eventId": null,
+    "event": "BLAST Open Rotterdam 2026",
+    "map": "de_inferno",
+    "score": [
+     16,
+     12
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2026-03-24",
+    "matchId": 2391769,
+    "eventId": null,
+    "event": "BLAST Open Rotterdam 2026",
+    "map": "de_mirage",
+    "score": [
+     13,
+     9
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2026-02-23",
+    "matchId": 2389987,
+    "eventId": null,
+    "event": "PGL Cluj-Napoca 2026",
+    "map": "de_inferno",
+    "score": [
+     16,
+     13
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2026-02-23",
+    "matchId": 2389987,
+    "eventId": null,
+    "event": "PGL Cluj-Napoca 2026",
+    "map": "de_dust2",
+    "score": [
+     13,
+     4
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2026-02-23",
+    "matchId": 2389987,
+    "eventId": null,
+    "event": "PGL Cluj-Napoca 2026",
+    "map": "de_overpass",
+    "score": [
+     13,
+     10
+    ],
+    "winner": 9565
+   }
+  ]
+ }
+}

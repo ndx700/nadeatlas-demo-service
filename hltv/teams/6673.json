@@ -1,0 +1,69 @@
+{
+ "id": 6673,
+ "name": "NRG",
+ "country": "US",
+ "rankHltv": 30,
+ "rankVrs": 48,
+ "players": [
+  {
+   "id": 7687,
+   "nick": "nitr0",
+   "name": "Nick Cannella",
+   "country": "US",
+   "role": "igl"
+  },
+  {
+   "id": 8711,
+   "nick": "Sonic",
+   "name": "Aran Groesbeek",
+   "country": "ZA"
+  },
+  {
+   "id": 12840,
+   "nick": "hallzerk",
+   "name": "Håkon Fjærli",
+   "country": "NO"
+  },
+  {
+   "id": 13578,
+   "nick": "Grim",
+   "name": "Michael Wince",
+   "country": "US"
+  },
+  {
+   "id": 20333,
+   "nick": "Jeorge",
+   "name": "Jeorge Endicott",
+   "country": "US"
+  }
+ ],
+ "events": [],
+ "recent": [
+  {
+   "matchId": 2398088,
+   "date": "2026-09-17",
+   "opponent": 6673,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 8057,
+   "_side": 2
+  }
+ ],
+ "mapStats": {
+  "de_cache": {
+   "played": 1,
+   "winPct": 100
+  },
+  "de_dust2": {
+   "played": 1,
+   "winPct": 100
+  },
+  "de_inferno": {
+   "played": 1,
+   "winPct": 0
+  }
+ }
+}

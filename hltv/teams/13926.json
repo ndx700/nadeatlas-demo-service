@@ -1,0 +1,33 @@
+{
+ "id": 13926,
+ "name": "DENDELE",
+ "country": null,
+ "rankHltv": null,
+ "rankVrs": null,
+ "players": [],
+ "events": [],
+ "recent": [
+  {
+   "matchId": 2396924,
+   "date": "2026-08-26",
+   "opponent": 13926,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8249,
+   "_side": 2
+  }
+ ],
+ "mapStats": {
+  "de_ancient": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_cache": {
+   "played": 1,
+   "winPct": 0
+  }
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "id": 5995,
+ "name": "G2",
+ "country": "BA",
+ "rankHltv": 7,
+ "rankVrs": 8,
+ "players": [
+  {
+   "id": 3972,
+   "nick": "huNter-",
+   "name": "Nemanja Kovač",
+   "country": "BA",
+   "role": "igl"
+  },
+  {
+   "id": 9436,
+   "nick": "NertZ",
+   "name": "Guy Iluz",
+   "country": "IL"
+  },
+  {
+   "id": 20425,
+   "nick": "r1nkle",
+   "name": "Artem Moroz",
+   "country": "UA"
+  },
+  {
+   "id": 20447,
+   "nick": "HeavyGod",
+   "name": "Nikita Martynenko",
+   "country": "IL"
+  },
+  {
+   "id": 21062,
+   "nick": "MATYS",
+   "name": "Matúš Šimko",
+   "country": "SK"
+  }
+ ],
+ "events": [],
+ "recent": [
+  {
+   "matchId": 2396932,
+   "date": "2026-08-28",
+   "opponent": 7020,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8249,
+   "_side": 1
+  }
+ ],
+ "mapStats": {
+  "de_cache": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_dust2": {
+   "played": 1,
+   "winPct": 0
+  }
+ }
+}

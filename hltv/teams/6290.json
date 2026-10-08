@@ -1,0 +1,65 @@
+{
+ "id": 6290,
+ "name": "Luminosity",
+ "country": "BG",
+ "rankHltv": 24,
+ "rankVrs": 19,
+ "players": [
+  {
+   "id": 17145,
+   "nick": "Rainwaker",
+   "name": "Aleks Petrov",
+   "country": "BG"
+  },
+  {
+   "id": 19926,
+   "nick": "afro",
+   "name": "Aurélien Drapier",
+   "country": "FR"
+  },
+  {
+   "id": 20563,
+   "nick": "lux",
+   "name": "Lucas Meneghini",
+   "country": "BR",
+   "role": "igl"
+  },
+  {
+   "id": 22047,
+   "nick": "yxngstxr",
+   "name": "Simon Boije",
+   "country": "SE"
+  },
+  {
+   "id": 22106,
+   "nick": "AZUWU",
+   "name": "Oscar Bell",
+   "country": "GB"
+  }
+ ],
+ "events": [],
+ "recent": [
+  {
+   "matchId": 2396577,
+   "date": "2026-08-13",
+   "opponent": 7020,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8261,
+   "_side": 1
+  }
+ ],
+ "mapStats": {
+  "de_ancient": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_dust2": {
+   "played": 1,
+   "winPct": 0
+  }
+ }
+}

@@ -1,0 +1,261 @@
+{
+ "id": 4494,
+ "name": "MOUZ",
+ "country": "HU",
+ "rankHltv": 3,
+ "rankVrs": 3,
+ "players": [
+  {
+   "id": 18072,
+   "nick": "torzsi",
+   "name": "Ádám Torzsás",
+   "country": "HU"
+  },
+  {
+   "id": 18221,
+   "nick": "Spinx",
+   "name": "Lotan Giladi",
+   "country": "IL"
+  },
+  {
+   "id": 20312,
+   "nick": "xertioN",
+   "name": "Dorian Berman",
+   "country": "IL",
+   "role": "igl"
+  },
+  {
+   "id": 22279,
+   "nick": "PR",
+   "name": "Oldřich Nový",
+   "country": "CZ"
+  },
+  {
+   "id": 24457,
+   "nick": "xelex",
+   "name": "Adrian Vincze",
+   "country": "HU"
+  }
+ ],
+ "events": [],
+ "recent": [
+  {
+   "matchId": 2398737,
+   "date": "2026-10-05",
+   "opponent": 4494,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8244,
+   "_side": 2
+  },
+  {
+   "matchId": 2398729,
+   "date": "2026-10-04",
+   "opponent": 4494,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8244,
+   "_side": 2
+  },
+  {
+   "matchId": 2398722,
+   "date": "2026-10-03",
+   "opponent": 12376,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8244,
+   "_side": 1
+  },
+  {
+   "matchId": 2398103,
+   "date": "2026-09-19",
+   "opponent": 8297,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 8057,
+   "_side": 1
+  },
+  {
+   "matchId": 2398099,
+   "date": "2026-09-18",
+   "opponent": 4608,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 8057,
+   "_side": 1
+  },
+  {
+   "matchId": 2398088,
+   "date": "2026-09-17",
+   "opponent": 6673,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 8057,
+   "_side": 1
+  },
+  {
+   "matchId": 2396951,
+   "date": "2026-09-06",
+   "opponent": 4494,
+   "bo": 5,
+   "score": [
+    3,
+    1
+   ],
+   "eventId": 8249,
+   "_side": 2
+  },
+  {
+   "matchId": 2396950,
+   "date": "2026-09-06",
+   "opponent": 9565,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8249,
+   "_side": 1
+  },
+  {
+   "matchId": 2396945,
+   "date": "2026-08-31",
+   "opponent": 11283,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 8249,
+   "_side": 1
+  },
+  {
+   "matchId": 2396936,
+   "date": "2026-08-29",
+   "opponent": 4494,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8249,
+   "_side": 2
+  },
+  {
+   "matchId": 2396928,
+   "date": "2026-08-27",
+   "opponent": 9996,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8249,
+   "_side": 1
+  },
+  {
+   "matchId": 2396608,
+   "date": "2026-08-21",
+   "opponent": 4494,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8261,
+   "_side": 2
+  },
+  {
+   "matchId": 2396602,
+   "date": "2026-08-20",
+   "opponent": 4494,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 8261,
+   "_side": 2
+  },
+  {
+   "matchId": 2396595,
+   "date": "2026-08-16",
+   "opponent": 12467,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8261,
+   "_side": 1
+  },
+  {
+   "matchId": 2396584,
+   "date": "2026-08-14",
+   "opponent": 4494,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 8261,
+   "_side": 2
+  },
+  {
+   "matchId": 2396570,
+   "date": "2026-08-13",
+   "opponent": 4494,
+   "bo": 1,
+   "score": [
+    0,
+    1
+   ],
+   "eventId": 8261,
+   "_side": 2
+  }
+ ],
+ "mapStats": {
+  "de_ancient": {
+   "played": 6,
+   "winPct": 33
+  },
+  "de_cache": {
+   "played": 6,
+   "winPct": 50
+  },
+  "de_dust2": {
+   "played": 7,
+   "winPct": 57
+  },
+  "de_inferno": {
+   "played": 4,
+   "winPct": 100
+  },
+  "de_mirage": {
+   "played": 10,
+   "winPct": 90
+  },
+  "de_nuke": {
+   "played": 6,
+   "winPct": 50
+  }
+ }
+}

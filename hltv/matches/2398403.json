@@ -1,0 +1,87 @@
+{
+ "id": 2398403,
+ "eventId": 9420,
+ "stage": null,
+ "time": "2026-10-08T16:00:00+08:00",
+ "bo": 3,
+ "status": "finished",
+ "team1": {
+  "id": 13518,
+  "score": 0,
+  "players": []
+ },
+ "team2": {
+  "id": 13573,
+  "score": 0,
+  "players": []
+ },
+ "maps": [
+  {
+   "map": "de_cache",
+   "pick": 13573,
+   "score": [
+    null,
+    null
+   ],
+   "halves": null
+  },
+  {
+   "map": "de_inferno",
+   "pick": 13518,
+   "score": [
+    null,
+    null
+   ],
+   "halves": null
+  },
+  {
+   "map": "de_dust2",
+   "pick": null,
+   "score": [
+    null,
+    null
+   ],
+   "halves": null
+  }
+ ],
+ "stats": {
+  "all": {
+   "both": [],
+   "t": [],
+   "ct": []
+  }
+ },
+ "mvp": null,
+ "highlight": null,
+ "h2h": {
+  "team1Wins": 2,
+  "team2Wins": 0,
+  "overtimes": 0,
+  "maps": [
+   {
+    "date": "2026-07-19",
+    "matchId": 2396031,
+    "eventId": null,
+    "event": "Esports Nations Cup 2026 East Europe Closed Qualifier",
+    "map": "de_mirage",
+    "score": [
+     13,
+     9
+    ],
+    "winner": 13518
+   },
+   {
+    "date": "2026-07-19",
+    "matchId": 2396031,
+    "eventId": null,
+    "event": "Esports Nations Cup 2026 East Europe Closed Qualifier",
+    "map": "de_dust2",
+    "score": [
+     13,
+     8
+    ],
+    "winner": 13518
+   }
+  ]
+ }
+}

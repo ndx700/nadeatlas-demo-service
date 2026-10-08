@@ -1,0 +1,81 @@
+{
+ "id": 12376,
+ "name": "M80",
+ "country": "DE",
+ "rankHltv": 27,
+ "rankVrs": 18,
+ "players": [
+  {
+   "id": 15370,
+   "nick": "slaxz-",
+   "name": "Fritz Dietrich",
+   "country": "DE"
+  },
+  {
+   "id": 16599,
+   "nick": "Swisher",
+   "name": "Michael Schmid",
+   "country": "US"
+  },
+  {
+   "id": 20104,
+   "nick": "s1n",
+   "name": "Elias Stein",
+   "country": "DE",
+   "role": "igl"
+  },
+  {
+   "id": 21665,
+   "nick": "JBa",
+   "name": "Josh Barutt",
+   "country": "US"
+  },
+  {
+   "id": 22921,
+   "nick": "Lake",
+   "name": "Mason Sanderson",
+   "country": "US"
+  }
+ ],
+ "events": [],
+ "recent": [
+  {
+   "matchId": 2398749,
+   "date": "2026-10-08",
+   "opponent": 12376,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8244,
+   "_side": 2
+  },
+  {
+   "matchId": 2398722,
+   "date": "2026-10-03",
+   "opponent": 12376,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8244,
+   "_side": 2
+  }
+ ],
+ "mapStats": {
+  "de_cache": {
+   "played": 2,
+   "winPct": 0
+  },
+  "de_dust2": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_mirage": {
+   "played": 1,
+   "winPct": 0
+  }
+ }
+}

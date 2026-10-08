@@ -1,0 +1,243 @@
+{
+ "id": 9420,
+ "name": "CCT 2026 Europe Series 10",
+ "start": "2026-09-28",
+ "end": "2026-10-10",
+ "status": "live",
+ "location": "Europe (Online)",
+ "prize": "$25,000",
+ "playoffs": [
+  {
+   "round": "Round of 16",
+   "matches": [
+    {
+     "matchId": 2398403,
+     "time": null,
+     "bo": null,
+     "team1": "Acend",
+     "team2": "ex-Zero Tenacity",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": 3,
+     "team1": "CYBERSHOKE",
+     "team2": "Nexus",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": 3,
+     "team1": "SINNERS",
+     "team2": "Black Phoenix",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Walczaki",
+     "team2": "Leo",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Iberian Soul",
+     "team2": "ex-RUSTEC",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Omega",
+     "team2": "Noir Verse",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": 3,
+     "team1": "Nemiga",
+     "team2": "Lavked",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Gothic",
+     "team2": "EAC",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Quarter-finals",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "TBD",
+     "team2": "TBD",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "TBD",
+     "team2": "Leo",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Iberian Soul",
+     "team2": "Noir Verse",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "TBD",
+     "team2": "Gothic",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Semi-finals",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "TBD",
+     "team2": "TBD",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "TBD",
+     "team2": "TBD",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Grand final",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": 3,
+     "team1": "TBD",
+     "team2": "TBD",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  }
+ ],
+ "thirdPlace": [],
+ "teams": [
+  7187,
+  13877,
+  13838,
+  13924,
+  11446,
+  13573,
+  12609,
+  13901,
+  13908,
+  13054,
+  10867,
+  4246,
+  13766,
+  11018,
+  13747,
+  13991,
+  13479,
+  13808,
+  7969,
+  10577,
+  13104,
+  13518,
+  12380,
+  14014,
+  13973,
+  13592,
+  6290,
+  12510,
+  6248
+ ]
+}

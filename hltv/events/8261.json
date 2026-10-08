@@ -1,0 +1,821 @@
+{
+ "id": 8261,
+ "name": "Esports World Cup 2026",
+ "start": "2026-08-12",
+ "end": "2026-08-23",
+ "status": "finished",
+ "location": "Paris, France",
+ "prize": "$2,000,000",
+ "playoffs": [
+  {
+   "round": "Round of 16",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "G2",
+     "team2": "Astralis",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "FURIA",
+     "team2": "Aurora",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "FUT",
+     "team2": "magic",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "GamerLegion",
+     "team2": "MOUZ",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Natus Vincere",
+     "team2": "Legacy",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Falcons",
+     "team2": "The MongolZ",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "FaZe",
+     "team2": "Vitality",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "B8",
+     "team2": "Spirit",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Quarter-finals",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "G2",
+     "team2": "FURIA",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "FUT",
+     "team2": "MOUZ",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Legacy",
+     "team2": "Falcons",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Vitality",
+     "team2": "Spirit",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Semi-finals",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "FURIA",
+     "team2": "FUT",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Legacy",
+     "team2": "Spirit",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Grand final",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "FUT",
+     "team2": "Spirit",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Opening round",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Spirit",
+     "team2": "JiJieHao",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Luminosity",
+     "team2": "GamerLegion",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "G2",
+     "team2": "M80",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "BIG",
+     "team2": "Aurora",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Upper semi-finals",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "JiJieHao",
+     "team2": "GamerLegion",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "G2",
+     "team2": "BIG",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Lower round 1",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Spirit",
+     "team2": "Luminosity",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "M80",
+     "team2": "Aurora",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Lower semi-finals",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "BIG",
+     "team2": "Spirit",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "JiJieHao",
+     "team2": "Aurora",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Opening round",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Falcons",
+     "team2": "K27",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "MIBR",
+     "team2": "Astralis",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "BETBOOM",
+     "team2": "FaZe",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Ninjas in Pyjamas",
+     "team2": "Legacy",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Upper semi-finals",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Falcons",
+     "team2": "Astralis",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "FaZe",
+     "team2": "Legacy",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Lower round 1",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "K27",
+     "team2": "MIBR",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "BETBOOM",
+     "team2": "Ninjas in Pyjamas",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Lower semi-finals",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Legacy",
+     "team2": "MIBR",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Astralis",
+     "team2": "Ninjas in Pyjamas",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Opening round",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Vitality",
+     "team2": "100 Thieves",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "PARIVISION",
+     "team2": "B8",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "FUT",
+     "team2": "TYLOO",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Lynn Vision",
+     "team2": "MOUZ",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Upper semi-finals",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Vitality",
+     "team2": "B8",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "FUT",
+     "team2": "MOUZ",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Lower round 1",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "100 Thieves",
+     "team2": "PARIVISION",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "TYLOO",
+     "team2": "Lynn Vision",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Lower semi-finals",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "MOUZ",
+     "team2": "PARIVISION",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Vitality",
+     "team2": "Lynn Vision",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Opening round",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Natus Vincere",
+     "team2": "3DMAX",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "magic",
+     "team2": "The MongolZ",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "9z",
+     "team2": "paiN",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Wildcard",
+     "team2": "FURIA",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Upper semi-finals",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "Natus Vincere",
+     "team2": "The MongolZ",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "9z",
+     "team2": "FURIA",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Lower round 1",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "3DMAX",
+     "team2": "magic",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "paiN",
+     "team2": "Wildcard",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "round": "Lower semi-finals",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "9z",
+     "team2": "magic",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": "The MongolZ",
+     "team2": "paiN",
+     "score": [
+      null,
+      null
+     ],
+     "winner": null
+    }
+   ]
+  }
+ ],
+ "thirdPlace": [
+  {
+   "matchId": null,
+   "time": null,
+   "bo": null,
+   "team1": "FURIA",
+   "team2": "Legacy",
+   "score": [
+    null,
+    null
+   ],
+   "winner": null
+  }
+ ],
+ "teams": [
+  7020,
+  13286,
+  12468,
+  8297,
+  9565,
+  11283,
+  4494,
+  5995,
+  11241,
+  6667,
+  4608,
+  6248,
+  9928,
+  11861,
+  13592,
+  6665,
+  9215,
+  4411,
+  9996,
+  12467,
+  4773,
+  8840,
+  7532,
+  10245,
+  4914,
+  12257,
+  8474,
+  12895,
+  4863,
+  12394,
+  12376,
+  6290,
+  13973,
+  12510
+ ]
+}
