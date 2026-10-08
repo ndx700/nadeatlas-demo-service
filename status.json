@@ -1,7 +1,7 @@
 {
   "state": "ok",
   "message": "multi-source sync completed",
-  "updatedAt": "2026-10-08T22:00:27.564413Z",
+  "updatedAt": "2026-10-08T22:23:13.855847Z",
   "sources": {
     "public_pro_demo": {
       "state": "ok",
@@ -29,9 +29,6 @@
     "de_mirage": 29,
     "de_nuke": 16
   },
-  "logos": 67,
-  "errors": [
-    "logo backfill hltv-2398720-m1: HTTPError: HTTP Error 404: Not Found",
-    "logo backfill hltv-2398719-m1: HTTPError: HTTP Error 404: Not Found"
-  ]
+  "logos": 69,
+  "errors": []
 }
