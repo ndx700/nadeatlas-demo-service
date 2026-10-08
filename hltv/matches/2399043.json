@@ -1,0 +1,59 @@
+{
+ "id": 2399043,
+ "eventId": 9318,
+ "stage": null,
+ "time": "2026-10-08T21:30:00+08:00",
+ "bo": 3,
+ "status": "upcoming",
+ "team1": {
+  "id": 13683,
+  "score": null,
+  "players": []
+ },
+ "team2": {
+  "id": 10371,
+  "score": null,
+  "players": []
+ },
+ "maps": [],
+ "stats": {
+  "all": {
+   "both": [],
+   "t": [],
+   "ct": []
+  }
+ },
+ "mvp": null,
+ "highlight": null,
+ "h2h": {
+  "team1Wins": 2,
+  "team2Wins": 0,
+  "overtimes": 1,
+  "maps": [
+   {
+    "date": "2026-08-07",
+    "matchId": 2396435,
+    "eventId": null,
+    "event": "Tipsport Open Cup 1",
+    "map": "de_nuke",
+    "score": [
+     16,
+     14
+    ],
+    "winner": 13683
+   },
+   {
+    "date": "2026-08-07",
+    "matchId": 2396435,
+    "eventId": null,
+    "event": "Tipsport Open Cup 1",
+    "map": "de_anubis",
+    "score": [
+     13,
+     11
+    ],
+    "winner": 13683
+   }
+  ]
+ }
+}

@@ -3,7 +3,7 @@
  "name": "TYLOO",
  "country": "CN",
  "rankHltv": 34,
- "rankVrs": 47,
+ "rankVrs": 45,
  "players": [
   {
    "id": 19645,
@@ -50,6 +50,18 @@
    ],
    "eventId": 8244,
    "_side": 2
+  },
+  {
+   "matchId": 2396569,
+   "date": "2026-08-12",
+   "opponent": 4863,
+   "bo": 1,
+   "score": [
+    1,
+    0
+   ],
+   "eventId": 8261,
+   "_side": 2
   }
  ],
  "mapStats": {
@@ -58,7 +70,7 @@
    "winPct": 0
   },
   "de_mirage": {
-   "played": 1,
+   "played": 2,
    "winPct": 0
   }
  }

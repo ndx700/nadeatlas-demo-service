@@ -40,6 +40,18 @@
  "events": [],
  "recent": [
   {
+   "matchId": 2398101,
+   "date": "2026-09-19",
+   "opponent": 11861,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8057,
+   "_side": 1
+  },
+  {
    "matchId": 2398088,
    "date": "2026-09-17",
    "opponent": 6673,
@@ -54,14 +66,18 @@
  ],
  "mapStats": {
   "de_cache": {
-   "played": 1,
-   "winPct": 100
+   "played": 2,
+   "winPct": 50
   },
   "de_dust2": {
    "played": 1,
    "winPct": 100
   },
   "de_inferno": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_mirage": {
    "played": 1,
    "winPct": 0
   }

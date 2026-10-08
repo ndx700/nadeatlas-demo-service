@@ -62,10 +62,26 @@
    ],
    "eventId": 8266,
    "_side": 2
+  },
+  {
+   "matchId": 2396601,
+   "date": "2026-08-19",
+   "opponent": 13592,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 8261,
+   "_side": 2
   }
  ],
  "mapStats": {
   "de_ancient": {
+   "played": 2,
+   "winPct": 50
+  },
+  "de_anubis": {
    "played": 1,
    "winPct": 0
   },
@@ -74,7 +90,7 @@
    "winPct": 50
   },
   "de_mirage": {
-   "played": 2,
+   "played": 3,
    "winPct": 0
   }
  }

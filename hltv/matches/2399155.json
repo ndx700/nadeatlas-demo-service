@@ -1,0 +1,107 @@
+{
+ "id": 2399155,
+ "eventId": 9383,
+ "stage": null,
+ "time": "2026-10-08T21:00:00+08:00",
+ "bo": 3,
+ "status": "upcoming",
+ "team1": {
+  "id": 8840,
+  "score": null,
+  "players": []
+ },
+ "team2": {
+  "id": 12646,
+  "score": null,
+  "players": []
+ },
+ "maps": [],
+ "stats": {
+  "all": {
+   "both": [],
+   "t": [],
+   "ct": []
+  }
+ },
+ "mvp": null,
+ "highlight": null,
+ "h2h": {
+  "team1Wins": 6,
+  "team2Wins": 0,
+  "overtimes": 1,
+  "maps": [
+   {
+    "date": "2026-03-12",
+    "matchId": 2391675,
+    "eventId": null,
+    "event": "CS Asia Championships 2026 Asia Closed Qualifier",
+    "map": "de_dust2",
+    "score": [
+     13,
+     5
+    ],
+    "winner": 8840
+   },
+   {
+    "date": "2026-03-12",
+    "matchId": 2391675,
+    "eventId": null,
+    "event": "CS Asia Championships 2026 Asia Closed Qualifier",
+    "map": "de_nuke",
+    "score": [
+     13,
+     7
+    ],
+    "winner": 8840
+   },
+   {
+    "date": "2026-02-26",
+    "matchId": 2390797,
+    "eventId": null,
+    "event": "PGL Bucharest 2026 East Asia Closed Qualifier",
+    "map": "de_dust2",
+    "score": [
+     13,
+     9
+    ],
+    "winner": 8840
+   },
+   {
+    "date": "2026-02-26",
+    "matchId": 2390797,
+    "eventId": null,
+    "event": "PGL Bucharest 2026 East Asia Closed Qualifier",
+    "map": "de_nuke",
+    "score": [
+     22,
+     20
+    ],
+    "winner": 8840
+   },
+   {
+    "date": "2025-11-19",
+    "matchId": 2388215,
+    "eventId": null,
+    "event": "ESL Challenger League Season 50 Asia-Pacific Finals",
+    "map": "de_dust2",
+    "score": [
+     13,
+     7
+    ],
+    "winner": 8840
+   },
+   {
+    "date": "2025-11-19",
+    "matchId": 2388215,
+    "eventId": null,
+    "event": "ESL Challenger League Season 50 Asia-Pacific Finals",
+    "map": "de_inferno",
+    "score": [
+     13,
+     7
+    ],
+    "winner": 8840
+   }
+  ]
+ }
+}

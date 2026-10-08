@@ -1,0 +1,275 @@
+{
+ "id": 2399376,
+ "eventId": 9428,
+ "stage": null,
+ "time": "2026-10-10T12:00:00+08:00",
+ "bo": 3,
+ "status": "upcoming",
+ "team1": {
+  "id": 13724,
+  "score": null,
+  "players": []
+ },
+ "team2": {
+  "id": 13667,
+  "score": null,
+  "players": []
+ },
+ "maps": [],
+ "stats": {
+  "all": {
+   "both": [],
+   "t": [],
+   "ct": []
+  }
+ },
+ "mvp": null,
+ "highlight": null,
+ "h2h": {
+  "team1Wins": 10,
+  "team2Wins": 11,
+  "overtimes": 1,
+  "maps": [
+   {
+    "date": "2026-09-09",
+    "matchId": 2397718,
+    "eventId": null,
+    "event": "PGL Masters Bucharest 2026 East Asia Closed Qualifier",
+    "map": "de_nuke",
+    "score": [
+     9,
+     13
+    ],
+    "winner": 13667
+   },
+   {
+    "date": "2026-09-09",
+    "matchId": 2397718,
+    "eventId": null,
+    "event": "PGL Masters Bucharest 2026 East Asia Closed Qualifier",
+    "map": "de_ancient",
+    "score": [
+     11,
+     13
+    ],
+    "winner": 13667
+   },
+   {
+    "date": "2026-09-01",
+    "matchId": 2397405,
+    "eventId": null,
+    "event": "FISSURE Playground 3 Asia Closed Qualifier",
+    "map": "de_nuke",
+    "score": [
+     13,
+     10
+    ],
+    "winner": 13724
+   },
+   {
+    "date": "2026-09-01",
+    "matchId": 2397405,
+    "eventId": null,
+    "event": "FISSURE Playground 3 Asia Closed Qualifier",
+    "map": "de_ancient",
+    "score": [
+     5,
+     13
+    ],
+    "winner": 13667
+   },
+   {
+    "date": "2026-09-01",
+    "matchId": 2397405,
+    "eventId": null,
+    "event": "FISSURE Playground 3 Asia Closed Qualifier",
+    "map": "de_inferno",
+    "score": [
+     13,
+     10
+    ],
+    "winner": 13724
+   },
+   {
+    "date": "2026-07-23",
+    "matchId": 2396153,
+    "eventId": null,
+    "event": "MESA Pro Series Summer 2026",
+    "map": "de_ancient",
+    "score": [
+     7,
+     13
+    ],
+    "winner": 13667
+   },
+   {
+    "date": "2026-07-23",
+    "matchId": 2396153,
+    "eventId": null,
+    "event": "MESA Pro Series Summer 2026",
+    "map": "de_cache",
+    "score": [
+     13,
+     10
+    ],
+    "winner": 13724
+   },
+   {
+    "date": "2026-07-23",
+    "matchId": 2396153,
+    "eventId": null,
+    "event": "MESA Pro Series Summer 2026",
+    "map": "de_inferno",
+    "score": [
+     7,
+     13
+    ],
+    "winner": 13667
+   },
+   {
+    "date": "2026-04-05",
+    "matchId": 2392936,
+    "eventId": null,
+    "event": "ESL Challenger League Season 51 Asia-Pacific Cup 3",
+    "map": "de_anubis",
+    "score": [
+     8,
+     13
+    ],
+    "winner": 13667
+   },
+   {
+    "date": "2026-04-05",
+    "matchId": 2392936,
+    "eventId": null,
+    "event": "ESL Challenger League Season 51 Asia-Pacific Cup 3",
+    "map": "de_nuke",
+    "score": [
+     13,
+     16
+    ],
+    "winner": 13667
+   },
+   {
+    "date": "2026-04-04",
+    "matchId": 2393071,
+    "eventId": null,
+    "event": "MESA Pro Series Spring 2026",
+    "map": "de_anubis",
+    "score": [
+     13,
+     8
+    ],
+    "winner": 13724
+   },
+   {
+    "date": "2026-04-04",
+    "matchId": 2393071,
+    "eventId": null,
+    "event": "MESA Pro Series Spring 2026",
+    "map": "de_nuke",
+    "score": [
+     11,
+     13
+    ],
+    "winner": 13667
+   },
+   {
+    "date": "2026-04-04",
+    "matchId": 2393071,
+    "eventId": null,
+    "event": "MESA Pro Series Spring 2026",
+    "map": "de_overpass",
+    "score": [
+     13,
+     9
+    ],
+    "winner": 13724
+   },
+   {
+    "date": "2026-04-02",
+    "matchId": 2393068,
+    "eventId": null,
+    "event": "MESA Pro Series Spring 2026",
+    "map": "de_nuke",
+    "score": [
+     13,
+     10
+    ],
+    "winner": 13724
+   },
+   {
+    "date": "2026-04-02",
+    "matchId": 2393068,
+    "eventId": null,
+    "event": "MESA Pro Series Spring 2026",
+    "map": "de_anubis",
+    "score": [
+     11,
+     13
+    ],
+    "winner": 13667
+   },
+   {
+    "date": "2026-04-02",
+    "matchId": 2393068,
+    "eventId": null,
+    "event": "MESA Pro Series Spring 2026",
+    "map": "de_overpass",
+    "score": [
+     13,
+     8
+    ],
+    "winner": 13724
+   },
+   {
+    "date": "2026-03-20",
+    "matchId": 2391991,
+    "eventId": null,
+    "event": "ESN National Championship 2026",
+    "map": "de_anubis",
+    "score": [
+     13,
+     6
+    ],
+    "winner": 13724
+   },
+   {
+    "date": "2026-03-20",
+    "matchId": 2391991,
+    "eventId": null,
+    "event": "ESN National Championship 2026",
+    "map": "de_nuke",
+    "score": [
+     13,
+     8
+    ],
+    "winner": 13724
+   },
+   {
+    "date": "2026-03-18",
+    "matchId": 2391985,
+    "eventId": null,
+    "event": "ESN National Championship 2026",
+    "map": "de_dust2",
+    "score": [
+     4,
+     13
+    ],
+    "winner": 13667
+   },
+   {
+    "date": "2026-03-18",
+    "matchId": 2391985,
+    "eventId": null,
+    "event": "ESN National Championship 2026",
+    "map": "de_inferno",
+    "score": [
+     13,
+     10
+    ],
+    "winner": 13724
+   }
+  ]
+ }
+}

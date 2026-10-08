@@ -40,6 +40,18 @@
  "events": [],
  "recent": [
   {
+   "matchId": 2396937,
+   "date": "2026-08-29",
+   "opponent": 8840,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 8249,
+   "_side": 2
+  },
+  {
    "matchId": 2396930,
    "date": "2026-08-28",
    "opponent": 8840,
@@ -66,12 +78,16 @@
  ],
  "mapStats": {
   "de_ancient": {
+   "played": 2,
+   "winPct": 50
+  },
+  "de_anubis": {
    "played": 1,
-   "winPct": 100
+   "winPct": 0
   },
   "de_dust2": {
-   "played": 2,
-   "winPct": 0
+   "played": 3,
+   "winPct": 33
   },
   "de_inferno": {
    "played": 1,

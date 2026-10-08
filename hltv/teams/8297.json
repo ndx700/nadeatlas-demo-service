@@ -242,12 +242,24 @@
    ],
    "eventId": 8261,
    "_side": 1
+  },
+  {
+   "matchId": 2396611,
+   "date": "2026-08-22",
+   "opponent": 13286,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 8261,
+   "_side": 1
   }
  ],
  "mapStats": {
   "de_ancient": {
-   "played": 6,
-   "winPct": 33
+   "played": 7,
+   "winPct": 29
   },
   "de_anubis": {
    "played": 1,
@@ -258,8 +270,8 @@
    "winPct": 38
   },
   "de_dust2": {
-   "played": 6,
-   "winPct": 33
+   "played": 7,
+   "winPct": 29
   },
   "de_inferno": {
    "played": 4,
@@ -270,8 +282,8 @@
    "winPct": 44
   },
   "de_nuke": {
-   "played": 7,
-   "winPct": 71
+   "played": 8,
+   "winPct": 75
   }
  }
 }

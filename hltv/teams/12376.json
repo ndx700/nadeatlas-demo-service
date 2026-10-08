@@ -52,6 +52,18 @@
    "_side": 2
   },
   {
+   "matchId": 2398746,
+   "date": "2026-10-07",
+   "opponent": 12376,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 8244,
+   "_side": 2
+  },
+  {
    "matchId": 2398722,
    "date": "2026-10-03",
    "opponent": 12376,
@@ -66,15 +78,15 @@
  ],
  "mapStats": {
   "de_cache": {
-   "played": 2,
-   "winPct": 0
+   "played": 3,
+   "winPct": 33
   },
   "de_dust2": {
-   "played": 1,
-   "winPct": 0
+   "played": 2,
+   "winPct": 50
   },
   "de_mirage": {
-   "played": 1,
+   "played": 2,
    "winPct": 0
   }
  }

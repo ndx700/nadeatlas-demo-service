@@ -40,6 +40,18 @@
  "events": [],
  "recent": [
   {
+   "matchId": 2398740,
+   "date": "2026-10-06",
+   "opponent": 12394,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 8244,
+   "_side": 2
+  },
+  {
    "matchId": 2398724,
    "date": "2026-10-04",
    "opponent": 12394,
@@ -70,7 +82,7 @@
    "winPct": 0
   },
   "de_anubis": {
-   "played": 1,
+   "played": 2,
    "winPct": 0
   },
   "de_cache": {
@@ -78,8 +90,12 @@
    "winPct": 0
   },
   "de_mirage": {
-   "played": 2,
-   "winPct": 50
+   "played": 3,
+   "winPct": 33
+  },
+  "de_nuke": {
+   "played": 1,
+   "winPct": 100
   }
  }
 }

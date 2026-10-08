@@ -40,6 +40,30 @@
  "events": [],
  "recent": [
   {
+   "matchId": 2398746,
+   "date": "2026-10-07",
+   "opponent": 12376,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 8244,
+   "_side": 1
+  },
+  {
+   "matchId": 2398736,
+   "date": "2026-10-05",
+   "opponent": 10621,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8244,
+   "_side": 1
+  },
+  {
    "matchId": 2398726,
    "date": "2026-10-04",
    "opponent": 12468,
@@ -210,20 +234,24 @@
  ],
  "mapStats": {
   "de_ancient": {
-   "played": 10,
-   "winPct": 60
+   "played": 11,
+   "winPct": 55
+  },
+  "de_cache": {
+   "played": 1,
+   "winPct": 0
   },
   "de_dust2": {
-   "played": 10,
-   "winPct": 60
+   "played": 12,
+   "winPct": 50
   },
   "de_inferno": {
    "played": 4,
    "winPct": 75
   },
   "de_mirage": {
-   "played": 7,
-   "winPct": 86
+   "played": 8,
+   "winPct": 88
   },
   "de_nuke": {
    "played": 4,

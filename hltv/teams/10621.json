@@ -20,6 +20,18 @@
    "_side": 2
   },
   {
+   "matchId": 2398736,
+   "date": "2026-10-05",
+   "opponent": 10621,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8244,
+   "_side": 2
+  },
+  {
    "matchId": 2398730,
    "date": "2026-10-04",
    "opponent": 10621,
@@ -46,8 +58,8 @@
  ],
  "mapStats": {
   "de_ancient": {
-   "played": 1,
-   "winPct": 0
+   "played": 2,
+   "winPct": 50
   },
   "de_anubis": {
    "played": 1,
@@ -58,8 +70,8 @@
    "winPct": 50
   },
   "de_dust2": {
-   "played": 2,
-   "winPct": 50
+   "played": 3,
+   "winPct": 67
   },
   "de_mirage": {
    "played": 1,

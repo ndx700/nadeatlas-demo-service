@@ -1,0 +1,34 @@
+{
+ "id": 2399136,
+ "eventId": 9223,
+ "stage": null,
+ "time": "2026-10-15T18:00:00+08:00",
+ "bo": 3,
+ "status": "upcoming",
+ "team1": {
+  "id": 9215,
+  "score": null,
+  "players": []
+ },
+ "team2": {
+  "id": 12878,
+  "score": null,
+  "players": []
+ },
+ "maps": [],
+ "stats": {
+  "all": {
+   "both": [],
+   "t": [],
+   "ct": []
+  }
+ },
+ "mvp": null,
+ "highlight": null,
+ "h2h": {
+  "team1Wins": 0,
+  "team2Wins": 0,
+  "overtimes": 0,
+  "maps": []
+ }
+}

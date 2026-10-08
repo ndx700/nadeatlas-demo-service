@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-08T18:56:46+08:00",
+ "updatedAt": "2026-10-08T19:22:19+08:00",
  "teams": [
   {
    "id": 7020,
@@ -132,7 +132,7 @@
    "name": "GamerLegion",
    "country": "PL",
    "rankHltv": 19,
-   "rankVrs": 30
+   "rankVrs": 28
   },
   {
    "id": 12467,
@@ -160,7 +160,7 @@
    "name": "Alliance",
    "country": "SE",
    "rankHltv": 23,
-   "rankVrs": 29
+   "rankVrs": 30
   },
   {
    "id": 6290,
@@ -216,7 +216,7 @@
    "name": "TYLOO",
    "country": "CN",
    "rankHltv": 34,
-   "rankVrs": 47
+   "rankVrs": 45
   },
   {
    "id": 8840,
@@ -445,6 +445,41 @@
   {
    "id": 8474,
    "name": "100 Thieves",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 12878,
+   "name": "BC.Game",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 13683,
+   "name": "WBT",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 10371,
+   "name": "NAVI Junior",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 4914,
+   "name": "3DMAX",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 10577,
+   "name": "SINNERS",
    "country": null,
    "rankHltv": null,
    "rankVrs": null
