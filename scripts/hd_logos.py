@@ -61,31 +61,45 @@ def candidates(n):
     if n.isupper() or n.islower(): c.insert(1, n.title())
     return list(dict.fromkeys(c))
 
-def logo_file(n):
-    """(page, File:...) of the team's logo on Liquipedia, or (None, None)."""
-    q = api(action="query", titles="|".join(candidates(n)), redirects=1, prop="pageimages", piprop="name")
-    pages = {p["title"]: p for p in q["query"].get("pages", []) if not p.get("missing")}
+def resolve(titles):
+    """The existing pages among [titles] (redirects followed), in the order asked."""
+    q = api(action="query", titles="|".join(titles), redirects=1)
+    have = {p["title"] for p in q["query"].get("pages", []) if not p.get("missing")}
     order = []
-    for c in candidates(n):
+    for c in titles:
         t = c
         for r in q["query"].get("normalized", []):
             if r["from"] == t: t = r["to"]
         for r in q["query"].get("redirects", []):
             if r["from"] == t: t = r["to"]
-        if t in pages and t not in order: order.append(t)
+        if t in have and t not in order: order.append(t)
+    return order
+
+def infobox_logo(title):
+    """The team infobox's logo file: the dark-mode one when there is one."""
+    q = api(action="query", titles=title, prop="revisions", rvprop="content", rvslots="main", rvsection=0)
+    p = q["query"]["pages"][0]
+    text = p.get("revisions", [{}])[0].get("slots", {}).get("main", {}).get("content", "")
+    if "{{Infobox team" not in text and "{{infobox team" not in text.lower(): return None
+    fields = dict(re.findall(r"^\|\s*(image|imagedark|image_dark|darkimage|imagedarkmode)\s*=\s*(.+?)\s*$", text, re.M | re.I))
+    low = {k.lower(): v for k, v in fields.items()}
+    for k in ("imagedark", "image_dark", "darkimage", "imagedarkmode", "image"):
+        v = low.get(k, "").strip()
+        if v and not v.startswith("{{"): return v.replace("File:", "").strip()
+    return None
+
+def logo_file(n):
+    """(page, file name) of the team's logo on Liquipedia, or (None, None)."""
+    order = resolve(candidates(n))
     if not order:
         s = api(action="query", list="search", srsearch=n, srlimit=5, srnamespace=0)
-        hits = [h["title"] for h in s["query"]["search"] if slug(n) in slug(h["title"])]
-        if hits:
-            q = api(action="query", titles="|".join(hits[:3]), redirects=1, prop="pageimages", piprop="name")
-            pages = {p["title"]: p for p in q["query"].get("pages", []) if not p.get("missing")}
-            order = [h for h in hits if h in pages] or list(pages)
+        order = [h["title"] for h in s["query"]["search"] if slug(n)[:4] in slug(h["title"])][:3]
     for t in order:
-        img = pages[t].get("pageimage")
-        if img and "logo" in img.lower(): return t, img
+        img = infobox_logo(t)
+        if img: return t, img
     if DEBUG[0] < 3:
         DEBUG[0] += 1
-        print(f"::warning::{n}: order={order} pages={json.dumps(q)[:700]}")
+        print(f"::warning::{n}: no infobox logo on {order}")
     return None, None
 DEBUG = [0]
 
