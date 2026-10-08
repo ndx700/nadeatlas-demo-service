@@ -6,7 +6,7 @@ on:
     branches: [main]
     paths: ['hltv/**', 'logos-hd/**', 'team_logos.json']
   workflow_run:
-    workflows: ['HD team logos']
+    workflows: ['HD team logos', 'HLTV images']
     types: [completed]
   workflow_dispatch:
 concurrency:
