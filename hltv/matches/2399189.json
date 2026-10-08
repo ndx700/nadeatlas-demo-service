@@ -1,0 +1,49 @@
+{
+ "id": 2399189,
+ "eventId": 9385,
+ "stage": "Playoffs",
+ "time": "2026-10-08T21:00:00Z",
+ "bo": 3,
+ "status": "live",
+ "team1": {
+  "id": 13938,
+  "score": null,
+  "players": []
+ },
+ "team2": {
+  "id": 13811,
+  "score": null,
+  "players": []
+ },
+ "maps": [
+  {
+   "map": "de_inferno",
+   "pick": 13811,
+   "score": [
+    5,
+    7
+   ],
+   "halves": null
+  },
+  {
+   "map": "de_ancient",
+   "pick": 13938,
+   "score": [
+    null,
+    null
+   ],
+   "halves": null
+  },
+  {
+   "map": "de_dust2",
+   "pick": null,
+   "score": [
+    null,
+    null
+   ],
+   "halves": null
+  }
+ ],
+ "stats": {},
+ "mvp": null
+}

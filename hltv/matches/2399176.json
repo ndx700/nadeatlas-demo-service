@@ -1,0 +1,1004 @@
+{
+ "id": 2399176,
+ "eventId": 9385,
+ "stage": "Playoffs",
+ "time": "2026-10-07T21:00:00Z",
+ "bo": 3,
+ "status": "finished",
+ "team1": {
+  "id": 12677,
+  "score": 0,
+  "players": [
+   6593,
+   18610,
+   23551,
+   20522,
+   9483
+  ]
+ },
+ "team2": {
+  "id": 13912,
+  "score": 2,
+  "players": [
+   16661,
+   25464,
+   25465,
+   25553,
+   22140
+  ]
+ },
+ "maps": [
+  {
+   "map": "de_inferno",
+   "pick": 13912,
+   "score": [
+    11,
+    13
+   ],
+   "halves": [
+    [
+     8,
+     4
+    ],
+    [
+     3,
+     9
+    ]
+   ]
+  },
+  {
+   "map": "de_ancient",
+   "pick": 12677,
+   "score": [
+    25,
+    28
+   ],
+   "halves": [
+    [
+     7,
+     5
+    ],
+    [
+     5,
+     7
+    ]
+   ]
+  },
+  {
+   "map": "de_cache",
+   "pick": null,
+   "score": [
+    null,
+    null
+   ],
+   "halves": null
+  }
+ ],
+ "stats": {
+  "all": {
+   "both": [
+    {
+     "player": 20522,
+     "nick": "gbb",
+     "kills": 53,
+     "deaths": 49,
+     "swing": 1.0,
+     "adr": 72.0,
+     "kast": 64.9,
+     "rating": 1.12
+    },
+    {
+     "player": 9483,
+     "nick": "destiny",
+     "kills": 49,
+     "deaths": 55,
+     "swing": -1.01,
+     "adr": 74.3,
+     "kast": 71.4,
+     "rating": 1.01
+    },
+    {
+     "player": 18610,
+     "nick": "detr0ittJ",
+     "kills": 47,
+     "deaths": 44,
+     "swing": 0.26,
+     "adr": 62.5,
+     "kast": 76.6,
+     "rating": 1.01
+    },
+    {
+     "player": 23551,
+     "nick": "tomate",
+     "kills": 51,
+     "deaths": 57,
+     "swing": -0.84,
+     "adr": 74.3,
+     "kast": 63.6,
+     "rating": 0.97
+    },
+    {
+     "player": 6593,
+     "nick": "PKL",
+     "kills": 35,
+     "deaths": 49,
+     "swing": -1.27,
+     "adr": 53.0,
+     "kast": 62.3,
+     "rating": 0.8
+    },
+    {
+     "player": 25553,
+     "nick": "s1lent",
+     "kills": 50,
+     "deaths": 42,
+     "swing": 2.58,
+     "adr": 74.3,
+     "kast": 71.4,
+     "rating": 1.21
+    },
+    {
+     "player": 16661,
+     "nick": "MITHPUTTINI",
+     "kills": 50,
+     "deaths": 42,
+     "swing": 2.67,
+     "adr": 64.5,
+     "kast": 74.0,
+     "rating": 1.16
+    },
+    {
+     "player": 25465,
+     "nick": "balencyy",
+     "kills": 50,
+     "deaths": 52,
+     "swing": -0.36,
+     "adr": 73.4,
+     "kast": 70.1,
+     "rating": 1.08
+    },
+    {
+     "player": 22140,
+     "nick": "souz4h",
+     "kills": 59,
+     "deaths": 47,
+     "swing": -0.75,
+     "adr": 78.4,
+     "kast": 71.4,
+     "rating": 1.08
+    },
+    {
+     "player": 25464,
+     "nick": "yeda",
+     "kills": 43,
+     "deaths": 53,
+     "swing": -2.53,
+     "adr": 60.8,
+     "kast": 63.6,
+     "rating": 0.85
+    }
+   ],
+   "t": [
+    {
+     "player": 18610,
+     "nick": "detr0ittJ",
+     "kills": 32,
+     "deaths": 17,
+     "swing": 3.56,
+     "adr": 83.6,
+     "kast": 87.2,
+     "rating": 1.3
+    },
+    {
+     "player": 23551,
+     "nick": "tomate",
+     "kills": 35,
+     "deaths": 25,
+     "swing": 2.24,
+     "adr": 89.7,
+     "kast": 76.9,
+     "rating": 1.29
+    },
+    {
+     "player": 20522,
+     "nick": "gbb",
+     "kills": 29,
+     "deaths": 19,
+     "swing": 2.87,
+     "adr": 79.8,
+     "kast": 71.8,
+     "rating": 1.28
+    },
+    {
+     "player": 9483,
+     "nick": "destiny",
+     "kills": 26,
+     "deaths": 25,
+     "swing": -1.32,
+     "adr": 70.3,
+     "kast": 82.1,
+     "rating": 0.97
+    },
+    {
+     "player": 6593,
+     "nick": "PKL",
+     "kills": 22,
+     "deaths": 22,
+     "swing": -1.75,
+     "adr": 66.2,
+     "kast": 66.7,
+     "rating": 0.87
+    },
+    {
+     "player": 16661,
+     "nick": "MITHPUTTINI",
+     "kills": 34,
+     "deaths": 13,
+     "swing": 7.73,
+     "adr": 77.9,
+     "kast": 89.5,
+     "rating": 1.61
+    },
+    {
+     "player": 25465,
+     "nick": "balencyy",
+     "kills": 29,
+     "deaths": 23,
+     "swing": 2.12,
+     "adr": 91.1,
+     "kast": 76.3,
+     "rating": 1.29
+    },
+    {
+     "player": 25553,
+     "nick": "s1lent",
+     "kills": 28,
+     "deaths": 17,
+     "swing": 0.12,
+     "adr": 87.8,
+     "kast": 84.2,
+     "rating": 1.2
+    },
+    {
+     "player": 25464,
+     "nick": "yeda",
+     "kills": 28,
+     "deaths": 21,
+     "swing": 0.15,
+     "adr": 76.9,
+     "kast": 76.3,
+     "rating": 1.09
+    },
+    {
+     "player": 22140,
+     "nick": "souz4h",
+     "kills": 27,
+     "deaths": 18,
+     "swing": -0.59,
+     "adr": 78.9,
+     "kast": 78.9,
+     "rating": 1.06
+    }
+   ],
+   "ct": [
+    {
+     "player": 9483,
+     "nick": "destiny",
+     "kills": 23,
+     "deaths": 30,
+     "swing": -0.69,
+     "adr": 78.3,
+     "kast": 60.5,
+     "rating": 1.06
+    },
+    {
+     "player": 20522,
+     "nick": "gbb",
+     "kills": 24,
+     "deaths": 30,
+     "swing": -0.92,
+     "adr": 63.9,
+     "kast": 57.9,
+     "rating": 0.97
+    },
+    {
+     "player": 6593,
+     "nick": "PKL",
+     "kills": 13,
+     "deaths": 27,
+     "swing": -0.78,
+     "adr": 39.5,
+     "kast": 57.9,
+     "rating": 0.73
+    },
+    {
+     "player": 18610,
+     "nick": "detr0ittJ",
+     "kills": 15,
+     "deaths": 27,
+     "swing": -3.13,
+     "adr": 40.8,
+     "kast": 65.8,
+     "rating": 0.72
+    },
+    {
+     "player": 23551,
+     "nick": "tomate",
+     "kills": 16,
+     "deaths": 32,
+     "swing": -4.01,
+     "adr": 58.4,
+     "kast": 50.0,
+     "rating": 0.64
+    },
+    {
+     "player": 25553,
+     "nick": "s1lent",
+     "kills": 22,
+     "deaths": 25,
+     "swing": 4.97,
+     "adr": 61.1,
+     "kast": 59.0,
+     "rating": 1.23
+    },
+    {
+     "player": 22140,
+     "nick": "souz4h",
+     "kills": 32,
+     "deaths": 29,
+     "swing": -0.91,
+     "adr": 77.8,
+     "kast": 64.1,
+     "rating": 1.09
+    },
+    {
+     "player": 25465,
+     "nick": "balencyy",
+     "kills": 21,
+     "deaths": 29,
+     "swing": -2.78,
+     "adr": 56.1,
+     "kast": 64.1,
+     "rating": 0.89
+    },
+    {
+     "player": 16661,
+     "nick": "MITHPUTTINI",
+     "kills": 16,
+     "deaths": 29,
+     "swing": -2.26,
+     "adr": 51.4,
+     "kast": 59.0,
+     "rating": 0.74
+    },
+    {
+     "player": 25464,
+     "nick": "yeda",
+     "kills": 15,
+     "deaths": 32,
+     "swing": -5.14,
+     "adr": 45.2,
+     "kast": 51.3,
+     "rating": 0.61
+    }
+   ]
+  },
+  "de_inferno": {
+   "both": [
+    {
+     "player": 9483,
+     "nick": "destiny",
+     "kills": 17,
+     "deaths": 17,
+     "swing": 0.71,
+     "adr": 72.9,
+     "kast": 79.2,
+     "rating": 1.15
+    },
+    {
+     "player": 23551,
+     "nick": "tomate",
+     "kills": 16,
+     "deaths": 15,
+     "swing": -0.81,
+     "adr": 77.4,
+     "kast": 66.7,
+     "rating": 1.1
+    },
+    {
+     "player": 20522,
+     "nick": "gbb",
+     "kills": 13,
+     "deaths": 13,
+     "swing": 0.37,
+     "adr": 51.6,
+     "kast": 62.5,
+     "rating": 1.0
+    },
+    {
+     "player": 6593,
+     "nick": "PKL",
+     "kills": 12,
+     "deaths": 17,
+     "swing": 0.01,
+     "adr": 65.9,
+     "kast": 62.5,
+     "rating": 0.97
+    },
+    {
+     "player": 18610,
+     "nick": "detr0ittJ",
+     "kills": 10,
+     "deaths": 12,
+     "swing": -1.58,
+     "adr": 37.6,
+     "kast": 79.2,
+     "rating": 0.79
+    },
+    {
+     "player": 22140,
+     "nick": "souz4h",
+     "kills": 18,
+     "deaths": 14,
+     "swing": -0.51,
+     "adr": 76.5,
+     "kast": 75.0,
+     "rating": 1.12
+    },
+    {
+     "player": 25553,
+     "nick": "s1lent",
+     "kills": 15,
+     "deaths": 12,
+     "swing": -0.83,
+     "adr": 69.2,
+     "kast": 79.2,
+     "rating": 1.06
+    },
+    {
+     "player": 25464,
+     "nick": "yeda",
+     "kills": 15,
+     "deaths": 15,
+     "swing": 1.06,
+     "adr": 59.4,
+     "kast": 70.8,
+     "rating": 1.04
+    },
+    {
+     "player": 25465,
+     "nick": "balencyy",
+     "kills": 14,
+     "deaths": 16,
+     "swing": 0.19,
+     "adr": 67.6,
+     "kast": 75.0,
+     "rating": 1.02
+    },
+    {
+     "player": 16661,
+     "nick": "MITHPUTTINI",
+     "kills": 11,
+     "deaths": 11,
+     "swing": 1.39,
+     "adr": 45.5,
+     "kast": 70.8,
+     "rating": 1.0
+    }
+   ],
+   "t": [
+    {
+     "player": 23551,
+     "nick": "tomate",
+     "kills": 14,
+     "deaths": 5,
+     "swing": 8.95,
+     "adr": 112.8,
+     "kast": 91.7,
+     "rating": 1.86
+    },
+    {
+     "player": 6593,
+     "nick": "PKL",
+     "kills": 11,
+     "deaths": 7,
+     "swing": 4.8,
+     "adr": 101.0,
+     "kast": 66.7,
+     "rating": 1.47
+    },
+    {
+     "player": 9483,
+     "nick": "destiny",
+     "kills": 10,
+     "deaths": 7,
+     "swing": 3.03,
+     "adr": 80.8,
+     "kast": 91.7,
+     "rating": 1.29
+    },
+    {
+     "player": 18610,
+     "nick": "detr0ittJ",
+     "kills": 5,
+     "deaths": 3,
+     "swing": 4.01,
+     "adr": 39.7,
+     "kast": 83.3,
+     "rating": 1.0
+    },
+    {
+     "player": 20522,
+     "nick": "gbb",
+     "kills": 4,
+     "deaths": 5,
+     "swing": -5.13,
+     "adr": 38.6,
+     "kast": 66.7,
+     "rating": 0.61
+    },
+    {
+     "player": 16661,
+     "nick": "MITHPUTTINI",
+     "kills": 9,
+     "deaths": 2,
+     "swing": 9.71,
+     "adr": 73.5,
+     "kast": 91.7,
+     "rating": 1.68
+    },
+    {
+     "player": 22140,
+     "nick": "souz4h",
+     "kills": 11,
+     "deaths": 5,
+     "swing": 4.25,
+     "adr": 93.0,
+     "kast": 83.3,
+     "rating": 1.51
+    },
+    {
+     "player": 25553,
+     "nick": "s1lent",
+     "kills": 11,
+     "deaths": 4,
+     "swing": 1.73,
+     "adr": 99.6,
+     "kast": 91.7,
+     "rating": 1.44
+    },
+    {
+     "player": 25464,
+     "nick": "yeda",
+     "kills": 10,
+     "deaths": 5,
+     "swing": 4.29,
+     "adr": 79.5,
+     "kast": 83.3,
+     "rating": 1.29
+    },
+    {
+     "player": 25465,
+     "nick": "balencyy",
+     "kills": 6,
+     "deaths": 8,
+     "swing": -1.74,
+     "adr": 66.6,
+     "kast": 75.0,
+     "rating": 0.79
+    }
+   ],
+   "ct": [
+    {
+     "player": 20522,
+     "nick": "gbb",
+     "kills": 9,
+     "deaths": 8,
+     "swing": 5.87,
+     "adr": 64.6,
+     "kast": 58.3,
+     "rating": 1.39
+    },
+    {
+     "player": 9483,
+     "nick": "destiny",
+     "kills": 7,
+     "deaths": 10,
+     "swing": -1.61,
+     "adr": 65.0,
+     "kast": 66.7,
+     "rating": 1.0
+    },
+    {
+     "player": 18610,
+     "nick": "detr0ittJ",
+     "kills": 5,
+     "deaths": 9,
+     "swing": -7.17,
+     "adr": 35.6,
+     "kast": 75.0,
+     "rating": 0.58
+    },
+    {
+     "player": 6593,
+     "nick": "PKL",
+     "kills": 1,
+     "deaths": 10,
+     "swing": -4.78,
+     "adr": 30.8,
+     "kast": 58.3,
+     "rating": 0.47
+    },
+    {
+     "player": 23551,
+     "nick": "tomate",
+     "kills": 2,
+     "deaths": 10,
+     "swing": -10.56,
+     "adr": 42.0,
+     "kast": 41.7,
+     "rating": 0.34
+    },
+    {
+     "player": 25465,
+     "nick": "balencyy",
+     "kills": 8,
+     "deaths": 8,
+     "swing": 2.11,
+     "adr": 68.6,
+     "kast": 75.0,
+     "rating": 1.25
+    },
+    {
+     "player": 25464,
+     "nick": "yeda",
+     "kills": 5,
+     "deaths": 10,
+     "swing": -2.16,
+     "adr": 39.3,
+     "kast": 58.3,
+     "rating": 0.8
+    },
+    {
+     "player": 22140,
+     "nick": "souz4h",
+     "kills": 7,
+     "deaths": 9,
+     "swing": -5.28,
+     "adr": 60.0,
+     "kast": 66.7,
+     "rating": 0.74
+    },
+    {
+     "player": 25553,
+     "nick": "s1lent",
+     "kills": 4,
+     "deaths": 8,
+     "swing": -3.4,
+     "adr": 38.8,
+     "kast": 66.7,
+     "rating": 0.69
+    },
+    {
+     "player": 16661,
+     "nick": "MITHPUTTINI",
+     "kills": 2,
+     "deaths": 9,
+     "swing": -6.94,
+     "adr": 17.4,
+     "kast": 50.0,
+     "rating": 0.33
+    }
+   ]
+  },
+  "de_ancient": {
+   "both": [
+    {
+     "player": 20522,
+     "nick": "gbb",
+     "kills": 40,
+     "deaths": 36,
+     "swing": 1.28,
+     "adr": 81.2,
+     "kast": 66.0,
+     "rating": 1.25
+    },
+    {
+     "player": 18610,
+     "nick": "detr0ittJ",
+     "kills": 37,
+     "deaths": 32,
+     "swing": 1.09,
+     "adr": 73.7,
+     "kast": 75.5,
+     "rating": 1.13
+    },
+    {
+     "player": 9483,
+     "nick": "destiny",
+     "kills": 32,
+     "deaths": 38,
+     "swing": -1.79,
+     "adr": 74.9,
+     "kast": 67.9,
+     "rating": 0.97
+    },
+    {
+     "player": 23551,
+     "nick": "tomate",
+     "kills": 35,
+     "deaths": 42,
+     "swing": -0.86,
+     "adr": 72.8,
+     "kast": 62.3,
+     "rating": 0.95
+    },
+    {
+     "player": 6593,
+     "nick": "PKL",
+     "kills": 23,
+     "deaths": 32,
+     "swing": -1.85,
+     "adr": 47.2,
+     "kast": 62.3,
+     "rating": 0.76
+    },
+    {
+     "player": 25553,
+     "nick": "s1lent",
+     "kills": 35,
+     "deaths": 30,
+     "swing": 4.12,
+     "adr": 76.5,
+     "kast": 67.9,
+     "rating": 1.31
+    },
+    {
+     "player": 16661,
+     "nick": "MITHPUTTINI",
+     "kills": 39,
+     "deaths": 31,
+     "swing": 3.25,
+     "adr": 73.1,
+     "kast": 75.5,
+     "rating": 1.26
+    },
+    {
+     "player": 25465,
+     "nick": "balencyy",
+     "kills": 36,
+     "deaths": 36,
+     "swing": -0.61,
+     "adr": 76.0,
+     "kast": 67.9,
+     "rating": 1.14
+    },
+    {
+     "player": 22140,
+     "nick": "souz4h",
+     "kills": 41,
+     "deaths": 33,
+     "swing": -0.86,
+     "adr": 79.2,
+     "kast": 69.8,
+     "rating": 1.08
+    },
+    {
+     "player": 25464,
+     "nick": "yeda",
+     "kills": 28,
+     "deaths": 38,
+     "swing": -4.15,
+     "adr": 61.5,
+     "kast": 60.4,
+     "rating": 0.77
+    }
+   ],
+   "t": [
+    {
+     "player": 20522,
+     "nick": "gbb",
+     "kills": 25,
+     "deaths": 14,
+     "swing": 6.42,
+     "adr": 98.2,
+     "kast": 74.1,
+     "rating": 1.66
+    },
+    {
+     "player": 18610,
+     "nick": "detr0ittJ",
+     "kills": 27,
+     "deaths": 14,
+     "swing": 3.36,
+     "adr": 103.1,
+     "kast": 88.9,
+     "rating": 1.47
+    },
+    {
+     "player": 23551,
+     "nick": "tomate",
+     "kills": 21,
+     "deaths": 20,
+     "swing": -0.74,
+     "adr": 79.5,
+     "kast": 70.4,
+     "rating": 1.07
+    },
+    {
+     "player": 9483,
+     "nick": "destiny",
+     "kills": 16,
+     "deaths": 18,
+     "swing": -3.25,
+     "adr": 65.7,
+     "kast": 77.8,
+     "rating": 0.84
+    },
+    {
+     "player": 6593,
+     "nick": "PKL",
+     "kills": 11,
+     "deaths": 15,
+     "swing": -4.66,
+     "adr": 50.7,
+     "kast": 66.7,
+     "rating": 0.65
+    },
+    {
+     "player": 16661,
+     "nick": "MITHPUTTINI",
+     "kills": 25,
+     "deaths": 11,
+     "swing": 6.81,
+     "adr": 80.0,
+     "kast": 88.5,
+     "rating": 1.57
+    },
+    {
+     "player": 25465,
+     "nick": "balencyy",
+     "kills": 23,
+     "deaths": 15,
+     "swing": 3.9,
+     "adr": 102.5,
+     "kast": 76.9,
+     "rating": 1.54
+    },
+    {
+     "player": 25553,
+     "nick": "s1lent",
+     "kills": 17,
+     "deaths": 13,
+     "swing": -0.63,
+     "adr": 82.4,
+     "kast": 80.8,
+     "rating": 1.1
+    },
+    {
+     "player": 25464,
+     "nick": "yeda",
+     "kills": 18,
+     "deaths": 16,
+     "swing": -1.75,
+     "adr": 75.8,
+     "kast": 73.1,
+     "rating": 1.01
+    },
+    {
+     "player": 22140,
+     "nick": "souz4h",
+     "kills": 16,
+     "deaths": 13,
+     "swing": -2.83,
+     "adr": 72.4,
+     "kast": 76.9,
+     "rating": 0.89
+    }
+   ],
+   "ct": [
+    {
+     "player": 9483,
+     "nick": "destiny",
+     "kills": 16,
+     "deaths": 20,
+     "swing": -0.27,
+     "adr": 84.5,
+     "kast": 57.7,
+     "rating": 1.09
+    },
+    {
+     "player": 6593,
+     "nick": "PKL",
+     "kills": 12,
+     "deaths": 17,
+     "swing": 1.07,
+     "adr": 43.5,
+     "kast": 57.7,
+     "rating": 0.87
+    },
+    {
+     "player": 20522,
+     "nick": "gbb",
+     "kills": 15,
+     "deaths": 22,
+     "swing": -4.05,
+     "adr": 63.6,
+     "kast": 57.7,
+     "rating": 0.81
+    },
+    {
+     "player": 23551,
+     "nick": "tomate",
+     "kills": 14,
+     "deaths": 22,
+     "swing": -0.98,
+     "adr": 65.9,
+     "kast": 53.8,
+     "rating": 0.81
+    },
+    {
+     "player": 18610,
+     "nick": "detr0ittJ",
+     "kills": 10,
+     "deaths": 18,
+     "swing": -1.27,
+     "adr": 43.2,
+     "kast": 61.5,
+     "rating": 0.78
+    },
+    {
+     "player": 25553,
+     "nick": "s1lent",
+     "kills": 18,
+     "deaths": 17,
+     "swing": 8.69,
+     "adr": 70.9,
+     "kast": 55.6,
+     "rating": 1.52
+    },
+    {
+     "player": 22140,
+     "nick": "souz4h",
+     "kills": 25,
+     "deaths": 20,
+     "swing": 1.04,
+     "adr": 85.8,
+     "kast": 63.0,
+     "rating": 1.27
+    },
+    {
+     "player": 16661,
+     "nick": "MITHPUTTINI",
+     "kills": 14,
+     "deaths": 20,
+     "swing": -0.19,
+     "adr": 66.5,
+     "kast": 63.0,
+     "rating": 0.95
+    },
+    {
+     "player": 25465,
+     "nick": "balencyy",
+     "kills": 13,
+     "deaths": 21,
+     "swing": -4.96,
+     "adr": 50.6,
+     "kast": 59.3,
+     "rating": 0.75
+    },
+    {
+     "player": 25464,
+     "nick": "yeda",
+     "kills": 10,
+     "deaths": 22,
+     "swing": -6.46,
+     "adr": 47.7,
+     "kast": 48.1,
+     "rating": 0.54
+    }
+   ]
+  }
+ },
+ "mvp": null
+}

@@ -1,0 +1,1015 @@
+{
+ "id": 2397595,
+ "eventId": 8266,
+ "stage": "Group A",
+ "time": "2026-09-08T03:00:00Z",
+ "bo": 3,
+ "status": "finished",
+ "team1": {
+  "id": 9996,
+  "score": 2,
+  "players": [
+   14736,
+   12092,
+   14737,
+   20394,
+   22613
+  ]
+ },
+ "team2": {
+  "id": 13724,
+  "score": 0,
+  "players": [
+   24303,
+   15861,
+   21396,
+   18150,
+   15060
+  ]
+ },
+ "maps": [
+  {
+   "map": "de_cache",
+   "pick": 13724,
+   "score": [
+    13,
+    3
+   ],
+   "halves": [
+    [
+     9,
+     3
+    ],
+    [
+     4,
+     0
+    ]
+   ]
+  },
+  {
+   "map": "de_nuke",
+   "pick": 9996,
+   "score": [
+    13,
+    4
+   ],
+   "halves": [
+    [
+     8,
+     4
+    ],
+    [
+     5,
+     0
+    ]
+   ]
+  },
+  {
+   "map": "de_inferno",
+   "pick": null,
+   "score": [
+    null,
+    null
+   ],
+   "halves": null
+  }
+ ],
+ "stats": {
+  "all": {
+   "both": [
+    {
+     "player": 14736,
+     "nick": "dgt",
+     "kills": 43,
+     "deaths": 19,
+     "swing": 12.33,
+     "adr": 126.2,
+     "kast": 84.8,
+     "rating": 2.29
+    },
+    {
+     "player": 12092,
+     "nick": "max",
+     "kills": 31,
+     "deaths": 13,
+     "swing": 7.71,
+     "adr": 97.8,
+     "kast": 81.8,
+     "rating": 1.71
+    },
+    {
+     "player": 14737,
+     "nick": "meyern",
+     "kills": 25,
+     "deaths": 14,
+     "swing": 3.67,
+     "adr": 79.7,
+     "kast": 84.8,
+     "rating": 1.33
+    },
+    {
+     "player": 20394,
+     "nick": "luchov",
+     "kills": 23,
+     "deaths": 21,
+     "swing": 1.41,
+     "adr": 65.4,
+     "kast": 75.8,
+     "rating": 1.08
+    },
+    {
+     "player": 22613,
+     "nick": "HUASOPEEK",
+     "kills": 15,
+     "deaths": 21,
+     "swing": -1.22,
+     "adr": 56.0,
+     "kast": 72.7,
+     "rating": 0.92
+    },
+    {
+     "player": 15060,
+     "nick": "NEUZ",
+     "kills": 25,
+     "deaths": 27,
+     "swing": 1.31,
+     "adr": 97.7,
+     "kast": 57.6,
+     "rating": 1.25
+    },
+    {
+     "player": 24303,
+     "nick": "hoolig4n",
+     "kills": 22,
+     "deaths": 29,
+     "swing": -4.45,
+     "adr": 79.0,
+     "kast": 69.7,
+     "rating": 0.82
+    },
+    {
+     "player": 15861,
+     "nick": "rate",
+     "kills": 15,
+     "deaths": 26,
+     "swing": -6.17,
+     "adr": 50.1,
+     "kast": 54.5,
+     "rating": 0.64
+    },
+    {
+     "player": 18150,
+     "nick": "clouden",
+     "kills": 17,
+     "deaths": 28,
+     "swing": -7.73,
+     "adr": 54.0,
+     "kast": 57.6,
+     "rating": 0.61
+    },
+    {
+     "player": 21396,
+     "nick": "ariucle",
+     "kills": 8,
+     "deaths": 27,
+     "swing": -7.12,
+     "adr": 30.0,
+     "kast": 57.6,
+     "rating": 0.47
+    }
+   ],
+   "t": [
+    {
+     "player": 14736,
+     "nick": "dgt",
+     "kills": 24,
+     "deaths": 9,
+     "swing": 13.85,
+     "adr": 135.1,
+     "kast": 88.2,
+     "rating": 2.41
+    },
+    {
+     "player": 14737,
+     "nick": "meyern",
+     "kills": 13,
+     "deaths": 5,
+     "swing": 4.9,
+     "adr": 85.5,
+     "kast": 94.1,
+     "rating": 1.43
+    },
+    {
+     "player": 20394,
+     "nick": "luchov",
+     "kills": 14,
+     "deaths": 10,
+     "swing": 3.12,
+     "adr": 76.4,
+     "kast": 76.5,
+     "rating": 1.24
+    },
+    {
+     "player": 12092,
+     "nick": "max",
+     "kills": 14,
+     "deaths": 5,
+     "swing": 2.48,
+     "adr": 83.2,
+     "kast": 88.2,
+     "rating": 1.24
+    },
+    {
+     "player": 22613,
+     "nick": "HUASOPEEK",
+     "kills": 8,
+     "deaths": 9,
+     "swing": -0.56,
+     "adr": 51.6,
+     "kast": 76.5,
+     "rating": 0.89
+    },
+    {
+     "player": 15060,
+     "nick": "NEUZ",
+     "kills": 16,
+     "deaths": 13,
+     "swing": 9.0,
+     "adr": 133.8,
+     "kast": 68.8,
+     "rating": 1.79
+    },
+    {
+     "player": 21396,
+     "nick": "ariucle",
+     "kills": 6,
+     "deaths": 13,
+     "swing": -4.7,
+     "adr": 37.3,
+     "kast": 68.8,
+     "rating": 0.63
+    },
+    {
+     "player": 24303,
+     "nick": "hoolig4n",
+     "kills": 10,
+     "deaths": 14,
+     "swing": -7.64,
+     "adr": 73.9,
+     "kast": 62.5,
+     "rating": 0.59
+    },
+    {
+     "player": 15861,
+     "nick": "rate",
+     "kills": 8,
+     "deaths": 12,
+     "swing": -8.1,
+     "adr": 51.2,
+     "kast": 56.2,
+     "rating": 0.56
+    },
+    {
+     "player": 18150,
+     "nick": "clouden",
+     "kills": 9,
+     "deaths": 12,
+     "swing": -13.09,
+     "adr": 49.4,
+     "kast": 43.8,
+     "rating": 0.45
+    }
+   ],
+   "ct": [
+    {
+     "player": 12092,
+     "nick": "max",
+     "kills": 17,
+     "deaths": 8,
+     "swing": 13.27,
+     "adr": 113.2,
+     "kast": 75.0,
+     "rating": 2.21
+    },
+    {
+     "player": 14736,
+     "nick": "dgt",
+     "kills": 19,
+     "deaths": 10,
+     "swing": 10.72,
+     "adr": 116.8,
+     "kast": 81.2,
+     "rating": 2.16
+    },
+    {
+     "player": 14737,
+     "nick": "meyern",
+     "kills": 12,
+     "deaths": 9,
+     "swing": 2.37,
+     "adr": 73.6,
+     "kast": 75.0,
+     "rating": 1.22
+    },
+    {
+     "player": 22613,
+     "nick": "HUASOPEEK",
+     "kills": 7,
+     "deaths": 12,
+     "swing": -1.92,
+     "adr": 60.6,
+     "kast": 68.8,
+     "rating": 0.96
+    },
+    {
+     "player": 20394,
+     "nick": "luchov",
+     "kills": 9,
+     "deaths": 11,
+     "swing": -0.41,
+     "adr": 53.8,
+     "kast": 75.0,
+     "rating": 0.92
+    },
+    {
+     "player": 24303,
+     "nick": "hoolig4n",
+     "kills": 12,
+     "deaths": 15,
+     "swing": -1.44,
+     "adr": 83.9,
+     "kast": 76.5,
+     "rating": 1.03
+    },
+    {
+     "player": 18150,
+     "nick": "clouden",
+     "kills": 8,
+     "deaths": 16,
+     "swing": -2.68,
+     "adr": 58.4,
+     "kast": 70.6,
+     "rating": 0.76
+    },
+    {
+     "player": 15060,
+     "nick": "NEUZ",
+     "kills": 9,
+     "deaths": 14,
+     "swing": -5.92,
+     "adr": 63.8,
+     "kast": 47.1,
+     "rating": 0.74
+    },
+    {
+     "player": 15861,
+     "nick": "rate",
+     "kills": 7,
+     "deaths": 14,
+     "swing": -4.35,
+     "adr": 49.1,
+     "kast": 52.9,
+     "rating": 0.71
+    },
+    {
+     "player": 21396,
+     "nick": "ariucle",
+     "kills": 2,
+     "deaths": 14,
+     "swing": -9.4,
+     "adr": 23.1,
+     "kast": 47.1,
+     "rating": 0.32
+    }
+   ]
+  },
+  "de_cache": {
+   "both": [
+    {
+     "player": 14736,
+     "nick": "dgt",
+     "kills": 25,
+     "deaths": 8,
+     "swing": 16.08,
+     "adr": 148.8,
+     "kast": 81.2,
+     "rating": 2.78
+    },
+    {
+     "player": 14737,
+     "nick": "meyern",
+     "kills": 12,
+     "deaths": 6,
+     "swing": 7.94,
+     "adr": 86.4,
+     "kast": 93.8,
+     "rating": 1.6
+    },
+    {
+     "player": 20394,
+     "nick": "luchov",
+     "kills": 14,
+     "deaths": 10,
+     "swing": 3.31,
+     "adr": 85.6,
+     "kast": 81.2,
+     "rating": 1.33
+    },
+    {
+     "player": 22613,
+     "nick": "HUASOPEEK",
+     "kills": 7,
+     "deaths": 9,
+     "swing": -3.14,
+     "adr": 48.1,
+     "kast": 81.2,
+     "rating": 0.89
+    },
+    {
+     "player": 12092,
+     "nick": "max",
+     "kills": 10,
+     "deaths": 7,
+     "swing": -1.21,
+     "adr": 62.4,
+     "kast": 81.2,
+     "rating": 0.86
+    },
+    {
+     "player": 15060,
+     "nick": "NEUZ",
+     "kills": 12,
+     "deaths": 13,
+     "swing": 3.62,
+     "adr": 100.1,
+     "kast": 50.0,
+     "rating": 1.48
+    },
+    {
+     "player": 24303,
+     "nick": "hoolig4n",
+     "kills": 11,
+     "deaths": 14,
+     "swing": -4.33,
+     "adr": 82.3,
+     "kast": 68.8,
+     "rating": 0.97
+    },
+    {
+     "player": 18150,
+     "nick": "clouden",
+     "kills": 10,
+     "deaths": 15,
+     "swing": -4.91,
+     "adr": 59.1,
+     "kast": 68.8,
+     "rating": 0.82
+    },
+    {
+     "player": 15861,
+     "nick": "rate",
+     "kills": 4,
+     "deaths": 13,
+     "swing": -7.63,
+     "adr": 30.9,
+     "kast": 50.0,
+     "rating": 0.52
+    },
+    {
+     "player": 21396,
+     "nick": "ariucle",
+     "kills": 2,
+     "deaths": 13,
+     "swing": -10.23,
+     "adr": 20.1,
+     "kast": 50.0,
+     "rating": 0.35
+    }
+   ],
+   "t": [
+    {
+     "player": 14736,
+     "nick": "dgt",
+     "kills": 19,
+     "deaths": 6,
+     "swing": 16.45,
+     "adr": 152.8,
+     "kast": 83.3,
+     "rating": 2.78
+    },
+    {
+     "player": 20394,
+     "nick": "luchov",
+     "kills": 9,
+     "deaths": 8,
+     "swing": 0.83,
+     "adr": 80.4,
+     "kast": 75.0,
+     "rating": 1.09
+    },
+    {
+     "player": 14737,
+     "nick": "meyern",
+     "kills": 5,
+     "deaths": 4,
+     "swing": 1.89,
+     "adr": 68.5,
+     "kast": 91.7,
+     "rating": 1.06
+    },
+    {
+     "player": 22613,
+     "nick": "HUASOPEEK",
+     "kills": 7,
+     "deaths": 6,
+     "swing": 0.37,
+     "adr": 50.8,
+     "kast": 75.0,
+     "rating": 1.01
+    },
+    {
+     "player": 12092,
+     "nick": "max",
+     "kills": 8,
+     "deaths": 4,
+     "swing": -1.94,
+     "adr": 57.3,
+     "kast": 83.3,
+     "rating": 0.85
+    },
+    {
+     "player": 15060,
+     "nick": "NEUZ",
+     "kills": 6,
+     "deaths": 4,
+     "swing": 27.42,
+     "adr": 228.8,
+     "kast": 75.0,
+     "rating": 3.81
+    },
+    {
+     "player": 18150,
+     "nick": "clouden",
+     "kills": 3,
+     "deaths": 4,
+     "swing": -19.98,
+     "adr": 48.5,
+     "kast": 50.0,
+     "rating": 0.46
+    },
+    {
+     "player": 21396,
+     "nick": "ariucle",
+     "kills": 1,
+     "deaths": 4,
+     "swing": -9.47,
+     "adr": 19.8,
+     "kast": 50.0,
+     "rating": 0.35
+    },
+    {
+     "player": 24303,
+     "nick": "hoolig4n",
+     "kills": 1,
+     "deaths": 4,
+     "swing": -21.03,
+     "adr": 44.5,
+     "kast": 25.0,
+     "rating": 0.13
+    },
+    {
+     "player": 15861,
+     "nick": "rate",
+     "kills": 0,
+     "deaths": 4,
+     "swing": -18.06,
+     "adr": 11.5,
+     "kast": 25.0,
+     "rating": 0.05
+    }
+   ],
+   "ct": [
+    {
+     "player": 14737,
+     "nick": "meyern",
+     "kills": 7,
+     "deaths": 2,
+     "swing": 26.07,
+     "adr": 140.0,
+     "kast": 100.0,
+     "rating": 3.21
+    },
+    {
+     "player": 14736,
+     "nick": "dgt",
+     "kills": 6,
+     "deaths": 2,
+     "swing": 14.96,
+     "adr": 136.5,
+     "kast": 75.0,
+     "rating": 2.78
+    },
+    {
+     "player": 20394,
+     "nick": "luchov",
+     "kills": 5,
+     "deaths": 2,
+     "swing": 10.74,
+     "adr": 101.2,
+     "kast": 100.0,
+     "rating": 2.04
+    },
+    {
+     "player": 12092,
+     "nick": "max",
+     "kills": 2,
+     "deaths": 3,
+     "swing": 1.0,
+     "adr": 77.8,
+     "kast": 75.0,
+     "rating": 0.89
+    },
+    {
+     "player": 22613,
+     "nick": "HUASOPEEK",
+     "kills": 0,
+     "deaths": 3,
+     "swing": -13.68,
+     "adr": 40.0,
+     "kast": 100.0,
+     "rating": 0.53
+    },
+    {
+     "player": 24303,
+     "nick": "hoolig4n",
+     "kills": 10,
+     "deaths": 10,
+     "swing": 1.24,
+     "adr": 94.9,
+     "kast": 83.3,
+     "rating": 1.25
+    },
+    {
+     "player": 18150,
+     "nick": "clouden",
+     "kills": 7,
+     "deaths": 11,
+     "swing": 0.11,
+     "adr": 62.7,
+     "kast": 75.0,
+     "rating": 0.94
+    },
+    {
+     "player": 15060,
+     "nick": "NEUZ",
+     "kills": 6,
+     "deaths": 9,
+     "swing": -4.31,
+     "adr": 57.2,
+     "kast": 41.7,
+     "rating": 0.7
+    },
+    {
+     "player": 15861,
+     "nick": "rate",
+     "kills": 4,
+     "deaths": 9,
+     "swing": -4.15,
+     "adr": 37.3,
+     "kast": 58.3,
+     "rating": 0.67
+    },
+    {
+     "player": 21396,
+     "nick": "ariucle",
+     "kills": 1,
+     "deaths": 9,
+     "swing": -10.49,
+     "adr": 20.2,
+     "kast": 50.0,
+     "rating": 0.35
+    }
+   ]
+  },
+  "de_nuke": {
+   "both": [
+    {
+     "player": 12092,
+     "nick": "max",
+     "kills": 21,
+     "deaths": 6,
+     "swing": 16.1,
+     "adr": 131.1,
+     "kast": 82.4,
+     "rating": 2.6
+    },
+    {
+     "player": 14736,
+     "nick": "dgt",
+     "kills": 18,
+     "deaths": 11,
+     "swing": 8.81,
+     "adr": 105.0,
+     "kast": 88.2,
+     "rating": 1.83
+    },
+    {
+     "player": 14737,
+     "nick": "meyern",
+     "kills": 13,
+     "deaths": 8,
+     "swing": -0.34,
+     "adr": 73.4,
+     "kast": 76.5,
+     "rating": 1.21
+    },
+    {
+     "player": 22613,
+     "nick": "HUASOPEEK",
+     "kills": 8,
+     "deaths": 12,
+     "swing": 0.59,
+     "adr": 63.4,
+     "kast": 64.7,
+     "rating": 1.03
+    },
+    {
+     "player": 20394,
+     "nick": "luchov",
+     "kills": 9,
+     "deaths": 11,
+     "swing": -0.39,
+     "adr": 46.4,
+     "kast": 70.6,
+     "rating": 0.93
+    },
+    {
+     "player": 15060,
+     "nick": "NEUZ",
+     "kills": 13,
+     "deaths": 14,
+     "swing": -0.86,
+     "adr": 95.5,
+     "kast": 64.7,
+     "rating": 1.09
+    },
+    {
+     "player": 15861,
+     "nick": "rate",
+     "kills": 11,
+     "deaths": 13,
+     "swing": -4.79,
+     "adr": 68.2,
+     "kast": 58.8,
+     "rating": 0.82
+    },
+    {
+     "player": 24303,
+     "nick": "hoolig4n",
+     "kills": 11,
+     "deaths": 15,
+     "swing": -4.56,
+     "adr": 75.9,
+     "kast": 70.6,
+     "rating": 0.78
+    },
+    {
+     "player": 21396,
+     "nick": "ariucle",
+     "kills": 6,
+     "deaths": 14,
+     "swing": -4.19,
+     "adr": 39.3,
+     "kast": 64.7,
+     "rating": 0.61
+    },
+    {
+     "player": 18150,
+     "nick": "clouden",
+     "kills": 7,
+     "deaths": 13,
+     "swing": -10.38,
+     "adr": 49.2,
+     "kast": 47.1,
+     "rating": 0.46
+    }
+   ],
+   "t": [
+    {
+     "player": 14737,
+     "nick": "meyern",
+     "kills": 8,
+     "deaths": 1,
+     "swing": 12.13,
+     "adr": 126.2,
+     "kast": 100.0,
+     "rating": 2.47
+    },
+    {
+     "player": 12092,
+     "nick": "max",
+     "kills": 6,
+     "deaths": 1,
+     "swing": 13.09,
+     "adr": 145.4,
+     "kast": 100.0,
+     "rating": 2.46
+    },
+    {
+     "player": 20394,
+     "nick": "luchov",
+     "kills": 5,
+     "deaths": 2,
+     "swing": 8.59,
+     "adr": 66.8,
+     "kast": 80.0,
+     "rating": 1.65
+    },
+    {
+     "player": 14736,
+     "nick": "dgt",
+     "kills": 5,
+     "deaths": 3,
+     "swing": 7.61,
+     "adr": 92.4,
+     "kast": 100.0,
+     "rating": 1.57
+    },
+    {
+     "player": 22613,
+     "nick": "HUASOPEEK",
+     "kills": 1,
+     "deaths": 3,
+     "swing": -2.79,
+     "adr": 53.6,
+     "kast": 80.0,
+     "rating": 0.61
+    },
+    {
+     "player": 15060,
+     "nick": "NEUZ",
+     "kills": 10,
+     "deaths": 9,
+     "swing": 2.86,
+     "adr": 102.2,
+     "kast": 66.7,
+     "rating": 1.18
+    },
+    {
+     "player": 24303,
+     "nick": "hoolig4n",
+     "kills": 9,
+     "deaths": 10,
+     "swing": -3.18,
+     "adr": 83.7,
+     "kast": 75.0,
+     "rating": 0.85
+    },
+    {
+     "player": 15861,
+     "nick": "rate",
+     "kills": 8,
+     "deaths": 8,
+     "swing": -4.79,
+     "adr": 64.5,
+     "kast": 66.7,
+     "rating": 0.84
+    },
+    {
+     "player": 21396,
+     "nick": "ariucle",
+     "kills": 5,
+     "deaths": 9,
+     "swing": -3.11,
+     "adr": 43.2,
+     "kast": 75.0,
+     "rating": 0.75
+    },
+    {
+     "player": 18150,
+     "nick": "clouden",
+     "kills": 6,
+     "deaths": 8,
+     "swing": -10.79,
+     "adr": 49.7,
+     "kast": 41.7,
+     "rating": 0.48
+    }
+   ],
+   "ct": [
+    {
+     "player": 12092,
+     "nick": "max",
+     "kills": 15,
+     "deaths": 5,
+     "swing": 17.36,
+     "adr": 125.1,
+     "kast": 75.0,
+     "rating": 2.66
+    },
+    {
+     "player": 14736,
+     "nick": "dgt",
+     "kills": 13,
+     "deaths": 8,
+     "swing": 9.31,
+     "adr": 110.2,
+     "kast": 83.3,
+     "rating": 1.94
+    },
+    {
+     "player": 22613,
+     "nick": "HUASOPEEK",
+     "kills": 7,
+     "deaths": 9,
+     "swing": 1.99,
+     "adr": 67.5,
+     "kast": 58.3,
+     "rating": 1.21
+    },
+    {
+     "player": 14737,
+     "nick": "meyern",
+     "kills": 5,
+     "deaths": 7,
+     "swing": -5.53,
+     "adr": 51.4,
+     "kast": 66.7,
+     "rating": 0.68
+    },
+    {
+     "player": 20394,
+     "nick": "luchov",
+     "kills": 4,
+     "deaths": 9,
+     "swing": -4.13,
+     "adr": 37.9,
+     "kast": 66.7,
+     "rating": 0.63
+    },
+    {
+     "player": 15060,
+     "nick": "NEUZ",
+     "kills": 3,
+     "deaths": 5,
+     "swing": -9.77,
+     "adr": 79.4,
+     "kast": 60.0,
+     "rating": 0.86
+    },
+    {
+     "player": 15861,
+     "nick": "rate",
+     "kills": 3,
+     "deaths": 5,
+     "swing": -4.82,
+     "adr": 77.2,
+     "kast": 40.0,
+     "rating": 0.78
+    },
+    {
+     "player": 24303,
+     "nick": "hoolig4n",
+     "kills": 2,
+     "deaths": 5,
+     "swing": -7.86,
+     "adr": 57.4,
+     "kast": 60.0,
+     "rating": 0.59
+    },
+    {
+     "player": 18150,
+     "nick": "clouden",
+     "kills": 1,
+     "deaths": 5,
+     "swing": -9.4,
+     "adr": 48.2,
+     "kast": 60.0,
+     "rating": 0.4
+    },
+    {
+     "player": 21396,
+     "nick": "ariucle",
+     "kills": 1,
+     "deaths": 5,
+     "swing": -6.79,
+     "adr": 30.0,
+     "kast": 40.0,
+     "rating": 0.27
+    }
+   ]
+  }
+ },
+ "mvp": {
+  "player": 14736,
+  "nick": "dgt",
+  "maps": 2,
+  "kpr": 1.3,
+  "dpr": 0.58,
+  "kast": 84.8,
+  "mkRating": 1.92,
+  "swing": 12.33,
+  "adr": 126.2,
+  "rating": 2.29
+ }
+}

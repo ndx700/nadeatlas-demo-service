@@ -1,0 +1,49 @@
+{
+ "id": 2399191,
+ "eventId": 9385,
+ "stage": "Playoffs",
+ "time": "2026-10-08T21:00:00Z",
+ "bo": 3,
+ "status": "live",
+ "team1": {
+  "id": 13902,
+  "score": null,
+  "players": []
+ },
+ "team2": {
+  "id": 13726,
+  "score": null,
+  "players": []
+ },
+ "maps": [
+  {
+   "map": "de_ancient",
+   "pick": 13902,
+   "score": [
+    7,
+    5
+   ],
+   "halves": null
+  },
+  {
+   "map": "de_anubis",
+   "pick": 13726,
+   "score": [
+    null,
+    null
+   ],
+   "halves": null
+  },
+  {
+   "map": "de_dust2",
+   "pick": null,
+   "score": [
+    null,
+    null
+   ],
+   "halves": null
+  }
+ ],
+ "stats": {},
+ "mvp": null
+}

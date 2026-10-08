@@ -1,0 +1,1004 @@
+{
+ "id": 2399073,
+ "eventId": 9439,
+ "stage": "Group D",
+ "time": "2026-10-08T11:00:00Z",
+ "bo": 3,
+ "status": "finished",
+ "team1": {
+  "id": 4246,
+  "score": 0,
+  "players": [
+   23477,
+   23359,
+   23112,
+   24923,
+   26861
+  ]
+ },
+ "team2": {
+  "id": 13882,
+  "score": 2,
+  "players": [
+   24247,
+   19617,
+   22650,
+   21651,
+   26816
+  ]
+ },
+ "maps": [
+  {
+   "map": "de_anubis",
+   "pick": 13882,
+   "score": [
+    4,
+    6666
+   ],
+   "halves": [
+    [
+     4,
+     8
+    ],
+    [
+     0,
+     5
+    ]
+   ]
+  },
+  {
+   "map": "de_dust2",
+   "pick": 4246,
+   "score": [
+    10,
+    6666
+   ],
+   "halves": [
+    [
+     4,
+     8
+    ],
+    [
+     6,
+     5
+    ]
+   ]
+  },
+  {
+   "map": "de_ancient",
+   "pick": null,
+   "score": [
+    null,
+    6666
+   ],
+   "halves": null
+  }
+ ],
+ "stats": {
+  "all": {
+   "both": [
+    {
+     "player": 24923,
+     "nick": "nbl",
+     "kills": 35,
+     "deaths": 32,
+     "swing": 1.3,
+     "adr": 84.1,
+     "kast": 65.0,
+     "rating": 1.29
+    },
+    {
+     "player": 23477,
+     "nick": "reyoz",
+     "kills": 26,
+     "deaths": 31,
+     "swing": -2.47,
+     "adr": 66.2,
+     "kast": 62.5,
+     "rating": 0.86
+    },
+    {
+     "player": 26861,
+     "nick": "flawix",
+     "kills": 26,
+     "deaths": 31,
+     "swing": -2.03,
+     "adr": 66.1,
+     "kast": 62.5,
+     "rating": 0.85
+    },
+    {
+     "player": 23112,
+     "nick": "kurosa",
+     "kills": 20,
+     "deaths": 29,
+     "swing": -2.65,
+     "adr": 71.0,
+     "kast": 67.5,
+     "rating": 0.81
+    },
+    {
+     "player": 23359,
+     "nick": "sh1geo",
+     "kills": 15,
+     "deaths": 32,
+     "swing": -5.21,
+     "adr": 48.5,
+     "kast": 67.5,
+     "rating": 0.66
+    },
+    {
+     "player": 22650,
+     "nick": "rendysky",
+     "kills": 42,
+     "deaths": 24,
+     "swing": 6.33,
+     "adr": 103.7,
+     "kast": 82.5,
+     "rating": 1.67
+    },
+    {
+     "player": 19617,
+     "nick": "amster",
+     "kills": 35,
+     "deaths": 21,
+     "swing": 2.86,
+     "adr": 76.0,
+     "kast": 87.5,
+     "rating": 1.3
+    },
+    {
+     "player": 21651,
+     "nick": "kL1o",
+     "kills": 28,
+     "deaths": 28,
+     "swing": 1.53,
+     "adr": 86.0,
+     "kast": 72.5,
+     "rating": 1.14
+    },
+    {
+     "player": 26816,
+     "nick": "stefienson",
+     "kills": 26,
+     "deaths": 30,
+     "swing": 0.52,
+     "adr": 83.8,
+     "kast": 75.0,
+     "rating": 1.09
+    },
+    {
+     "player": 24247,
+     "nick": "skcH",
+     "kills": 23,
+     "deaths": 20,
+     "swing": -0.37,
+     "adr": 63.8,
+     "kast": 87.5,
+     "rating": 1.05
+    }
+   ],
+   "t": [
+    {
+     "player": 24923,
+     "nick": "nbl",
+     "kills": 16,
+     "deaths": 11,
+     "swing": -0.29,
+     "adr": 88.1,
+     "kast": 75.0,
+     "rating": 1.29
+    },
+    {
+     "player": 26861,
+     "nick": "flawix",
+     "kills": 15,
+     "deaths": 10,
+     "swing": 2.63,
+     "adr": 87.5,
+     "kast": 75.0,
+     "rating": 1.24
+    },
+    {
+     "player": 23477,
+     "nick": "reyoz",
+     "kills": 12,
+     "deaths": 11,
+     "swing": -2.27,
+     "adr": 64.0,
+     "kast": 75.0,
+     "rating": 0.9
+    },
+    {
+     "player": 23112,
+     "nick": "kurosa",
+     "kills": 8,
+     "deaths": 9,
+     "swing": -4.6,
+     "adr": 83.6,
+     "kast": 87.5,
+     "rating": 0.78
+    },
+    {
+     "player": 23359,
+     "nick": "sh1geo",
+     "kills": 3,
+     "deaths": 12,
+     "swing": -6.45,
+     "adr": 31.2,
+     "kast": 81.2,
+     "rating": 0.53
+    },
+    {
+     "player": 22650,
+     "nick": "rendysky",
+     "kills": 29,
+     "deaths": 12,
+     "swing": 7.47,
+     "adr": 115.8,
+     "kast": 83.3,
+     "rating": 1.81
+    },
+    {
+     "player": 19617,
+     "nick": "amster",
+     "kills": 23,
+     "deaths": 11,
+     "swing": 3.11,
+     "adr": 81.2,
+     "kast": 95.8,
+     "rating": 1.41
+    },
+    {
+     "player": 26816,
+     "nick": "stefienson",
+     "kills": 19,
+     "deaths": 18,
+     "swing": 1.01,
+     "adr": 99.8,
+     "kast": 83.3,
+     "rating": 1.22
+    },
+    {
+     "player": 24247,
+     "nick": "skcH",
+     "kills": 15,
+     "deaths": 11,
+     "swing": -0.68,
+     "adr": 66.3,
+     "kast": 91.7,
+     "rating": 1.09
+    },
+    {
+     "player": 21651,
+     "nick": "kL1o",
+     "kills": 16,
+     "deaths": 16,
+     "swing": 0.24,
+     "adr": 85.0,
+     "kast": 70.8,
+     "rating": 1.05
+    }
+   ],
+   "ct": [
+    {
+     "player": 24923,
+     "nick": "nbl",
+     "kills": 19,
+     "deaths": 21,
+     "swing": 2.36,
+     "adr": 81.4,
+     "kast": 58.3,
+     "rating": 1.29
+    },
+    {
+     "player": 23477,
+     "nick": "reyoz",
+     "kills": 14,
+     "deaths": 20,
+     "swing": -2.61,
+     "adr": 67.7,
+     "kast": 54.2,
+     "rating": 0.84
+    },
+    {
+     "player": 23112,
+     "nick": "kurosa",
+     "kills": 12,
+     "deaths": 20,
+     "swing": -1.36,
+     "adr": 62.6,
+     "kast": 54.2,
+     "rating": 0.84
+    },
+    {
+     "player": 23359,
+     "nick": "sh1geo",
+     "kills": 12,
+     "deaths": 20,
+     "swing": -4.39,
+     "adr": 60.0,
+     "kast": 58.3,
+     "rating": 0.74
+    },
+    {
+     "player": 26861,
+     "nick": "flawix",
+     "kills": 11,
+     "deaths": 21,
+     "swing": -5.14,
+     "adr": 51.8,
+     "kast": 54.2,
+     "rating": 0.58
+    },
+    {
+     "player": 22650,
+     "nick": "rendysky",
+     "kills": 13,
+     "deaths": 12,
+     "swing": 4.63,
+     "adr": 85.6,
+     "kast": 81.2,
+     "rating": 1.44
+    },
+    {
+     "player": 21651,
+     "nick": "kL1o",
+     "kills": 12,
+     "deaths": 12,
+     "swing": 3.47,
+     "adr": 87.6,
+     "kast": 75.0,
+     "rating": 1.28
+    },
+    {
+     "player": 19617,
+     "nick": "amster",
+     "kills": 12,
+     "deaths": 10,
+     "swing": 2.49,
+     "adr": 68.0,
+     "kast": 75.0,
+     "rating": 1.15
+    },
+    {
+     "player": 24247,
+     "nick": "skcH",
+     "kills": 8,
+     "deaths": 9,
+     "swing": 0.11,
+     "adr": 59.9,
+     "kast": 81.2,
+     "rating": 1.0
+    },
+    {
+     "player": 26816,
+     "nick": "stefienson",
+     "kills": 7,
+     "deaths": 12,
+     "swing": -0.21,
+     "adr": 59.8,
+     "kast": 62.5,
+     "rating": 0.9
+    }
+   ]
+  },
+  "de_anubis": {
+   "both": [
+    {
+     "player": 24923,
+     "nick": "nbl",
+     "kills": 13,
+     "deaths": 15,
+     "swing": 1.27,
+     "adr": 72.8,
+     "kast": 58.8,
+     "rating": 1.17
+    },
+    {
+     "player": 26861,
+     "nick": "flawix",
+     "kills": 11,
+     "deaths": 15,
+     "swing": -0.3,
+     "adr": 64.4,
+     "kast": 58.8,
+     "rating": 0.91
+    },
+    {
+     "player": 23477,
+     "nick": "reyoz",
+     "kills": 9,
+     "deaths": 15,
+     "swing": -6.1,
+     "adr": 64.6,
+     "kast": 58.8,
+     "rating": 0.65
+    },
+    {
+     "player": 23112,
+     "nick": "kurosa",
+     "kills": 8,
+     "deaths": 14,
+     "swing": -6.06,
+     "adr": 64.9,
+     "kast": 58.8,
+     "rating": 0.63
+    },
+    {
+     "player": 23359,
+     "nick": "sh1geo",
+     "kills": 5,
+     "deaths": 15,
+     "swing": -10.14,
+     "adr": 43.8,
+     "kast": 52.9,
+     "rating": 0.37
+    },
+    {
+     "player": 26816,
+     "nick": "stefienson",
+     "kills": 16,
+     "deaths": 11,
+     "swing": 7.85,
+     "adr": 110.2,
+     "kast": 88.2,
+     "rating": 1.94
+    },
+    {
+     "player": 22650,
+     "nick": "rendysky",
+     "kills": 18,
+     "deaths": 8,
+     "swing": 7.58,
+     "adr": 105.2,
+     "kast": 88.2,
+     "rating": 1.79
+    },
+    {
+     "player": 21651,
+     "nick": "kL1o",
+     "kills": 15,
+     "deaths": 10,
+     "swing": 5.24,
+     "adr": 104.9,
+     "kast": 88.2,
+     "rating": 1.55
+    },
+    {
+     "player": 19617,
+     "nick": "amster",
+     "kills": 15,
+     "deaths": 9,
+     "swing": 0.63,
+     "adr": 77.7,
+     "kast": 94.1,
+     "rating": 1.14
+    },
+    {
+     "player": 24247,
+     "nick": "skcH",
+     "kills": 10,
+     "deaths": 9,
+     "swing": 0.03,
+     "adr": 64.2,
+     "kast": 88.2,
+     "rating": 1.06
+    }
+   ],
+   "t": [
+    {
+     "player": 26861,
+     "nick": "flawix",
+     "kills": 4,
+     "deaths": 5,
+     "swing": 3.9,
+     "adr": 80.4,
+     "kast": 60.0,
+     "rating": 1.17
+    },
+    {
+     "player": 23477,
+     "nick": "reyoz",
+     "kills": 3,
+     "deaths": 4,
+     "swing": -8.47,
+     "adr": 54.4,
+     "kast": 80.0,
+     "rating": 0.62
+    },
+    {
+     "player": 23112,
+     "nick": "kurosa",
+     "kills": 2,
+     "deaths": 5,
+     "swing": -8.46,
+     "adr": 68.8,
+     "kast": 80.0,
+     "rating": 0.49
+    },
+    {
+     "player": 24923,
+     "nick": "nbl",
+     "kills": 1,
+     "deaths": 5,
+     "swing": -7.41,
+     "adr": 36.0,
+     "kast": 40.0,
+     "rating": 0.27
+    },
+    {
+     "player": 23359,
+     "nick": "sh1geo",
+     "kills": 1,
+     "deaths": 5,
+     "swing": -12.65,
+     "adr": 35.6,
+     "kast": 60.0,
+     "rating": 0.23
+    },
+    {
+     "player": 26816,
+     "nick": "stefienson",
+     "kills": 11,
+     "deaths": 8,
+     "swing": 5.08,
+     "adr": 103.0,
+     "kast": 83.3,
+     "rating": 1.72
+    },
+    {
+     "player": 22650,
+     "nick": "rendysky",
+     "kills": 12,
+     "deaths": 6,
+     "swing": 8.4,
+     "adr": 106.4,
+     "kast": 83.3,
+     "rating": 1.72
+    },
+    {
+     "player": 21651,
+     "nick": "kL1o",
+     "kills": 10,
+     "deaths": 7,
+     "swing": 5.49,
+     "adr": 96.2,
+     "kast": 91.7,
+     "rating": 1.53
+    },
+    {
+     "player": 24247,
+     "nick": "skcH",
+     "kills": 8,
+     "deaths": 7,
+     "swing": -1.85,
+     "adr": 67.0,
+     "kast": 91.7,
+     "rating": 1.01
+    },
+    {
+     "player": 19617,
+     "nick": "amster",
+     "kills": 9,
+     "deaths": 7,
+     "swing": -0.68,
+     "adr": 77.7,
+     "kast": 91.7,
+     "rating": 1.0
+    }
+   ],
+   "ct": [
+    {
+     "player": 24923,
+     "nick": "nbl",
+     "kills": 12,
+     "deaths": 10,
+     "swing": 4.89,
+     "adr": 88.2,
+     "kast": 66.7,
+     "rating": 1.55
+    },
+    {
+     "player": 26861,
+     "nick": "flawix",
+     "kills": 7,
+     "deaths": 10,
+     "swing": -2.05,
+     "adr": 57.8,
+     "kast": 58.3,
+     "rating": 0.8
+    },
+    {
+     "player": 23112,
+     "nick": "kurosa",
+     "kills": 6,
+     "deaths": 9,
+     "swing": -5.07,
+     "adr": 63.3,
+     "kast": 50.0,
+     "rating": 0.68
+    },
+    {
+     "player": 23477,
+     "nick": "reyoz",
+     "kills": 6,
+     "deaths": 11,
+     "swing": -5.11,
+     "adr": 68.8,
+     "kast": 50.0,
+     "rating": 0.66
+    },
+    {
+     "player": 23359,
+     "nick": "sh1geo",
+     "kills": 4,
+     "deaths": 10,
+     "swing": -9.1,
+     "adr": 47.2,
+     "kast": 50.0,
+     "rating": 0.43
+    },
+    {
+     "player": 26816,
+     "nick": "stefienson",
+     "kills": 5,
+     "deaths": 3,
+     "swing": 14.5,
+     "adr": 127.4,
+     "kast": 100.0,
+     "rating": 2.45
+    },
+    {
+     "player": 22650,
+     "nick": "rendysky",
+     "kills": 6,
+     "deaths": 2,
+     "swing": 5.6,
+     "adr": 102.2,
+     "kast": 100.0,
+     "rating": 1.96
+    },
+    {
+     "player": 21651,
+     "nick": "kL1o",
+     "kills": 5,
+     "deaths": 3,
+     "swing": 4.64,
+     "adr": 125.8,
+     "kast": 80.0,
+     "rating": 1.58
+    },
+    {
+     "player": 19617,
+     "nick": "amster",
+     "kills": 6,
+     "deaths": 2,
+     "swing": 3.77,
+     "adr": 77.8,
+     "kast": 100.0,
+     "rating": 1.49
+    },
+    {
+     "player": 24247,
+     "nick": "skcH",
+     "kills": 2,
+     "deaths": 2,
+     "swing": 4.54,
+     "adr": 57.6,
+     "kast": 80.0,
+     "rating": 1.19
+    }
+   ]
+  },
+  "de_dust2": {
+   "both": [
+    {
+     "player": 24923,
+     "nick": "nbl",
+     "kills": 22,
+     "deaths": 17,
+     "swing": 1.32,
+     "adr": 92.4,
+     "kast": 69.6,
+     "rating": 1.46
+    },
+    {
+     "player": 23477,
+     "nick": "reyoz",
+     "kills": 17,
+     "deaths": 16,
+     "swing": 0.21,
+     "adr": 67.4,
+     "kast": 65.2,
+     "rating": 1.04
+    },
+    {
+     "player": 23112,
+     "nick": "kurosa",
+     "kills": 12,
+     "deaths": 15,
+     "swing": -0.14,
+     "adr": 75.5,
+     "kast": 73.9,
+     "rating": 0.96
+    },
+    {
+     "player": 23359,
+     "nick": "sh1geo",
+     "kills": 10,
+     "deaths": 17,
+     "swing": -1.57,
+     "adr": 52.0,
+     "kast": 78.3,
+     "rating": 0.92
+    },
+    {
+     "player": 26861,
+     "nick": "flawix",
+     "kills": 15,
+     "deaths": 16,
+     "swing": -3.32,
+     "adr": 67.3,
+     "kast": 65.2,
+     "rating": 0.82
+    },
+    {
+     "player": 22650,
+     "nick": "rendysky",
+     "kills": 24,
+     "deaths": 16,
+     "swing": 5.41,
+     "adr": 102.6,
+     "kast": 78.3,
+     "rating": 1.57
+    },
+    {
+     "player": 19617,
+     "nick": "amster",
+     "kills": 20,
+     "deaths": 12,
+     "swing": 4.51,
+     "adr": 74.7,
+     "kast": 82.6,
+     "rating": 1.44
+    },
+    {
+     "player": 24247,
+     "nick": "skcH",
+     "kills": 13,
+     "deaths": 11,
+     "swing": -0.66,
+     "adr": 63.4,
+     "kast": 87.0,
+     "rating": 1.06
+    },
+    {
+     "player": 21651,
+     "nick": "kL1o",
+     "kills": 13,
+     "deaths": 18,
+     "swing": -1.21,
+     "adr": 72.1,
+     "kast": 60.9,
+     "rating": 0.9
+    },
+    {
+     "player": 26816,
+     "nick": "stefienson",
+     "kills": 10,
+     "deaths": 19,
+     "swing": -4.9,
+     "adr": 64.3,
+     "kast": 65.2,
+     "rating": 0.59
+    }
+   ],
+   "t": [
+    {
+     "player": 24923,
+     "nick": "nbl",
+     "kills": 15,
+     "deaths": 6,
+     "swing": 2.94,
+     "adr": 111.8,
+     "kast": 90.9,
+     "rating": 1.91
+    },
+    {
+     "player": 26861,
+     "nick": "flawix",
+     "kills": 11,
+     "deaths": 5,
+     "swing": 2.05,
+     "adr": 90.7,
+     "kast": 81.8,
+     "rating": 1.27
+    },
+    {
+     "player": 23477,
+     "nick": "reyoz",
+     "kills": 9,
+     "deaths": 7,
+     "swing": 0.55,
+     "adr": 68.4,
+     "kast": 72.7,
+     "rating": 1.04
+    },
+    {
+     "player": 23112,
+     "nick": "kurosa",
+     "kills": 6,
+     "deaths": 4,
+     "swing": -2.85,
+     "adr": 90.4,
+     "kast": 90.9,
+     "rating": 0.91
+    },
+    {
+     "player": 23359,
+     "nick": "sh1geo",
+     "kills": 2,
+     "deaths": 7,
+     "swing": -3.63,
+     "adr": 29.3,
+     "kast": 90.9,
+     "rating": 0.7
+    },
+    {
+     "player": 22650,
+     "nick": "rendysky",
+     "kills": 17,
+     "deaths": 6,
+     "swing": 6.53,
+     "adr": 125.2,
+     "kast": 83.3,
+     "rating": 1.92
+    },
+    {
+     "player": 19617,
+     "nick": "amster",
+     "kills": 14,
+     "deaths": 4,
+     "swing": 6.91,
+     "adr": 84.8,
+     "kast": 100.0,
+     "rating": 1.83
+    },
+    {
+     "player": 24247,
+     "nick": "skcH",
+     "kills": 7,
+     "deaths": 4,
+     "swing": 0.48,
+     "adr": 65.7,
+     "kast": 91.7,
+     "rating": 1.18
+    },
+    {
+     "player": 26816,
+     "nick": "stefienson",
+     "kills": 8,
+     "deaths": 10,
+     "swing": -3.06,
+     "adr": 96.6,
+     "kast": 83.3,
+     "rating": 0.76
+    },
+    {
+     "player": 21651,
+     "nick": "kL1o",
+     "kills": 6,
+     "deaths": 9,
+     "swing": -5.02,
+     "adr": 73.8,
+     "kast": 50.0,
+     "rating": 0.67
+    }
+   ],
+   "ct": [
+    {
+     "player": 23359,
+     "nick": "sh1geo",
+     "kills": 8,
+     "deaths": 10,
+     "swing": 0.31,
+     "adr": 72.8,
+     "kast": 66.7,
+     "rating": 1.12
+    },
+    {
+     "player": 24923,
+     "nick": "nbl",
+     "kills": 7,
+     "deaths": 11,
+     "swing": -0.17,
+     "adr": 74.6,
+     "kast": 50.0,
+     "rating": 1.05
+    },
+    {
+     "player": 23477,
+     "nick": "reyoz",
+     "kills": 8,
+     "deaths": 9,
+     "swing": -0.1,
+     "adr": 66.5,
+     "kast": 58.3,
+     "rating": 1.04
+    },
+    {
+     "player": 23112,
+     "nick": "kurosa",
+     "kills": 6,
+     "deaths": 11,
+     "swing": 2.35,
+     "adr": 61.9,
+     "kast": 58.3,
+     "rating": 1.01
+    },
+    {
+     "player": 26861,
+     "nick": "flawix",
+     "kills": 4,
+     "deaths": 11,
+     "swing": -8.24,
+     "adr": 45.8,
+     "kast": 50.0,
+     "rating": 0.42
+    },
+    {
+     "player": 22650,
+     "nick": "rendysky",
+     "kills": 7,
+     "deaths": 10,
+     "swing": 4.19,
+     "adr": 78.0,
+     "kast": 72.7,
+     "rating": 1.19
+    },
+    {
+     "player": 21651,
+     "nick": "kL1o",
+     "kills": 7,
+     "deaths": 9,
+     "swing": 2.94,
+     "adr": 70.3,
+     "kast": 72.7,
+     "rating": 1.15
+    },
+    {
+     "player": 19617,
+     "nick": "amster",
+     "kills": 6,
+     "deaths": 8,
+     "swing": 1.91,
+     "adr": 63.5,
+     "kast": 63.6,
+     "rating": 1.01
+    },
+    {
+     "player": 24247,
+     "nick": "skcH",
+     "kills": 6,
+     "deaths": 7,
+     "swing": -1.91,
+     "adr": 60.9,
+     "kast": 81.8,
+     "rating": 0.93
+    },
+    {
+     "player": 26816,
+     "nick": "stefienson",
+     "kills": 2,
+     "deaths": 9,
+     "swing": -6.89,
+     "adr": 29.1,
+     "kast": 45.5,
+     "rating": 0.39
+    }
+   ]
+  }
+ },
+ "mvp": null
+}

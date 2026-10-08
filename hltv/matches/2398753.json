@@ -1,8 +1,8 @@
 {
  "id": 2398753,
  "eventId": 8244,
- "stage": "Quarter-finals",
- "time": "2026-10-10T00:00:00+08:00",
+ "stage": "Playoffs",
+ "time": "2026-10-09T16:00:00Z",
  "bo": 3,
  "status": "upcoming",
  "team1": {
@@ -15,14 +15,36 @@
   "score": null,
   "players": []
  },
- "maps": [],
- "stats": {
-  "all": {
-   "both": [],
-   "t": [],
-   "ct": []
+ "maps": [
+  {
+   "map": "de_tba",
+   "pick": null,
+   "score": [
+    null,
+    null
+   ],
+   "halves": null
+  },
+  {
+   "map": "de_tba",
+   "pick": null,
+   "score": [
+    null,
+    null
+   ],
+   "halves": null
+  },
+  {
+   "map": "de_tba",
+   "pick": null,
+   "score": [
+    745745,
+    298298
+   ],
+   "halves": null
   }
- },
+ ],
+ "stats": {},
  "mvp": null,
  "highlight": null,
  "h2h": {

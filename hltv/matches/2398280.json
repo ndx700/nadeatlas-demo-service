@@ -1,0 +1,1004 @@
+{
+ "id": 2398280,
+ "eventId": 9410,
+ "stage": "Playoffs",
+ "time": "2026-09-16T00:30:00Z",
+ "bo": 3,
+ "status": "finished",
+ "team1": {
+  "id": 13884,
+  "score": 2,
+  "players": [
+   26721,
+   26722,
+   25999,
+   24886,
+   24888
+  ]
+ },
+ "team2": {
+  "id": 14043,
+  "score": 0,
+  "players": [
+   26767,
+   26768,
+   26771,
+   26770,
+   26769
+  ]
+ },
+ "maps": [
+  {
+   "map": "de_mirage",
+   "pick": 14043,
+   "score": [
+    13,
+    8
+   ],
+   "halves": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     3
+    ]
+   ]
+  },
+  {
+   "map": "de_inferno",
+   "pick": 13884,
+   "score": [
+    13,
+    6
+   ],
+   "halves": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     1
+    ]
+   ]
+  },
+  {
+   "map": "de_anubis",
+   "pick": null,
+   "score": [
+    null,
+    null
+   ],
+   "halves": null
+  }
+ ],
+ "stats": {
+  "all": {
+   "both": [
+    {
+     "player": 24886,
+     "nick": "relan",
+     "kills": 42,
+     "deaths": 20,
+     "swing": 5.97,
+     "adr": 113.4,
+     "kast": 80.0,
+     "rating": 1.9
+    },
+    {
+     "player": 25999,
+     "nick": "k6rdon",
+     "kills": 31,
+     "deaths": 20,
+     "swing": 3.13,
+     "adr": 66.3,
+     "kast": 77.5,
+     "rating": 1.33
+    },
+    {
+     "player": 26721,
+     "nick": "awayy",
+     "kills": 27,
+     "deaths": 23,
+     "swing": 2.59,
+     "adr": 72.3,
+     "kast": 70.0,
+     "rating": 1.17
+    },
+    {
+     "player": 24888,
+     "nick": "Bizarre666",
+     "kills": 27,
+     "deaths": 25,
+     "swing": 2.97,
+     "adr": 72.5,
+     "kast": 77.5,
+     "rating": 1.16
+    },
+    {
+     "player": 26722,
+     "nick": "Sanzh1k33",
+     "kills": 18,
+     "deaths": 27,
+     "swing": -3.4,
+     "adr": 61.5,
+     "kast": 75.0,
+     "rating": 0.76
+    },
+    {
+     "player": 26767,
+     "nick": "Hunter",
+     "kills": 30,
+     "deaths": 28,
+     "swing": 3.32,
+     "adr": 79.6,
+     "kast": 67.5,
+     "rating": 1.24
+    },
+    {
+     "player": 26769,
+     "nick": "Gingjaa",
+     "kills": 22,
+     "deaths": 28,
+     "swing": -0.93,
+     "adr": 74.3,
+     "kast": 67.5,
+     "rating": 0.93
+    },
+    {
+     "player": 26771,
+     "nick": "Intense",
+     "kills": 21,
+     "deaths": 28,
+     "swing": -3.68,
+     "adr": 71.6,
+     "kast": 72.5,
+     "rating": 0.84
+    },
+    {
+     "player": 26770,
+     "nick": "Alo",
+     "kills": 23,
+     "deaths": 32,
+     "swing": -4.75,
+     "adr": 51.1,
+     "kast": 52.5,
+     "rating": 0.68
+    },
+    {
+     "player": 26768,
+     "nick": "Glase",
+     "kills": 18,
+     "deaths": 29,
+     "swing": -5.23,
+     "adr": 51.8,
+     "kast": 52.5,
+     "rating": 0.64
+    }
+   ],
+   "t": [
+    {
+     "player": 24886,
+     "nick": "relan",
+     "kills": 26,
+     "deaths": 9,
+     "swing": 10.07,
+     "adr": 146.2,
+     "kast": 78.9,
+     "rating": 2.44
+    },
+    {
+     "player": 26721,
+     "nick": "awayy",
+     "kills": 13,
+     "deaths": 7,
+     "swing": 2.8,
+     "adr": 64.7,
+     "kast": 78.9,
+     "rating": 1.16
+    },
+    {
+     "player": 24888,
+     "nick": "Bizarre666",
+     "kills": 14,
+     "deaths": 13,
+     "swing": 1.95,
+     "adr": 79.5,
+     "kast": 78.9,
+     "rating": 1.02
+    },
+    {
+     "player": 26722,
+     "nick": "Sanzh1k33",
+     "kills": 12,
+     "deaths": 11,
+     "swing": -2.97,
+     "adr": 80.8,
+     "kast": 94.7,
+     "rating": 0.91
+    },
+    {
+     "player": 25999,
+     "nick": "k6rdon",
+     "kills": 14,
+     "deaths": 12,
+     "swing": -2.75,
+     "adr": 64.9,
+     "kast": 78.9,
+     "rating": 0.87
+    },
+    {
+     "player": 26767,
+     "nick": "Hunter",
+     "kills": 15,
+     "deaths": 11,
+     "swing": 3.43,
+     "adr": 79.3,
+     "kast": 66.7,
+     "rating": 1.18
+    },
+    {
+     "player": 26771,
+     "nick": "Intense",
+     "kills": 12,
+     "deaths": 12,
+     "swing": -1.75,
+     "adr": 74.3,
+     "kast": 90.5,
+     "rating": 0.92
+    },
+    {
+     "player": 26769,
+     "nick": "Gingjaa",
+     "kills": 12,
+     "deaths": 13,
+     "swing": -2.24,
+     "adr": 82.2,
+     "kast": 71.4,
+     "rating": 0.83
+    },
+    {
+     "player": 26770,
+     "nick": "Alo",
+     "kills": 15,
+     "deaths": 16,
+     "swing": -6.54,
+     "adr": 57.3,
+     "kast": 57.1,
+     "rating": 0.65
+    },
+    {
+     "player": 26768,
+     "nick": "Glase",
+     "kills": 9,
+     "deaths": 14,
+     "swing": -6.11,
+     "adr": 49.0,
+     "kast": 57.1,
+     "rating": 0.56
+    }
+   ],
+   "ct": [
+    {
+     "player": 25999,
+     "nick": "k6rdon",
+     "kills": 17,
+     "deaths": 8,
+     "swing": 8.46,
+     "adr": 67.5,
+     "kast": 76.2,
+     "rating": 1.75
+    },
+    {
+     "player": 24886,
+     "nick": "relan",
+     "kills": 16,
+     "deaths": 11,
+     "swing": 2.27,
+     "adr": 83.8,
+     "kast": 81.0,
+     "rating": 1.41
+    },
+    {
+     "player": 24888,
+     "nick": "Bizarre666",
+     "kills": 13,
+     "deaths": 12,
+     "swing": 3.89,
+     "adr": 66.1,
+     "kast": 76.2,
+     "rating": 1.29
+    },
+    {
+     "player": 26721,
+     "nick": "awayy",
+     "kills": 14,
+     "deaths": 16,
+     "swing": 2.4,
+     "adr": 79.2,
+     "kast": 61.9,
+     "rating": 1.18
+    },
+    {
+     "player": 26722,
+     "nick": "Sanzh1k33",
+     "kills": 6,
+     "deaths": 16,
+     "swing": -3.78,
+     "adr": 44.0,
+     "kast": 57.1,
+     "rating": 0.63
+    },
+    {
+     "player": 26767,
+     "nick": "Hunter",
+     "kills": 15,
+     "deaths": 17,
+     "swing": 3.2,
+     "adr": 79.9,
+     "kast": 68.4,
+     "rating": 1.31
+    },
+    {
+     "player": 26769,
+     "nick": "Gingjaa",
+     "kills": 10,
+     "deaths": 15,
+     "swing": 0.52,
+     "adr": 65.5,
+     "kast": 63.2,
+     "rating": 1.04
+    },
+    {
+     "player": 26771,
+     "nick": "Intense",
+     "kills": 9,
+     "deaths": 16,
+     "swing": -5.8,
+     "adr": 68.5,
+     "kast": 52.6,
+     "rating": 0.75
+    },
+    {
+     "player": 26770,
+     "nick": "Alo",
+     "kills": 8,
+     "deaths": 16,
+     "swing": -2.77,
+     "adr": 44.3,
+     "kast": 47.4,
+     "rating": 0.72
+    },
+    {
+     "player": 26768,
+     "nick": "Glase",
+     "kills": 9,
+     "deaths": 15,
+     "swing": -4.26,
+     "adr": 54.8,
+     "kast": 47.4,
+     "rating": 0.72
+    }
+   ]
+  },
+  "de_mirage": {
+   "both": [
+    {
+     "player": 24886,
+     "nick": "relan",
+     "kills": 26,
+     "deaths": 11,
+     "swing": 6.68,
+     "adr": 141.4,
+     "kast": 81.0,
+     "rating": 2.17
+    },
+    {
+     "player": 26721,
+     "nick": "awayy",
+     "kills": 14,
+     "deaths": 13,
+     "swing": 1.13,
+     "adr": 74.0,
+     "kast": 71.4,
+     "rating": 1.13
+    },
+    {
+     "player": 24888,
+     "nick": "Bizarre666",
+     "kills": 13,
+     "deaths": 12,
+     "swing": 1.92,
+     "adr": 61.9,
+     "kast": 71.4,
+     "rating": 1.05
+    },
+    {
+     "player": 25999,
+     "nick": "k6rdon",
+     "kills": 14,
+     "deaths": 12,
+     "swing": -0.85,
+     "adr": 55.9,
+     "kast": 76.2,
+     "rating": 1.0
+    },
+    {
+     "player": 26722,
+     "nick": "Sanzh1k33",
+     "kills": 10,
+     "deaths": 14,
+     "swing": -1.97,
+     "adr": 61.4,
+     "kast": 81.0,
+     "rating": 0.83
+    },
+    {
+     "player": 26771,
+     "nick": "Intense",
+     "kills": 13,
+     "deaths": 15,
+     "swing": -0.18,
+     "adr": 84.5,
+     "kast": 76.2,
+     "rating": 1.14
+    },
+    {
+     "player": 26767,
+     "nick": "Hunter",
+     "kills": 14,
+     "deaths": 17,
+     "swing": -0.96,
+     "adr": 77.0,
+     "kast": 61.9,
+     "rating": 1.01
+    },
+    {
+     "player": 26769,
+     "nick": "Gingjaa",
+     "kills": 14,
+     "deaths": 16,
+     "swing": -1.9,
+     "adr": 71.9,
+     "kast": 61.9,
+     "rating": 0.92
+    },
+    {
+     "player": 26768,
+     "nick": "Glase",
+     "kills": 12,
+     "deaths": 12,
+     "swing": 0.43,
+     "adr": 50.6,
+     "kast": 66.7,
+     "rating": 0.91
+    },
+    {
+     "player": 26770,
+     "nick": "Alo",
+     "kills": 9,
+     "deaths": 17,
+     "swing": -4.3,
+     "adr": 45.0,
+     "kast": 42.9,
+     "rating": 0.61
+    }
+   ],
+   "t": [
+    {
+     "player": 24886,
+     "nick": "relan",
+     "kills": 16,
+     "deaths": 6,
+     "swing": 7.1,
+     "adr": 158.0,
+     "kast": 83.3,
+     "rating": 2.29
+    },
+    {
+     "player": 26722,
+     "nick": "Sanzh1k33",
+     "kills": 7,
+     "deaths": 6,
+     "swing": -0.05,
+     "adr": 73.4,
+     "kast": 100.0,
+     "rating": 1.06
+    },
+    {
+     "player": 24888,
+     "nick": "Bizarre666",
+     "kills": 8,
+     "deaths": 8,
+     "swing": 0.19,
+     "adr": 62.0,
+     "kast": 75.0,
+     "rating": 0.91
+    },
+    {
+     "player": 26721,
+     "nick": "awayy",
+     "kills": 7,
+     "deaths": 5,
+     "swing": -3.13,
+     "adr": 55.5,
+     "kast": 75.0,
+     "rating": 0.85
+    },
+    {
+     "player": 25999,
+     "nick": "k6rdon",
+     "kills": 9,
+     "deaths": 9,
+     "swing": -5.27,
+     "adr": 70.6,
+     "kast": 75.0,
+     "rating": 0.79
+    },
+    {
+     "player": 26771,
+     "nick": "Intense",
+     "kills": 6,
+     "deaths": 6,
+     "swing": 2.03,
+     "adr": 95.1,
+     "kast": 100.0,
+     "rating": 1.32
+    },
+    {
+     "player": 26767,
+     "nick": "Hunter",
+     "kills": 6,
+     "deaths": 6,
+     "swing": -5.65,
+     "adr": 79.3,
+     "kast": 55.6,
+     "rating": 0.83
+    },
+    {
+     "player": 26768,
+     "nick": "Glase",
+     "kills": 5,
+     "deaths": 4,
+     "swing": -1.63,
+     "adr": 43.9,
+     "kast": 77.8,
+     "rating": 0.7
+    },
+    {
+     "player": 26769,
+     "nick": "Gingjaa",
+     "kills": 6,
+     "deaths": 7,
+     "swing": -4.98,
+     "adr": 82.0,
+     "kast": 66.7,
+     "rating": 0.69
+    },
+    {
+     "player": 26770,
+     "nick": "Alo",
+     "kills": 5,
+     "deaths": 7,
+     "swing": -7.45,
+     "adr": 49.9,
+     "kast": 33.3,
+     "rating": 0.5
+    }
+   ],
+   "ct": [
+    {
+     "player": 24886,
+     "nick": "relan",
+     "kills": 10,
+     "deaths": 5,
+     "swing": 6.12,
+     "adr": 119.3,
+     "kast": 77.8,
+     "rating": 2.02
+    },
+    {
+     "player": 26721,
+     "nick": "awayy",
+     "kills": 7,
+     "deaths": 8,
+     "swing": 6.8,
+     "adr": 98.8,
+     "kast": 66.7,
+     "rating": 1.5
+    },
+    {
+     "player": 25999,
+     "nick": "k6rdon",
+     "kills": 5,
+     "deaths": 3,
+     "swing": 5.05,
+     "adr": 36.3,
+     "kast": 77.8,
+     "rating": 1.29
+    },
+    {
+     "player": 24888,
+     "nick": "Bizarre666",
+     "kills": 5,
+     "deaths": 4,
+     "swing": 4.23,
+     "adr": 61.8,
+     "kast": 66.7,
+     "rating": 1.23
+    },
+    {
+     "player": 26722,
+     "nick": "Sanzh1k33",
+     "kills": 3,
+     "deaths": 8,
+     "swing": -4.53,
+     "adr": 45.4,
+     "kast": 55.6,
+     "rating": 0.52
+    },
+    {
+     "player": 26767,
+     "nick": "Hunter",
+     "kills": 8,
+     "deaths": 11,
+     "swing": 2.55,
+     "adr": 75.2,
+     "kast": 66.7,
+     "rating": 1.14
+    },
+    {
+     "player": 26769,
+     "nick": "Gingjaa",
+     "kills": 8,
+     "deaths": 9,
+     "swing": 0.41,
+     "adr": 64.3,
+     "kast": 58.3,
+     "rating": 1.1
+    },
+    {
+     "player": 26768,
+     "nick": "Glase",
+     "kills": 7,
+     "deaths": 8,
+     "swing": 1.97,
+     "adr": 55.6,
+     "kast": 58.3,
+     "rating": 1.07
+    },
+    {
+     "player": 26771,
+     "nick": "Intense",
+     "kills": 7,
+     "deaths": 9,
+     "swing": -1.84,
+     "adr": 76.5,
+     "kast": 58.3,
+     "rating": 1.0
+    },
+    {
+     "player": 26770,
+     "nick": "Alo",
+     "kills": 4,
+     "deaths": 10,
+     "swing": -1.95,
+     "adr": 41.3,
+     "kast": 50.0,
+     "rating": 0.68
+    }
+   ]
+  },
+  "de_inferno": {
+   "both": [
+    {
+     "player": 25999,
+     "nick": "k6rdon",
+     "kills": 17,
+     "deaths": 8,
+     "swing": 7.54,
+     "adr": 77.7,
+     "kast": 78.9,
+     "rating": 1.73
+    },
+    {
+     "player": 24886,
+     "nick": "relan",
+     "kills": 16,
+     "deaths": 9,
+     "swing": 5.19,
+     "adr": 82.5,
+     "kast": 78.9,
+     "rating": 1.64
+    },
+    {
+     "player": 26721,
+     "nick": "awayy",
+     "kills": 13,
+     "deaths": 10,
+     "swing": 4.2,
+     "adr": 70.4,
+     "kast": 68.4,
+     "rating": 1.3
+    },
+    {
+     "player": 24888,
+     "nick": "Bizarre666",
+     "kills": 14,
+     "deaths": 13,
+     "swing": 4.12,
+     "adr": 84.2,
+     "kast": 84.2,
+     "rating": 1.3
+    },
+    {
+     "player": 26722,
+     "nick": "Sanzh1k33",
+     "kills": 8,
+     "deaths": 13,
+     "swing": -4.97,
+     "adr": 61.6,
+     "kast": 68.4,
+     "rating": 0.69
+    },
+    {
+     "player": 26767,
+     "nick": "Hunter",
+     "kills": 16,
+     "deaths": 11,
+     "swing": 8.06,
+     "adr": 82.6,
+     "kast": 73.7,
+     "rating": 1.57
+    },
+    {
+     "player": 26769,
+     "nick": "Gingjaa",
+     "kills": 8,
+     "deaths": 12,
+     "swing": 0.14,
+     "adr": 76.9,
+     "kast": 73.7,
+     "rating": 0.93
+    },
+    {
+     "player": 26770,
+     "nick": "Alo",
+     "kills": 14,
+     "deaths": 15,
+     "swing": -5.25,
+     "adr": 57.9,
+     "kast": 63.2,
+     "rating": 0.77
+    },
+    {
+     "player": 26771,
+     "nick": "Intense",
+     "kills": 8,
+     "deaths": 13,
+     "swing": -7.54,
+     "adr": 57.3,
+     "kast": 68.4,
+     "rating": 0.57
+    },
+    {
+     "player": 26768,
+     "nick": "Glase",
+     "kills": 6,
+     "deaths": 17,
+     "swing": -11.49,
+     "adr": 53.1,
+     "kast": 36.8,
+     "rating": 0.41
+    }
+   ],
+   "t": [
+    {
+     "player": 24886,
+     "nick": "relan",
+     "kills": 10,
+     "deaths": 3,
+     "swing": 15.15,
+     "adr": 126.0,
+     "kast": 71.4,
+     "rating": 2.7
+    },
+    {
+     "player": 26721,
+     "nick": "awayy",
+     "kills": 6,
+     "deaths": 2,
+     "swing": 12.96,
+     "adr": 80.4,
+     "kast": 85.7,
+     "rating": 1.86
+    },
+    {
+     "player": 24888,
+     "nick": "Bizarre666",
+     "kills": 6,
+     "deaths": 5,
+     "swing": 4.97,
+     "adr": 109.6,
+     "kast": 85.7,
+     "rating": 1.25
+    },
+    {
+     "player": 25999,
+     "nick": "k6rdon",
+     "kills": 5,
+     "deaths": 3,
+     "swing": 1.59,
+     "adr": 55.3,
+     "kast": 85.7,
+     "rating": 1.05
+    },
+    {
+     "player": 26722,
+     "nick": "Sanzh1k33",
+     "kills": 5,
+     "deaths": 5,
+     "swing": -7.98,
+     "adr": 93.4,
+     "kast": 85.7,
+     "rating": 0.7
+    },
+    {
+     "player": 26767,
+     "nick": "Hunter",
+     "kills": 9,
+     "deaths": 5,
+     "swing": 10.24,
+     "adr": 79.3,
+     "kast": 75.0,
+     "rating": 1.57
+    },
+    {
+     "player": 26769,
+     "nick": "Gingjaa",
+     "kills": 6,
+     "deaths": 6,
+     "swing": -0.19,
+     "adr": 82.4,
+     "kast": 75.0,
+     "rating": 0.93
+    },
+    {
+     "player": 26770,
+     "nick": "Alo",
+     "kills": 10,
+     "deaths": 9,
+     "swing": -5.86,
+     "adr": 62.9,
+     "kast": 75.0,
+     "rating": 0.78
+    },
+    {
+     "player": 26771,
+     "nick": "Intense",
+     "kills": 6,
+     "deaths": 6,
+     "swing": -4.59,
+     "adr": 58.8,
+     "kast": 83.3,
+     "rating": 0.68
+    },
+    {
+     "player": 26768,
+     "nick": "Glase",
+     "kills": 4,
+     "deaths": 10,
+     "swing": -9.47,
+     "adr": 52.8,
+     "kast": 41.7,
+     "rating": 0.48
+    }
+   ],
+   "ct": [
+    {
+     "player": 25999,
+     "nick": "k6rdon",
+     "kills": 12,
+     "deaths": 5,
+     "swing": 11.01,
+     "adr": 90.8,
+     "kast": 75.0,
+     "rating": 2.13
+    },
+    {
+     "player": 24888,
+     "nick": "Bizarre666",
+     "kills": 8,
+     "deaths": 8,
+     "swing": 3.63,
+     "adr": 69.3,
+     "kast": 83.3,
+     "rating": 1.34
+    },
+    {
+     "player": 24886,
+     "nick": "relan",
+     "kills": 6,
+     "deaths": 6,
+     "swing": -0.62,
+     "adr": 57.1,
+     "kast": 83.3,
+     "rating": 1.03
+    },
+    {
+     "player": 26721,
+     "nick": "awayy",
+     "kills": 7,
+     "deaths": 8,
+     "swing": -0.91,
+     "adr": 64.6,
+     "kast": 58.3,
+     "rating": 0.98
+    },
+    {
+     "player": 26722,
+     "nick": "Sanzh1k33",
+     "kills": 3,
+     "deaths": 8,
+     "swing": -3.22,
+     "adr": 43.0,
+     "kast": 58.3,
+     "rating": 0.69
+    },
+    {
+     "player": 26767,
+     "nick": "Hunter",
+     "kills": 7,
+     "deaths": 6,
+     "swing": 4.31,
+     "adr": 88.1,
+     "kast": 71.4,
+     "rating": 1.58
+    },
+    {
+     "player": 26769,
+     "nick": "Gingjaa",
+     "kills": 2,
+     "deaths": 6,
+     "swing": 0.72,
+     "adr": 67.6,
+     "kast": 71.4,
+     "rating": 0.92
+    },
+    {
+     "player": 26770,
+     "nick": "Alo",
+     "kills": 4,
+     "deaths": 6,
+     "swing": -4.19,
+     "adr": 49.3,
+     "kast": 42.9,
+     "rating": 0.75
+    },
+    {
+     "player": 26771,
+     "nick": "Intense",
+     "kills": 2,
+     "deaths": 7,
+     "swing": -12.6,
+     "adr": 54.9,
+     "kast": 42.9,
+     "rating": 0.39
+    },
+    {
+     "player": 26768,
+     "nick": "Glase",
+     "kills": 2,
+     "deaths": 7,
+     "swing": -14.94,
+     "adr": 53.6,
+     "kast": 28.6,
+     "rating": 0.29
+    }
+   ]
+  }
+ },
+ "mvp": null
+}

@@ -1,0 +1,1321 @@
+{
+ "id": 2399359,
+ "eventId": 9374,
+ "stage": "Group B",
+ "time": "2026-10-08T13:00:00Z",
+ "bo": 3,
+ "status": "finished",
+ "team1": {
+  "id": 13012,
+  "score": 2,
+  "players": [
+   16741,
+   21117,
+   21337,
+   15573,
+   21575
+  ]
+ },
+ "team2": {
+  "id": 13900,
+  "score": 1,
+  "players": [
+   20283,
+   20284,
+   23767,
+   24545,
+   24482
+  ]
+ },
+ "maps": [
+  {
+   "map": "de_ancient",
+   "pick": 13900,
+   "score": [
+    13,
+    11
+   ],
+   "halves": [
+    [
+     5,
+     7
+    ],
+    [
+     8,
+     4
+    ]
+   ]
+  },
+  {
+   "map": "de_cache",
+   "pick": 13012,
+   "score": [
+    8,
+    13
+   ],
+   "halves": [
+    [
+     6,
+     6
+    ],
+    [
+     2,
+     7
+    ]
+   ]
+  },
+  {
+   "map": "de_mirage",
+   "pick": null,
+   "score": [
+    13,
+    10
+   ],
+   "halves": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     5
+    ]
+   ]
+  }
+ ],
+ "stats": {
+  "all": {
+   "both": [
+    {
+     "player": 16741,
+     "nick": "Q-Q",
+     "kills": 46,
+     "deaths": 41,
+     "swing": 1.34,
+     "adr": 66.1,
+     "kast": 76.5,
+     "rating": 1.14
+    },
+    {
+     "player": 15573,
+     "nick": "Ciocardau",
+     "kills": 47,
+     "deaths": 41,
+     "swing": -0.02,
+     "adr": 80.8,
+     "kast": 77.9,
+     "rating": 1.11
+    },
+    {
+     "player": 21575,
+     "nick": "Scr0b",
+     "kills": 44,
+     "deaths": 43,
+     "swing": 1.17,
+     "adr": 71.1,
+     "kast": 69.1,
+     "rating": 1.1
+    },
+    {
+     "player": 21337,
+     "nick": "starplajerz",
+     "kills": 45,
+     "deaths": 48,
+     "swing": -1.32,
+     "adr": 85.7,
+     "kast": 75.0,
+     "rating": 1.05
+    },
+    {
+     "player": 21117,
+     "nick": "d1maje",
+     "kills": 41,
+     "deaths": 45,
+     "swing": -2.21,
+     "adr": 59.9,
+     "kast": 61.8,
+     "rating": 0.89
+    },
+    {
+     "player": 24545,
+     "nick": "Showk",
+     "kills": 48,
+     "deaths": 49,
+     "swing": 2.16,
+     "adr": 75.8,
+     "kast": 69.1,
+     "rating": 1.18
+    },
+    {
+     "player": 24482,
+     "nick": "ezox",
+     "kills": 42,
+     "deaths": 36,
+     "swing": 2.41,
+     "adr": 56.7,
+     "kast": 67.6,
+     "rating": 1.07
+    },
+    {
+     "player": 20283,
+     "nick": "tomiko",
+     "kills": 44,
+     "deaths": 44,
+     "swing": -2.5,
+     "adr": 76.4,
+     "kast": 64.7,
+     "rating": 0.95
+    },
+    {
+     "player": 20284,
+     "nick": "maaryy",
+     "kills": 39,
+     "deaths": 47,
+     "swing": -0.13,
+     "adr": 69.5,
+     "kast": 63.2,
+     "rating": 0.94
+    },
+    {
+     "player": 23767,
+     "nick": "AdrieN",
+     "kills": 40,
+     "deaths": 49,
+     "swing": -1.08,
+     "adr": 75.4,
+     "kast": 69.1,
+     "rating": 0.92
+    }
+   ],
+   "t": [
+    {
+     "player": 16741,
+     "nick": "Q-Q",
+     "kills": 27,
+     "deaths": 17,
+     "swing": 2.84,
+     "adr": 81.7,
+     "kast": 84.4,
+     "rating": 1.38
+    },
+    {
+     "player": 15573,
+     "nick": "Ciocardau",
+     "kills": 29,
+     "deaths": 19,
+     "swing": -0.06,
+     "adr": 99.8,
+     "kast": 81.2,
+     "rating": 1.24
+    },
+    {
+     "player": 21337,
+     "nick": "starplajerz",
+     "kills": 21,
+     "deaths": 25,
+     "swing": -3.78,
+     "adr": 93.2,
+     "kast": 75.0,
+     "rating": 0.89
+    },
+    {
+     "player": 21575,
+     "nick": "Scr0b",
+     "kills": 20,
+     "deaths": 24,
+     "swing": -2.42,
+     "adr": 64.8,
+     "kast": 59.4,
+     "rating": 0.75
+    },
+    {
+     "player": 21117,
+     "nick": "d1maje",
+     "kills": 16,
+     "deaths": 23,
+     "swing": -7.8,
+     "adr": 51.0,
+     "kast": 59.4,
+     "rating": 0.59
+    },
+    {
+     "player": 20284,
+     "nick": "maaryy",
+     "kills": 21,
+     "deaths": 22,
+     "swing": 0.93,
+     "adr": 65.6,
+     "kast": 66.7,
+     "rating": 0.97
+    },
+    {
+     "player": 24482,
+     "nick": "ezox",
+     "kills": 21,
+     "deaths": 16,
+     "swing": 1.32,
+     "adr": 59.2,
+     "kast": 69.4,
+     "rating": 0.96
+    },
+    {
+     "player": 24545,
+     "nick": "Showk",
+     "kills": 23,
+     "deaths": 26,
+     "swing": -2.08,
+     "adr": 69.2,
+     "kast": 63.9,
+     "rating": 0.88
+    },
+    {
+     "player": 23767,
+     "nick": "AdrieN",
+     "kills": 21,
+     "deaths": 23,
+     "swing": -2.59,
+     "adr": 82.3,
+     "kast": 69.4,
+     "rating": 0.85
+    },
+    {
+     "player": 20283,
+     "nick": "tomiko",
+     "kills": 20,
+     "deaths": 23,
+     "swing": -5.94,
+     "adr": 69.6,
+     "kast": 63.9,
+     "rating": 0.71
+    }
+   ],
+   "ct": [
+    {
+     "player": 21575,
+     "nick": "Scr0b",
+     "kills": 24,
+     "deaths": 19,
+     "swing": 4.36,
+     "adr": 76.7,
+     "kast": 77.8,
+     "rating": 1.42
+    },
+    {
+     "player": 21337,
+     "nick": "starplajerz",
+     "kills": 24,
+     "deaths": 23,
+     "swing": 0.87,
+     "adr": 79.1,
+     "kast": 75.0,
+     "rating": 1.19
+    },
+    {
+     "player": 21117,
+     "nick": "d1maje",
+     "kills": 25,
+     "deaths": 22,
+     "swing": 2.75,
+     "adr": 67.7,
+     "kast": 63.9,
+     "rating": 1.16
+    },
+    {
+     "player": 15573,
+     "nick": "Ciocardau",
+     "kills": 18,
+     "deaths": 22,
+     "swing": 0.02,
+     "adr": 63.8,
+     "kast": 75.0,
+     "rating": 1.0
+    },
+    {
+     "player": 16741,
+     "nick": "Q-Q",
+     "kills": 19,
+     "deaths": 24,
+     "swing": 0.01,
+     "adr": 52.4,
+     "kast": 69.4,
+     "rating": 0.93
+    },
+    {
+     "player": 24545,
+     "nick": "Showk",
+     "kills": 25,
+     "deaths": 23,
+     "swing": 6.93,
+     "adr": 83.3,
+     "kast": 75.0,
+     "rating": 1.52
+    },
+    {
+     "player": 20283,
+     "nick": "tomiko",
+     "kills": 24,
+     "deaths": 21,
+     "swing": 1.37,
+     "adr": 84.2,
+     "kast": 65.6,
+     "rating": 1.22
+    },
+    {
+     "player": 24482,
+     "nick": "ezox",
+     "kills": 21,
+     "deaths": 20,
+     "swing": 3.64,
+     "adr": 53.8,
+     "kast": 65.6,
+     "rating": 1.2
+    },
+    {
+     "player": 23767,
+     "nick": "AdrieN",
+     "kills": 19,
+     "deaths": 26,
+     "swing": 0.62,
+     "adr": 67.6,
+     "kast": 68.8,
+     "rating": 0.99
+    },
+    {
+     "player": 20284,
+     "nick": "maaryy",
+     "kills": 18,
+     "deaths": 25,
+     "swing": -1.33,
+     "adr": 73.9,
+     "kast": 59.4,
+     "rating": 0.9
+    }
+   ]
+  },
+  "de_ancient": {
+   "both": [
+    {
+     "player": 16741,
+     "nick": "Q-Q",
+     "kills": 23,
+     "deaths": 15,
+     "swing": 1.82,
+     "adr": 88.1,
+     "kast": 66.7,
+     "rating": 1.25
+    },
+    {
+     "player": 21337,
+     "nick": "starplajerz",
+     "kills": 16,
+     "deaths": 16,
+     "swing": 1.31,
+     "adr": 92.6,
+     "kast": 83.3,
+     "rating": 1.21
+    },
+    {
+     "player": 21117,
+     "nick": "d1maje",
+     "kills": 15,
+     "deaths": 13,
+     "swing": -0.47,
+     "adr": 61.0,
+     "kast": 66.7,
+     "rating": 1.16
+    },
+    {
+     "player": 15573,
+     "nick": "Ciocardau",
+     "kills": 17,
+     "deaths": 15,
+     "swing": -0.94,
+     "adr": 81.5,
+     "kast": 87.5,
+     "rating": 1.09
+    },
+    {
+     "player": 21575,
+     "nick": "Scr0b",
+     "kills": 11,
+     "deaths": 12,
+     "swing": -0.22,
+     "adr": 51.7,
+     "kast": 66.7,
+     "rating": 0.95
+    },
+    {
+     "player": 24545,
+     "nick": "Showk",
+     "kills": 13,
+     "deaths": 19,
+     "swing": 2.36,
+     "adr": 61.5,
+     "kast": 62.5,
+     "rating": 1.17
+    },
+    {
+     "player": 23767,
+     "nick": "AdrieN",
+     "kills": 16,
+     "deaths": 17,
+     "swing": 0.82,
+     "adr": 80.5,
+     "kast": 66.7,
+     "rating": 1.07
+    },
+    {
+     "player": 20284,
+     "nick": "maaryy",
+     "kills": 15,
+     "deaths": 15,
+     "swing": 0.75,
+     "adr": 71.8,
+     "kast": 62.5,
+     "rating": 1.07
+    },
+    {
+     "player": 20283,
+     "nick": "tomiko",
+     "kills": 15,
+     "deaths": 17,
+     "swing": -4.93,
+     "adr": 80.0,
+     "kast": 62.5,
+     "rating": 0.85
+    },
+    {
+     "player": 24482,
+     "nick": "ezox",
+     "kills": 11,
+     "deaths": 16,
+     "swing": -0.49,
+     "adr": 41.2,
+     "kast": 50.0,
+     "rating": 0.81
+    }
+   ],
+   "t": [
+    {
+     "player": 16741,
+     "nick": "Q-Q",
+     "kills": 11,
+     "deaths": 7,
+     "swing": 2.02,
+     "adr": 88.7,
+     "kast": 66.7,
+     "rating": 1.27
+    },
+    {
+     "player": 15573,
+     "nick": "Ciocardau",
+     "kills": 11,
+     "deaths": 7,
+     "swing": -0.07,
+     "adr": 96.4,
+     "kast": 91.7,
+     "rating": 1.24
+    },
+    {
+     "player": 21337,
+     "nick": "starplajerz",
+     "kills": 8,
+     "deaths": 9,
+     "swing": 2.66,
+     "adr": 108.2,
+     "kast": 75.0,
+     "rating": 1.22
+    },
+    {
+     "player": 21575,
+     "nick": "Scr0b",
+     "kills": 4,
+     "deaths": 8,
+     "swing": -3.4,
+     "adr": 37.3,
+     "kast": 50.0,
+     "rating": 0.62
+    },
+    {
+     "player": 21117,
+     "nick": "d1maje",
+     "kills": 4,
+     "deaths": 8,
+     "swing": -10.31,
+     "adr": 32.1,
+     "kast": 58.3,
+     "rating": 0.46
+    },
+    {
+     "player": 20284,
+     "nick": "maaryy",
+     "kills": 8,
+     "deaths": 8,
+     "swing": 4.04,
+     "adr": 80.6,
+     "kast": 66.7,
+     "rating": 1.24
+    },
+    {
+     "player": 23767,
+     "nick": "AdrieN",
+     "kills": 10,
+     "deaths": 9,
+     "swing": -1.92,
+     "adr": 97.8,
+     "kast": 66.7,
+     "rating": 1.04
+    },
+    {
+     "player": 20283,
+     "nick": "tomiko",
+     "kills": 6,
+     "deaths": 9,
+     "swing": -4.08,
+     "adr": 70.3,
+     "kast": 58.3,
+     "rating": 0.67
+    },
+    {
+     "player": 24482,
+     "nick": "ezox",
+     "kills": 4,
+     "deaths": 8,
+     "swing": -2.28,
+     "adr": 36.4,
+     "kast": 50.0,
+     "rating": 0.57
+    },
+    {
+     "player": 24545,
+     "nick": "Showk",
+     "kills": 4,
+     "deaths": 10,
+     "swing": -7.83,
+     "adr": 36.0,
+     "kast": 50.0,
+     "rating": 0.56
+    }
+   ],
+   "ct": [
+    {
+     "player": 21117,
+     "nick": "d1maje",
+     "kills": 11,
+     "deaths": 5,
+     "swing": 9.37,
+     "adr": 89.9,
+     "kast": 75.0,
+     "rating": 1.85
+    },
+    {
+     "player": 21575,
+     "nick": "Scr0b",
+     "kills": 7,
+     "deaths": 4,
+     "swing": 2.95,
+     "adr": 66.1,
+     "kast": 83.3,
+     "rating": 1.27
+    },
+    {
+     "player": 16741,
+     "nick": "Q-Q",
+     "kills": 12,
+     "deaths": 8,
+     "swing": 1.62,
+     "adr": 87.6,
+     "kast": 66.7,
+     "rating": 1.24
+    },
+    {
+     "player": 21337,
+     "nick": "starplajerz",
+     "kills": 8,
+     "deaths": 7,
+     "swing": -0.04,
+     "adr": 77.0,
+     "kast": 91.7,
+     "rating": 1.2
+    },
+    {
+     "player": 15573,
+     "nick": "Ciocardau",
+     "kills": 6,
+     "deaths": 8,
+     "swing": -1.82,
+     "adr": 66.5,
+     "kast": 83.3,
+     "rating": 0.93
+    },
+    {
+     "player": 24545,
+     "nick": "Showk",
+     "kills": 9,
+     "deaths": 9,
+     "swing": 12.56,
+     "adr": 86.9,
+     "kast": 75.0,
+     "rating": 1.79
+    },
+    {
+     "player": 23767,
+     "nick": "AdrieN",
+     "kills": 6,
+     "deaths": 8,
+     "swing": 3.56,
+     "adr": 63.2,
+     "kast": 66.7,
+     "rating": 1.1
+    },
+    {
+     "player": 24482,
+     "nick": "ezox",
+     "kills": 7,
+     "deaths": 8,
+     "swing": 1.3,
+     "adr": 46.0,
+     "kast": 50.0,
+     "rating": 1.06
+    },
+    {
+     "player": 20283,
+     "nick": "tomiko",
+     "kills": 9,
+     "deaths": 8,
+     "swing": -5.79,
+     "adr": 89.7,
+     "kast": 66.7,
+     "rating": 1.04
+    },
+    {
+     "player": 20284,
+     "nick": "maaryy",
+     "kills": 7,
+     "deaths": 7,
+     "swing": -2.54,
+     "adr": 62.9,
+     "kast": 58.3,
+     "rating": 0.91
+    }
+   ]
+  },
+  "de_cache": {
+   "both": [
+    {
+     "player": 15573,
+     "nick": "Ciocardau",
+     "kills": 16,
+     "deaths": 13,
+     "swing": 2.26,
+     "adr": 82.5,
+     "kast": 71.4,
+     "rating": 1.26
+    },
+    {
+     "player": 21337,
+     "nick": "starplajerz",
+     "kills": 15,
+     "deaths": 14,
+     "swing": -2.16,
+     "adr": 97.9,
+     "kast": 76.2,
+     "rating": 1.17
+    },
+    {
+     "player": 21575,
+     "nick": "Scr0b",
+     "kills": 16,
+     "deaths": 15,
+     "swing": -1.36,
+     "adr": 83.9,
+     "kast": 76.2,
+     "rating": 1.09
+    },
+    {
+     "player": 16741,
+     "nick": "Q-Q",
+     "kills": 7,
+     "deaths": 14,
+     "swing": -3.01,
+     "adr": 41.5,
+     "kast": 76.2,
+     "rating": 0.68
+    },
+    {
+     "player": 21117,
+     "nick": "d1maje",
+     "kills": 8,
+     "deaths": 17,
+     "swing": -7.86,
+     "adr": 45.8,
+     "kast": 47.6,
+     "rating": 0.43
+    },
+    {
+     "player": 20283,
+     "nick": "tomiko",
+     "kills": 16,
+     "deaths": 11,
+     "swing": 1.69,
+     "adr": 82.8,
+     "kast": 76.2,
+     "rating": 1.43
+    },
+    {
+     "player": 24545,
+     "nick": "Showk",
+     "kills": 17,
+     "deaths": 14,
+     "swing": 3.87,
+     "adr": 93.8,
+     "kast": 76.2,
+     "rating": 1.26
+    },
+    {
+     "player": 24482,
+     "nick": "ezox",
+     "kills": 13,
+     "deaths": 6,
+     "swing": 3.68,
+     "adr": 50.4,
+     "kast": 85.7,
+     "rating": 1.24
+    },
+    {
+     "player": 20284,
+     "nick": "maaryy",
+     "kills": 14,
+     "deaths": 16,
+     "swing": 2.2,
+     "adr": 74.4,
+     "kast": 71.4,
+     "rating": 1.09
+    },
+    {
+     "player": 23767,
+     "nick": "AdrieN",
+     "kills": 11,
+     "deaths": 15,
+     "swing": 0.11,
+     "adr": 66.5,
+     "kast": 71.4,
+     "rating": 0.92
+    }
+   ],
+   "t": [
+    {
+     "player": 15573,
+     "nick": "Ciocardau",
+     "kills": 10,
+     "deaths": 5,
+     "swing": -0.67,
+     "adr": 101.1,
+     "kast": 77.8,
+     "rating": 1.4
+    },
+    {
+     "player": 16741,
+     "nick": "Q-Q",
+     "kills": 5,
+     "deaths": 5,
+     "swing": -1.81,
+     "adr": 56.4,
+     "kast": 88.9,
+     "rating": 0.91
+    },
+    {
+     "player": 21337,
+     "nick": "starplajerz",
+     "kills": 6,
+     "deaths": 7,
+     "swing": -8.32,
+     "adr": 103.1,
+     "kast": 77.8,
+     "rating": 0.84
+    },
+    {
+     "player": 21575,
+     "nick": "Scr0b",
+     "kills": 6,
+     "deaths": 7,
+     "swing": -8.35,
+     "adr": 79.6,
+     "kast": 66.7,
+     "rating": 0.57
+    },
+    {
+     "player": 21117,
+     "nick": "d1maje",
+     "kills": 4,
+     "deaths": 7,
+     "swing": -9.69,
+     "adr": 47.9,
+     "kast": 55.6,
+     "rating": 0.51
+    },
+    {
+     "player": 20284,
+     "nick": "maaryy",
+     "kills": 9,
+     "deaths": 7,
+     "swing": 4.6,
+     "adr": 76.8,
+     "kast": 75.0,
+     "rating": 1.33
+    },
+    {
+     "player": 24482,
+     "nick": "ezox",
+     "kills": 10,
+     "deaths": 3,
+     "swing": 2.42,
+     "adr": 66.5,
+     "kast": 91.7,
+     "rating": 1.33
+    },
+    {
+     "player": 24545,
+     "nick": "Showk",
+     "kills": 10,
+     "deaths": 8,
+     "swing": 1.85,
+     "adr": 103.6,
+     "kast": 83.3,
+     "rating": 1.16
+    },
+    {
+     "player": 20283,
+     "nick": "tomiko",
+     "kills": 7,
+     "deaths": 7,
+     "swing": -7.8,
+     "adr": 69.3,
+     "kast": 75.0,
+     "rating": 0.84
+    },
+    {
+     "player": 23767,
+     "nick": "AdrieN",
+     "kills": 4,
+     "deaths": 6,
+     "swing": -2.49,
+     "adr": 56.0,
+     "kast": 66.7,
+     "rating": 0.69
+    }
+   ],
+   "ct": [
+    {
+     "player": 21575,
+     "nick": "Scr0b",
+     "kills": 10,
+     "deaths": 8,
+     "swing": 3.88,
+     "adr": 87.1,
+     "kast": 83.3,
+     "rating": 1.48
+    },
+    {
+     "player": 21337,
+     "nick": "starplajerz",
+     "kills": 9,
+     "deaths": 7,
+     "swing": 2.47,
+     "adr": 94.0,
+     "kast": 75.0,
+     "rating": 1.41
+    },
+    {
+     "player": 15573,
+     "nick": "Ciocardau",
+     "kills": 6,
+     "deaths": 8,
+     "swing": 4.45,
+     "adr": 68.5,
+     "kast": 66.7,
+     "rating": 1.15
+    },
+    {
+     "player": 16741,
+     "nick": "Q-Q",
+     "kills": 2,
+     "deaths": 9,
+     "swing": -3.92,
+     "adr": 30.3,
+     "kast": 66.7,
+     "rating": 0.5
+    },
+    {
+     "player": 21117,
+     "nick": "d1maje",
+     "kills": 4,
+     "deaths": 10,
+     "swing": -6.49,
+     "adr": 44.2,
+     "kast": 41.7,
+     "rating": 0.37
+    },
+    {
+     "player": 20283,
+     "nick": "tomiko",
+     "kills": 9,
+     "deaths": 4,
+     "swing": 14.34,
+     "adr": 100.7,
+     "kast": 77.8,
+     "rating": 2.21
+    },
+    {
+     "player": 24545,
+     "nick": "Showk",
+     "kills": 7,
+     "deaths": 6,
+     "swing": 6.57,
+     "adr": 80.8,
+     "kast": 66.7,
+     "rating": 1.38
+    },
+    {
+     "player": 23767,
+     "nick": "AdrieN",
+     "kills": 7,
+     "deaths": 9,
+     "swing": 3.58,
+     "adr": 80.6,
+     "kast": 77.8,
+     "rating": 1.23
+    },
+    {
+     "player": 24482,
+     "nick": "ezox",
+     "kills": 3,
+     "deaths": 3,
+     "swing": 5.35,
+     "adr": 28.9,
+     "kast": 77.8,
+     "rating": 1.12
+    },
+    {
+     "player": 20284,
+     "nick": "maaryy",
+     "kills": 5,
+     "deaths": 9,
+     "swing": -0.99,
+     "adr": 71.2,
+     "kast": 66.7,
+     "rating": 0.78
+    }
+   ]
+  },
+  "de_mirage": {
+   "both": [
+    {
+     "player": 16741,
+     "nick": "Q-Q",
+     "kills": 16,
+     "deaths": 12,
+     "swing": 4.81,
+     "adr": 65.7,
+     "kast": 87.0,
+     "rating": 1.52
+    },
+    {
+     "player": 21575,
+     "nick": "Scr0b",
+     "kills": 17,
+     "deaths": 16,
+     "swing": 4.95,
+     "adr": 79.7,
+     "kast": 65.2,
+     "rating": 1.31
+    },
+    {
+     "player": 21117,
+     "nick": "d1maje",
+     "kills": 18,
+     "deaths": 15,
+     "swing": 1.12,
+     "adr": 71.6,
+     "kast": 69.6,
+     "rating": 1.14
+    },
+    {
+     "player": 15573,
+     "nick": "Ciocardau",
+     "kills": 14,
+     "deaths": 13,
+     "swing": -1.13,
+     "adr": 78.4,
+     "kast": 73.9,
+     "rating": 1.02
+    },
+    {
+     "player": 21337,
+     "nick": "starplajerz",
+     "kills": 14,
+     "deaths": 18,
+     "swing": -3.3,
+     "adr": 67.3,
+     "kast": 65.2,
+     "rating": 0.82
+    },
+    {
+     "player": 24482,
+     "nick": "ezox",
+     "kills": 18,
+     "deaths": 14,
+     "swing": 4.28,
+     "adr": 78.6,
+     "kast": 69.6,
+     "rating": 1.25
+    },
+    {
+     "player": 24545,
+     "nick": "Showk",
+     "kills": 18,
+     "deaths": 16,
+     "swing": 0.39,
+     "adr": 74.4,
+     "kast": 69.6,
+     "rating": 1.22
+    },
+    {
+     "player": 23767,
+     "nick": "AdrieN",
+     "kills": 13,
+     "deaths": 17,
+     "swing": -4.15,
+     "adr": 78.1,
+     "kast": 69.6,
+     "rating": 0.8
+    },
+    {
+     "player": 20284,
+     "nick": "maaryy",
+     "kills": 10,
+     "deaths": 16,
+     "swing": -3.19,
+     "adr": 62.6,
+     "kast": 56.5,
+     "rating": 0.72
+    },
+    {
+     "player": 20283,
+     "nick": "tomiko",
+     "kills": 13,
+     "deaths": 16,
+     "swing": -3.79,
+     "adr": 67.0,
+     "kast": 56.5,
+     "rating": 0.71
+    }
+   ],
+   "t": [
+    {
+     "player": 16741,
+     "nick": "Q-Q",
+     "kills": 11,
+     "deaths": 5,
+     "swing": 7.53,
+     "adr": 94.6,
+     "kast": 100.0,
+     "rating": 1.99
+    },
+    {
+     "player": 15573,
+     "nick": "Ciocardau",
+     "kills": 8,
+     "deaths": 7,
+     "swing": 0.46,
+     "adr": 102.4,
+     "kast": 72.7,
+     "rating": 1.1
+    },
+    {
+     "player": 21575,
+     "nick": "Scr0b",
+     "kills": 10,
+     "deaths": 9,
+     "swing": 3.51,
+     "adr": 82.7,
+     "kast": 63.6,
+     "rating": 1.09
+    },
+    {
+     "player": 21117,
+     "nick": "d1maje",
+     "kills": 8,
+     "deaths": 8,
+     "swing": -3.51,
+     "adr": 74.3,
+     "kast": 63.6,
+     "rating": 0.81
+    },
+    {
+     "player": 21337,
+     "nick": "starplajerz",
+     "kills": 7,
+     "deaths": 9,
+     "swing": -7.1,
+     "adr": 68.5,
+     "kast": 72.7,
+     "rating": 0.65
+    },
+    {
+     "player": 24482,
+     "nick": "ezox",
+     "kills": 7,
+     "deaths": 5,
+     "swing": 3.82,
+     "adr": 74.8,
+     "kast": 66.7,
+     "rating": 1.06
+    },
+    {
+     "player": 24545,
+     "nick": "Showk",
+     "kills": 9,
+     "deaths": 8,
+     "swing": -0.26,
+     "adr": 68.0,
+     "kast": 58.3,
+     "rating": 1.03
+    },
+    {
+     "player": 23767,
+     "nick": "AdrieN",
+     "kills": 7,
+     "deaths": 8,
+     "swing": -3.36,
+     "adr": 93.0,
+     "kast": 75.0,
+     "rating": 0.84
+    },
+    {
+     "player": 20283,
+     "nick": "tomiko",
+     "kills": 7,
+     "deaths": 7,
+     "swing": -5.94,
+     "adr": 69.1,
+     "kast": 58.3,
+     "rating": 0.62
+    },
+    {
+     "player": 20284,
+     "nick": "maaryy",
+     "kills": 4,
+     "deaths": 7,
+     "swing": -5.84,
+     "adr": 39.2,
+     "kast": 58.3,
+     "rating": 0.47
+    }
+   ],
+   "ct": [
+    {
+     "player": 21575,
+     "nick": "Scr0b",
+     "kills": 7,
+     "deaths": 7,
+     "swing": 6.26,
+     "adr": 76.9,
+     "kast": 66.7,
+     "rating": 1.51
+    },
+    {
+     "player": 21117,
+     "nick": "d1maje",
+     "kills": 10,
+     "deaths": 7,
+     "swing": 5.37,
+     "adr": 69.1,
+     "kast": 75.0,
+     "rating": 1.45
+    },
+    {
+     "player": 16741,
+     "nick": "Q-Q",
+     "kills": 5,
+     "deaths": 7,
+     "swing": 2.33,
+     "adr": 39.2,
+     "kast": 75.0,
+     "rating": 1.09
+    },
+    {
+     "player": 21337,
+     "nick": "starplajerz",
+     "kills": 7,
+     "deaths": 9,
+     "swing": 0.19,
+     "adr": 66.2,
+     "kast": 58.3,
+     "rating": 0.98
+    },
+    {
+     "player": 15573,
+     "nick": "Ciocardau",
+     "kills": 6,
+     "deaths": 6,
+     "swing": -2.58,
+     "adr": 56.5,
+     "kast": 75.0,
+     "rating": 0.94
+    },
+    {
+     "player": 24482,
+     "nick": "ezox",
+     "kills": 11,
+     "deaths": 9,
+     "swing": 4.78,
+     "adr": 82.6,
+     "kast": 72.7,
+     "rating": 1.46
+    },
+    {
+     "player": 24545,
+     "nick": "Showk",
+     "kills": 9,
+     "deaths": 8,
+     "swing": 1.1,
+     "adr": 81.4,
+     "kast": 81.8,
+     "rating": 1.42
+    },
+    {
+     "player": 20284,
+     "nick": "maaryy",
+     "kills": 6,
+     "deaths": 9,
+     "swing": -0.29,
+     "adr": 88.0,
+     "kast": 54.5,
+     "rating": 0.99
+    },
+    {
+     "player": 20283,
+     "nick": "tomiko",
+     "kills": 6,
+     "deaths": 9,
+     "swing": -1.44,
+     "adr": 64.6,
+     "kast": 54.5,
+     "rating": 0.8
+    },
+    {
+     "player": 23767,
+     "nick": "AdrieN",
+     "kills": 6,
+     "deaths": 9,
+     "swing": -5.02,
+     "adr": 61.9,
+     "kast": 63.6,
+     "rating": 0.75
+    }
+   ]
+  }
+ },
+ "mvp": null
+}

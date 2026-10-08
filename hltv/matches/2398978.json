@@ -1,0 +1,1321 @@
+{
+ "id": 2398978,
+ "eventId": 9408,
+ "stage": "Playoffs",
+ "time": "2026-10-07T17:45:00Z",
+ "bo": 3,
+ "status": "finished",
+ "team1": {
+  "id": 12895,
+  "score": 2,
+  "players": [
+   22886,
+   24725,
+   23686,
+   19575,
+   12004
+  ]
+ },
+ "team2": {
+  "id": 11641,
+  "score": 1,
+  "players": [
+   19069,
+   19044,
+   8507,
+   14218,
+   24083
+  ]
+ },
+ "maps": [
+  {
+   "map": "de_nuke",
+   "pick": 11641,
+   "score": [
+    11,
+    13
+   ],
+   "halves": [
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     6
+    ]
+   ]
+  },
+  {
+   "map": "de_mirage",
+   "pick": 12895,
+   "score": [
+    13,
+    8
+   ],
+   "halves": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     3
+    ]
+   ]
+  },
+  {
+   "map": "de_cache",
+   "pick": null,
+   "score": [
+    13,
+    6
+   ],
+   "halves": [
+    [
+     8,
+     4
+    ],
+    [
+     5,
+     2
+    ]
+   ]
+  }
+ ],
+ "stats": {
+  "all": {
+   "both": [
+    {
+     "player": 24725,
+     "nick": "qw1nk1",
+     "kills": 53,
+     "deaths": 38,
+     "swing": 3.08,
+     "adr": 87.7,
+     "kast": 79.7,
+     "rating": 1.4
+    },
+    {
+     "player": 12004,
+     "nick": "clax",
+     "kills": 52,
+     "deaths": 45,
+     "swing": 1.13,
+     "adr": 88.2,
+     "kast": 76.6,
+     "rating": 1.25
+    },
+    {
+     "player": 23686,
+     "nick": "kashl1d",
+     "kills": 40,
+     "deaths": 38,
+     "swing": 3.03,
+     "adr": 53.8,
+     "kast": 71.9,
+     "rating": 1.13
+    },
+    {
+     "player": 22886,
+     "nick": "xeedo",
+     "kills": 37,
+     "deaths": 44,
+     "swing": 1.7,
+     "adr": 73.3,
+     "kast": 71.9,
+     "rating": 1.08
+    },
+    {
+     "player": 19575,
+     "nick": "X5G7V",
+     "kills": 32,
+     "deaths": 47,
+     "swing": -1.86,
+     "adr": 56.4,
+     "kast": 70.3,
+     "rating": 0.9
+    },
+    {
+     "player": 19069,
+     "nick": "forsyy",
+     "kills": 46,
+     "deaths": 42,
+     "swing": -0.39,
+     "adr": 81.1,
+     "kast": 75.0,
+     "rating": 1.07
+    },
+    {
+     "player": 19044,
+     "nick": "F1KU",
+     "kills": 46,
+     "deaths": 43,
+     "swing": -0.65,
+     "adr": 67.8,
+     "kast": 73.4,
+     "rating": 1.02
+    },
+    {
+     "player": 24083,
+     "nick": "MaiL09",
+     "kills": 46,
+     "deaths": 45,
+     "swing": -1.49,
+     "adr": 66.4,
+     "kast": 71.9,
+     "rating": 0.98
+    },
+    {
+     "player": 8507,
+     "nick": "stanislaw",
+     "kills": 39,
+     "deaths": 42,
+     "swing": -2.25,
+     "adr": 74.3,
+     "kast": 76.6,
+     "rating": 0.98
+    },
+    {
+     "player": 14218,
+     "nick": "Plopski",
+     "kills": 34,
+     "deaths": 44,
+     "swing": -2.69,
+     "adr": 70.7,
+     "kast": 76.6,
+     "rating": 0.87
+    }
+   ],
+   "t": [
+    {
+     "player": 24725,
+     "nick": "qw1nk1",
+     "kills": 27,
+     "deaths": 17,
+     "swing": 2.82,
+     "adr": 104.1,
+     "kast": 89.3,
+     "rating": 1.52
+    },
+    {
+     "player": 23686,
+     "nick": "kashl1d",
+     "kills": 29,
+     "deaths": 17,
+     "swing": 7.38,
+     "adr": 74.1,
+     "kast": 75.0,
+     "rating": 1.49
+    },
+    {
+     "player": 12004,
+     "nick": "clax",
+     "kills": 26,
+     "deaths": 18,
+     "swing": 2.7,
+     "adr": 95.7,
+     "kast": 71.4,
+     "rating": 1.3
+    },
+    {
+     "player": 22886,
+     "nick": "xeedo",
+     "kills": 18,
+     "deaths": 18,
+     "swing": 1.6,
+     "adr": 78.4,
+     "kast": 75.0,
+     "rating": 1.08
+    },
+    {
+     "player": 19575,
+     "nick": "X5G7V",
+     "kills": 7,
+     "deaths": 21,
+     "swing": -8.27,
+     "adr": 37.1,
+     "kast": 64.3,
+     "rating": 0.44
+    },
+    {
+     "player": 8507,
+     "nick": "stanislaw",
+     "kills": 23,
+     "deaths": 19,
+     "swing": 0.13,
+     "adr": 79.4,
+     "kast": 83.3,
+     "rating": 1.13
+    },
+    {
+     "player": 24083,
+     "nick": "MaiL09",
+     "kills": 28,
+     "deaths": 23,
+     "swing": -0.18,
+     "adr": 74.0,
+     "kast": 77.8,
+     "rating": 1.05
+    },
+    {
+     "player": 14218,
+     "nick": "Plopski",
+     "kills": 21,
+     "deaths": 20,
+     "swing": -1.43,
+     "adr": 75.6,
+     "kast": 83.3,
+     "rating": 0.99
+    },
+    {
+     "player": 19044,
+     "nick": "F1KU",
+     "kills": 25,
+     "deaths": 23,
+     "swing": -4.14,
+     "adr": 67.0,
+     "kast": 77.8,
+     "rating": 0.86
+    },
+    {
+     "player": 19069,
+     "nick": "forsyy",
+     "kills": 23,
+     "deaths": 23,
+     "swing": -2.81,
+     "adr": 77.9,
+     "kast": 75.0,
+     "rating": 0.85
+    }
+   ],
+   "ct": [
+    {
+     "player": 24725,
+     "nick": "qw1nk1",
+     "kills": 26,
+     "deaths": 21,
+     "swing": 3.29,
+     "adr": 74.9,
+     "kast": 72.2,
+     "rating": 1.31
+    },
+    {
+     "player": 19575,
+     "nick": "X5G7V",
+     "kills": 25,
+     "deaths": 26,
+     "swing": 3.12,
+     "adr": 71.5,
+     "kast": 75.0,
+     "rating": 1.26
+    },
+    {
+     "player": 12004,
+     "nick": "clax",
+     "kills": 26,
+     "deaths": 27,
+     "swing": -0.09,
+     "adr": 82.3,
+     "kast": 80.6,
+     "rating": 1.21
+    },
+    {
+     "player": 22886,
+     "nick": "xeedo",
+     "kills": 19,
+     "deaths": 26,
+     "swing": 1.78,
+     "adr": 69.4,
+     "kast": 69.4,
+     "rating": 1.08
+    },
+    {
+     "player": 23686,
+     "nick": "kashl1d",
+     "kills": 11,
+     "deaths": 21,
+     "swing": -0.35,
+     "adr": 37.9,
+     "kast": 69.4,
+     "rating": 0.85
+    },
+    {
+     "player": 19069,
+     "nick": "forsyy",
+     "kills": 23,
+     "deaths": 19,
+     "swing": 2.72,
+     "adr": 85.1,
+     "kast": 75.0,
+     "rating": 1.34
+    },
+    {
+     "player": 19044,
+     "nick": "F1KU",
+     "kills": 21,
+     "deaths": 20,
+     "swing": 3.83,
+     "adr": 68.8,
+     "kast": 67.9,
+     "rating": 1.22
+    },
+    {
+     "player": 24083,
+     "nick": "MaiL09",
+     "kills": 18,
+     "deaths": 22,
+     "swing": -3.16,
+     "adr": 56.6,
+     "kast": 64.3,
+     "rating": 0.89
+    },
+    {
+     "player": 8507,
+     "nick": "stanislaw",
+     "kills": 16,
+     "deaths": 23,
+     "swing": -5.31,
+     "adr": 67.6,
+     "kast": 67.9,
+     "rating": 0.79
+    },
+    {
+     "player": 14218,
+     "nick": "Plopski",
+     "kills": 13,
+     "deaths": 24,
+     "swing": -4.31,
+     "adr": 64.4,
+     "kast": 67.9,
+     "rating": 0.72
+    }
+   ]
+  },
+  "de_nuke": {
+   "both": [
+    {
+     "player": 24725,
+     "nick": "qw1nk1",
+     "kills": 22,
+     "deaths": 16,
+     "swing": 1.11,
+     "adr": 98.7,
+     "kast": 79.2,
+     "rating": 1.45
+    },
+    {
+     "player": 12004,
+     "nick": "clax",
+     "kills": 16,
+     "deaths": 16,
+     "swing": 1.82,
+     "adr": 75.4,
+     "kast": 70.8,
+     "rating": 1.21
+    },
+    {
+     "player": 22886,
+     "nick": "xeedo",
+     "kills": 13,
+     "deaths": 18,
+     "swing": -0.22,
+     "adr": 65.3,
+     "kast": 66.7,
+     "rating": 1.1
+    },
+    {
+     "player": 23686,
+     "nick": "kashl1d",
+     "kills": 15,
+     "deaths": 15,
+     "swing": 1.4,
+     "adr": 69.2,
+     "kast": 54.2,
+     "rating": 1.04
+    },
+    {
+     "player": 19575,
+     "nick": "X5G7V",
+     "kills": 11,
+     "deaths": 21,
+     "swing": -6.17,
+     "adr": 55.0,
+     "kast": 54.2,
+     "rating": 0.62
+    },
+    {
+     "player": 19044,
+     "nick": "F1KU",
+     "kills": 19,
+     "deaths": 14,
+     "swing": 3.11,
+     "adr": 77.5,
+     "kast": 70.8,
+     "rating": 1.29
+    },
+    {
+     "player": 19069,
+     "nick": "forsyy",
+     "kills": 19,
+     "deaths": 14,
+     "swing": 2.87,
+     "adr": 87.2,
+     "kast": 75.0,
+     "rating": 1.28
+    },
+    {
+     "player": 14218,
+     "nick": "Plopski",
+     "kills": 17,
+     "deaths": 16,
+     "swing": -2.23,
+     "adr": 82.2,
+     "kast": 75.0,
+     "rating": 1.03
+    },
+    {
+     "player": 24083,
+     "nick": "MaiL09",
+     "kills": 16,
+     "deaths": 16,
+     "swing": 0.14,
+     "adr": 55.6,
+     "kast": 70.8,
+     "rating": 0.99
+    },
+    {
+     "player": 8507,
+     "nick": "stanislaw",
+     "kills": 15,
+     "deaths": 19,
+     "swing": -1.83,
+     "adr": 79.8,
+     "kast": 66.7,
+     "rating": 0.98
+    }
+   ],
+   "t": [
+    {
+     "player": 24725,
+     "nick": "qw1nk1",
+     "kills": 15,
+     "deaths": 7,
+     "swing": 6.78,
+     "adr": 132.8,
+     "kast": 91.7,
+     "rating": 2.09
+    },
+    {
+     "player": 23686,
+     "nick": "kashl1d",
+     "kills": 13,
+     "deaths": 8,
+     "swing": 5.59,
+     "adr": 89.0,
+     "kast": 58.3,
+     "rating": 1.41
+    },
+    {
+     "player": 12004,
+     "nick": "clax",
+     "kills": 7,
+     "deaths": 7,
+     "swing": 0.61,
+     "adr": 63.3,
+     "kast": 66.7,
+     "rating": 1.05
+    },
+    {
+     "player": 22886,
+     "nick": "xeedo",
+     "kills": 2,
+     "deaths": 9,
+     "swing": -6.49,
+     "adr": 24.8,
+     "kast": 58.3,
+     "rating": 0.44
+    },
+    {
+     "player": 19575,
+     "nick": "X5G7V",
+     "kills": 4,
+     "deaths": 10,
+     "swing": -11.11,
+     "adr": 42.3,
+     "kast": 41.7,
+     "rating": 0.33
+    },
+    {
+     "player": 19044,
+     "nick": "F1KU",
+     "kills": 13,
+     "deaths": 8,
+     "swing": 3.85,
+     "adr": 101.5,
+     "kast": 75.0,
+     "rating": 1.5
+    },
+    {
+     "player": 19069,
+     "nick": "forsyy",
+     "kills": 10,
+     "deaths": 7,
+     "swing": -0.24,
+     "adr": 99.3,
+     "kast": 83.3,
+     "rating": 1.1
+    },
+    {
+     "player": 14218,
+     "nick": "Plopski",
+     "kills": 8,
+     "deaths": 7,
+     "swing": -2.01,
+     "adr": 90.2,
+     "kast": 75.0,
+     "rating": 1.06
+    },
+    {
+     "player": 24083,
+     "nick": "MaiL09",
+     "kills": 9,
+     "deaths": 6,
+     "swing": -0.32,
+     "adr": 58.5,
+     "kast": 83.3,
+     "rating": 1.01
+    },
+    {
+     "player": 8507,
+     "nick": "stanislaw",
+     "kills": 5,
+     "deaths": 9,
+     "swing": -1.78,
+     "adr": 61.2,
+     "kast": 66.7,
+     "rating": 0.81
+    }
+   ],
+   "ct": [
+    {
+     "player": 22886,
+     "nick": "xeedo",
+     "kills": 11,
+     "deaths": 9,
+     "swing": 6.05,
+     "adr": 105.8,
+     "kast": 75.0,
+     "rating": 1.75
+    },
+    {
+     "player": 12004,
+     "nick": "clax",
+     "kills": 9,
+     "deaths": 9,
+     "swing": 3.04,
+     "adr": 87.5,
+     "kast": 75.0,
+     "rating": 1.36
+    },
+    {
+     "player": 19575,
+     "nick": "X5G7V",
+     "kills": 7,
+     "deaths": 11,
+     "swing": -1.23,
+     "adr": 67.6,
+     "kast": 66.7,
+     "rating": 0.91
+    },
+    {
+     "player": 24725,
+     "nick": "qw1nk1",
+     "kills": 7,
+     "deaths": 9,
+     "swing": -4.56,
+     "adr": 64.6,
+     "kast": 66.7,
+     "rating": 0.81
+    },
+    {
+     "player": 23686,
+     "nick": "kashl1d",
+     "kills": 2,
+     "deaths": 7,
+     "swing": -2.79,
+     "adr": 49.5,
+     "kast": 50.0,
+     "rating": 0.67
+    },
+    {
+     "player": 19069,
+     "nick": "forsyy",
+     "kills": 9,
+     "deaths": 7,
+     "swing": 5.99,
+     "adr": 75.1,
+     "kast": 66.7,
+     "rating": 1.45
+    },
+    {
+     "player": 8507,
+     "nick": "stanislaw",
+     "kills": 10,
+     "deaths": 10,
+     "swing": -1.87,
+     "adr": 98.4,
+     "kast": 66.7,
+     "rating": 1.16
+    },
+    {
+     "player": 19044,
+     "nick": "F1KU",
+     "kills": 6,
+     "deaths": 6,
+     "swing": 2.36,
+     "adr": 53.5,
+     "kast": 66.7,
+     "rating": 1.08
+    },
+    {
+     "player": 14218,
+     "nick": "Plopski",
+     "kills": 9,
+     "deaths": 9,
+     "swing": -2.46,
+     "adr": 74.1,
+     "kast": 75.0,
+     "rating": 1.0
+    },
+    {
+     "player": 24083,
+     "nick": "MaiL09",
+     "kills": 7,
+     "deaths": 10,
+     "swing": 0.61,
+     "adr": 52.8,
+     "kast": 58.3,
+     "rating": 0.97
+    }
+   ]
+  },
+  "de_mirage": {
+   "both": [
+    {
+     "player": 22886,
+     "nick": "xeedo",
+     "kills": 15,
+     "deaths": 14,
+     "swing": 3.96,
+     "adr": 85.8,
+     "kast": 71.4,
+     "rating": 1.31
+    },
+    {
+     "player": 23686,
+     "nick": "kashl1d",
+     "kills": 12,
+     "deaths": 13,
+     "swing": 5.71,
+     "adr": 39.0,
+     "kast": 81.0,
+     "rating": 1.28
+    },
+    {
+     "player": 24725,
+     "nick": "qw1nk1",
+     "kills": 16,
+     "deaths": 13,
+     "swing": -0.03,
+     "adr": 79.5,
+     "kast": 71.4,
+     "rating": 1.26
+    },
+    {
+     "player": 19575,
+     "nick": "X5G7V",
+     "kills": 11,
+     "deaths": 13,
+     "swing": 0.75,
+     "adr": 48.5,
+     "kast": 76.2,
+     "rating": 1.09
+    },
+    {
+     "player": 12004,
+     "nick": "clax",
+     "kills": 14,
+     "deaths": 15,
+     "swing": -1.12,
+     "adr": 88.6,
+     "kast": 71.4,
+     "rating": 1.06
+    },
+    {
+     "player": 19044,
+     "nick": "F1KU",
+     "kills": 15,
+     "deaths": 14,
+     "swing": 1.21,
+     "adr": 62.0,
+     "kast": 81.0,
+     "rating": 1.24
+    },
+    {
+     "player": 19069,
+     "nick": "forsyy",
+     "kills": 15,
+     "deaths": 14,
+     "swing": -1.66,
+     "adr": 80.5,
+     "kast": 81.0,
+     "rating": 1.0
+    },
+    {
+     "player": 14218,
+     "nick": "Plopski",
+     "kills": 11,
+     "deaths": 15,
+     "swing": -1.02,
+     "adr": 73.4,
+     "kast": 81.0,
+     "rating": 0.93
+    },
+    {
+     "player": 8507,
+     "nick": "stanislaw",
+     "kills": 12,
+     "deaths": 11,
+     "swing": -4.22,
+     "adr": 65.4,
+     "kast": 81.0,
+     "rating": 0.9
+    },
+    {
+     "player": 24083,
+     "nick": "MaiL09",
+     "kills": 14,
+     "deaths": 14,
+     "swing": -4.76,
+     "adr": 60.8,
+     "kast": 66.7,
+     "rating": 0.84
+    }
+   ],
+   "t": [
+    {
+     "player": 22886,
+     "nick": "xeedo",
+     "kills": 11,
+     "deaths": 5,
+     "swing": 11.14,
+     "adr": 138.9,
+     "kast": 88.9,
+     "rating": 2.19
+    },
+    {
+     "player": 23686,
+     "nick": "kashl1d",
+     "kills": 11,
+     "deaths": 6,
+     "swing": 16.53,
+     "adr": 79.8,
+     "kast": 88.9,
+     "rating": 2.14
+    },
+    {
+     "player": 12004,
+     "nick": "clax",
+     "kills": 8,
+     "deaths": 6,
+     "swing": 0.73,
+     "adr": 91.3,
+     "kast": 66.7,
+     "rating": 0.98
+    },
+    {
+     "player": 24725,
+     "nick": "qw1nk1",
+     "kills": 5,
+     "deaths": 7,
+     "swing": -9.93,
+     "adr": 79.0,
+     "kast": 77.8,
+     "rating": 0.7
+    },
+    {
+     "player": 19575,
+     "nick": "X5G7V",
+     "kills": 2,
+     "deaths": 6,
+     "swing": -8.4,
+     "adr": 34.1,
+     "kast": 77.8,
+     "rating": 0.48
+    },
+    {
+     "player": 8507,
+     "nick": "stanislaw",
+     "kills": 9,
+     "deaths": 4,
+     "swing": -1.4,
+     "adr": 86.2,
+     "kast": 83.3,
+     "rating": 1.17
+    },
+    {
+     "player": 14218,
+     "nick": "Plopski",
+     "kills": 7,
+     "deaths": 6,
+     "swing": 0.86,
+     "adr": 72.6,
+     "kast": 91.7,
+     "rating": 1.08
+    },
+    {
+     "player": 24083,
+     "nick": "MaiL09",
+     "kills": 10,
+     "deaths": 7,
+     "swing": -0.7,
+     "adr": 79.7,
+     "kast": 66.7,
+     "rating": 1.06
+    },
+    {
+     "player": 19069,
+     "nick": "forsyy",
+     "kills": 8,
+     "deaths": 7,
+     "swing": -2.16,
+     "adr": 74.1,
+     "kast": 83.3,
+     "rating": 0.88
+    },
+    {
+     "player": 19044,
+     "nick": "F1KU",
+     "kills": 3,
+     "deaths": 7,
+     "swing": -7.32,
+     "adr": 26.8,
+     "kast": 83.3,
+     "rating": 0.46
+    }
+   ],
+   "ct": [
+    {
+     "player": 24725,
+     "nick": "qw1nk1",
+     "kills": 11,
+     "deaths": 6,
+     "swing": 7.39,
+     "adr": 79.8,
+     "kast": 66.7,
+     "rating": 1.67
+    },
+    {
+     "player": 19575,
+     "nick": "X5G7V",
+     "kills": 9,
+     "deaths": 7,
+     "swing": 7.61,
+     "adr": 59.2,
+     "kast": 75.0,
+     "rating": 1.54
+    },
+    {
+     "player": 12004,
+     "nick": "clax",
+     "kills": 6,
+     "deaths": 9,
+     "swing": -2.51,
+     "adr": 86.6,
+     "kast": 75.0,
+     "rating": 1.12
+    },
+    {
+     "player": 22886,
+     "nick": "xeedo",
+     "kills": 4,
+     "deaths": 9,
+     "swing": -1.43,
+     "adr": 45.9,
+     "kast": 58.3,
+     "rating": 0.65
+    },
+    {
+     "player": 23686,
+     "nick": "kashl1d",
+     "kills": 1,
+     "deaths": 7,
+     "swing": -2.41,
+     "adr": 8.3,
+     "kast": 75.0,
+     "rating": 0.63
+    },
+    {
+     "player": 19044,
+     "nick": "F1KU",
+     "kills": 12,
+     "deaths": 7,
+     "swing": 12.58,
+     "adr": 108.9,
+     "kast": 77.8,
+     "rating": 2.27
+    },
+    {
+     "player": 19069,
+     "nick": "forsyy",
+     "kills": 7,
+     "deaths": 7,
+     "swing": -0.99,
+     "adr": 89.1,
+     "kast": 77.8,
+     "rating": 1.16
+    },
+    {
+     "player": 14218,
+     "nick": "Plopski",
+     "kills": 4,
+     "deaths": 9,
+     "swing": -3.52,
+     "adr": 74.6,
+     "kast": 66.7,
+     "rating": 0.73
+    },
+    {
+     "player": 24083,
+     "nick": "MaiL09",
+     "kills": 4,
+     "deaths": 7,
+     "swing": -10.17,
+     "adr": 35.7,
+     "kast": 66.7,
+     "rating": 0.55
+    },
+    {
+     "player": 8507,
+     "nick": "stanislaw",
+     "kills": 3,
+     "deaths": 7,
+     "swing": -7.98,
+     "adr": 37.7,
+     "kast": 77.8,
+     "rating": 0.54
+    }
+   ]
+  },
+  "de_cache": {
+   "both": [
+    {
+     "player": 24725,
+     "nick": "qw1nk1",
+     "kills": 15,
+     "deaths": 9,
+     "swing": 9.02,
+     "adr": 82.8,
+     "kast": 89.5,
+     "rating": 1.73
+    },
+    {
+     "player": 12004,
+     "nick": "clax",
+     "kills": 22,
+     "deaths": 14,
+     "swing": 2.74,
+     "adr": 103.8,
+     "kast": 89.5,
+     "rating": 1.6
+    },
+    {
+     "player": 23686,
+     "nick": "kashl1d",
+     "kills": 13,
+     "deaths": 10,
+     "swing": 2.13,
+     "adr": 50.6,
+     "kast": 84.2,
+     "rating": 1.16
+    },
+    {
+     "player": 19575,
+     "nick": "X5G7V",
+     "kills": 10,
+     "deaths": 13,
+     "swing": 0.7,
+     "adr": 67.1,
+     "kast": 84.2,
+     "rating": 1.1
+    },
+    {
+     "player": 22886,
+     "nick": "xeedo",
+     "kills": 9,
+     "deaths": 12,
+     "swing": 1.62,
+     "adr": 69.7,
+     "kast": 78.9,
+     "rating": 1.03
+    },
+    {
+     "player": 24083,
+     "nick": "MaiL09",
+     "kills": 16,
+     "deaths": 15,
+     "swing": 0.07,
+     "adr": 86.1,
+     "kast": 78.9,
+     "rating": 1.19
+    },
+    {
+     "player": 8507,
+     "nick": "stanislaw",
+     "kills": 12,
+     "deaths": 12,
+     "swing": -0.61,
+     "adr": 77.1,
+     "kast": 84.2,
+     "rating": 1.09
+    },
+    {
+     "player": 19069,
+     "nick": "forsyy",
+     "kills": 12,
+     "deaths": 14,
+     "swing": -3.11,
+     "adr": 74.0,
+     "kast": 68.4,
+     "rating": 0.89
+    },
+    {
+     "player": 19044,
+     "nick": "F1KU",
+     "kills": 12,
+     "deaths": 15,
+     "swing": -7.46,
+     "adr": 61.8,
+     "kast": 68.4,
+     "rating": 0.67
+    },
+    {
+     "player": 14218,
+     "nick": "Plopski",
+     "kills": 6,
+     "deaths": 13,
+     "swing": -5.1,
+     "adr": 53.2,
+     "kast": 73.7,
+     "rating": 0.63
+    }
+   ],
+   "t": [
+    {
+     "player": 12004,
+     "nick": "clax",
+     "kills": 11,
+     "deaths": 5,
+     "swing": 8.81,
+     "adr": 156.9,
+     "kast": 85.7,
+     "rating": 2.34
+    },
+    {
+     "player": 24725,
+     "nick": "qw1nk1",
+     "kills": 7,
+     "deaths": 3,
+     "swing": 12.43,
+     "adr": 87.1,
+     "kast": 100.0,
+     "rating": 2.03
+    },
+    {
+     "player": 22886,
+     "nick": "xeedo",
+     "kills": 5,
+     "deaths": 4,
+     "swing": 3.19,
+     "adr": 92.4,
+     "kast": 85.7,
+     "rating": 1.24
+    },
+    {
+     "player": 23686,
+     "nick": "kashl1d",
+     "kills": 5,
+     "deaths": 3,
+     "swing": -1.32,
+     "adr": 41.3,
+     "kast": 85.7,
+     "rating": 0.94
+    },
+    {
+     "player": 19575,
+     "nick": "X5G7V",
+     "kills": 1,
+     "deaths": 5,
+     "swing": -3.23,
+     "adr": 32.0,
+     "kast": 85.7,
+     "rating": 0.64
+    },
+    {
+     "player": 8507,
+     "nick": "stanislaw",
+     "kills": 9,
+     "deaths": 6,
+     "swing": 3.56,
+     "adr": 90.9,
+     "kast": 100.0,
+     "rating": 1.44
+    },
+    {
+     "player": 24083,
+     "nick": "MaiL09",
+     "kills": 9,
+     "deaths": 10,
+     "swing": 0.48,
+     "adr": 83.8,
+     "kast": 83.3,
+     "rating": 1.1
+    },
+    {
+     "player": 14218,
+     "nick": "Plopski",
+     "kills": 6,
+     "deaths": 7,
+     "swing": -3.13,
+     "adr": 63.9,
+     "kast": 83.3,
+     "rating": 0.81
+    },
+    {
+     "player": 19044,
+     "nick": "F1KU",
+     "kills": 9,
+     "deaths": 8,
+     "swing": -8.97,
+     "adr": 72.7,
+     "kast": 75.0,
+     "rating": 0.8
+    },
+    {
+     "player": 19069,
+     "nick": "forsyy",
+     "kills": 5,
+     "deaths": 9,
+     "swing": -6.02,
+     "adr": 60.4,
+     "kast": 58.3,
+     "rating": 0.56
+    }
+   ],
+   "ct": [
+    {
+     "player": 24725,
+     "nick": "qw1nk1",
+     "kills": 8,
+     "deaths": 6,
+     "swing": 7.03,
+     "adr": 80.2,
+     "kast": 83.3,
+     "rating": 1.56
+    },
+    {
+     "player": 19575,
+     "nick": "X5G7V",
+     "kills": 9,
+     "deaths": 8,
+     "swing": 3.0,
+     "adr": 87.6,
+     "kast": 83.3,
+     "rating": 1.36
+    },
+    {
+     "player": 23686,
+     "nick": "kashl1d",
+     "kills": 8,
+     "deaths": 7,
+     "swing": 4.15,
+     "adr": 56.0,
+     "kast": 83.3,
+     "rating": 1.29
+    },
+    {
+     "player": 12004,
+     "nick": "clax",
+     "kills": 11,
+     "deaths": 9,
+     "swing": -0.8,
+     "adr": 72.9,
+     "kast": 91.7,
+     "rating": 1.17
+    },
+    {
+     "player": 22886,
+     "nick": "xeedo",
+     "kills": 4,
+     "deaths": 8,
+     "swing": 0.7,
+     "adr": 56.5,
+     "kast": 75.0,
+     "rating": 0.91
+    },
+    {
+     "player": 19069,
+     "nick": "forsyy",
+     "kills": 7,
+     "deaths": 5,
+     "swing": 1.87,
+     "adr": 97.3,
+     "kast": 85.7,
+     "rating": 1.45
+    },
+    {
+     "player": 24083,
+     "nick": "MaiL09",
+     "kills": 7,
+     "deaths": 5,
+     "swing": -0.62,
+     "adr": 90.1,
+     "kast": 71.4,
+     "rating": 1.32
+    },
+    {
+     "player": 8507,
+     "nick": "stanislaw",
+     "kills": 3,
+     "deaths": 6,
+     "swing": -7.76,
+     "adr": 53.4,
+     "kast": 57.1,
+     "rating": 0.49
+    },
+    {
+     "player": 19044,
+     "nick": "F1KU",
+     "kills": 3,
+     "deaths": 7,
+     "swing": -4.89,
+     "adr": 43.3,
+     "kast": 57.1,
+     "rating": 0.44
+    },
+    {
+     "player": 14218,
+     "nick": "Plopski",
+     "kills": 0,
+     "deaths": 6,
+     "swing": -8.49,
+     "adr": 34.7,
+     "kast": 57.1,
+     "rating": 0.31
+    }
+   ]
+  }
+ },
+ "mvp": null
+}

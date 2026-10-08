@@ -1,28 +1,22 @@
 {
  "id": 2399043,
  "eventId": 9318,
- "stage": "Opening round",
- "time": "2026-10-08T21:30:00+08:00",
+ "stage": "Playoffs",
+ "time": "2026-10-08T14:10:00Z",
  "bo": 3,
- "status": "upcoming",
+ "status": "finished",
  "team1": {
   "id": 13683,
-  "score": null,
+  "score": 0,
   "players": []
  },
  "team2": {
   "id": 10371,
-  "score": null,
+  "score": 2,
   "players": []
  },
  "maps": [],
- "stats": {
-  "all": {
-   "both": [],
-   "t": [],
-   "ct": []
-  }
- },
+ "stats": {},
  "mvp": null,
  "highlight": null,
  "h2h": {

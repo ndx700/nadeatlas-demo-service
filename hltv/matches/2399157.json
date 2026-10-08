@@ -1,0 +1,1321 @@
+{
+ "id": 2399157,
+ "eventId": 9383,
+ "stage": "Playoffs",
+ "time": "2026-10-08T13:00:00Z",
+ "bo": 3,
+ "status": "finished",
+ "team1": {
+  "id": 9958,
+  "score": 1,
+  "players": [
+   18223,
+   20003,
+   23458,
+   21211,
+   23956
+  ]
+ },
+ "team2": {
+  "id": 13331,
+  "score": 2,
+  "players": [
+   20258,
+   20807,
+   23596,
+   24747,
+   23595
+  ]
+ },
+ "maps": [
+  {
+   "map": "de_ancient",
+   "pick": 13331,
+   "score": [
+    13,
+    3
+   ],
+   "halves": [
+    [
+     9,
+     3
+    ],
+    [
+     4,
+     0
+    ]
+   ]
+  },
+  {
+   "map": "de_dust2",
+   "pick": 9958,
+   "score": [
+    14,
+    16
+   ],
+   "halves": [
+    [
+     9,
+     3
+    ],
+    [
+     3,
+     9
+    ]
+   ]
+  },
+  {
+   "map": "de_mirage",
+   "pick": null,
+   "score": [
+    14,
+    16
+   ],
+   "halves": [
+    [
+     7,
+     5
+    ],
+    [
+     5,
+     7
+    ]
+   ]
+  }
+ ],
+ "stats": {
+  "all": {
+   "both": [
+    {
+     "player": 21211,
+     "nick": "adeX",
+     "kills": 73,
+     "deaths": 49,
+     "swing": 3.69,
+     "adr": 94.4,
+     "kast": 75.0,
+     "rating": 1.35
+    },
+    {
+     "player": 18223,
+     "nick": "PokemoN",
+     "kills": 57,
+     "deaths": 50,
+     "swing": 1.15,
+     "adr": 80.3,
+     "kast": 72.4,
+     "rating": 1.2
+    },
+    {
+     "player": 23956,
+     "nick": "Bloody",
+     "kills": 51,
+     "deaths": 48,
+     "swing": 0.67,
+     "adr": 81.5,
+     "kast": 77.6,
+     "rating": 1.17
+    },
+    {
+     "player": 20003,
+     "nick": "shadiy",
+     "kills": 55,
+     "deaths": 49,
+     "swing": -0.39,
+     "adr": 77.3,
+     "kast": 68.4,
+     "rating": 1.05
+    },
+    {
+     "player": 23458,
+     "nick": "laxiee",
+     "kills": 40,
+     "deaths": 52,
+     "swing": -2.98,
+     "adr": 58.2,
+     "kast": 61.8,
+     "rating": 0.79
+    },
+    {
+     "player": 20807,
+     "nick": "rage",
+     "kills": 65,
+     "deaths": 58,
+     "swing": 3.47,
+     "adr": 86.7,
+     "kast": 60.5,
+     "rating": 1.36
+    },
+    {
+     "player": 24747,
+     "nick": "suki",
+     "kills": 50,
+     "deaths": 54,
+     "swing": -0.13,
+     "adr": 78.6,
+     "kast": 64.5,
+     "rating": 1.09
+    },
+    {
+     "player": 23596,
+     "nick": "expSasiKi",
+     "kills": 49,
+     "deaths": 56,
+     "swing": -1.57,
+     "adr": 69.1,
+     "kast": 73.7,
+     "rating": 0.98
+    },
+    {
+     "player": 20258,
+     "nick": "SPine",
+     "kills": 49,
+     "deaths": 54,
+     "swing": -0.26,
+     "adr": 66.9,
+     "kast": 57.9,
+     "rating": 0.97
+    },
+    {
+     "player": 23595,
+     "nick": "chuzhongT",
+     "kills": 34,
+     "deaths": 55,
+     "swing": -3.72,
+     "adr": 53.9,
+     "kast": 63.2,
+     "rating": 0.74
+    }
+   ],
+   "t": [
+    {
+     "player": 21211,
+     "nick": "adeX",
+     "kills": 53,
+     "deaths": 24,
+     "swing": 5.2,
+     "adr": 119.5,
+     "kast": 81.0,
+     "rating": 1.65
+    },
+    {
+     "player": 18223,
+     "nick": "PokemoN",
+     "kills": 32,
+     "deaths": 26,
+     "swing": -0.6,
+     "adr": 76.3,
+     "kast": 71.4,
+     "rating": 1.09
+    },
+    {
+     "player": 23956,
+     "nick": "Bloody",
+     "kills": 27,
+     "deaths": 28,
+     "swing": -1.75,
+     "adr": 89.6,
+     "kast": 81.0,
+     "rating": 1.01
+    },
+    {
+     "player": 20003,
+     "nick": "shadiy",
+     "kills": 31,
+     "deaths": 26,
+     "swing": -1.04,
+     "adr": 75.7,
+     "kast": 71.4,
+     "rating": 0.98
+    },
+    {
+     "player": 23458,
+     "nick": "laxiee",
+     "kills": 16,
+     "deaths": 27,
+     "swing": -3.93,
+     "adr": 47.3,
+     "kast": 66.7,
+     "rating": 0.65
+    },
+    {
+     "player": 24747,
+     "nick": "suki",
+     "kills": 31,
+     "deaths": 23,
+     "swing": 1.21,
+     "adr": 104.5,
+     "kast": 67.6,
+     "rating": 1.42
+    },
+    {
+     "player": 23596,
+     "nick": "expSasiKi",
+     "kills": 22,
+     "deaths": 22,
+     "swing": 0.24,
+     "adr": 78.4,
+     "kast": 82.4,
+     "rating": 1.07
+    },
+    {
+     "player": 20258,
+     "nick": "SPine",
+     "kills": 22,
+     "deaths": 24,
+     "swing": -2.03,
+     "adr": 65.1,
+     "kast": 52.9,
+     "rating": 0.84
+    },
+    {
+     "player": 20807,
+     "nick": "rage",
+     "kills": 25,
+     "deaths": 26,
+     "swing": -2.83,
+     "adr": 71.5,
+     "kast": 64.7,
+     "rating": 0.83
+    },
+    {
+     "player": 23595,
+     "nick": "chuzhongT",
+     "kills": 16,
+     "deaths": 23,
+     "swing": -4.17,
+     "adr": 52.4,
+     "kast": 64.7,
+     "rating": 0.66
+    }
+   ],
+   "ct": [
+    {
+     "player": 23956,
+     "nick": "Bloody",
+     "kills": 24,
+     "deaths": 20,
+     "swing": 3.65,
+     "adr": 71.5,
+     "kast": 73.5,
+     "rating": 1.36
+    },
+    {
+     "player": 18223,
+     "nick": "PokemoN",
+     "kills": 25,
+     "deaths": 24,
+     "swing": 3.32,
+     "adr": 85.4,
+     "kast": 73.5,
+     "rating": 1.34
+    },
+    {
+     "player": 20003,
+     "nick": "shadiy",
+     "kills": 24,
+     "deaths": 23,
+     "swing": 0.42,
+     "adr": 79.4,
+     "kast": 64.7,
+     "rating": 1.14
+    },
+    {
+     "player": 21211,
+     "nick": "adeX",
+     "kills": 20,
+     "deaths": 25,
+     "swing": 1.83,
+     "adr": 63.4,
+     "kast": 67.6,
+     "rating": 0.99
+    },
+    {
+     "player": 23458,
+     "nick": "laxiee",
+     "kills": 24,
+     "deaths": 25,
+     "swing": -1.81,
+     "adr": 71.6,
+     "kast": 55.9,
+     "rating": 0.97
+    },
+    {
+     "player": 20807,
+     "nick": "rage",
+     "kills": 40,
+     "deaths": 32,
+     "swing": 8.57,
+     "adr": 99.0,
+     "kast": 57.1,
+     "rating": 1.8
+    },
+    {
+     "player": 20258,
+     "nick": "SPine",
+     "kills": 27,
+     "deaths": 30,
+     "swing": 1.17,
+     "adr": 68.4,
+     "kast": 61.9,
+     "rating": 1.07
+    },
+    {
+     "player": 23596,
+     "nick": "expSasiKi",
+     "kills": 27,
+     "deaths": 34,
+     "swing": -3.04,
+     "adr": 61.5,
+     "kast": 66.7,
+     "rating": 0.9
+    },
+    {
+     "player": 24747,
+     "nick": "suki",
+     "kills": 19,
+     "deaths": 31,
+     "swing": -1.21,
+     "adr": 57.7,
+     "kast": 61.9,
+     "rating": 0.83
+    },
+    {
+     "player": 23595,
+     "nick": "chuzhongT",
+     "kills": 18,
+     "deaths": 32,
+     "swing": -3.36,
+     "adr": 55.1,
+     "kast": 61.9,
+     "rating": 0.81
+    }
+   ]
+  },
+  "de_ancient": {
+   "both": [
+    {
+     "player": 21211,
+     "nick": "adeX",
+     "kills": 20,
+     "deaths": 6,
+     "swing": 9.84,
+     "adr": 126.1,
+     "kast": 87.5,
+     "rating": 2.04
+    },
+    {
+     "player": 23956,
+     "nick": "Bloody",
+     "kills": 13,
+     "deaths": 7,
+     "swing": 4.4,
+     "adr": 83.9,
+     "kast": 87.5,
+     "rating": 1.49
+    },
+    {
+     "player": 20003,
+     "nick": "shadiy",
+     "kills": 18,
+     "deaths": 10,
+     "swing": 2.99,
+     "adr": 101.9,
+     "kast": 81.2,
+     "rating": 1.4
+    },
+    {
+     "player": 18223,
+     "nick": "PokemoN",
+     "kills": 13,
+     "deaths": 11,
+     "swing": 1.75,
+     "adr": 87.5,
+     "kast": 81.2,
+     "rating": 1.2
+    },
+    {
+     "player": 23458,
+     "nick": "laxiee",
+     "kills": 8,
+     "deaths": 9,
+     "swing": 1.49,
+     "adr": 64.4,
+     "kast": 68.8,
+     "rating": 0.92
+    },
+    {
+     "player": 20807,
+     "nick": "rage",
+     "kills": 16,
+     "deaths": 15,
+     "swing": 7.3,
+     "adr": 103.6,
+     "kast": 62.5,
+     "rating": 1.69
+    },
+    {
+     "player": 24747,
+     "nick": "suki",
+     "kills": 8,
+     "deaths": 14,
+     "swing": -3.11,
+     "adr": 52.6,
+     "kast": 50.0,
+     "rating": 0.81
+    },
+    {
+     "player": 20258,
+     "nick": "SPine",
+     "kills": 8,
+     "deaths": 15,
+     "swing": -6.26,
+     "adr": 60.2,
+     "kast": 50.0,
+     "rating": 0.68
+    },
+    {
+     "player": 23596,
+     "nick": "expSasiKi",
+     "kills": 7,
+     "deaths": 15,
+     "swing": -8.74,
+     "adr": 44.4,
+     "kast": 43.8,
+     "rating": 0.46
+    },
+    {
+     "player": 23595,
+     "nick": "chuzhongT",
+     "kills": 4,
+     "deaths": 14,
+     "swing": -9.65,
+     "adr": 37.2,
+     "kast": 56.2,
+     "rating": 0.42
+    }
+   ],
+   "t": [
+    {
+     "player": 21211,
+     "nick": "adeX",
+     "kills": 19,
+     "deaths": 3,
+     "swing": 10.39,
+     "adr": 137.8,
+     "kast": 83.3,
+     "rating": 2.25
+    },
+    {
+     "player": 20003,
+     "nick": "shadiy",
+     "kills": 12,
+     "deaths": 8,
+     "swing": 1.83,
+     "adr": 94.7,
+     "kast": 83.3,
+     "rating": 1.26
+    },
+    {
+     "player": 23956,
+     "nick": "Bloody",
+     "kills": 8,
+     "deaths": 7,
+     "swing": 0.94,
+     "adr": 84.8,
+     "kast": 83.3,
+     "rating": 1.17
+    },
+    {
+     "player": 18223,
+     "nick": "PokemoN",
+     "kills": 8,
+     "deaths": 8,
+     "swing": -1.01,
+     "adr": 79.1,
+     "kast": 75.0,
+     "rating": 1.01
+    },
+    {
+     "player": 23458,
+     "nick": "laxiee",
+     "kills": 6,
+     "deaths": 7,
+     "swing": 2.09,
+     "adr": 58.0,
+     "kast": 66.7,
+     "rating": 0.9
+    },
+    {
+     "player": 20807,
+     "nick": "rage",
+     "kills": 5,
+     "deaths": 4,
+     "swing": 5.13,
+     "adr": 120.2,
+     "kast": 75.0,
+     "rating": 1.73
+    },
+    {
+     "player": 24747,
+     "nick": "suki",
+     "kills": 3,
+     "deaths": 4,
+     "swing": -5.44,
+     "adr": 53.5,
+     "kast": 50.0,
+     "rating": 1.09
+    },
+    {
+     "player": 23595,
+     "nick": "chuzhongT",
+     "kills": 1,
+     "deaths": 4,
+     "swing": -12.23,
+     "adr": 49.8,
+     "kast": 50.0,
+     "rating": 0.27
+    },
+    {
+     "player": 23596,
+     "nick": "expSasiKi",
+     "kills": 1,
+     "deaths": 4,
+     "swing": -11.26,
+     "adr": 34.0,
+     "kast": 50.0,
+     "rating": 0.24
+    },
+    {
+     "player": 20258,
+     "nick": "SPine",
+     "kills": 0,
+     "deaths": 4,
+     "swing": -15.29,
+     "adr": 44.0,
+     "kast": 25.0,
+     "rating": 0.14
+    }
+   ],
+   "ct": [
+    {
+     "player": 23956,
+     "nick": "Bloody",
+     "kills": 5,
+     "deaths": 0,
+     "swing": 14.77,
+     "adr": 81.0,
+     "kast": 100.0,
+     "rating": 2.42
+    },
+    {
+     "player": 20003,
+     "nick": "shadiy",
+     "kills": 6,
+     "deaths": 2,
+     "swing": 6.46,
+     "adr": 123.5,
+     "kast": 75.0,
+     "rating": 1.8
+    },
+    {
+     "player": 18223,
+     "nick": "PokemoN",
+     "kills": 5,
+     "deaths": 3,
+     "swing": 10.01,
+     "adr": 112.8,
+     "kast": 100.0,
+     "rating": 1.79
+    },
+    {
+     "player": 21211,
+     "nick": "adeX",
+     "kills": 1,
+     "deaths": 3,
+     "swing": 8.16,
+     "adr": 91.0,
+     "kast": 100.0,
+     "rating": 1.43
+    },
+    {
+     "player": 23458,
+     "nick": "laxiee",
+     "kills": 2,
+     "deaths": 2,
+     "swing": -0.3,
+     "adr": 83.5,
+     "kast": 75.0,
+     "rating": 1.0
+    },
+    {
+     "player": 20807,
+     "nick": "rage",
+     "kills": 11,
+     "deaths": 11,
+     "swing": 8.02,
+     "adr": 98.0,
+     "kast": 58.3,
+     "rating": 1.68
+    },
+    {
+     "player": 20258,
+     "nick": "SPine",
+     "kills": 8,
+     "deaths": 11,
+     "swing": -3.25,
+     "adr": 65.7,
+     "kast": 58.3,
+     "rating": 0.86
+    },
+    {
+     "player": 24747,
+     "nick": "suki",
+     "kills": 5,
+     "deaths": 10,
+     "swing": -2.34,
+     "adr": 52.2,
+     "kast": 50.0,
+     "rating": 0.71
+    },
+    {
+     "player": 23596,
+     "nick": "expSasiKi",
+     "kills": 6,
+     "deaths": 11,
+     "swing": -7.89,
+     "adr": 47.8,
+     "kast": 41.7,
+     "rating": 0.53
+    },
+    {
+     "player": 23595,
+     "nick": "chuzhongT",
+     "kills": 3,
+     "deaths": 10,
+     "swing": -8.79,
+     "adr": 33.0,
+     "kast": 58.3,
+     "rating": 0.47
+    }
+   ]
+  },
+  "de_dust2": {
+   "both": [
+    {
+     "player": 18223,
+     "nick": "PokemoN",
+     "kills": 24,
+     "deaths": 19,
+     "swing": 3.33,
+     "adr": 84.6,
+     "kast": 80.0,
+     "rating": 1.41
+    },
+    {
+     "player": 20003,
+     "nick": "shadiy",
+     "kills": 22,
+     "deaths": 17,
+     "swing": 2.35,
+     "adr": 79.5,
+     "kast": 73.3,
+     "rating": 1.29
+    },
+    {
+     "player": 23956,
+     "nick": "Bloody",
+     "kills": 19,
+     "deaths": 20,
+     "swing": -1.36,
+     "adr": 84.8,
+     "kast": 76.7,
+     "rating": 1.13
+    },
+    {
+     "player": 21211,
+     "nick": "adeX",
+     "kills": 23,
+     "deaths": 23,
+     "swing": 1.25,
+     "adr": 81.1,
+     "kast": 73.3,
+     "rating": 1.03
+    },
+    {
+     "player": 23458,
+     "nick": "laxiee",
+     "kills": 17,
+     "deaths": 22,
+     "swing": -7.68,
+     "adr": 56.5,
+     "kast": 50.0,
+     "rating": 0.65
+    },
+    {
+     "player": 20258,
+     "nick": "SPine",
+     "kills": 22,
+     "deaths": 20,
+     "swing": 1.17,
+     "adr": 80.2,
+     "kast": 63.3,
+     "rating": 1.16
+    },
+    {
+     "player": 20807,
+     "nick": "rage",
+     "kills": 24,
+     "deaths": 23,
+     "swing": 1.75,
+     "adr": 79.6,
+     "kast": 60.0,
+     "rating": 1.11
+    },
+    {
+     "player": 24747,
+     "nick": "suki",
+     "kills": 17,
+     "deaths": 20,
+     "swing": 0.66,
+     "adr": 78.5,
+     "kast": 60.0,
+     "rating": 1.07
+    },
+    {
+     "player": 23596,
+     "nick": "expSasiKi",
+     "kills": 21,
+     "deaths": 21,
+     "swing": -0.16,
+     "adr": 70.6,
+     "kast": 76.7,
+     "rating": 1.07
+    },
+    {
+     "player": 23595,
+     "nick": "chuzhongT",
+     "kills": 16,
+     "deaths": 21,
+     "swing": -1.49,
+     "adr": 62.5,
+     "kast": 66.7,
+     "rating": 0.94
+    }
+   ],
+   "t": [
+    {
+     "player": 18223,
+     "nick": "PokemoN",
+     "kills": 13,
+     "deaths": 10,
+     "swing": 2.84,
+     "adr": 88.6,
+     "kast": 73.3,
+     "rating": 1.3
+    },
+    {
+     "player": 21211,
+     "nick": "adeX",
+     "kills": 12,
+     "deaths": 11,
+     "swing": 0.73,
+     "adr": 83.5,
+     "kast": 66.7,
+     "rating": 1.03
+    },
+    {
+     "player": 20003,
+     "nick": "shadiy",
+     "kills": 8,
+     "deaths": 9,
+     "swing": -1.24,
+     "adr": 60.3,
+     "kast": 60.0,
+     "rating": 0.8
+    },
+    {
+     "player": 23956,
+     "nick": "Bloody",
+     "kills": 7,
+     "deaths": 12,
+     "swing": -6.24,
+     "adr": 79.5,
+     "kast": 66.7,
+     "rating": 0.66
+    },
+    {
+     "player": 23458,
+     "nick": "laxiee",
+     "kills": 5,
+     "deaths": 12,
+     "swing": -7.33,
+     "adr": 42.1,
+     "kast": 46.7,
+     "rating": 0.46
+    },
+    {
+     "player": 24747,
+     "nick": "suki",
+     "kills": 10,
+     "deaths": 11,
+     "swing": 3.86,
+     "adr": 110.1,
+     "kast": 53.3,
+     "rating": 1.36
+    },
+    {
+     "player": 23596,
+     "nick": "expSasiKi",
+     "kills": 9,
+     "deaths": 11,
+     "swing": -0.54,
+     "adr": 68.7,
+     "kast": 73.3,
+     "rating": 0.93
+    },
+    {
+     "player": 20258,
+     "nick": "SPine",
+     "kills": 10,
+     "deaths": 13,
+     "swing": -0.37,
+     "adr": 66.2,
+     "kast": 46.7,
+     "rating": 0.88
+    },
+    {
+     "player": 20807,
+     "nick": "rage",
+     "kills": 10,
+     "deaths": 13,
+     "swing": -4.12,
+     "adr": 68.1,
+     "kast": 60.0,
+     "rating": 0.62
+    },
+    {
+     "player": 23595,
+     "nick": "chuzhongT",
+     "kills": 7,
+     "deaths": 12,
+     "swing": -6.25,
+     "adr": 36.9,
+     "kast": 53.3,
+     "rating": 0.48
+    }
+   ],
+   "ct": [
+    {
+     "player": 20003,
+     "nick": "shadiy",
+     "kills": 14,
+     "deaths": 8,
+     "swing": 5.95,
+     "adr": 98.7,
+     "kast": 86.7,
+     "rating": 1.78
+    },
+    {
+     "player": 23956,
+     "nick": "Bloody",
+     "kills": 12,
+     "deaths": 8,
+     "swing": 3.52,
+     "adr": 90.1,
+     "kast": 86.7,
+     "rating": 1.59
+    },
+    {
+     "player": 18223,
+     "nick": "PokemoN",
+     "kills": 11,
+     "deaths": 9,
+     "swing": 3.83,
+     "adr": 80.6,
+     "kast": 86.7,
+     "rating": 1.52
+    },
+    {
+     "player": 21211,
+     "nick": "adeX",
+     "kills": 11,
+     "deaths": 12,
+     "swing": 1.78,
+     "adr": 78.7,
+     "kast": 80.0,
+     "rating": 1.02
+    },
+    {
+     "player": 23458,
+     "nick": "laxiee",
+     "kills": 12,
+     "deaths": 10,
+     "swing": -8.03,
+     "adr": 70.9,
+     "kast": 53.3,
+     "rating": 0.84
+    },
+    {
+     "player": 20807,
+     "nick": "rage",
+     "kills": 14,
+     "deaths": 10,
+     "swing": 7.61,
+     "adr": 91.2,
+     "kast": 60.0,
+     "rating": 1.6
+    },
+    {
+     "player": 20258,
+     "nick": "SPine",
+     "kills": 12,
+     "deaths": 7,
+     "swing": 2.7,
+     "adr": 94.1,
+     "kast": 80.0,
+     "rating": 1.43
+    },
+    {
+     "player": 23595,
+     "nick": "chuzhongT",
+     "kills": 9,
+     "deaths": 9,
+     "swing": 3.27,
+     "adr": 88.1,
+     "kast": 80.0,
+     "rating": 1.41
+    },
+    {
+     "player": 23596,
+     "nick": "expSasiKi",
+     "kills": 12,
+     "deaths": 10,
+     "swing": 0.22,
+     "adr": 72.5,
+     "kast": 80.0,
+     "rating": 1.21
+    },
+    {
+     "player": 24747,
+     "nick": "suki",
+     "kills": 7,
+     "deaths": 9,
+     "swing": -2.54,
+     "adr": 46.8,
+     "kast": 66.7,
+     "rating": 0.79
+    }
+   ]
+  },
+  "de_mirage": {
+   "both": [
+    {
+     "player": 21211,
+     "nick": "adeX",
+     "kills": 30,
+     "deaths": 20,
+     "swing": 2.85,
+     "adr": 90.8,
+     "kast": 70.0,
+     "rating": 1.34
+    },
+    {
+     "player": 23956,
+     "nick": "Bloody",
+     "kills": 19,
+     "deaths": 21,
+     "swing": 0.7,
+     "adr": 77.0,
+     "kast": 73.3,
+     "rating": 1.08
+    },
+    {
+     "player": 18223,
+     "nick": "PokemoN",
+     "kills": 20,
+     "deaths": 20,
+     "swing": -1.35,
+     "adr": 72.3,
+     "kast": 60.0,
+     "rating": 1.02
+    },
+    {
+     "player": 23458,
+     "nick": "laxiee",
+     "kills": 15,
+     "deaths": 21,
+     "swing": -0.67,
+     "adr": 56.6,
+     "kast": 70.0,
+     "rating": 0.93
+    },
+    {
+     "player": 20003,
+     "nick": "shadiy",
+     "kills": 15,
+     "deaths": 22,
+     "swing": -4.92,
+     "adr": 62.1,
+     "kast": 56.7,
+     "rating": 0.7
+    },
+    {
+     "player": 20807,
+     "nick": "rage",
+     "kills": 25,
+     "deaths": 20,
+     "swing": 3.15,
+     "adr": 84.7,
+     "kast": 60.0,
+     "rating": 1.44
+    },
+    {
+     "player": 24747,
+     "nick": "suki",
+     "kills": 25,
+     "deaths": 20,
+     "swing": 0.67,
+     "adr": 92.7,
+     "kast": 76.7,
+     "rating": 1.29
+    },
+    {
+     "player": 23596,
+     "nick": "expSasiKi",
+     "kills": 21,
+     "deaths": 20,
+     "swing": 0.84,
+     "adr": 80.7,
+     "kast": 86.7,
+     "rating": 1.25
+    },
+    {
+     "player": 20258,
+     "nick": "SPine",
+     "kills": 19,
+     "deaths": 19,
+     "swing": 1.51,
+     "adr": 57.2,
+     "kast": 56.7,
+     "rating": 1.0
+    },
+    {
+     "player": 23595,
+     "nick": "chuzhongT",
+     "kills": 14,
+     "deaths": 20,
+     "swing": -2.78,
+     "adr": 54.2,
+     "kast": 63.3,
+     "rating": 0.8
+    }
+   ],
+   "t": [
+    {
+     "player": 21211,
+     "nick": "adeX",
+     "kills": 22,
+     "deaths": 10,
+     "swing": 5.5,
+     "adr": 140.8,
+     "kast": 93.3,
+     "rating": 1.81
+    },
+    {
+     "player": 23956,
+     "nick": "Bloody",
+     "kills": 12,
+     "deaths": 9,
+     "swing": 0.58,
+     "adr": 103.6,
+     "kast": 93.3,
+     "rating": 1.27
+    },
+    {
+     "player": 20003,
+     "nick": "shadiy",
+     "kills": 11,
+     "deaths": 9,
+     "swing": -3.14,
+     "adr": 75.8,
+     "kast": 73.3,
+     "rating": 0.97
+    },
+    {
+     "player": 18223,
+     "nick": "PokemoN",
+     "kills": 11,
+     "deaths": 8,
+     "swing": -3.72,
+     "adr": 61.7,
+     "kast": 66.7,
+     "rating": 0.97
+    },
+    {
+     "player": 23458,
+     "nick": "laxiee",
+     "kills": 5,
+     "deaths": 8,
+     "swing": -5.34,
+     "adr": 44.1,
+     "kast": 86.7,
+     "rating": 0.69
+    },
+    {
+     "player": 24747,
+     "nick": "suki",
+     "kills": 18,
+     "deaths": 8,
+     "swing": 0.33,
+     "adr": 112.5,
+     "kast": 86.7,
+     "rating": 1.6
+    },
+    {
+     "player": 23596,
+     "nick": "expSasiKi",
+     "kills": 12,
+     "deaths": 7,
+     "swing": 4.08,
+     "adr": 100.0,
+     "kast": 100.0,
+     "rating": 1.56
+    },
+    {
+     "player": 20258,
+     "nick": "SPine",
+     "kills": 12,
+     "deaths": 7,
+     "swing": -0.15,
+     "adr": 69.7,
+     "kast": 66.7,
+     "rating": 1.07
+    },
+    {
+     "player": 23595,
+     "nick": "chuzhongT",
+     "kills": 8,
+     "deaths": 7,
+     "swing": 0.07,
+     "adr": 68.5,
+     "kast": 80.0,
+     "rating": 0.99
+    },
+    {
+     "player": 20807,
+     "nick": "rage",
+     "kills": 10,
+     "deaths": 9,
+     "swing": -3.66,
+     "adr": 61.9,
+     "kast": 66.7,
+     "rating": 0.82
+    }
+   ],
+   "ct": [
+    {
+     "player": 23458,
+     "nick": "laxiee",
+     "kills": 10,
+     "deaths": 13,
+     "swing": 4.01,
+     "adr": 69.1,
+     "kast": 53.3,
+     "rating": 1.16
+    },
+    {
+     "player": 18223,
+     "nick": "PokemoN",
+     "kills": 9,
+     "deaths": 12,
+     "swing": 1.02,
+     "adr": 82.9,
+     "kast": 53.3,
+     "rating": 1.07
+    },
+    {
+     "player": 23956,
+     "nick": "Bloody",
+     "kills": 7,
+     "deaths": 12,
+     "swing": 0.82,
+     "adr": 50.4,
+     "kast": 53.3,
+     "rating": 0.89
+    },
+    {
+     "player": 21211,
+     "nick": "adeX",
+     "kills": 8,
+     "deaths": 10,
+     "swing": 0.19,
+     "adr": 40.8,
+     "kast": 46.7,
+     "rating": 0.87
+    },
+    {
+     "player": 20003,
+     "nick": "shadiy",
+     "kills": 4,
+     "deaths": 13,
+     "swing": -6.71,
+     "adr": 48.4,
+     "kast": 40.0,
+     "rating": 0.44
+    },
+    {
+     "player": 20807,
+     "nick": "rage",
+     "kills": 15,
+     "deaths": 11,
+     "swing": 9.96,
+     "adr": 107.5,
+     "kast": 53.3,
+     "rating": 2.07
+    },
+    {
+     "player": 24747,
+     "nick": "suki",
+     "kills": 7,
+     "deaths": 12,
+     "swing": 1.02,
+     "adr": 72.9,
+     "kast": 66.7,
+     "rating": 0.98
+    },
+    {
+     "player": 23596,
+     "nick": "expSasiKi",
+     "kills": 9,
+     "deaths": 13,
+     "swing": -2.4,
+     "adr": 61.5,
+     "kast": 73.3,
+     "rating": 0.94
+    },
+    {
+     "player": 20258,
+     "nick": "SPine",
+     "kills": 7,
+     "deaths": 12,
+     "swing": 3.18,
+     "adr": 44.7,
+     "kast": 46.7,
+     "rating": 0.92
+    },
+    {
+     "player": 23595,
+     "nick": "chuzhongT",
+     "kills": 6,
+     "deaths": 13,
+     "swing": -5.64,
+     "adr": 39.9,
+     "kast": 46.7,
+     "rating": 0.62
+    }
+   ]
+  }
+ },
+ "mvp": null
+}

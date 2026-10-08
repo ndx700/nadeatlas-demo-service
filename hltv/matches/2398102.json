@@ -1,8 +1,8 @@
 {
  "id": 2398102,
  "eventId": 8057,
- "stage": null,
- "time": "2026-09-19T02:35:00+08:00",
+ "stage": "Playoffs",
+ "time": "2026-09-18T18:35:00Z",
  "bo": 3,
  "status": "finished",
  "team1": {
@@ -180,108 +180,6 @@
    ],
    "t": [
     {
-     "player": 11893,
-     "nick": "ZywOo",
-     "kills": 20,
-     "deaths": 15,
-     "swing": 6.81,
-     "adr": 108.0,
-     "kast": 71.4,
-     "rating": 1.62
-    },
-    {
-     "player": 11816,
-     "nick": "ropz",
-     "kills": 13,
-     "deaths": 13,
-     "swing": 3.22,
-     "adr": 65.2,
-     "kast": 81.0,
-     "rating": 1.21
-    },
-    {
-     "player": 7322,
-     "nick": "apEX",
-     "kills": 15,
-     "deaths": 14,
-     "swing": 0.99,
-     "adr": 67.8,
-     "kast": 66.7,
-     "rating": 1.18
-    },
-    {
-     "player": 18462,
-     "nick": "mezii",
-     "kills": 12,
-     "deaths": 13,
-     "swing": 0.75,
-     "adr": 69.4,
-     "kast": 81.0,
-     "rating": 1.06
-    },
-    {
-     "player": 16693,
-     "nick": "flameZ",
-     "kills": 16,
-     "deaths": 17,
-     "swing": -2.05,
-     "adr": 65.6,
-     "kast": 66.7,
-     "rating": 0.93
-    },
-    {
-     "player": 15631,
-     "nick": "KSCERATO",
-     "kills": 16,
-     "deaths": 14,
-     "swing": -1.68,
-     "adr": 86.9,
-     "kast": 72.2,
-     "rating": 1.29
-    },
-    {
-     "player": 2023,
-     "nick": "FalleN",
-     "kills": 10,
-     "deaths": 15,
-     "swing": -0.55,
-     "adr": 61.6,
-     "kast": 55.6,
-     "rating": 0.89
-    },
-    {
-     "player": 24144,
-     "nick": "molodoy",
-     "kills": 9,
-     "deaths": 16,
-     "swing": -6.9,
-     "adr": 69.3,
-     "kast": 61.1,
-     "rating": 0.59
-    },
-    {
-     "player": 13915,
-     "nick": "YEKINDAR",
-     "kills": 8,
-     "deaths": 15,
-     "swing": -4.23,
-     "adr": 57.8,
-     "kast": 44.4,
-     "rating": 0.58
-    },
-    {
-     "player": 12553,
-     "nick": "yuurih",
-     "kills": 7,
-     "deaths": 12,
-     "swing": -6.82,
-     "adr": 41.2,
-     "kast": 61.1,
-     "rating": 0.53
-    }
-   ],
-   "ct": [
-    {
      "player": 18462,
      "nick": "mezii",
      "kills": 15,
@@ -380,6 +278,108 @@
      "adr": 42.9,
      "kast": 66.7,
      "rating": 0.67
+    }
+   ],
+   "ct": [
+    {
+     "player": 11893,
+     "nick": "ZywOo",
+     "kills": 20,
+     "deaths": 15,
+     "swing": 6.81,
+     "adr": 108.0,
+     "kast": 71.4,
+     "rating": 1.62
+    },
+    {
+     "player": 11816,
+     "nick": "ropz",
+     "kills": 13,
+     "deaths": 13,
+     "swing": 3.22,
+     "adr": 65.2,
+     "kast": 81.0,
+     "rating": 1.21
+    },
+    {
+     "player": 7322,
+     "nick": "apEX",
+     "kills": 15,
+     "deaths": 14,
+     "swing": 0.99,
+     "adr": 67.8,
+     "kast": 66.7,
+     "rating": 1.18
+    },
+    {
+     "player": 18462,
+     "nick": "mezii",
+     "kills": 12,
+     "deaths": 13,
+     "swing": 0.75,
+     "adr": 69.4,
+     "kast": 81.0,
+     "rating": 1.06
+    },
+    {
+     "player": 16693,
+     "nick": "flameZ",
+     "kills": 16,
+     "deaths": 17,
+     "swing": -2.05,
+     "adr": 65.6,
+     "kast": 66.7,
+     "rating": 0.93
+    },
+    {
+     "player": 15631,
+     "nick": "KSCERATO",
+     "kills": 16,
+     "deaths": 14,
+     "swing": -1.68,
+     "adr": 86.9,
+     "kast": 72.2,
+     "rating": 1.29
+    },
+    {
+     "player": 2023,
+     "nick": "FalleN",
+     "kills": 10,
+     "deaths": 15,
+     "swing": -0.55,
+     "adr": 61.6,
+     "kast": 55.6,
+     "rating": 0.89
+    },
+    {
+     "player": 24144,
+     "nick": "molodoy",
+     "kills": 9,
+     "deaths": 16,
+     "swing": -6.9,
+     "adr": 69.3,
+     "kast": 61.1,
+     "rating": 0.59
+    },
+    {
+     "player": 13915,
+     "nick": "YEKINDAR",
+     "kills": 8,
+     "deaths": 15,
+     "swing": -4.23,
+     "adr": 57.8,
+     "kast": 44.4,
+     "rating": 0.58
+    },
+    {
+     "player": 12553,
+     "nick": "yuurih",
+     "kills": 7,
+     "deaths": 12,
+     "swing": -6.82,
+     "adr": 41.2,
+     "kast": 61.1,
+     "rating": 0.53
     }
    ]
   },
@@ -490,108 +490,6 @@
     {
      "player": 11893,
      "nick": "ZywOo",
-     "kills": 11,
-     "deaths": 6,
-     "swing": 8.95,
-     "adr": 120.6,
-     "kast": 77.8,
-     "rating": 2.0
-    },
-    {
-     "player": 18462,
-     "nick": "mezii",
-     "kills": 7,
-     "deaths": 4,
-     "swing": 7.09,
-     "adr": 85.4,
-     "kast": 88.9,
-     "rating": 1.66
-    },
-    {
-     "player": 11816,
-     "nick": "ropz",
-     "kills": 6,
-     "deaths": 5,
-     "swing": 5.17,
-     "adr": 66.6,
-     "kast": 88.9,
-     "rating": 1.39
-    },
-    {
-     "player": 16693,
-     "nick": "flameZ",
-     "kills": 6,
-     "deaths": 7,
-     "swing": 2.18,
-     "adr": 74.3,
-     "kast": 77.8,
-     "rating": 1.16
-    },
-    {
-     "player": 7322,
-     "nick": "apEX",
-     "kills": 3,
-     "deaths": 6,
-     "swing": -8.04,
-     "adr": 37.6,
-     "kast": 66.7,
-     "rating": 0.61
-    },
-    {
-     "player": 2023,
-     "nick": "FalleN",
-     "kills": 9,
-     "deaths": 9,
-     "swing": 3.66,
-     "adr": 80.8,
-     "kast": 66.7,
-     "rating": 1.28
-    },
-    {
-     "player": 15631,
-     "nick": "KSCERATO",
-     "kills": 10,
-     "deaths": 8,
-     "swing": -2.13,
-     "adr": 86.7,
-     "kast": 75.0,
-     "rating": 1.11
-    },
-    {
-     "player": 13915,
-     "nick": "YEKINDAR",
-     "kills": 7,
-     "deaths": 9,
-     "swing": 0.4,
-     "adr": 73.9,
-     "kast": 58.3,
-     "rating": 0.9
-    },
-    {
-     "player": 12553,
-     "nick": "yuurih",
-     "kills": 6,
-     "deaths": 8,
-     "swing": -5.9,
-     "adr": 39.8,
-     "kast": 66.7,
-     "rating": 0.66
-    },
-    {
-     "player": 24144,
-     "nick": "molodoy",
-     "kills": 6,
-     "deaths": 10,
-     "swing": -6.9,
-     "adr": 58.8,
-     "kast": 58.3,
-     "rating": 0.57
-    }
-   ],
-   "ct": [
-    {
-     "player": 11893,
-     "nick": "ZywOo",
      "kills": 15,
      "deaths": 7,
      "swing": 8.61,
@@ -688,6 +586,108 @@
      "adr": 65.7,
      "kast": 55.6,
      "rating": 0.59
+    }
+   ],
+   "ct": [
+    {
+     "player": 11893,
+     "nick": "ZywOo",
+     "kills": 11,
+     "deaths": 6,
+     "swing": 8.95,
+     "adr": 120.6,
+     "kast": 77.8,
+     "rating": 2.0
+    },
+    {
+     "player": 18462,
+     "nick": "mezii",
+     "kills": 7,
+     "deaths": 4,
+     "swing": 7.09,
+     "adr": 85.4,
+     "kast": 88.9,
+     "rating": 1.66
+    },
+    {
+     "player": 11816,
+     "nick": "ropz",
+     "kills": 6,
+     "deaths": 5,
+     "swing": 5.17,
+     "adr": 66.6,
+     "kast": 88.9,
+     "rating": 1.39
+    },
+    {
+     "player": 16693,
+     "nick": "flameZ",
+     "kills": 6,
+     "deaths": 7,
+     "swing": 2.18,
+     "adr": 74.3,
+     "kast": 77.8,
+     "rating": 1.16
+    },
+    {
+     "player": 7322,
+     "nick": "apEX",
+     "kills": 3,
+     "deaths": 6,
+     "swing": -8.04,
+     "adr": 37.6,
+     "kast": 66.7,
+     "rating": 0.61
+    },
+    {
+     "player": 2023,
+     "nick": "FalleN",
+     "kills": 9,
+     "deaths": 9,
+     "swing": 3.66,
+     "adr": 80.8,
+     "kast": 66.7,
+     "rating": 1.28
+    },
+    {
+     "player": 15631,
+     "nick": "KSCERATO",
+     "kills": 10,
+     "deaths": 8,
+     "swing": -2.13,
+     "adr": 86.7,
+     "kast": 75.0,
+     "rating": 1.11
+    },
+    {
+     "player": 13915,
+     "nick": "YEKINDAR",
+     "kills": 7,
+     "deaths": 9,
+     "swing": 0.4,
+     "adr": 73.9,
+     "kast": 58.3,
+     "rating": 0.9
+    },
+    {
+     "player": 12553,
+     "nick": "yuurih",
+     "kills": 6,
+     "deaths": 8,
+     "swing": -5.9,
+     "adr": 39.8,
+     "kast": 66.7,
+     "rating": 0.66
+    },
+    {
+     "player": 24144,
+     "nick": "molodoy",
+     "kills": 6,
+     "deaths": 10,
+     "swing": -6.9,
+     "adr": 58.8,
+     "kast": 58.3,
+     "rating": 0.57
     }
    ]
   },
@@ -796,108 +796,6 @@
    ],
    "t": [
     {
-     "player": 7322,
-     "nick": "apEX",
-     "kills": 12,
-     "deaths": 8,
-     "swing": 7.77,
-     "adr": 90.5,
-     "kast": 66.7,
-     "rating": 1.75
-    },
-    {
-     "player": 11893,
-     "nick": "ZywOo",
-     "kills": 9,
-     "deaths": 9,
-     "swing": 5.2,
-     "adr": 98.7,
-     "kast": 66.7,
-     "rating": 1.35
-    },
-    {
-     "player": 11816,
-     "nick": "ropz",
-     "kills": 7,
-     "deaths": 8,
-     "swing": 1.76,
-     "adr": 64.2,
-     "kast": 75.0,
-     "rating": 1.09
-    },
-    {
-     "player": 16693,
-     "nick": "flameZ",
-     "kills": 10,
-     "deaths": 10,
-     "swing": -5.22,
-     "adr": 59.0,
-     "kast": 58.3,
-     "rating": 0.77
-    },
-    {
-     "player": 18462,
-     "nick": "mezii",
-     "kills": 5,
-     "deaths": 9,
-     "swing": -4.01,
-     "adr": 57.3,
-     "kast": 75.0,
-     "rating": 0.65
-    },
-    {
-     "player": 15631,
-     "nick": "KSCERATO",
-     "kills": 6,
-     "deaths": 6,
-     "swing": -0.78,
-     "adr": 87.3,
-     "kast": 66.7,
-     "rating": 1.64
-    },
-    {
-     "player": 24144,
-     "nick": "molodoy",
-     "kills": 3,
-     "deaths": 6,
-     "swing": -6.9,
-     "adr": 90.3,
-     "kast": 66.7,
-     "rating": 0.71
-    },
-    {
-     "player": 12553,
-     "nick": "yuurih",
-     "kills": 1,
-     "deaths": 4,
-     "swing": -8.66,
-     "adr": 44.2,
-     "kast": 50.0,
-     "rating": 0.31
-    },
-    {
-     "player": 2023,
-     "nick": "FalleN",
-     "kills": 1,
-     "deaths": 6,
-     "swing": -8.99,
-     "adr": 23.2,
-     "kast": 33.3,
-     "rating": 0.27
-    },
-    {
-     "player": 13915,
-     "nick": "YEKINDAR",
-     "kills": 1,
-     "deaths": 6,
-     "swing": -13.49,
-     "adr": 25.5,
-     "kast": 16.7,
-     "rating": 0.18
-    }
-   ],
-   "ct": [
-    {
      "player": 18462,
      "nick": "mezii",
      "kills": 5,
@@ -997,10 +895,123 @@
      "kast": 66.7,
      "rating": 0.7
     }
+   ],
+   "ct": [
+    {
+     "player": 7322,
+     "nick": "apEX",
+     "kills": 12,
+     "deaths": 8,
+     "swing": 7.77,
+     "adr": 90.5,
+     "kast": 66.7,
+     "rating": 1.75
+    },
+    {
+     "player": 11893,
+     "nick": "ZywOo",
+     "kills": 9,
+     "deaths": 9,
+     "swing": 5.2,
+     "adr": 98.7,
+     "kast": 66.7,
+     "rating": 1.35
+    },
+    {
+     "player": 11816,
+     "nick": "ropz",
+     "kills": 7,
+     "deaths": 8,
+     "swing": 1.76,
+     "adr": 64.2,
+     "kast": 75.0,
+     "rating": 1.09
+    },
+    {
+     "player": 16693,
+     "nick": "flameZ",
+     "kills": 10,
+     "deaths": 10,
+     "swing": -5.22,
+     "adr": 59.0,
+     "kast": 58.3,
+     "rating": 0.77
+    },
+    {
+     "player": 18462,
+     "nick": "mezii",
+     "kills": 5,
+     "deaths": 9,
+     "swing": -4.01,
+     "adr": 57.3,
+     "kast": 75.0,
+     "rating": 0.65
+    },
+    {
+     "player": 15631,
+     "nick": "KSCERATO",
+     "kills": 6,
+     "deaths": 6,
+     "swing": -0.78,
+     "adr": 87.3,
+     "kast": 66.7,
+     "rating": 1.64
+    },
+    {
+     "player": 24144,
+     "nick": "molodoy",
+     "kills": 3,
+     "deaths": 6,
+     "swing": -6.9,
+     "adr": 90.3,
+     "kast": 66.7,
+     "rating": 0.71
+    },
+    {
+     "player": 12553,
+     "nick": "yuurih",
+     "kills": 1,
+     "deaths": 4,
+     "swing": -8.66,
+     "adr": 44.2,
+     "kast": 50.0,
+     "rating": 0.31
+    },
+    {
+     "player": 2023,
+     "nick": "FalleN",
+     "kills": 1,
+     "deaths": 6,
+     "swing": -8.99,
+     "adr": 23.2,
+     "kast": 33.3,
+     "rating": 0.27
+    },
+    {
+     "player": 13915,
+     "nick": "YEKINDAR",
+     "kills": 1,
+     "deaths": 6,
+     "swing": -13.49,
+     "adr": 25.5,
+     "kast": 16.7,
+     "rating": 0.18
+    }
    ]
   }
  },
- "mvp": 11893,
+ "mvp": {
+  "player": 11893,
+  "nick": "ZywOo",
+  "maps": 2,
+  "kpr": 1.0,
+  "dpr": 0.64,
+  "kast": 79.5,
+  "mkRating": 1.57,
+  "swing": 6.93,
+  "adr": 107.5,
+  "rating": 1.71
+ },
  "highlight": null,
  "h2h": {
   "team1Wins": 15,

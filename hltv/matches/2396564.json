@@ -1,0 +1,680 @@
+{
+ "id": 2396564,
+ "eventId": 8261,
+ "stage": "Group B",
+ "time": "2026-08-12T16:25:00Z",
+ "bo": 1,
+ "status": "finished",
+ "team1": {
+  "id": 9215,
+  "score": 6,
+  "players": [
+   19694,
+   21037,
+   20987,
+   21288,
+   19310
+  ]
+ },
+ "team2": {
+  "id": 6665,
+  "score": 13,
+  "players": [
+   16726,
+   10096,
+   17956,
+   20304,
+   21217
+  ]
+ },
+ "maps": [
+  {
+   "map": "de_inferno",
+   "pick": null,
+   "score": [
+    6,
+    13
+   ],
+   "halves": [
+    [
+     5,
+     7
+    ],
+    [
+     1,
+     6
+    ]
+   ]
+  }
+ ],
+ "stats": {
+  "all": {
+   "both": [
+    {
+     "player": 19694,
+     "nick": "nqz",
+     "kills": 18,
+     "deaths": 12,
+     "swing": 1.66,
+     "adr": 87.2,
+     "kast": 73.7,
+     "rating": 1.31
+    },
+    {
+     "player": 20987,
+     "nick": "brnz4n",
+     "kills": 15,
+     "deaths": 16,
+     "swing": -0.22,
+     "adr": 95.3,
+     "kast": 68.4,
+     "rating": 1.13
+    },
+    {
+     "player": 19310,
+     "nick": "LNZ",
+     "kills": 11,
+     "deaths": 15,
+     "swing": -2.51,
+     "adr": 64.5,
+     "kast": 68.4,
+     "rating": 0.84
+    },
+    {
+     "player": 21037,
+     "nick": "insani",
+     "kills": 11,
+     "deaths": 15,
+     "swing": -8.22,
+     "adr": 75.1,
+     "kast": 57.9,
+     "rating": 0.73
+    },
+    {
+     "player": 21288,
+     "nick": "venomzera",
+     "kills": 5,
+     "deaths": 14,
+     "swing": -5.38,
+     "adr": 34.6,
+     "kast": 68.4,
+     "rating": 0.53
+    },
+    {
+     "player": 21217,
+     "nick": "ryu",
+     "kills": 15,
+     "deaths": 13,
+     "swing": 8.01,
+     "adr": 85.3,
+     "kast": 94.7,
+     "rating": 1.61
+    },
+    {
+     "player": 16726,
+     "nick": "phzy",
+     "kills": 19,
+     "deaths": 13,
+     "swing": 6.01,
+     "adr": 94.4,
+     "kast": 78.9,
+     "rating": 1.58
+    },
+    {
+     "player": 10096,
+     "nick": "HooXi",
+     "kills": 14,
+     "deaths": 12,
+     "swing": 4.26,
+     "adr": 55.3,
+     "kast": 84.2,
+     "rating": 1.43
+    },
+    {
+     "player": 17956,
+     "nick": "jabbi",
+     "kills": 15,
+     "deaths": 12,
+     "swing": -3.35,
+     "adr": 89.3,
+     "kast": 94.7,
+     "rating": 1.2
+    },
+    {
+     "player": 20304,
+     "nick": "Staehr",
+     "kills": 9,
+     "deaths": 12,
+     "swing": -0.24,
+     "adr": 60.5,
+     "kast": 78.9,
+     "rating": 0.89
+    }
+   ],
+   "t": [
+    {
+     "player": 19694,
+     "nick": "nqz",
+     "kills": 13,
+     "deaths": 5,
+     "swing": 10.18,
+     "adr": 93.8,
+     "kast": 91.7,
+     "rating": 1.65
+    },
+    {
+     "player": 19310,
+     "nick": "LNZ",
+     "kills": 9,
+     "deaths": 8,
+     "swing": -1.29,
+     "adr": 79.2,
+     "kast": 91.7,
+     "rating": 1.11
+    },
+    {
+     "player": 21037,
+     "nick": "insani",
+     "kills": 9,
+     "deaths": 8,
+     "swing": -7.23,
+     "adr": 87.2,
+     "kast": 75.0,
+     "rating": 0.96
+    },
+    {
+     "player": 20987,
+     "nick": "brnz4n",
+     "kills": 8,
+     "deaths": 9,
+     "swing": -2.13,
+     "adr": 81.9,
+     "kast": 66.7,
+     "rating": 0.86
+    },
+    {
+     "player": 21288,
+     "nick": "venomzera",
+     "kills": 3,
+     "deaths": 7,
+     "swing": -6.67,
+     "adr": 33.5,
+     "kast": 66.7,
+     "rating": 0.45
+    },
+    {
+     "player": 10096,
+     "nick": "HooXi",
+     "kills": 10,
+     "deaths": 3,
+     "swing": 21.29,
+     "adr": 101.4,
+     "kast": 100.0,
+     "rating": 2.8
+    },
+    {
+     "player": 17956,
+     "nick": "jabbi",
+     "kills": 10,
+     "deaths": 4,
+     "swing": 4.04,
+     "adr": 152.0,
+     "kast": 85.7,
+     "rating": 1.87
+    },
+    {
+     "player": 16726,
+     "nick": "phzy",
+     "kills": 7,
+     "deaths": 5,
+     "swing": 3.85,
+     "adr": 113.3,
+     "kast": 85.7,
+     "rating": 1.51
+    },
+    {
+     "player": 21217,
+     "nick": "ryu",
+     "kills": 5,
+     "deaths": 4,
+     "swing": 0.92,
+     "adr": 79.7,
+     "kast": 100.0,
+     "rating": 1.06
+    },
+    {
+     "player": 20304,
+     "nick": "Staehr",
+     "kills": 3,
+     "deaths": 3,
+     "swing": -2.48,
+     "adr": 47.1,
+     "kast": 100.0,
+     "rating": 0.74
+    }
+   ],
+   "ct": [
+    {
+     "player": 20987,
+     "nick": "brnz4n",
+     "kills": 7,
+     "deaths": 7,
+     "swing": 3.06,
+     "adr": 118.1,
+     "kast": 71.4,
+     "rating": 1.59
+    },
+    {
+     "player": 19694,
+     "nick": "nqz",
+     "kills": 5,
+     "deaths": 7,
+     "swing": -12.95,
+     "adr": 75.7,
+     "kast": 42.9,
+     "rating": 0.74
+    },
+    {
+     "player": 21288,
+     "nick": "venomzera",
+     "kills": 2,
+     "deaths": 7,
+     "swing": -3.18,
+     "adr": 36.6,
+     "kast": 71.4,
+     "rating": 0.67
+    },
+    {
+     "player": 19310,
+     "nick": "LNZ",
+     "kills": 2,
+     "deaths": 7,
+     "swing": -4.61,
+     "adr": 39.3,
+     "kast": 28.6,
+     "rating": 0.37
+    },
+    {
+     "player": 21037,
+     "nick": "insani",
+     "kills": 2,
+     "deaths": 7,
+     "swing": -9.93,
+     "adr": 54.3,
+     "kast": 28.6,
+     "rating": 0.34
+    },
+    {
+     "player": 21217,
+     "nick": "ryu",
+     "kills": 10,
+     "deaths": 9,
+     "swing": 12.15,
+     "adr": 88.5,
+     "kast": 91.7,
+     "rating": 1.94
+    },
+    {
+     "player": 16726,
+     "nick": "phzy",
+     "kills": 12,
+     "deaths": 8,
+     "swing": 7.27,
+     "adr": 83.4,
+     "kast": 75.0,
+     "rating": 1.62
+    },
+    {
+     "player": 20304,
+     "nick": "Staehr",
+     "kills": 6,
+     "deaths": 9,
+     "swing": 1.06,
+     "adr": 68.2,
+     "kast": 66.7,
+     "rating": 0.98
+    },
+    {
+     "player": 17956,
+     "nick": "jabbi",
+     "kills": 5,
+     "deaths": 8,
+     "swing": -7.66,
+     "adr": 52.8,
+     "kast": 100.0,
+     "rating": 0.81
+    },
+    {
+     "player": 10096,
+     "nick": "HooXi",
+     "kills": 4,
+     "deaths": 9,
+     "swing": -5.68,
+     "adr": 28.4,
+     "kast": 75.0,
+     "rating": 0.63
+    }
+   ]
+  },
+  "de_inferno": {
+   "both": [
+    {
+     "player": 19694,
+     "nick": "nqz",
+     "kills": 18,
+     "deaths": 12,
+     "swing": 1.66,
+     "adr": 87.2,
+     "kast": 73.7,
+     "rating": 1.31
+    },
+    {
+     "player": 20987,
+     "nick": "brnz4n",
+     "kills": 15,
+     "deaths": 16,
+     "swing": -0.22,
+     "adr": 95.3,
+     "kast": 68.4,
+     "rating": 1.13
+    },
+    {
+     "player": 19310,
+     "nick": "LNZ",
+     "kills": 11,
+     "deaths": 15,
+     "swing": -2.51,
+     "adr": 64.5,
+     "kast": 68.4,
+     "rating": 0.84
+    },
+    {
+     "player": 21037,
+     "nick": "insani",
+     "kills": 11,
+     "deaths": 15,
+     "swing": -8.22,
+     "adr": 75.1,
+     "kast": 57.9,
+     "rating": 0.73
+    },
+    {
+     "player": 21288,
+     "nick": "venomzera",
+     "kills": 5,
+     "deaths": 14,
+     "swing": -5.38,
+     "adr": 34.6,
+     "kast": 68.4,
+     "rating": 0.53
+    },
+    {
+     "player": 21217,
+     "nick": "ryu",
+     "kills": 15,
+     "deaths": 13,
+     "swing": 8.01,
+     "adr": 85.3,
+     "kast": 94.7,
+     "rating": 1.61
+    },
+    {
+     "player": 16726,
+     "nick": "phzy",
+     "kills": 19,
+     "deaths": 13,
+     "swing": 6.01,
+     "adr": 94.4,
+     "kast": 78.9,
+     "rating": 1.58
+    },
+    {
+     "player": 10096,
+     "nick": "HooXi",
+     "kills": 14,
+     "deaths": 12,
+     "swing": 4.26,
+     "adr": 55.3,
+     "kast": 84.2,
+     "rating": 1.43
+    },
+    {
+     "player": 17956,
+     "nick": "jabbi",
+     "kills": 15,
+     "deaths": 12,
+     "swing": -3.35,
+     "adr": 89.3,
+     "kast": 94.7,
+     "rating": 1.2
+    },
+    {
+     "player": 20304,
+     "nick": "Staehr",
+     "kills": 9,
+     "deaths": 12,
+     "swing": -0.24,
+     "adr": 60.5,
+     "kast": 78.9,
+     "rating": 0.89
+    }
+   ],
+   "t": [
+    {
+     "player": 19694,
+     "nick": "nqz",
+     "kills": 13,
+     "deaths": 5,
+     "swing": 10.18,
+     "adr": 93.8,
+     "kast": 91.7,
+     "rating": 1.65
+    },
+    {
+     "player": 19310,
+     "nick": "LNZ",
+     "kills": 9,
+     "deaths": 8,
+     "swing": -1.29,
+     "adr": 79.2,
+     "kast": 91.7,
+     "rating": 1.11
+    },
+    {
+     "player": 21037,
+     "nick": "insani",
+     "kills": 9,
+     "deaths": 8,
+     "swing": -7.23,
+     "adr": 87.2,
+     "kast": 75.0,
+     "rating": 0.96
+    },
+    {
+     "player": 20987,
+     "nick": "brnz4n",
+     "kills": 8,
+     "deaths": 9,
+     "swing": -2.13,
+     "adr": 81.9,
+     "kast": 66.7,
+     "rating": 0.86
+    },
+    {
+     "player": 21288,
+     "nick": "venomzera",
+     "kills": 3,
+     "deaths": 7,
+     "swing": -6.67,
+     "adr": 33.5,
+     "kast": 66.7,
+     "rating": 0.45
+    },
+    {
+     "player": 10096,
+     "nick": "HooXi",
+     "kills": 10,
+     "deaths": 3,
+     "swing": 21.29,
+     "adr": 101.4,
+     "kast": 100.0,
+     "rating": 2.8
+    },
+    {
+     "player": 17956,
+     "nick": "jabbi",
+     "kills": 10,
+     "deaths": 4,
+     "swing": 4.04,
+     "adr": 152.0,
+     "kast": 85.7,
+     "rating": 1.87
+    },
+    {
+     "player": 16726,
+     "nick": "phzy",
+     "kills": 7,
+     "deaths": 5,
+     "swing": 3.85,
+     "adr": 113.3,
+     "kast": 85.7,
+     "rating": 1.51
+    },
+    {
+     "player": 21217,
+     "nick": "ryu",
+     "kills": 5,
+     "deaths": 4,
+     "swing": 0.92,
+     "adr": 79.7,
+     "kast": 100.0,
+     "rating": 1.06
+    },
+    {
+     "player": 20304,
+     "nick": "Staehr",
+     "kills": 3,
+     "deaths": 3,
+     "swing": -2.48,
+     "adr": 47.1,
+     "kast": 100.0,
+     "rating": 0.74
+    }
+   ],
+   "ct": [
+    {
+     "player": 20987,
+     "nick": "brnz4n",
+     "kills": 7,
+     "deaths": 7,
+     "swing": 3.06,
+     "adr": 118.1,
+     "kast": 71.4,
+     "rating": 1.59
+    },
+    {
+     "player": 19694,
+     "nick": "nqz",
+     "kills": 5,
+     "deaths": 7,
+     "swing": -12.95,
+     "adr": 75.7,
+     "kast": 42.9,
+     "rating": 0.74
+    },
+    {
+     "player": 21288,
+     "nick": "venomzera",
+     "kills": 2,
+     "deaths": 7,
+     "swing": -3.18,
+     "adr": 36.6,
+     "kast": 71.4,
+     "rating": 0.67
+    },
+    {
+     "player": 19310,
+     "nick": "LNZ",
+     "kills": 2,
+     "deaths": 7,
+     "swing": -4.61,
+     "adr": 39.3,
+     "kast": 28.6,
+     "rating": 0.37
+    },
+    {
+     "player": 21037,
+     "nick": "insani",
+     "kills": 2,
+     "deaths": 7,
+     "swing": -9.93,
+     "adr": 54.3,
+     "kast": 28.6,
+     "rating": 0.34
+    },
+    {
+     "player": 21217,
+     "nick": "ryu",
+     "kills": 10,
+     "deaths": 9,
+     "swing": 12.15,
+     "adr": 88.5,
+     "kast": 91.7,
+     "rating": 1.94
+    },
+    {
+     "player": 16726,
+     "nick": "phzy",
+     "kills": 12,
+     "deaths": 8,
+     "swing": 7.27,
+     "adr": 83.4,
+     "kast": 75.0,
+     "rating": 1.62
+    },
+    {
+     "player": 20304,
+     "nick": "Staehr",
+     "kills": 6,
+     "deaths": 9,
+     "swing": 1.06,
+     "adr": 68.2,
+     "kast": 66.7,
+     "rating": 0.98
+    },
+    {
+     "player": 17956,
+     "nick": "jabbi",
+     "kills": 5,
+     "deaths": 8,
+     "swing": -7.66,
+     "adr": 52.8,
+     "kast": 100.0,
+     "rating": 0.81
+    },
+    {
+     "player": 10096,
+     "nick": "HooXi",
+     "kills": 4,
+     "deaths": 9,
+     "swing": -5.68,
+     "adr": 28.4,
+     "kast": 75.0,
+     "rating": 0.63
+    }
+   ]
+  }
+ },
+ "mvp": {
+  "player": 16726,
+  "nick": "phzy",
+  "maps": 1,
+  "kpr": 1.0,
+  "dpr": 0.68,
+  "kast": 78.9,
+  "mkRating": 1.69,
+  "swing": 6.01,
+  "adr": 94.4,
+  "rating": 1.58
+ }
+}

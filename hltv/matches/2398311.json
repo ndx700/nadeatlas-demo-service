@@ -1,0 +1,1004 @@
+{
+ "id": 2398311,
+ "eventId": 9410,
+ "stage": "Playoffs",
+ "time": "2026-09-20T00:00:00Z",
+ "bo": 3,
+ "status": "finished",
+ "team1": {
+  "id": 13665,
+  "score": 0,
+  "players": [
+   19897,
+   25582,
+   14744,
+   21093,
+   20204
+  ]
+ },
+ "team2": {
+  "id": 11955,
+  "score": 2,
+  "players": [
+   15176,
+   12102,
+   22552,
+   19128,
+   16647
+  ]
+ },
+ "maps": [
+  {
+   "map": "de_dust2",
+   "pick": 13665,
+   "score": [
+    4,
+    13
+   ],
+   "halves": [
+    [
+     4,
+     8
+    ],
+    [
+     0,
+     5
+    ]
+   ]
+  },
+  {
+   "map": "de_inferno",
+   "pick": 11955,
+   "score": [
+    5,
+    13
+   ],
+   "halves": [
+    [
+     3,
+     9
+    ],
+    [
+     2,
+     4
+    ]
+   ]
+  },
+  {
+   "map": "de_ancient",
+   "pick": null,
+   "score": [
+    null,
+    null
+   ],
+   "halves": null
+  }
+ ],
+ "stats": {
+  "all": {
+   "both": [
+    {
+     "player": 14744,
+     "nick": "calamity",
+     "kills": 36,
+     "deaths": 32,
+     "swing": 0.41,
+     "adr": 116.2,
+     "kast": 82.9,
+     "rating": 1.58
+    },
+    {
+     "player": 21093,
+     "nick": "sava9e",
+     "kills": 22,
+     "deaths": 29,
+     "swing": -3.97,
+     "adr": 67.1,
+     "kast": 57.1,
+     "rating": 0.81
+    },
+    {
+     "player": 20204,
+     "nick": "BeaKie",
+     "kills": 18,
+     "deaths": 27,
+     "swing": -5.87,
+     "adr": 62.1,
+     "kast": 68.6,
+     "rating": 0.74
+    },
+    {
+     "player": 19897,
+     "nick": "Slugy",
+     "kills": 20,
+     "deaths": 32,
+     "swing": -4.26,
+     "adr": 54.6,
+     "kast": 57.1,
+     "rating": 0.69
+    },
+    {
+     "player": 25582,
+     "nick": "Signal",
+     "kills": 16,
+     "deaths": 29,
+     "swing": -4.58,
+     "adr": 53.7,
+     "kast": 57.1,
+     "rating": 0.67
+    },
+    {
+     "player": 19128,
+     "nick": "SLIGHT",
+     "kills": 36,
+     "deaths": 20,
+     "swing": 8.95,
+     "adr": 97.8,
+     "kast": 85.7,
+     "rating": 1.77
+    },
+    {
+     "player": 15176,
+     "nick": "Cryptic",
+     "kills": 30,
+     "deaths": 21,
+     "swing": 3.55,
+     "adr": 99.0,
+     "kast": 85.7,
+     "rating": 1.45
+    },
+    {
+     "player": 22552,
+     "nick": "Sandman",
+     "kills": 30,
+     "deaths": 23,
+     "swing": 3.48,
+     "adr": 80.9,
+     "kast": 80.0,
+     "rating": 1.26
+    },
+    {
+     "player": 12102,
+     "nick": "djay",
+     "kills": 27,
+     "deaths": 22,
+     "swing": 2.05,
+     "adr": 90.6,
+     "kast": 77.1,
+     "rating": 1.24
+    },
+    {
+     "player": 16647,
+     "nick": "Bwills",
+     "kills": 22,
+     "deaths": 26,
+     "swing": -0.07,
+     "adr": 74.2,
+     "kast": 77.1,
+     "rating": 1.01
+    }
+   ],
+   "t": [
+    {
+     "player": 14744,
+     "nick": "calamity",
+     "kills": 17,
+     "deaths": 18,
+     "swing": -2.72,
+     "adr": 110.6,
+     "kast": 82.4,
+     "rating": 1.39
+    },
+    {
+     "player": 25582,
+     "nick": "Signal",
+     "kills": 12,
+     "deaths": 13,
+     "swing": -5.41,
+     "adr": 65.8,
+     "kast": 64.7,
+     "rating": 0.86
+    },
+    {
+     "player": 21093,
+     "nick": "sava9e",
+     "kills": 11,
+     "deaths": 14,
+     "swing": -5.03,
+     "adr": 66.3,
+     "kast": 64.7,
+     "rating": 0.81
+    },
+    {
+     "player": 20204,
+     "nick": "BeaKie",
+     "kills": 8,
+     "deaths": 13,
+     "swing": -5.71,
+     "adr": 65.4,
+     "kast": 76.5,
+     "rating": 0.68
+    },
+    {
+     "player": 19897,
+     "nick": "Slugy",
+     "kills": 10,
+     "deaths": 15,
+     "swing": -3.78,
+     "adr": 49.9,
+     "kast": 52.9,
+     "rating": 0.62
+    },
+    {
+     "player": 19128,
+     "nick": "SLIGHT",
+     "kills": 22,
+     "deaths": 11,
+     "swing": 7.82,
+     "adr": 117.4,
+     "kast": 94.4,
+     "rating": 1.85
+    },
+    {
+     "player": 15176,
+     "nick": "Cryptic",
+     "kills": 18,
+     "deaths": 10,
+     "swing": 3.31,
+     "adr": 112.6,
+     "kast": 77.8,
+     "rating": 1.44
+    },
+    {
+     "player": 12102,
+     "nick": "djay",
+     "kills": 13,
+     "deaths": 11,
+     "swing": 2.38,
+     "adr": 73.2,
+     "kast": 88.9,
+     "rating": 1.18
+    },
+    {
+     "player": 22552,
+     "nick": "Sandman",
+     "kills": 13,
+     "deaths": 11,
+     "swing": 1.85,
+     "adr": 71.2,
+     "kast": 83.3,
+     "rating": 1.06
+    },
+    {
+     "player": 16647,
+     "nick": "Bwills",
+     "kills": 9,
+     "deaths": 11,
+     "swing": -1.82,
+     "adr": 72.1,
+     "kast": 83.3,
+     "rating": 0.96
+    }
+   ],
+   "ct": [
+    {
+     "player": 14744,
+     "nick": "calamity",
+     "kills": 19,
+     "deaths": 14,
+     "swing": 3.36,
+     "adr": 121.4,
+     "kast": 83.3,
+     "rating": 1.76
+    },
+    {
+     "player": 21093,
+     "nick": "sava9e",
+     "kills": 11,
+     "deaths": 15,
+     "swing": -2.96,
+     "adr": 67.8,
+     "kast": 50.0,
+     "rating": 0.8
+    },
+    {
+     "player": 20204,
+     "nick": "BeaKie",
+     "kills": 10,
+     "deaths": 14,
+     "swing": -6.03,
+     "adr": 58.9,
+     "kast": 61.1,
+     "rating": 0.79
+    },
+    {
+     "player": 19897,
+     "nick": "Slugy",
+     "kills": 10,
+     "deaths": 17,
+     "swing": -4.72,
+     "adr": 59.1,
+     "kast": 61.1,
+     "rating": 0.75
+    },
+    {
+     "player": 25582,
+     "nick": "Signal",
+     "kills": 4,
+     "deaths": 16,
+     "swing": -3.79,
+     "adr": 42.2,
+     "kast": 50.0,
+     "rating": 0.49
+    },
+    {
+     "player": 19128,
+     "nick": "SLIGHT",
+     "kills": 14,
+     "deaths": 9,
+     "swing": 10.15,
+     "adr": 77.1,
+     "kast": 76.5,
+     "rating": 1.69
+    },
+    {
+     "player": 15176,
+     "nick": "Cryptic",
+     "kills": 12,
+     "deaths": 11,
+     "swing": 3.8,
+     "adr": 84.6,
+     "kast": 94.1,
+     "rating": 1.47
+    },
+    {
+     "player": 22552,
+     "nick": "Sandman",
+     "kills": 17,
+     "deaths": 12,
+     "swing": 5.21,
+     "adr": 91.1,
+     "kast": 76.5,
+     "rating": 1.46
+    },
+    {
+     "player": 12102,
+     "nick": "djay",
+     "kills": 14,
+     "deaths": 11,
+     "swing": 1.71,
+     "adr": 109.1,
+     "kast": 64.7,
+     "rating": 1.31
+    },
+    {
+     "player": 16647,
+     "nick": "Bwills",
+     "kills": 13,
+     "deaths": 15,
+     "swing": 1.78,
+     "adr": 76.4,
+     "kast": 70.6,
+     "rating": 1.06
+    }
+   ]
+  },
+  "de_dust2": {
+   "both": [
+    {
+     "player": 14744,
+     "nick": "calamity",
+     "kills": 21,
+     "deaths": 14,
+     "swing": 3.54,
+     "adr": 136.3,
+     "kast": 82.4,
+     "rating": 1.97
+    },
+    {
+     "player": 21093,
+     "nick": "sava9e",
+     "kills": 15,
+     "deaths": 14,
+     "swing": 0.7,
+     "adr": 83.4,
+     "kast": 58.8,
+     "rating": 1.22
+    },
+    {
+     "player": 20204,
+     "nick": "BeaKie",
+     "kills": 6,
+     "deaths": 15,
+     "swing": -8.92,
+     "adr": 41.3,
+     "kast": 64.7,
+     "rating": 0.58
+    },
+    {
+     "player": 19897,
+     "nick": "Slugy",
+     "kills": 5,
+     "deaths": 17,
+     "swing": -8.35,
+     "adr": 42.4,
+     "kast": 52.9,
+     "rating": 0.48
+    },
+    {
+     "player": 25582,
+     "nick": "Signal",
+     "kills": 4,
+     "deaths": 16,
+     "swing": -7.48,
+     "adr": 36.7,
+     "kast": 47.1,
+     "rating": 0.4
+    },
+    {
+     "player": 19128,
+     "nick": "SLIGHT",
+     "kills": 18,
+     "deaths": 10,
+     "swing": 10.34,
+     "adr": 106.4,
+     "kast": 100.0,
+     "rating": 1.89
+    },
+    {
+     "player": 12102,
+     "nick": "djay",
+     "kills": 16,
+     "deaths": 9,
+     "swing": 3.49,
+     "adr": 91.3,
+     "kast": 88.2,
+     "rating": 1.45
+    },
+    {
+     "player": 22552,
+     "nick": "Sandman",
+     "kills": 16,
+     "deaths": 11,
+     "swing": 5.78,
+     "adr": 89.2,
+     "kast": 82.4,
+     "rating": 1.43
+    },
+    {
+     "player": 15176,
+     "nick": "Cryptic",
+     "kills": 14,
+     "deaths": 9,
+     "swing": 3.78,
+     "adr": 91.5,
+     "kast": 82.4,
+     "rating": 1.36
+    },
+    {
+     "player": 16647,
+     "nick": "Bwills",
+     "kills": 11,
+     "deaths": 12,
+     "swing": -3.53,
+     "adr": 83.9,
+     "kast": 82.4,
+     "rating": 0.98
+    }
+   ],
+   "t": [
+    {
+     "player": 14744,
+     "nick": "calamity",
+     "kills": 5,
+     "deaths": 5,
+     "swing": -4.16,
+     "adr": 116.2,
+     "kast": 80.0,
+     "rating": 1.3
+    },
+    {
+     "player": 21093,
+     "nick": "sava9e",
+     "kills": 4,
+     "deaths": 5,
+     "swing": 1.61,
+     "adr": 62.6,
+     "kast": 40.0,
+     "rating": 1.02
+    },
+    {
+     "player": 20204,
+     "nick": "BeaKie",
+     "kills": 1,
+     "deaths": 5,
+     "swing": -10.47,
+     "adr": 35.0,
+     "kast": 60.0,
+     "rating": 0.34
+    },
+    {
+     "player": 25582,
+     "nick": "Signal",
+     "kills": 2,
+     "deaths": 5,
+     "swing": -14.74,
+     "adr": 36.6,
+     "kast": 40.0,
+     "rating": 0.29
+    },
+    {
+     "player": 19897,
+     "nick": "Slugy",
+     "kills": 0,
+     "deaths": 5,
+     "swing": -7.77,
+     "adr": 28.4,
+     "kast": 20.0,
+     "rating": 0.21
+    },
+    {
+     "player": 19128,
+     "nick": "SLIGHT",
+     "kills": 13,
+     "deaths": 8,
+     "swing": 6.67,
+     "adr": 109.2,
+     "kast": 100.0,
+     "rating": 1.69
+    },
+    {
+     "player": 12102,
+     "nick": "djay",
+     "kills": 11,
+     "deaths": 7,
+     "swing": 4.84,
+     "adr": 77.6,
+     "kast": 91.7,
+     "rating": 1.41
+    },
+    {
+     "player": 15176,
+     "nick": "Cryptic",
+     "kills": 11,
+     "deaths": 7,
+     "swing": 4.18,
+     "adr": 105.0,
+     "kast": 75.0,
+     "rating": 1.36
+    },
+    {
+     "player": 22552,
+     "nick": "Sandman",
+     "kills": 9,
+     "deaths": 8,
+     "swing": 2.74,
+     "adr": 74.4,
+     "kast": 83.3,
+     "rating": 1.08
+    },
+    {
+     "player": 16647,
+     "nick": "Bwills",
+     "kills": 6,
+     "deaths": 9,
+     "swing": -5.1,
+     "adr": 82.0,
+     "kast": 75.0,
+     "rating": 0.83
+    }
+   ],
+   "ct": [
+    {
+     "player": 14744,
+     "nick": "calamity",
+     "kills": 16,
+     "deaths": 9,
+     "swing": 6.74,
+     "adr": 144.7,
+     "kast": 83.3,
+     "rating": 2.25
+    },
+    {
+     "player": 21093,
+     "nick": "sava9e",
+     "kills": 11,
+     "deaths": 9,
+     "swing": 0.32,
+     "adr": 92.0,
+     "kast": 66.7,
+     "rating": 1.31
+    },
+    {
+     "player": 20204,
+     "nick": "BeaKie",
+     "kills": 5,
+     "deaths": 10,
+     "swing": -8.27,
+     "adr": 43.9,
+     "kast": 66.7,
+     "rating": 0.68
+    },
+    {
+     "player": 19897,
+     "nick": "Slugy",
+     "kills": 5,
+     "deaths": 12,
+     "swing": -8.59,
+     "adr": 48.2,
+     "kast": 66.7,
+     "rating": 0.59
+    },
+    {
+     "player": 25582,
+     "nick": "Signal",
+     "kills": 2,
+     "deaths": 11,
+     "swing": -4.45,
+     "adr": 36.8,
+     "kast": 50.0,
+     "rating": 0.44
+    },
+    {
+     "player": 19128,
+     "nick": "SLIGHT",
+     "kills": 5,
+     "deaths": 2,
+     "swing": 19.16,
+     "adr": 99.8,
+     "kast": 100.0,
+     "rating": 2.35
+    },
+    {
+     "player": 22552,
+     "nick": "Sandman",
+     "kills": 7,
+     "deaths": 3,
+     "swing": 13.07,
+     "adr": 124.8,
+     "kast": 80.0,
+     "rating": 2.27
+    },
+    {
+     "player": 12102,
+     "nick": "djay",
+     "kills": 5,
+     "deaths": 2,
+     "swing": 0.24,
+     "adr": 124.2,
+     "kast": 80.0,
+     "rating": 1.55
+    },
+    {
+     "player": 15176,
+     "nick": "Cryptic",
+     "kills": 3,
+     "deaths": 2,
+     "swing": 2.83,
+     "adr": 59.0,
+     "kast": 100.0,
+     "rating": 1.37
+    },
+    {
+     "player": 16647,
+     "nick": "Bwills",
+     "kills": 5,
+     "deaths": 3,
+     "swing": 0.24,
+     "adr": 88.6,
+     "kast": 100.0,
+     "rating": 1.34
+    }
+   ]
+  },
+  "de_inferno": {
+   "both": [
+    {
+     "player": 14744,
+     "nick": "calamity",
+     "kills": 15,
+     "deaths": 18,
+     "swing": -2.54,
+     "adr": 97.2,
+     "kast": 83.3,
+     "rating": 1.24
+    },
+    {
+     "player": 25582,
+     "nick": "Signal",
+     "kills": 12,
+     "deaths": 13,
+     "swing": -1.84,
+     "adr": 69.7,
+     "kast": 66.7,
+     "rating": 0.97
+    },
+    {
+     "player": 19897,
+     "nick": "Slugy",
+     "kills": 15,
+     "deaths": 15,
+     "swing": -0.41,
+     "adr": 66.2,
+     "kast": 61.1,
+     "rating": 0.97
+    },
+    {
+     "player": 20204,
+     "nick": "BeaKie",
+     "kills": 12,
+     "deaths": 12,
+     "swing": -3.0,
+     "adr": 81.7,
+     "kast": 72.2,
+     "rating": 0.92
+    },
+    {
+     "player": 21093,
+     "nick": "sava9e",
+     "kills": 7,
+     "deaths": 15,
+     "swing": -8.38,
+     "adr": 51.7,
+     "kast": 55.6,
+     "rating": 0.56
+    },
+    {
+     "player": 19128,
+     "nick": "SLIGHT",
+     "kills": 18,
+     "deaths": 10,
+     "swing": 7.64,
+     "adr": 89.7,
+     "kast": 72.2,
+     "rating": 1.66
+    },
+    {
+     "player": 15176,
+     "nick": "Cryptic",
+     "kills": 16,
+     "deaths": 12,
+     "swing": 3.33,
+     "adr": 106.1,
+     "kast": 88.9,
+     "rating": 1.55
+    },
+    {
+     "player": 22552,
+     "nick": "Sandman",
+     "kills": 14,
+     "deaths": 12,
+     "swing": 1.32,
+     "adr": 72.9,
+     "kast": 77.8,
+     "rating": 1.11
+    },
+    {
+     "player": 16647,
+     "nick": "Bwills",
+     "kills": 11,
+     "deaths": 14,
+     "swing": 3.19,
+     "adr": 64.9,
+     "kast": 72.2,
+     "rating": 1.09
+    },
+    {
+     "player": 12102,
+     "nick": "djay",
+     "kills": 11,
+     "deaths": 13,
+     "swing": 0.7,
+     "adr": 89.9,
+     "kast": 66.7,
+     "rating": 1.07
+    }
+   ],
+   "t": [
+    {
+     "player": 14744,
+     "nick": "calamity",
+     "kills": 12,
+     "deaths": 13,
+     "swing": -2.12,
+     "adr": 108.2,
+     "kast": 83.3,
+     "rating": 1.42
+    },
+    {
+     "player": 25582,
+     "nick": "Signal",
+     "kills": 10,
+     "deaths": 8,
+     "swing": -1.53,
+     "adr": 77.9,
+     "kast": 75.0,
+     "rating": 1.16
+    },
+    {
+     "player": 19897,
+     "nick": "Slugy",
+     "kills": 10,
+     "deaths": 10,
+     "swing": -2.12,
+     "adr": 58.8,
+     "kast": 66.7,
+     "rating": 0.86
+    },
+    {
+     "player": 20204,
+     "nick": "BeaKie",
+     "kills": 7,
+     "deaths": 8,
+     "swing": -3.72,
+     "adr": 78.1,
+     "kast": 83.3,
+     "rating": 0.84
+    },
+    {
+     "player": 21093,
+     "nick": "sava9e",
+     "kills": 7,
+     "deaths": 9,
+     "swing": -7.8,
+     "adr": 67.8,
+     "kast": 75.0,
+     "rating": 0.76
+    },
+    {
+     "player": 19128,
+     "nick": "SLIGHT",
+     "kills": 9,
+     "deaths": 3,
+     "swing": 10.13,
+     "adr": 134.0,
+     "kast": 83.3,
+     "rating": 2.18
+    },
+    {
+     "player": 15176,
+     "nick": "Cryptic",
+     "kills": 7,
+     "deaths": 3,
+     "swing": 1.58,
+     "adr": 127.7,
+     "kast": 83.3,
+     "rating": 1.6
+    },
+    {
+     "player": 16647,
+     "nick": "Bwills",
+     "kills": 3,
+     "deaths": 2,
+     "swing": 4.73,
+     "adr": 52.3,
+     "kast": 100.0,
+     "rating": 1.29
+    },
+    {
+     "player": 22552,
+     "nick": "Sandman",
+     "kills": 4,
+     "deaths": 3,
+     "swing": 0.07,
+     "adr": 64.7,
+     "kast": 83.3,
+     "rating": 1.03
+    },
+    {
+     "player": 12102,
+     "nick": "djay",
+     "kills": 2,
+     "deaths": 4,
+     "swing": -2.56,
+     "adr": 64.3,
+     "kast": 83.3,
+     "rating": 0.78
+    }
+   ],
+   "ct": [
+    {
+     "player": 19897,
+     "nick": "Slugy",
+     "kills": 5,
+     "deaths": 5,
+     "swing": 3.01,
+     "adr": 80.8,
+     "kast": 50.0,
+     "rating": 1.2
+    },
+    {
+     "player": 20204,
+     "nick": "BeaKie",
+     "kills": 5,
+     "deaths": 4,
+     "swing": -1.55,
+     "adr": 89.0,
+     "kast": 50.0,
+     "rating": 1.08
+    },
+    {
+     "player": 14744,
+     "nick": "calamity",
+     "kills": 3,
+     "deaths": 5,
+     "swing": -3.4,
+     "adr": 75.0,
+     "kast": 83.3,
+     "rating": 0.89
+    },
+    {
+     "player": 25582,
+     "nick": "Signal",
+     "kills": 2,
+     "deaths": 5,
+     "swing": -2.48,
+     "adr": 53.2,
+     "kast": 50.0,
+     "rating": 0.59
+    },
+    {
+     "player": 21093,
+     "nick": "sava9e",
+     "kills": 0,
+     "deaths": 6,
+     "swing": -9.53,
+     "adr": 19.5,
+     "kast": 16.7,
+     "rating": 0.15
+    },
+    {
+     "player": 15176,
+     "nick": "Cryptic",
+     "kills": 9,
+     "deaths": 9,
+     "swing": 4.2,
+     "adr": 95.3,
+     "kast": 91.7,
+     "rating": 1.52
+    },
+    {
+     "player": 19128,
+     "nick": "SLIGHT",
+     "kills": 9,
+     "deaths": 7,
+     "swing": 6.4,
+     "adr": 67.6,
+     "kast": 66.7,
+     "rating": 1.4
+    },
+    {
+     "player": 12102,
+     "nick": "djay",
+     "kills": 9,
+     "deaths": 9,
+     "swing": 2.32,
+     "adr": 102.8,
+     "kast": 58.3,
+     "rating": 1.21
+    },
+    {
+     "player": 22552,
+     "nick": "Sandman",
+     "kills": 10,
+     "deaths": 9,
+     "swing": 1.94,
+     "adr": 77.1,
+     "kast": 75.0,
+     "rating": 1.15
+    },
+    {
+     "player": 16647,
+     "nick": "Bwills",
+     "kills": 8,
+     "deaths": 12,
+     "swing": 2.42,
+     "adr": 71.2,
+     "kast": 58.3,
+     "rating": 0.99
+    }
+   ]
+  }
+ },
+ "mvp": null
+}

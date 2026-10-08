@@ -1,0 +1,1004 @@
+{
+ "id": 2399360,
+ "eventId": 9374,
+ "stage": "Group C",
+ "time": "2026-10-08T13:00:00Z",
+ "bo": 3,
+ "status": "finished",
+ "team1": {
+  "id": 13747,
+  "score": 0,
+  "players": [
+   20805,
+   15118,
+   20739,
+   22728,
+   23268
+  ]
+ },
+ "team2": {
+  "id": 13759,
+  "score": 2,
+  "players": [
+   13980,
+   25495,
+   25735,
+   26058,
+   26060
+  ]
+ },
+ "maps": [
+  {
+   "map": "de_ancient",
+   "pick": 13747,
+   "score": [
+    5,
+    13
+   ],
+   "halves": [
+    [
+     5,
+     7
+    ],
+    [
+     0,
+     6
+    ]
+   ]
+  },
+  {
+   "map": "de_mirage",
+   "pick": 13759,
+   "score": [
+    5,
+    13
+   ],
+   "halves": [
+    [
+     3,
+     9
+    ],
+    [
+     2,
+     4
+    ]
+   ]
+  },
+  {
+   "map": "de_dust2",
+   "pick": null,
+   "score": [
+    null,
+    null
+   ],
+   "halves": null
+  }
+ ],
+ "stats": {
+  "all": {
+   "both": [
+    {
+     "player": 20739,
+     "nick": "Askan",
+     "kills": 22,
+     "deaths": 32,
+     "swing": -0.78,
+     "adr": 81.1,
+     "kast": 69.4,
+     "rating": 0.96
+    },
+    {
+     "player": 23268,
+     "nick": "kdaN",
+     "kills": 13,
+     "deaths": 25,
+     "swing": -0.17,
+     "adr": 49.6,
+     "kast": 58.3,
+     "rating": 0.84
+    },
+    {
+     "player": 22728,
+     "nick": "RiiL3",
+     "kills": 19,
+     "deaths": 26,
+     "swing": -1.13,
+     "adr": 58.9,
+     "kast": 52.8,
+     "rating": 0.83
+    },
+    {
+     "player": 15118,
+     "nick": "SBT",
+     "kills": 14,
+     "deaths": 30,
+     "swing": -8.97,
+     "adr": 55.0,
+     "kast": 61.1,
+     "rating": 0.52
+    },
+    {
+     "player": 20805,
+     "nick": "Rezst",
+     "kills": 14,
+     "deaths": 28,
+     "swing": -8.23,
+     "adr": 45.7,
+     "kast": 50.0,
+     "rating": 0.44
+    },
+    {
+     "player": 13980,
+     "nick": "lollipop21k",
+     "kills": 42,
+     "deaths": 20,
+     "swing": 11.23,
+     "adr": 117.8,
+     "kast": 80.6,
+     "rating": 2.08
+    },
+    {
+     "player": 25495,
+     "nick": "menddel",
+     "kills": 32,
+     "deaths": 9,
+     "swing": 2.85,
+     "adr": 78.9,
+     "kast": 91.7,
+     "rating": 1.47
+    },
+    {
+     "player": 26058,
+     "nick": "shootic",
+     "kills": 24,
+     "deaths": 14,
+     "swing": 3.57,
+     "adr": 73.3,
+     "kast": 83.3,
+     "rating": 1.38
+    },
+    {
+     "player": 26060,
+     "nick": "Maksilvl",
+     "kills": 21,
+     "deaths": 21,
+     "swing": 1.96,
+     "adr": 73.3,
+     "kast": 72.2,
+     "rating": 1.13
+    },
+    {
+     "player": 25735,
+     "nick": "mdl",
+     "kills": 20,
+     "deaths": 18,
+     "swing": -0.38,
+     "adr": 73.7,
+     "kast": 86.1,
+     "rating": 1.03
+    }
+   ],
+   "t": [
+    {
+     "player": 20739,
+     "nick": "Askan",
+     "kills": 13,
+     "deaths": 15,
+     "swing": 0.5,
+     "adr": 92.5,
+     "kast": 72.2,
+     "rating": 1.12
+    },
+    {
+     "player": 15118,
+     "nick": "SBT",
+     "kills": 11,
+     "deaths": 15,
+     "swing": -10.27,
+     "adr": 77.8,
+     "kast": 66.7,
+     "rating": 0.65
+    },
+    {
+     "player": 20805,
+     "nick": "Rezst",
+     "kills": 11,
+     "deaths": 12,
+     "swing": -7.57,
+     "adr": 51.6,
+     "kast": 72.2,
+     "rating": 0.58
+    },
+    {
+     "player": 22728,
+     "nick": "RiiL3",
+     "kills": 5,
+     "deaths": 13,
+     "swing": -8.16,
+     "adr": 45.0,
+     "kast": 50.0,
+     "rating": 0.4
+    },
+    {
+     "player": 23268,
+     "nick": "kdaN",
+     "kills": 2,
+     "deaths": 12,
+     "swing": -6.14,
+     "adr": 21.9,
+     "kast": 55.6,
+     "rating": 0.37
+    },
+    {
+     "player": 25495,
+     "nick": "menddel",
+     "kills": 19,
+     "deaths": 5,
+     "swing": 2.58,
+     "adr": 88.2,
+     "kast": 94.4,
+     "rating": 1.53
+    },
+    {
+     "player": 13980,
+     "nick": "lollipop21k",
+     "kills": 18,
+     "deaths": 11,
+     "swing": 5.97,
+     "adr": 100.1,
+     "kast": 88.9,
+     "rating": 1.5
+    },
+    {
+     "player": 25735,
+     "nick": "mdl",
+     "kills": 17,
+     "deaths": 8,
+     "swing": 2.69,
+     "adr": 102.7,
+     "kast": 94.4,
+     "rating": 1.36
+    },
+    {
+     "player": 26060,
+     "nick": "Maksilvl",
+     "kills": 9,
+     "deaths": 10,
+     "swing": -0.63,
+     "adr": 78.9,
+     "kast": 83.3,
+     "rating": 0.98
+    },
+    {
+     "player": 26058,
+     "nick": "shootic",
+     "kills": 9,
+     "deaths": 6,
+     "swing": -3.78,
+     "adr": 55.1,
+     "kast": 77.8,
+     "rating": 0.82
+    }
+   ],
+   "ct": [
+    {
+     "player": 23268,
+     "nick": "kdaN",
+     "kills": 11,
+     "deaths": 13,
+     "swing": 5.81,
+     "adr": 77.3,
+     "kast": 61.1,
+     "rating": 1.3
+    },
+    {
+     "player": 22728,
+     "nick": "RiiL3",
+     "kills": 14,
+     "deaths": 13,
+     "swing": 5.9,
+     "adr": 72.9,
+     "kast": 55.6,
+     "rating": 1.27
+    },
+    {
+     "player": 20739,
+     "nick": "Askan",
+     "kills": 9,
+     "deaths": 17,
+     "swing": -2.07,
+     "adr": 69.6,
+     "kast": 66.7,
+     "rating": 0.79
+    },
+    {
+     "player": 15118,
+     "nick": "SBT",
+     "kills": 3,
+     "deaths": 15,
+     "swing": -7.67,
+     "adr": 32.2,
+     "kast": 55.6,
+     "rating": 0.39
+    },
+    {
+     "player": 20805,
+     "nick": "Rezst",
+     "kills": 3,
+     "deaths": 16,
+     "swing": -8.88,
+     "adr": 39.8,
+     "kast": 27.8,
+     "rating": 0.3
+    },
+    {
+     "player": 13980,
+     "nick": "lollipop21k",
+     "kills": 24,
+     "deaths": 9,
+     "swing": 16.49,
+     "adr": 135.4,
+     "kast": 72.2,
+     "rating": 2.66
+    },
+    {
+     "player": 26058,
+     "nick": "shootic",
+     "kills": 15,
+     "deaths": 8,
+     "swing": 10.92,
+     "adr": 91.6,
+     "kast": 88.9,
+     "rating": 1.95
+    },
+    {
+     "player": 25495,
+     "nick": "menddel",
+     "kills": 13,
+     "deaths": 4,
+     "swing": 3.13,
+     "adr": 69.6,
+     "kast": 88.9,
+     "rating": 1.4
+    },
+    {
+     "player": 26060,
+     "nick": "Maksilvl",
+     "kills": 12,
+     "deaths": 11,
+     "swing": 4.55,
+     "adr": 67.7,
+     "kast": 61.1,
+     "rating": 1.28
+    },
+    {
+     "player": 25735,
+     "nick": "mdl",
+     "kills": 3,
+     "deaths": 10,
+     "swing": -3.44,
+     "adr": 44.8,
+     "kast": 77.8,
+     "rating": 0.7
+    }
+   ]
+  },
+  "de_ancient": {
+   "both": [
+    {
+     "player": 22728,
+     "nick": "RiiL3",
+     "kills": 12,
+     "deaths": 12,
+     "swing": 6.4,
+     "adr": 69.8,
+     "kast": 55.6,
+     "rating": 1.28
+    },
+    {
+     "player": 20739,
+     "nick": "Askan",
+     "kills": 9,
+     "deaths": 17,
+     "swing": -3.6,
+     "adr": 79.3,
+     "kast": 50.0,
+     "rating": 0.73
+    },
+    {
+     "player": 23268,
+     "nick": "kdaN",
+     "kills": 6,
+     "deaths": 13,
+     "swing": 0.29,
+     "adr": 48.8,
+     "kast": 44.4,
+     "rating": 0.72
+    },
+    {
+     "player": 20805,
+     "nick": "Rezst",
+     "kills": 2,
+     "deaths": 15,
+     "swing": -11.81,
+     "adr": 38.7,
+     "kast": 38.9,
+     "rating": 0.26
+    },
+    {
+     "player": 15118,
+     "nick": "SBT",
+     "kills": 2,
+     "deaths": 16,
+     "swing": -11.1,
+     "adr": 16.4,
+     "kast": 33.3,
+     "rating": 0.23
+    },
+    {
+     "player": 13980,
+     "nick": "lollipop21k",
+     "kills": 23,
+     "deaths": 7,
+     "swing": 13.88,
+     "adr": 127.4,
+     "kast": 94.4,
+     "rating": 2.4
+    },
+    {
+     "player": 25495,
+     "nick": "menddel",
+     "kills": 19,
+     "deaths": 4,
+     "swing": 2.14,
+     "adr": 86.4,
+     "kast": 100.0,
+     "rating": 1.55
+    },
+    {
+     "player": 26060,
+     "nick": "Maksilvl",
+     "kills": 11,
+     "deaths": 8,
+     "swing": 3.37,
+     "adr": 82.7,
+     "kast": 83.3,
+     "rating": 1.34
+    },
+    {
+     "player": 25735,
+     "nick": "mdl",
+     "kills": 12,
+     "deaths": 6,
+     "swing": 1.06,
+     "adr": 72.2,
+     "kast": 94.4,
+     "rating": 1.27
+    },
+    {
+     "player": 26058,
+     "nick": "shootic",
+     "kills": 8,
+     "deaths": 6,
+     "swing": -0.61,
+     "adr": 51.4,
+     "kast": 83.3,
+     "rating": 0.96
+    }
+   ],
+   "t": [
+    {
+     "player": 20739,
+     "nick": "Askan",
+     "kills": 2,
+     "deaths": 6,
+     "swing": -7.61,
+     "adr": 75.7,
+     "kast": 33.3,
+     "rating": 0.46
+    },
+    {
+     "player": 22728,
+     "nick": "RiiL3",
+     "kills": 2,
+     "deaths": 5,
+     "swing": -3.08,
+     "adr": 40.0,
+     "kast": 50.0,
+     "rating": 0.45
+    },
+    {
+     "player": 23268,
+     "nick": "kdaN",
+     "kills": 0,
+     "deaths": 4,
+     "swing": -3.17,
+     "adr": 16.8,
+     "kast": 33.3,
+     "rating": 0.32
+    },
+    {
+     "player": 15118,
+     "nick": "SBT",
+     "kills": 1,
+     "deaths": 6,
+     "swing": -16.58,
+     "adr": 32.2,
+     "kast": 16.7,
+     "rating": 0.14
+    },
+    {
+     "player": 20805,
+     "nick": "Rezst",
+     "kills": 0,
+     "deaths": 4,
+     "swing": -16.39,
+     "adr": 15.2,
+     "kast": 50.0,
+     "rating": 0.11
+    },
+    {
+     "player": 13980,
+     "nick": "lollipop21k",
+     "kills": 12,
+     "deaths": 7,
+     "swing": 7.42,
+     "adr": 100.3,
+     "kast": 91.7,
+     "rating": 1.63
+    },
+    {
+     "player": 25735,
+     "nick": "mdl",
+     "kills": 12,
+     "deaths": 5,
+     "swing": 1.78,
+     "adr": 98.8,
+     "kast": 91.7,
+     "rating": 1.42
+    },
+    {
+     "player": 25495,
+     "nick": "menddel",
+     "kills": 13,
+     "deaths": 4,
+     "swing": 1.24,
+     "adr": 89.9,
+     "kast": 100.0,
+     "rating": 1.41
+    },
+    {
+     "player": 26060,
+     "nick": "Maksilvl",
+     "kills": 5,
+     "deaths": 6,
+     "swing": -2.08,
+     "adr": 76.8,
+     "kast": 83.3,
+     "rating": 0.91
+    },
+    {
+     "player": 26058,
+     "nick": "shootic",
+     "kills": 6,
+     "deaths": 4,
+     "swing": -2.04,
+     "adr": 53.9,
+     "kast": 75.0,
+     "rating": 0.86
+    }
+   ],
+   "ct": [
+    {
+     "player": 22728,
+     "nick": "RiiL3",
+     "kills": 10,
+     "deaths": 7,
+     "swing": 11.14,
+     "adr": 84.8,
+     "kast": 58.3,
+     "rating": 1.69
+    },
+    {
+     "player": 23268,
+     "nick": "kdaN",
+     "kills": 6,
+     "deaths": 9,
+     "swing": 2.02,
+     "adr": 64.8,
+     "kast": 50.0,
+     "rating": 0.92
+    },
+    {
+     "player": 20739,
+     "nick": "Askan",
+     "kills": 7,
+     "deaths": 11,
+     "swing": -1.59,
+     "adr": 81.1,
+     "kast": 58.3,
+     "rating": 0.86
+    },
+    {
+     "player": 20805,
+     "nick": "Rezst",
+     "kills": 2,
+     "deaths": 11,
+     "swing": -9.53,
+     "adr": 50.5,
+     "kast": 33.3,
+     "rating": 0.34
+    },
+    {
+     "player": 15118,
+     "nick": "SBT",
+     "kills": 1,
+     "deaths": 10,
+     "swing": -8.35,
+     "adr": 8.6,
+     "kast": 41.7,
+     "rating": 0.27
+    },
+    {
+     "player": 13980,
+     "nick": "lollipop21k",
+     "kills": 11,
+     "deaths": 0,
+     "swing": 26.79,
+     "adr": 181.5,
+     "kast": 100.0,
+     "rating": 3.96
+    },
+    {
+     "player": 26060,
+     "nick": "Maksilvl",
+     "kills": 6,
+     "deaths": 2,
+     "swing": 14.26,
+     "adr": 94.3,
+     "kast": 83.3,
+     "rating": 2.19
+    },
+    {
+     "player": 25495,
+     "nick": "menddel",
+     "kills": 6,
+     "deaths": 0,
+     "swing": 3.92,
+     "adr": 79.3,
+     "kast": 100.0,
+     "rating": 1.82
+    },
+    {
+     "player": 26058,
+     "nick": "shootic",
+     "kills": 2,
+     "deaths": 2,
+     "swing": 2.25,
+     "adr": 46.5,
+     "kast": 100.0,
+     "rating": 1.16
+    },
+    {
+     "player": 25735,
+     "nick": "mdl",
+     "kills": 0,
+     "deaths": 1,
+     "swing": -0.39,
+     "adr": 19.0,
+     "kast": 100.0,
+     "rating": 0.99
+    }
+   ]
+  },
+  "de_mirage": {
+   "both": [
+    {
+     "player": 20739,
+     "nick": "Askan",
+     "kills": 13,
+     "deaths": 15,
+     "swing": 2.03,
+     "adr": 82.8,
+     "kast": 88.9,
+     "rating": 1.27
+    },
+    {
+     "player": 23268,
+     "nick": "kdaN",
+     "kills": 7,
+     "deaths": 12,
+     "swing": -0.62,
+     "adr": 50.4,
+     "kast": 72.2,
+     "rating": 1.02
+    },
+    {
+     "player": 15118,
+     "nick": "SBT",
+     "kills": 12,
+     "deaths": 14,
+     "swing": -6.85,
+     "adr": 93.6,
+     "kast": 88.9,
+     "rating": 0.95
+    },
+    {
+     "player": 20805,
+     "nick": "Rezst",
+     "kills": 12,
+     "deaths": 13,
+     "swing": -4.64,
+     "adr": 52.7,
+     "kast": 61.1,
+     "rating": 0.71
+    },
+    {
+     "player": 22728,
+     "nick": "RiiL3",
+     "kills": 7,
+     "deaths": 14,
+     "swing": -8.66,
+     "adr": 48.1,
+     "kast": 50.0,
+     "rating": 0.44
+    },
+    {
+     "player": 26058,
+     "nick": "shootic",
+     "kills": 16,
+     "deaths": 8,
+     "swing": 7.74,
+     "adr": 95.2,
+     "kast": 83.3,
+     "rating": 1.84
+    },
+    {
+     "player": 13980,
+     "nick": "lollipop21k",
+     "kills": 19,
+     "deaths": 13,
+     "swing": 8.59,
+     "adr": 108.1,
+     "kast": 66.7,
+     "rating": 1.72
+    },
+    {
+     "player": 25495,
+     "nick": "menddel",
+     "kills": 13,
+     "deaths": 5,
+     "swing": 3.57,
+     "adr": 71.3,
+     "kast": 83.3,
+     "rating": 1.4
+    },
+    {
+     "player": 26060,
+     "nick": "Maksilvl",
+     "kills": 10,
+     "deaths": 13,
+     "swing": 0.56,
+     "adr": 63.9,
+     "kast": 61.1,
+     "rating": 0.96
+    },
+    {
+     "player": 25735,
+     "nick": "mdl",
+     "kills": 8,
+     "deaths": 12,
+     "swing": -1.81,
+     "adr": 75.2,
+     "kast": 77.8,
+     "rating": 0.82
+    }
+   ],
+   "t": [
+    {
+     "player": 20739,
+     "nick": "Askan",
+     "kills": 11,
+     "deaths": 9,
+     "swing": 4.55,
+     "adr": 100.9,
+     "kast": 91.7,
+     "rating": 1.55
+    },
+    {
+     "player": 15118,
+     "nick": "SBT",
+     "kills": 10,
+     "deaths": 9,
+     "swing": -7.12,
+     "adr": 100.6,
+     "kast": 91.7,
+     "rating": 1.03
+    },
+    {
+     "player": 20805,
+     "nick": "Rezst",
+     "kills": 11,
+     "deaths": 8,
+     "swing": -3.16,
+     "adr": 69.8,
+     "kast": 83.3,
+     "rating": 0.94
+    },
+    {
+     "player": 23268,
+     "nick": "kdaN",
+     "kills": 2,
+     "deaths": 8,
+     "swing": -7.63,
+     "adr": 24.5,
+     "kast": 66.7,
+     "rating": 0.44
+    },
+    {
+     "player": 22728,
+     "nick": "RiiL3",
+     "kills": 3,
+     "deaths": 8,
+     "swing": -10.7,
+     "adr": 47.5,
+     "kast": 50.0,
+     "rating": 0.38
+    },
+    {
+     "player": 25495,
+     "nick": "menddel",
+     "kills": 6,
+     "deaths": 1,
+     "swing": 5.26,
+     "adr": 84.7,
+     "kast": 83.3,
+     "rating": 1.79
+    },
+    {
+     "player": 25735,
+     "nick": "mdl",
+     "kills": 5,
+     "deaths": 3,
+     "swing": 4.51,
+     "adr": 110.3,
+     "kast": 100.0,
+     "rating": 1.26
+    },
+    {
+     "player": 13980,
+     "nick": "lollipop21k",
+     "kills": 6,
+     "deaths": 4,
+     "swing": 3.08,
+     "adr": 99.7,
+     "kast": 83.3,
+     "rating": 1.25
+    },
+    {
+     "player": 26060,
+     "nick": "Maksilvl",
+     "kills": 4,
+     "deaths": 4,
+     "swing": 2.27,
+     "adr": 83.2,
+     "kast": 83.3,
+     "rating": 1.11
+    },
+    {
+     "player": 26058,
+     "nick": "shootic",
+     "kills": 3,
+     "deaths": 2,
+     "swing": -7.27,
+     "adr": 57.5,
+     "kast": 83.3,
+     "rating": 0.75
+    }
+   ],
+   "ct": [
+    {
+     "player": 23268,
+     "nick": "kdaN",
+     "kills": 5,
+     "deaths": 4,
+     "swing": 13.39,
+     "adr": 102.2,
+     "kast": 83.3,
+     "rating": 2.19
+    },
+    {
+     "player": 15118,
+     "nick": "SBT",
+     "kills": 2,
+     "deaths": 5,
+     "swing": -6.31,
+     "adr": 79.5,
+     "kast": 83.3,
+     "rating": 0.77
+    },
+    {
+     "player": 20739,
+     "nick": "Askan",
+     "kills": 2,
+     "deaths": 6,
+     "swing": -3.02,
+     "adr": 46.7,
+     "kast": 83.3,
+     "rating": 0.7
+    },
+    {
+     "player": 22728,
+     "nick": "RiiL3",
+     "kills": 4,
+     "deaths": 6,
+     "swing": -4.57,
+     "adr": 49.2,
+     "kast": 50.0,
+     "rating": 0.58
+    },
+    {
+     "player": 20805,
+     "nick": "Rezst",
+     "kills": 1,
+     "deaths": 5,
+     "swing": -7.6,
+     "adr": 18.5,
+     "kast": 16.7,
+     "rating": 0.24
+    },
+    {
+     "player": 26058,
+     "nick": "shootic",
+     "kills": 13,
+     "deaths": 6,
+     "swing": 15.25,
+     "adr": 114.1,
+     "kast": 83.3,
+     "rating": 2.38
+    },
+    {
+     "player": 13980,
+     "nick": "lollipop21k",
+     "kills": 13,
+     "deaths": 9,
+     "swing": 11.34,
+     "adr": 112.3,
+     "kast": 58.3,
+     "rating": 1.96
+    },
+    {
+     "player": 25495,
+     "nick": "menddel",
+     "kills": 7,
+     "deaths": 4,
+     "swing": 2.73,
+     "adr": 64.7,
+     "kast": 83.3,
+     "rating": 1.2
+    },
+    {
+     "player": 26060,
+     "nick": "Maksilvl",
+     "kills": 6,
+     "deaths": 9,
+     "swing": -0.3,
+     "adr": 54.3,
+     "kast": 50.0,
+     "rating": 0.89
+    },
+    {
+     "player": 25735,
+     "nick": "mdl",
+     "kills": 3,
+     "deaths": 9,
+     "swing": -4.97,
+     "adr": 57.7,
+     "kast": 66.7,
+     "rating": 0.6
+    }
+   ]
+  }
+ },
+ "mvp": null
+}

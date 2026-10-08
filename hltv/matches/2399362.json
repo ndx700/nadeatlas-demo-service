@@ -1,28 +1,22 @@
 {
  "id": 2399362,
  "eventId": 9374,
- "stage": null,
- "time": "2026-10-09T01:00:00+08:00",
+ "stage": "Playoffs",
+ "time": "2026-10-08T17:00:00Z",
  "bo": 3,
- "status": "upcoming",
+ "status": "finished",
  "team1": {
   "id": 13998,
-  "score": null,
+  "score": 2,
   "players": []
  },
  "team2": {
   "id": 13759,
-  "score": null,
+  "score": 0,
   "players": []
  },
  "maps": [],
- "stats": {
-  "all": {
-   "both": [],
-   "t": [],
-   "ct": []
-  }
- },
+ "stats": {},
  "mvp": null,
  "highlight": null,
  "h2h": {

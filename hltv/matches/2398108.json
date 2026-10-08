@@ -1,8 +1,8 @@
 {
  "id": 2398108,
  "eventId": 8057,
- "stage": null,
- "time": "2026-09-20T23:00:00+08:00",
+ "stage": "Playoffs",
+ "time": "2026-09-20T15:00:00Z",
  "bo": 5,
  "status": "finished",
  "team1": {
@@ -216,108 +216,6 @@
    ],
    "t": [
     {
-     "player": 21243,
-     "nick": "Wicadia",
-     "kills": 37,
-     "deaths": 31,
-     "swing": 2.74,
-     "adr": 81.9,
-     "kast": 72.7,
-     "rating": 1.44
-    },
-    {
-     "player": 18850,
-     "nick": "Jimpphat",
-     "kills": 26,
-     "deaths": 32,
-     "swing": -2.04,
-     "adr": 63.4,
-     "kast": 59.1,
-     "rating": 0.92
-    },
-    {
-     "player": 19677,
-     "nick": "kyxsan",
-     "kills": 18,
-     "deaths": 36,
-     "swing": -1.45,
-     "adr": 51.0,
-     "kast": 59.1,
-     "rating": 0.82
-    },
-    {
-     "player": 7938,
-     "nick": "XANTARES",
-     "kills": 18,
-     "deaths": 36,
-     "swing": -6.26,
-     "adr": 61.5,
-     "kast": 56.8,
-     "rating": 0.62
-    },
-    {
-     "player": 8574,
-     "nick": "woxic",
-     "kills": 13,
-     "deaths": 34,
-     "swing": -4.26,
-     "adr": 35.4,
-     "kast": 56.8,
-     "rating": 0.61
-    },
-    {
-     "player": 11893,
-     "nick": "ZywOo",
-     "kills": 36,
-     "deaths": 23,
-     "swing": 10.09,
-     "adr": 110.4,
-     "kast": 85.3,
-     "rating": 2.07
-    },
-    {
-     "player": 11816,
-     "nick": "ropz",
-     "kills": 29,
-     "deaths": 20,
-     "swing": 3.12,
-     "adr": 89.9,
-     "kast": 82.4,
-     "rating": 1.49
-    },
-    {
-     "player": 7322,
-     "nick": "apEX",
-     "kills": 20,
-     "deaths": 19,
-     "swing": 0.56,
-     "adr": 61.0,
-     "kast": 70.6,
-     "rating": 1.06
-    },
-    {
-     "player": 18462,
-     "nick": "mezii",
-     "kills": 18,
-     "deaths": 20,
-     "swing": -2.62,
-     "adr": 53.3,
-     "kast": 70.6,
-     "rating": 0.91
-    },
-    {
-     "player": 16693,
-     "nick": "flameZ",
-     "kills": 14,
-     "deaths": 26,
-     "swing": -2.57,
-     "adr": 61.6,
-     "kast": 76.5,
-     "rating": 0.84
-    }
-   ],
-   "ct": [
-    {
      "player": 8574,
      "nick": "woxic",
      "kills": 26,
@@ -416,6 +314,108 @@
      "adr": 61.6,
      "kast": 79.5,
      "rating": 0.83
+    }
+   ],
+   "ct": [
+    {
+     "player": 21243,
+     "nick": "Wicadia",
+     "kills": 37,
+     "deaths": 31,
+     "swing": 2.74,
+     "adr": 81.9,
+     "kast": 72.7,
+     "rating": 1.44
+    },
+    {
+     "player": 18850,
+     "nick": "Jimpphat",
+     "kills": 26,
+     "deaths": 32,
+     "swing": -2.04,
+     "adr": 63.4,
+     "kast": 59.1,
+     "rating": 0.92
+    },
+    {
+     "player": 19677,
+     "nick": "kyxsan",
+     "kills": 18,
+     "deaths": 36,
+     "swing": -1.45,
+     "adr": 51.0,
+     "kast": 59.1,
+     "rating": 0.82
+    },
+    {
+     "player": 7938,
+     "nick": "XANTARES",
+     "kills": 18,
+     "deaths": 36,
+     "swing": -6.26,
+     "adr": 61.5,
+     "kast": 56.8,
+     "rating": 0.62
+    },
+    {
+     "player": 8574,
+     "nick": "woxic",
+     "kills": 13,
+     "deaths": 34,
+     "swing": -4.26,
+     "adr": 35.4,
+     "kast": 56.8,
+     "rating": 0.61
+    },
+    {
+     "player": 11893,
+     "nick": "ZywOo",
+     "kills": 36,
+     "deaths": 23,
+     "swing": 10.09,
+     "adr": 110.4,
+     "kast": 85.3,
+     "rating": 2.07
+    },
+    {
+     "player": 11816,
+     "nick": "ropz",
+     "kills": 29,
+     "deaths": 20,
+     "swing": 3.12,
+     "adr": 89.9,
+     "kast": 82.4,
+     "rating": 1.49
+    },
+    {
+     "player": 7322,
+     "nick": "apEX",
+     "kills": 20,
+     "deaths": 19,
+     "swing": 0.56,
+     "adr": 61.0,
+     "kast": 70.6,
+     "rating": 1.06
+    },
+    {
+     "player": 18462,
+     "nick": "mezii",
+     "kills": 18,
+     "deaths": 20,
+     "swing": -2.62,
+     "adr": 53.3,
+     "kast": 70.6,
+     "rating": 0.91
+    },
+    {
+     "player": 16693,
+     "nick": "flameZ",
+     "kills": 14,
+     "deaths": 26,
+     "swing": -2.57,
+     "adr": 61.6,
+     "kast": 76.5,
+     "rating": 0.84
     }
    ]
   },
@@ -526,108 +526,6 @@
     {
      "player": 21243,
      "nick": "Wicadia",
-     "kills": 8,
-     "deaths": 10,
-     "swing": -2.21,
-     "adr": 63.2,
-     "kast": 58.3,
-     "rating": 0.99
-    },
-    {
-     "player": 7938,
-     "nick": "XANTARES",
-     "kills": 7,
-     "deaths": 10,
-     "swing": -3.73,
-     "adr": 85.0,
-     "kast": 66.7,
-     "rating": 0.85
-    },
-    {
-     "player": 8574,
-     "nick": "woxic",
-     "kills": 5,
-     "deaths": 9,
-     "swing": -4.18,
-     "adr": 48.6,
-     "kast": 58.3,
-     "rating": 0.69
-    },
-    {
-     "player": 19677,
-     "nick": "kyxsan",
-     "kills": 4,
-     "deaths": 10,
-     "swing": -6.24,
-     "adr": 38.2,
-     "kast": 58.3,
-     "rating": 0.63
-    },
-    {
-     "player": 18850,
-     "nick": "Jimpphat",
-     "kills": 5,
-     "deaths": 9,
-     "swing": -6.36,
-     "adr": 34.6,
-     "kast": 50.0,
-     "rating": 0.55
-    },
-    {
-     "player": 11893,
-     "nick": "ZywOo",
-     "kills": 8,
-     "deaths": 3,
-     "swing": 15.3,
-     "adr": 154.8,
-     "kast": 100.0,
-     "rating": 2.89
-    },
-    {
-     "player": 11816,
-     "nick": "ropz",
-     "kills": 6,
-     "deaths": 2,
-     "swing": 4.75,
-     "adr": 117.4,
-     "kast": 100.0,
-     "rating": 1.92
-    },
-    {
-     "player": 18462,
-     "nick": "mezii",
-     "kills": 5,
-     "deaths": 4,
-     "swing": 1.5,
-     "adr": 83.4,
-     "kast": 100.0,
-     "rating": 1.25
-    },
-    {
-     "player": 7322,
-     "nick": "apEX",
-     "kills": 2,
-     "deaths": 2,
-     "swing": 1.59,
-     "adr": 62.0,
-     "kast": 80.0,
-     "rating": 1.06
-    },
-    {
-     "player": 16693,
-     "nick": "flameZ",
-     "kills": 1,
-     "deaths": 5,
-     "swing": -6.39,
-     "adr": 50.0,
-     "kast": 60.0,
-     "rating": 0.38
-    }
-   ],
-   "ct": [
-    {
-     "player": 21243,
-     "nick": "Wicadia",
      "kills": 6,
      "deaths": 5,
      "swing": 5.05,
@@ -724,6 +622,108 @@
      "adr": 54.2,
      "kast": 75.0,
      "rating": 0.55
+    }
+   ],
+   "ct": [
+    {
+     "player": 21243,
+     "nick": "Wicadia",
+     "kills": 8,
+     "deaths": 10,
+     "swing": -2.21,
+     "adr": 63.2,
+     "kast": 58.3,
+     "rating": 0.99
+    },
+    {
+     "player": 7938,
+     "nick": "XANTARES",
+     "kills": 7,
+     "deaths": 10,
+     "swing": -3.73,
+     "adr": 85.0,
+     "kast": 66.7,
+     "rating": 0.85
+    },
+    {
+     "player": 8574,
+     "nick": "woxic",
+     "kills": 5,
+     "deaths": 9,
+     "swing": -4.18,
+     "adr": 48.6,
+     "kast": 58.3,
+     "rating": 0.69
+    },
+    {
+     "player": 19677,
+     "nick": "kyxsan",
+     "kills": 4,
+     "deaths": 10,
+     "swing": -6.24,
+     "adr": 38.2,
+     "kast": 58.3,
+     "rating": 0.63
+    },
+    {
+     "player": 18850,
+     "nick": "Jimpphat",
+     "kills": 5,
+     "deaths": 9,
+     "swing": -6.36,
+     "adr": 34.6,
+     "kast": 50.0,
+     "rating": 0.55
+    },
+    {
+     "player": 11893,
+     "nick": "ZywOo",
+     "kills": 8,
+     "deaths": 3,
+     "swing": 15.3,
+     "adr": 154.8,
+     "kast": 100.0,
+     "rating": 2.89
+    },
+    {
+     "player": 11816,
+     "nick": "ropz",
+     "kills": 6,
+     "deaths": 2,
+     "swing": 4.75,
+     "adr": 117.4,
+     "kast": 100.0,
+     "rating": 1.92
+    },
+    {
+     "player": 18462,
+     "nick": "mezii",
+     "kills": 5,
+     "deaths": 4,
+     "swing": 1.5,
+     "adr": 83.4,
+     "kast": 100.0,
+     "rating": 1.25
+    },
+    {
+     "player": 7322,
+     "nick": "apEX",
+     "kills": 2,
+     "deaths": 2,
+     "swing": 1.59,
+     "adr": 62.0,
+     "kast": 80.0,
+     "rating": 1.06
+    },
+    {
+     "player": 16693,
+     "nick": "flameZ",
+     "kills": 1,
+     "deaths": 5,
+     "swing": -6.39,
+     "adr": 50.0,
+     "kast": 60.0,
+     "rating": 0.38
     }
    ]
   },
@@ -832,108 +832,6 @@
    ],
    "t": [
     {
-     "player": 21243,
-     "nick": "Wicadia",
-     "kills": 13,
-     "deaths": 7,
-     "swing": 12.75,
-     "adr": 107.8,
-     "kast": 83.3,
-     "rating": 2.41
-    },
-    {
-     "player": 18850,
-     "nick": "Jimpphat",
-     "kills": 11,
-     "deaths": 7,
-     "swing": 3.31,
-     "adr": 73.2,
-     "kast": 75.0,
-     "rating": 1.46
-    },
-    {
-     "player": 19677,
-     "nick": "kyxsan",
-     "kills": 3,
-     "deaths": 9,
-     "swing": -3.61,
-     "adr": 50.2,
-     "kast": 58.3,
-     "rating": 0.69
-    },
-    {
-     "player": 7938,
-     "nick": "XANTARES",
-     "kills": 4,
-     "deaths": 8,
-     "swing": -4.58,
-     "adr": 54.2,
-     "kast": 58.3,
-     "rating": 0.65
-    },
-    {
-     "player": 8574,
-     "nick": "woxic",
-     "kills": 4,
-     "deaths": 8,
-     "swing": -6.86,
-     "adr": 33.5,
-     "kast": 58.3,
-     "rating": 0.56
-    },
-    {
-     "player": 11893,
-     "nick": "ZywOo",
-     "kills": 12,
-     "deaths": 11,
-     "swing": 4.5,
-     "adr": 107.0,
-     "kast": 83.3,
-     "rating": 1.67
-    },
-    {
-     "player": 11816,
-     "nick": "ropz",
-     "kills": 12,
-     "deaths": 9,
-     "swing": 3.82,
-     "adr": 101.2,
-     "kast": 75.0,
-     "rating": 1.66
-    },
-    {
-     "player": 7322,
-     "nick": "apEX",
-     "kills": 6,
-     "deaths": 9,
-     "swing": 0.34,
-     "adr": 62.4,
-     "kast": 75.0,
-     "rating": 1.05
-    },
-    {
-     "player": 16693,
-     "nick": "flameZ",
-     "kills": 6,
-     "deaths": 11,
-     "swing": -3.1,
-     "adr": 37.5,
-     "kast": 75.0,
-     "rating": 0.76
-    },
-    {
-     "player": 18462,
-     "nick": "mezii",
-     "kills": 4,
-     "deaths": 8,
-     "swing": -11.21,
-     "adr": 45.4,
-     "kast": 66.7,
-     "rating": 0.6
-    }
-   ],
-   "ct": [
-    {
      "player": 8574,
      "nick": "woxic",
      "kills": 13,
@@ -1032,6 +930,108 @@
      "adr": 54.5,
      "kast": 75.0,
      "rating": 0.66
+    }
+   ],
+   "ct": [
+    {
+     "player": 21243,
+     "nick": "Wicadia",
+     "kills": 13,
+     "deaths": 7,
+     "swing": 12.75,
+     "adr": 107.8,
+     "kast": 83.3,
+     "rating": 2.41
+    },
+    {
+     "player": 18850,
+     "nick": "Jimpphat",
+     "kills": 11,
+     "deaths": 7,
+     "swing": 3.31,
+     "adr": 73.2,
+     "kast": 75.0,
+     "rating": 1.46
+    },
+    {
+     "player": 19677,
+     "nick": "kyxsan",
+     "kills": 3,
+     "deaths": 9,
+     "swing": -3.61,
+     "adr": 50.2,
+     "kast": 58.3,
+     "rating": 0.69
+    },
+    {
+     "player": 7938,
+     "nick": "XANTARES",
+     "kills": 4,
+     "deaths": 8,
+     "swing": -4.58,
+     "adr": 54.2,
+     "kast": 58.3,
+     "rating": 0.65
+    },
+    {
+     "player": 8574,
+     "nick": "woxic",
+     "kills": 4,
+     "deaths": 8,
+     "swing": -6.86,
+     "adr": 33.5,
+     "kast": 58.3,
+     "rating": 0.56
+    },
+    {
+     "player": 11893,
+     "nick": "ZywOo",
+     "kills": 12,
+     "deaths": 11,
+     "swing": 4.5,
+     "adr": 107.0,
+     "kast": 83.3,
+     "rating": 1.67
+    },
+    {
+     "player": 11816,
+     "nick": "ropz",
+     "kills": 12,
+     "deaths": 9,
+     "swing": 3.82,
+     "adr": 101.2,
+     "kast": 75.0,
+     "rating": 1.66
+    },
+    {
+     "player": 7322,
+     "nick": "apEX",
+     "kills": 6,
+     "deaths": 9,
+     "swing": 0.34,
+     "adr": 62.4,
+     "kast": 75.0,
+     "rating": 1.05
+    },
+    {
+     "player": 16693,
+     "nick": "flameZ",
+     "kills": 6,
+     "deaths": 11,
+     "swing": -3.1,
+     "adr": 37.5,
+     "kast": 75.0,
+     "rating": 0.76
+    },
+    {
+     "player": 18462,
+     "nick": "mezii",
+     "kills": 4,
+     "deaths": 8,
+     "swing": -11.21,
+     "adr": 45.4,
+     "kast": 66.7,
+     "rating": 0.6
     }
    ]
   },
@@ -1140,108 +1140,6 @@
    ],
    "t": [
     {
-     "player": 21243,
-     "nick": "Wicadia",
-     "kills": 11,
-     "deaths": 8,
-     "swing": 1.37,
-     "adr": 106.0,
-     "kast": 75.0,
-     "rating": 1.48
-    },
-    {
-     "player": 19677,
-     "nick": "kyxsan",
-     "kills": 7,
-     "deaths": 10,
-     "swing": 4.53,
-     "adr": 54.6,
-     "kast": 50.0,
-     "rating": 1.03
-    },
-    {
-     "player": 18850,
-     "nick": "Jimpphat",
-     "kills": 6,
-     "deaths": 9,
-     "swing": -3.7,
-     "adr": 76.8,
-     "kast": 50.0,
-     "rating": 0.82
-    },
-    {
-     "player": 8574,
-     "nick": "woxic",
-     "kills": 1,
-     "deaths": 10,
-     "swing": -3.82,
-     "adr": 19.3,
-     "kast": 58.3,
-     "rating": 0.5
-    },
-    {
-     "player": 7938,
-     "nick": "XANTARES",
-     "kills": 4,
-     "deaths": 10,
-     "swing": -10.06,
-     "adr": 35.1,
-     "kast": 50.0,
-     "rating": 0.48
-    },
-    {
-     "player": 16693,
-     "nick": "flameZ",
-     "kills": 5,
-     "deaths": 2,
-     "swing": 7.3,
-     "adr": 156.2,
-     "kast": 100.0,
-     "rating": 2.29
-    },
-    {
-     "player": 11816,
-     "nick": "ropz",
-     "kills": 4,
-     "deaths": 2,
-     "swing": 11.24,
-     "adr": 88.4,
-     "kast": 100.0,
-     "rating": 2.06
-    },
-    {
-     "player": 18462,
-     "nick": "mezii",
-     "kills": 3,
-     "deaths": 1,
-     "swing": 13.74,
-     "adr": 58.0,
-     "kast": 80.0,
-     "rating": 1.97
-    },
-    {
-     "player": 11893,
-     "nick": "ZywOo",
-     "kills": 3,
-     "deaths": 3,
-     "swing": 6.62,
-     "adr": 70.6,
-     "kast": 100.0,
-     "rating": 1.52
-    },
-    {
-     "player": 7322,
-     "nick": "apEX",
-     "kills": 5,
-     "deaths": 1,
-     "swing": 2.29,
-     "adr": 46.4,
-     "kast": 100.0,
-     "rating": 1.38
-    }
-   ],
-   "ct": [
-    {
      "player": 8574,
      "nick": "woxic",
      "kills": 4,
@@ -1340,6 +1238,108 @@
      "adr": 56.3,
      "kast": 75.0,
      "rating": 0.63
+    }
+   ],
+   "ct": [
+    {
+     "player": 21243,
+     "nick": "Wicadia",
+     "kills": 11,
+     "deaths": 8,
+     "swing": 1.37,
+     "adr": 106.0,
+     "kast": 75.0,
+     "rating": 1.48
+    },
+    {
+     "player": 19677,
+     "nick": "kyxsan",
+     "kills": 7,
+     "deaths": 10,
+     "swing": 4.53,
+     "adr": 54.6,
+     "kast": 50.0,
+     "rating": 1.03
+    },
+    {
+     "player": 18850,
+     "nick": "Jimpphat",
+     "kills": 6,
+     "deaths": 9,
+     "swing": -3.7,
+     "adr": 76.8,
+     "kast": 50.0,
+     "rating": 0.82
+    },
+    {
+     "player": 8574,
+     "nick": "woxic",
+     "kills": 1,
+     "deaths": 10,
+     "swing": -3.82,
+     "adr": 19.3,
+     "kast": 58.3,
+     "rating": 0.5
+    },
+    {
+     "player": 7938,
+     "nick": "XANTARES",
+     "kills": 4,
+     "deaths": 10,
+     "swing": -10.06,
+     "adr": 35.1,
+     "kast": 50.0,
+     "rating": 0.48
+    },
+    {
+     "player": 16693,
+     "nick": "flameZ",
+     "kills": 5,
+     "deaths": 2,
+     "swing": 7.3,
+     "adr": 156.2,
+     "kast": 100.0,
+     "rating": 2.29
+    },
+    {
+     "player": 11816,
+     "nick": "ropz",
+     "kills": 4,
+     "deaths": 2,
+     "swing": 11.24,
+     "adr": 88.4,
+     "kast": 100.0,
+     "rating": 2.06
+    },
+    {
+     "player": 18462,
+     "nick": "mezii",
+     "kills": 3,
+     "deaths": 1,
+     "swing": 13.74,
+     "adr": 58.0,
+     "kast": 80.0,
+     "rating": 1.97
+    },
+    {
+     "player": 11893,
+     "nick": "ZywOo",
+     "kills": 3,
+     "deaths": 3,
+     "swing": 6.62,
+     "adr": 70.6,
+     "kast": 100.0,
+     "rating": 1.52
+    },
+    {
+     "player": 7322,
+     "nick": "apEX",
+     "kills": 5,
+     "deaths": 1,
+     "swing": 2.29,
+     "adr": 46.4,
+     "kast": 100.0,
+     "rating": 1.38
     }
    ]
   },
@@ -1448,108 +1448,6 @@
    ],
    "t": [
     {
-     "player": 19677,
-     "nick": "kyxsan",
-     "kills": 4,
-     "deaths": 7,
-     "swing": 0.01,
-     "adr": 66.0,
-     "kast": 75.0,
-     "rating": 1.11
-    },
-    {
-     "player": 18850,
-     "nick": "Jimpphat",
-     "kills": 4,
-     "deaths": 7,
-     "swing": -1.11,
-     "adr": 71.8,
-     "kast": 62.5,
-     "rating": 0.96
-    },
-    {
-     "player": 21243,
-     "nick": "Wicadia",
-     "kills": 5,
-     "deaths": 6,
-     "swing": -2.79,
-     "adr": 34.8,
-     "kast": 75.0,
-     "rating": 0.83
-    },
-    {
-     "player": 8574,
-     "nick": "woxic",
-     "kills": 3,
-     "deaths": 7,
-     "swing": -1.13,
-     "adr": 42.5,
-     "kast": 50.0,
-     "rating": 0.72
-    },
-    {
-     "player": 7938,
-     "nick": "XANTARES",
-     "kills": 3,
-     "deaths": 8,
-     "swing": -6.89,
-     "adr": 77.0,
-     "kast": 50.0,
-     "rating": 0.57
-    },
-    {
-     "player": 11893,
-     "nick": "ZywOo",
-     "kills": 13,
-     "deaths": 6,
-     "swing": 14.94,
-     "adr": 111.9,
-     "kast": 75.0,
-     "rating": 2.35
-    },
-    {
-     "player": 11816,
-     "nick": "ropz",
-     "kills": 7,
-     "deaths": 7,
-     "swing": -1.63,
-     "adr": 67.8,
-     "kast": 75.0,
-     "rating": 0.98
-    },
-    {
-     "player": 7322,
-     "nick": "apEX",
-     "kills": 7,
-     "deaths": 7,
-     "swing": -0.37,
-     "adr": 65.3,
-     "kast": 50.0,
-     "rating": 0.94
-    },
-    {
-     "player": 18462,
-     "nick": "mezii",
-     "kills": 6,
-     "deaths": 7,
-     "swing": -2.56,
-     "adr": 46.7,
-     "kast": 58.3,
-     "rating": 0.86
-    },
-    {
-     "player": 16693,
-     "nick": "flameZ",
-     "kills": 2,
-     "deaths": 8,
-     "swing": -4.57,
-     "adr": 51.2,
-     "kast": 75.0,
-     "rating": 0.65
-    }
-   ],
-   "ct": [
-    {
      "player": 8574,
      "nick": "woxic",
      "kills": 8,
@@ -1649,10 +1547,123 @@
      "kast": 62.5,
      "rating": 0.48
     }
+   ],
+   "ct": [
+    {
+     "player": 19677,
+     "nick": "kyxsan",
+     "kills": 4,
+     "deaths": 7,
+     "swing": 0.01,
+     "adr": 66.0,
+     "kast": 75.0,
+     "rating": 1.11
+    },
+    {
+     "player": 18850,
+     "nick": "Jimpphat",
+     "kills": 4,
+     "deaths": 7,
+     "swing": -1.11,
+     "adr": 71.8,
+     "kast": 62.5,
+     "rating": 0.96
+    },
+    {
+     "player": 21243,
+     "nick": "Wicadia",
+     "kills": 5,
+     "deaths": 6,
+     "swing": -2.79,
+     "adr": 34.8,
+     "kast": 75.0,
+     "rating": 0.83
+    },
+    {
+     "player": 8574,
+     "nick": "woxic",
+     "kills": 3,
+     "deaths": 7,
+     "swing": -1.13,
+     "adr": 42.5,
+     "kast": 50.0,
+     "rating": 0.72
+    },
+    {
+     "player": 7938,
+     "nick": "XANTARES",
+     "kills": 3,
+     "deaths": 8,
+     "swing": -6.89,
+     "adr": 77.0,
+     "kast": 50.0,
+     "rating": 0.57
+    },
+    {
+     "player": 11893,
+     "nick": "ZywOo",
+     "kills": 13,
+     "deaths": 6,
+     "swing": 14.94,
+     "adr": 111.9,
+     "kast": 75.0,
+     "rating": 2.35
+    },
+    {
+     "player": 11816,
+     "nick": "ropz",
+     "kills": 7,
+     "deaths": 7,
+     "swing": -1.63,
+     "adr": 67.8,
+     "kast": 75.0,
+     "rating": 0.98
+    },
+    {
+     "player": 7322,
+     "nick": "apEX",
+     "kills": 7,
+     "deaths": 7,
+     "swing": -0.37,
+     "adr": 65.3,
+     "kast": 50.0,
+     "rating": 0.94
+    },
+    {
+     "player": 18462,
+     "nick": "mezii",
+     "kills": 6,
+     "deaths": 7,
+     "swing": -2.56,
+     "adr": 46.7,
+     "kast": 58.3,
+     "rating": 0.86
+    },
+    {
+     "player": 16693,
+     "nick": "flameZ",
+     "kills": 2,
+     "deaths": 8,
+     "swing": -4.57,
+     "adr": 51.2,
+     "kast": 75.0,
+     "rating": 0.65
+    }
    ]
   }
  },
- "mvp": 11893,
+ "mvp": {
+  "player": 11893,
+  "nick": "ZywOo",
+  "maps": 4,
+  "kpr": 0.91,
+  "dpr": 0.56,
+  "kast": 80.8,
+  "mkRating": 1.14,
+  "swing": 5.48,
+  "adr": 95.3,
+  "rating": 1.53
+ },
  "highlight": null,
  "h2h": {
   "team1Wins": 7,

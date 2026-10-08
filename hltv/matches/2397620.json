@@ -1,0 +1,1015 @@
+{
+ "id": 2397620,
+ "eventId": 8266,
+ "stage": "Playoffs",
+ "time": "2026-09-11T06:00:00Z",
+ "bo": 3,
+ "status": "finished",
+ "team1": {
+  "id": 9215,
+  "score": 2,
+  "players": [
+   22570,
+   21037,
+   19694,
+   21288,
+   19310
+  ]
+ },
+ "team2": {
+  "id": 12474,
+  "score": 0,
+  "players": [
+   22760,
+   21159,
+   22860,
+   16487,
+   7443
+  ]
+ },
+ "maps": [
+  {
+   "map": "de_inferno",
+   "pick": 12474,
+   "score": [
+    13,
+    4
+   ],
+   "halves": [
+    [
+     8,
+     4
+    ],
+    [
+     5,
+     0
+    ]
+   ]
+  },
+  {
+   "map": "de_cache",
+   "pick": 9215,
+   "score": [
+    13,
+    9
+   ],
+   "halves": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     4
+    ]
+   ]
+  },
+  {
+   "map": "de_ancient",
+   "pick": null,
+   "score": [
+    null,
+    null
+   ],
+   "halves": null
+  }
+ ],
+ "stats": {
+  "all": {
+   "both": [
+    {
+     "player": 19694,
+     "nick": "nqz",
+     "kills": 35,
+     "deaths": 19,
+     "swing": 5.18,
+     "adr": 86.5,
+     "kast": 79.5,
+     "rating": 1.52
+    },
+    {
+     "player": 21288,
+     "nick": "venomzera",
+     "kills": 29,
+     "deaths": 20,
+     "swing": 5.15,
+     "adr": 81.2,
+     "kast": 89.7,
+     "rating": 1.46
+    },
+    {
+     "player": 21037,
+     "nick": "insani",
+     "kills": 33,
+     "deaths": 22,
+     "swing": 5.08,
+     "adr": 90.1,
+     "kast": 82.1,
+     "rating": 1.46
+    },
+    {
+     "player": 19310,
+     "nick": "LNZ",
+     "kills": 29,
+     "deaths": 23,
+     "swing": 2.1,
+     "adr": 87.2,
+     "kast": 79.5,
+     "rating": 1.18
+    },
+    {
+     "player": 22570,
+     "nick": "tomaszin",
+     "kills": 24,
+     "deaths": 24,
+     "swing": -1.81,
+     "adr": 61.7,
+     "kast": 66.7,
+     "rating": 0.98
+    },
+    {
+     "player": 22760,
+     "nick": "upE",
+     "kills": 26,
+     "deaths": 27,
+     "swing": 2.28,
+     "adr": 83.5,
+     "kast": 69.2,
+     "rating": 1.22
+    },
+    {
+     "player": 16487,
+     "nick": "eraa",
+     "kills": 28,
+     "deaths": 27,
+     "swing": -1.39,
+     "adr": 74.7,
+     "kast": 56.4,
+     "rating": 1.02
+    },
+    {
+     "player": 7443,
+     "nick": "twist",
+     "kills": 25,
+     "deaths": 30,
+     "swing": -3.49,
+     "adr": 71.9,
+     "kast": 53.8,
+     "rating": 0.88
+    },
+    {
+     "player": 21159,
+     "nick": "bobeksde",
+     "kills": 19,
+     "deaths": 33,
+     "swing": -5.31,
+     "adr": 57.9,
+     "kast": 64.1,
+     "rating": 0.67
+    },
+    {
+     "player": 22860,
+     "nick": "avid",
+     "kills": 10,
+     "deaths": 33,
+     "swing": -7.8,
+     "adr": 34.5,
+     "kast": 51.3,
+     "rating": 0.4
+    }
+   ],
+   "t": [
+    {
+     "player": 19694,
+     "nick": "nqz",
+     "kills": 21,
+     "deaths": 10,
+     "swing": 5.86,
+     "adr": 90.5,
+     "kast": 90.9,
+     "rating": 1.6
+    },
+    {
+     "player": 21037,
+     "nick": "insani",
+     "kills": 22,
+     "deaths": 11,
+     "swing": 5.15,
+     "adr": 101.6,
+     "kast": 86.4,
+     "rating": 1.54
+    },
+    {
+     "player": 21288,
+     "nick": "venomzera",
+     "kills": 18,
+     "deaths": 9,
+     "swing": 3.95,
+     "adr": 93.2,
+     "kast": 95.5,
+     "rating": 1.52
+    },
+    {
+     "player": 19310,
+     "nick": "LNZ",
+     "kills": 16,
+     "deaths": 13,
+     "swing": 0.59,
+     "adr": 84.0,
+     "kast": 81.8,
+     "rating": 1.0
+    },
+    {
+     "player": 22570,
+     "nick": "tomaszin",
+     "kills": 13,
+     "deaths": 15,
+     "swing": -2.94,
+     "adr": 68.2,
+     "kast": 59.1,
+     "rating": 0.89
+    },
+    {
+     "player": 7443,
+     "nick": "twist",
+     "kills": 17,
+     "deaths": 12,
+     "swing": 1.68,
+     "adr": 104.1,
+     "kast": 64.7,
+     "rating": 1.32
+    },
+    {
+     "player": 22760,
+     "nick": "upE",
+     "kills": 12,
+     "deaths": 9,
+     "swing": 1.52,
+     "adr": 90.4,
+     "kast": 76.5,
+     "rating": 1.26
+    },
+    {
+     "player": 21159,
+     "nick": "bobeksde",
+     "kills": 9,
+     "deaths": 14,
+     "swing": -7.7,
+     "adr": 59.9,
+     "kast": 64.7,
+     "rating": 0.62
+    },
+    {
+     "player": 16487,
+     "nick": "eraa",
+     "kills": 8,
+     "deaths": 12,
+     "swing": -7.49,
+     "adr": 59.4,
+     "kast": 47.1,
+     "rating": 0.53
+    },
+    {
+     "player": 22860,
+     "nick": "avid",
+     "kills": 4,
+     "deaths": 13,
+     "swing": -7.73,
+     "adr": 31.9,
+     "kast": 52.9,
+     "rating": 0.35
+    }
+   ],
+   "ct": [
+    {
+     "player": 19694,
+     "nick": "nqz",
+     "kills": 14,
+     "deaths": 9,
+     "swing": 4.3,
+     "adr": 81.4,
+     "kast": 64.7,
+     "rating": 1.42
+    },
+    {
+     "player": 19310,
+     "nick": "LNZ",
+     "kills": 13,
+     "deaths": 10,
+     "swing": 4.06,
+     "adr": 91.2,
+     "kast": 76.5,
+     "rating": 1.41
+    },
+    {
+     "player": 21288,
+     "nick": "venomzera",
+     "kills": 11,
+     "deaths": 11,
+     "swing": 6.7,
+     "adr": 65.6,
+     "kast": 82.4,
+     "rating": 1.4
+    },
+    {
+     "player": 21037,
+     "nick": "insani",
+     "kills": 11,
+     "deaths": 11,
+     "swing": 5.0,
+     "adr": 75.2,
+     "kast": 76.5,
+     "rating": 1.35
+    },
+    {
+     "player": 22570,
+     "nick": "tomaszin",
+     "kills": 11,
+     "deaths": 9,
+     "swing": -0.35,
+     "adr": 53.3,
+     "kast": 76.5,
+     "rating": 1.11
+    },
+    {
+     "player": 16487,
+     "nick": "eraa",
+     "kills": 20,
+     "deaths": 15,
+     "swing": 3.33,
+     "adr": 86.6,
+     "kast": 63.6,
+     "rating": 1.39
+    },
+    {
+     "player": 22760,
+     "nick": "upE",
+     "kills": 14,
+     "deaths": 18,
+     "swing": 2.86,
+     "adr": 78.1,
+     "kast": 63.6,
+     "rating": 1.18
+    },
+    {
+     "player": 21159,
+     "nick": "bobeksde",
+     "kills": 10,
+     "deaths": 19,
+     "swing": -3.46,
+     "adr": 56.4,
+     "kast": 63.6,
+     "rating": 0.71
+    },
+    {
+     "player": 7443,
+     "nick": "twist",
+     "kills": 8,
+     "deaths": 18,
+     "swing": -7.48,
+     "adr": 47.1,
+     "kast": 45.5,
+     "rating": 0.54
+    },
+    {
+     "player": 22860,
+     "nick": "avid",
+     "kills": 6,
+     "deaths": 20,
+     "swing": -7.86,
+     "adr": 36.4,
+     "kast": 50.0,
+     "rating": 0.43
+    }
+   ]
+  },
+  "de_inferno": {
+   "both": [
+    {
+     "player": 19694,
+     "nick": "nqz",
+     "kills": 17,
+     "deaths": 7,
+     "swing": 8.42,
+     "adr": 103.2,
+     "kast": 100.0,
+     "rating": 1.97
+    },
+    {
+     "player": 21037,
+     "nick": "insani",
+     "kills": 18,
+     "deaths": 8,
+     "swing": 8.08,
+     "adr": 99.9,
+     "kast": 88.2,
+     "rating": 1.78
+    },
+    {
+     "player": 21288,
+     "nick": "venomzera",
+     "kills": 14,
+     "deaths": 8,
+     "swing": 4.72,
+     "adr": 82.6,
+     "kast": 94.1,
+     "rating": 1.54
+    },
+    {
+     "player": 19310,
+     "nick": "LNZ",
+     "kills": 12,
+     "deaths": 8,
+     "swing": 1.22,
+     "adr": 94.9,
+     "kast": 88.2,
+     "rating": 1.18
+    },
+    {
+     "player": 22570,
+     "nick": "tomaszin",
+     "kills": 11,
+     "deaths": 8,
+     "swing": 0.25,
+     "adr": 65.6,
+     "kast": 58.8,
+     "rating": 1.18
+    },
+    {
+     "player": 16487,
+     "nick": "eraa",
+     "kills": 15,
+     "deaths": 13,
+     "swing": 1.29,
+     "adr": 95.1,
+     "kast": 70.6,
+     "rating": 1.36
+    },
+    {
+     "player": 22760,
+     "nick": "upE",
+     "kills": 9,
+     "deaths": 13,
+     "swing": 0.15,
+     "adr": 65.1,
+     "kast": 52.9,
+     "rating": 0.97
+    },
+    {
+     "player": 7443,
+     "nick": "twist",
+     "kills": 6,
+     "deaths": 16,
+     "swing": -6.4,
+     "adr": 47.9,
+     "kast": 41.2,
+     "rating": 0.54
+    },
+    {
+     "player": 21159,
+     "nick": "bobeksde",
+     "kills": 6,
+     "deaths": 14,
+     "swing": -6.75,
+     "adr": 49.3,
+     "kast": 58.8,
+     "rating": 0.49
+    },
+    {
+     "player": 22860,
+     "nick": "avid",
+     "kills": 3,
+     "deaths": 16,
+     "swing": -10.99,
+     "adr": 31.2,
+     "kast": 35.3,
+     "rating": 0.22
+    }
+   ],
+   "t": [
+    {
+     "player": 21288,
+     "nick": "venomzera",
+     "kills": 12,
+     "deaths": 5,
+     "swing": 6.46,
+     "adr": 100.6,
+     "kast": 100.0,
+     "rating": 1.81
+    },
+    {
+     "player": 21037,
+     "nick": "insani",
+     "kills": 14,
+     "deaths": 6,
+     "swing": 6.15,
+     "adr": 103.2,
+     "kast": 91.7,
+     "rating": 1.69
+    },
+    {
+     "player": 19694,
+     "nick": "nqz",
+     "kills": 10,
+     "deaths": 7,
+     "swing": 6.57,
+     "adr": 91.8,
+     "kast": 100.0,
+     "rating": 1.63
+    },
+    {
+     "player": 19310,
+     "nick": "LNZ",
+     "kills": 9,
+     "deaths": 6,
+     "swing": -0.02,
+     "adr": 108.1,
+     "kast": 91.7,
+     "rating": 1.12
+    },
+    {
+     "player": 22570,
+     "nick": "tomaszin",
+     "kills": 7,
+     "deaths": 7,
+     "swing": -3.29,
+     "adr": 59.6,
+     "kast": 50.0,
+     "rating": 0.86
+    },
+    {
+     "player": 22760,
+     "nick": "upE",
+     "kills": 4,
+     "deaths": 3,
+     "swing": 1.27,
+     "adr": 93.0,
+     "kast": 60.0,
+     "rating": 1.3
+    },
+    {
+     "player": 16487,
+     "nick": "eraa",
+     "kills": 2,
+     "deaths": 4,
+     "swing": -8.61,
+     "adr": 71.6,
+     "kast": 60.0,
+     "rating": 0.63
+    },
+    {
+     "player": 21159,
+     "nick": "bobeksde",
+     "kills": 1,
+     "deaths": 4,
+     "swing": -7.94,
+     "adr": 38.0,
+     "kast": 60.0,
+     "rating": 0.31
+    },
+    {
+     "player": 22860,
+     "nick": "avid",
+     "kills": 1,
+     "deaths": 4,
+     "swing": -12.26,
+     "adr": 32.6,
+     "kast": 20.0,
+     "rating": 0.16
+    },
+    {
+     "player": 7443,
+     "nick": "twist",
+     "kills": 0,
+     "deaths": 5,
+     "swing": -11.54,
+     "adr": 26.6,
+     "kast": 20.0,
+     "rating": 0.13
+    }
+   ],
+   "ct": [
+    {
+     "player": 19694,
+     "nick": "nqz",
+     "kills": 7,
+     "deaths": 0,
+     "swing": 12.86,
+     "adr": 130.6,
+     "kast": 100.0,
+     "rating": 2.78
+    },
+    {
+     "player": 21037,
+     "nick": "insani",
+     "kills": 4,
+     "deaths": 2,
+     "swing": 12.7,
+     "adr": 91.8,
+     "kast": 80.0,
+     "rating": 1.99
+    },
+    {
+     "player": 22570,
+     "nick": "tomaszin",
+     "kills": 4,
+     "deaths": 1,
+     "swing": 8.76,
+     "adr": 80.2,
+     "kast": 80.0,
+     "rating": 1.93
+    },
+    {
+     "player": 19310,
+     "nick": "LNZ",
+     "kills": 3,
+     "deaths": 2,
+     "swing": 4.2,
+     "adr": 63.4,
+     "kast": 80.0,
+     "rating": 1.32
+    },
+    {
+     "player": 21288,
+     "nick": "venomzera",
+     "kills": 2,
+     "deaths": 3,
+     "swing": 0.57,
+     "adr": 39.6,
+     "kast": 80.0,
+     "rating": 0.89
+    },
+    {
+     "player": 16487,
+     "nick": "eraa",
+     "kills": 13,
+     "deaths": 9,
+     "swing": 5.42,
+     "adr": 104.9,
+     "kast": 75.0,
+     "rating": 1.67
+    },
+    {
+     "player": 22760,
+     "nick": "upE",
+     "kills": 5,
+     "deaths": 10,
+     "swing": -0.31,
+     "adr": 53.4,
+     "kast": 50.0,
+     "rating": 0.84
+    },
+    {
+     "player": 7443,
+     "nick": "twist",
+     "kills": 6,
+     "deaths": 11,
+     "swing": -4.26,
+     "adr": 56.8,
+     "kast": 50.0,
+     "rating": 0.71
+    },
+    {
+     "player": 21159,
+     "nick": "bobeksde",
+     "kills": 5,
+     "deaths": 10,
+     "swing": -6.25,
+     "adr": 54.0,
+     "kast": 58.3,
+     "rating": 0.57
+    },
+    {
+     "player": 22860,
+     "nick": "avid",
+     "kills": 2,
+     "deaths": 12,
+     "swing": -10.46,
+     "adr": 30.7,
+     "kast": 41.7,
+     "rating": 0.25
+    }
+   ]
+  },
+  "de_cache": {
+   "both": [
+    {
+     "player": 21288,
+     "nick": "venomzera",
+     "kills": 15,
+     "deaths": 12,
+     "swing": 5.48,
+     "adr": 80.0,
+     "kast": 86.4,
+     "rating": 1.43
+    },
+    {
+     "player": 21037,
+     "nick": "insani",
+     "kills": 15,
+     "deaths": 14,
+     "swing": 2.77,
+     "adr": 82.5,
+     "kast": 77.3,
+     "rating": 1.23
+    },
+    {
+     "player": 19694,
+     "nick": "nqz",
+     "kills": 18,
+     "deaths": 12,
+     "swing": 2.68,
+     "adr": 73.6,
+     "kast": 63.6,
+     "rating": 1.21
+    },
+    {
+     "player": 19310,
+     "nick": "LNZ",
+     "kills": 17,
+     "deaths": 15,
+     "swing": 2.78,
+     "adr": 81.2,
+     "kast": 72.7,
+     "rating": 1.18
+    },
+    {
+     "player": 22570,
+     "nick": "tomaszin",
+     "kills": 13,
+     "deaths": 16,
+     "swing": -3.4,
+     "adr": 58.6,
+     "kast": 72.7,
+     "rating": 0.88
+    },
+    {
+     "player": 22760,
+     "nick": "upE",
+     "kills": 17,
+     "deaths": 14,
+     "swing": 3.92,
+     "adr": 97.7,
+     "kast": 81.8,
+     "rating": 1.43
+    },
+    {
+     "player": 7443,
+     "nick": "twist",
+     "kills": 19,
+     "deaths": 14,
+     "swing": -1.24,
+     "adr": 90.5,
+     "kast": 63.6,
+     "rating": 1.3
+    },
+    {
+     "player": 21159,
+     "nick": "bobeksde",
+     "kills": 13,
+     "deaths": 19,
+     "swing": -4.2,
+     "adr": 64.6,
+     "kast": 68.2,
+     "rating": 0.82
+    },
+    {
+     "player": 16487,
+     "nick": "eraa",
+     "kills": 13,
+     "deaths": 14,
+     "swing": -3.45,
+     "adr": 59.0,
+     "kast": 45.5,
+     "rating": 0.78
+    },
+    {
+     "player": 22860,
+     "nick": "avid",
+     "kills": 7,
+     "deaths": 17,
+     "swing": -5.34,
+     "adr": 37.0,
+     "kast": 63.6,
+     "rating": 0.55
+    }
+   ],
+   "t": [
+    {
+     "player": 19694,
+     "nick": "nqz",
+     "kills": 11,
+     "deaths": 3,
+     "swing": 5.01,
+     "adr": 88.9,
+     "kast": 80.0,
+     "rating": 1.55
+    },
+    {
+     "player": 21037,
+     "nick": "insani",
+     "kills": 8,
+     "deaths": 5,
+     "swing": 3.94,
+     "adr": 99.7,
+     "kast": 80.0,
+     "rating": 1.37
+    },
+    {
+     "player": 21288,
+     "nick": "venomzera",
+     "kills": 6,
+     "deaths": 4,
+     "swing": 0.94,
+     "adr": 84.3,
+     "kast": 90.0,
+     "rating": 1.19
+    },
+    {
+     "player": 22570,
+     "nick": "tomaszin",
+     "kills": 6,
+     "deaths": 8,
+     "swing": -2.52,
+     "adr": 78.5,
+     "kast": 70.0,
+     "rating": 0.92
+    },
+    {
+     "player": 19310,
+     "nick": "LNZ",
+     "kills": 7,
+     "deaths": 7,
+     "swing": 1.32,
+     "adr": 55.2,
+     "kast": 70.0,
+     "rating": 0.86
+    },
+    {
+     "player": 7443,
+     "nick": "twist",
+     "kills": 17,
+     "deaths": 7,
+     "swing": 7.19,
+     "adr": 136.4,
+     "kast": 83.3,
+     "rating": 2.09
+    },
+    {
+     "player": 22760,
+     "nick": "upE",
+     "kills": 8,
+     "deaths": 6,
+     "swing": 1.63,
+     "adr": 89.3,
+     "kast": 83.3,
+     "rating": 1.25
+    },
+    {
+     "player": 21159,
+     "nick": "bobeksde",
+     "kills": 8,
+     "deaths": 10,
+     "swing": -7.6,
+     "adr": 69.0,
+     "kast": 66.7,
+     "rating": 0.76
+    },
+    {
+     "player": 16487,
+     "nick": "eraa",
+     "kills": 6,
+     "deaths": 8,
+     "swing": -7.02,
+     "adr": 54.2,
+     "kast": 41.7,
+     "rating": 0.51
+    },
+    {
+     "player": 22860,
+     "nick": "avid",
+     "kills": 3,
+     "deaths": 9,
+     "swing": -5.84,
+     "adr": 31.7,
+     "kast": 66.7,
+     "rating": 0.46
+    }
+   ],
+   "ct": [
+    {
+     "player": 21288,
+     "nick": "venomzera",
+     "kills": 9,
+     "deaths": 8,
+     "swing": 9.26,
+     "adr": 76.5,
+     "kast": 83.3,
+     "rating": 1.63
+    },
+    {
+     "player": 19310,
+     "nick": "LNZ",
+     "kills": 10,
+     "deaths": 8,
+     "swing": 4.0,
+     "adr": 102.8,
+     "kast": 75.0,
+     "rating": 1.46
+    },
+    {
+     "player": 21037,
+     "nick": "insani",
+     "kills": 7,
+     "deaths": 9,
+     "swing": 1.79,
+     "adr": 68.2,
+     "kast": 75.0,
+     "rating": 1.11
+    },
+    {
+     "player": 19694,
+     "nick": "nqz",
+     "kills": 7,
+     "deaths": 9,
+     "swing": 0.74,
+     "adr": 60.9,
+     "kast": 50.0,
+     "rating": 0.93
+    },
+    {
+     "player": 22570,
+     "nick": "tomaszin",
+     "kills": 7,
+     "deaths": 8,
+     "swing": -4.15,
+     "adr": 42.1,
+     "kast": 75.0,
+     "rating": 0.84
+    },
+    {
+     "player": 22760,
+     "nick": "upE",
+     "kills": 9,
+     "deaths": 8,
+     "swing": 6.67,
+     "adr": 107.7,
+     "kast": 80.0,
+     "rating": 1.65
+    },
+    {
+     "player": 16487,
+     "nick": "eraa",
+     "kills": 7,
+     "deaths": 6,
+     "swing": 0.82,
+     "adr": 64.7,
+     "kast": 50.0,
+     "rating": 1.1
+    },
+    {
+     "player": 21159,
+     "nick": "bobeksde",
+     "kills": 5,
+     "deaths": 9,
+     "swing": -0.11,
+     "adr": 59.3,
+     "kast": 70.0,
+     "rating": 0.9
+    },
+    {
+     "player": 22860,
+     "nick": "avid",
+     "kills": 4,
+     "deaths": 8,
+     "swing": -4.73,
+     "adr": 43.3,
+     "kast": 60.0,
+     "rating": 0.67
+    },
+    {
+     "player": 7443,
+     "nick": "twist",
+     "kills": 2,
+     "deaths": 7,
+     "swing": -11.35,
+     "adr": 35.4,
+     "kast": 40.0,
+     "rating": 0.35
+    }
+   ]
+  }
+ },
+ "mvp": {
+  "player": 19694,
+  "nick": "nqz",
+  "maps": 2,
+  "kpr": 0.9,
+  "dpr": 0.49,
+  "kast": 79.5,
+  "mkRating": 1.09,
+  "swing": 5.18,
+  "adr": 86.5,
+  "rating": 1.52
+ }
+}

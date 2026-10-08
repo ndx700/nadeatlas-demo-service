@@ -1,0 +1,1004 @@
+{
+ "id": 2399206,
+ "eventId": 9387,
+ "stage": "Playoffs",
+ "time": "2026-10-08T01:00:00Z",
+ "bo": 3,
+ "status": "finished",
+ "team1": {
+  "id": 13729,
+  "score": 0,
+  "players": [
+   17929,
+   20572,
+   23088,
+   21584,
+   24660
+  ]
+ },
+ "team2": {
+  "id": 11336,
+  "score": 2,
+  "players": [
+   17210,
+   20429,
+   20786,
+   21881,
+   19602
+  ]
+ },
+ "maps": [
+  {
+   "map": "de_nuke",
+   "pick": 13729,
+   "score": [
+    8,
+    13
+   ],
+   "halves": [
+    [
+     7,
+     5
+    ],
+    [
+     1,
+     8
+    ]
+   ]
+  },
+  {
+   "map": "de_cache",
+   "pick": 11336,
+   "score": [
+    9,
+    13
+   ],
+   "halves": [
+    [
+     6,
+     6
+    ],
+    [
+     3,
+     7
+    ]
+   ]
+  },
+  {
+   "map": "de_inferno",
+   "pick": null,
+   "score": [
+    null,
+    null
+   ],
+   "halves": null
+  }
+ ],
+ "stats": {
+  "all": {
+   "both": [
+    {
+     "player": 17929,
+     "nick": "Walco",
+     "kills": 40,
+     "deaths": 32,
+     "swing": 5.11,
+     "adr": 94.9,
+     "kast": 67.4,
+     "rating": 1.52
+    },
+    {
+     "player": 20572,
+     "nick": "kmrn",
+     "kills": 30,
+     "deaths": 33,
+     "swing": 0.29,
+     "adr": 82.6,
+     "kast": 79.1,
+     "rating": 1.15
+    },
+    {
+     "player": 24660,
+     "nick": "BAGEL",
+     "kills": 26,
+     "deaths": 31,
+     "swing": -2.1,
+     "adr": 69.4,
+     "kast": 67.4,
+     "rating": 0.94
+    },
+    {
+     "player": 21584,
+     "nick": "C0C0",
+     "kills": 23,
+     "deaths": 32,
+     "swing": -1.56,
+     "adr": 52.7,
+     "kast": 53.5,
+     "rating": 0.77
+    },
+    {
+     "player": 23088,
+     "nick": "ayaneuu",
+     "kills": 11,
+     "deaths": 34,
+     "swing": -7.81,
+     "adr": 35.0,
+     "kast": 58.1,
+     "rating": 0.45
+    },
+    {
+     "player": 20429,
+     "nick": "CrePoW",
+     "kills": 41,
+     "deaths": 27,
+     "swing": 3.9,
+     "adr": 111.1,
+     "kast": 81.4,
+     "rating": 1.49
+    },
+    {
+     "player": 19602,
+     "nick": "ReFuZR",
+     "kills": 37,
+     "deaths": 24,
+     "swing": 3.44,
+     "adr": 79.6,
+     "kast": 81.4,
+     "rating": 1.35
+    },
+    {
+     "player": 17210,
+     "nick": "carN",
+     "kills": 33,
+     "deaths": 30,
+     "swing": 1.13,
+     "adr": 88.8,
+     "kast": 83.7,
+     "rating": 1.23
+    },
+    {
+     "player": 21881,
+     "nick": "chante",
+     "kills": 29,
+     "deaths": 23,
+     "swing": -1.17,
+     "adr": 61.7,
+     "kast": 74.4,
+     "rating": 0.99
+    },
+    {
+     "player": 20786,
+     "nick": "tatm",
+     "kills": 22,
+     "deaths": 26,
+     "swing": -1.23,
+     "adr": 67.7,
+     "kast": 81.4,
+     "rating": 0.95
+    }
+   ],
+   "t": [
+    {
+     "player": 17929,
+     "nick": "Walco",
+     "kills": 17,
+     "deaths": 15,
+     "swing": 2.27,
+     "adr": 89.2,
+     "kast": 81.0,
+     "rating": 1.31
+    },
+    {
+     "player": 20572,
+     "nick": "kmrn",
+     "kills": 16,
+     "deaths": 16,
+     "swing": -1.46,
+     "adr": 88.2,
+     "kast": 85.7,
+     "rating": 1.08
+    },
+    {
+     "player": 24660,
+     "nick": "BAGEL",
+     "kills": 14,
+     "deaths": 14,
+     "swing": 0.35,
+     "adr": 73.6,
+     "kast": 66.7,
+     "rating": 1.02
+    },
+    {
+     "player": 21584,
+     "nick": "C0C0",
+     "kills": 12,
+     "deaths": 17,
+     "swing": -3.13,
+     "adr": 55.9,
+     "kast": 52.4,
+     "rating": 0.69
+    },
+    {
+     "player": 23088,
+     "nick": "ayaneuu",
+     "kills": 4,
+     "deaths": 16,
+     "swing": -9.74,
+     "adr": 34.5,
+     "kast": 57.1,
+     "rating": 0.33
+    },
+    {
+     "player": 19602,
+     "nick": "ReFuZR",
+     "kills": 21,
+     "deaths": 14,
+     "swing": 4.04,
+     "adr": 91.2,
+     "kast": 90.9,
+     "rating": 1.42
+    },
+    {
+     "player": 20429,
+     "nick": "CrePoW",
+     "kills": 21,
+     "deaths": 13,
+     "swing": 1.89,
+     "adr": 106.2,
+     "kast": 77.3,
+     "rating": 1.35
+    },
+    {
+     "player": 17210,
+     "nick": "carN",
+     "kills": 17,
+     "deaths": 14,
+     "swing": -0.57,
+     "adr": 97.1,
+     "kast": 77.3,
+     "rating": 1.14
+    },
+    {
+     "player": 20786,
+     "nick": "tatm",
+     "kills": 10,
+     "deaths": 14,
+     "swing": -1.79,
+     "adr": 64.2,
+     "kast": 77.3,
+     "rating": 0.87
+    },
+    {
+     "player": 21881,
+     "nick": "chante",
+     "kills": 15,
+     "deaths": 12,
+     "swing": -2.87,
+     "adr": 63.3,
+     "kast": 63.6,
+     "rating": 0.81
+    }
+   ],
+   "ct": [
+    {
+     "player": 17929,
+     "nick": "Walco",
+     "kills": 23,
+     "deaths": 17,
+     "swing": 7.81,
+     "adr": 100.4,
+     "kast": 54.5,
+     "rating": 1.73
+    },
+    {
+     "player": 20572,
+     "nick": "kmrn",
+     "kills": 14,
+     "deaths": 17,
+     "swing": 1.96,
+     "adr": 77.2,
+     "kast": 72.7,
+     "rating": 1.21
+    },
+    {
+     "player": 24660,
+     "nick": "BAGEL",
+     "kills": 12,
+     "deaths": 17,
+     "swing": -4.44,
+     "adr": 65.5,
+     "kast": 68.2,
+     "rating": 0.87
+    },
+    {
+     "player": 21584,
+     "nick": "C0C0",
+     "kills": 11,
+     "deaths": 15,
+     "swing": -0.05,
+     "adr": 49.7,
+     "kast": 54.5,
+     "rating": 0.85
+    },
+    {
+     "player": 23088,
+     "nick": "ayaneuu",
+     "kills": 7,
+     "deaths": 18,
+     "swing": -5.97,
+     "adr": 35.4,
+     "kast": 59.1,
+     "rating": 0.56
+    },
+    {
+     "player": 20429,
+     "nick": "CrePoW",
+     "kills": 20,
+     "deaths": 14,
+     "swing": 6.01,
+     "adr": 116.2,
+     "kast": 85.7,
+     "rating": 1.64
+    },
+    {
+     "player": 17210,
+     "nick": "carN",
+     "kills": 16,
+     "deaths": 16,
+     "swing": 2.91,
+     "adr": 80.1,
+     "kast": 90.5,
+     "rating": 1.33
+    },
+    {
+     "player": 19602,
+     "nick": "ReFuZR",
+     "kills": 16,
+     "deaths": 10,
+     "swing": 2.8,
+     "adr": 67.4,
+     "kast": 71.4,
+     "rating": 1.27
+    },
+    {
+     "player": 21881,
+     "nick": "chante",
+     "kills": 14,
+     "deaths": 11,
+     "swing": 0.62,
+     "adr": 60.0,
+     "kast": 85.7,
+     "rating": 1.19
+    },
+    {
+     "player": 20786,
+     "nick": "tatm",
+     "kills": 12,
+     "deaths": 12,
+     "swing": -0.64,
+     "adr": 71.4,
+     "kast": 85.7,
+     "rating": 1.04
+    }
+   ]
+  },
+  "de_nuke": {
+   "both": [
+    {
+     "player": 17929,
+     "nick": "Walco",
+     "kills": 21,
+     "deaths": 15,
+     "swing": 5.39,
+     "adr": 104.6,
+     "kast": 76.2,
+     "rating": 1.68
+    },
+    {
+     "player": 21584,
+     "nick": "C0C0",
+     "kills": 14,
+     "deaths": 13,
+     "swing": 0.76,
+     "adr": 64.0,
+     "kast": 57.1,
+     "rating": 1.02
+    },
+    {
+     "player": 20572,
+     "nick": "kmrn",
+     "kills": 13,
+     "deaths": 17,
+     "swing": -3.01,
+     "adr": 72.8,
+     "kast": 71.4,
+     "rating": 0.91
+    },
+    {
+     "player": 24660,
+     "nick": "BAGEL",
+     "kills": 9,
+     "deaths": 15,
+     "swing": -6.25,
+     "adr": 50.4,
+     "kast": 71.4,
+     "rating": 0.73
+    },
+    {
+     "player": 23088,
+     "nick": "ayaneuu",
+     "kills": 6,
+     "deaths": 16,
+     "swing": -6.5,
+     "adr": 35.3,
+     "kast": 57.1,
+     "rating": 0.49
+    },
+    {
+     "player": 20429,
+     "nick": "CrePoW",
+     "kills": 17,
+     "deaths": 12,
+     "swing": 2.54,
+     "adr": 101.7,
+     "kast": 76.2,
+     "rating": 1.44
+    },
+    {
+     "player": 19602,
+     "nick": "ReFuZR",
+     "kills": 20,
+     "deaths": 12,
+     "swing": 3.65,
+     "adr": 85.4,
+     "kast": 81.0,
+     "rating": 1.42
+    },
+    {
+     "player": 21881,
+     "nick": "chante",
+     "kills": 17,
+     "deaths": 11,
+     "swing": 4.34,
+     "adr": 70.7,
+     "kast": 76.2,
+     "rating": 1.4
+    },
+    {
+     "player": 17210,
+     "nick": "carN",
+     "kills": 13,
+     "deaths": 15,
+     "swing": -1.41,
+     "adr": 85.7,
+     "kast": 81.0,
+     "rating": 1.01
+    },
+    {
+     "player": 20786,
+     "nick": "tatm",
+     "kills": 9,
+     "deaths": 13,
+     "swing": 0.48,
+     "adr": 57.8,
+     "kast": 76.2,
+     "rating": 0.97
+    }
+   ],
+   "t": [
+    {
+     "player": 17929,
+     "nick": "Walco",
+     "kills": 6,
+     "deaths": 7,
+     "swing": -2.0,
+     "adr": 88.7,
+     "kast": 88.9,
+     "rating": 1.07
+    },
+    {
+     "player": 21584,
+     "nick": "C0C0",
+     "kills": 7,
+     "deaths": 7,
+     "swing": -3.65,
+     "adr": 71.6,
+     "kast": 55.6,
+     "rating": 0.79
+    },
+    {
+     "player": 20572,
+     "nick": "kmrn",
+     "kills": 5,
+     "deaths": 8,
+     "swing": -7.12,
+     "adr": 54.6,
+     "kast": 66.7,
+     "rating": 0.55
+    },
+    {
+     "player": 24660,
+     "nick": "BAGEL",
+     "kills": 2,
+     "deaths": 7,
+     "swing": -11.65,
+     "adr": 35.1,
+     "kast": 66.7,
+     "rating": 0.34
+    },
+    {
+     "player": 23088,
+     "nick": "ayaneuu",
+     "kills": 2,
+     "deaths": 7,
+     "swing": -9.38,
+     "adr": 32.4,
+     "kast": 55.6,
+     "rating": 0.31
+    },
+    {
+     "player": 19602,
+     "nick": "ReFuZR",
+     "kills": 10,
+     "deaths": 9,
+     "swing": 2.12,
+     "adr": 88.1,
+     "kast": 83.3,
+     "rating": 1.2
+    },
+    {
+     "player": 20429,
+     "nick": "CrePoW",
+     "kills": 9,
+     "deaths": 8,
+     "swing": -3.11,
+     "adr": 103.8,
+     "kast": 66.7,
+     "rating": 1.11
+    },
+    {
+     "player": 17210,
+     "nick": "carN",
+     "kills": 8,
+     "deaths": 8,
+     "swing": -3.09,
+     "adr": 93.3,
+     "kast": 66.7,
+     "rating": 0.98
+    },
+    {
+     "player": 21881,
+     "nick": "chante",
+     "kills": 8,
+     "deaths": 7,
+     "swing": -2.23,
+     "adr": 56.8,
+     "kast": 58.3,
+     "rating": 0.77
+    },
+    {
+     "player": 20786,
+     "nick": "tatm",
+     "kills": 5,
+     "deaths": 9,
+     "swing": -2.22,
+     "adr": 59.8,
+     "kast": 66.7,
+     "rating": 0.72
+    }
+   ],
+   "ct": [
+    {
+     "player": 17929,
+     "nick": "Walco",
+     "kills": 15,
+     "deaths": 8,
+     "swing": 10.94,
+     "adr": 116.5,
+     "kast": 66.7,
+     "rating": 2.14
+    },
+    {
+     "player": 21584,
+     "nick": "C0C0",
+     "kills": 7,
+     "deaths": 6,
+     "swing": 4.07,
+     "adr": 58.2,
+     "kast": 58.3,
+     "rating": 1.19
+    },
+    {
+     "player": 20572,
+     "nick": "kmrn",
+     "kills": 8,
+     "deaths": 9,
+     "swing": 0.07,
+     "adr": 86.5,
+     "kast": 75.0,
+     "rating": 1.18
+    },
+    {
+     "player": 24660,
+     "nick": "BAGEL",
+     "kills": 7,
+     "deaths": 8,
+     "swing": -2.2,
+     "adr": 61.8,
+     "kast": 75.0,
+     "rating": 1.02
+    },
+    {
+     "player": 23088,
+     "nick": "ayaneuu",
+     "kills": 4,
+     "deaths": 9,
+     "swing": -4.34,
+     "adr": 37.4,
+     "kast": 58.3,
+     "rating": 0.62
+    },
+    {
+     "player": 21881,
+     "nick": "chante",
+     "kills": 9,
+     "deaths": 4,
+     "swing": 13.1,
+     "adr": 89.1,
+     "kast": 100.0,
+     "rating": 2.24
+    },
+    {
+     "player": 20429,
+     "nick": "CrePoW",
+     "kills": 8,
+     "deaths": 4,
+     "swing": 10.08,
+     "adr": 98.9,
+     "kast": 88.9,
+     "rating": 1.88
+    },
+    {
+     "player": 19602,
+     "nick": "ReFuZR",
+     "kills": 10,
+     "deaths": 3,
+     "swing": 5.69,
+     "adr": 81.9,
+     "kast": 77.8,
+     "rating": 1.71
+    },
+    {
+     "player": 20786,
+     "nick": "tatm",
+     "kills": 4,
+     "deaths": 4,
+     "swing": 4.08,
+     "adr": 55.1,
+     "kast": 88.9,
+     "rating": 1.29
+    },
+    {
+     "player": 17210,
+     "nick": "carN",
+     "kills": 5,
+     "deaths": 7,
+     "swing": 0.84,
+     "adr": 75.4,
+     "kast": 100.0,
+     "rating": 1.06
+    }
+   ]
+  },
+  "de_cache": {
+   "both": [
+    {
+     "player": 20572,
+     "nick": "kmrn",
+     "kills": 17,
+     "deaths": 16,
+     "swing": 3.44,
+     "adr": 92.0,
+     "kast": 86.4,
+     "rating": 1.42
+    },
+    {
+     "player": 17929,
+     "nick": "Walco",
+     "kills": 19,
+     "deaths": 17,
+     "swing": 4.83,
+     "adr": 85.7,
+     "kast": 59.1,
+     "rating": 1.39
+    },
+    {
+     "player": 24660,
+     "nick": "BAGEL",
+     "kills": 17,
+     "deaths": 16,
+     "swing": 1.86,
+     "adr": 87.6,
+     "kast": 63.6,
+     "rating": 1.29
+    },
+    {
+     "player": 21584,
+     "nick": "C0C0",
+     "kills": 9,
+     "deaths": 19,
+     "swing": -3.77,
+     "adr": 42.0,
+     "kast": 50.0,
+     "rating": 0.55
+    },
+    {
+     "player": 23088,
+     "nick": "ayaneuu",
+     "kills": 5,
+     "deaths": 18,
+     "swing": -9.06,
+     "adr": 34.6,
+     "kast": 59.1,
+     "rating": 0.41
+    },
+    {
+     "player": 20429,
+     "nick": "CrePoW",
+     "kills": 24,
+     "deaths": 15,
+     "swing": 5.2,
+     "adr": 120.1,
+     "kast": 86.4,
+     "rating": 1.58
+    },
+    {
+     "player": 17210,
+     "nick": "carN",
+     "kills": 20,
+     "deaths": 15,
+     "swing": 3.54,
+     "adr": 91.8,
+     "kast": 86.4,
+     "rating": 1.45
+    },
+    {
+     "player": 19602,
+     "nick": "ReFuZR",
+     "kills": 17,
+     "deaths": 12,
+     "swing": 3.23,
+     "adr": 74.0,
+     "kast": 81.8,
+     "rating": 1.3
+    },
+    {
+     "player": 20786,
+     "nick": "tatm",
+     "kills": 13,
+     "deaths": 13,
+     "swing": -2.86,
+     "adr": 77.2,
+     "kast": 86.4,
+     "rating": 0.97
+    },
+    {
+     "player": 21881,
+     "nick": "chante",
+     "kills": 12,
+     "deaths": 12,
+     "swing": -6.42,
+     "adr": 53.1,
+     "kast": 72.7,
+     "rating": 0.74
+    }
+   ],
+   "t": [
+    {
+     "player": 24660,
+     "nick": "BAGEL",
+     "kills": 12,
+     "deaths": 7,
+     "swing": 9.36,
+     "adr": 102.4,
+     "kast": 66.7,
+     "rating": 1.79
+    },
+    {
+     "player": 20572,
+     "nick": "kmrn",
+     "kills": 11,
+     "deaths": 8,
+     "swing": 2.78,
+     "adr": 113.5,
+     "kast": 100.0,
+     "rating": 1.57
+    },
+    {
+     "player": 17929,
+     "nick": "Walco",
+     "kills": 11,
+     "deaths": 8,
+     "swing": 5.47,
+     "adr": 89.6,
+     "kast": 75.0,
+     "rating": 1.5
+    },
+    {
+     "player": 21584,
+     "nick": "C0C0",
+     "kills": 5,
+     "deaths": 10,
+     "swing": -2.74,
+     "adr": 44.1,
+     "kast": 50.0,
+     "rating": 0.63
+    },
+    {
+     "player": 23088,
+     "nick": "ayaneuu",
+     "kills": 2,
+     "deaths": 9,
+     "swing": -10.01,
+     "adr": 36.1,
+     "kast": 58.3,
+     "rating": 0.34
+    },
+    {
+     "player": 20429,
+     "nick": "CrePoW",
+     "kills": 12,
+     "deaths": 5,
+     "swing": 7.89,
+     "adr": 109.2,
+     "kast": 90.0,
+     "rating": 1.73
+    },
+    {
+     "player": 19602,
+     "nick": "ReFuZR",
+     "kills": 11,
+     "deaths": 5,
+     "swing": 6.34,
+     "adr": 95.0,
+     "kast": 100.0,
+     "rating": 1.7
+    },
+    {
+     "player": 17210,
+     "nick": "carN",
+     "kills": 9,
+     "deaths": 6,
+     "swing": 2.45,
+     "adr": 101.7,
+     "kast": 90.0,
+     "rating": 1.34
+    },
+    {
+     "player": 20786,
+     "nick": "tatm",
+     "kills": 5,
+     "deaths": 5,
+     "swing": -1.29,
+     "adr": 69.4,
+     "kast": 90.0,
+     "rating": 1.07
+    },
+    {
+     "player": 21881,
+     "nick": "chante",
+     "kills": 7,
+     "deaths": 5,
+     "swing": -3.63,
+     "adr": 71.1,
+     "kast": 70.0,
+     "rating": 0.85
+    }
+   ],
+   "ct": [
+    {
+     "player": 17929,
+     "nick": "Walco",
+     "kills": 8,
+     "deaths": 9,
+     "swing": 4.07,
+     "adr": 81.0,
+     "kast": 40.0,
+     "rating": 1.26
+    },
+    {
+     "player": 20572,
+     "nick": "kmrn",
+     "kills": 6,
+     "deaths": 8,
+     "swing": 4.23,
+     "adr": 66.1,
+     "kast": 70.0,
+     "rating": 1.24
+    },
+    {
+     "player": 24660,
+     "nick": "BAGEL",
+     "kills": 5,
+     "deaths": 9,
+     "swing": -7.13,
+     "adr": 69.8,
+     "kast": 60.0,
+     "rating": 0.69
+    },
+    {
+     "player": 23088,
+     "nick": "ayaneuu",
+     "kills": 3,
+     "deaths": 9,
+     "swing": -7.92,
+     "adr": 32.9,
+     "kast": 60.0,
+     "rating": 0.49
+    },
+    {
+     "player": 21584,
+     "nick": "C0C0",
+     "kills": 4,
+     "deaths": 9,
+     "swing": -5.0,
+     "adr": 39.5,
+     "kast": 50.0,
+     "rating": 0.46
+    },
+    {
+     "player": 17210,
+     "nick": "carN",
+     "kills": 11,
+     "deaths": 9,
+     "swing": 4.46,
+     "adr": 83.6,
+     "kast": 83.3,
+     "rating": 1.54
+    },
+    {
+     "player": 20429,
+     "nick": "CrePoW",
+     "kills": 12,
+     "deaths": 10,
+     "swing": 2.96,
+     "adr": 129.2,
+     "kast": 83.3,
+     "rating": 1.47
+    },
+    {
+     "player": 19602,
+     "nick": "ReFuZR",
+     "kills": 6,
+     "deaths": 7,
+     "swing": 0.63,
+     "adr": 56.5,
+     "kast": 66.7,
+     "rating": 0.96
+    },
+    {
+     "player": 20786,
+     "nick": "tatm",
+     "kills": 8,
+     "deaths": 8,
+     "swing": -4.17,
+     "adr": 83.7,
+     "kast": 83.3,
+     "rating": 0.89
+    },
+    {
+     "player": 21881,
+     "nick": "chante",
+     "kills": 5,
+     "deaths": 7,
+     "swing": -8.74,
+     "adr": 38.1,
+     "kast": 75.0,
+     "rating": 0.64
+    }
+   ]
+  }
+ },
+ "mvp": null
+}

@@ -1,0 +1,1015 @@
+{
+ "id": 2394984,
+ "eventId": 8301,
+ "stage": "Swiss round 3",
+ "time": "2026-06-13T15:45:00Z",
+ "bo": 3,
+ "status": "finished",
+ "team1": {
+  "id": 12467,
+  "score": 0,
+  "players": [
+   19235,
+   13776,
+   22929,
+   22471,
+   23685
+  ]
+ },
+ "team2": {
+  "id": 12468,
+  "score": 2,
+  "players": [
+   19686,
+   22965,
+   15698,
+   12521,
+   19045
+  ]
+ },
+ "maps": [
+  {
+   "map": "de_inferno",
+   "pick": 12468,
+   "score": [
+    12,
+    16
+   ],
+   "halves": [
+    [
+     4,
+     8
+    ],
+    [
+     8,
+     4
+    ]
+   ]
+  },
+  {
+   "map": "de_dust2",
+   "pick": 12467,
+   "score": [
+    13,
+    16
+   ],
+   "halves": [
+    [
+     7,
+     5
+    ],
+    [
+     5,
+     7
+    ]
+   ]
+  },
+  {
+   "map": "de_mirage",
+   "pick": null,
+   "score": [
+    null,
+    null
+   ],
+   "halves": null
+  }
+ ],
+ "stats": {
+  "all": {
+   "both": [
+    {
+     "player": 13776,
+     "nick": "Jame",
+     "kills": 37,
+     "deaths": 31,
+     "swing": 1.61,
+     "adr": 74.2,
+     "kast": 78.9,
+     "rating": 1.09
+    },
+    {
+     "player": 22929,
+     "nick": "nota",
+     "kills": 35,
+     "deaths": 42,
+     "swing": -0.95,
+     "adr": 76.8,
+     "kast": 68.4,
+     "rating": 1.03
+    },
+    {
+     "player": 23685,
+     "nick": "zweih",
+     "kills": 29,
+     "deaths": 36,
+     "swing": -0.6,
+     "adr": 53.9,
+     "kast": 73.7,
+     "rating": 0.91
+    },
+    {
+     "player": 22471,
+     "nick": "xiELO",
+     "kills": 34,
+     "deaths": 41,
+     "swing": -2.9,
+     "adr": 63.5,
+     "kast": 63.2,
+     "rating": 0.81
+    },
+    {
+     "player": 19235,
+     "nick": "BELCHONOKK",
+     "kills": 27,
+     "deaths": 37,
+     "swing": -2.64,
+     "adr": 50.0,
+     "kast": 68.4,
+     "rating": 0.75
+    },
+    {
+     "player": 19045,
+     "nick": "latto",
+     "kills": 52,
+     "deaths": 32,
+     "swing": 5.86,
+     "adr": 91.2,
+     "kast": 80.7,
+     "rating": 1.65
+    },
+    {
+     "player": 15698,
+     "nick": "dumau",
+     "kills": 50,
+     "deaths": 36,
+     "swing": 2.16,
+     "adr": 91.6,
+     "kast": 78.9,
+     "rating": 1.38
+    },
+    {
+     "player": 12521,
+     "nick": "arT",
+     "kills": 31,
+     "deaths": 35,
+     "swing": 0.07,
+     "adr": 79.3,
+     "kast": 80.7,
+     "rating": 1.01
+    },
+    {
+     "player": 22965,
+     "nick": "saadzin",
+     "kills": 29,
+     "deaths": 26,
+     "swing": 0.6,
+     "adr": 51.0,
+     "kast": 80.7,
+     "rating": 0.97
+    },
+    {
+     "player": 19686,
+     "nick": "n1ssim",
+     "kills": 22,
+     "deaths": 33,
+     "swing": -3.2,
+     "adr": 39.9,
+     "kast": 66.7,
+     "rating": 0.69
+    }
+   ],
+   "t": [
+    {
+     "player": 22471,
+     "nick": "xiELO",
+     "kills": 24,
+     "deaths": 20,
+     "swing": -0.84,
+     "adr": 90.8,
+     "kast": 64.3,
+     "rating": 1.04
+    },
+    {
+     "player": 13776,
+     "nick": "Jame",
+     "kills": 20,
+     "deaths": 14,
+     "swing": 0.54,
+     "adr": 70.9,
+     "kast": 85.7,
+     "rating": 1.01
+    },
+    {
+     "player": 23685,
+     "nick": "zweih",
+     "kills": 16,
+     "deaths": 16,
+     "swing": -1.08,
+     "adr": 61.6,
+     "kast": 75.0,
+     "rating": 0.92
+    },
+    {
+     "player": 22929,
+     "nick": "nota",
+     "kills": 14,
+     "deaths": 21,
+     "swing": -4.83,
+     "adr": 74.1,
+     "kast": 64.3,
+     "rating": 0.71
+    },
+    {
+     "player": 19235,
+     "nick": "BELCHONOKK",
+     "kills": 10,
+     "deaths": 18,
+     "swing": -4.9,
+     "adr": 44.2,
+     "kast": 71.4,
+     "rating": 0.56
+    },
+    {
+     "player": 19045,
+     "nick": "latto",
+     "kills": 28,
+     "deaths": 13,
+     "swing": 6.46,
+     "adr": 93.0,
+     "kast": 79.3,
+     "rating": 1.68
+    },
+    {
+     "player": 12521,
+     "nick": "arT",
+     "kills": 19,
+     "deaths": 15,
+     "swing": 1.75,
+     "adr": 83.7,
+     "kast": 86.2,
+     "rating": 1.13
+    },
+    {
+     "player": 15698,
+     "nick": "dumau",
+     "kills": 20,
+     "deaths": 19,
+     "swing": -1.63,
+     "adr": 91.6,
+     "kast": 75.9,
+     "rating": 0.99
+    },
+    {
+     "player": 22965,
+     "nick": "saadzin",
+     "kills": 16,
+     "deaths": 15,
+     "swing": -3.79,
+     "adr": 50.6,
+     "kast": 79.3,
+     "rating": 0.75
+    },
+    {
+     "player": 19686,
+     "nick": "n1ssim",
+     "kills": 13,
+     "deaths": 16,
+     "swing": -2.73,
+     "adr": 48.4,
+     "kast": 65.5,
+     "rating": 0.71
+    }
+   ],
+   "ct": [
+    {
+     "player": 22929,
+     "nick": "nota",
+     "kills": 21,
+     "deaths": 21,
+     "swing": 2.79,
+     "adr": 79.5,
+     "kast": 72.4,
+     "rating": 1.35
+    },
+    {
+     "player": 13776,
+     "nick": "Jame",
+     "kills": 17,
+     "deaths": 17,
+     "swing": 2.63,
+     "adr": 77.3,
+     "kast": 72.4,
+     "rating": 1.16
+    },
+    {
+     "player": 19235,
+     "nick": "BELCHONOKK",
+     "kills": 17,
+     "deaths": 19,
+     "swing": -0.46,
+     "adr": 55.7,
+     "kast": 65.5,
+     "rating": 0.93
+    },
+    {
+     "player": 23685,
+     "nick": "zweih",
+     "kills": 13,
+     "deaths": 20,
+     "swing": -0.14,
+     "adr": 46.4,
+     "kast": 72.4,
+     "rating": 0.9
+    },
+    {
+     "player": 22471,
+     "nick": "xiELO",
+     "kills": 10,
+     "deaths": 21,
+     "swing": -4.89,
+     "adr": 37.1,
+     "kast": 62.1,
+     "rating": 0.59
+    },
+    {
+     "player": 15698,
+     "nick": "dumau",
+     "kills": 30,
+     "deaths": 17,
+     "swing": 6.09,
+     "adr": 91.6,
+     "kast": 82.1,
+     "rating": 1.77
+    },
+    {
+     "player": 19045,
+     "nick": "latto",
+     "kills": 24,
+     "deaths": 19,
+     "swing": 5.23,
+     "adr": 89.4,
+     "kast": 82.1,
+     "rating": 1.63
+    },
+    {
+     "player": 22965,
+     "nick": "saadzin",
+     "kills": 13,
+     "deaths": 11,
+     "swing": 5.15,
+     "adr": 51.4,
+     "kast": 82.1,
+     "rating": 1.19
+    },
+    {
+     "player": 12521,
+     "nick": "arT",
+     "kills": 12,
+     "deaths": 20,
+     "swing": -1.67,
+     "adr": 74.8,
+     "kast": 75.0,
+     "rating": 0.89
+    },
+    {
+     "player": 19686,
+     "nick": "n1ssim",
+     "kills": 9,
+     "deaths": 17,
+     "swing": -3.69,
+     "adr": 31.1,
+     "kast": 67.9,
+     "rating": 0.67
+    }
+   ]
+  },
+  "de_inferno": {
+   "both": [
+    {
+     "player": 22929,
+     "nick": "nota",
+     "kills": 18,
+     "deaths": 20,
+     "swing": -0.39,
+     "adr": 84.9,
+     "kast": 67.9,
+     "rating": 1.16
+    },
+    {
+     "player": 22471,
+     "nick": "xiELO",
+     "kills": 16,
+     "deaths": 19,
+     "swing": 1.0,
+     "adr": 79.8,
+     "kast": 75.0,
+     "rating": 1.07
+    },
+    {
+     "player": 13776,
+     "nick": "Jame",
+     "kills": 15,
+     "deaths": 15,
+     "swing": -0.64,
+     "adr": 53.9,
+     "kast": 75.0,
+     "rating": 0.89
+    },
+    {
+     "player": 19235,
+     "nick": "BELCHONOKK",
+     "kills": 14,
+     "deaths": 17,
+     "swing": -1.97,
+     "adr": 41.2,
+     "kast": 67.9,
+     "rating": 0.79
+    },
+    {
+     "player": 23685,
+     "nick": "zweih",
+     "kills": 8,
+     "deaths": 17,
+     "swing": -3.92,
+     "adr": 34.8,
+     "kast": 75.0,
+     "rating": 0.67
+    },
+    {
+     "player": 19045,
+     "nick": "latto",
+     "kills": 23,
+     "deaths": 15,
+     "swing": 4.74,
+     "adr": 90.9,
+     "kast": 82.1,
+     "rating": 1.52
+    },
+    {
+     "player": 15698,
+     "nick": "dumau",
+     "kills": 20,
+     "deaths": 14,
+     "swing": 1.34,
+     "adr": 74.4,
+     "kast": 82.1,
+     "rating": 1.22
+    },
+    {
+     "player": 12521,
+     "nick": "arT",
+     "kills": 19,
+     "deaths": 15,
+     "swing": 1.29,
+     "adr": 91.5,
+     "kast": 78.6,
+     "rating": 1.21
+    },
+    {
+     "player": 22965,
+     "nick": "saadzin",
+     "kills": 10,
+     "deaths": 11,
+     "swing": 0.55,
+     "adr": 41.8,
+     "kast": 85.7,
+     "rating": 0.85
+    },
+    {
+     "player": 19686,
+     "nick": "n1ssim",
+     "kills": 13,
+     "deaths": 16,
+     "swing": -2.0,
+     "adr": 42.6,
+     "kast": 82.1,
+     "rating": 0.77
+    }
+   ],
+   "t": [
+    {
+     "player": 22471,
+     "nick": "xiELO",
+     "kills": 10,
+     "deaths": 10,
+     "swing": 3.35,
+     "adr": 118.0,
+     "kast": 76.9,
+     "rating": 1.34
+    },
+    {
+     "player": 22929,
+     "nick": "nota",
+     "kills": 7,
+     "deaths": 9,
+     "swing": -6.01,
+     "adr": 82.4,
+     "kast": 53.8,
+     "rating": 0.78
+    },
+    {
+     "player": 13776,
+     "nick": "Jame",
+     "kills": 9,
+     "deaths": 7,
+     "swing": -3.55,
+     "adr": 56.4,
+     "kast": 76.9,
+     "rating": 0.73
+    },
+    {
+     "player": 23685,
+     "nick": "zweih",
+     "kills": 3,
+     "deaths": 6,
+     "swing": -3.55,
+     "adr": 36.0,
+     "kast": 76.9,
+     "rating": 0.67
+    },
+    {
+     "player": 19235,
+     "nick": "BELCHONOKK",
+     "kills": 4,
+     "deaths": 8,
+     "swing": -3.98,
+     "adr": 28.9,
+     "kast": 69.2,
+     "rating": 0.53
+    },
+    {
+     "player": 12521,
+     "nick": "arT",
+     "kills": 13,
+     "deaths": 8,
+     "swing": 3.71,
+     "adr": 112.8,
+     "kast": 93.3,
+     "rating": 1.48
+    },
+    {
+     "player": 19045,
+     "nick": "latto",
+     "kills": 12,
+     "deaths": 7,
+     "swing": 3.43,
+     "adr": 88.1,
+     "kast": 73.3,
+     "rating": 1.36
+    },
+    {
+     "player": 22965,
+     "nick": "saadzin",
+     "kills": 8,
+     "deaths": 6,
+     "swing": -1.37,
+     "adr": 47.5,
+     "kast": 86.7,
+     "rating": 0.79
+    },
+    {
+     "player": 19686,
+     "nick": "n1ssim",
+     "kills": 7,
+     "deaths": 9,
+     "swing": -1.56,
+     "adr": 42.7,
+     "kast": 73.3,
+     "rating": 0.69
+    },
+    {
+     "player": 15698,
+     "nick": "dumau",
+     "kills": 6,
+     "deaths": 8,
+     "swing": -5.06,
+     "adr": 66.2,
+     "kast": 80.0,
+     "rating": 0.6
+    }
+   ],
+   "ct": [
+    {
+     "player": 22929,
+     "nick": "nota",
+     "kills": 11,
+     "deaths": 11,
+     "swing": 4.47,
+     "adr": 87.0,
+     "kast": 80.0,
+     "rating": 1.49
+    },
+    {
+     "player": 13776,
+     "nick": "Jame",
+     "kills": 6,
+     "deaths": 8,
+     "swing": 1.88,
+     "adr": 51.8,
+     "kast": 73.3,
+     "rating": 1.03
+    },
+    {
+     "player": 19235,
+     "nick": "BELCHONOKK",
+     "kills": 10,
+     "deaths": 9,
+     "swing": -0.22,
+     "adr": 51.9,
+     "kast": 66.7,
+     "rating": 1.01
+    },
+    {
+     "player": 22471,
+     "nick": "xiELO",
+     "kills": 6,
+     "deaths": 9,
+     "swing": -1.03,
+     "adr": 46.7,
+     "kast": 73.3,
+     "rating": 0.84
+    },
+    {
+     "player": 23685,
+     "nick": "zweih",
+     "kills": 5,
+     "deaths": 11,
+     "swing": -4.24,
+     "adr": 33.7,
+     "kast": 73.3,
+     "rating": 0.67
+    },
+    {
+     "player": 15698,
+     "nick": "dumau",
+     "kills": 14,
+     "deaths": 6,
+     "swing": 8.73,
+     "adr": 83.8,
+     "kast": 84.6,
+     "rating": 1.94
+    },
+    {
+     "player": 19045,
+     "nick": "latto",
+     "kills": 11,
+     "deaths": 8,
+     "swing": 6.26,
+     "adr": 94.0,
+     "kast": 92.3,
+     "rating": 1.7
+    },
+    {
+     "player": 22965,
+     "nick": "saadzin",
+     "kills": 2,
+     "deaths": 5,
+     "swing": 2.76,
+     "adr": 35.1,
+     "kast": 84.6,
+     "rating": 0.92
+    },
+    {
+     "player": 12521,
+     "nick": "arT",
+     "kills": 6,
+     "deaths": 7,
+     "swing": -1.51,
+     "adr": 66.9,
+     "kast": 61.5,
+     "rating": 0.9
+    },
+    {
+     "player": 19686,
+     "nick": "n1ssim",
+     "kills": 6,
+     "deaths": 7,
+     "swing": -2.51,
+     "adr": 42.5,
+     "kast": 92.3,
+     "rating": 0.86
+    }
+   ]
+  },
+  "de_dust2": {
+   "both": [
+    {
+     "player": 13776,
+     "nick": "Jame",
+     "kills": 22,
+     "deaths": 16,
+     "swing": 3.78,
+     "adr": 93.7,
+     "kast": 82.8,
+     "rating": 1.31
+    },
+    {
+     "player": 23685,
+     "nick": "zweih",
+     "kills": 21,
+     "deaths": 19,
+     "swing": 2.6,
+     "adr": 72.3,
+     "kast": 72.4,
+     "rating": 1.2
+    },
+    {
+     "player": 22929,
+     "nick": "nota",
+     "kills": 17,
+     "deaths": 22,
+     "swing": -1.49,
+     "adr": 69.1,
+     "kast": 69.0,
+     "rating": 0.9
+    },
+    {
+     "player": 19235,
+     "nick": "BELCHONOKK",
+     "kills": 13,
+     "deaths": 20,
+     "swing": -3.29,
+     "adr": 58.6,
+     "kast": 69.0,
+     "rating": 0.72
+    },
+    {
+     "player": 22471,
+     "nick": "xiELO",
+     "kills": 18,
+     "deaths": 22,
+     "swing": -6.68,
+     "adr": 47.7,
+     "kast": 51.7,
+     "rating": 0.61
+    },
+    {
+     "player": 19045,
+     "nick": "latto",
+     "kills": 29,
+     "deaths": 17,
+     "swing": 6.93,
+     "adr": 91.6,
+     "kast": 79.3,
+     "rating": 1.8
+    },
+    {
+     "player": 15698,
+     "nick": "dumau",
+     "kills": 30,
+     "deaths": 22,
+     "swing": 2.95,
+     "adr": 108.2,
+     "kast": 75.9,
+     "rating": 1.56
+    },
+    {
+     "player": 22965,
+     "nick": "saadzin",
+     "kills": 19,
+     "deaths": 15,
+     "swing": 0.65,
+     "adr": 59.9,
+     "kast": 75.9,
+     "rating": 1.09
+    },
+    {
+     "player": 12521,
+     "nick": "arT",
+     "kills": 12,
+     "deaths": 20,
+     "swing": -1.11,
+     "adr": 67.6,
+     "kast": 82.8,
+     "rating": 0.85
+    },
+    {
+     "player": 19686,
+     "nick": "n1ssim",
+     "kills": 9,
+     "deaths": 17,
+     "swing": -4.36,
+     "adr": 37.4,
+     "kast": 51.7,
+     "rating": 0.62
+    }
+   ],
+   "t": [
+    {
+     "player": 13776,
+     "nick": "Jame",
+     "kills": 11,
+     "deaths": 7,
+     "swing": 4.09,
+     "adr": 83.5,
+     "kast": 93.3,
+     "rating": 1.31
+    },
+    {
+     "player": 23685,
+     "nick": "zweih",
+     "kills": 13,
+     "deaths": 10,
+     "swing": 1.06,
+     "adr": 83.7,
+     "kast": 73.3,
+     "rating": 1.2
+    },
+    {
+     "player": 22471,
+     "nick": "xiELO",
+     "kills": 14,
+     "deaths": 10,
+     "swing": -4.48,
+     "adr": 67.3,
+     "kast": 53.3,
+     "rating": 0.84
+    },
+    {
+     "player": 22929,
+     "nick": "nota",
+     "kills": 7,
+     "deaths": 12,
+     "swing": -3.8,
+     "adr": 66.9,
+     "kast": 73.3,
+     "rating": 0.62
+    },
+    {
+     "player": 19235,
+     "nick": "BELCHONOKK",
+     "kills": 6,
+     "deaths": 10,
+     "swing": -5.69,
+     "adr": 57.4,
+     "kast": 73.3,
+     "rating": 0.59
+    },
+    {
+     "player": 19045,
+     "nick": "latto",
+     "kills": 16,
+     "deaths": 6,
+     "swing": 9.72,
+     "adr": 98.3,
+     "kast": 85.7,
+     "rating": 2.05
+    },
+    {
+     "player": 15698,
+     "nick": "dumau",
+     "kills": 14,
+     "deaths": 11,
+     "swing": 2.04,
+     "adr": 118.9,
+     "kast": 71.4,
+     "rating": 1.47
+    },
+    {
+     "player": 12521,
+     "nick": "arT",
+     "kills": 6,
+     "deaths": 7,
+     "swing": -0.35,
+     "adr": 52.5,
+     "kast": 78.6,
+     "rating": 0.8
+    },
+    {
+     "player": 19686,
+     "nick": "n1ssim",
+     "kills": 6,
+     "deaths": 7,
+     "swing": -3.99,
+     "adr": 54.6,
+     "kast": 57.1,
+     "rating": 0.74
+    },
+    {
+     "player": 22965,
+     "nick": "saadzin",
+     "kills": 8,
+     "deaths": 9,
+     "swing": -6.38,
+     "adr": 53.9,
+     "kast": 71.4,
+     "rating": 0.72
+    }
+   ],
+   "ct": [
+    {
+     "player": 13776,
+     "nick": "Jame",
+     "kills": 11,
+     "deaths": 9,
+     "swing": 3.44,
+     "adr": 104.7,
+     "kast": 71.4,
+     "rating": 1.32
+    },
+    {
+     "player": 22929,
+     "nick": "nota",
+     "kills": 10,
+     "deaths": 10,
+     "swing": 1.0,
+     "adr": 71.4,
+     "kast": 64.3,
+     "rating": 1.2
+    },
+    {
+     "player": 23685,
+     "nick": "zweih",
+     "kills": 8,
+     "deaths": 9,
+     "swing": 4.26,
+     "adr": 60.1,
+     "kast": 71.4,
+     "rating": 1.19
+    },
+    {
+     "player": 19235,
+     "nick": "BELCHONOKK",
+     "kills": 7,
+     "deaths": 10,
+     "swing": -0.71,
+     "adr": 59.8,
+     "kast": 64.3,
+     "rating": 0.85
+    },
+    {
+     "player": 22471,
+     "nick": "xiELO",
+     "kills": 4,
+     "deaths": 12,
+     "swing": -9.03,
+     "adr": 26.7,
+     "kast": 50.0,
+     "rating": 0.37
+    },
+    {
+     "player": 15698,
+     "nick": "dumau",
+     "kills": 16,
+     "deaths": 11,
+     "swing": 3.8,
+     "adr": 98.3,
+     "kast": 80.0,
+     "rating": 1.65
+    },
+    {
+     "player": 19045,
+     "nick": "latto",
+     "kills": 13,
+     "deaths": 11,
+     "swing": 4.34,
+     "adr": 85.4,
+     "kast": 73.3,
+     "rating": 1.56
+    },
+    {
+     "player": 22965,
+     "nick": "saadzin",
+     "kills": 11,
+     "deaths": 6,
+     "swing": 7.22,
+     "adr": 65.5,
+     "kast": 80.0,
+     "rating": 1.45
+    },
+    {
+     "player": 12521,
+     "nick": "arT",
+     "kills": 6,
+     "deaths": 13,
+     "swing": -1.82,
+     "adr": 81.6,
+     "kast": 86.7,
+     "rating": 0.89
+    },
+    {
+     "player": 19686,
+     "nick": "n1ssim",
+     "kills": 3,
+     "deaths": 10,
+     "swing": -4.71,
+     "adr": 21.3,
+     "kast": 46.7,
+     "rating": 0.51
+    }
+   ]
+  }
+ },
+ "mvp": {
+  "player": 19045,
+  "nick": "latto",
+  "maps": 2,
+  "kpr": 0.91,
+  "dpr": 0.56,
+  "kast": 80.7,
+  "mkRating": 1.51,
+  "swing": 5.86,
+  "adr": 91.2,
+  "rating": 1.65
+ }
+}

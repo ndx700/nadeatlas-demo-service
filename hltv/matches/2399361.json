@@ -1,26 +1,1003 @@
 {
  "id": 2399361,
  "eventId": 9374,
- "stage": null,
- "time": "2026-10-08T21:00:00+08:00",
+ "stage": "Group D",
+ "time": "2026-10-08T13:00:00Z",
  "bo": 3,
- "status": "upcoming",
+ "status": "finished",
  "team1": {
   "id": 4869,
-  "score": null,
-  "players": []
+  "score": 2,
+  "players": [
+   24911,
+   24149,
+   22733,
+   21930,
+   18848
+  ]
  },
  "team2": {
   "id": 14084,
-  "score": null,
-  "players": []
+  "score": 0,
+  "players": [
+   13669,
+   15569,
+   13174,
+   13046,
+   20877
+  ]
  },
- "maps": [],
+ "maps": [
+  {
+   "map": "de_inferno",
+   "pick": 4869,
+   "score": [
+    13,
+    10
+   ],
+   "halves": [
+    [
+     5,
+     7
+    ],
+    [
+     8,
+     3
+    ]
+   ]
+  },
+  {
+   "map": "de_mirage",
+   "pick": 14084,
+   "score": [
+    13,
+    9
+   ],
+   "halves": [
+    [
+     5,
+     7
+    ],
+    [
+     8,
+     2
+    ]
+   ]
+  },
+  {
+   "map": "de_dust2",
+   "pick": null,
+   "score": [
+    null,
+    null
+   ],
+   "halves": null
+  }
+ ],
  "stats": {
   "all": {
-   "both": [],
-   "t": [],
-   "ct": []
+   "both": [
+    {
+     "player": 22733,
+     "nick": "teme",
+     "kills": 33,
+     "deaths": 27,
+     "swing": 5.17,
+     "adr": 82.7,
+     "kast": 77.8,
+     "rating": 1.45
+    },
+    {
+     "player": 21930,
+     "nick": "millert",
+     "kills": 32,
+     "deaths": 24,
+     "swing": 2.49,
+     "adr": 76.8,
+     "kast": 77.8,
+     "rating": 1.15
+    },
+    {
+     "player": 18848,
+     "nick": "HENU",
+     "kills": 30,
+     "deaths": 28,
+     "swing": 2.04,
+     "adr": 62.8,
+     "kast": 73.3,
+     "rating": 1.09
+    },
+    {
+     "player": 24149,
+     "nick": "Schwarz",
+     "kills": 25,
+     "deaths": 29,
+     "swing": -0.45,
+     "adr": 73.9,
+     "kast": 62.2,
+     "rating": 0.99
+    },
+    {
+     "player": 24911,
+     "nick": "joeski",
+     "kills": 29,
+     "deaths": 30,
+     "swing": -2.97,
+     "adr": 67.0,
+     "kast": 80.0,
+     "rating": 0.91
+    },
+    {
+     "player": 13046,
+     "nick": "dottie",
+     "kills": 32,
+     "deaths": 33,
+     "swing": -0.28,
+     "adr": 77.6,
+     "kast": 68.9,
+     "rating": 1.08
+    },
+    {
+     "player": 20877,
+     "nick": "tvs",
+     "kills": 31,
+     "deaths": 24,
+     "swing": -0.03,
+     "adr": 68.6,
+     "kast": 77.8,
+     "rating": 1.05
+    },
+    {
+     "player": 13669,
+     "nick": "Jackinho",
+     "kills": 28,
+     "deaths": 32,
+     "swing": -2.0,
+     "adr": 72.7,
+     "kast": 68.9,
+     "rating": 1.03
+    },
+    {
+     "player": 13174,
+     "nick": "flaw",
+     "kills": 23,
+     "deaths": 30,
+     "swing": -2.64,
+     "adr": 55.8,
+     "kast": 75.6,
+     "rating": 0.85
+    },
+    {
+     "player": 15569,
+     "nick": "Sapec",
+     "kills": 22,
+     "deaths": 34,
+     "swing": -1.86,
+     "adr": 62.2,
+     "kast": 62.2,
+     "rating": 0.82
+    }
+   ],
+   "t": [
+    {
+     "player": 21930,
+     "nick": "millert",
+     "kills": 20,
+     "deaths": 9,
+     "swing": 5.42,
+     "adr": 90.3,
+     "kast": 87.0,
+     "rating": 1.37
+    },
+    {
+     "player": 24149,
+     "nick": "Schwarz",
+     "kills": 15,
+     "deaths": 12,
+     "swing": 2.82,
+     "adr": 88.9,
+     "kast": 65.2,
+     "rating": 1.23
+    },
+    {
+     "player": 22733,
+     "nick": "teme",
+     "kills": 13,
+     "deaths": 12,
+     "swing": 1.33,
+     "adr": 76.3,
+     "kast": 82.6,
+     "rating": 1.05
+    },
+    {
+     "player": 24911,
+     "nick": "joeski",
+     "kills": 16,
+     "deaths": 13,
+     "swing": -3.6,
+     "adr": 65.4,
+     "kast": 87.0,
+     "rating": 0.88
+    },
+    {
+     "player": 18848,
+     "nick": "HENU",
+     "kills": 14,
+     "deaths": 13,
+     "swing": -1.38,
+     "adr": 56.8,
+     "kast": 78.3,
+     "rating": 0.83
+    },
+    {
+     "player": 20877,
+     "nick": "tvs",
+     "kills": 18,
+     "deaths": 10,
+     "swing": 1.34,
+     "adr": 89.0,
+     "kast": 81.8,
+     "rating": 1.18
+    },
+    {
+     "player": 13046,
+     "nick": "dottie",
+     "kills": 19,
+     "deaths": 16,
+     "swing": -0.47,
+     "adr": 82.2,
+     "kast": 77.3,
+     "rating": 1.06
+    },
+    {
+     "player": 15569,
+     "nick": "Sapec",
+     "kills": 15,
+     "deaths": 16,
+     "swing": -1.94,
+     "adr": 89.7,
+     "kast": 72.7,
+     "rating": 0.99
+    },
+    {
+     "player": 13174,
+     "nick": "flaw",
+     "kills": 14,
+     "deaths": 15,
+     "swing": -0.99,
+     "adr": 64.2,
+     "kast": 77.3,
+     "rating": 0.96
+    },
+    {
+     "player": 13669,
+     "nick": "Jackinho",
+     "kills": 12,
+     "deaths": 15,
+     "swing": -6.62,
+     "adr": 64.0,
+     "kast": 77.3,
+     "rating": 0.8
+    }
+   ],
+   "ct": [
+    {
+     "player": 22733,
+     "nick": "teme",
+     "kills": 20,
+     "deaths": 15,
+     "swing": 9.19,
+     "adr": 89.5,
+     "kast": 72.7,
+     "rating": 1.86
+    },
+    {
+     "player": 18848,
+     "nick": "HENU",
+     "kills": 16,
+     "deaths": 15,
+     "swing": 5.62,
+     "adr": 69.2,
+     "kast": 68.2,
+     "rating": 1.37
+    },
+    {
+     "player": 24911,
+     "nick": "joeski",
+     "kills": 13,
+     "deaths": 17,
+     "swing": -2.31,
+     "adr": 68.6,
+     "kast": 72.7,
+     "rating": 0.94
+    },
+    {
+     "player": 21930,
+     "nick": "millert",
+     "kills": 12,
+     "deaths": 15,
+     "swing": -0.58,
+     "adr": 62.6,
+     "kast": 68.2,
+     "rating": 0.93
+    },
+    {
+     "player": 24149,
+     "nick": "Schwarz",
+     "kills": 10,
+     "deaths": 17,
+     "swing": -3.88,
+     "adr": 58.2,
+     "kast": 59.1,
+     "rating": 0.73
+    },
+    {
+     "player": 13669,
+     "nick": "Jackinho",
+     "kills": 16,
+     "deaths": 17,
+     "swing": 2.42,
+     "adr": 81.0,
+     "kast": 60.9,
+     "rating": 1.24
+    },
+    {
+     "player": 13046,
+     "nick": "dottie",
+     "kills": 13,
+     "deaths": 17,
+     "swing": -0.1,
+     "adr": 73.3,
+     "kast": 60.9,
+     "rating": 1.09
+    },
+    {
+     "player": 20877,
+     "nick": "tvs",
+     "kills": 13,
+     "deaths": 14,
+     "swing": -1.33,
+     "adr": 49.1,
+     "kast": 73.9,
+     "rating": 0.93
+    },
+    {
+     "player": 13174,
+     "nick": "flaw",
+     "kills": 9,
+     "deaths": 15,
+     "swing": -4.23,
+     "adr": 47.7,
+     "kast": 73.9,
+     "rating": 0.75
+    },
+    {
+     "player": 15569,
+     "nick": "Sapec",
+     "kills": 7,
+     "deaths": 18,
+     "swing": -1.79,
+     "adr": 35.8,
+     "kast": 52.2,
+     "rating": 0.66
+    }
+   ]
+  },
+  "de_inferno": {
+   "both": [
+    {
+     "player": 22733,
+     "nick": "teme",
+     "kills": 18,
+     "deaths": 14,
+     "swing": 6.35,
+     "adr": 82.8,
+     "kast": 78.3,
+     "rating": 1.49
+    },
+    {
+     "player": 21930,
+     "nick": "millert",
+     "kills": 19,
+     "deaths": 11,
+     "swing": 3.79,
+     "adr": 88.6,
+     "kast": 73.9,
+     "rating": 1.37
+    },
+    {
+     "player": 24149,
+     "nick": "Schwarz",
+     "kills": 11,
+     "deaths": 15,
+     "swing": -1.73,
+     "adr": 74.8,
+     "kast": 52.2,
+     "rating": 0.91
+    },
+    {
+     "player": 24911,
+     "nick": "joeski",
+     "kills": 13,
+     "deaths": 14,
+     "swing": -1.64,
+     "adr": 54.8,
+     "kast": 87.0,
+     "rating": 0.86
+    },
+    {
+     "player": 18848,
+     "nick": "HENU",
+     "kills": 9,
+     "deaths": 17,
+     "swing": -3.13,
+     "adr": 38.1,
+     "kast": 69.6,
+     "rating": 0.63
+    },
+    {
+     "player": 20877,
+     "nick": "tvs",
+     "kills": 17,
+     "deaths": 10,
+     "swing": -0.16,
+     "adr": 73.7,
+     "kast": 73.9,
+     "rating": 1.18
+    },
+    {
+     "player": 13174,
+     "nick": "flaw",
+     "kills": 13,
+     "deaths": 15,
+     "swing": -0.2,
+     "adr": 57.7,
+     "kast": 82.6,
+     "rating": 1.03
+    },
+    {
+     "player": 13669,
+     "nick": "Jackinho",
+     "kills": 13,
+     "deaths": 15,
+     "swing": -1.0,
+     "adr": 63.8,
+     "kast": 69.6,
+     "rating": 1.0
+    },
+    {
+     "player": 15569,
+     "nick": "Sapec",
+     "kills": 12,
+     "deaths": 15,
+     "swing": -0.32,
+     "adr": 67.0,
+     "kast": 65.2,
+     "rating": 1.0
+    },
+    {
+     "player": 13046,
+     "nick": "dottie",
+     "kills": 15,
+     "deaths": 16,
+     "swing": -1.98,
+     "adr": 68.7,
+     "kast": 65.2,
+     "rating": 0.95
+    }
+   ],
+   "t": [
+    {
+     "player": 21930,
+     "nick": "millert",
+     "kills": 13,
+     "deaths": 2,
+     "swing": 10.81,
+     "adr": 124.1,
+     "kast": 90.9,
+     "rating": 2.04
+    },
+    {
+     "player": 24149,
+     "nick": "Schwarz",
+     "kills": 7,
+     "deaths": 4,
+     "swing": 2.99,
+     "adr": 94.3,
+     "kast": 72.7,
+     "rating": 1.34
+    },
+    {
+     "player": 22733,
+     "nick": "teme",
+     "kills": 8,
+     "deaths": 5,
+     "swing": 4.91,
+     "adr": 88.7,
+     "kast": 90.9,
+     "rating": 1.29
+    },
+    {
+     "player": 24911,
+     "nick": "joeski",
+     "kills": 8,
+     "deaths": 3,
+     "swing": 2.72,
+     "adr": 52.3,
+     "kast": 100.0,
+     "rating": 1.12
+    },
+    {
+     "player": 18848,
+     "nick": "HENU",
+     "kills": 3,
+     "deaths": 6,
+     "swing": -5.82,
+     "adr": 29.1,
+     "kast": 81.8,
+     "rating": 0.46
+    },
+    {
+     "player": 20877,
+     "nick": "tvs",
+     "kills": 14,
+     "deaths": 3,
+     "swing": 5.33,
+     "adr": 114.8,
+     "kast": 91.7,
+     "rating": 1.78
+    },
+    {
+     "player": 15569,
+     "nick": "Sapec",
+     "kills": 10,
+     "deaths": 6,
+     "swing": 2.84,
+     "adr": 102.2,
+     "kast": 83.3,
+     "rating": 1.43
+    },
+    {
+     "player": 13046,
+     "nick": "dottie",
+     "kills": 12,
+     "deaths": 7,
+     "swing": 2.46,
+     "adr": 91.1,
+     "kast": 83.3,
+     "rating": 1.35
+    },
+    {
+     "player": 13174,
+     "nick": "flaw",
+     "kills": 7,
+     "deaths": 8,
+     "swing": 0.07,
+     "adr": 62.8,
+     "kast": 91.7,
+     "rating": 1.08
+    },
+    {
+     "player": 13669,
+     "nick": "Jackinho",
+     "kills": 7,
+     "deaths": 7,
+     "swing": -3.38,
+     "adr": 62.6,
+     "kast": 83.3,
+     "rating": 0.93
+    }
+   ],
+   "ct": [
+    {
+     "player": 22733,
+     "nick": "teme",
+     "kills": 10,
+     "deaths": 9,
+     "swing": 7.68,
+     "adr": 77.4,
+     "kast": 66.7,
+     "rating": 1.67
+    },
+    {
+     "player": 18848,
+     "nick": "HENU",
+     "kills": 6,
+     "deaths": 11,
+     "swing": -0.66,
+     "adr": 46.3,
+     "kast": 58.3,
+     "rating": 0.78
+    },
+    {
+     "player": 21930,
+     "nick": "millert",
+     "kills": 6,
+     "deaths": 9,
+     "swing": -2.66,
+     "adr": 56.0,
+     "kast": 58.3,
+     "rating": 0.76
+    },
+    {
+     "player": 24911,
+     "nick": "joeski",
+     "kills": 5,
+     "deaths": 11,
+     "swing": -5.62,
+     "adr": 57.1,
+     "kast": 75.0,
+     "rating": 0.61
+    },
+    {
+     "player": 24149,
+     "nick": "Schwarz",
+     "kills": 4,
+     "deaths": 11,
+     "swing": -6.06,
+     "adr": 57.0,
+     "kast": 33.3,
+     "rating": 0.51
+    },
+    {
+     "player": 13669,
+     "nick": "Jackinho",
+     "kills": 6,
+     "deaths": 8,
+     "swing": 1.6,
+     "adr": 65.1,
+     "kast": 54.5,
+     "rating": 1.08
+    },
+    {
+     "player": 13174,
+     "nick": "flaw",
+     "kills": 6,
+     "deaths": 7,
+     "swing": -0.5,
+     "adr": 52.1,
+     "kast": 72.7,
+     "rating": 0.96
+    },
+    {
+     "player": 15569,
+     "nick": "Sapec",
+     "kills": 2,
+     "deaths": 9,
+     "swing": -3.76,
+     "adr": 28.5,
+     "kast": 45.5,
+     "rating": 0.53
+    },
+    {
+     "player": 20877,
+     "nick": "tvs",
+     "kills": 3,
+     "deaths": 7,
+     "swing": -6.13,
+     "adr": 28.8,
+     "kast": 54.5,
+     "rating": 0.52
+    },
+    {
+     "player": 13046,
+     "nick": "dottie",
+     "kills": 3,
+     "deaths": 9,
+     "swing": -6.82,
+     "adr": 44.3,
+     "kast": 45.5,
+     "rating": 0.52
+    }
+   ]
+  },
+  "de_mirage": {
+   "both": [
+    {
+     "player": 18848,
+     "nick": "HENU",
+     "kills": 21,
+     "deaths": 11,
+     "swing": 7.45,
+     "adr": 88.7,
+     "kast": 77.3,
+     "rating": 1.66
+    },
+    {
+     "player": 22733,
+     "nick": "teme",
+     "kills": 15,
+     "deaths": 13,
+     "swing": 3.94,
+     "adr": 82.6,
+     "kast": 77.3,
+     "rating": 1.42
+    },
+    {
+     "player": 24149,
+     "nick": "Schwarz",
+     "kills": 14,
+     "deaths": 14,
+     "swing": 0.88,
+     "adr": 72.9,
+     "kast": 72.7,
+     "rating": 1.08
+    },
+    {
+     "player": 24911,
+     "nick": "joeski",
+     "kills": 16,
+     "deaths": 16,
+     "swing": -4.36,
+     "adr": 79.7,
+     "kast": 72.7,
+     "rating": 1.01
+    },
+    {
+     "player": 21930,
+     "nick": "millert",
+     "kills": 13,
+     "deaths": 13,
+     "swing": 1.13,
+     "adr": 64.4,
+     "kast": 81.8,
+     "rating": 0.97
+    },
+    {
+     "player": 13046,
+     "nick": "dottie",
+     "kills": 17,
+     "deaths": 17,
+     "swing": 1.5,
+     "adr": 87.0,
+     "kast": 72.7,
+     "rating": 1.28
+    },
+    {
+     "player": 13669,
+     "nick": "Jackinho",
+     "kills": 15,
+     "deaths": 17,
+     "swing": -3.05,
+     "adr": 82.0,
+     "kast": 68.2,
+     "rating": 1.07
+    },
+    {
+     "player": 20877,
+     "nick": "tvs",
+     "kills": 14,
+     "deaths": 14,
+     "swing": 0.11,
+     "adr": 63.4,
+     "kast": 81.8,
+     "rating": 1.01
+    },
+    {
+     "player": 13174,
+     "nick": "flaw",
+     "kills": 10,
+     "deaths": 15,
+     "swing": -5.2,
+     "adr": 53.8,
+     "kast": 68.2,
+     "rating": 0.7
+    },
+    {
+     "player": 15569,
+     "nick": "Sapec",
+     "kills": 10,
+     "deaths": 19,
+     "swing": -3.48,
+     "adr": 57.2,
+     "kast": 59.1,
+     "rating": 0.67
+    }
+   ],
+   "t": [
+    {
+     "player": 18848,
+     "nick": "HENU",
+     "kills": 11,
+     "deaths": 7,
+     "swing": 2.69,
+     "adr": 82.2,
+     "kast": 75.0,
+     "rating": 1.26
+    },
+    {
+     "player": 24149,
+     "nick": "Schwarz",
+     "kills": 8,
+     "deaths": 8,
+     "swing": 2.67,
+     "adr": 84.0,
+     "kast": 58.3,
+     "rating": 1.13
+    },
+    {
+     "player": 22733,
+     "nick": "teme",
+     "kills": 5,
+     "deaths": 7,
+     "swing": -1.95,
+     "adr": 64.8,
+     "kast": 75.0,
+     "rating": 0.86
+    },
+    {
+     "player": 21930,
+     "nick": "millert",
+     "kills": 7,
+     "deaths": 7,
+     "swing": 0.47,
+     "adr": 59.3,
+     "kast": 83.3,
+     "rating": 0.82
+    },
+    {
+     "player": 24911,
+     "nick": "joeski",
+     "kills": 8,
+     "deaths": 10,
+     "swing": -9.39,
+     "adr": 77.4,
+     "kast": 75.0,
+     "rating": 0.73
+    },
+    {
+     "player": 13174,
+     "nick": "flaw",
+     "kills": 7,
+     "deaths": 7,
+     "swing": -2.26,
+     "adr": 65.9,
+     "kast": 60.0,
+     "rating": 0.87
+    },
+    {
+     "player": 13046,
+     "nick": "dottie",
+     "kills": 7,
+     "deaths": 9,
+     "swing": -3.98,
+     "adr": 71.6,
+     "kast": 70.0,
+     "rating": 0.72
+    },
+    {
+     "player": 13669,
+     "nick": "Jackinho",
+     "kills": 5,
+     "deaths": 8,
+     "swing": -10.51,
+     "adr": 65.7,
+     "kast": 70.0,
+     "rating": 0.68
+    },
+    {
+     "player": 20877,
+     "nick": "tvs",
+     "kills": 4,
+     "deaths": 7,
+     "swing": -3.45,
+     "adr": 58.1,
+     "kast": 70.0,
+     "rating": 0.56
+    },
+    {
+     "player": 15569,
+     "nick": "Sapec",
+     "kills": 5,
+     "deaths": 10,
+     "swing": -7.67,
+     "adr": 74.7,
+     "kast": 60.0,
+     "rating": 0.53
+    }
+   ],
+   "ct": [
+    {
+     "player": 18848,
+     "nick": "HENU",
+     "kills": 10,
+     "deaths": 4,
+     "swing": 13.16,
+     "adr": 96.6,
+     "kast": 80.0,
+     "rating": 2.14
+    },
+    {
+     "player": 22733,
+     "nick": "teme",
+     "kills": 10,
+     "deaths": 6,
+     "swing": 11.0,
+     "adr": 103.9,
+     "kast": 80.0,
+     "rating": 2.1
+    },
+    {
+     "player": 24911,
+     "nick": "joeski",
+     "kills": 8,
+     "deaths": 6,
+     "swing": 1.67,
+     "adr": 82.4,
+     "kast": 70.0,
+     "rating": 1.36
+    },
+    {
+     "player": 21930,
+     "nick": "millert",
+     "kills": 6,
+     "deaths": 6,
+     "swing": 1.92,
+     "adr": 70.5,
+     "kast": 80.0,
+     "rating": 1.16
+    },
+    {
+     "player": 24149,
+     "nick": "Schwarz",
+     "kills": 6,
+     "deaths": 6,
+     "swing": -1.27,
+     "adr": 59.6,
+     "kast": 90.0,
+     "rating": 1.02
+    },
+    {
+     "player": 13046,
+     "nick": "dottie",
+     "kills": 10,
+     "deaths": 8,
+     "swing": 6.06,
+     "adr": 99.8,
+     "kast": 75.0,
+     "rating": 1.74
+    },
+    {
+     "player": 13669,
+     "nick": "Jackinho",
+     "kills": 10,
+     "deaths": 9,
+     "swing": 3.17,
+     "adr": 95.6,
+     "kast": 66.7,
+     "rating": 1.39
+    },
+    {
+     "player": 20877,
+     "nick": "tvs",
+     "kills": 10,
+     "deaths": 7,
+     "swing": 3.07,
+     "adr": 67.8,
+     "kast": 91.7,
+     "rating": 1.38
+    },
+    {
+     "player": 15569,
+     "nick": "Sapec",
+     "kills": 5,
+     "deaths": 9,
+     "swing": 0.01,
+     "adr": 42.6,
+     "kast": 58.3,
+     "rating": 0.79
+    },
+    {
+     "player": 13174,
+     "nick": "flaw",
+     "kills": 3,
+     "deaths": 8,
+     "swing": -7.64,
+     "adr": 43.8,
+     "kast": 75.0,
+     "rating": 0.56
+    }
+   ]
   }
  },
  "mvp": null,

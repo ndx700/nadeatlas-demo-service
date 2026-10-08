@@ -1,0 +1,1332 @@
+{
+ "id": 2394988,
+ "eventId": 8301,
+ "stage": "Swiss round 4",
+ "time": "2026-06-14T12:00:00Z",
+ "bo": 3,
+ "status": "finished",
+ "team1": {
+  "id": 6248,
+  "score": 2,
+  "players": [
+   21809,
+   21001,
+   20194,
+   20275,
+   23402
+  ]
+ },
+ "team2": {
+  "id": 11811,
+  "score": 1,
+  "players": [
+   19015,
+   19926,
+   21816,
+   22106,
+   17145
+  ]
+ },
+ "maps": [
+  {
+   "map": "de_nuke",
+   "pick": 11811,
+   "score": [
+    9,
+    13
+   ],
+   "halves": [
+    [
+     4,
+     8
+    ],
+    [
+     5,
+     5
+    ]
+   ]
+  },
+  {
+   "map": "de_inferno",
+   "pick": 6248,
+   "score": [
+    13,
+    7
+   ],
+   "halves": [
+    [
+     5,
+     7
+    ],
+    [
+     8,
+     0
+    ]
+   ]
+  },
+  {
+   "map": "de_dust2",
+   "pick": null,
+   "score": [
+    13,
+    11
+   ],
+   "halves": [
+    [
+     6,
+     6
+    ],
+    [
+     7,
+     5
+    ]
+   ]
+  }
+ ],
+ "stats": {
+  "all": {
+   "both": [
+    {
+     "player": 23402,
+     "nick": "cobrazera",
+     "kills": 47,
+     "deaths": 41,
+     "swing": 1.41,
+     "adr": 69.1,
+     "kast": 74.2,
+     "rating": 1.15
+    },
+    {
+     "player": 21809,
+     "nick": "910",
+     "kills": 49,
+     "deaths": 38,
+     "swing": 1.28,
+     "adr": 72.1,
+     "kast": 75.8,
+     "rating": 1.15
+    },
+    {
+     "player": 20194,
+     "nick": "bLitz",
+     "kills": 44,
+     "deaths": 39,
+     "swing": 1.1,
+     "adr": 79.8,
+     "kast": 69.7,
+     "rating": 1.12
+    },
+    {
+     "player": 21001,
+     "nick": "mzinho",
+     "kills": 45,
+     "deaths": 47,
+     "swing": 1.85,
+     "adr": 75.9,
+     "kast": 69.7,
+     "rating": 1.11
+    },
+    {
+     "player": 20275,
+     "nick": "Techno",
+     "kills": 30,
+     "deaths": 50,
+     "swing": -3.36,
+     "adr": 56.2,
+     "kast": 71.2,
+     "rating": 0.76
+    },
+    {
+     "player": 19926,
+     "nick": "afro",
+     "kills": 54,
+     "deaths": 41,
+     "swing": 1.36,
+     "adr": 78.0,
+     "kast": 71.2,
+     "rating": 1.16
+    },
+    {
+     "player": 21816,
+     "nick": "Gizmy",
+     "kills": 39,
+     "deaths": 44,
+     "swing": 0.93,
+     "adr": 74.8,
+     "kast": 71.2,
+     "rating": 1.08
+    },
+    {
+     "player": 22106,
+     "nick": "AZUWU",
+     "kills": 42,
+     "deaths": 45,
+     "swing": -1.29,
+     "adr": 76.1,
+     "kast": 74.2,
+     "rating": 1.04
+    },
+    {
+     "player": 17145,
+     "nick": "Rainwaker",
+     "kills": 38,
+     "deaths": 39,
+     "swing": -0.15,
+     "adr": 62.6,
+     "kast": 65.2,
+     "rating": 0.96
+    },
+    {
+     "player": 19015,
+     "nick": "Bymas",
+     "kills": 42,
+     "deaths": 46,
+     "swing": -3.14,
+     "adr": 66.0,
+     "kast": 62.1,
+     "rating": 0.81
+    }
+   ],
+   "t": [
+    {
+     "player": 23402,
+     "nick": "cobrazera",
+     "kills": 30,
+     "deaths": 16,
+     "swing": 2.43,
+     "adr": 89.3,
+     "kast": 78.1,
+     "rating": 1.38
+    },
+    {
+     "player": 20194,
+     "nick": "bLitz",
+     "kills": 19,
+     "deaths": 19,
+     "swing": 2.04,
+     "adr": 77.7,
+     "kast": 62.5,
+     "rating": 1.07
+    },
+    {
+     "player": 21001,
+     "nick": "mzinho",
+     "kills": 21,
+     "deaths": 19,
+     "swing": 1.31,
+     "adr": 84.3,
+     "kast": 68.8,
+     "rating": 1.06
+    },
+    {
+     "player": 21809,
+     "nick": "910",
+     "kills": 22,
+     "deaths": 17,
+     "swing": 1.19,
+     "adr": 69.5,
+     "kast": 78.1,
+     "rating": 1.03
+    },
+    {
+     "player": 20275,
+     "nick": "Techno",
+     "kills": 18,
+     "deaths": 21,
+     "swing": -1.83,
+     "adr": 53.0,
+     "kast": 71.9,
+     "rating": 0.82
+    },
+    {
+     "player": 19926,
+     "nick": "afro",
+     "kills": 34,
+     "deaths": 22,
+     "swing": 1.87,
+     "adr": 92.5,
+     "kast": 82.4,
+     "rating": 1.23
+    },
+    {
+     "player": 17145,
+     "nick": "Rainwaker",
+     "kills": 25,
+     "deaths": 15,
+     "swing": 1.67,
+     "adr": 77.4,
+     "kast": 76.5,
+     "rating": 1.18
+    },
+    {
+     "player": 22106,
+     "nick": "AZUWU",
+     "kills": 21,
+     "deaths": 22,
+     "swing": -1.26,
+     "adr": 80.2,
+     "kast": 82.4,
+     "rating": 0.98
+    },
+    {
+     "player": 21816,
+     "nick": "Gizmy",
+     "kills": 17,
+     "deaths": 23,
+     "swing": -0.15,
+     "adr": 79.7,
+     "kast": 70.6,
+     "rating": 0.91
+    },
+    {
+     "player": 19015,
+     "nick": "Bymas",
+     "kills": 26,
+     "deaths": 23,
+     "swing": -1.71,
+     "adr": 64.8,
+     "kast": 67.6,
+     "rating": 0.87
+    }
+   ],
+   "ct": [
+    {
+     "player": 21809,
+     "nick": "910",
+     "kills": 27,
+     "deaths": 21,
+     "swing": 1.36,
+     "adr": 74.6,
+     "kast": 73.5,
+     "rating": 1.25
+    },
+    {
+     "player": 20194,
+     "nick": "bLitz",
+     "kills": 25,
+     "deaths": 20,
+     "swing": 0.23,
+     "adr": 81.8,
+     "kast": 76.5,
+     "rating": 1.17
+    },
+    {
+     "player": 21001,
+     "nick": "mzinho",
+     "kills": 24,
+     "deaths": 28,
+     "swing": 2.35,
+     "adr": 67.9,
+     "kast": 70.6,
+     "rating": 1.16
+    },
+    {
+     "player": 23402,
+     "nick": "cobrazera",
+     "kills": 17,
+     "deaths": 25,
+     "swing": 0.44,
+     "adr": 50.0,
+     "kast": 70.6,
+     "rating": 0.93
+    },
+    {
+     "player": 20275,
+     "nick": "Techno",
+     "kills": 12,
+     "deaths": 29,
+     "swing": -4.8,
+     "adr": 59.2,
+     "kast": 70.6,
+     "rating": 0.69
+    },
+    {
+     "player": 21816,
+     "nick": "Gizmy",
+     "kills": 22,
+     "deaths": 21,
+     "swing": 2.09,
+     "adr": 69.6,
+     "kast": 71.9,
+     "rating": 1.26
+    },
+    {
+     "player": 22106,
+     "nick": "AZUWU",
+     "kills": 21,
+     "deaths": 23,
+     "swing": -1.32,
+     "adr": 71.8,
+     "kast": 65.6,
+     "rating": 1.1
+    },
+    {
+     "player": 19926,
+     "nick": "afro",
+     "kills": 20,
+     "deaths": 19,
+     "swing": 0.83,
+     "adr": 62.5,
+     "kast": 59.4,
+     "rating": 1.08
+    },
+    {
+     "player": 19015,
+     "nick": "Bymas",
+     "kills": 16,
+     "deaths": 23,
+     "swing": -4.65,
+     "adr": 67.4,
+     "kast": 56.2,
+     "rating": 0.76
+    },
+    {
+     "player": 17145,
+     "nick": "Rainwaker",
+     "kills": 13,
+     "deaths": 24,
+     "swing": -2.08,
+     "adr": 46.8,
+     "kast": 53.1,
+     "rating": 0.73
+    }
+   ]
+  },
+  "de_nuke": {
+   "both": [
+    {
+     "player": 21001,
+     "nick": "mzinho",
+     "kills": 15,
+     "deaths": 17,
+     "swing": 1.53,
+     "adr": 80.3,
+     "kast": 63.6,
+     "rating": 1.09
+    },
+    {
+     "player": 23402,
+     "nick": "cobrazera",
+     "kills": 15,
+     "deaths": 15,
+     "swing": -2.03,
+     "adr": 66.0,
+     "kast": 77.3,
+     "rating": 0.94
+    },
+    {
+     "player": 21809,
+     "nick": "910",
+     "kills": 14,
+     "deaths": 13,
+     "swing": -1.33,
+     "adr": 56.4,
+     "kast": 72.7,
+     "rating": 0.94
+    },
+    {
+     "player": 20194,
+     "nick": "bLitz",
+     "kills": 13,
+     "deaths": 16,
+     "swing": -1.83,
+     "adr": 71.5,
+     "kast": 59.1,
+     "rating": 0.9
+    },
+    {
+     "player": 20275,
+     "nick": "Techno",
+     "kills": 7,
+     "deaths": 16,
+     "swing": -3.58,
+     "adr": 43.5,
+     "kast": 63.6,
+     "rating": 0.62
+    },
+    {
+     "player": 21816,
+     "nick": "Gizmy",
+     "kills": 17,
+     "deaths": 13,
+     "swing": 6.87,
+     "adr": 82.5,
+     "kast": 81.8,
+     "rating": 1.63
+    },
+    {
+     "player": 19926,
+     "nick": "afro",
+     "kills": 21,
+     "deaths": 11,
+     "swing": 4.76,
+     "adr": 90.7,
+     "kast": 81.8,
+     "rating": 1.51
+    },
+    {
+     "player": 17145,
+     "nick": "Rainwaker",
+     "kills": 17,
+     "deaths": 13,
+     "swing": 0.46,
+     "adr": 73.8,
+     "kast": 77.3,
+     "rating": 1.21
+    },
+    {
+     "player": 19015,
+     "nick": "Bymas",
+     "kills": 13,
+     "deaths": 13,
+     "swing": -0.72,
+     "adr": 67.4,
+     "kast": 77.3,
+     "rating": 1.0
+    },
+    {
+     "player": 22106,
+     "nick": "AZUWU",
+     "kills": 9,
+     "deaths": 14,
+     "swing": -4.13,
+     "adr": 55.2,
+     "kast": 77.3,
+     "rating": 0.83
+    }
+   ],
+   "t": [
+    {
+     "player": 23402,
+     "nick": "cobrazera",
+     "kills": 10,
+     "deaths": 8,
+     "swing": -2.38,
+     "adr": 81.3,
+     "kast": 75.0,
+     "rating": 1.05
+    },
+    {
+     "player": 21809,
+     "nick": "910",
+     "kills": 6,
+     "deaths": 6,
+     "swing": -2.09,
+     "adr": 49.4,
+     "kast": 66.7,
+     "rating": 0.75
+    },
+    {
+     "player": 21001,
+     "nick": "mzinho",
+     "kills": 6,
+     "deaths": 9,
+     "swing": -1.88,
+     "adr": 72.2,
+     "kast": 50.0,
+     "rating": 0.75
+    },
+    {
+     "player": 20194,
+     "nick": "bLitz",
+     "kills": 6,
+     "deaths": 10,
+     "swing": -2.03,
+     "adr": 63.0,
+     "kast": 41.7,
+     "rating": 0.66
+    },
+    {
+     "player": 20275,
+     "nick": "Techno",
+     "kills": 4,
+     "deaths": 8,
+     "swing": -4.92,
+     "adr": 43.8,
+     "kast": 66.7,
+     "rating": 0.57
+    },
+    {
+     "player": 17145,
+     "nick": "Rainwaker",
+     "kills": 12,
+     "deaths": 4,
+     "swing": 6.01,
+     "adr": 118.4,
+     "kast": 100.0,
+     "rating": 1.92
+    },
+    {
+     "player": 19926,
+     "nick": "afro",
+     "kills": 10,
+     "deaths": 7,
+     "swing": 0.05,
+     "adr": 94.0,
+     "kast": 80.0,
+     "rating": 1.02
+    },
+    {
+     "player": 19015,
+     "nick": "Bymas",
+     "kills": 7,
+     "deaths": 6,
+     "swing": 0.03,
+     "adr": 49.3,
+     "kast": 70.0,
+     "rating": 0.88
+    },
+    {
+     "player": 21816,
+     "nick": "Gizmy",
+     "kills": 4,
+     "deaths": 7,
+     "swing": 1.47,
+     "adr": 59.3,
+     "kast": 70.0,
+     "rating": 0.83
+    },
+    {
+     "player": 22106,
+     "nick": "AZUWU",
+     "kills": 3,
+     "deaths": 8,
+     "swing": -7.58,
+     "adr": 51.8,
+     "kast": 80.0,
+     "rating": 0.51
+    }
+   ],
+   "ct": [
+    {
+     "player": 21001,
+     "nick": "mzinho",
+     "kills": 9,
+     "deaths": 8,
+     "swing": 5.61,
+     "adr": 90.0,
+     "kast": 80.0,
+     "rating": 1.5
+    },
+    {
+     "player": 20194,
+     "nick": "bLitz",
+     "kills": 7,
+     "deaths": 6,
+     "swing": -1.59,
+     "adr": 81.6,
+     "kast": 80.0,
+     "rating": 1.18
+    },
+    {
+     "player": 21809,
+     "nick": "910",
+     "kills": 8,
+     "deaths": 7,
+     "swing": -0.42,
+     "adr": 64.8,
+     "kast": 80.0,
+     "rating": 1.17
+    },
+    {
+     "player": 23402,
+     "nick": "cobrazera",
+     "kills": 5,
+     "deaths": 7,
+     "swing": -1.61,
+     "adr": 47.7,
+     "kast": 80.0,
+     "rating": 0.82
+    },
+    {
+     "player": 20275,
+     "nick": "Techno",
+     "kills": 3,
+     "deaths": 8,
+     "swing": -1.98,
+     "adr": 43.3,
+     "kast": 60.0,
+     "rating": 0.69
+    },
+    {
+     "player": 21816,
+     "nick": "Gizmy",
+     "kills": 13,
+     "deaths": 6,
+     "swing": 11.37,
+     "adr": 101.8,
+     "kast": 91.7,
+     "rating": 2.3
+    },
+    {
+     "player": 19926,
+     "nick": "afro",
+     "kills": 11,
+     "deaths": 4,
+     "swing": 8.69,
+     "adr": 87.9,
+     "kast": 83.3,
+     "rating": 1.91
+    },
+    {
+     "player": 19015,
+     "nick": "Bymas",
+     "kills": 6,
+     "deaths": 7,
+     "swing": -1.34,
+     "adr": 82.5,
+     "kast": 83.3,
+     "rating": 1.09
+    },
+    {
+     "player": 22106,
+     "nick": "AZUWU",
+     "kills": 6,
+     "deaths": 6,
+     "swing": -1.26,
+     "adr": 58.0,
+     "kast": 75.0,
+     "rating": 1.09
+    },
+    {
+     "player": 17145,
+     "nick": "Rainwaker",
+     "kills": 5,
+     "deaths": 9,
+     "swing": -4.17,
+     "adr": 36.7,
+     "kast": 58.3,
+     "rating": 0.61
+    }
+   ]
+  },
+  "de_inferno": {
+   "both": [
+    {
+     "player": 23402,
+     "nick": "cobrazera",
+     "kills": 18,
+     "deaths": 10,
+     "swing": 4.61,
+     "adr": 79.2,
+     "kast": 75.0,
+     "rating": 1.46
+    },
+    {
+     "player": 20194,
+     "nick": "bLitz",
+     "kills": 14,
+     "deaths": 9,
+     "swing": 4.53,
+     "adr": 92.2,
+     "kast": 75.0,
+     "rating": 1.44
+    },
+    {
+     "player": 21809,
+     "nick": "910",
+     "kills": 18,
+     "deaths": 11,
+     "swing": 3.75,
+     "adr": 87.5,
+     "kast": 70.0,
+     "rating": 1.36
+    },
+    {
+     "player": 21001,
+     "nick": "mzinho",
+     "kills": 13,
+     "deaths": 12,
+     "swing": 2.07,
+     "adr": 79.8,
+     "kast": 75.0,
+     "rating": 1.21
+    },
+    {
+     "player": 20275,
+     "nick": "Techno",
+     "kills": 11,
+     "deaths": 17,
+     "swing": -2.21,
+     "adr": 56.0,
+     "kast": 80.0,
+     "rating": 0.93
+    },
+    {
+     "player": 19015,
+     "nick": "Bymas",
+     "kills": 15,
+     "deaths": 16,
+     "swing": -3.24,
+     "adr": 71.9,
+     "kast": 60.0,
+     "rating": 0.96
+    },
+    {
+     "player": 22106,
+     "nick": "AZUWU",
+     "kills": 13,
+     "deaths": 15,
+     "swing": -1.84,
+     "adr": 73.1,
+     "kast": 70.0,
+     "rating": 0.96
+    },
+    {
+     "player": 19926,
+     "nick": "afro",
+     "kills": 14,
+     "deaths": 15,
+     "swing": -1.24,
+     "adr": 61.7,
+     "kast": 60.0,
+     "rating": 0.95
+    },
+    {
+     "player": 21816,
+     "nick": "Gizmy",
+     "kills": 8,
+     "deaths": 14,
+     "swing": -3.36,
+     "adr": 72.2,
+     "kast": 65.0,
+     "rating": 0.82
+    },
+    {
+     "player": 17145,
+     "nick": "Rainwaker",
+     "kills": 9,
+     "deaths": 14,
+     "swing": -3.07,
+     "adr": 58.5,
+     "kast": 50.0,
+     "rating": 0.79
+    }
+   ],
+   "t": [
+    {
+     "player": 23402,
+     "nick": "cobrazera",
+     "kills": 12,
+     "deaths": 1,
+     "swing": 10.03,
+     "adr": 121.5,
+     "kast": 100.0,
+     "rating": 2.28
+    },
+    {
+     "player": 20194,
+     "nick": "bLitz",
+     "kills": 6,
+     "deaths": 1,
+     "swing": 12.43,
+     "adr": 101.5,
+     "kast": 100.0,
+     "rating": 2.11
+    },
+    {
+     "player": 21809,
+     "nick": "910",
+     "kills": 10,
+     "deaths": 2,
+     "swing": 9.01,
+     "adr": 120.0,
+     "kast": 100.0,
+     "rating": 2.0
+    },
+    {
+     "player": 20275,
+     "nick": "Techno",
+     "kills": 9,
+     "deaths": 5,
+     "swing": 8.05,
+     "adr": 75.9,
+     "kast": 100.0,
+     "rating": 1.73
+    },
+    {
+     "player": 21001,
+     "nick": "mzinho",
+     "kills": 3,
+     "deaths": 2,
+     "swing": 0.04,
+     "adr": 77.5,
+     "kast": 100.0,
+     "rating": 1.07
+    },
+    {
+     "player": 19015,
+     "nick": "Bymas",
+     "kills": 14,
+     "deaths": 8,
+     "swing": 2.47,
+     "adr": 101.7,
+     "kast": 83.3,
+     "rating": 1.49
+    },
+    {
+     "player": 19926,
+     "nick": "afro",
+     "kills": 13,
+     "deaths": 7,
+     "swing": 2.77,
+     "adr": 89.2,
+     "kast": 91.7,
+     "rating": 1.43
+    },
+    {
+     "player": 17145,
+     "nick": "Rainwaker",
+     "kills": 8,
+     "deaths": 6,
+     "swing": 0.6,
+     "adr": 82.9,
+     "kast": 66.7,
+     "rating": 1.13
+    },
+    {
+     "player": 22106,
+     "nick": "AZUWU",
+     "kills": 9,
+     "deaths": 7,
+     "swing": 1.15,
+     "adr": 86.2,
+     "kast": 75.0,
+     "rating": 1.11
+    },
+    {
+     "player": 21816,
+     "nick": "Gizmy",
+     "kills": 4,
+     "deaths": 6,
+     "swing": -1.88,
+     "adr": 83.2,
+     "kast": 66.7,
+     "rating": 0.9
+    }
+   ],
+   "ct": [
+    {
+     "player": 21001,
+     "nick": "mzinho",
+     "kills": 10,
+     "deaths": 10,
+     "swing": 3.42,
+     "adr": 81.2,
+     "kast": 58.3,
+     "rating": 1.3
+    },
+    {
+     "player": 20194,
+     "nick": "bLitz",
+     "kills": 8,
+     "deaths": 8,
+     "swing": -0.73,
+     "adr": 85.9,
+     "kast": 58.3,
+     "rating": 1.0
+    },
+    {
+     "player": 21809,
+     "nick": "910",
+     "kills": 8,
+     "deaths": 9,
+     "swing": 0.24,
+     "adr": 65.8,
+     "kast": 50.0,
+     "rating": 0.94
+    },
+    {
+     "player": 23402,
+     "nick": "cobrazera",
+     "kills": 6,
+     "deaths": 9,
+     "swing": 1.01,
+     "adr": 51.0,
+     "kast": 58.3,
+     "rating": 0.92
+    },
+    {
+     "player": 20275,
+     "nick": "Techno",
+     "kills": 2,
+     "deaths": 12,
+     "swing": -9.05,
+     "adr": 42.8,
+     "kast": 66.7,
+     "rating": 0.4
+    },
+    {
+     "player": 22106,
+     "nick": "AZUWU",
+     "kills": 4,
+     "deaths": 8,
+     "swing": -6.34,
+     "adr": 53.5,
+     "kast": 62.5,
+     "rating": 0.73
+    },
+    {
+     "player": 21816,
+     "nick": "Gizmy",
+     "kills": 4,
+     "deaths": 8,
+     "swing": -5.57,
+     "adr": 55.6,
+     "kast": 62.5,
+     "rating": 0.69
+    },
+    {
+     "player": 17145,
+     "nick": "Rainwaker",
+     "kills": 1,
+     "deaths": 8,
+     "swing": -8.57,
+     "adr": 22.0,
+     "kast": 25.0,
+     "rating": 0.27
+    },
+    {
+     "player": 19926,
+     "nick": "afro",
+     "kills": 1,
+     "deaths": 8,
+     "swing": -7.27,
+     "adr": 20.5,
+     "kast": 12.5,
+     "rating": 0.24
+    },
+    {
+     "player": 19015,
+     "nick": "Bymas",
+     "kills": 1,
+     "deaths": 8,
+     "swing": -11.81,
+     "adr": 27.2,
+     "kast": 25.0,
+     "rating": 0.17
+    }
+   ]
+  },
+  "de_dust2": {
+   "both": [
+    {
+     "player": 21809,
+     "nick": "910",
+     "kills": 17,
+     "deaths": 14,
+     "swing": 1.62,
+     "adr": 73.8,
+     "kast": 83.3,
+     "rating": 1.23
+    },
+    {
+     "player": 20194,
+     "nick": "bLitz",
+     "kills": 17,
+     "deaths": 14,
+     "swing": 0.93,
+     "adr": 77.2,
+     "kast": 75.0,
+     "rating": 1.15
+    },
+    {
+     "player": 23402,
+     "nick": "cobrazera",
+     "kills": 14,
+     "deaths": 16,
+     "swing": 1.89,
+     "adr": 63.4,
+     "kast": 70.8,
+     "rating": 1.12
+    },
+    {
+     "player": 21001,
+     "nick": "mzinho",
+     "kills": 17,
+     "deaths": 18,
+     "swing": 1.96,
+     "adr": 68.5,
+     "kast": 70.8,
+     "rating": 1.12
+    },
+    {
+     "player": 20275,
+     "nick": "Techno",
+     "kills": 12,
+     "deaths": 17,
+     "swing": -4.11,
+     "adr": 68.0,
+     "kast": 70.8,
+     "rating": 0.83
+    },
+    {
+     "player": 22106,
+     "nick": "AZUWU",
+     "kills": 20,
+     "deaths": 16,
+     "swing": 1.78,
+     "adr": 97.9,
+     "kast": 75.0,
+     "rating": 1.37
+    },
+    {
+     "player": 19926,
+     "nick": "afro",
+     "kills": 19,
+     "deaths": 15,
+     "swing": 0.42,
+     "adr": 79.9,
+     "kast": 70.8,
+     "rating": 1.1
+    },
+    {
+     "player": 17145,
+     "nick": "Rainwaker",
+     "kills": 12,
+     "deaths": 12,
+     "swing": 1.73,
+     "adr": 55.7,
+     "kast": 66.7,
+     "rating": 1.0
+    },
+    {
+     "player": 21816,
+     "nick": "Gizmy",
+     "kills": 14,
+     "deaths": 17,
+     "swing": -0.94,
+     "adr": 70.0,
+     "kast": 66.7,
+     "rating": 0.88
+    },
+    {
+     "player": 19015,
+     "nick": "Bymas",
+     "kills": 14,
+     "deaths": 17,
+     "swing": -5.27,
+     "adr": 59.9,
+     "kast": 50.0,
+     "rating": 0.66
+    }
+   ],
+   "t": [
+    {
+     "player": 21001,
+     "nick": "mzinho",
+     "kills": 12,
+     "deaths": 8,
+     "swing": 5.36,
+     "adr": 100.8,
+     "kast": 66.7,
+     "rating": 1.45
+    },
+    {
+     "player": 23402,
+     "nick": "cobrazera",
+     "kills": 8,
+     "deaths": 7,
+     "swing": 2.18,
+     "adr": 75.9,
+     "kast": 66.7,
+     "rating": 1.2
+    },
+    {
+     "player": 20194,
+     "nick": "bLitz",
+     "kills": 7,
+     "deaths": 8,
+     "swing": -0.83,
+     "adr": 76.6,
+     "kast": 58.3,
+     "rating": 0.92
+    },
+    {
+     "player": 21809,
+     "nick": "910",
+     "kills": 6,
+     "deaths": 9,
+     "swing": -0.73,
+     "adr": 55.9,
+     "kast": 75.0,
+     "rating": 0.78
+    },
+    {
+     "player": 20275,
+     "nick": "Techno",
+     "kills": 5,
+     "deaths": 8,
+     "swing": -5.33,
+     "adr": 46.9,
+     "kast": 58.3,
+     "rating": 0.61
+    },
+    {
+     "player": 22106,
+     "nick": "AZUWU",
+     "kills": 9,
+     "deaths": 7,
+     "swing": 1.6,
+     "adr": 97.9,
+     "kast": 91.7,
+     "rating": 1.32
+    },
+    {
+     "player": 19926,
+     "nick": "afro",
+     "kills": 11,
+     "deaths": 8,
+     "swing": 2.48,
+     "adr": 94.7,
+     "kast": 75.0,
+     "rating": 1.22
+    },
+    {
+     "player": 21816,
+     "nick": "Gizmy",
+     "kills": 9,
+     "deaths": 10,
+     "swing": 0.23,
+     "adr": 93.2,
+     "kast": 75.0,
+     "rating": 0.98
+    },
+    {
+     "player": 17145,
+     "nick": "Rainwaker",
+     "kills": 5,
+     "deaths": 5,
+     "swing": -0.87,
+     "adr": 37.8,
+     "kast": 66.7,
+     "rating": 0.73
+    },
+    {
+     "player": 19015,
+     "nick": "Bymas",
+     "kills": 5,
+     "deaths": 9,
+     "swing": -7.35,
+     "adr": 40.8,
+     "kast": 50.0,
+     "rating": 0.39
+    }
+   ],
+   "ct": [
+    {
+     "player": 21809,
+     "nick": "910",
+     "kills": 11,
+     "deaths": 5,
+     "swing": 3.97,
+     "adr": 91.7,
+     "kast": 91.7,
+     "rating": 1.69
+    },
+    {
+     "player": 20194,
+     "nick": "bLitz",
+     "kills": 10,
+     "deaths": 6,
+     "swing": 2.69,
+     "adr": 77.9,
+     "kast": 91.7,
+     "rating": 1.38
+    },
+    {
+     "player": 23402,
+     "nick": "cobrazera",
+     "kills": 6,
+     "deaths": 9,
+     "swing": 1.59,
+     "adr": 50.8,
+     "kast": 75.0,
+     "rating": 1.05
+    },
+    {
+     "player": 20275,
+     "nick": "Techno",
+     "kills": 7,
+     "deaths": 9,
+     "swing": -2.9,
+     "adr": 89.0,
+     "kast": 83.3,
+     "rating": 1.04
+    },
+    {
+     "player": 21001,
+     "nick": "mzinho",
+     "kills": 5,
+     "deaths": 10,
+     "swing": -1.44,
+     "adr": 36.2,
+     "kast": 75.0,
+     "rating": 0.78
+    },
+    {
+     "player": 22106,
+     "nick": "AZUWU",
+     "kills": 11,
+     "deaths": 9,
+     "swing": 1.95,
+     "adr": 97.8,
+     "kast": 58.3,
+     "rating": 1.43
+    },
+    {
+     "player": 17145,
+     "nick": "Rainwaker",
+     "kills": 7,
+     "deaths": 7,
+     "swing": 4.32,
+     "adr": 73.5,
+     "kast": 66.7,
+     "rating": 1.28
+    },
+    {
+     "player": 19926,
+     "nick": "afro",
+     "kills": 8,
+     "deaths": 7,
+     "swing": -1.63,
+     "adr": 65.2,
+     "kast": 66.7,
+     "rating": 0.99
+    },
+    {
+     "player": 19015,
+     "nick": "Bymas",
+     "kills": 9,
+     "deaths": 8,
+     "swing": -3.19,
+     "adr": 79.0,
+     "kast": 50.0,
+     "rating": 0.93
+    },
+    {
+     "player": 21816,
+     "nick": "Gizmy",
+     "kills": 5,
+     "deaths": 7,
+     "swing": -2.1,
+     "adr": 46.8,
+     "kast": 58.3,
+     "rating": 0.78
+    }
+   ]
+  }
+ },
+ "mvp": {
+  "player": 19926,
+  "nick": "afro",
+  "maps": 3,
+  "kpr": 0.82,
+  "dpr": 0.62,
+  "kast": 71.2,
+  "mkRating": 0.94,
+  "swing": 1.36,
+  "adr": 78.0,
+  "rating": 1.16
+ }
+}

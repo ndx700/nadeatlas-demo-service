@@ -1,0 +1,1004 @@
+{
+ "id": 2399181,
+ "eventId": 9385,
+ "stage": "Playoffs",
+ "time": "2026-10-07T21:00:00Z",
+ "bo": 3,
+ "status": "finished",
+ "team1": {
+  "id": 13026,
+  "score": 0,
+  "players": [
+   22559,
+   24146,
+   24262,
+   24560,
+   24563
+  ]
+ },
+ "team2": {
+  "id": 13756,
+  "score": 2,
+  "players": [
+   13287,
+   22404,
+   19306,
+   22109,
+   19831
+  ]
+ },
+ "maps": [
+  {
+   "map": "de_nuke",
+   "pick": 13026,
+   "score": [
+    6,
+    13
+   ],
+   "halves": [
+    [
+     2,
+     10
+    ],
+    [
+     4,
+     3
+    ]
+   ]
+  },
+  {
+   "map": "de_anubis",
+   "pick": 13756,
+   "score": [
+    9,
+    13
+   ],
+   "halves": [
+    [
+     7,
+     5
+    ],
+    [
+     2,
+     8
+    ]
+   ]
+  },
+  {
+   "map": "de_dust2",
+   "pick": null,
+   "score": [
+    null,
+    null
+   ],
+   "halves": null
+  }
+ ],
+ "stats": {
+  "all": {
+   "both": [
+    {
+     "player": 24262,
+     "nick": "F4QQ",
+     "kills": 38,
+     "deaths": 27,
+     "swing": -0.18,
+     "adr": 87.8,
+     "kast": 70.7,
+     "rating": 1.24
+    },
+    {
+     "player": 22559,
+     "nick": "Jotag3",
+     "kills": 35,
+     "deaths": 33,
+     "swing": -0.65,
+     "adr": 83.1,
+     "kast": 65.9,
+     "rating": 1.09
+    },
+    {
+     "player": 24146,
+     "nick": "lezy",
+     "kills": 28,
+     "deaths": 33,
+     "swing": -3.94,
+     "adr": 82.4,
+     "kast": 73.2,
+     "rating": 0.91
+    },
+    {
+     "player": 24560,
+     "nick": "Lekzi",
+     "kills": 24,
+     "deaths": 32,
+     "swing": -3.19,
+     "adr": 63.7,
+     "kast": 58.5,
+     "rating": 0.82
+    },
+    {
+     "player": 24563,
+     "nick": "agt",
+     "kills": 17,
+     "deaths": 30,
+     "swing": -3.71,
+     "adr": 53.7,
+     "kast": 70.7,
+     "rating": 0.71
+    },
+    {
+     "player": 22109,
+     "nick": "vinaabEAST",
+     "kills": 45,
+     "deaths": 26,
+     "swing": 5.58,
+     "adr": 105.8,
+     "kast": 80.5,
+     "rating": 1.79
+    },
+    {
+     "player": 19306,
+     "nick": "puni",
+     "kills": 35,
+     "deaths": 29,
+     "swing": 5.09,
+     "adr": 88.2,
+     "kast": 75.6,
+     "rating": 1.47
+    },
+    {
+     "player": 22404,
+     "nick": "cerolzin",
+     "kills": 25,
+     "deaths": 28,
+     "swing": 3.06,
+     "adr": 79.0,
+     "kast": 75.6,
+     "rating": 1.12
+    },
+    {
+     "player": 19831,
+     "nick": "proSHOW",
+     "kills": 28,
+     "deaths": 27,
+     "swing": 0.76,
+     "adr": 62.1,
+     "kast": 80.5,
+     "rating": 1.05
+    },
+    {
+     "player": 13287,
+     "nick": "bnc",
+     "kills": 21,
+     "deaths": 33,
+     "swing": -2.81,
+     "adr": 59.7,
+     "kast": 70.7,
+     "rating": 0.8
+    }
+   ],
+   "t": [
+    {
+     "player": 24262,
+     "nick": "F4QQ",
+     "kills": 20,
+     "deaths": 10,
+     "swing": 3.43,
+     "adr": 91.2,
+     "kast": 78.9,
+     "rating": 1.42
+    },
+    {
+     "player": 22559,
+     "nick": "Jotag3",
+     "kills": 17,
+     "deaths": 13,
+     "swing": 3.57,
+     "adr": 80.4,
+     "kast": 63.2,
+     "rating": 1.26
+    },
+    {
+     "player": 24560,
+     "nick": "Lekzi",
+     "kills": 16,
+     "deaths": 12,
+     "swing": 3.28,
+     "adr": 76.6,
+     "kast": 78.9,
+     "rating": 1.23
+    },
+    {
+     "player": 24563,
+     "nick": "agt",
+     "kills": 10,
+     "deaths": 12,
+     "swing": -1.33,
+     "adr": 67.4,
+     "kast": 84.2,
+     "rating": 0.86
+    },
+    {
+     "player": 24146,
+     "nick": "lezy",
+     "kills": 14,
+     "deaths": 13,
+     "swing": -4.48,
+     "adr": 92.4,
+     "kast": 63.2,
+     "rating": 0.83
+    },
+    {
+     "player": 22109,
+     "nick": "vinaabEAST",
+     "kills": 29,
+     "deaths": 11,
+     "swing": 11.98,
+     "adr": 125.9,
+     "kast": 86.4,
+     "rating": 2.31
+    },
+    {
+     "player": 19306,
+     "nick": "puni",
+     "kills": 17,
+     "deaths": 12,
+     "swing": 3.5,
+     "adr": 82.3,
+     "kast": 86.4,
+     "rating": 1.36
+    },
+    {
+     "player": 19831,
+     "nick": "proSHOW",
+     "kills": 20,
+     "deaths": 13,
+     "swing": 5.27,
+     "adr": 75.4,
+     "kast": 90.9,
+     "rating": 1.31
+    },
+    {
+     "player": 22404,
+     "nick": "cerolzin",
+     "kills": 16,
+     "deaths": 12,
+     "swing": 4.63,
+     "adr": 94.3,
+     "kast": 77.3,
+     "rating": 1.22
+    },
+    {
+     "player": 13287,
+     "nick": "bnc",
+     "kills": 13,
+     "deaths": 17,
+     "swing": 0.24,
+     "adr": 61.2,
+     "kast": 72.7,
+     "rating": 0.92
+    }
+   ],
+   "ct": [
+    {
+     "player": 24262,
+     "nick": "F4QQ",
+     "kills": 18,
+     "deaths": 17,
+     "swing": -3.29,
+     "adr": 84.8,
+     "kast": 63.6,
+     "rating": 1.07
+    },
+    {
+     "player": 24146,
+     "nick": "lezy",
+     "kills": 14,
+     "deaths": 20,
+     "swing": -3.47,
+     "adr": 73.8,
+     "kast": 81.8,
+     "rating": 0.98
+    },
+    {
+     "player": 22559,
+     "nick": "Jotag3",
+     "kills": 18,
+     "deaths": 20,
+     "swing": -4.29,
+     "adr": 85.4,
+     "kast": 68.2,
+     "rating": 0.94
+    },
+    {
+     "player": 24563,
+     "nick": "agt",
+     "kills": 7,
+     "deaths": 18,
+     "swing": -5.77,
+     "adr": 41.8,
+     "kast": 59.1,
+     "rating": 0.58
+    },
+    {
+     "player": 24560,
+     "nick": "Lekzi",
+     "kills": 8,
+     "deaths": 20,
+     "swing": -8.79,
+     "adr": 52.6,
+     "kast": 40.9,
+     "rating": 0.47
+    },
+    {
+     "player": 19306,
+     "nick": "puni",
+     "kills": 18,
+     "deaths": 17,
+     "swing": 6.94,
+     "adr": 95.1,
+     "kast": 63.2,
+     "rating": 1.6
+    },
+    {
+     "player": 22109,
+     "nick": "vinaabEAST",
+     "kills": 16,
+     "deaths": 15,
+     "swing": -1.84,
+     "adr": 82.5,
+     "kast": 73.7,
+     "rating": 1.18
+    },
+    {
+     "player": 22404,
+     "nick": "cerolzin",
+     "kills": 9,
+     "deaths": 16,
+     "swing": 1.24,
+     "adr": 61.4,
+     "kast": 73.7,
+     "rating": 0.99
+    },
+    {
+     "player": 19831,
+     "nick": "proSHOW",
+     "kills": 8,
+     "deaths": 14,
+     "swing": -4.46,
+     "adr": 46.7,
+     "kast": 68.4,
+     "rating": 0.76
+    },
+    {
+     "player": 13287,
+     "nick": "bnc",
+     "kills": 8,
+     "deaths": 16,
+     "swing": -6.35,
+     "adr": 57.9,
+     "kast": 68.4,
+     "rating": 0.66
+    }
+   ]
+  },
+  "de_nuke": {
+   "both": [
+    {
+     "player": 24262,
+     "nick": "F4QQ",
+     "kills": 18,
+     "deaths": 14,
+     "swing": 0.45,
+     "adr": 88.6,
+     "kast": 57.9,
+     "rating": 1.2
+    },
+    {
+     "player": 24560,
+     "nick": "Lekzi",
+     "kills": 13,
+     "deaths": 15,
+     "swing": -4.64,
+     "adr": 79.3,
+     "kast": 57.9,
+     "rating": 0.89
+    },
+    {
+     "player": 24146,
+     "nick": "lezy",
+     "kills": 10,
+     "deaths": 15,
+     "swing": -4.37,
+     "adr": 70.5,
+     "kast": 63.2,
+     "rating": 0.82
+    },
+    {
+     "player": 22559,
+     "nick": "Jotag3",
+     "kills": 13,
+     "deaths": 17,
+     "swing": -1.11,
+     "adr": 71.8,
+     "kast": 57.9,
+     "rating": 0.79
+    },
+    {
+     "player": 24563,
+     "nick": "agt",
+     "kills": 7,
+     "deaths": 15,
+     "swing": -5.44,
+     "adr": 46.3,
+     "kast": 68.4,
+     "rating": 0.61
+    },
+    {
+     "player": 22109,
+     "nick": "vinaabEAST",
+     "kills": 20,
+     "deaths": 10,
+     "swing": 5.89,
+     "adr": 113.9,
+     "kast": 84.2,
+     "rating": 1.94
+    },
+    {
+     "player": 19306,
+     "nick": "puni",
+     "kills": 16,
+     "deaths": 13,
+     "swing": 8.35,
+     "adr": 76.2,
+     "kast": 84.2,
+     "rating": 1.61
+    },
+    {
+     "player": 19831,
+     "nick": "proSHOW",
+     "kills": 20,
+     "deaths": 13,
+     "swing": 5.66,
+     "adr": 90.8,
+     "kast": 84.2,
+     "rating": 1.56
+    },
+    {
+     "player": 22404,
+     "nick": "cerolzin",
+     "kills": 15,
+     "deaths": 10,
+     "swing": -0.13,
+     "adr": 83.7,
+     "kast": 78.9,
+     "rating": 1.11
+    },
+    {
+     "player": 13287,
+     "nick": "bnc",
+     "kills": 5,
+     "deaths": 16,
+     "swing": -4.65,
+     "adr": 42.8,
+     "kast": 57.9,
+     "rating": 0.52
+    }
+   ],
+   "t": [
+    {
+     "player": 24262,
+     "nick": "F4QQ",
+     "kills": 10,
+     "deaths": 5,
+     "swing": 6.21,
+     "adr": 133.9,
+     "kast": 85.7,
+     "rating": 1.67
+    },
+    {
+     "player": 24560,
+     "nick": "Lekzi",
+     "kills": 7,
+     "deaths": 4,
+     "swing": -0.42,
+     "adr": 95.4,
+     "kast": 71.4,
+     "rating": 1.19
+    },
+    {
+     "player": 22559,
+     "nick": "Jotag3",
+     "kills": 6,
+     "deaths": 5,
+     "swing": 2.3,
+     "adr": 79.0,
+     "kast": 57.1,
+     "rating": 0.85
+    },
+    {
+     "player": 24146,
+     "nick": "lezy",
+     "kills": 5,
+     "deaths": 4,
+     "swing": -7.27,
+     "adr": 98.6,
+     "kast": 57.1,
+     "rating": 0.84
+    },
+    {
+     "player": 24563,
+     "nick": "agt",
+     "kills": 4,
+     "deaths": 5,
+     "swing": -5.2,
+     "adr": 58.7,
+     "kast": 100.0,
+     "rating": 0.68
+    },
+    {
+     "player": 22109,
+     "nick": "vinaabEAST",
+     "kills": 16,
+     "deaths": 4,
+     "swing": 10.33,
+     "adr": 142.8,
+     "kast": 91.7,
+     "rating": 2.39
+    },
+    {
+     "player": 19831,
+     "nick": "proSHOW",
+     "kills": 16,
+     "deaths": 7,
+     "swing": 9.66,
+     "adr": 107.6,
+     "kast": 100.0,
+     "rating": 1.85
+    },
+    {
+     "player": 22404,
+     "nick": "cerolzin",
+     "kills": 11,
+     "deaths": 3,
+     "swing": 4.44,
+     "adr": 94.2,
+     "kast": 83.3,
+     "rating": 1.35
+    },
+    {
+     "player": 19306,
+     "nick": "puni",
+     "kills": 7,
+     "deaths": 6,
+     "swing": -0.09,
+     "adr": 60.8,
+     "kast": 91.7,
+     "rating": 0.95
+    },
+    {
+     "player": 13287,
+     "nick": "bnc",
+     "kills": 3,
+     "deaths": 9,
+     "swing": -2.96,
+     "adr": 35.7,
+     "kast": 66.7,
+     "rating": 0.53
+    }
+   ],
+   "ct": [
+    {
+     "player": 24262,
+     "nick": "F4QQ",
+     "kills": 8,
+     "deaths": 9,
+     "swing": -2.91,
+     "adr": 62.2,
+     "kast": 41.7,
+     "rating": 0.92
+    },
+    {
+     "player": 24146,
+     "nick": "lezy",
+     "kills": 5,
+     "deaths": 11,
+     "swing": -2.68,
+     "adr": 54.2,
+     "kast": 66.7,
+     "rating": 0.81
+    },
+    {
+     "player": 22559,
+     "nick": "Jotag3",
+     "kills": 7,
+     "deaths": 12,
+     "swing": -3.11,
+     "adr": 67.6,
+     "kast": 58.3,
+     "rating": 0.76
+    },
+    {
+     "player": 24560,
+     "nick": "Lekzi",
+     "kills": 6,
+     "deaths": 11,
+     "swing": -7.1,
+     "adr": 69.9,
+     "kast": 50.0,
+     "rating": 0.72
+    },
+    {
+     "player": 24563,
+     "nick": "agt",
+     "kills": 3,
+     "deaths": 10,
+     "swing": -5.58,
+     "adr": 39.1,
+     "kast": 50.0,
+     "rating": 0.57
+    },
+    {
+     "player": 19306,
+     "nick": "puni",
+     "kills": 9,
+     "deaths": 7,
+     "swing": 22.82,
+     "adr": 102.6,
+     "kast": 71.4,
+     "rating": 2.75
+    },
+    {
+     "player": 22109,
+     "nick": "vinaabEAST",
+     "kills": 4,
+     "deaths": 6,
+     "swing": -1.72,
+     "adr": 64.3,
+     "kast": 71.4,
+     "rating": 1.17
+    },
+    {
+     "player": 19831,
+     "nick": "proSHOW",
+     "kills": 4,
+     "deaths": 6,
+     "swing": -1.2,
+     "adr": 62.0,
+     "kast": 57.1,
+     "rating": 1.05
+    },
+    {
+     "player": 22404,
+     "nick": "cerolzin",
+     "kills": 4,
+     "deaths": 7,
+     "swing": -7.95,
+     "adr": 65.7,
+     "kast": 71.4,
+     "rating": 0.7
+    },
+    {
+     "player": 13287,
+     "nick": "bnc",
+     "kills": 2,
+     "deaths": 7,
+     "swing": -7.56,
+     "adr": 55.0,
+     "kast": 42.9,
+     "rating": 0.51
+    }
+   ]
+  },
+  "de_anubis": {
+   "both": [
+    {
+     "player": 22559,
+     "nick": "Jotag3",
+     "kills": 22,
+     "deaths": 16,
+     "swing": -0.24,
+     "adr": 92.8,
+     "kast": 72.7,
+     "rating": 1.34
+    },
+    {
+     "player": 24262,
+     "nick": "F4QQ",
+     "kills": 20,
+     "deaths": 13,
+     "swing": -0.72,
+     "adr": 87.0,
+     "kast": 81.8,
+     "rating": 1.29
+    },
+    {
+     "player": 24146,
+     "nick": "lezy",
+     "kills": 18,
+     "deaths": 18,
+     "swing": -3.56,
+     "adr": 92.7,
+     "kast": 81.8,
+     "rating": 0.99
+    },
+    {
+     "player": 24563,
+     "nick": "agt",
+     "kills": 10,
+     "deaths": 15,
+     "swing": -2.22,
+     "adr": 60.0,
+     "kast": 72.7,
+     "rating": 0.81
+    },
+    {
+     "player": 24560,
+     "nick": "Lekzi",
+     "kills": 11,
+     "deaths": 17,
+     "swing": -1.95,
+     "adr": 50.3,
+     "kast": 59.1,
+     "rating": 0.8
+    },
+    {
+     "player": 22109,
+     "nick": "vinaabEAST",
+     "kills": 25,
+     "deaths": 16,
+     "swing": 5.3,
+     "adr": 98.7,
+     "kast": 77.3,
+     "rating": 1.65
+    },
+    {
+     "player": 19306,
+     "nick": "puni",
+     "kills": 19,
+     "deaths": 16,
+     "swing": 2.28,
+     "adr": 98.6,
+     "kast": 68.2,
+     "rating": 1.41
+    },
+    {
+     "player": 22404,
+     "nick": "cerolzin",
+     "kills": 10,
+     "deaths": 18,
+     "swing": 5.81,
+     "adr": 75.0,
+     "kast": 72.7,
+     "rating": 1.16
+    },
+    {
+     "player": 13287,
+     "nick": "bnc",
+     "kills": 16,
+     "deaths": 17,
+     "swing": -1.22,
+     "adr": 74.3,
+     "kast": 81.8,
+     "rating": 1.1
+    },
+    {
+     "player": 19831,
+     "nick": "proSHOW",
+     "kills": 8,
+     "deaths": 14,
+     "swing": -3.47,
+     "adr": 37.4,
+     "kast": 77.3,
+     "rating": 0.68
+    }
+   ],
+   "t": [
+    {
+     "player": 22559,
+     "nick": "Jotag3",
+     "kills": 11,
+     "deaths": 8,
+     "swing": 4.32,
+     "adr": 81.2,
+     "kast": 66.7,
+     "rating": 1.49
+    },
+    {
+     "player": 24560,
+     "nick": "Lekzi",
+     "kills": 9,
+     "deaths": 8,
+     "swing": 5.44,
+     "adr": 65.6,
+     "kast": 83.3,
+     "rating": 1.28
+    },
+    {
+     "player": 24262,
+     "nick": "F4QQ",
+     "kills": 10,
+     "deaths": 5,
+     "swing": 1.81,
+     "adr": 66.3,
+     "kast": 75.0,
+     "rating": 1.27
+    },
+    {
+     "player": 24563,
+     "nick": "agt",
+     "kills": 6,
+     "deaths": 7,
+     "swing": 0.93,
+     "adr": 72.5,
+     "kast": 75.0,
+     "rating": 0.97
+    },
+    {
+     "player": 24146,
+     "nick": "lezy",
+     "kills": 9,
+     "deaths": 9,
+     "swing": -2.85,
+     "adr": 88.8,
+     "kast": 66.7,
+     "rating": 0.84
+    },
+    {
+     "player": 22109,
+     "nick": "vinaabEAST",
+     "kills": 13,
+     "deaths": 7,
+     "swing": 13.95,
+     "adr": 105.5,
+     "kast": 80.0,
+     "rating": 2.21
+    },
+    {
+     "player": 19306,
+     "nick": "puni",
+     "kills": 10,
+     "deaths": 6,
+     "swing": 7.81,
+     "adr": 108.2,
+     "kast": 80.0,
+     "rating": 1.92
+    },
+    {
+     "player": 13287,
+     "nick": "bnc",
+     "kills": 10,
+     "deaths": 8,
+     "swing": 4.08,
+     "adr": 91.9,
+     "kast": 80.0,
+     "rating": 1.5
+    },
+    {
+     "player": 22404,
+     "nick": "cerolzin",
+     "kills": 5,
+     "deaths": 9,
+     "swing": 4.86,
+     "adr": 94.4,
+     "kast": 70.0,
+     "rating": 1.05
+    },
+    {
+     "player": 19831,
+     "nick": "proSHOW",
+     "kills": 4,
+     "deaths": 6,
+     "swing": 0.0,
+     "adr": 36.8,
+     "kast": 80.0,
+     "rating": 0.78
+    }
+   ],
+   "ct": [
+    {
+     "player": 24262,
+     "nick": "F4QQ",
+     "kills": 10,
+     "deaths": 8,
+     "swing": -3.76,
+     "adr": 111.9,
+     "kast": 90.0,
+     "rating": 1.3
+    },
+    {
+     "player": 24146,
+     "nick": "lezy",
+     "kills": 9,
+     "deaths": 9,
+     "swing": -4.41,
+     "adr": 97.4,
+     "kast": 100.0,
+     "rating": 1.18
+    },
+    {
+     "player": 22559,
+     "nick": "Jotag3",
+     "kills": 11,
+     "deaths": 8,
+     "swing": -5.71,
+     "adr": 106.7,
+     "kast": 80.0,
+     "rating": 1.17
+    },
+    {
+     "player": 24563,
+     "nick": "agt",
+     "kills": 4,
+     "deaths": 8,
+     "swing": -6.0,
+     "adr": 45.1,
+     "kast": 70.0,
+     "rating": 0.6
+    },
+    {
+     "player": 24560,
+     "nick": "Lekzi",
+     "kills": 2,
+     "deaths": 9,
+     "swing": -10.81,
+     "adr": 31.9,
+     "kast": 30.0,
+     "rating": 0.23
+    },
+    {
+     "player": 22404,
+     "nick": "cerolzin",
+     "kills": 5,
+     "deaths": 9,
+     "swing": 6.59,
+     "adr": 58.8,
+     "kast": 75.0,
+     "rating": 1.25
+    },
+    {
+     "player": 22109,
+     "nick": "vinaabEAST",
+     "kills": 12,
+     "deaths": 9,
+     "swing": -1.9,
+     "adr": 93.1,
+     "kast": 75.0,
+     "rating": 1.18
+    },
+    {
+     "player": 19306,
+     "nick": "puni",
+     "kills": 9,
+     "deaths": 10,
+     "swing": -2.33,
+     "adr": 90.7,
+     "kast": 58.3,
+     "rating": 0.98
+    },
+    {
+     "player": 13287,
+     "nick": "bnc",
+     "kills": 6,
+     "deaths": 9,
+     "swing": -5.64,
+     "adr": 59.7,
+     "kast": 83.3,
+     "rating": 0.76
+    },
+    {
+     "player": 19831,
+     "nick": "proSHOW",
+     "kills": 4,
+     "deaths": 8,
+     "swing": -6.36,
+     "adr": 37.8,
+     "kast": 75.0,
+     "rating": 0.59
+    }
+   ]
+  }
+ },
+ "mvp": null
+}

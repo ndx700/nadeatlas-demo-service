@@ -1,0 +1,1321 @@
+{
+ "id": 2399274,
+ "eventId": 9441,
+ "stage": "Group A",
+ "time": "2026-10-08T08:00:00Z",
+ "bo": 3,
+ "status": "finished",
+ "team1": {
+  "id": 13900,
+  "score": 1,
+  "players": [
+   20283,
+   20284,
+   23767,
+   24545,
+   24482
+  ]
+ },
+ "team2": {
+  "id": 11719,
+  "score": 2,
+  "players": [
+   20434,
+   21109,
+   18119,
+   22199,
+   23300
+  ]
+ },
+ "maps": [
+  {
+   "map": "de_cache",
+   "pick": 13900,
+   "score": [
+    2,
+    13
+   ],
+   "halves": [
+    [
+     2,
+     10
+    ],
+    [
+     0,
+     3
+    ]
+   ]
+  },
+  {
+   "map": "de_dust2",
+   "pick": 11719,
+   "score": [
+    13,
+    7
+   ],
+   "halves": [
+    [
+     9,
+     3
+    ],
+    [
+     4,
+     4
+    ]
+   ]
+  },
+  {
+   "map": "de_mirage",
+   "pick": null,
+   "score": [
+    5,
+    13
+   ],
+   "halves": [
+    [
+     4,
+     8
+    ],
+    [
+     1,
+     5
+    ]
+   ]
+  }
+ ],
+ "stats": {
+  "all": {
+   "both": [
+    {
+     "player": 23767,
+     "nick": "AdrieN",
+     "kills": 47,
+     "deaths": 39,
+     "swing": 2.0,
+     "adr": 95.7,
+     "kast": 77.4,
+     "rating": 1.37
+    },
+    {
+     "player": 20284,
+     "nick": "maaryy",
+     "kills": 32,
+     "deaths": 37,
+     "swing": -1.11,
+     "adr": 63.3,
+     "kast": 81.1,
+     "rating": 0.98
+    },
+    {
+     "player": 24545,
+     "nick": "Showk",
+     "kills": 30,
+     "deaths": 47,
+     "swing": -2.49,
+     "adr": 83.9,
+     "kast": 64.2,
+     "rating": 0.89
+    },
+    {
+     "player": 20283,
+     "nick": "tomiko",
+     "kills": 35,
+     "deaths": 41,
+     "swing": -2.96,
+     "adr": 65.5,
+     "kast": 64.2,
+     "rating": 0.88
+    },
+    {
+     "player": 24482,
+     "nick": "ezox",
+     "kills": 30,
+     "deaths": 37,
+     "swing": -3.06,
+     "adr": 51.3,
+     "kast": 58.5,
+     "rating": 0.78
+    },
+    {
+     "player": 18119,
+     "nick": "cerber",
+     "kills": 51,
+     "deaths": 34,
+     "swing": 3.96,
+     "adr": 89.5,
+     "kast": 71.7,
+     "rating": 1.46
+    },
+    {
+     "player": 22199,
+     "nick": "Lewis",
+     "kills": 48,
+     "deaths": 38,
+     "swing": 2.28,
+     "adr": 94.8,
+     "kast": 84.9,
+     "rating": 1.38
+    },
+    {
+     "player": 20434,
+     "nick": "BledarD",
+     "kills": 42,
+     "deaths": 32,
+     "swing": 1.78,
+     "adr": 85.2,
+     "kast": 73.6,
+     "rating": 1.21
+    },
+    {
+     "player": 21109,
+     "nick": "ammar",
+     "kills": 28,
+     "deaths": 36,
+     "swing": 1.19,
+     "adr": 63.9,
+     "kast": 75.5,
+     "rating": 1.0
+    },
+    {
+     "player": 23300,
+     "nick": "rosoneriii",
+     "kills": 32,
+     "deaths": 35,
+     "swing": -1.61,
+     "adr": 64.7,
+     "kast": 67.9,
+     "rating": 0.95
+    }
+   ],
+   "t": [
+    {
+     "player": 23767,
+     "nick": "AdrieN",
+     "kills": 27,
+     "deaths": 16,
+     "swing": 4.56,
+     "adr": 113.8,
+     "kast": 88.9,
+     "rating": 1.64
+    },
+    {
+     "player": 24482,
+     "nick": "ezox",
+     "kills": 22,
+     "deaths": 17,
+     "swing": 2.13,
+     "adr": 69.0,
+     "kast": 66.7,
+     "rating": 1.07
+    },
+    {
+     "player": 20283,
+     "nick": "tomiko",
+     "kills": 25,
+     "deaths": 19,
+     "swing": -3.12,
+     "adr": 85.4,
+     "kast": 70.4,
+     "rating": 1.01
+    },
+    {
+     "player": 20284,
+     "nick": "maaryy",
+     "kills": 14,
+     "deaths": 16,
+     "swing": 0.2,
+     "adr": 61.0,
+     "kast": 81.5,
+     "rating": 0.94
+    },
+    {
+     "player": 24545,
+     "nick": "Showk",
+     "kills": 15,
+     "deaths": 25,
+     "swing": -5.06,
+     "adr": 85.0,
+     "kast": 66.7,
+     "rating": 0.75
+    },
+    {
+     "player": 18119,
+     "nick": "cerber",
+     "kills": 36,
+     "deaths": 14,
+     "swing": 11.49,
+     "adr": 114.7,
+     "kast": 80.8,
+     "rating": 2.08
+    },
+    {
+     "player": 22199,
+     "nick": "Lewis",
+     "kills": 24,
+     "deaths": 17,
+     "swing": 4.17,
+     "adr": 104.7,
+     "kast": 84.6,
+     "rating": 1.48
+    },
+    {
+     "player": 20434,
+     "nick": "BledarD",
+     "kills": 23,
+     "deaths": 11,
+     "swing": 1.9,
+     "adr": 94.5,
+     "kast": 80.8,
+     "rating": 1.24
+    },
+    {
+     "player": 21109,
+     "nick": "ammar",
+     "kills": 16,
+     "deaths": 16,
+     "swing": -1.06,
+     "adr": 69.5,
+     "kast": 92.3,
+     "rating": 0.99
+    },
+    {
+     "player": 23300,
+     "nick": "rosoneriii",
+     "kills": 9,
+     "deaths": 13,
+     "swing": -2.31,
+     "adr": 43.4,
+     "kast": 65.4,
+     "rating": 0.72
+    }
+   ],
+   "ct": [
+    {
+     "player": 23767,
+     "nick": "AdrieN",
+     "kills": 20,
+     "deaths": 23,
+     "swing": -0.66,
+     "adr": 76.9,
+     "kast": 65.4,
+     "rating": 1.08
+    },
+    {
+     "player": 24545,
+     "nick": "Showk",
+     "kills": 15,
+     "deaths": 22,
+     "swing": 0.18,
+     "adr": 82.8,
+     "kast": 61.5,
+     "rating": 1.04
+    },
+    {
+     "player": 20284,
+     "nick": "maaryy",
+     "kills": 18,
+     "deaths": 21,
+     "swing": -2.47,
+     "adr": 65.6,
+     "kast": 80.8,
+     "rating": 1.03
+    },
+    {
+     "player": 20283,
+     "nick": "tomiko",
+     "kills": 10,
+     "deaths": 22,
+     "swing": -2.79,
+     "adr": 44.9,
+     "kast": 57.7,
+     "rating": 0.74
+    },
+    {
+     "player": 24482,
+     "nick": "ezox",
+     "kills": 8,
+     "deaths": 20,
+     "swing": -8.45,
+     "adr": 32.8,
+     "kast": 50.0,
+     "rating": 0.47
+    },
+    {
+     "player": 22199,
+     "nick": "Lewis",
+     "kills": 24,
+     "deaths": 21,
+     "swing": 0.45,
+     "adr": 85.2,
+     "kast": 85.2,
+     "rating": 1.29
+    },
+    {
+     "player": 20434,
+     "nick": "BledarD",
+     "kills": 19,
+     "deaths": 21,
+     "swing": 1.67,
+     "adr": 76.3,
+     "kast": 66.7,
+     "rating": 1.18
+    },
+    {
+     "player": 23300,
+     "nick": "rosoneriii",
+     "kills": 23,
+     "deaths": 22,
+     "swing": -0.93,
+     "adr": 85.1,
+     "kast": 70.4,
+     "rating": 1.16
+    },
+    {
+     "player": 21109,
+     "nick": "ammar",
+     "kills": 12,
+     "deaths": 20,
+     "swing": 3.36,
+     "adr": 58.6,
+     "kast": 59.3,
+     "rating": 1.0
+    },
+    {
+     "player": 18119,
+     "nick": "cerber",
+     "kills": 15,
+     "deaths": 20,
+     "swing": -3.29,
+     "adr": 65.1,
+     "kast": 63.0,
+     "rating": 0.86
+    }
+   ]
+  },
+  "de_cache": {
+   "both": [
+    {
+     "player": 23767,
+     "nick": "AdrieN",
+     "kills": 14,
+     "deaths": 14,
+     "swing": 1.56,
+     "adr": 87.1,
+     "kast": 73.3,
+     "rating": 1.33
+    },
+    {
+     "player": 20284,
+     "nick": "maaryy",
+     "kills": 10,
+     "deaths": 14,
+     "swing": -3.86,
+     "adr": 72.8,
+     "kast": 73.3,
+     "rating": 1.03
+    },
+    {
+     "player": 24545,
+     "nick": "Showk",
+     "kills": 6,
+     "deaths": 14,
+     "swing": -3.17,
+     "adr": 64.5,
+     "kast": 53.3,
+     "rating": 0.73
+    },
+    {
+     "player": 24482,
+     "nick": "ezox",
+     "kills": 7,
+     "deaths": 12,
+     "swing": -9.35,
+     "adr": 46.3,
+     "kast": 53.3,
+     "rating": 0.61
+    },
+    {
+     "player": 20283,
+     "nick": "tomiko",
+     "kills": 2,
+     "deaths": 14,
+     "swing": -9.43,
+     "adr": 20.5,
+     "kast": 46.7,
+     "rating": 0.37
+    },
+    {
+     "player": 18119,
+     "nick": "cerber",
+     "kills": 28,
+     "deaths": 8,
+     "swing": 20.79,
+     "adr": 163.6,
+     "kast": 86.7,
+     "rating": 3.17
+    },
+    {
+     "player": 21109,
+     "nick": "ammar",
+     "kills": 12,
+     "deaths": 9,
+     "swing": 2.66,
+     "adr": 88.5,
+     "kast": 93.3,
+     "rating": 1.36
+    },
+    {
+     "player": 22199,
+     "nick": "Lewis",
+     "kills": 9,
+     "deaths": 10,
+     "swing": 2.33,
+     "adr": 73.4,
+     "kast": 80.0,
+     "rating": 1.05
+    },
+    {
+     "player": 23300,
+     "nick": "rosoneriii",
+     "kills": 9,
+     "deaths": 7,
+     "swing": -0.67,
+     "adr": 61.3,
+     "kast": 73.3,
+     "rating": 1.04
+    },
+    {
+     "player": 20434,
+     "nick": "BledarD",
+     "kills": 10,
+     "deaths": 6,
+     "swing": -0.91,
+     "adr": 69.5,
+     "kast": 80.0,
+     "rating": 1.0
+    }
+   ],
+   "t": [
+    {
+     "player": 24482,
+     "nick": "ezox",
+     "kills": 3,
+     "deaths": 3,
+     "swing": 3.62,
+     "adr": 88.7,
+     "kast": 100.0,
+     "rating": 1.46
+    },
+    {
+     "player": 24545,
+     "nick": "Showk",
+     "kills": 1,
+     "deaths": 3,
+     "swing": -6.51,
+     "adr": 67.3,
+     "kast": 33.3,
+     "rating": 0.58
+    },
+    {
+     "player": 23767,
+     "nick": "AdrieN",
+     "kills": 1,
+     "deaths": 3,
+     "swing": -7.49,
+     "adr": 44.0,
+     "kast": 66.7,
+     "rating": 0.39
+    },
+    {
+     "player": 20284,
+     "nick": "maaryy",
+     "kills": 0,
+     "deaths": 3,
+     "swing": -5.19,
+     "adr": 38.3,
+     "kast": 33.3,
+     "rating": 0.27
+    },
+    {
+     "player": 20283,
+     "nick": "tomiko",
+     "kills": 0,
+     "deaths": 3,
+     "swing": -17.83,
+     "adr": 26.0,
+     "kast": 0.0,
+     "rating": 0.07
+    },
+    {
+     "player": 18119,
+     "nick": "cerber",
+     "kills": 25,
+     "deaths": 7,
+     "swing": 23.91,
+     "adr": 178.2,
+     "kast": 83.3,
+     "rating": 3.5
+    },
+    {
+     "player": 21109,
+     "nick": "ammar",
+     "kills": 9,
+     "deaths": 7,
+     "swing": 1.24,
+     "adr": 80.2,
+     "kast": 91.7,
+     "rating": 1.17
+    },
+    {
+     "player": 22199,
+     "nick": "Lewis",
+     "kills": 6,
+     "deaths": 8,
+     "swing": 2.78,
+     "adr": 69.7,
+     "kast": 75.0,
+     "rating": 0.99
+    },
+    {
+     "player": 20434,
+     "nick": "BledarD",
+     "kills": 9,
+     "deaths": 5,
+     "swing": -2.21,
+     "adr": 73.8,
+     "kast": 75.0,
+     "rating": 0.93
+    },
+    {
+     "player": 23300,
+     "nick": "rosoneriii",
+     "kills": 4,
+     "deaths": 7,
+     "swing": -3.75,
+     "adr": 45.5,
+     "kast": 66.7,
+     "rating": 0.64
+    }
+   ],
+   "ct": [
+    {
+     "player": 23767,
+     "nick": "AdrieN",
+     "kills": 13,
+     "deaths": 11,
+     "swing": 3.83,
+     "adr": 97.9,
+     "kast": 75.0,
+     "rating": 1.57
+    },
+    {
+     "player": 20284,
+     "nick": "maaryy",
+     "kills": 10,
+     "deaths": 11,
+     "swing": -3.53,
+     "adr": 81.4,
+     "kast": 83.3,
+     "rating": 1.22
+    },
+    {
+     "player": 24545,
+     "nick": "Showk",
+     "kills": 5,
+     "deaths": 11,
+     "swing": -2.34,
+     "adr": 63.8,
+     "kast": 58.3,
+     "rating": 0.77
+    },
+    {
+     "player": 20283,
+     "nick": "tomiko",
+     "kills": 2,
+     "deaths": 11,
+     "swing": -7.33,
+     "adr": 19.1,
+     "kast": 58.3,
+     "rating": 0.44
+    },
+    {
+     "player": 24482,
+     "nick": "ezox",
+     "kills": 4,
+     "deaths": 9,
+     "swing": -12.59,
+     "adr": 35.7,
+     "kast": 41.7,
+     "rating": 0.4
+    },
+    {
+     "player": 23300,
+     "nick": "rosoneriii",
+     "kills": 5,
+     "deaths": 0,
+     "swing": 11.64,
+     "adr": 124.7,
+     "kast": 100.0,
+     "rating": 2.67
+    },
+    {
+     "player": 21109,
+     "nick": "ammar",
+     "kills": 3,
+     "deaths": 2,
+     "swing": 8.31,
+     "adr": 121.7,
+     "kast": 100.0,
+     "rating": 2.1
+    },
+    {
+     "player": 18119,
+     "nick": "cerber",
+     "kills": 3,
+     "deaths": 1,
+     "swing": 8.33,
+     "adr": 105.3,
+     "kast": 100.0,
+     "rating": 1.88
+    },
+    {
+     "player": 22199,
+     "nick": "Lewis",
+     "kills": 3,
+     "deaths": 2,
+     "swing": 0.53,
+     "adr": 88.3,
+     "kast": 100.0,
+     "rating": 1.3
+    },
+    {
+     "player": 20434,
+     "nick": "BledarD",
+     "kills": 1,
+     "deaths": 1,
+     "swing": 4.28,
+     "adr": 52.3,
+     "kast": 100.0,
+     "rating": 1.25
+    }
+   ]
+  },
+  "de_dust2": {
+   "both": [
+    {
+     "player": 23767,
+     "nick": "AdrieN",
+     "kills": 17,
+     "deaths": 9,
+     "swing": 3.32,
+     "adr": 93.7,
+     "kast": 80.0,
+     "rating": 1.51
+    },
+    {
+     "player": 20283,
+     "nick": "tomiko",
+     "kills": 20,
+     "deaths": 13,
+     "swing": 2.46,
+     "adr": 97.2,
+     "kast": 70.0,
+     "rating": 1.44
+    },
+    {
+     "player": 24482,
+     "nick": "ezox",
+     "kills": 15,
+     "deaths": 10,
+     "swing": 6.26,
+     "adr": 56.6,
+     "kast": 70.0,
+     "rating": 1.33
+    },
+    {
+     "player": 20284,
+     "nick": "maaryy",
+     "kills": 11,
+     "deaths": 8,
+     "swing": 3.21,
+     "adr": 63.8,
+     "kast": 95.0,
+     "rating": 1.17
+    },
+    {
+     "player": 24545,
+     "nick": "Showk",
+     "kills": 15,
+     "deaths": 16,
+     "swing": -1.71,
+     "adr": 95.4,
+     "kast": 75.0,
+     "rating": 1.11
+    },
+    {
+     "player": 22199,
+     "nick": "Lewis",
+     "kills": 23,
+     "deaths": 16,
+     "swing": 3.8,
+     "adr": 109.7,
+     "kast": 80.0,
+     "rating": 1.7
+    },
+    {
+     "player": 23300,
+     "nick": "rosoneriii",
+     "kills": 12,
+     "deaths": 16,
+     "swing": -3.37,
+     "adr": 70.0,
+     "kast": 60.0,
+     "rating": 0.93
+    },
+    {
+     "player": 20434,
+     "nick": "BledarD",
+     "kills": 11,
+     "deaths": 16,
+     "swing": -1.16,
+     "adr": 67.7,
+     "kast": 65.0,
+     "rating": 0.79
+    },
+    {
+     "player": 21109,
+     "nick": "ammar",
+     "kills": 6,
+     "deaths": 16,
+     "swing": -3.84,
+     "adr": 42.2,
+     "kast": 60.0,
+     "rating": 0.59
+    },
+    {
+     "player": 18119,
+     "nick": "cerber",
+     "kills": 4,
+     "deaths": 14,
+     "swing": -8.97,
+     "adr": 31.5,
+     "kast": 55.0,
+     "rating": 0.41
+    }
+   ],
+   "t": [
+    {
+     "player": 23767,
+     "nick": "AdrieN",
+     "kills": 13,
+     "deaths": 3,
+     "swing": 8.93,
+     "adr": 114.1,
+     "kast": 91.7,
+     "rating": 2.01
+    },
+    {
+     "player": 24482,
+     "nick": "ezox",
+     "kills": 12,
+     "deaths": 5,
+     "swing": 11.9,
+     "adr": 76.3,
+     "kast": 75.0,
+     "rating": 1.76
+    },
+    {
+     "player": 20283,
+     "nick": "tomiko",
+     "kills": 14,
+     "deaths": 8,
+     "swing": 1.92,
+     "adr": 117.1,
+     "kast": 75.0,
+     "rating": 1.52
+    },
+    {
+     "player": 20284,
+     "nick": "maaryy",
+     "kills": 7,
+     "deaths": 3,
+     "swing": 5.15,
+     "adr": 65.4,
+     "kast": 100.0,
+     "rating": 1.3
+    },
+    {
+     "player": 24545,
+     "nick": "Showk",
+     "kills": 7,
+     "deaths": 11,
+     "swing": -6.44,
+     "adr": 79.1,
+     "kast": 75.0,
+     "rating": 0.69
+    },
+    {
+     "player": 22199,
+     "nick": "Lewis",
+     "kills": 12,
+     "deaths": 6,
+     "swing": 8.23,
+     "adr": 153.2,
+     "kast": 87.5,
+     "rating": 2.45
+    },
+    {
+     "player": 20434,
+     "nick": "BledarD",
+     "kills": 7,
+     "deaths": 5,
+     "swing": 2.86,
+     "adr": 97.4,
+     "kast": 75.0,
+     "rating": 1.21
+    },
+    {
+     "player": 21109,
+     "nick": "ammar",
+     "kills": 3,
+     "deaths": 5,
+     "swing": -3.81,
+     "adr": 47.6,
+     "kast": 87.5,
+     "rating": 0.75
+    },
+    {
+     "player": 23300,
+     "nick": "rosoneriii",
+     "kills": 1,
+     "deaths": 4,
+     "swing": -3.54,
+     "adr": 30.8,
+     "kast": 50.0,
+     "rating": 0.57
+    },
+    {
+     "player": 18119,
+     "nick": "cerber",
+     "kills": 3,
+     "deaths": 5,
+     "swing": -5.39,
+     "adr": 30.1,
+     "kast": 75.0,
+     "rating": 0.52
+    }
+   ],
+   "ct": [
+    {
+     "player": 24545,
+     "nick": "Showk",
+     "kills": 8,
+     "deaths": 5,
+     "swing": 5.38,
+     "adr": 119.9,
+     "kast": 75.0,
+     "rating": 1.74
+    },
+    {
+     "player": 20283,
+     "nick": "tomiko",
+     "kills": 6,
+     "deaths": 5,
+     "swing": 3.27,
+     "adr": 67.4,
+     "kast": 62.5,
+     "rating": 1.31
+    },
+    {
+     "player": 20284,
+     "nick": "maaryy",
+     "kills": 4,
+     "deaths": 5,
+     "swing": 0.29,
+     "adr": 61.4,
+     "kast": 87.5,
+     "rating": 0.96
+    },
+    {
+     "player": 23767,
+     "nick": "AdrieN",
+     "kills": 4,
+     "deaths": 6,
+     "swing": -5.1,
+     "adr": 63.0,
+     "kast": 62.5,
+     "rating": 0.75
+    },
+    {
+     "player": 24482,
+     "nick": "ezox",
+     "kills": 3,
+     "deaths": 5,
+     "swing": -2.2,
+     "adr": 27.0,
+     "kast": 62.5,
+     "rating": 0.69
+    },
+    {
+     "player": 22199,
+     "nick": "Lewis",
+     "kills": 11,
+     "deaths": 10,
+     "swing": 0.85,
+     "adr": 80.6,
+     "kast": 75.0,
+     "rating": 1.21
+    },
+    {
+     "player": 23300,
+     "nick": "rosoneriii",
+     "kills": 11,
+     "deaths": 12,
+     "swing": -3.25,
+     "adr": 96.2,
+     "kast": 66.7,
+     "rating": 1.18
+    },
+    {
+     "player": 20434,
+     "nick": "BledarD",
+     "kills": 4,
+     "deaths": 11,
+     "swing": -3.84,
+     "adr": 47.9,
+     "kast": 58.3,
+     "rating": 0.51
+    },
+    {
+     "player": 21109,
+     "nick": "ammar",
+     "kills": 3,
+     "deaths": 11,
+     "swing": -3.86,
+     "adr": 38.6,
+     "kast": 41.7,
+     "rating": 0.49
+    },
+    {
+     "player": 18119,
+     "nick": "cerber",
+     "kills": 1,
+     "deaths": 9,
+     "swing": -11.36,
+     "adr": 32.4,
+     "kast": 41.7,
+     "rating": 0.34
+    }
+   ]
+  },
+  "de_mirage": {
+   "both": [
+    {
+     "player": 23767,
+     "nick": "AdrieN",
+     "kills": 16,
+     "deaths": 16,
+     "swing": 0.89,
+     "adr": 105.1,
+     "kast": 77.8,
+     "rating": 1.33
+    },
+    {
+     "player": 20283,
+     "nick": "tomiko",
+     "kills": 13,
+     "deaths": 14,
+     "swing": -3.58,
+     "adr": 67.9,
+     "kast": 72.2,
+     "rating": 0.87
+    },
+    {
+     "player": 24545,
+     "nick": "Showk",
+     "kills": 9,
+     "deaths": 17,
+     "swing": -2.79,
+     "adr": 87.3,
+     "kast": 61.1,
+     "rating": 0.84
+    },
+    {
+     "player": 20284,
+     "nick": "maaryy",
+     "kills": 11,
+     "deaths": 15,
+     "swing": -3.62,
+     "adr": 54.7,
+     "kast": 72.2,
+     "rating": 0.78
+    },
+    {
+     "player": 24482,
+     "nick": "ezox",
+     "kills": 8,
+     "deaths": 15,
+     "swing": -8.18,
+     "adr": 49.5,
+     "kast": 50.0,
+     "rating": 0.48
+    },
+    {
+     "player": 20434,
+     "nick": "BledarD",
+     "kills": 21,
+     "deaths": 10,
+     "swing": 7.29,
+     "adr": 117.8,
+     "kast": 77.8,
+     "rating": 1.98
+    },
+    {
+     "player": 18119,
+     "nick": "cerber",
+     "kills": 19,
+     "deaths": 12,
+     "swing": 4.3,
+     "adr": 92.1,
+     "kast": 77.8,
+     "rating": 1.51
+    },
+    {
+     "player": 22199,
+     "nick": "Lewis",
+     "kills": 16,
+     "deaths": 12,
+     "swing": 0.54,
+     "adr": 96.1,
+     "kast": 94.4,
+     "rating": 1.4
+    },
+    {
+     "player": 21109,
+     "nick": "ammar",
+     "kills": 10,
+     "deaths": 11,
+     "swing": 5.58,
+     "adr": 67.6,
+     "kast": 77.8,
+     "rating": 1.24
+    },
+    {
+     "player": 23300,
+     "nick": "rosoneriii",
+     "kills": 11,
+     "deaths": 12,
+     "swing": -0.43,
+     "adr": 61.5,
+     "kast": 72.2,
+     "rating": 0.92
+    }
+   ],
+   "t": [
+    {
+     "player": 23767,
+     "nick": "AdrieN",
+     "kills": 13,
+     "deaths": 10,
+     "swing": 3.2,
+     "adr": 130.9,
+     "kast": 91.7,
+     "rating": 1.65
+    },
+    {
+     "player": 20283,
+     "nick": "tomiko",
+     "kills": 11,
+     "deaths": 8,
+     "swing": -4.49,
+     "adr": 68.6,
+     "kast": 83.3,
+     "rating": 0.93
+    },
+    {
+     "player": 24545,
+     "nick": "Showk",
+     "kills": 7,
+     "deaths": 11,
+     "swing": -3.33,
+     "adr": 95.2,
+     "kast": 66.7,
+     "rating": 0.89
+    },
+    {
+     "player": 20284,
+     "nick": "maaryy",
+     "kills": 7,
+     "deaths": 10,
+     "swing": -3.4,
+     "adr": 62.3,
+     "kast": 75.0,
+     "rating": 0.79
+    },
+    {
+     "player": 24482,
+     "nick": "ezox",
+     "kills": 7,
+     "deaths": 9,
+     "swing": -8.02,
+     "adr": 56.8,
+     "kast": 50.0,
+     "rating": 0.52
+    },
+    {
+     "player": 20434,
+     "nick": "BledarD",
+     "kills": 7,
+     "deaths": 1,
+     "swing": 8.82,
+     "adr": 132.2,
+     "kast": 100.0,
+     "rating": 2.05
+    },
+    {
+     "player": 18119,
+     "nick": "cerber",
+     "kills": 8,
+     "deaths": 2,
+     "swing": 9.15,
+     "adr": 100.7,
+     "kast": 83.3,
+     "rating": 1.83
+    },
+    {
+     "player": 22199,
+     "nick": "Lewis",
+     "kills": 6,
+     "deaths": 3,
+     "swing": 1.53,
+     "adr": 110.2,
+     "kast": 100.0,
+     "rating": 1.45
+    },
+    {
+     "player": 23300,
+     "nick": "rosoneriii",
+     "kills": 4,
+     "deaths": 2,
+     "swing": 2.21,
+     "adr": 56.0,
+     "kast": 83.3,
+     "rating": 1.13
+    },
+    {
+     "player": 21109,
+     "nick": "ammar",
+     "kills": 4,
+     "deaths": 4,
+     "swing": -1.97,
+     "adr": 77.3,
+     "kast": 100.0,
+     "rating": 0.98
+    }
+   ],
+   "ct": [
+    {
+     "player": 20284,
+     "nick": "maaryy",
+     "kills": 4,
+     "deaths": 5,
+     "swing": -4.04,
+     "adr": 39.5,
+     "kast": 66.7,
+     "rating": 0.76
+    },
+    {
+     "player": 24545,
+     "nick": "Showk",
+     "kills": 2,
+     "deaths": 6,
+     "swing": -1.71,
+     "adr": 71.5,
+     "kast": 50.0,
+     "rating": 0.76
+    },
+    {
+     "player": 20283,
+     "nick": "tomiko",
+     "kills": 2,
+     "deaths": 6,
+     "swing": -1.77,
+     "adr": 66.7,
+     "kast": 50.0,
+     "rating": 0.74
+    },
+    {
+     "player": 23767,
+     "nick": "AdrieN",
+     "kills": 3,
+     "deaths": 6,
+     "swing": -3.73,
+     "adr": 53.5,
+     "kast": 50.0,
+     "rating": 0.7
+    },
+    {
+     "player": 24482,
+     "nick": "ezox",
+     "kills": 1,
+     "deaths": 6,
+     "swing": -8.5,
+     "adr": 35.0,
+     "kast": 50.0,
+     "rating": 0.38
+    },
+    {
+     "player": 20434,
+     "nick": "BledarD",
+     "kills": 14,
+     "deaths": 9,
+     "swing": 6.52,
+     "adr": 110.6,
+     "kast": 66.7,
+     "rating": 1.95
+    },
+    {
+     "player": 21109,
+     "nick": "ammar",
+     "kills": 6,
+     "deaths": 7,
+     "swing": 9.35,
+     "adr": 62.8,
+     "kast": 66.7,
+     "rating": 1.38
+    },
+    {
+     "player": 22199,
+     "nick": "Lewis",
+     "kills": 10,
+     "deaths": 9,
+     "swing": 0.04,
+     "adr": 89.1,
+     "kast": 91.7,
+     "rating": 1.38
+    },
+    {
+     "player": 18119,
+     "nick": "cerber",
+     "kills": 11,
+     "deaths": 10,
+     "swing": 1.87,
+     "adr": 87.8,
+     "kast": 75.0,
+     "rating": 1.34
+    },
+    {
+     "player": 23300,
+     "nick": "rosoneriii",
+     "kills": 7,
+     "deaths": 10,
+     "swing": -1.75,
+     "adr": 64.2,
+     "kast": 66.7,
+     "rating": 0.82
+    }
+   ]
+  }
+ },
+ "mvp": null
+}

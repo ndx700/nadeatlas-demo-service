@@ -1,8 +1,8 @@
 {
  "id": 2399161,
  "eventId": 9383,
- "stage": null,
- "time": "2026-10-08T21:00:00+08:00",
+ "stage": "Playoffs",
+ "time": "2026-10-08T13:00:00Z",
  "bo": 3,
  "status": "finished",
  "team1": {
@@ -88,7 +88,7 @@
    "both": [
     {
      "player": 23744,
-     "nick": "Hamza 'hf' Abrarhf",
+     "nick": "hf",
      "kills": 53,
      "deaths": 41,
      "swing": 2.71,
@@ -98,7 +98,7 @@
     },
     {
      "player": 15588,
-     "nick": "Muhammad 'SOULM8' UsmanSOULM8",
+     "nick": "SOULM8",
      "kills": 41,
      "deaths": 44,
      "swing": 0.31,
@@ -108,7 +108,7 @@
     },
     {
      "player": 22456,
-     "nick": "Syed 'BulleT' Sameer Ul HassanBulleT",
+     "nick": "BulleT",
      "kills": 37,
      "deaths": 45,
      "swing": -1.07,
@@ -118,7 +118,7 @@
     },
     {
      "player": 11395,
-     "nick": "Abdul 'HSB' HaseebHSB",
+     "nick": "HSB",
      "kills": 33,
      "deaths": 46,
      "swing": -5.24,
@@ -128,7 +128,7 @@
     },
     {
      "player": 17844,
-     "nick": "Huzaifa 'HZI' AhmedHZI",
+     "nick": "HZI",
      "kills": 25,
      "deaths": 41,
      "swing": -4.57,
@@ -138,7 +138,7 @@
     },
     {
      "player": 24982,
-     "nick": "Runze 'Corazz' XvCorazz",
+     "nick": "Corazz",
      "kills": 54,
      "deaths": 36,
      "swing": 4.09,
@@ -148,7 +148,7 @@
     },
     {
      "player": 19836,
-     "nick": "Jianqi 'Mirorr' ZhaiMirorr",
+     "nick": "Mirorr",
      "kills": 46,
      "deaths": 38,
      "swing": 2.6,
@@ -158,7 +158,7 @@
     },
     {
      "player": 24980,
-     "nick": "Jinwen 'Mort1s' HuMort1s",
+     "nick": "Mort1s",
      "kills": 44,
      "deaths": 37,
      "swing": 0.58,
@@ -168,7 +168,7 @@
     },
     {
      "player": 24305,
-     "nick": "Zheming 'p5p' Cuip5p",
+     "nick": "p5p",
      "kills": 34,
      "deaths": 38,
      "swing": 1.69,
@@ -178,7 +178,7 @@
     },
     {
      "player": 19060,
-     "nick": "Ke 'Biuckmt' LiuBiuckmt",
+     "nick": "Biuckmt",
      "kills": 37,
      "deaths": 42,
      "swing": -1.1,
@@ -189,110 +189,8 @@
    ],
    "t": [
     {
-     "player": 23744,
-     "nick": "Hamza 'hf' Abrarhf",
-     "kills": 27,
-     "deaths": 25,
-     "swing": 2.7,
-     "adr": 86.0,
-     "kast": 76.7,
-     "rating": 1.45
-    },
-    {
-     "player": 17844,
-     "nick": "Huzaifa 'HZI' AhmedHZI",
-     "kills": 16,
-     "deaths": 24,
-     "swing": -5.01,
-     "adr": 55.3,
-     "kast": 63.3,
-     "rating": 0.78
-    },
-    {
-     "player": 11395,
-     "nick": "Abdul 'HSB' HaseebHSB",
-     "kills": 16,
-     "deaths": 26,
-     "swing": -3.57,
-     "adr": 63.0,
-     "kast": 56.7,
-     "rating": 0.74
-    },
-    {
-     "player": 22456,
-     "nick": "Syed 'BulleT' Sameer Ul HassanBulleT",
-     "kills": 12,
-     "deaths": 28,
-     "swing": -2.84,
-     "adr": 52.2,
-     "kast": 63.3,
-     "rating": 0.69
-    },
-    {
      "player": 15588,
-     "nick": "Muhammad 'SOULM8' UsmanSOULM8",
-     "kills": 10,
-     "deaths": 26,
-     "swing": -2.51,
-     "adr": 44.7,
-     "kast": 53.3,
-     "rating": 0.67
-    },
-    {
-     "player": 24982,
-     "nick": "Runze 'Corazz' XvCorazz",
-     "kills": 21,
-     "deaths": 20,
-     "swing": 2.69,
-     "adr": 79.5,
-     "kast": 66.7,
-     "rating": 1.3
-    },
-    {
-     "player": 24305,
-     "nick": "Zheming 'p5p' Cuip5p",
-     "kills": 16,
-     "deaths": 23,
-     "swing": 3.89,
-     "adr": 83.9,
-     "kast": 74.1,
-     "rating": 1.25
-    },
-    {
-     "player": 19836,
-     "nick": "Jianqi 'Mirorr' ZhaiMirorr",
-     "kills": 19,
-     "deaths": 22,
-     "swing": -0.14,
-     "adr": 60.5,
-     "kast": 51.9,
-     "rating": 1.02
-    },
-    {
-     "player": 19060,
-     "nick": "Ke 'Biuckmt' LiuBiuckmt",
-     "kills": 17,
-     "deaths": 21,
-     "swing": -0.99,
-     "adr": 72.3,
-     "kast": 59.3,
-     "rating": 0.99
-    },
-    {
-     "player": 24980,
-     "nick": "Jinwen 'Mort1s' HuMort1s",
-     "kills": 14,
-     "deaths": 22,
-     "swing": -1.35,
-     "adr": 60.5,
-     "kast": 63.0,
-     "rating": 0.89
-    }
-   ],
-   "ct": [
-    {
-     "player": 15588,
-     "nick": "Muhammad 'SOULM8' UsmanSOULM8",
+     "nick": "SOULM8",
      "kills": 31,
      "deaths": 18,
      "swing": 3.45,
@@ -302,7 +200,7 @@
     },
     {
      "player": 23744,
-     "nick": "Hamza 'hf' Abrarhf",
+     "nick": "hf",
      "kills": 26,
      "deaths": 16,
      "swing": 2.72,
@@ -312,7 +210,7 @@
     },
     {
      "player": 22456,
-     "nick": "Syed 'BulleT' Sameer Ul HassanBulleT",
+     "nick": "BulleT",
      "kills": 25,
      "deaths": 17,
      "swing": 0.91,
@@ -322,7 +220,7 @@
     },
     {
      "player": 11395,
-     "nick": "Abdul 'HSB' HaseebHSB",
+     "nick": "HSB",
      "kills": 17,
      "deaths": 20,
      "swing": -7.1,
@@ -332,7 +230,7 @@
     },
     {
      "player": 17844,
-     "nick": "Huzaifa 'HZI' AhmedHZI",
+     "nick": "HZI",
      "kills": 9,
      "deaths": 17,
      "swing": -4.07,
@@ -342,7 +240,7 @@
     },
     {
      "player": 24982,
-     "nick": "Runze 'Corazz' XvCorazz",
+     "nick": "Corazz",
      "kills": 33,
      "deaths": 16,
      "swing": 5.35,
@@ -352,7 +250,7 @@
     },
     {
      "player": 19836,
-     "nick": "Jianqi 'Mirorr' ZhaiMirorr",
+     "nick": "Mirorr",
      "kills": 27,
      "deaths": 16,
      "swing": 5.06,
@@ -362,7 +260,7 @@
     },
     {
      "player": 24980,
-     "nick": "Jinwen 'Mort1s' HuMort1s",
+     "nick": "Mort1s",
      "kills": 30,
      "deaths": 15,
      "swing": 2.32,
@@ -372,7 +270,7 @@
     },
     {
      "player": 19060,
-     "nick": "Ke 'Biuckmt' LiuBiuckmt",
+     "nick": "Biuckmt",
      "kills": 20,
      "deaths": 21,
      "swing": -1.21,
@@ -382,7 +280,7 @@
     },
     {
      "player": 24305,
-     "nick": "Zheming 'p5p' Cuip5p",
+     "nick": "p5p",
      "kills": 18,
      "deaths": 15,
      "swing": -0.29,
@@ -390,13 +288,115 @@
      "kast": 83.3,
      "rating": 0.94
     }
+   ],
+   "ct": [
+    {
+     "player": 23744,
+     "nick": "hf",
+     "kills": 27,
+     "deaths": 25,
+     "swing": 2.7,
+     "adr": 86.0,
+     "kast": 76.7,
+     "rating": 1.45
+    },
+    {
+     "player": 17844,
+     "nick": "HZI",
+     "kills": 16,
+     "deaths": 24,
+     "swing": -5.01,
+     "adr": 55.3,
+     "kast": 63.3,
+     "rating": 0.78
+    },
+    {
+     "player": 11395,
+     "nick": "HSB",
+     "kills": 16,
+     "deaths": 26,
+     "swing": -3.57,
+     "adr": 63.0,
+     "kast": 56.7,
+     "rating": 0.74
+    },
+    {
+     "player": 22456,
+     "nick": "BulleT",
+     "kills": 12,
+     "deaths": 28,
+     "swing": -2.84,
+     "adr": 52.2,
+     "kast": 63.3,
+     "rating": 0.69
+    },
+    {
+     "player": 15588,
+     "nick": "SOULM8",
+     "kills": 10,
+     "deaths": 26,
+     "swing": -2.51,
+     "adr": 44.7,
+     "kast": 53.3,
+     "rating": 0.67
+    },
+    {
+     "player": 24982,
+     "nick": "Corazz",
+     "kills": 21,
+     "deaths": 20,
+     "swing": 2.69,
+     "adr": 79.5,
+     "kast": 66.7,
+     "rating": 1.3
+    },
+    {
+     "player": 24305,
+     "nick": "p5p",
+     "kills": 16,
+     "deaths": 23,
+     "swing": 3.89,
+     "adr": 83.9,
+     "kast": 74.1,
+     "rating": 1.25
+    },
+    {
+     "player": 19836,
+     "nick": "Mirorr",
+     "kills": 19,
+     "deaths": 22,
+     "swing": -0.14,
+     "adr": 60.5,
+     "kast": 51.9,
+     "rating": 1.02
+    },
+    {
+     "player": 19060,
+     "nick": "Biuckmt",
+     "kills": 17,
+     "deaths": 21,
+     "swing": -0.99,
+     "adr": 72.3,
+     "kast": 59.3,
+     "rating": 0.99
+    },
+    {
+     "player": 24980,
+     "nick": "Mort1s",
+     "kills": 14,
+     "deaths": 22,
+     "swing": -1.35,
+     "adr": 60.5,
+     "kast": 63.0,
+     "rating": 0.89
+    }
    ]
   },
   "de_dust2": {
    "both": [
     {
      "player": 22456,
-     "nick": "Syed 'BulleT' Sameer Ul HassanBulleT",
+     "nick": "BulleT",
      "kills": 8,
      "deaths": 15,
      "swing": -1.35,
@@ -406,7 +406,7 @@
     },
     {
      "player": 23744,
-     "nick": "Hamza 'hf' Abrarhf",
+     "nick": "hf",
      "kills": 6,
      "deaths": 14,
      "swing": -4.24,
@@ -416,7 +416,7 @@
     },
     {
      "player": 15588,
-     "nick": "Muhammad 'SOULM8' UsmanSOULM8",
+     "nick": "SOULM8",
      "kills": 3,
      "deaths": 15,
      "swing": -3.56,
@@ -426,7 +426,7 @@
     },
     {
      "player": 17844,
-     "nick": "Huzaifa 'HZI' AhmedHZI",
+     "nick": "HZI",
      "kills": 7,
      "deaths": 14,
      "swing": -6.57,
@@ -436,7 +436,7 @@
     },
     {
      "player": 11395,
-     "nick": "Abdul 'HSB' HaseebHSB",
+     "nick": "HSB",
      "kills": 6,
      "deaths": 14,
      "swing": -8.43,
@@ -446,7 +446,7 @@
     },
     {
      "player": 24982,
-     "nick": "Runze 'Corazz' XvCorazz",
+     "nick": "Corazz",
      "kills": 17,
      "deaths": 6,
      "swing": 9.09,
@@ -456,7 +456,7 @@
     },
     {
      "player": 24980,
-     "nick": "Jinwen 'Mort1s' HuMort1s",
+     "nick": "Mort1s",
      "kills": 20,
      "deaths": 5,
      "swing": 5.35,
@@ -466,7 +466,7 @@
     },
     {
      "player": 19836,
-     "nick": "Jianqi 'Mirorr' ZhaiMirorr",
+     "nick": "Mirorr",
      "kills": 15,
      "deaths": 7,
      "swing": 6.74,
@@ -476,7 +476,7 @@
     },
     {
      "player": 19060,
-     "nick": "Ke 'Biuckmt' LiuBiuckmt",
+     "nick": "Biuckmt",
      "kills": 11,
      "deaths": 8,
      "swing": 4.01,
@@ -486,7 +486,7 @@
     },
     {
      "player": 24305,
-     "nick": "Zheming 'p5p' Cuip5p",
+     "nick": "p5p",
      "kills": 9,
      "deaths": 5,
      "swing": -1.02,
@@ -497,110 +497,8 @@
    ],
    "t": [
     {
-     "player": 23744,
-     "nick": "Hamza 'hf' Abrarhf",
-     "kills": 6,
-     "deaths": 11,
-     "swing": -1.86,
-     "adr": 51.2,
-     "kast": 58.3,
-     "rating": 0.74
-    },
-    {
-     "player": 11395,
-     "nick": "Abdul 'HSB' HaseebHSB",
-     "kills": 6,
-     "deaths": 11,
-     "swing": -6.23,
-     "adr": 62.8,
-     "kast": 41.7,
-     "rating": 0.6
-    },
-    {
-     "player": 17844,
-     "nick": "Huzaifa 'HZI' AhmedHZI",
-     "kills": 5,
-     "deaths": 11,
-     "swing": -6.75,
-     "adr": 41.3,
-     "kast": 50.0,
-     "rating": 0.53
-    },
-    {
      "player": 22456,
-     "nick": "Syed 'BulleT' Sameer Ul HassanBulleT",
-     "kills": 4,
-     "deaths": 12,
-     "swing": -1.78,
-     "adr": 36.1,
-     "kast": 33.3,
-     "rating": 0.49
-    },
-    {
-     "player": 15588,
-     "nick": "Muhammad 'SOULM8' UsmanSOULM8",
-     "kills": 1,
-     "deaths": 12,
-     "swing": -5.48,
-     "adr": 26.6,
-     "kast": 50.0,
-     "rating": 0.39
-    },
-    {
-     "player": 19060,
-     "nick": "Ke 'Biuckmt' LiuBiuckmt",
-     "kills": 5,
-     "deaths": 1,
-     "swing": 21.45,
-     "adr": 150.3,
-     "kast": 100.0,
-     "rating": 3.2
-    },
-    {
-     "player": 24980,
-     "nick": "Jinwen 'Mort1s' HuMort1s",
-     "kills": 5,
-     "deaths": 1,
-     "swing": 6.57,
-     "adr": 129.0,
-     "kast": 100.0,
-     "rating": 2.42
-    },
-    {
-     "player": 24982,
-     "nick": "Runze 'Corazz' XvCorazz",
-     "kills": 3,
-     "deaths": 2,
-     "swing": 12.87,
-     "adr": 121.3,
-     "kast": 100.0,
-     "rating": 2.15
-    },
-    {
-     "player": 19836,
-     "nick": "Jianqi 'Mirorr' ZhaiMirorr",
-     "kills": 2,
-     "deaths": 2,
-     "swing": -0.8,
-     "adr": 74.7,
-     "kast": 66.7,
-     "rating": 0.91
-    },
-    {
-     "player": 24305,
-     "nick": "Zheming 'p5p' Cuip5p",
-     "kills": 0,
-     "deaths": 2,
-     "swing": -7.68,
-     "adr": 19.0,
-     "kast": 100.0,
-     "rating": 0.52
-    }
-   ],
-   "ct": [
-    {
-     "player": 22456,
-     "nick": "Syed 'BulleT' Sameer Ul HassanBulleT",
+     "nick": "BulleT",
      "kills": 4,
      "deaths": 3,
      "swing": 0.36,
@@ -610,7 +508,7 @@
     },
     {
      "player": 15588,
-     "nick": "Muhammad 'SOULM8' UsmanSOULM8",
+     "nick": "SOULM8",
      "kills": 2,
      "deaths": 3,
      "swing": 4.1,
@@ -620,7 +518,7 @@
     },
     {
      "player": 17844,
-     "nick": "Huzaifa 'HZI' AhmedHZI",
+     "nick": "HZI",
      "kills": 2,
      "deaths": 3,
      "swing": -5.88,
@@ -630,7 +528,7 @@
     },
     {
      "player": 23744,
-     "nick": "Hamza 'hf' Abrarhf",
+     "nick": "hf",
      "kills": 0,
      "deaths": 3,
      "swing": -13.77,
@@ -640,7 +538,7 @@
     },
     {
      "player": 11395,
-     "nick": "Abdul 'HSB' HaseebHSB",
+     "nick": "HSB",
      "kills": 0,
      "deaths": 3,
      "swing": -17.23,
@@ -650,7 +548,7 @@
     },
     {
      "player": 24982,
-     "nick": "Runze 'Corazz' XvCorazz",
+     "nick": "Corazz",
      "kills": 14,
      "deaths": 4,
      "swing": 8.15,
@@ -660,7 +558,7 @@
     },
     {
      "player": 24980,
-     "nick": "Jinwen 'Mort1s' HuMort1s",
+     "nick": "Mort1s",
      "kills": 15,
      "deaths": 4,
      "swing": 5.04,
@@ -670,7 +568,7 @@
     },
     {
      "player": 19836,
-     "nick": "Jianqi 'Mirorr' ZhaiMirorr",
+     "nick": "Mirorr",
      "kills": 13,
      "deaths": 5,
      "swing": 8.62,
@@ -680,7 +578,7 @@
     },
     {
      "player": 24305,
-     "nick": "Zheming 'p5p' Cuip5p",
+     "nick": "p5p",
      "kills": 9,
      "deaths": 3,
      "swing": 0.64,
@@ -690,7 +588,7 @@
     },
     {
      "player": 19060,
-     "nick": "Ke 'Biuckmt' LiuBiuckmt",
+     "nick": "Biuckmt",
      "kills": 6,
      "deaths": 7,
      "swing": -0.36,
@@ -698,13 +596,115 @@
      "kast": 83.3,
      "rating": 0.88
     }
+   ],
+   "ct": [
+    {
+     "player": 23744,
+     "nick": "hf",
+     "kills": 6,
+     "deaths": 11,
+     "swing": -1.86,
+     "adr": 51.2,
+     "kast": 58.3,
+     "rating": 0.74
+    },
+    {
+     "player": 11395,
+     "nick": "HSB",
+     "kills": 6,
+     "deaths": 11,
+     "swing": -6.23,
+     "adr": 62.8,
+     "kast": 41.7,
+     "rating": 0.6
+    },
+    {
+     "player": 17844,
+     "nick": "HZI",
+     "kills": 5,
+     "deaths": 11,
+     "swing": -6.75,
+     "adr": 41.3,
+     "kast": 50.0,
+     "rating": 0.53
+    },
+    {
+     "player": 22456,
+     "nick": "BulleT",
+     "kills": 4,
+     "deaths": 12,
+     "swing": -1.78,
+     "adr": 36.1,
+     "kast": 33.3,
+     "rating": 0.49
+    },
+    {
+     "player": 15588,
+     "nick": "SOULM8",
+     "kills": 1,
+     "deaths": 12,
+     "swing": -5.48,
+     "adr": 26.6,
+     "kast": 50.0,
+     "rating": 0.39
+    },
+    {
+     "player": 19060,
+     "nick": "Biuckmt",
+     "kills": 5,
+     "deaths": 1,
+     "swing": 21.45,
+     "adr": 150.3,
+     "kast": 100.0,
+     "rating": 3.2
+    },
+    {
+     "player": 24980,
+     "nick": "Mort1s",
+     "kills": 5,
+     "deaths": 1,
+     "swing": 6.57,
+     "adr": 129.0,
+     "kast": 100.0,
+     "rating": 2.42
+    },
+    {
+     "player": 24982,
+     "nick": "Corazz",
+     "kills": 3,
+     "deaths": 2,
+     "swing": 12.87,
+     "adr": 121.3,
+     "kast": 100.0,
+     "rating": 2.15
+    },
+    {
+     "player": 19836,
+     "nick": "Mirorr",
+     "kills": 2,
+     "deaths": 2,
+     "swing": -0.8,
+     "adr": 74.7,
+     "kast": 66.7,
+     "rating": 0.91
+    },
+    {
+     "player": 24305,
+     "nick": "p5p",
+     "kills": 0,
+     "deaths": 2,
+     "swing": -7.68,
+     "adr": 19.0,
+     "kast": 100.0,
+     "rating": 0.52
+    }
    ]
   },
   "de_nuke": {
    "both": [
     {
      "player": 23744,
-     "nick": "Hamza 'hf' Abrarhf",
+     "nick": "hf",
      "kills": 15,
      "deaths": 12,
      "swing": 4.84,
@@ -714,7 +714,7 @@
     },
     {
      "player": 22456,
-     "nick": "Syed 'BulleT' Sameer Ul HassanBulleT",
+     "nick": "BulleT",
      "kills": 14,
      "deaths": 13,
      "swing": 2.08,
@@ -724,7 +724,7 @@
     },
     {
      "player": 17844,
-     "nick": "Huzaifa 'HZI' AhmedHZI",
+     "nick": "HZI",
      "kills": 13,
      "deaths": 11,
      "swing": 2.7,
@@ -734,7 +734,7 @@
     },
     {
      "player": 11395,
-     "nick": "Abdul 'HSB' HaseebHSB",
+     "nick": "HSB",
      "kills": 16,
      "deaths": 16,
      "swing": 0.55,
@@ -744,7 +744,7 @@
     },
     {
      "player": 15588,
-     "nick": "Muhammad 'SOULM8' UsmanSOULM8",
+     "nick": "SOULM8",
      "kills": 17,
      "deaths": 13,
      "swing": -0.3,
@@ -754,7 +754,7 @@
     },
     {
      "player": 24982,
-     "nick": "Runze 'Corazz' XvCorazz",
+     "nick": "Corazz",
      "kills": 23,
      "deaths": 12,
      "swing": 5.8,
@@ -764,7 +764,7 @@
     },
     {
      "player": 19060,
-     "nick": "Ke 'Biuckmt' LiuBiuckmt",
+     "nick": "Biuckmt",
      "kills": 14,
      "deaths": 16,
      "swing": -2.38,
@@ -774,7 +774,7 @@
     },
     {
      "player": 24305,
-     "nick": "Zheming 'p5p' Cuip5p",
+     "nick": "p5p",
      "kills": 9,
      "deaths": 17,
      "swing": -1.73,
@@ -784,7 +784,7 @@
     },
     {
      "player": 24980,
-     "nick": "Jinwen 'Mort1s' HuMort1s",
+     "nick": "Mort1s",
      "kills": 8,
      "deaths": 15,
      "swing": -3.95,
@@ -794,7 +794,7 @@
     },
     {
      "player": 19836,
-     "nick": "Jianqi 'Mirorr' ZhaiMirorr",
+     "nick": "Mirorr",
      "kills": 10,
      "deaths": 16,
      "swing": -7.6,
@@ -805,110 +805,8 @@
    ],
    "t": [
     {
-     "player": 23744,
-     "nick": "Hamza 'hf' Abrarhf",
-     "kills": 7,
-     "deaths": 7,
-     "swing": 6.07,
-     "adr": 94.0,
-     "kast": 100.0,
-     "rating": 1.66
-    },
-    {
-     "player": 17844,
-     "nick": "Huzaifa 'HZI' AhmedHZI",
-     "kills": 7,
-     "deaths": 5,
-     "swing": 5.6,
-     "adr": 81.2,
-     "kast": 75.0,
-     "rating": 1.59
-    },
-    {
-     "player": 11395,
-     "nick": "Abdul 'HSB' HaseebHSB",
-     "kills": 6,
-     "deaths": 7,
-     "swing": 3.58,
-     "adr": 68.4,
-     "kast": 87.5,
-     "rating": 1.24
-    },
-    {
-     "player": 15588,
-     "nick": "Muhammad 'SOULM8' UsmanSOULM8",
-     "kills": 3,
-     "deaths": 5,
-     "swing": 2.18,
-     "adr": 44.2,
-     "kast": 62.5,
-     "rating": 0.88
-    },
-    {
      "player": 22456,
-     "nick": "Syed 'BulleT' Sameer Ul HassanBulleT",
-     "kills": 2,
-     "deaths": 6,
-     "swing": -5.71,
-     "adr": 42.4,
-     "kast": 75.0,
-     "rating": 0.62
-    },
-    {
-     "player": 24982,
-     "nick": "Runze 'Corazz' XvCorazz",
-     "kills": 13,
-     "deaths": 8,
-     "swing": 5.69,
-     "adr": 81.9,
-     "kast": 75.0,
-     "rating": 1.72
-    },
-    {
-     "player": 24305,
-     "nick": "Zheming 'p5p' Cuip5p",
-     "kills": 6,
-     "deaths": 11,
-     "swing": 1.61,
-     "adr": 83.6,
-     "kast": 83.3,
-     "rating": 1.1
-    },
-    {
-     "player": 19836,
-     "nick": "Jianqi 'Mirorr' ZhaiMirorr",
-     "kills": 7,
-     "deaths": 10,
-     "swing": -6.32,
-     "adr": 49.9,
-     "kast": 41.7,
-     "rating": 0.65
-    },
-    {
-     "player": 19060,
-     "nick": "Ke 'Biuckmt' LiuBiuckmt",
-     "kills": 6,
-     "deaths": 10,
-     "swing": -6.25,
-     "adr": 61.0,
-     "kast": 50.0,
-     "rating": 0.6
-    },
-    {
-     "player": 24980,
-     "nick": "Jinwen 'Mort1s' HuMort1s",
-     "kills": 3,
-     "deaths": 11,
-     "swing": -3.35,
-     "adr": 49.3,
-     "kast": 58.3,
-     "rating": 0.59
-    }
-   ],
-   "ct": [
-    {
-     "player": 22456,
-     "nick": "Syed 'BulleT' Sameer Ul HassanBulleT",
+     "nick": "BulleT",
      "kills": 12,
      "deaths": 7,
      "swing": 7.26,
@@ -918,7 +816,7 @@
     },
     {
      "player": 15588,
-     "nick": "Muhammad 'SOULM8' UsmanSOULM8",
+     "nick": "SOULM8",
      "kills": 14,
      "deaths": 8,
      "swing": -1.95,
@@ -928,7 +826,7 @@
     },
     {
      "player": 23744,
-     "nick": "Hamza 'hf' Abrarhf",
+     "nick": "hf",
      "kills": 8,
      "deaths": 5,
      "swing": 4.02,
@@ -938,7 +836,7 @@
     },
     {
      "player": 11395,
-     "nick": "Abdul 'HSB' HaseebHSB",
+     "nick": "HSB",
      "kills": 10,
      "deaths": 9,
      "swing": -1.48,
@@ -948,7 +846,7 @@
     },
     {
      "player": 17844,
-     "nick": "Huzaifa 'HZI' AhmedHZI",
+     "nick": "HZI",
      "kills": 6,
      "deaths": 6,
      "swing": 0.77,
@@ -958,7 +856,7 @@
     },
     {
      "player": 24982,
-     "nick": "Runze 'Corazz' XvCorazz",
+     "nick": "Corazz",
      "kills": 10,
      "deaths": 4,
      "swing": 5.96,
@@ -968,7 +866,7 @@
     },
     {
      "player": 19060,
-     "nick": "Ke 'Biuckmt' LiuBiuckmt",
+     "nick": "Biuckmt",
      "kills": 8,
      "deaths": 6,
      "swing": 3.42,
@@ -978,7 +876,7 @@
     },
     {
      "player": 24980,
-     "nick": "Jinwen 'Mort1s' HuMort1s",
+     "nick": "Mort1s",
      "kills": 5,
      "deaths": 4,
      "swing": -4.84,
@@ -988,7 +886,7 @@
     },
     {
      "player": 24305,
-     "nick": "Zheming 'p5p' Cuip5p",
+     "nick": "p5p",
      "kills": 3,
      "deaths": 6,
      "swing": -6.75,
@@ -998,7 +896,7 @@
     },
     {
      "player": 19836,
-     "nick": "Jianqi 'Mirorr' ZhaiMirorr",
+     "nick": "Mirorr",
      "kills": 3,
      "deaths": 6,
      "swing": -9.52,
@@ -1006,13 +904,115 @@
      "kast": 62.5,
      "rating": 0.49
     }
+   ],
+   "ct": [
+    {
+     "player": 23744,
+     "nick": "hf",
+     "kills": 7,
+     "deaths": 7,
+     "swing": 6.07,
+     "adr": 94.0,
+     "kast": 100.0,
+     "rating": 1.66
+    },
+    {
+     "player": 17844,
+     "nick": "HZI",
+     "kills": 7,
+     "deaths": 5,
+     "swing": 5.6,
+     "adr": 81.2,
+     "kast": 75.0,
+     "rating": 1.59
+    },
+    {
+     "player": 11395,
+     "nick": "HSB",
+     "kills": 6,
+     "deaths": 7,
+     "swing": 3.58,
+     "adr": 68.4,
+     "kast": 87.5,
+     "rating": 1.24
+    },
+    {
+     "player": 15588,
+     "nick": "SOULM8",
+     "kills": 3,
+     "deaths": 5,
+     "swing": 2.18,
+     "adr": 44.2,
+     "kast": 62.5,
+     "rating": 0.88
+    },
+    {
+     "player": 22456,
+     "nick": "BulleT",
+     "kills": 2,
+     "deaths": 6,
+     "swing": -5.71,
+     "adr": 42.4,
+     "kast": 75.0,
+     "rating": 0.62
+    },
+    {
+     "player": 24982,
+     "nick": "Corazz",
+     "kills": 13,
+     "deaths": 8,
+     "swing": 5.69,
+     "adr": 81.9,
+     "kast": 75.0,
+     "rating": 1.72
+    },
+    {
+     "player": 24305,
+     "nick": "p5p",
+     "kills": 6,
+     "deaths": 11,
+     "swing": 1.61,
+     "adr": 83.6,
+     "kast": 83.3,
+     "rating": 1.1
+    },
+    {
+     "player": 19836,
+     "nick": "Mirorr",
+     "kills": 7,
+     "deaths": 10,
+     "swing": -6.32,
+     "adr": 49.9,
+     "kast": 41.7,
+     "rating": 0.65
+    },
+    {
+     "player": 19060,
+     "nick": "Biuckmt",
+     "kills": 6,
+     "deaths": 10,
+     "swing": -6.25,
+     "adr": 61.0,
+     "kast": 50.0,
+     "rating": 0.6
+    },
+    {
+     "player": 24980,
+     "nick": "Mort1s",
+     "kills": 3,
+     "deaths": 11,
+     "swing": -3.35,
+     "adr": 49.3,
+     "kast": 58.3,
+     "rating": 0.59
+    }
    ]
   },
   "de_mirage": {
    "both": [
     {
      "player": 23744,
-     "nick": "Hamza 'hf' Abrarhf",
+     "nick": "hf",
      "kills": 32,
      "deaths": 15,
      "swing": 5.51,
@@ -1022,7 +1022,7 @@
     },
     {
      "player": 15588,
-     "nick": "Muhammad 'SOULM8' UsmanSOULM8",
+     "nick": "SOULM8",
      "kills": 21,
      "deaths": 16,
      "swing": 3.51,
@@ -1032,7 +1032,7 @@
     },
     {
      "player": 22456,
-     "nick": "Syed 'BulleT' Sameer Ul HassanBulleT",
+     "nick": "BulleT",
      "kills": 15,
      "deaths": 17,
      "swing": -3.73,
@@ -1042,7 +1042,7 @@
     },
     {
      "player": 11395,
-     "nick": "Abdul 'HSB' HaseebHSB",
+     "nick": "HSB",
      "kills": 11,
      "deaths": 16,
      "swing": -8.33,
@@ -1052,7 +1052,7 @@
     },
     {
      "player": 17844,
-     "nick": "Huzaifa 'HZI' AhmedHZI",
+     "nick": "HZI",
      "kills": 5,
      "deaths": 16,
      "swing": -9.81,
@@ -1062,7 +1062,7 @@
     },
     {
      "player": 19836,
-     "nick": "Jianqi 'Mirorr' ZhaiMirorr",
+     "nick": "Mirorr",
      "kills": 21,
      "deaths": 15,
      "swing": 9.05,
@@ -1072,7 +1072,7 @@
     },
     {
      "player": 24305,
-     "nick": "Zheming 'p5p' Cuip5p",
+     "nick": "p5p",
      "kills": 16,
      "deaths": 16,
      "swing": 6.65,
@@ -1082,7 +1082,7 @@
     },
     {
      "player": 24980,
-     "nick": "Jinwen 'Mort1s' HuMort1s",
+     "nick": "Mort1s",
      "kills": 16,
      "deaths": 17,
      "swing": 1.45,
@@ -1092,7 +1092,7 @@
     },
     {
      "player": 24982,
-     "nick": "Runze 'Corazz' XvCorazz",
+     "nick": "Corazz",
      "kills": 14,
      "deaths": 18,
      "swing": -0.88,
@@ -1102,7 +1102,7 @@
     },
     {
      "player": 19060,
-     "nick": "Ke 'Biuckmt' LiuBiuckmt",
+     "nick": "Biuckmt",
      "kills": 12,
      "deaths": 18,
      "swing": -3.43,
@@ -1113,110 +1113,8 @@
    ],
    "t": [
     {
-     "player": 23744,
-     "nick": "Hamza 'hf' Abrarhf",
-     "kills": 14,
-     "deaths": 7,
-     "swing": 5.48,
-     "adr": 121.2,
-     "kast": 80.0,
-     "rating": 2.2
-    },
-    {
-     "player": 22456,
-     "nick": "Syed 'BulleT' Sameer Ul HassanBulleT",
-     "kills": 6,
-     "deaths": 10,
-     "swing": -1.84,
-     "adr": 79.3,
-     "kast": 90.0,
-     "rating": 1.07
-    },
-    {
      "player": 15588,
-     "nick": "Muhammad 'SOULM8' UsmanSOULM8",
-     "kills": 6,
-     "deaths": 9,
-     "swing": -2.69,
-     "adr": 66.8,
-     "kast": 50.0,
-     "rating": 0.88
-    },
-    {
-     "player": 11395,
-     "nick": "Abdul 'HSB' HaseebHSB",
-     "kills": 4,
-     "deaths": 8,
-     "swing": -6.12,
-     "adr": 59.1,
-     "kast": 50.0,
-     "rating": 0.62
-    },
-    {
-     "player": 17844,
-     "nick": "Huzaifa 'HZI' AhmedHZI",
-     "kills": 4,
-     "deaths": 8,
-     "swing": -11.42,
-     "adr": 51.4,
-     "kast": 70.0,
-     "rating": 0.56
-    },
-    {
-     "player": 24305,
-     "nick": "Zheming 'p5p' Cuip5p",
-     "kills": 10,
-     "deaths": 10,
-     "swing": 9.06,
-     "adr": 100.5,
-     "kast": 58.3,
-     "rating": 1.68
-    },
-    {
-     "player": 19836,
-     "nick": "Jianqi 'Mirorr' ZhaiMirorr",
-     "kills": 10,
-     "deaths": 10,
-     "swing": 6.2,
-     "adr": 67.6,
-     "kast": 58.3,
-     "rating": 1.51
-    },
-    {
-     "player": 19060,
-     "nick": "Ke 'Biuckmt' LiuBiuckmt",
-     "kills": 6,
-     "deaths": 10,
-     "swing": -1.34,
-     "adr": 64.1,
-     "kast": 58.3,
-     "rating": 0.95
-    },
-    {
-     "player": 24980,
-     "nick": "Jinwen 'Mort1s' HuMort1s",
-     "kills": 6,
-     "deaths": 10,
-     "swing": -1.34,
-     "adr": 54.5,
-     "kast": 58.3,
-     "rating": 0.84
-    },
-    {
-     "player": 24982,
-     "nick": "Runze 'Corazz' XvCorazz",
-     "kills": 5,
-     "deaths": 10,
-     "swing": -2.85,
-     "adr": 66.7,
-     "kast": 50.0,
-     "rating": 0.76
-    }
-   ],
-   "ct": [
-    {
-     "player": 15588,
-     "nick": "Muhammad 'SOULM8' UsmanSOULM8",
+     "nick": "SOULM8",
      "kills": 15,
      "deaths": 7,
      "swing": 8.68,
@@ -1226,7 +1124,7 @@
     },
     {
      "player": 23744,
-     "nick": "Hamza 'hf' Abrarhf",
+     "nick": "hf",
      "kills": 18,
      "deaths": 8,
      "swing": 5.53,
@@ -1236,7 +1134,7 @@
     },
     {
      "player": 22456,
-     "nick": "Syed 'BulleT' Sameer Ul HassanBulleT",
+     "nick": "BulleT",
      "kills": 9,
      "deaths": 7,
      "swing": -5.31,
@@ -1246,7 +1144,7 @@
     },
     {
      "player": 11395,
-     "nick": "Abdul 'HSB' HaseebHSB",
+     "nick": "HSB",
      "kills": 7,
      "deaths": 8,
      "swing": -10.18,
@@ -1256,7 +1154,7 @@
     },
     {
      "player": 17844,
-     "nick": "Huzaifa 'HZI' AhmedHZI",
+     "nick": "HZI",
      "kills": 1,
      "deaths": 8,
      "swing": -8.46,
@@ -1266,7 +1164,7 @@
     },
     {
      "player": 19836,
-     "nick": "Jianqi 'Mirorr' ZhaiMirorr",
+     "nick": "Mirorr",
      "kills": 11,
      "deaths": 5,
      "swing": 12.46,
@@ -1276,7 +1174,7 @@
     },
     {
      "player": 24980,
-     "nick": "Jinwen 'Mort1s' HuMort1s",
+     "nick": "Mort1s",
      "kills": 10,
      "deaths": 7,
      "swing": 4.8,
@@ -1286,7 +1184,7 @@
     },
     {
      "player": 24982,
-     "nick": "Runze 'Corazz' XvCorazz",
+     "nick": "Corazz",
      "kills": 9,
      "deaths": 8,
      "swing": 1.49,
@@ -1296,7 +1194,7 @@
     },
     {
      "player": 24305,
-     "nick": "Zheming 'p5p' Cuip5p",
+     "nick": "p5p",
      "kills": 6,
      "deaths": 6,
      "swing": 3.77,
@@ -1306,7 +1204,7 @@
     },
     {
      "player": 19060,
-     "nick": "Ke 'Biuckmt' LiuBiuckmt",
+     "nick": "Biuckmt",
      "kills": 6,
      "deaths": 8,
      "swing": -5.93,
@@ -1314,10 +1212,115 @@
      "kast": 70.0,
      "rating": 0.68
     }
+   ],
+   "ct": [
+    {
+     "player": 23744,
+     "nick": "hf",
+     "kills": 14,
+     "deaths": 7,
+     "swing": 5.48,
+     "adr": 121.2,
+     "kast": 80.0,
+     "rating": 2.2
+    },
+    {
+     "player": 22456,
+     "nick": "BulleT",
+     "kills": 6,
+     "deaths": 10,
+     "swing": -1.84,
+     "adr": 79.3,
+     "kast": 90.0,
+     "rating": 1.07
+    },
+    {
+     "player": 15588,
+     "nick": "SOULM8",
+     "kills": 6,
+     "deaths": 9,
+     "swing": -2.69,
+     "adr": 66.8,
+     "kast": 50.0,
+     "rating": 0.88
+    },
+    {
+     "player": 11395,
+     "nick": "HSB",
+     "kills": 4,
+     "deaths": 8,
+     "swing": -6.12,
+     "adr": 59.1,
+     "kast": 50.0,
+     "rating": 0.62
+    },
+    {
+     "player": 17844,
+     "nick": "HZI",
+     "kills": 4,
+     "deaths": 8,
+     "swing": -11.42,
+     "adr": 51.4,
+     "kast": 70.0,
+     "rating": 0.56
+    },
+    {
+     "player": 24305,
+     "nick": "p5p",
+     "kills": 10,
+     "deaths": 10,
+     "swing": 9.06,
+     "adr": 100.5,
+     "kast": 58.3,
+     "rating": 1.68
+    },
+    {
+     "player": 19836,
+     "nick": "Mirorr",
+     "kills": 10,
+     "deaths": 10,
+     "swing": 6.2,
+     "adr": 67.6,
+     "kast": 58.3,
+     "rating": 1.51
+    },
+    {
+     "player": 19060,
+     "nick": "Biuckmt",
+     "kills": 6,
+     "deaths": 10,
+     "swing": -1.34,
+     "adr": 64.1,
+     "kast": 58.3,
+     "rating": 0.95
+    },
+    {
+     "player": 24980,
+     "nick": "Mort1s",
+     "kills": 6,
+     "deaths": 10,
+     "swing": -1.34,
+     "adr": 54.5,
+     "kast": 58.3,
+     "rating": 0.84
+    },
+    {
+     "player": 24982,
+     "nick": "Corazz",
+     "kills": 5,
+     "deaths": 10,
+     "swing": -2.85,
+     "adr": 66.7,
+     "kast": 50.0,
+     "rating": 0.76
+    }
    ]
   }
  },
- "mvp": 24982,
+ "mvp": {
+  "player": 24982,
+  "nick": "Corazz"
+ },
  "highlight": null,
  "h2h": {
   "team1Wins": 1,

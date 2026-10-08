@@ -1,8 +1,8 @@
 {
  "id": 2399136,
  "eventId": 9223,
- "stage": null,
- "time": "2026-10-15T18:00:00+08:00",
+ "stage": "Group D",
+ "time": "2026-10-15T10:00:00Z",
  "bo": 3,
  "status": "upcoming",
  "team1": {
@@ -16,13 +16,7 @@
   "players": []
  },
  "maps": [],
- "stats": {
-  "all": {
-   "both": [],
-   "t": [],
-   "ct": []
-  }
- },
+ "stats": {},
  "mvp": null,
  "highlight": null,
  "h2h": {

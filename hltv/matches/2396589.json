@@ -1,0 +1,1015 @@
+{
+ "id": 2396589,
+ "eventId": 8261,
+ "stage": "Group D",
+ "time": "2026-08-15T14:25:00Z",
+ "bo": 3,
+ "status": "finished",
+ "team1": {
+  "id": 4914,
+  "score": 2,
+  "players": [
+   19874,
+   22075,
+   22076,
+   24173,
+   23858
+  ]
+ },
+ "team2": {
+  "id": 13592,
+  "score": 0,
+  "players": [
+   13138,
+   13497,
+   21969,
+   14176,
+   20482
+  ]
+ },
+ "maps": [
+  {
+   "map": "de_dust2",
+   "pick": 13592,
+   "score": [
+    13,
+    6
+   ],
+   "halves": [
+    [
+     8,
+     4
+    ],
+    [
+     5,
+     2
+    ]
+   ]
+  },
+  {
+   "map": "de_ancient",
+   "pick": 4914,
+   "score": [
+    13,
+    7
+   ],
+   "halves": [
+    [
+     5,
+     7
+    ],
+    [
+     8,
+     0
+    ]
+   ]
+  },
+  {
+   "map": "de_inferno",
+   "pick": null,
+   "score": [
+    null,
+    null
+   ],
+   "halves": null
+  }
+ ],
+ "stats": {
+  "all": {
+   "both": [
+    {
+     "player": 19874,
+     "nick": "MaSvAl",
+     "kills": 25,
+     "deaths": 21,
+     "swing": 6.41,
+     "adr": 72.4,
+     "kast": 87.2,
+     "rating": 1.45
+    },
+    {
+     "player": 24173,
+     "nick": "tenzy",
+     "kills": 32,
+     "deaths": 25,
+     "swing": 2.56,
+     "adr": 98.5,
+     "kast": 76.9,
+     "rating": 1.42
+    },
+    {
+     "player": 23858,
+     "nick": "mo0N",
+     "kills": 31,
+     "deaths": 18,
+     "swing": 3.01,
+     "adr": 76.2,
+     "kast": 76.9,
+     "rating": 1.34
+    },
+    {
+     "player": 22076,
+     "nick": "AW",
+     "kills": 30,
+     "deaths": 22,
+     "swing": 1.95,
+     "adr": 74.5,
+     "kast": 79.5,
+     "rating": 1.25
+    },
+    {
+     "player": 22075,
+     "nick": "sFade8",
+     "kills": 30,
+     "deaths": 26,
+     "swing": 0.16,
+     "adr": 87.9,
+     "kast": 76.9,
+     "rating": 1.2
+    },
+    {
+     "player": 20482,
+     "nick": "Kursy",
+     "kills": 30,
+     "deaths": 32,
+     "swing": -0.01,
+     "adr": 78.7,
+     "kast": 59.0,
+     "rating": 1.02
+    },
+    {
+     "player": 13497,
+     "nick": "Lucky",
+     "kills": 23,
+     "deaths": 27,
+     "swing": -2.44,
+     "adr": 61.4,
+     "kast": 79.5,
+     "rating": 0.88
+    },
+    {
+     "player": 21969,
+     "nick": "Graviti",
+     "kills": 24,
+     "deaths": 29,
+     "swing": -5.54,
+     "adr": 65.9,
+     "kast": 61.5,
+     "rating": 0.75
+    },
+    {
+     "player": 13138,
+     "nick": "Maka",
+     "kills": 16,
+     "deaths": 27,
+     "swing": -1.18,
+     "adr": 56.8,
+     "kast": 66.7,
+     "rating": 0.74
+    },
+    {
+     "player": 14176,
+     "nick": "misutaaa",
+     "kills": 19,
+     "deaths": 34,
+     "swing": -4.9,
+     "adr": 66.6,
+     "kast": 46.2,
+     "rating": 0.61
+    }
+   ],
+   "t": [
+    {
+     "player": 22076,
+     "nick": "AW",
+     "kills": 15,
+     "deaths": 7,
+     "swing": 6.86,
+     "adr": 97.5,
+     "kast": 100.0,
+     "rating": 1.7
+    },
+    {
+     "player": 23858,
+     "nick": "mo0N",
+     "kills": 19,
+     "deaths": 6,
+     "swing": 6.58,
+     "adr": 95.2,
+     "kast": 86.7,
+     "rating": 1.69
+    },
+    {
+     "player": 22075,
+     "nick": "sFade8",
+     "kills": 15,
+     "deaths": 8,
+     "swing": 5.45,
+     "adr": 117.1,
+     "kast": 93.3,
+     "rating": 1.68
+    },
+    {
+     "player": 19874,
+     "nick": "MaSvAl",
+     "kills": 9,
+     "deaths": 6,
+     "swing": 6.92,
+     "adr": 69.1,
+     "kast": 100.0,
+     "rating": 1.4
+    },
+    {
+     "player": 24173,
+     "nick": "tenzy",
+     "kills": 15,
+     "deaths": 8,
+     "swing": -0.05,
+     "adr": 106.8,
+     "kast": 86.7,
+     "rating": 1.34
+    },
+    {
+     "player": 13497,
+     "nick": "Lucky",
+     "kills": 19,
+     "deaths": 12,
+     "swing": 1.85,
+     "adr": 77.9,
+     "kast": 95.8,
+     "rating": 1.18
+    },
+    {
+     "player": 20482,
+     "nick": "Kursy",
+     "kills": 21,
+     "deaths": 17,
+     "swing": 1.22,
+     "adr": 85.7,
+     "kast": 62.5,
+     "rating": 1.14
+    },
+    {
+     "player": 21969,
+     "nick": "Graviti",
+     "kills": 17,
+     "deaths": 14,
+     "swing": -3.15,
+     "adr": 80.0,
+     "kast": 66.7,
+     "rating": 0.92
+    },
+    {
+     "player": 13138,
+     "nick": "Maka",
+     "kills": 9,
+     "deaths": 13,
+     "swing": -1.33,
+     "adr": 51.5,
+     "kast": 70.8,
+     "rating": 0.69
+    },
+    {
+     "player": 14176,
+     "nick": "misutaaa",
+     "kills": 11,
+     "deaths": 19,
+     "swing": -5.36,
+     "adr": 64.7,
+     "kast": 45.8,
+     "rating": 0.55
+    }
+   ],
+   "ct": [
+    {
+     "player": 19874,
+     "nick": "MaSvAl",
+     "kills": 16,
+     "deaths": 15,
+     "swing": 6.09,
+     "adr": 74.4,
+     "kast": 79.2,
+     "rating": 1.47
+    },
+    {
+     "player": 24173,
+     "nick": "tenzy",
+     "kills": 17,
+     "deaths": 17,
+     "swing": 4.19,
+     "adr": 93.2,
+     "kast": 70.8,
+     "rating": 1.47
+    },
+    {
+     "player": 23858,
+     "nick": "mo0N",
+     "kills": 12,
+     "deaths": 12,
+     "swing": 0.77,
+     "adr": 64.3,
+     "kast": 70.8,
+     "rating": 1.12
+    },
+    {
+     "player": 22076,
+     "nick": "AW",
+     "kills": 15,
+     "deaths": 15,
+     "swing": -1.12,
+     "adr": 60.2,
+     "kast": 66.7,
+     "rating": 0.96
+    },
+    {
+     "player": 22075,
+     "nick": "sFade8",
+     "kills": 15,
+     "deaths": 18,
+     "swing": -3.15,
+     "adr": 69.6,
+     "kast": 66.7,
+     "rating": 0.9
+    },
+    {
+     "player": 20482,
+     "nick": "Kursy",
+     "kills": 9,
+     "deaths": 15,
+     "swing": -1.98,
+     "adr": 67.5,
+     "kast": 53.3,
+     "rating": 0.83
+    },
+    {
+     "player": 13138,
+     "nick": "Maka",
+     "kills": 7,
+     "deaths": 14,
+     "swing": -0.94,
+     "adr": 65.3,
+     "kast": 60.0,
+     "rating": 0.82
+    },
+    {
+     "player": 14176,
+     "nick": "misutaaa",
+     "kills": 8,
+     "deaths": 15,
+     "swing": -4.17,
+     "adr": 69.7,
+     "kast": 46.7,
+     "rating": 0.7
+    },
+    {
+     "player": 21969,
+     "nick": "Graviti",
+     "kills": 7,
+     "deaths": 15,
+     "swing": -9.35,
+     "adr": 43.2,
+     "kast": 53.3,
+     "rating": 0.49
+    },
+    {
+     "player": 13497,
+     "nick": "Lucky",
+     "kills": 4,
+     "deaths": 15,
+     "swing": -9.32,
+     "adr": 35.0,
+     "kast": 53.3,
+     "rating": 0.39
+    }
+   ]
+  },
+  "de_dust2": {
+   "both": [
+    {
+     "player": 19874,
+     "nick": "MaSvAl",
+     "kills": 16,
+     "deaths": 11,
+     "swing": 9.01,
+     "adr": 87.4,
+     "kast": 89.5,
+     "rating": 1.75
+    },
+    {
+     "player": 22076,
+     "nick": "AW",
+     "kills": 18,
+     "deaths": 10,
+     "swing": 4.09,
+     "adr": 81.1,
+     "kast": 78.9,
+     "rating": 1.47
+    },
+    {
+     "player": 24173,
+     "nick": "tenzy",
+     "kills": 15,
+     "deaths": 12,
+     "swing": 1.44,
+     "adr": 89.7,
+     "kast": 84.2,
+     "rating": 1.37
+    },
+    {
+     "player": 22075,
+     "nick": "sFade8",
+     "kills": 12,
+     "deaths": 14,
+     "swing": 0.08,
+     "adr": 91.8,
+     "kast": 78.9,
+     "rating": 1.16
+    },
+    {
+     "player": 23858,
+     "nick": "mo0N",
+     "kills": 13,
+     "deaths": 10,
+     "swing": 0.99,
+     "adr": 72.8,
+     "kast": 73.7,
+     "rating": 1.11
+    },
+    {
+     "player": 20482,
+     "nick": "Kursy",
+     "kills": 18,
+     "deaths": 16,
+     "swing": 4.69,
+     "adr": 97.7,
+     "kast": 68.4,
+     "rating": 1.47
+    },
+    {
+     "player": 13497,
+     "nick": "Lucky",
+     "kills": 16,
+     "deaths": 13,
+     "swing": 1.55,
+     "adr": 79.7,
+     "kast": 84.2,
+     "rating": 1.26
+    },
+    {
+     "player": 13138,
+     "nick": "Maka",
+     "kills": 7,
+     "deaths": 13,
+     "swing": -2.58,
+     "adr": 61.7,
+     "kast": 68.4,
+     "rating": 0.75
+    },
+    {
+     "player": 14176,
+     "nick": "misutaaa",
+     "kills": 7,
+     "deaths": 17,
+     "swing": -7.25,
+     "adr": 49.9,
+     "kast": 36.8,
+     "rating": 0.47
+    },
+    {
+     "player": 21969,
+     "nick": "Graviti",
+     "kills": 9,
+     "deaths": 16,
+     "swing": -12.02,
+     "adr": 51.6,
+     "kast": 47.4,
+     "rating": 0.41
+    }
+   ],
+   "t": [
+    {
+     "player": 22076,
+     "nick": "AW",
+     "kills": 8,
+     "deaths": 4,
+     "swing": 7.88,
+     "adr": 93.1,
+     "kast": 100.0,
+     "rating": 1.85
+    },
+    {
+     "player": 22075,
+     "nick": "sFade8",
+     "kills": 5,
+     "deaths": 5,
+     "swing": 2.44,
+     "adr": 114.9,
+     "kast": 100.0,
+     "rating": 1.46
+    },
+    {
+     "player": 23858,
+     "nick": "mo0N",
+     "kills": 8,
+     "deaths": 4,
+     "swing": 1.01,
+     "adr": 103.1,
+     "kast": 85.7,
+     "rating": 1.32
+    },
+    {
+     "player": 24173,
+     "nick": "tenzy",
+     "kills": 7,
+     "deaths": 4,
+     "swing": -2.3,
+     "adr": 85.3,
+     "kast": 85.7,
+     "rating": 1.22
+    },
+    {
+     "player": 19874,
+     "nick": "MaSvAl",
+     "kills": 5,
+     "deaths": 4,
+     "swing": 3.26,
+     "adr": 79.7,
+     "kast": 100.0,
+     "rating": 1.21
+    },
+    {
+     "player": 13497,
+     "nick": "Lucky",
+     "kills": 13,
+     "deaths": 6,
+     "swing": 4.05,
+     "adr": 106.6,
+     "kast": 91.7,
+     "rating": 1.57
+    },
+    {
+     "player": 20482,
+     "nick": "Kursy",
+     "kills": 10,
+     "deaths": 9,
+     "swing": 4.04,
+     "adr": 90.2,
+     "kast": 66.7,
+     "rating": 1.31
+    },
+    {
+     "player": 13138,
+     "nick": "Maka",
+     "kills": 3,
+     "deaths": 7,
+     "swing": -5.1,
+     "adr": 49.3,
+     "kast": 66.7,
+     "rating": 0.53
+    },
+    {
+     "player": 21969,
+     "nick": "Graviti",
+     "kills": 7,
+     "deaths": 9,
+     "swing": -12.18,
+     "adr": 61.6,
+     "kast": 50.0,
+     "rating": 0.48
+    },
+    {
+     "player": 14176,
+     "nick": "misutaaa",
+     "kills": 3,
+     "deaths": 10,
+     "swing": -8.36,
+     "adr": 35.4,
+     "kast": 25.0,
+     "rating": 0.31
+    }
+   ],
+   "ct": [
+    {
+     "player": 19874,
+     "nick": "MaSvAl",
+     "kills": 11,
+     "deaths": 7,
+     "swing": 12.36,
+     "adr": 91.8,
+     "kast": 83.3,
+     "rating": 2.07
+    },
+    {
+     "player": 24173,
+     "nick": "tenzy",
+     "kills": 8,
+     "deaths": 8,
+     "swing": 3.62,
+     "adr": 92.3,
+     "kast": 83.3,
+     "rating": 1.45
+    },
+    {
+     "player": 22076,
+     "nick": "AW",
+     "kills": 10,
+     "deaths": 6,
+     "swing": 1.89,
+     "adr": 74.0,
+     "kast": 66.7,
+     "rating": 1.25
+    },
+    {
+     "player": 22075,
+     "nick": "sFade8",
+     "kills": 7,
+     "deaths": 9,
+     "swing": -1.29,
+     "adr": 78.3,
+     "kast": 66.7,
+     "rating": 0.99
+    },
+    {
+     "player": 23858,
+     "nick": "mo0N",
+     "kills": 5,
+     "deaths": 6,
+     "swing": 0.97,
+     "adr": 55.1,
+     "kast": 66.7,
+     "rating": 0.98
+    },
+    {
+     "player": 20482,
+     "nick": "Kursy",
+     "kills": 8,
+     "deaths": 7,
+     "swing": 5.79,
+     "adr": 110.6,
+     "kast": 71.4,
+     "rating": 1.74
+    },
+    {
+     "player": 13138,
+     "nick": "Maka",
+     "kills": 4,
+     "deaths": 6,
+     "swing": 1.75,
+     "adr": 83.0,
+     "kast": 71.4,
+     "rating": 1.13
+    },
+    {
+     "player": 14176,
+     "nick": "misutaaa",
+     "kills": 4,
+     "deaths": 7,
+     "swing": -5.36,
+     "adr": 74.9,
+     "kast": 57.1,
+     "rating": 0.74
+    },
+    {
+     "player": 13497,
+     "nick": "Lucky",
+     "kills": 3,
+     "deaths": 7,
+     "swing": -2.74,
+     "adr": 33.6,
+     "kast": 71.4,
+     "rating": 0.74
+    },
+    {
+     "player": 21969,
+     "nick": "Graviti",
+     "kills": 2,
+     "deaths": 7,
+     "swing": -11.73,
+     "adr": 34.4,
+     "kast": 42.9,
+     "rating": 0.29
+    }
+   ]
+  },
+  "de_ancient": {
+   "both": [
+    {
+     "player": 23858,
+     "nick": "mo0N",
+     "kills": 18,
+     "deaths": 8,
+     "swing": 4.93,
+     "adr": 79.4,
+     "kast": 80.0,
+     "rating": 1.57
+    },
+    {
+     "player": 24173,
+     "nick": "tenzy",
+     "kills": 17,
+     "deaths": 13,
+     "swing": 3.62,
+     "adr": 106.8,
+     "kast": 70.0,
+     "rating": 1.47
+    },
+    {
+     "player": 22075,
+     "nick": "sFade8",
+     "kills": 18,
+     "deaths": 12,
+     "swing": 0.23,
+     "adr": 84.2,
+     "kast": 75.0,
+     "rating": 1.25
+    },
+    {
+     "player": 19874,
+     "nick": "MaSvAl",
+     "kills": 9,
+     "deaths": 10,
+     "swing": 3.94,
+     "adr": 58.1,
+     "kast": 85.0,
+     "rating": 1.21
+    },
+    {
+     "player": 22076,
+     "nick": "AW",
+     "kills": 12,
+     "deaths": 12,
+     "swing": -0.09,
+     "adr": 68.3,
+     "kast": 80.0,
+     "rating": 1.03
+    },
+    {
+     "player": 21969,
+     "nick": "Graviti",
+     "kills": 15,
+     "deaths": 13,
+     "swing": 0.62,
+     "adr": 79.5,
+     "kast": 75.0,
+     "rating": 1.2
+    },
+    {
+     "player": 14176,
+     "nick": "misutaaa",
+     "kills": 12,
+     "deaths": 17,
+     "swing": -2.67,
+     "adr": 82.4,
+     "kast": 55.0,
+     "rating": 0.79
+    },
+    {
+     "player": 13138,
+     "nick": "Maka",
+     "kills": 9,
+     "deaths": 14,
+     "swing": 0.15,
+     "adr": 52.1,
+     "kast": 65.0,
+     "rating": 0.76
+    },
+    {
+     "player": 20482,
+     "nick": "Kursy",
+     "kills": 12,
+     "deaths": 16,
+     "swing": -4.47,
+     "adr": 60.7,
+     "kast": 50.0,
+     "rating": 0.69
+    },
+    {
+     "player": 13497,
+     "nick": "Lucky",
+     "kills": 7,
+     "deaths": 14,
+     "swing": -6.24,
+     "adr": 44.0,
+     "kast": 75.0,
+     "rating": 0.58
+    }
+   ],
+   "t": [
+    {
+     "player": 23858,
+     "nick": "mo0N",
+     "kills": 11,
+     "deaths": 2,
+     "swing": 11.46,
+     "adr": 88.2,
+     "kast": 87.5,
+     "rating": 2.04
+    },
+    {
+     "player": 22075,
+     "nick": "sFade8",
+     "kills": 10,
+     "deaths": 3,
+     "swing": 8.1,
+     "adr": 119.1,
+     "kast": 87.5,
+     "rating": 1.89
+    },
+    {
+     "player": 19874,
+     "nick": "MaSvAl",
+     "kills": 4,
+     "deaths": 2,
+     "swing": 10.13,
+     "adr": 59.9,
+     "kast": 100.0,
+     "rating": 1.58
+    },
+    {
+     "player": 22076,
+     "nick": "AW",
+     "kills": 7,
+     "deaths": 3,
+     "swing": 5.96,
+     "adr": 101.2,
+     "kast": 100.0,
+     "rating": 1.57
+    },
+    {
+     "player": 24173,
+     "nick": "tenzy",
+     "kills": 8,
+     "deaths": 4,
+     "swing": 1.92,
+     "adr": 125.6,
+     "kast": 87.5,
+     "rating": 1.44
+    },
+    {
+     "player": 21969,
+     "nick": "Graviti",
+     "kills": 10,
+     "deaths": 5,
+     "swing": 5.88,
+     "adr": 98.5,
+     "kast": 83.3,
+     "rating": 1.53
+    },
+    {
+     "player": 20482,
+     "nick": "Kursy",
+     "kills": 11,
+     "deaths": 8,
+     "swing": -1.6,
+     "adr": 81.2,
+     "kast": 58.3,
+     "rating": 0.99
+    },
+    {
+     "player": 13138,
+     "nick": "Maka",
+     "kills": 6,
+     "deaths": 6,
+     "swing": 2.45,
+     "adr": 53.8,
+     "kast": 75.0,
+     "rating": 0.88
+    },
+    {
+     "player": 13497,
+     "nick": "Lucky",
+     "kills": 6,
+     "deaths": 6,
+     "swing": -0.34,
+     "adr": 49.2,
+     "kast": 100.0,
+     "rating": 0.86
+    },
+    {
+     "player": 14176,
+     "nick": "misutaaa",
+     "kills": 8,
+     "deaths": 9,
+     "swing": -2.37,
+     "adr": 93.9,
+     "kast": 66.7,
+     "rating": 0.86
+    }
+   ],
+   "ct": [
+    {
+     "player": 24173,
+     "nick": "tenzy",
+     "kills": 9,
+     "deaths": 9,
+     "swing": 4.75,
+     "adr": 94.2,
+     "kast": 58.3,
+     "rating": 1.49
+    },
+    {
+     "player": 23858,
+     "nick": "mo0N",
+     "kills": 7,
+     "deaths": 6,
+     "swing": 0.57,
+     "adr": 73.5,
+     "kast": 75.0,
+     "rating": 1.25
+    },
+    {
+     "player": 19874,
+     "nick": "MaSvAl",
+     "kills": 5,
+     "deaths": 8,
+     "swing": -0.19,
+     "adr": 56.9,
+     "kast": 75.0,
+     "rating": 0.96
+    },
+    {
+     "player": 22075,
+     "nick": "sFade8",
+     "kills": 8,
+     "deaths": 9,
+     "swing": -5.01,
+     "adr": 60.8,
+     "kast": 66.7,
+     "rating": 0.82
+    },
+    {
+     "player": 22076,
+     "nick": "AW",
+     "kills": 5,
+     "deaths": 9,
+     "swing": -4.13,
+     "adr": 46.3,
+     "kast": 66.7,
+     "rating": 0.68
+    },
+    {
+     "player": 21969,
+     "nick": "Graviti",
+     "kills": 5,
+     "deaths": 8,
+     "swing": -7.27,
+     "adr": 50.9,
+     "kast": 62.5,
+     "rating": 0.69
+    },
+    {
+     "player": 14176,
+     "nick": "misutaaa",
+     "kills": 4,
+     "deaths": 8,
+     "swing": -3.13,
+     "adr": 65.1,
+     "kast": 37.5,
+     "rating": 0.68
+    },
+    {
+     "player": 13138,
+     "nick": "Maka",
+     "kills": 3,
+     "deaths": 8,
+     "swing": -3.3,
+     "adr": 49.8,
+     "kast": 50.0,
+     "rating": 0.57
+    },
+    {
+     "player": 20482,
+     "nick": "Kursy",
+     "kills": 1,
+     "deaths": 8,
+     "swing": -8.78,
+     "adr": 29.9,
+     "kast": 37.5,
+     "rating": 0.25
+    },
+    {
+     "player": 13497,
+     "nick": "Lucky",
+     "kills": 1,
+     "deaths": 8,
+     "swing": -15.09,
+     "adr": 36.2,
+     "kast": 37.5,
+     "rating": 0.18
+    }
+   ]
+  }
+ },
+ "mvp": {
+  "player": 24173,
+  "nick": "tenzy",
+  "maps": 2,
+  "kpr": 0.82,
+  "dpr": 0.64,
+  "kast": 76.9,
+  "mkRating": 1.57,
+  "swing": 2.56,
+  "adr": 98.5,
+  "rating": 1.42
+ }
+}

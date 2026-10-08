@@ -1,0 +1,1321 @@
+{
+ "id": 2398304,
+ "eventId": 9410,
+ "stage": "Playoffs",
+ "time": "2026-09-20T00:00:00Z",
+ "bo": 3,
+ "status": "finished",
+ "team1": {
+  "id": 12554,
+  "score": 2,
+  "players": [
+   19707,
+   23137,
+   23136,
+   23138,
+   24667
+  ]
+ },
+ "team2": {
+  "id": 6914,
+  "score": 1,
+  "players": [
+   8735,
+   9136,
+   11219,
+   17372,
+   8797
+  ]
+ },
+ "maps": [
+  {
+   "map": "de_mirage",
+   "pick": 6914,
+   "score": [
+    22,
+    18
+   ],
+   "halves": [
+    [
+     5,
+     7
+    ],
+    [
+     7,
+     5
+    ]
+   ]
+  },
+  {
+   "map": "de_inferno",
+   "pick": 12554,
+   "score": [
+    11,
+    13
+   ],
+   "halves": [
+    [
+     7,
+     5
+    ],
+    [
+     4,
+     8
+    ]
+   ]
+  },
+  {
+   "map": "de_ancient",
+   "pick": null,
+   "score": [
+    13,
+    8
+   ],
+   "halves": [
+    [
+     8,
+     4
+    ],
+    [
+     5,
+     4
+    ]
+   ]
+  }
+ ],
+ "stats": {
+  "all": {
+   "both": [
+    {
+     "player": 23137,
+     "nick": "dvrk",
+     "kills": 66,
+     "deaths": 59,
+     "swing": 3.92,
+     "adr": 91.9,
+     "kast": 77.6,
+     "rating": 1.4
+    },
+    {
+     "player": 23136,
+     "nick": "Zucar",
+     "kills": 62,
+     "deaths": 58,
+     "swing": 2.77,
+     "adr": 78.9,
+     "kast": 77.6,
+     "rating": 1.32
+    },
+    {
+     "player": 24667,
+     "nick": "fuzenko",
+     "kills": 62,
+     "deaths": 59,
+     "swing": 1.27,
+     "adr": 72.1,
+     "kast": 69.4,
+     "rating": 1.12
+    },
+    {
+     "player": 19707,
+     "nick": "grape",
+     "kills": 63,
+     "deaths": 61,
+     "swing": -0.87,
+     "adr": 77.6,
+     "kast": 75.3,
+     "rating": 1.04
+    },
+    {
+     "player": 23138,
+     "nick": "sasha",
+     "kills": 50,
+     "deaths": 56,
+     "swing": -1.96,
+     "adr": 62.0,
+     "kast": 67.1,
+     "rating": 0.91
+    },
+    {
+     "player": 9136,
+     "nick": "Brehze",
+     "kills": 68,
+     "deaths": 62,
+     "swing": 2.51,
+     "adr": 89.6,
+     "kast": 76.5,
+     "rating": 1.31
+    },
+    {
+     "player": 11219,
+     "nick": "CeRq",
+     "kills": 61,
+     "deaths": 51,
+     "swing": 0.03,
+     "adr": 73.6,
+     "kast": 75.3,
+     "rating": 1.02
+    },
+    {
+     "player": 8735,
+     "nick": "autimatic",
+     "kills": 61,
+     "deaths": 66,
+     "swing": -1.96,
+     "adr": 73.9,
+     "kast": 71.8,
+     "rating": 0.97
+    },
+    {
+     "player": 17372,
+     "nick": "FaNg",
+     "kills": 53,
+     "deaths": 58,
+     "swing": -2.4,
+     "adr": 70.5,
+     "kast": 72.9,
+     "rating": 0.96
+    },
+    {
+     "player": 8797,
+     "nick": "Stewie2K",
+     "kills": 49,
+     "deaths": 67,
+     "swing": -3.31,
+     "adr": 70.7,
+     "kast": 72.9,
+     "rating": 0.87
+    }
+   ],
+   "t": [
+    {
+     "player": 23137,
+     "nick": "dvrk",
+     "kills": 30,
+     "deaths": 29,
+     "swing": 3.44,
+     "adr": 88.8,
+     "kast": 70.0,
+     "rating": 1.24
+    },
+    {
+     "player": 19707,
+     "nick": "grape",
+     "kills": 38,
+     "deaths": 29,
+     "swing": 1.07,
+     "adr": 97.1,
+     "kast": 72.5,
+     "rating": 1.23
+    },
+    {
+     "player": 24667,
+     "nick": "fuzenko",
+     "kills": 31,
+     "deaths": 28,
+     "swing": 0.39,
+     "adr": 74.8,
+     "kast": 67.5,
+     "rating": 1.04
+    },
+    {
+     "player": 23136,
+     "nick": "Zucar",
+     "kills": 24,
+     "deaths": 27,
+     "swing": -2.79,
+     "adr": 66.4,
+     "kast": 67.5,
+     "rating": 0.84
+    },
+    {
+     "player": 23138,
+     "nick": "sasha",
+     "kills": 16,
+     "deaths": 25,
+     "swing": -4.5,
+     "adr": 53.1,
+     "kast": 65.0,
+     "rating": 0.64
+    },
+    {
+     "player": 11219,
+     "nick": "CeRq",
+     "kills": 38,
+     "deaths": 26,
+     "swing": 2.27,
+     "adr": 84.6,
+     "kast": 80.0,
+     "rating": 1.14
+    },
+    {
+     "player": 9136,
+     "nick": "Brehze",
+     "kills": 37,
+     "deaths": 32,
+     "swing": 0.1,
+     "adr": 91.0,
+     "kast": 73.3,
+     "rating": 1.14
+    },
+    {
+     "player": 8735,
+     "nick": "autimatic",
+     "kills": 31,
+     "deaths": 36,
+     "swing": -2.48,
+     "adr": 77.3,
+     "kast": 80.0,
+     "rating": 0.91
+    },
+    {
+     "player": 17372,
+     "nick": "FaNg",
+     "kills": 27,
+     "deaths": 33,
+     "swing": -5.65,
+     "adr": 64.7,
+     "kast": 62.2,
+     "rating": 0.69
+    },
+    {
+     "player": 8797,
+     "nick": "Stewie2K",
+     "kills": 22,
+     "deaths": 37,
+     "swing": -6.04,
+     "adr": 64.3,
+     "kast": 68.9,
+     "rating": 0.65
+    }
+   ],
+   "ct": [
+    {
+     "player": 23136,
+     "nick": "Zucar",
+     "kills": 38,
+     "deaths": 31,
+     "swing": 7.72,
+     "adr": 90.0,
+     "kast": 86.7,
+     "rating": 1.75
+    },
+    {
+     "player": 23137,
+     "nick": "dvrk",
+     "kills": 36,
+     "deaths": 30,
+     "swing": 4.35,
+     "adr": 94.6,
+     "kast": 84.4,
+     "rating": 1.54
+    },
+    {
+     "player": 24667,
+     "nick": "fuzenko",
+     "kills": 31,
+     "deaths": 31,
+     "swing": 2.05,
+     "adr": 69.6,
+     "kast": 71.1,
+     "rating": 1.2
+    },
+    {
+     "player": 23138,
+     "nick": "sasha",
+     "kills": 34,
+     "deaths": 31,
+     "swing": 0.29,
+     "adr": 69.9,
+     "kast": 68.9,
+     "rating": 1.15
+    },
+    {
+     "player": 19707,
+     "nick": "grape",
+     "kills": 25,
+     "deaths": 32,
+     "swing": -2.6,
+     "adr": 60.3,
+     "kast": 77.8,
+     "rating": 0.88
+    },
+    {
+     "player": 9136,
+     "nick": "Brehze",
+     "kills": 31,
+     "deaths": 30,
+     "swing": 5.23,
+     "adr": 88.1,
+     "kast": 80.0,
+     "rating": 1.5
+    },
+    {
+     "player": 17372,
+     "nick": "FaNg",
+     "kills": 26,
+     "deaths": 25,
+     "swing": 1.25,
+     "adr": 77.0,
+     "kast": 85.0,
+     "rating": 1.25
+    },
+    {
+     "player": 8797,
+     "nick": "Stewie2K",
+     "kills": 27,
+     "deaths": 30,
+     "swing": -0.24,
+     "adr": 77.9,
+     "kast": 77.5,
+     "rating": 1.13
+    },
+    {
+     "player": 8735,
+     "nick": "autimatic",
+     "kills": 30,
+     "deaths": 30,
+     "swing": -1.38,
+     "adr": 70.2,
+     "kast": 62.5,
+     "rating": 1.04
+    },
+    {
+     "player": 11219,
+     "nick": "CeRq",
+     "kills": 23,
+     "deaths": 25,
+     "swing": -2.48,
+     "adr": 61.2,
+     "kast": 70.0,
+     "rating": 0.89
+    }
+   ]
+  },
+  "de_mirage": {
+   "both": [
+    {
+     "player": 23137,
+     "nick": "dvrk",
+     "kills": 32,
+     "deaths": 28,
+     "swing": 5.38,
+     "adr": 92.7,
+     "kast": 80.0,
+     "rating": 1.46
+    },
+    {
+     "player": 23136,
+     "nick": "Zucar",
+     "kills": 26,
+     "deaths": 29,
+     "swing": 1.23,
+     "adr": 76.4,
+     "kast": 70.0,
+     "rating": 1.2
+    },
+    {
+     "player": 19707,
+     "nick": "grape",
+     "kills": 36,
+     "deaths": 32,
+     "swing": 0.11,
+     "adr": 96.9,
+     "kast": 77.5,
+     "rating": 1.2
+    },
+    {
+     "player": 24667,
+     "nick": "fuzenko",
+     "kills": 29,
+     "deaths": 30,
+     "swing": 1.05,
+     "adr": 64.5,
+     "kast": 60.0,
+     "rating": 1.07
+    },
+    {
+     "player": 23138,
+     "nick": "sasha",
+     "kills": 23,
+     "deaths": 27,
+     "swing": -2.19,
+     "adr": 56.7,
+     "kast": 62.5,
+     "rating": 0.84
+    },
+    {
+     "player": 11219,
+     "nick": "CeRq",
+     "kills": 36,
+     "deaths": 24,
+     "swing": 1.35,
+     "adr": 83.1,
+     "kast": 80.0,
+     "rating": 1.23
+    },
+    {
+     "player": 9136,
+     "nick": "Brehze",
+     "kills": 30,
+     "deaths": 33,
+     "swing": 0.81,
+     "adr": 89.0,
+     "kast": 77.5,
+     "rating": 1.2
+    },
+    {
+     "player": 8797,
+     "nick": "Stewie2K",
+     "kills": 26,
+     "deaths": 30,
+     "swing": -1.94,
+     "adr": 81.2,
+     "kast": 75.0,
+     "rating": 1.09
+    },
+    {
+     "player": 8735,
+     "nick": "autimatic",
+     "kills": 29,
+     "deaths": 33,
+     "swing": -3.66,
+     "adr": 80.5,
+     "kast": 72.5,
+     "rating": 0.96
+    },
+    {
+     "player": 17372,
+     "nick": "FaNg",
+     "kills": 24,
+     "deaths": 26,
+     "swing": -2.16,
+     "adr": 66.2,
+     "kast": 72.5,
+     "rating": 0.9
+    }
+   ],
+   "t": [
+    {
+     "player": 19707,
+     "nick": "grape",
+     "kills": 23,
+     "deaths": 17,
+     "swing": -0.07,
+     "adr": 125.7,
+     "kast": 78.9,
+     "rating": 1.43
+    },
+    {
+     "player": 23137,
+     "nick": "dvrk",
+     "kills": 15,
+     "deaths": 14,
+     "swing": 5.64,
+     "adr": 93.9,
+     "kast": 68.4,
+     "rating": 1.41
+    },
+    {
+     "player": 24667,
+     "nick": "fuzenko",
+     "kills": 13,
+     "deaths": 14,
+     "swing": 0.06,
+     "adr": 60.1,
+     "kast": 52.6,
+     "rating": 0.93
+    },
+    {
+     "player": 23138,
+     "nick": "sasha",
+     "kills": 9,
+     "deaths": 12,
+     "swing": -3.17,
+     "adr": 49.4,
+     "kast": 57.9,
+     "rating": 0.67
+    },
+    {
+     "player": 23136,
+     "nick": "Zucar",
+     "kills": 9,
+     "deaths": 15,
+     "swing": -4.58,
+     "adr": 61.3,
+     "kast": 57.9,
+     "rating": 0.66
+    },
+    {
+     "player": 11219,
+     "nick": "CeRq",
+     "kills": 21,
+     "deaths": 12,
+     "swing": 3.35,
+     "adr": 100.6,
+     "kast": 81.0,
+     "rating": 1.36
+    },
+    {
+     "player": 9136,
+     "nick": "Brehze",
+     "kills": 17,
+     "deaths": 16,
+     "swing": -1.46,
+     "adr": 99.0,
+     "kast": 76.2,
+     "rating": 1.17
+    },
+    {
+     "player": 8735,
+     "nick": "autimatic",
+     "kills": 14,
+     "deaths": 19,
+     "swing": -3.38,
+     "adr": 74.8,
+     "kast": 81.0,
+     "rating": 0.85
+    },
+    {
+     "player": 17372,
+     "nick": "FaNg",
+     "kills": 12,
+     "deaths": 13,
+     "swing": -4.03,
+     "adr": 51.6,
+     "kast": 66.7,
+     "rating": 0.7
+    },
+    {
+     "player": 8797,
+     "nick": "Stewie2K",
+     "kills": 10,
+     "deaths": 17,
+     "swing": -7.04,
+     "adr": 72.6,
+     "kast": 71.4,
+     "rating": 0.64
+    }
+   ],
+   "ct": [
+    {
+     "player": 23136,
+     "nick": "Zucar",
+     "kills": 17,
+     "deaths": 14,
+     "swing": 6.49,
+     "adr": 90.0,
+     "kast": 81.0,
+     "rating": 1.69
+    },
+    {
+     "player": 23137,
+     "nick": "dvrk",
+     "kills": 17,
+     "deaths": 14,
+     "swing": 5.15,
+     "adr": 91.6,
+     "kast": 90.5,
+     "rating": 1.5
+    },
+    {
+     "player": 24667,
+     "nick": "fuzenko",
+     "kills": 16,
+     "deaths": 16,
+     "swing": 1.95,
+     "adr": 68.5,
+     "kast": 66.7,
+     "rating": 1.19
+    },
+    {
+     "player": 23138,
+     "nick": "sasha",
+     "kills": 14,
+     "deaths": 15,
+     "swing": -1.29,
+     "adr": 63.3,
+     "kast": 66.7,
+     "rating": 1.0
+    },
+    {
+     "player": 19707,
+     "nick": "grape",
+     "kills": 13,
+     "deaths": 15,
+     "swing": 0.28,
+     "adr": 70.8,
+     "kast": 76.2,
+     "rating": 0.99
+    },
+    {
+     "player": 8797,
+     "nick": "Stewie2K",
+     "kills": 16,
+     "deaths": 13,
+     "swing": 3.7,
+     "adr": 90.6,
+     "kast": 78.9,
+     "rating": 1.59
+    },
+    {
+     "player": 9136,
+     "nick": "Brehze",
+     "kills": 13,
+     "deaths": 17,
+     "swing": 3.32,
+     "adr": 77.9,
+     "kast": 78.9,
+     "rating": 1.23
+    },
+    {
+     "player": 17372,
+     "nick": "FaNg",
+     "kills": 12,
+     "deaths": 13,
+     "swing": -0.09,
+     "adr": 82.3,
+     "kast": 78.9,
+     "rating": 1.12
+    },
+    {
+     "player": 8735,
+     "nick": "autimatic",
+     "kills": 15,
+     "deaths": 14,
+     "swing": -3.97,
+     "adr": 86.9,
+     "kast": 63.2,
+     "rating": 1.09
+    },
+    {
+     "player": 11219,
+     "nick": "CeRq",
+     "kills": 15,
+     "deaths": 12,
+     "swing": -0.85,
+     "adr": 63.7,
+     "kast": 78.9,
+     "rating": 1.09
+    }
+   ]
+  },
+  "de_inferno": {
+   "both": [
+    {
+     "player": 23136,
+     "nick": "Zucar",
+     "kills": 16,
+     "deaths": 16,
+     "swing": 4.0,
+     "adr": 70.0,
+     "kast": 83.3,
+     "rating": 1.28
+    },
+    {
+     "player": 23138,
+     "nick": "sasha",
+     "kills": 15,
+     "deaths": 14,
+     "swing": 1.52,
+     "adr": 66.0,
+     "kast": 70.8,
+     "rating": 1.16
+    },
+    {
+     "player": 23137,
+     "nick": "dvrk",
+     "kills": 16,
+     "deaths": 17,
+     "swing": 0.27,
+     "adr": 84.2,
+     "kast": 62.5,
+     "rating": 1.08
+    },
+    {
+     "player": 19707,
+     "nick": "grape",
+     "kills": 17,
+     "deaths": 17,
+     "swing": -2.51,
+     "adr": 72.9,
+     "kast": 75.0,
+     "rating": 0.99
+    },
+    {
+     "player": 24667,
+     "nick": "fuzenko",
+     "kills": 12,
+     "deaths": 18,
+     "swing": -2.74,
+     "adr": 65.5,
+     "kast": 75.0,
+     "rating": 0.84
+    },
+    {
+     "player": 9136,
+     "nick": "Brehze",
+     "kills": 26,
+     "deaths": 14,
+     "swing": 8.03,
+     "adr": 114.2,
+     "kast": 83.3,
+     "rating": 1.88
+    },
+    {
+     "player": 17372,
+     "nick": "FaNg",
+     "kills": 14,
+     "deaths": 14,
+     "swing": -2.37,
+     "adr": 73.6,
+     "kast": 83.3,
+     "rating": 1.07
+    },
+    {
+     "player": 8735,
+     "nick": "autimatic",
+     "kills": 16,
+     "deaths": 17,
+     "swing": -0.15,
+     "adr": 71.2,
+     "kast": 75.0,
+     "rating": 1.0
+    },
+    {
+     "player": 11219,
+     "nick": "CeRq",
+     "kills": 13,
+     "deaths": 13,
+     "swing": -1.55,
+     "adr": 59.0,
+     "kast": 66.7,
+     "rating": 0.83
+    },
+    {
+     "player": 8797,
+     "nick": "Stewie2K",
+     "kills": 13,
+     "deaths": 18,
+     "swing": -4.5,
+     "adr": 57.1,
+     "kast": 75.0,
+     "rating": 0.8
+    }
+   ],
+   "t": [
+    {
+     "player": 19707,
+     "nick": "grape",
+     "kills": 10,
+     "deaths": 7,
+     "swing": 1.26,
+     "adr": 90.0,
+     "kast": 58.3,
+     "rating": 1.09
+    },
+    {
+     "player": 23137,
+     "nick": "dvrk",
+     "kills": 8,
+     "deaths": 9,
+     "swing": 1.85,
+     "adr": 78.8,
+     "kast": 58.3,
+     "rating": 1.06
+    },
+    {
+     "player": 24667,
+     "nick": "fuzenko",
+     "kills": 9,
+     "deaths": 9,
+     "swing": -1.5,
+     "adr": 85.2,
+     "kast": 83.3,
+     "rating": 1.01
+    },
+    {
+     "player": 23138,
+     "nick": "sasha",
+     "kills": 4,
+     "deaths": 7,
+     "swing": -5.34,
+     "adr": 44.2,
+     "kast": 66.7,
+     "rating": 0.61
+    },
+    {
+     "player": 23136,
+     "nick": "Zucar",
+     "kills": 4,
+     "deaths": 7,
+     "swing": -4.74,
+     "adr": 48.8,
+     "kast": 75.0,
+     "rating": 0.52
+    },
+    {
+     "player": 9136,
+     "nick": "Brehze",
+     "kills": 15,
+     "deaths": 8,
+     "swing": 6.13,
+     "adr": 115.5,
+     "kast": 91.7,
+     "rating": 1.76
+    },
+    {
+     "player": 17372,
+     "nick": "FaNg",
+     "kills": 8,
+     "deaths": 9,
+     "swing": -7.14,
+     "adr": 86.2,
+     "kast": 66.7,
+     "rating": 0.83
+    },
+    {
+     "player": 11219,
+     "nick": "CeRq",
+     "kills": 7,
+     "deaths": 7,
+     "swing": 0.7,
+     "adr": 60.8,
+     "kast": 66.7,
+     "rating": 0.81
+    },
+    {
+     "player": 8735,
+     "nick": "autimatic",
+     "kills": 7,
+     "deaths": 8,
+     "swing": -1.85,
+     "adr": 77.6,
+     "kast": 75.0,
+     "rating": 0.81
+    },
+    {
+     "player": 8797,
+     "nick": "Stewie2K",
+     "kills": 6,
+     "deaths": 9,
+     "swing": -7.38,
+     "adr": 51.8,
+     "kast": 66.7,
+     "rating": 0.65
+    }
+   ],
+   "ct": [
+    {
+     "player": 23136,
+     "nick": "Zucar",
+     "kills": 12,
+     "deaths": 9,
+     "swing": 12.74,
+     "adr": 91.2,
+     "kast": 91.7,
+     "rating": 2.03
+    },
+    {
+     "player": 23138,
+     "nick": "sasha",
+     "kills": 11,
+     "deaths": 7,
+     "swing": 8.39,
+     "adr": 87.8,
+     "kast": 75.0,
+     "rating": 1.72
+    },
+    {
+     "player": 23137,
+     "nick": "dvrk",
+     "kills": 8,
+     "deaths": 8,
+     "swing": -1.31,
+     "adr": 89.8,
+     "kast": 66.7,
+     "rating": 1.11
+    },
+    {
+     "player": 19707,
+     "nick": "grape",
+     "kills": 7,
+     "deaths": 10,
+     "swing": -6.29,
+     "adr": 55.8,
+     "kast": 91.7,
+     "rating": 0.89
+    },
+    {
+     "player": 24667,
+     "nick": "fuzenko",
+     "kills": 3,
+     "deaths": 9,
+     "swing": -3.98,
+     "adr": 45.8,
+     "kast": 66.7,
+     "rating": 0.66
+    },
+    {
+     "player": 9136,
+     "nick": "Brehze",
+     "kills": 11,
+     "deaths": 6,
+     "swing": 9.93,
+     "adr": 112.8,
+     "kast": 75.0,
+     "rating": 1.99
+    },
+    {
+     "player": 17372,
+     "nick": "FaNg",
+     "kills": 6,
+     "deaths": 5,
+     "swing": 2.41,
+     "adr": 61.0,
+     "kast": 100.0,
+     "rating": 1.31
+    },
+    {
+     "player": 8735,
+     "nick": "autimatic",
+     "kills": 9,
+     "deaths": 9,
+     "swing": 1.56,
+     "adr": 64.8,
+     "kast": 75.0,
+     "rating": 1.18
+    },
+    {
+     "player": 8797,
+     "nick": "Stewie2K",
+     "kills": 7,
+     "deaths": 9,
+     "swing": -1.62,
+     "adr": 62.5,
+     "kast": 83.3,
+     "rating": 0.94
+    },
+    {
+     "player": 11219,
+     "nick": "CeRq",
+     "kills": 6,
+     "deaths": 6,
+     "swing": -3.8,
+     "adr": 57.2,
+     "kast": 66.7,
+     "rating": 0.86
+    }
+   ]
+  },
+  "de_ancient": {
+   "both": [
+    {
+     "player": 23137,
+     "nick": "dvrk",
+     "kills": 18,
+     "deaths": 14,
+     "swing": 5.31,
+     "adr": 99.1,
+     "kast": 90.5,
+     "rating": 1.71
+    },
+    {
+     "player": 23136,
+     "nick": "Zucar",
+     "kills": 20,
+     "deaths": 13,
+     "swing": 4.31,
+     "adr": 93.9,
+     "kast": 85.7,
+     "rating": 1.64
+    },
+    {
+     "player": 24667,
+     "nick": "fuzenko",
+     "kills": 21,
+     "deaths": 11,
+     "swing": 6.28,
+     "adr": 94.0,
+     "kast": 81.0,
+     "rating": 1.63
+    },
+    {
+     "player": 19707,
+     "nick": "grape",
+     "kills": 10,
+     "deaths": 12,
+     "swing": -0.88,
+     "adr": 46.4,
+     "kast": 71.4,
+     "rating": 0.88
+    },
+    {
+     "player": 23138,
+     "nick": "sasha",
+     "kills": 12,
+     "deaths": 15,
+     "swing": -5.52,
+     "adr": 67.6,
+     "kast": 71.4,
+     "rating": 0.81
+    },
+    {
+     "player": 8735,
+     "nick": "autimatic",
+     "kills": 16,
+     "deaths": 16,
+     "swing": -0.8,
+     "adr": 64.5,
+     "kast": 66.7,
+     "rating": 1.0
+    },
+    {
+     "player": 9136,
+     "nick": "Brehze",
+     "kills": 12,
+     "deaths": 15,
+     "swing": -0.56,
+     "adr": 62.8,
+     "kast": 66.7,
+     "rating": 0.97
+    },
+    {
+     "player": 17372,
+     "nick": "FaNg",
+     "kills": 15,
+     "deaths": 18,
+     "swing": -2.91,
+     "adr": 75.3,
+     "kast": 61.9,
+     "rating": 0.95
+    },
+    {
+     "player": 11219,
+     "nick": "CeRq",
+     "kills": 12,
+     "deaths": 14,
+     "swing": -0.67,
+     "adr": 72.2,
+     "kast": 76.2,
+     "rating": 0.88
+    },
+    {
+     "player": 8797,
+     "nick": "Stewie2K",
+     "kills": 10,
+     "deaths": 19,
+     "swing": -4.57,
+     "adr": 66.3,
+     "kast": 66.7,
+     "rating": 0.61
+    }
+   ],
+   "t": [
+    {
+     "player": 23136,
+     "nick": "Zucar",
+     "kills": 11,
+     "deaths": 5,
+     "swing": 3.57,
+     "adr": 100.6,
+     "kast": 77.8,
+     "rating": 1.73
+    },
+    {
+     "player": 24667,
+     "nick": "fuzenko",
+     "kills": 9,
+     "deaths": 5,
+     "swing": 3.62,
+     "adr": 92.2,
+     "kast": 77.8,
+     "rating": 1.33
+    },
+    {
+     "player": 23137,
+     "nick": "dvrk",
+     "kills": 7,
+     "deaths": 6,
+     "swing": 0.91,
+     "adr": 91.6,
+     "kast": 88.9,
+     "rating": 1.18
+    },
+    {
+     "player": 19707,
+     "nick": "grape",
+     "kills": 5,
+     "deaths": 5,
+     "swing": 3.22,
+     "adr": 46.3,
+     "kast": 77.8,
+     "rating": 1.11
+    },
+    {
+     "player": 23138,
+     "nick": "sasha",
+     "kills": 3,
+     "deaths": 6,
+     "swing": -6.17,
+     "adr": 72.8,
+     "kast": 77.8,
+     "rating": 0.63
+    },
+    {
+     "player": 8735,
+     "nick": "autimatic",
+     "kills": 10,
+     "deaths": 9,
+     "swing": -1.54,
+     "adr": 81.4,
+     "kast": 83.3,
+     "rating": 1.14
+    },
+    {
+     "player": 11219,
+     "nick": "CeRq",
+     "kills": 10,
+     "deaths": 7,
+     "swing": 1.94,
+     "adr": 80.4,
+     "kast": 91.7,
+     "rating": 1.13
+    },
+    {
+     "player": 8797,
+     "nick": "Stewie2K",
+     "kills": 6,
+     "deaths": 11,
+     "swing": -2.96,
+     "adr": 62.4,
+     "kast": 66.7,
+     "rating": 0.66
+    },
+    {
+     "player": 9136,
+     "nick": "Brehze",
+     "kills": 5,
+     "deaths": 8,
+     "swing": -3.22,
+     "adr": 52.5,
+     "kast": 50.0,
+     "rating": 0.63
+    },
+    {
+     "player": 17372,
+     "nick": "FaNg",
+     "kills": 7,
+     "deaths": 11,
+     "swing": -6.99,
+     "adr": 66.3,
+     "kast": 50.0,
+     "rating": 0.58
+    }
+   ],
+   "ct": [
+    {
+     "player": 23137,
+     "nick": "dvrk",
+     "kills": 11,
+     "deaths": 8,
+     "swing": 8.62,
+     "adr": 104.8,
+     "kast": 91.7,
+     "rating": 2.11
+    },
+    {
+     "player": 24667,
+     "nick": "fuzenko",
+     "kills": 12,
+     "deaths": 6,
+     "swing": 8.28,
+     "adr": 95.3,
+     "kast": 83.3,
+     "rating": 1.85
+    },
+    {
+     "player": 23136,
+     "nick": "Zucar",
+     "kills": 9,
+     "deaths": 8,
+     "swing": 4.86,
+     "adr": 88.9,
+     "kast": 91.7,
+     "rating": 1.57
+    },
+    {
+     "player": 23138,
+     "nick": "sasha",
+     "kills": 9,
+     "deaths": 9,
+     "swing": -5.03,
+     "adr": 63.7,
+     "kast": 66.7,
+     "rating": 0.94
+    },
+    {
+     "player": 19707,
+     "nick": "grape",
+     "kills": 5,
+     "deaths": 7,
+     "swing": -3.96,
+     "adr": 46.4,
+     "kast": 66.7,
+     "rating": 0.7
+    },
+    {
+     "player": 17372,
+     "nick": "FaNg",
+     "kills": 8,
+     "deaths": 7,
+     "swing": 2.54,
+     "adr": 87.2,
+     "kast": 77.8,
+     "rating": 1.45
+    },
+    {
+     "player": 9136,
+     "nick": "Brehze",
+     "kills": 7,
+     "deaths": 7,
+     "swing": 2.99,
+     "adr": 76.6,
+     "kast": 88.9,
+     "rating": 1.42
+    },
+    {
+     "player": 8735,
+     "nick": "autimatic",
+     "kills": 6,
+     "deaths": 7,
+     "swing": 0.18,
+     "adr": 41.9,
+     "kast": 44.4,
+     "rating": 0.8
+    },
+    {
+     "player": 11219,
+     "nick": "CeRq",
+     "kills": 2,
+     "deaths": 7,
+     "swing": -4.15,
+     "adr": 61.2,
+     "kast": 55.6,
+     "rating": 0.54
+    },
+    {
+     "player": 8797,
+     "nick": "Stewie2K",
+     "kills": 4,
+     "deaths": 8,
+     "swing": -6.72,
+     "adr": 71.6,
+     "kast": 66.7,
+     "rating": 0.54
+    }
+   ]
+  }
+ },
+ "mvp": null
+}

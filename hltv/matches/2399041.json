@@ -1,26 +1,1003 @@
 {
  "id": 2399041,
  "eventId": 9318,
- "stage": "Deciders",
- "time": "2026-10-08T18:00:00+08:00",
+ "stage": "Playoffs",
+ "time": "2026-10-08T10:00:00Z",
  "bo": 3,
- "status": "upcoming",
+ "status": "finished",
  "team1": {
   "id": 10503,
-  "score": null,
-  "players": []
+  "score": 0,
+  "players": [
+   8374,
+   19064,
+   19739,
+   21779,
+   22481
+  ]
  },
  "team2": {
   "id": 10333,
-  "score": null,
-  "players": []
+  "score": 2,
+  "players": [
+   25110,
+   25253,
+   20309,
+   19698,
+   22144
+  ]
  },
- "maps": [],
+ "maps": [
+  {
+   "map": "de_dust2",
+   "pick": 10503,
+   "score": [
+    15,
+    19
+   ],
+   "halves": [
+    [
+     4,
+     8
+    ],
+    [
+     8,
+     4
+    ]
+   ]
+  },
+  {
+   "map": "de_nuke",
+   "pick": 10333,
+   "score": [
+    14,
+    16
+   ],
+   "halves": [
+    [
+     7,
+     5
+    ],
+    [
+     5,
+     7
+    ]
+   ]
+  },
+  {
+   "map": "de_anubis",
+   "pick": null,
+   "score": [
+    null,
+    null
+   ],
+   "halves": null
+  }
+ ],
  "stats": {
   "all": {
-   "both": [],
-   "t": [],
-   "ct": []
+   "both": [
+    {
+     "player": 8374,
+     "nick": "bodyy",
+     "kills": 49,
+     "deaths": 50,
+     "swing": -1.33,
+     "adr": 85.8,
+     "kast": 73.4,
+     "rating": 1.06
+    },
+    {
+     "player": 22481,
+     "nick": "Chucky",
+     "kills": 47,
+     "deaths": 43,
+     "swing": 0.66,
+     "adr": 71.9,
+     "kast": 70.3,
+     "rating": 1.05
+    },
+    {
+     "player": 21779,
+     "nick": "nut nut",
+     "kills": 34,
+     "deaths": 36,
+     "swing": 0.12,
+     "adr": 56.6,
+     "kast": 71.9,
+     "rating": 0.99
+    },
+    {
+     "player": 19064,
+     "nick": "spooke",
+     "kills": 39,
+     "deaths": 46,
+     "swing": -1.4,
+     "adr": 67.3,
+     "kast": 64.1,
+     "rating": 0.9
+    },
+    {
+     "player": 19739,
+     "nick": "Ex3rcice",
+     "kills": 41,
+     "deaths": 44,
+     "swing": -4.31,
+     "adr": 74.7,
+     "kast": 70.3,
+     "rating": 0.89
+    },
+    {
+     "player": 22144,
+     "nick": "puuha",
+     "kills": 53,
+     "deaths": 39,
+     "swing": 4.79,
+     "adr": 87.9,
+     "kast": 78.1,
+     "rating": 1.51
+    },
+    {
+     "player": 19698,
+     "nick": "adamS",
+     "kills": 47,
+     "deaths": 40,
+     "swing": 3.17,
+     "adr": 75.4,
+     "kast": 70.3,
+     "rating": 1.32
+    },
+    {
+     "player": 25110,
+     "nick": "R4DYX",
+     "kills": 39,
+     "deaths": 41,
+     "swing": 0.9,
+     "adr": 65.5,
+     "kast": 71.9,
+     "rating": 1.01
+    },
+    {
+     "player": 25253,
+     "nick": "Joey",
+     "kills": 45,
+     "deaths": 47,
+     "swing": -1.96,
+     "adr": 74.9,
+     "kast": 67.2,
+     "rating": 0.98
+    },
+    {
+     "player": 20309,
+     "nick": "bnox",
+     "kills": 35,
+     "deaths": 43,
+     "swing": -0.63,
+     "adr": 68.7,
+     "kast": 67.2,
+     "rating": 0.97
+    }
+   ],
+   "t": [
+    {
+     "player": 21779,
+     "nick": "nut nut",
+     "kills": 23,
+     "deaths": 12,
+     "swing": 5.61,
+     "adr": 73.7,
+     "kast": 87.1,
+     "rating": 1.4
+    },
+    {
+     "player": 22481,
+     "nick": "Chucky",
+     "kills": 31,
+     "deaths": 16,
+     "swing": 2.41,
+     "adr": 95.0,
+     "kast": 80.6,
+     "rating": 1.32
+    },
+    {
+     "player": 19739,
+     "nick": "Ex3rcice",
+     "kills": 25,
+     "deaths": 17,
+     "swing": -1.92,
+     "adr": 93.1,
+     "kast": 80.6,
+     "rating": 1.18
+    },
+    {
+     "player": 19064,
+     "nick": "spooke",
+     "kills": 20,
+     "deaths": 18,
+     "swing": 0.59,
+     "adr": 72.1,
+     "kast": 74.2,
+     "rating": 0.99
+    },
+    {
+     "player": 8374,
+     "nick": "bodyy",
+     "kills": 24,
+     "deaths": 24,
+     "swing": -3.32,
+     "adr": 84.4,
+     "kast": 80.6,
+     "rating": 0.94
+    },
+    {
+     "player": 19698,
+     "nick": "adamS",
+     "kills": 35,
+     "deaths": 14,
+     "swing": 7.8,
+     "adr": 94.0,
+     "kast": 81.8,
+     "rating": 1.86
+    },
+    {
+     "player": 22144,
+     "nick": "puuha",
+     "kills": 32,
+     "deaths": 14,
+     "swing": 6.65,
+     "adr": 96.9,
+     "kast": 87.9,
+     "rating": 1.79
+    },
+    {
+     "player": 25253,
+     "nick": "Joey",
+     "kills": 28,
+     "deaths": 20,
+     "swing": 1.27,
+     "adr": 88.9,
+     "kast": 75.8,
+     "rating": 1.24
+    },
+    {
+     "player": 20309,
+     "nick": "bnox",
+     "kills": 20,
+     "deaths": 19,
+     "swing": 1.8,
+     "adr": 71.9,
+     "kast": 72.7,
+     "rating": 1.1
+    },
+    {
+     "player": 25110,
+     "nick": "R4DYX",
+     "kills": 17,
+     "deaths": 20,
+     "swing": -2.19,
+     "adr": 68.3,
+     "kast": 72.7,
+     "rating": 0.79
+    }
+   ],
+   "ct": [
+    {
+     "player": 8374,
+     "nick": "bodyy",
+     "kills": 25,
+     "deaths": 26,
+     "swing": 0.54,
+     "adr": 87.1,
+     "kast": 66.7,
+     "rating": 1.17
+    },
+    {
+     "player": 19064,
+     "nick": "spooke",
+     "kills": 19,
+     "deaths": 28,
+     "swing": -3.28,
+     "adr": 62.8,
+     "kast": 54.5,
+     "rating": 0.81
+    },
+    {
+     "player": 22481,
+     "nick": "Chucky",
+     "kills": 16,
+     "deaths": 27,
+     "swing": -0.99,
+     "adr": 50.3,
+     "kast": 60.6,
+     "rating": 0.79
+    },
+    {
+     "player": 19739,
+     "nick": "Ex3rcice",
+     "kills": 16,
+     "deaths": 27,
+     "swing": -6.56,
+     "adr": 57.3,
+     "kast": 60.6,
+     "rating": 0.63
+    },
+    {
+     "player": 21779,
+     "nick": "nut nut",
+     "kills": 11,
+     "deaths": 24,
+     "swing": -5.04,
+     "adr": 40.5,
+     "kast": 57.6,
+     "rating": 0.61
+    },
+    {
+     "player": 25110,
+     "nick": "R4DYX",
+     "kills": 22,
+     "deaths": 21,
+     "swing": 4.19,
+     "adr": 62.5,
+     "kast": 71.0,
+     "rating": 1.24
+    },
+    {
+     "player": 22144,
+     "nick": "puuha",
+     "kills": 21,
+     "deaths": 25,
+     "swing": 2.81,
+     "adr": 78.3,
+     "kast": 67.7,
+     "rating": 1.21
+    },
+    {
+     "player": 20309,
+     "nick": "bnox",
+     "kills": 15,
+     "deaths": 24,
+     "swing": -3.23,
+     "adr": 65.3,
+     "kast": 61.3,
+     "rating": 0.83
+    },
+    {
+     "player": 19698,
+     "nick": "adamS",
+     "kills": 12,
+     "deaths": 26,
+     "swing": -1.76,
+     "adr": 55.5,
+     "kast": 58.1,
+     "rating": 0.74
+    },
+    {
+     "player": 25253,
+     "nick": "Joey",
+     "kills": 17,
+     "deaths": 27,
+     "swing": -5.39,
+     "adr": 60.1,
+     "kast": 58.1,
+     "rating": 0.7
+    }
+   ]
+  },
+  "de_dust2": {
+   "both": [
+    {
+     "player": 8374,
+     "nick": "bodyy",
+     "kills": 29,
+     "deaths": 27,
+     "swing": -0.89,
+     "adr": 88.3,
+     "kast": 67.6,
+     "rating": 1.1
+    },
+    {
+     "player": 21779,
+     "nick": "nut nut",
+     "kills": 17,
+     "deaths": 21,
+     "swing": 3.83,
+     "adr": 53.0,
+     "kast": 64.7,
+     "rating": 1.1
+    },
+    {
+     "player": 22481,
+     "nick": "Chucky",
+     "kills": 25,
+     "deaths": 24,
+     "swing": 1.03,
+     "adr": 72.4,
+     "kast": 64.7,
+     "rating": 1.06
+    },
+    {
+     "player": 19064,
+     "nick": "spooke",
+     "kills": 19,
+     "deaths": 25,
+     "swing": -1.22,
+     "adr": 60.7,
+     "kast": 67.6,
+     "rating": 0.85
+    },
+    {
+     "player": 19739,
+     "nick": "Ex3rcice",
+     "kills": 15,
+     "deaths": 27,
+     "swing": -8.04,
+     "adr": 64.4,
+     "kast": 58.8,
+     "rating": 0.64
+    },
+    {
+     "player": 19698,
+     "nick": "adamS",
+     "kills": 34,
+     "deaths": 18,
+     "swing": 7.06,
+     "adr": 93.2,
+     "kast": 79.4,
+     "rating": 1.84
+    },
+    {
+     "player": 22144,
+     "nick": "puuha",
+     "kills": 29,
+     "deaths": 20,
+     "swing": 6.28,
+     "adr": 86.4,
+     "kast": 82.4,
+     "rating": 1.59
+    },
+    {
+     "player": 25253,
+     "nick": "Joey",
+     "kills": 26,
+     "deaths": 23,
+     "swing": -3.82,
+     "adr": 84.5,
+     "kast": 73.5,
+     "rating": 1.03
+    },
+    {
+     "player": 20309,
+     "nick": "bnox",
+     "kills": 19,
+     "deaths": 22,
+     "swing": -3.67,
+     "adr": 74.1,
+     "kast": 64.7,
+     "rating": 0.93
+    },
+    {
+     "player": 25110,
+     "nick": "R4DYX",
+     "kills": 16,
+     "deaths": 22,
+     "swing": -0.57,
+     "adr": 55.7,
+     "kast": 76.5,
+     "rating": 0.89
+    }
+   ],
+   "t": [
+    {
+     "player": 22481,
+     "nick": "Chucky",
+     "kills": 17,
+     "deaths": 9,
+     "swing": 5.98,
+     "adr": 102.8,
+     "kast": 75.0,
+     "rating": 1.58
+    },
+    {
+     "player": 21779,
+     "nick": "nut nut",
+     "kills": 10,
+     "deaths": 7,
+     "swing": 9.12,
+     "adr": 61.6,
+     "kast": 81.2,
+     "rating": 1.47
+    },
+    {
+     "player": 8374,
+     "nick": "bodyy",
+     "kills": 15,
+     "deaths": 13,
+     "swing": -0.88,
+     "adr": 94.9,
+     "kast": 81.2,
+     "rating": 1.18
+    },
+    {
+     "player": 19064,
+     "nick": "spooke",
+     "kills": 10,
+     "deaths": 9,
+     "swing": 2.67,
+     "adr": 70.3,
+     "kast": 75.0,
+     "rating": 1.1
+    },
+    {
+     "player": 19739,
+     "nick": "Ex3rcice",
+     "kills": 11,
+     "deaths": 10,
+     "swing": -5.2,
+     "adr": 86.9,
+     "kast": 68.8,
+     "rating": 0.95
+    },
+    {
+     "player": 19698,
+     "nick": "adamS",
+     "kills": 24,
+     "deaths": 6,
+     "swing": 11.86,
+     "adr": 114.9,
+     "kast": 88.9,
+     "rating": 2.47
+    },
+    {
+     "player": 22144,
+     "nick": "puuha",
+     "kills": 14,
+     "deaths": 7,
+     "swing": 5.18,
+     "adr": 83.3,
+     "kast": 88.9,
+     "rating": 1.51
+    },
+    {
+     "player": 20309,
+     "nick": "bnox",
+     "kills": 14,
+     "deaths": 9,
+     "swing": 3.18,
+     "adr": 79.2,
+     "kast": 77.8,
+     "rating": 1.34
+    },
+    {
+     "player": 25253,
+     "nick": "Joey",
+     "kills": 14,
+     "deaths": 9,
+     "swing": -0.82,
+     "adr": 90.2,
+     "kast": 77.8,
+     "rating": 1.18
+    },
+    {
+     "player": 25110,
+     "nick": "R4DYX",
+     "kills": 10,
+     "deaths": 11,
+     "swing": 0.98,
+     "adr": 71.6,
+     "kast": 77.8,
+     "rating": 1.0
+    }
+   ],
+   "ct": [
+    {
+     "player": 8374,
+     "nick": "bodyy",
+     "kills": 14,
+     "deaths": 14,
+     "swing": -0.9,
+     "adr": 82.4,
+     "kast": 55.6,
+     "rating": 1.02
+    },
+    {
+     "player": 21779,
+     "nick": "nut nut",
+     "kills": 7,
+     "deaths": 14,
+     "swing": -0.86,
+     "adr": 45.3,
+     "kast": 50.0,
+     "rating": 0.77
+    },
+    {
+     "player": 19064,
+     "nick": "spooke",
+     "kills": 9,
+     "deaths": 16,
+     "swing": -4.68,
+     "adr": 52.1,
+     "kast": 61.1,
+     "rating": 0.63
+    },
+    {
+     "player": 22481,
+     "nick": "Chucky",
+     "kills": 8,
+     "deaths": 15,
+     "swing": -3.37,
+     "adr": 45.3,
+     "kast": 55.6,
+     "rating": 0.6
+    },
+    {
+     "player": 19739,
+     "nick": "Ex3rcice",
+     "kills": 4,
+     "deaths": 17,
+     "swing": -10.56,
+     "adr": 44.3,
+     "kast": 50.0,
+     "rating": 0.37
+    },
+    {
+     "player": 22144,
+     "nick": "puuha",
+     "kills": 15,
+     "deaths": 13,
+     "swing": 7.52,
+     "adr": 89.9,
+     "kast": 75.0,
+     "rating": 1.68
+    },
+    {
+     "player": 19698,
+     "nick": "adamS",
+     "kills": 10,
+     "deaths": 12,
+     "swing": 1.67,
+     "adr": 68.7,
+     "kast": 68.8,
+     "rating": 1.12
+    },
+    {
+     "player": 25253,
+     "nick": "Joey",
+     "kills": 12,
+     "deaths": 14,
+     "swing": -7.2,
+     "adr": 78.1,
+     "kast": 68.8,
+     "rating": 0.87
+    },
+    {
+     "player": 25110,
+     "nick": "R4DYX",
+     "kills": 6,
+     "deaths": 11,
+     "swing": -2.31,
+     "adr": 37.8,
+     "kast": 75.0,
+     "rating": 0.77
+    },
+    {
+     "player": 20309,
+     "nick": "bnox",
+     "kills": 5,
+     "deaths": 13,
+     "swing": -11.37,
+     "adr": 68.3,
+     "kast": 50.0,
+     "rating": 0.46
+    }
+   ]
+  },
+  "de_nuke": {
+   "both": [
+    {
+     "player": 19739,
+     "nick": "Ex3rcice",
+     "kills": 26,
+     "deaths": 17,
+     "swing": -0.09,
+     "adr": 86.4,
+     "kast": 83.3,
+     "rating": 1.22
+    },
+    {
+     "player": 22481,
+     "nick": "Chucky",
+     "kills": 22,
+     "deaths": 19,
+     "swing": 0.23,
+     "adr": 71.5,
+     "kast": 76.7,
+     "rating": 1.07
+    },
+    {
+     "player": 8374,
+     "nick": "bodyy",
+     "kills": 20,
+     "deaths": 23,
+     "swing": -1.82,
+     "adr": 82.9,
+     "kast": 80.0,
+     "rating": 1.04
+    },
+    {
+     "player": 19064,
+     "nick": "spooke",
+     "kills": 20,
+     "deaths": 21,
+     "swing": -1.61,
+     "adr": 74.8,
+     "kast": 60.0,
+     "rating": 0.96
+    },
+    {
+     "player": 21779,
+     "nick": "nut nut",
+     "kills": 17,
+     "deaths": 15,
+     "swing": -4.09,
+     "adr": 60.7,
+     "kast": 80.0,
+     "rating": 0.92
+    },
+    {
+     "player": 22144,
+     "nick": "puuha",
+     "kills": 24,
+     "deaths": 19,
+     "swing": 3.1,
+     "adr": 89.6,
+     "kast": 73.3,
+     "rating": 1.46
+    },
+    {
+     "player": 25110,
+     "nick": "R4DYX",
+     "kills": 23,
+     "deaths": 19,
+     "swing": 2.57,
+     "adr": 76.6,
+     "kast": 66.7,
+     "rating": 1.23
+    },
+    {
+     "player": 20309,
+     "nick": "bnox",
+     "kills": 16,
+     "deaths": 21,
+     "swing": 2.8,
+     "adr": 62.7,
+     "kast": 70.0,
+     "rating": 1.09
+    },
+    {
+     "player": 25253,
+     "nick": "Joey",
+     "kills": 19,
+     "deaths": 24,
+     "swing": 0.16,
+     "adr": 64.1,
+     "kast": 60.0,
+     "rating": 0.94
+    },
+    {
+     "player": 19698,
+     "nick": "adamS",
+     "kills": 13,
+     "deaths": 22,
+     "swing": -1.25,
+     "adr": 55.2,
+     "kast": 60.0,
+     "rating": 0.79
+    }
+   ],
+   "t": [
+    {
+     "player": 19739,
+     "nick": "Ex3rcice",
+     "kills": 14,
+     "deaths": 7,
+     "swing": 1.57,
+     "adr": 99.8,
+     "kast": 93.3,
+     "rating": 1.45
+    },
+    {
+     "player": 21779,
+     "nick": "nut nut",
+     "kills": 13,
+     "deaths": 5,
+     "swing": 1.86,
+     "adr": 86.6,
+     "kast": 93.3,
+     "rating": 1.37
+    },
+    {
+     "player": 22481,
+     "nick": "Chucky",
+     "kills": 14,
+     "deaths": 7,
+     "swing": -1.4,
+     "adr": 86.7,
+     "kast": 86.7,
+     "rating": 1.09
+    },
+    {
+     "player": 19064,
+     "nick": "spooke",
+     "kills": 10,
+     "deaths": 9,
+     "swing": -1.62,
+     "adr": 74.1,
+     "kast": 73.3,
+     "rating": 0.89
+    },
+    {
+     "player": 8374,
+     "nick": "bodyy",
+     "kills": 9,
+     "deaths": 11,
+     "swing": -5.92,
+     "adr": 73.1,
+     "kast": 80.0,
+     "rating": 0.72
+    },
+    {
+     "player": 22144,
+     "nick": "puuha",
+     "kills": 18,
+     "deaths": 7,
+     "swing": 8.41,
+     "adr": 113.3,
+     "kast": 86.7,
+     "rating": 2.15
+    },
+    {
+     "player": 25253,
+     "nick": "Joey",
+     "kills": 14,
+     "deaths": 11,
+     "swing": 3.78,
+     "adr": 87.3,
+     "kast": 73.3,
+     "rating": 1.33
+    },
+    {
+     "player": 19698,
+     "nick": "adamS",
+     "kills": 11,
+     "deaths": 8,
+     "swing": 2.92,
+     "adr": 68.9,
+     "kast": 73.3,
+     "rating": 1.19
+    },
+    {
+     "player": 20309,
+     "nick": "bnox",
+     "kills": 6,
+     "deaths": 10,
+     "swing": 0.15,
+     "adr": 63.2,
+     "kast": 66.7,
+     "rating": 0.81
+    },
+    {
+     "player": 25110,
+     "nick": "R4DYX",
+     "kills": 7,
+     "deaths": 9,
+     "swing": -5.99,
+     "adr": 64.3,
+     "kast": 66.7,
+     "rating": 0.59
+    }
+   ],
+   "ct": [
+    {
+     "player": 8374,
+     "nick": "bodyy",
+     "kills": 11,
+     "deaths": 12,
+     "swing": 2.28,
+     "adr": 92.7,
+     "kast": 80.0,
+     "rating": 1.37
+    },
+    {
+     "player": 22481,
+     "nick": "Chucky",
+     "kills": 8,
+     "deaths": 12,
+     "swing": 1.86,
+     "adr": 56.3,
+     "kast": 66.7,
+     "rating": 1.04
+    },
+    {
+     "player": 19064,
+     "nick": "spooke",
+     "kills": 10,
+     "deaths": 12,
+     "swing": -1.6,
+     "adr": 75.5,
+     "kast": 46.7,
+     "rating": 1.02
+    },
+    {
+     "player": 19739,
+     "nick": "Ex3rcice",
+     "kills": 12,
+     "deaths": 10,
+     "swing": -1.75,
+     "adr": 72.9,
+     "kast": 73.3,
+     "rating": 1.0
+    },
+    {
+     "player": 21779,
+     "nick": "nut nut",
+     "kills": 4,
+     "deaths": 10,
+     "swing": -10.05,
+     "adr": 34.9,
+     "kast": 66.7,
+     "rating": 0.46
+    },
+    {
+     "player": 25110,
+     "nick": "R4DYX",
+     "kills": 16,
+     "deaths": 10,
+     "swing": 11.13,
+     "adr": 88.9,
+     "kast": 66.7,
+     "rating": 1.88
+    },
+    {
+     "player": 20309,
+     "nick": "bnox",
+     "kills": 10,
+     "deaths": 11,
+     "swing": 5.46,
+     "adr": 62.1,
+     "kast": 73.3,
+     "rating": 1.37
+    },
+    {
+     "player": 22144,
+     "nick": "puuha",
+     "kills": 6,
+     "deaths": 12,
+     "swing": -2.21,
+     "adr": 65.9,
+     "kast": 60.0,
+     "rating": 0.77
+    },
+    {
+     "player": 25253,
+     "nick": "Joey",
+     "kills": 5,
+     "deaths": 13,
+     "swing": -3.46,
+     "adr": 40.8,
+     "kast": 46.7,
+     "rating": 0.54
+    },
+    {
+     "player": 19698,
+     "nick": "adamS",
+     "kills": 2,
+     "deaths": 14,
+     "swing": -5.41,
+     "adr": 41.4,
+     "kast": 46.7,
+     "rating": 0.38
+    }
+   ]
   }
  },
  "mvp": null,
