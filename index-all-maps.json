@@ -1582,7 +1582,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2396948-m2-furia-vs-vitality-m2-cache.dem",
     "size": 421031663,
     "matchId": "hltv-2396948-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2396948-m2-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2396948-m2-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/FURIA-vs-Vitality-2026-09-04-Cache-hltv-2396948-m2-r3.nar",
+    "replaySize": 3103712
   },
   {
     "date": "2026-09-04",
