@@ -21,9 +21,10 @@ ROOT = Path(__file__).resolve().parents[2]
 OUT = ROOT / "rounds"
 MATCHES = OUT / "m"
 SKIPPED = OUT / "skipped.json"
+PLACES = Path(__file__).resolve().parent / "places"
 # Bumped when the facts change shape or meaning: every replay is read again.
-FORMAT = 1
-MAX_NEW = int(os.environ.get("ROUNDS_MAX_NEW", "80"))
+FORMAT = 2
+MAX_NEW = int(os.environ.get("ROUNDS_MAX_NEW", "200"))
 FIELDS = {"date": "date", "event": "event", "team1": "t1", "team2": "t2", "map": "map", "replay": "replay"}
 
 
@@ -90,7 +91,8 @@ def combine(list_):
         # How the facts were worked out, for anyone reading the file (see RoundIndex.kt).
         "about": {"buy": "0 pistol, 1 eco (<7000 team equipment at freeze end), 2 force, 3 full (>=17000 and >=3 rifles)",
                   "sides": "pairs are [CT, T]; 'al' is alive counts CT then T after each death",
-                  "why": "e bomb exploded, d defused, k elimination, t time ran out, s surrender"},
+                  "why": "e bomb exploded, d defused, k elimination, t time ran out, s surrender",
+                  "atk": "T play on Dust II / Mirage: k default (控图), rush (爆弹), split (夹击), rotate (转点), none; site; t seconds to the hit; via ways in"},
         "matches": matches,
     }
     text = json.dumps(doc, ensure_ascii=False, separators=(",", ":")) + "\n"
@@ -128,6 +130,7 @@ def main():
                     print(f"::warning::{e['matchId']}: replay could not be downloaded, will retry")
             (tmp / "jobs.tsv").write_text("".join(f"{e['matchId']}\t{nar}\t{e['team1']}\t{e['team2']}\n" for e, nar in jobs), "utf-8")
             facts = tmp / "facts"
+            os.environ.setdefault("ROUNDS_PLACES", str(PLACES))
             run = subprocess.run(["java", "-Xmx3g", "-cp", jar, "RoundIndexKt", str(facts), str(tmp / "jobs.tsv")], text=True, capture_output=True)
             print(run.stdout[-20000:]); print(run.stderr[-5000:], file=sys.stderr)
             for line in run.stdout.splitlines():
