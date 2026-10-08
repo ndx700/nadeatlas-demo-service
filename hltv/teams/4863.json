@@ -38,6 +38,28 @@
   }
  ],
  "events": [],
- "recent": [],
- "mapStats": {}
+ "recent": [
+  {
+   "matchId": 2398717,
+   "date": "2026-10-03",
+   "opponent": 4863,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8244,
+   "_side": 2
+  }
+ ],
+ "mapStats": {
+  "de_anubis": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_mirage": {
+   "played": 1,
+   "winPct": 0
+  }
+ }
 }

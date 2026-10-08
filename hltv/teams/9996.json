@@ -52,6 +52,18 @@
    "_side": 2
   },
   {
+   "matchId": 2397611,
+   "date": "2026-09-10",
+   "opponent": 5995,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 8266,
+   "_side": 1
+  },
+  {
    "matchId": 2396935,
    "date": "2026-08-29",
    "opponent": 9996,
@@ -77,16 +89,20 @@
   }
  ],
  "mapStats": {
+  "de_ancient": {
+   "played": 1,
+   "winPct": 0
+  },
   "de_cache": {
    "played": 1,
    "winPct": 0
   },
   "de_dust2": {
-   "played": 1,
-   "winPct": 0
+   "played": 2,
+   "winPct": 50
   },
   "de_inferno": {
-   "played": 1,
+   "played": 2,
    "winPct": 0
   },
   "de_nuke": {

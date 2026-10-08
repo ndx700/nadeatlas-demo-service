@@ -1,0 +1,37 @@
+{
+ "id": 8474,
+ "name": "100 Thieves",
+ "country": null,
+ "rankHltv": null,
+ "rankVrs": null,
+ "players": [],
+ "events": [],
+ "recent": [
+  {
+   "matchId": 2396005,
+   "date": "2026-07-23",
+   "opponent": 11283,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 9154,
+   "_side": 1
+  }
+ ],
+ "mapStats": {
+  "de_anubis": {
+   "played": 1,
+   "winPct": 100
+  },
+  "de_dust2": {
+   "played": 1,
+   "winPct": 100
+  },
+  "de_nuke": {
+   "played": 1,
+   "winPct": 0
+  }
+ }
+}

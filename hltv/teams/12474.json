@@ -38,6 +38,28 @@
   }
  ],
  "events": [],
- "recent": [],
- "mapStats": {}
+ "recent": [
+  {
+   "matchId": 2397608,
+   "date": "2026-09-09",
+   "opponent": 12474,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8266,
+   "_side": 2
+  }
+ ],
+ "mapStats": {
+  "de_dust2": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_inferno": {
+   "played": 1,
+   "winPct": 0
+  }
+ }
 }

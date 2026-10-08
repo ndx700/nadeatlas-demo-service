@@ -1,6 +1,6 @@
 {
- "id": 12895,
- "name": "K27",
+ "id": 13619,
+ "name": "BET-M",
  "country": null,
  "rankHltv": null,
  "rankVrs": null,
@@ -8,20 +8,20 @@
  "events": [],
  "recent": [
   {
-   "matchId": 2396563,
-   "date": "2026-08-12",
-   "opponent": 12895,
-   "bo": 1,
+   "matchId": 2398979,
+   "date": "2026-10-08",
+   "opponent": 13619,
+   "bo": 3,
    "score": [
     1,
     0
    ],
-   "eventId": 8261,
+   "eventId": 9408,
    "_side": 2
   }
  ],
  "mapStats": {
-  "de_dust2": {
+  "de_ancient": {
    "played": 1,
    "winPct": 0
   }

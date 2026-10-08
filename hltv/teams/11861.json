@@ -40,6 +40,30 @@
  "events": [],
  "recent": [
   {
+   "matchId": 2398743,
+   "date": "2026-10-06",
+   "opponent": 11861,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 8244,
+   "_side": 2
+  },
+  {
+   "matchId": 2398728,
+   "date": "2026-10-04",
+   "opponent": 11861,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8244,
+   "_side": 2
+  },
+  {
    "matchId": 2398108,
    "date": "2026-09-20",
    "opponent": 9565,
@@ -62,27 +86,55 @@
    ],
    "eventId": 8057,
    "_side": 1
+  },
+  {
+   "matchId": 2396944,
+   "date": "2026-08-31",
+   "opponent": 11861,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 8249,
+   "_side": 2
+  },
+  {
+   "matchId": 2396923,
+   "date": "2026-08-26",
+   "opponent": 5995,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8249,
+   "_side": 1
   }
  ],
  "mapStats": {
   "de_anubis": {
-   "played": 2,
+   "played": 4,
    "winPct": 50
   },
   "de_cache": {
    "played": 1,
    "winPct": 0
   },
-  "de_inferno": {
+  "de_dust2": {
    "played": 2,
-   "winPct": 50
-  },
-  "de_mirage": {
-   "played": 1,
    "winPct": 0
   },
+  "de_inferno": {
+   "played": 4,
+   "winPct": 25
+  },
+  "de_mirage": {
+   "played": 4,
+   "winPct": 25
+  },
   "de_nuke": {
-   "played": 1,
+   "played": 2,
    "winPct": 100
   }
  }

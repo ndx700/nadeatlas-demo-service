@@ -1,6 +1,6 @@
 {
- "id": 12895,
- "name": "K27",
+ "id": 13667,
+ "name": "NEXVOID",
  "country": null,
  "rankHltv": null,
  "rankVrs": null,
@@ -8,22 +8,22 @@
  "events": [],
  "recent": [
   {
-   "matchId": 2396563,
-   "date": "2026-08-12",
-   "opponent": 12895,
-   "bo": 1,
+   "matchId": 2399373,
+   "date": "2026-10-08",
+   "opponent": 12510,
+   "bo": 3,
    "score": [
     1,
     0
    ],
-   "eventId": 8261,
-   "_side": 2
+   "eventId": 9428,
+   "_side": 1
   }
  ],
  "mapStats": {
-  "de_dust2": {
+  "de_ancient": {
    "played": 1,
-   "winPct": 0
+   "winPct": 100
   }
  }
 }

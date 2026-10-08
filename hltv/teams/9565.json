@@ -76,6 +76,18 @@
    "_side": 1
   },
   {
+   "matchId": 2398107,
+   "date": "2026-09-20",
+   "opponent": 8297,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8057,
+   "_side": 1
+  },
+  {
    "matchId": 2398108,
    "date": "2026-09-20",
    "opponent": 9565,
@@ -88,8 +100,8 @@
    "_side": 2
   },
   {
-   "matchId": 2398107,
-   "date": "2026-09-20",
+   "matchId": 2398102,
+   "date": "2026-09-19",
    "opponent": 8297,
    "bo": 3,
    "score": [
@@ -110,18 +122,6 @@
    ],
    "eventId": 8057,
    "_side": 2
-  },
-  {
-   "matchId": 2398102,
-   "date": "2026-09-19",
-   "opponent": 8297,
-   "bo": 3,
-   "score": [
-    2,
-    0
-   ],
-   "eventId": 8057,
-   "_side": 1
   },
   {
    "matchId": 2398089,
@@ -170,6 +170,18 @@
    ],
    "eventId": 8249,
    "_side": 2
+  },
+  {
+   "matchId": 2396941,
+   "date": "2026-08-31",
+   "opponent": 12468,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 8249,
+   "_side": 1
   },
   {
    "matchId": 2396935,
@@ -230,20 +242,20 @@
    "winPct": 83
   },
   "de_dust2": {
-   "played": 9,
-   "winPct": 89
+   "played": 10,
+   "winPct": 90
   },
   "de_inferno": {
    "played": 2,
    "winPct": 50
   },
   "de_mirage": {
-   "played": 7,
-   "winPct": 71
+   "played": 8,
+   "winPct": 62
   },
   "de_nuke": {
-   "played": 5,
-   "winPct": 40
+   "played": 6,
+   "winPct": 50
   }
  }
 }

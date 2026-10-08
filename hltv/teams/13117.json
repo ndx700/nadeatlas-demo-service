@@ -40,6 +40,18 @@
  "events": [],
  "recent": [
   {
+   "matchId": 2396942,
+   "date": "2026-08-30",
+   "opponent": 13286,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8249,
+   "_side": 1
+  },
+  {
    "matchId": 2396936,
    "date": "2026-08-29",
    "opponent": 4494,
@@ -78,6 +90,10 @@
    "winPct": 100
   },
   "de_mirage": {
+   "played": 2,
+   "winPct": 0
+  },
+  "de_nuke": {
    "played": 1,
    "winPct": 0
   }
