@@ -1,0 +1,95 @@
+{
+ "id": 2399161,
+ "eventId": 9383,
+ "stage": null,
+ "time": "2026-10-08T21:00:00+08:00",
+ "bo": 3,
+ "status": "upcoming",
+ "team1": {
+  "id": 10287,
+  "score": null,
+  "players": []
+ },
+ "team2": {
+  "id": 13826,
+  "score": null,
+  "players": []
+ },
+ "maps": [],
+ "stats": {
+  "all": {
+   "both": [],
+   "t": [],
+   "ct": []
+  }
+ },
+ "mvp": null,
+ "highlight": null,
+ "h2h": {
+  "team1Wins": 1,
+  "team2Wins": 4,
+  "overtimes": 0,
+  "maps": [
+   {
+    "date": "2026-09-11",
+    "matchId": 2398083,
+    "eventId": null,
+    "event": "ESEA Open Season 58 Asia",
+    "map": "de_nuke",
+    "score": [
+     3,
+     13
+    ],
+    "winner": 13826
+   },
+   {
+    "date": "2026-09-11",
+    "matchId": 2398083,
+    "eventId": null,
+    "event": "ESEA Open Season 58 Asia",
+    "map": "de_dust2",
+    "score": [
+     7,
+     13
+    ],
+    "winner": 13826
+   },
+   {
+    "date": "2026-05-01",
+    "matchId": 2394064,
+    "eventId": null,
+    "event": "Hero Esports Asian Champions League 2026 Closed Qualifier",
+    "map": "de_ancient",
+    "score": [
+     5,
+     13
+    ],
+    "winner": 13826
+   },
+   {
+    "date": "2026-05-01",
+    "matchId": 2394064,
+    "eventId": null,
+    "event": "Hero Esports Asian Champions League 2026 Closed Qualifier",
+    "map": "de_inferno",
+    "score": [
+     13,
+     10
+    ],
+    "winner": 10287
+   },
+   {
+    "date": "2026-05-01",
+    "matchId": 2394064,
+    "eventId": null,
+    "event": "Hero Esports Asian Champions League 2026 Closed Qualifier",
+    "map": "de_nuke",
+    "score": [
+     10,
+     13
+    ],
+    "winner": 13826
+   }
+  ]
+ }
+}

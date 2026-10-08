@@ -1,0 +1,143 @@
+{
+ "id": 2399358,
+ "eventId": 9374,
+ "stage": null,
+ "time": "2026-10-08T21:00:00+08:00",
+ "bo": 3,
+ "status": "upcoming",
+ "team1": {
+  "id": 6089,
+  "score": null,
+  "players": []
+ },
+ "team2": {
+  "id": 13914,
+  "score": null,
+  "players": []
+ },
+ "maps": [],
+ "stats": {
+  "all": {
+   "both": [],
+   "t": [],
+   "ct": []
+  }
+ },
+ "mvp": null,
+ "highlight": null,
+ "h2h": {
+  "team1Wins": 8,
+  "team2Wins": 1,
+  "overtimes": 1,
+  "maps": [
+   {
+    "date": "2026-10-07",
+    "matchId": 2399342,
+    "eventId": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 8",
+    "map": "de_nuke",
+    "score": [
+     13,
+     8
+    ],
+    "winner": 6089
+   },
+   {
+    "date": "2026-10-07",
+    "matchId": 2399342,
+    "eventId": null,
+    "event": "ESL Challenger League Season 52 Europe Cup 8",
+    "map": "de_ancient",
+    "score": [
+     13,
+     11
+    ],
+    "winner": 6089
+   },
+   {
+    "date": "2026-08-21",
+    "matchId": 2396959,
+    "eventId": null,
+    "event": "UKIC Masters Fall 2026",
+    "map": "de_dust2",
+    "score": [
+     13,
+     9
+    ],
+    "winner": 6089
+   },
+   {
+    "date": "2026-08-21",
+    "matchId": 2396959,
+    "eventId": null,
+    "event": "UKIC Masters Fall 2026",
+    "map": "de_nuke",
+    "score": [
+     16,
+     14
+    ],
+    "winner": 6089
+   },
+   {
+    "date": "2026-07-19",
+    "matchId": 2396039,
+    "eventId": null,
+    "event": "Intel EPIC48",
+    "map": "de_dust2",
+    "score": [
+     13,
+     3
+    ],
+    "winner": 6089
+   },
+   {
+    "date": "2026-07-19",
+    "matchId": 2396039,
+    "eventId": null,
+    "event": "Intel EPIC48",
+    "map": "de_nuke",
+    "score": [
+     13,
+     10
+    ],
+    "winner": 6089
+   },
+   {
+    "date": "2026-07-19",
+    "matchId": 2396036,
+    "eventId": null,
+    "event": "Intel EPIC48",
+    "map": "de_cache",
+    "score": [
+     13,
+     6
+    ],
+    "winner": 6089
+   },
+   {
+    "date": "2026-07-19",
+    "matchId": 2396036,
+    "eventId": null,
+    "event": "Intel EPIC48",
+    "map": "de_ancient",
+    "score": [
+     7,
+     13
+    ],
+    "winner": 13914
+   },
+   {
+    "date": "2026-07-19",
+    "matchId": 2396036,
+    "eventId": null,
+    "event": "Intel EPIC48",
+    "map": "de_nuke",
+    "score": [
+     13,
+     10
+    ],
+    "winner": 6089
+   }
+  ]
+ }
+}

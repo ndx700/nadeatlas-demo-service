@@ -1,0 +1,59 @@
+{
+ "id": 2399361,
+ "eventId": 9374,
+ "stage": null,
+ "time": "2026-10-08T21:00:00+08:00",
+ "bo": 3,
+ "status": "upcoming",
+ "team1": {
+  "id": 4869,
+  "score": null,
+  "players": []
+ },
+ "team2": {
+  "id": 14084,
+  "score": null,
+  "players": []
+ },
+ "maps": [],
+ "stats": {
+  "all": {
+   "both": [],
+   "t": [],
+   "ct": []
+  }
+ },
+ "mvp": null,
+ "highlight": null,
+ "h2h": {
+  "team1Wins": 1,
+  "team2Wins": 1,
+  "overtimes": 0,
+  "maps": [
+   {
+    "date": "2026-09-08",
+    "matchId": 2397661,
+    "eventId": null,
+    "event": "NODWIN Clutch Series 12 Closed Qualifier",
+    "map": "de_cache",
+    "score": [
+     8,
+     13
+    ],
+    "winner": 14084
+   },
+   {
+    "date": "2026-09-08",
+    "matchId": 2397661,
+    "eventId": null,
+    "event": "NODWIN Clutch Series 12 Closed Qualifier",
+    "map": "de_mirage",
+    "score": [
+     13,
+     7
+    ],
+    "winner": 4869
+   }
+  ]
+ }
+}

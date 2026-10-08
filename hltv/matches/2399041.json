@@ -1,0 +1,34 @@
+{
+ "id": 2399041,
+ "eventId": 9318,
+ "stage": null,
+ "time": "2026-10-08T18:00:00+08:00",
+ "bo": 3,
+ "status": "upcoming",
+ "team1": {
+  "id": 10503,
+  "score": null,
+  "players": []
+ },
+ "team2": {
+  "id": 10333,
+  "score": null,
+  "players": []
+ },
+ "maps": [],
+ "stats": {
+  "all": {
+   "both": [],
+   "t": [],
+   "ct": []
+  }
+ },
+ "mvp": null,
+ "highlight": null,
+ "h2h": {
+  "team1Wins": 0,
+  "team2Wins": 0,
+  "overtimes": 0,
+  "maps": []
+ }
+}
