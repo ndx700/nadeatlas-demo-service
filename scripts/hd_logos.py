@@ -6,7 +6,7 @@ is one), and writes it trimmed and centred on a 512x512 transparent square to lo
 fills the same box. hltv/img/teams SVGs saved as .png.raw are rendered as a fallback. logos-hd/index.json records
 where each one came from; logos-hd/_sheet.png is a contact sheet for checking them by eye.
 """
-import glob, gzip, io, json, os, re, sys, time, urllib.parse, urllib.request
+import glob, gzip, urllib.error, io, json, os, re, sys, time, urllib.parse, urllib.request
 from PIL import Image, ImageDraw
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -19,15 +19,21 @@ last = [0.0]
 def slug(n): return "".join(c for c in n.lower() if c.isalnum())
 
 def get(url, api=False):
-    if api:
-        wait = 2.1 - (time.time() - last[0])
-        if wait > 0: time.sleep(wait)
-        last[0] = time.time()
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Encoding": "gzip"})
-    with urllib.request.urlopen(req, timeout=60) as r:
-        data = r.read()
-        if r.headers.get("Content-Encoding") == "gzip": data = gzip.decompress(data)
-        return data
+    for attempt in range(5):
+        if api:
+            wait = 4.0 - (time.time() - last[0])
+            if wait > 0: time.sleep(wait)
+            last[0] = time.time()
+        req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Encoding": "gzip"})
+        try:
+            with urllib.request.urlopen(req, timeout=60) as r:
+                data = r.read()
+                if r.headers.get("Content-Encoding") == "gzip": data = gzip.decompress(data)
+                return data
+        except urllib.error.HTTPError as e:
+            # Liquipedia asks for patience when it is asked too often: wait and try again.
+            if e.code != 429 or attempt == 4: raise
+            time.sleep(60 * (attempt + 1))
 
 def api(**p):
     p.update(format="json", formatversion="2")
@@ -136,7 +142,10 @@ def main():
         if s in old and os.path.exists(os.path.join(OUT, s + ".png")) and "--all" not in sys.argv:
             done[s] = old[s]; continue
         try:
-            page, img = logo_file(n)
+            try:
+                page, img = logo_file(n)
+            except Exception as e:
+                print("FAIL", n, repr(e)); page, img = None, None
             url = None
             if img:
                 for alt in ([img.replace("lightmode", "darkmode")] if "lightmode" in img else []) + [img]:
@@ -152,6 +161,8 @@ def main():
             if src:
                 done[s] = {"name": n, "id": teams[n], "page": page, "file": img, "source": src}
                 print("OK  ", n, "->", page, img)
+            elif s in old and os.path.exists(os.path.join(OUT, s + ".png")):
+                done[s] = old[s]; print("KEPT", n)
             else:
                 missing.append(n); print("MISS", n)
         except Exception as e:
