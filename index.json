@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-10-07",
+    "event": "ESL Pro League Season 24",
+    "team1": "Spirit",
+    "team2": "M80",
+    "score": "13-6",
+    "map": "de_dust2",
+    "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398749-m1-spirit-vs-m80-m1-dust2.dem",
+    "size": 334302547,
+    "matchId": "hltv-2398749-m1",
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398749-m1-stats.msgpack.gz"
+  },
+  {
     "date": "2026-10-06",
     "event": "ESL Pro League Season 24",
     "team1": "FURIA",
@@ -10,6 +22,18 @@
     "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/FURIA-vs-Aurora-2026-10-06-Dust2-hltv-2398743-m1-r3.nar",
     "replaySize": 2895896,
     "source": "cloud"
+  },
+  {
+    "date": "2026-10-06",
+    "event": "ESL Pro League Season 24",
+    "team1": "Legacy",
+    "team2": "M80",
+    "score": "7-13",
+    "map": "de_dust2",
+    "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398746-m3-legacy-vs-m80-m3-dust2.dem",
+    "size": 319796456,
+    "matchId": "hltv-2398746-m3",
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398746-m3-stats.msgpack.gz"
   },
   {
     "date": "2026-10-05",
@@ -36,6 +60,30 @@
     "source": "cloud"
   },
   {
+    "date": "2026-10-05",
+    "event": "ESL Pro League Season 24",
+    "team1": "Legacy",
+    "team2": "1win",
+    "score": "13-8",
+    "map": "de_dust2",
+    "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398736-m1-legacy-vs-1win-m1-dust2.dem",
+    "size": 351711631,
+    "matchId": "hltv-2398736-m1",
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398736-m1-stats.msgpack.gz"
+  },
+  {
+    "date": "2026-10-05",
+    "event": "ESL Pro League Season 24",
+    "team1": "ShindeN",
+    "team2": "G2",
+    "score": "6-13",
+    "map": "de_dust2",
+    "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398734-m1-shinden-vs-g2-m1-dust2.dem",
+    "size": 326837156,
+    "matchId": "hltv-2398734-m1",
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398734-m1-stats.msgpack.gz"
+  },
+  {
     "date": "2026-10-04",
     "event": "ESL Pro League Season 24",
     "team1": "Falcons",
@@ -60,6 +108,30 @@
     "source": "cloud"
   },
   {
+    "date": "2026-10-04",
+    "event": "ESL Pro League Season 24",
+    "team1": "G2",
+    "team2": "1win",
+    "score": "13-11",
+    "map": "de_dust2",
+    "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398730-m1-p1-g2-vs-1win-m1-dust2-p1.dem",
+    "size": 152303644,
+    "matchId": "hltv-2398730-m1",
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398730-m1-stats.msgpack.gz"
+  },
+  {
+    "date": "2026-10-04",
+    "event": "ESL Pro League Season 24",
+    "team1": "Falcons",
+    "team2": "Aurora",
+    "score": "13-10",
+    "map": "de_dust2",
+    "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398728-m2-falcons-vs-aurora-m2-dust2.dem",
+    "size": 366590664,
+    "matchId": "hltv-2398728-m2",
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398728-m2-stats.msgpack.gz"
+  },
+  {
     "date": "2026-10-03",
     "event": "ESL Pro League Season 24",
     "team1": "Spirit",
@@ -82,6 +154,30 @@
     "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Vitality-vs-1win-2026-10-03-Dust2-hltv-2398719-m1-r3.nar",
     "replaySize": 1635797,
     "source": "cloud"
+  },
+  {
+    "date": "2026-10-03",
+    "event": "ESL Pro League Season 24",
+    "team1": "Aurora",
+    "team2": "9z",
+    "score": "3-13",
+    "map": "de_dust2",
+    "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398721-m1-aurora-vs-9z-m1-dust2.dem",
+    "size": 286732418,
+    "matchId": "hltv-2398721-m1",
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398721-m1-stats.msgpack.gz"
+  },
+  {
+    "date": "2026-10-03",
+    "event": "ESL Pro League Season 24",
+    "team1": "Legacy",
+    "team2": "PARIVISION",
+    "score": "5-13",
+    "map": "de_dust2",
+    "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398718-m1-legacy-vs-parivision-m1-dust2.dem",
+    "size": 302418217,
+    "matchId": "hltv-2398718-m1",
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398718-m1-stats.msgpack.gz"
   },
   {
     "date": "2026-09-18",
