@@ -1,5 +1,5 @@
 // The app's Vec3 (domain/Models.kt), as much of it as the vendored reader needs.
-package com.ali.cs2utility.replay
+package com.ali.cs2utility.domain
 
 import kotlin.math.sqrt
 

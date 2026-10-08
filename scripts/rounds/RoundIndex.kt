@@ -11,7 +11,9 @@
 // kit, grenades at buy-menu prices). Pistol rounds are the first of each half (rounds 1 and 13); otherwise under $7,000
 // is an eco, $17,000 or more with at least three rifles ($2,700 and up: AK, M4, AUG, SG, AWP, autos) a full buy, and
 // anything between a force buy.
+import com.ali.cs2utility.replay.Callouts
 import com.ali.cs2utility.replay.Replay
+import com.ali.cs2utility.replay.Tactic
 import java.io.File
 import kotlin.math.hypot
 
@@ -44,24 +46,6 @@ private fun equipment(r: Replay.Round, slot: Int, i: Int): Int {
     return v
 }
 
-/**
- * Which bomb site a plant at Source position ([x], [y], [z]) is on. The replay keeps where the planter stood, not the
- * site, so each map's two sites are told apart by one coordinate: every plant in the library falls into two clear
- * clusters either side of these lines. Which cluster is A comes from the map layouts: Dust II, Mirage, Inferno and
- * Nuke are certain; on Ancient A is the site nearer CT spawn, on Anubis and Cache B is (less certain: check these
- * three against a replay if a site looks swapped). Empty for a map not listed.
- */
-fun site(map: String, x: Float, y: Float, z: Float): String = when {
-    map.contains("dust2") -> if (x > -300f) "A" else "B"
-    map.contains("mirage") -> if (y < -800f) "A" else "B"
-    map.contains("inferno") -> if (y < 1500f) "A" else "B"
-    map.contains("nuke") -> if (z > -600f) "A" else "B"
-    map.contains("ancient") -> if (x < -300f) "A" else "B"
-    map.contains("anubis") -> if (x > -100f) "A" else "B"
-    map.contains("cache") -> if (y < 0f) "A" else "B"
-    else -> ""
-}
-
 private fun norm(s: String) = s.lowercase().replace(Regex("[^a-z0-9]"), "").removePrefix("team").removeSuffix("esports").removeSuffix("gaming")
 /** How alike an in-game clan name is to a team's listed name: 3 the same, 2 one inside the other, 1 same start, 0 nothing. */
 fun alike(clan: String, team: String): Int {
@@ -74,100 +58,21 @@ private fun q(s: String) = buildString {
     append('"'); for (ch in s) when (ch) { '"' -> append("\\\""); '\\' -> append("\\\\"); '\n' -> append("\\n"); else -> if (ch < ' ') append(' ') else append(ch) }; append('"')
 }
 
-/**
- * How a map is laid out for reading the attackers' play, in the app's own place names ([Callouts]): which places are each
- * bomb site, which approach each other place belongs to, and where being means a side has committed to a site.
- */
-private class Layout(val sites: Map<String, Set<String>>, val routes: Map<String, String>, val commit: Map<String, Set<String>>)
-
-private val LAYOUTS = mapOf(
-    // Dust II's sites as replay/Analysis.kt draws them, its approaches as Analysis.plan names them.
-    "dust2" to Layout(
-        mapOf("A" to setOf("A包点", "A平台", "A大过点"), "B" to setOf("B包点", "B窗")),
-        mapOf("A大" to "A大", "蓝车" to "A大", "A大门" to "A大", "A外" to "A大", "A小" to "A小", "Xbox" to "A小",
-            "B洞口" to "B洞", "B2" to "B洞", "B1" to "B洞", "后花园" to "B洞", "中门" to "中路", "警家中路" to "中路", "B门" to "中路"),
-        mapOf("A" to setOf("A大", "蓝车", "A小"), "B" to setOf("B洞口", "B门"))),
-    // Mirage's places are the map's own (env_cs_place); A main is A1 and A2通道, palace A2楼, apartments B二楼/B2/B通道.
-    "mirage" to Layout(
-        mapOf("A" to setOf("A包点", "脚手架"), "B" to setOf("B包点", "B卡车")),
-        mapOf("A1" to "A大", "A2通道" to "A大", "A2楼" to "二楼", "Jungle" to "中路", "A楼梯" to "中路", "拱门" to "中路", "中路" to "中路",
-            "中路匪口" to "中路", "下水道" to "中路", "B二楼" to "B二楼", "B2" to "B二楼", "B通道" to "B二楼", "B小" to "B小", "黑屋" to "B小", "VIP" to "B小"),
-        mapOf("A" to setOf("A1", "A2通道", "A2楼"), "B" to setOf("B二楼", "B小"))))
-
 /** Mirage's place boxes, read once from places/de_mirage.json (the app's assets/maps/mirage/places.json). */
-private val miragePlaces: List<com.ali.cs2utility.replay.Callouts.Place> by lazy {
+private val miragePlaces: List<Callouts.Place> by lazy {
     val text = File(System.getenv("ROUNDS_PLACES") ?: "places", "de_mirage.json").readText()
     Regex("\"name\":\\s*\"([^\"]+)\",\\s*\"box\":\\s*\\[([^\\]]+)]").findAll(text.substringBefore("\"sites\"")).map { m ->
         val b = m.groupValues[2].split(',').map { it.trim().toFloat() }
-        com.ali.cs2utility.replay.Callouts.Place(m.groupValues[1], b[0], b[1], b[4], b[5])
+        Callouts.Place(m.groupValues[1], b[0], b[1], b[4], b[5])
     }.toList()
 }
 
-/** Points [Callouts] at [map]'s place names; the layout to read it with, or null for a map the app has no names for. */
-private fun layout(map: String): Layout? {
-    val key = LAYOUTS.keys.firstOrNull { map.contains(it) } ?: return null
-    com.ali.cs2utility.replay.Callouts.use(if (key == "dust2") null else miragePlaces)
-    return LAYOUTS[key]
-}
-
-/**
- * How the attackers (T) played the round, read from where they were every half second from the end of freeze time
- * until the bomb went down (or the round was decided):
- *  - the target is the plant's site, else the site at least two of them set foot on (the one more of them did), else none;
- *  - their hit is the first time one of them stood on the target site, with everyone who got there within 12 s of it;
- *  - each one's way in is the approach of the last place on one of the map's approaches they passed in the 20 s before
- *    stepping on the site (places off every approach, like CT spawn, are passed over);
- *  - "rotate" (转点): at some moment from 10 s after freeze time to 4 s before the hit, three or more of them were alive
- *    on the other site or its last approaches;
- *  - else "split" (夹击): three or more in the hit, through two or more ways in;
- *  - else "rush" (爆弹): three of them (or all alive, if fewer) on the site within 40 s of freeze time ending;
- *  - else "default" (控图): a slower round that hit the site later;
- *  - "none": nobody went onto a site. The JSON gives the class, the site, the hit's second and the ways in.
- */
-private fun attack(rp: Replay, r: Replay.Round, plantSite: String, plantTick: Int, lay: Layout): String {
-    val n = r.slots; val rate = rp.tickRate
-    val until = if (plantTick > 0) plantTick else r.decided
-    val ts = (0 until n).filter { r.team[it] == 2 }
-    // Where each attacker was, sample by sample: (tick, place) while alive.
-    val track = ts.associateWith { ArrayList<Pair<Int, String>>() }
-    var i = r.sampleAt(r.freezeEnd.toFloat())
-    while (i < r.ticks.size && r.ticks[i] <= until) {
-        for (s in ts) { val o = i * n + s
-            if (r.flags[o].toInt() and (Replay.PRESENT or Replay.ALIVE) == (Replay.PRESENT or Replay.ALIVE))
-                track[s]!!.add(r.ticks[i] to com.ali.cs2utility.replay.Callouts.near(r.x[o], r.z[o])) }
-        i += 8
-    }
-    fun entries(site: String) = ts.mapNotNull { s -> track[s]!!.firstOrNull { it.second in lay.sites[site]!! }?.let { s to it.first } }
-    val target = plantSite.takeIf { it == "A" || it == "B" }
-        ?: listOf("A", "B").map { it to entries(it).size }.filter { it.second >= 2 }.maxByOrNull { it.second }?.first
-        ?: return "{\"k\":\"none\"}"
-    val entered = entries(target).sortedBy { it.second }
-    if (entered.isEmpty()) return "{\"k\":\"none\",\"site\":${q(target)}}"
-    val hit = entered[0].second
-    val group = entered.filter { it.second <= hit + rate * 12f }
-    fun way(s: Int, tick: Int): String? = track[s]!!.lastOrNull { it.first < tick && it.first >= tick - rate * 20f && it.second in lay.routes }
-        ?.second?.let { lay.routes[it] }
-    val ways = group.mapNotNull { way(it.first, it.second) }.distinct()
-    val other = if (target == "A") "B" else "A"
-    val near = lay.commit[other]!! + lay.sites[other]!!
-    var rotated = false
-    i = r.sampleAt(r.freezeEnd + rate * 10f)
-    while (!rotated && i < r.ticks.size && r.ticks[i] <= hit - rate * 4f) {
-        var count = 0
-        for (s in ts) { val o = i * n + s
-            if (r.flags[o].toInt() and (Replay.PRESENT or Replay.ALIVE) == (Replay.PRESENT or Replay.ALIVE) && com.ali.cs2utility.replay.Callouts.near(r.x[o], r.z[o]) in near) count++ }
-        if (count >= 3) rotated = true
-        i += 8
-    }
-    val aliveAtStart = ts.count { track[it]!!.isNotEmpty() }
-    val early = entered.count { it.second <= r.freezeEnd + rate * 40f }
-    val kind = when {
-        rotated -> "rotate"
-        group.size >= 3 && ways.size >= 2 -> "split"
-        early >= minOf(3, aliveAtStart.coerceAtLeast(1)) -> "rush"
-        else -> "default"
-    }
-    return "{\"k\":${q(kind)},\"site\":${q(target)},\"t\":${((hit - r.freezeEnd) / rate).toInt().coerceAtLeast(0)},\"via\":[${ways.joinToString(",") { q(it) }}]}"
+/** The play of [r] as JSON ([Tactic]): its kind's id, site, the second of the hit and the ways in. */
+private fun attack(rp: Replay, r: Replay.Round): String {
+    val p = Tactic.read(rp, r)
+    if (p.kind == Tactic.Kind.NONE && p.site.isEmpty()) return "{\"k\":\"none\"}"
+    if (p.kind == Tactic.Kind.NONE) return "{\"k\":\"none\",\"site\":${q(p.site)}}"
+    return "{\"k\":${q(p.kind.id)},\"site\":${q(p.site)},\"t\":${p.seconds},\"via\":[${p.via.joinToString(",") { q(it) }}]}"
 }
 
 /** Every round's facts, as the JSON written for one match; the warnings found on the way go to [warn]. */
@@ -200,7 +105,9 @@ fun facts(rp: Replay, team1: String, team2: String, warn: (String) -> Unit): Str
     if (vote == 0) warn("cannot tell which side is $team1 (clans '$clan1' / '$clan2'); team left unknown")
     fun teamOf(group: Int) = if (vote == 0) 0 else if ((group == 1) != swapped) 1 else 2
 
-    val lay = layout(rp.map)
+    // The place names the attackers' play is read in: Dust II's own list, Mirage's boxes; other maps have none.
+    if (rp.map.contains("mirage")) Callouts.use(miragePlaces) else Callouts.use(null)
+    val lay = Tactic.layout(rp.map)
     val out = StringBuilder()
     out.append("{\"clans\":[").append(q(if (swapped) clan2 else clan1)).append(',').append(q(if (swapped) clan1 else clan2)).append("],\"rounds\":[")
     for ((li, r) in rounds.withIndex()) {
@@ -257,8 +164,8 @@ fun facts(rp: Replay, team1: String, team2: String, warn: (String) -> Unit): Str
             .append(",\"eq\":[[").append(gear[0].sorted().joinToString(",")).append("],[").append(gear[1].sorted().joinToString(",")).append("]]")
             .append(",\"al\":").append(q(states.toString()))
             .append(",\"t\":").append(((r.decided - r.freezeEnd) / rp.tickRate).toInt().coerceAtLeast(0))
-        val plantSite = plant?.let { site(rp.map, it.position.x / Replay.UNIT, -it.position.z / Replay.UNIT, it.position.y / Replay.UNIT) }.orEmpty()
-        if (lay != null) out.append(",\"atk\":").append(attack(rp, r, plantSite, plant?.tick ?: 0, lay))
+        val plantSite = plant?.let { Tactic.bombSite(rp.map, it.position) }.orEmpty()
+        if (lay != null) out.append(",\"atk\":").append(attack(rp, r))
         if (plant != null) {
             val p = plant.position
             // Back to Source units: the reader turns them into display metres with Y up.

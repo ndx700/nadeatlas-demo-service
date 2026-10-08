@@ -92,7 +92,7 @@ def combine(list_):
         "about": {"buy": "0 pistol, 1 eco (<7000 team equipment at freeze end), 2 force, 3 full (>=17000 and >=3 rifles)",
                   "sides": "pairs are [CT, T]; 'al' is alive counts CT then T after each death",
                   "why": "e bomb exploded, d defused, k elimination, t time ran out, s surrender",
-                  "atk": "T play on Dust II / Mirage: k default (控图), rush (爆弹), split (夹击), rotate (转点), none; site; t seconds to the hit; via ways in"},
+                  "atk": "T play on Dust II / Mirage (the app's Tactic.kt): k default 控图, rush 爆弹, split 夹击, rotate 转点, none 未进攻; shown as '<site> <name>' e.g. 'A 爆弹'; t seconds to the hit; via ways in"},
         "matches": matches,
     }
     text = json.dumps(doc, ensure_ascii=False, separators=(",", ":")) + "\n"

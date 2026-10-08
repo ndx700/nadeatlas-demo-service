@@ -3,6 +3,7 @@
 // (Round.reason). Copy it again when the app changes the format.
 package com.ali.cs2utility.replay
 
+import com.ali.cs2utility.domain.Vec3
 import java.io.DataInputStream
 import java.io.InputStream
 import java.util.zip.GZIPInputStream

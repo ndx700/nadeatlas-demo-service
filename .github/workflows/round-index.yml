@@ -43,7 +43,7 @@ jobs:
         run: |
           curl -sSL --retry 3 -o /tmp/kc.zip https://github.com/JetBrains/kotlin/releases/download/v2.0.21/kotlin-compiler-2.0.21.zip
           unzip -q /tmp/kc.zip -d /tmp
-          cd scripts/rounds && /tmp/kotlinc/bin/kotlinc -nowarn Replay.kt Vec3.kt Callouts.kt RoundIndex.kt -include-runtime -d /tmp/rounds.jar
+          cd scripts/rounds && /tmp/kotlinc/bin/kotlinc -nowarn Replay.kt Vec3.kt Callouts.kt Tactic.kt RoundIndex.kt -include-runtime -d /tmp/rounds.jar
       - name: Index new replays
         id: index
         if: steps.check.outputs.pending != '0'
