@@ -1,1 +1,51 @@
-{}
+{
+ "astralis": {
+  "file": "Astralis 2020 full allmode.png",
+  "id": 6665,
+  "name": "Astralis",
+  "page": "Astralis",
+  "source": "hltv svg"
+ },
+ "envy": {
+  "file": "ENVY 2025 full darkmode.png",
+  "id": 5991,
+  "name": "Envy",
+  "page": "ENVY",
+  "source": "hltv svg"
+ },
+ "furia": {
+  "file": "FURIA Esports full darkmode.png",
+  "id": 8297,
+  "name": "FURIA",
+  "page": "FURIA",
+  "source": "hltv svg"
+ },
+ "liquid": {
+  "file": "Team Liquid 2024 full darkmode.png",
+  "id": 5973,
+  "name": "Liquid",
+  "page": "Team Liquid",
+  "source": "hltv svg"
+ },
+ "mouz": {
+  "file": "MOUZ full allmode.png",
+  "id": 4494,
+  "name": "MOUZ",
+  "page": "MOUZ",
+  "source": "hltv svg"
+ },
+ "natusvincere": {
+  "file": "Natus Vincere 2021 allmode.png",
+  "id": 4608,
+  "name": "Natus Vincere",
+  "page": "Natus Vincere",
+  "source": "hltv svg"
+ },
+ "tyloo": {
+  "file": "TyLoo 2016 allmode.png",
+  "id": 4863,
+  "name": "TYLOO",
+  "page": "TYLOO",
+  "source": "hltv svg"
+ }
+}
