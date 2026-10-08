@@ -1,0 +1,42 @@
+name: Purge jsDelivr cache
+# After every push that changes the team library data (or the HD crests), ask jsDelivr to drop its copy of each
+# changed file, so the app sees the new data within a minute instead of after jsDelivr's own cache runs out.
+on:
+  push:
+    branches: [main]
+    paths: ['hltv/**', 'logos-hd/**', 'team_logos.json']
+  workflow_run:
+    workflows: ['HD team logos']
+    types: [completed]
+  workflow_dispatch:
+concurrency:
+  group: purge-cdn
+  cancel-in-progress: false
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 30
+      - name: Purge changed files
+        env:
+          BEFORE: ${{ github.event.before }}
+        run: |
+          set +e
+          if [ "${{ github.event_name }}" = "push" ] && git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
+            git diff --name-only "$BEFORE" HEAD -- hltv logos-hd team_logos.json > files.txt
+          else
+            git diff --name-only HEAD~20 HEAD -- hltv logos-hd team_logos.json > files.txt 2>/dev/null || git ls-files hltv logos-hd > files.txt
+          fi
+          # The index first: it is what the app reads to learn anything changed.
+          { grep -x 'hltv/index.json' files.txt; grep -vx 'hltv/index.json' files.txt; } | awk '!seen[$0]++' > order.txt
+          echo "$(wc -l < order.txt) files to purge"
+          ok=0; bad=0
+          while read -r f; do
+            [ -z "$f" ] && continue
+            code=$(curl -s -o /dev/null -w '%{http_code}' -m 20 "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/$f")
+            if [ "$code" = "200" ]; then ok=$((ok+1)); else bad=$((bad+1)); echo "purge $f -> $code"; fi
+            sleep 0.3
+          done < order.txt
+          echo "::notice::purged $ok files, $bad failed"
