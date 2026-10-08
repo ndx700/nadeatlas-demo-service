@@ -1279,8 +1279,8 @@
     "size": 376264326,
     "matchId": "hltv-2397605-m1",
     "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2397605-m1.msgpack.gz",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/BIG-vs-G2-2026-09-09-Cache-hltv-2397605-m1-r2.nar",
-    "replaySize": 2565272
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/BIG-vs-G2-2026-09-09-Cache-hltv-2397605-m1-r3.nar",
+    "replaySize": 2637975
   },
   {
     "date": "2026-09-09",
@@ -1307,8 +1307,8 @@
     "size": 408520317,
     "matchId": "hltv-2397605-m3",
     "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2397605-m3.msgpack.gz",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/BIG-vs-G2-2026-09-09-Ancient-hltv-2397605-m3-r2.nar",
-    "replaySize": 2565087
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/BIG-vs-G2-2026-09-09-Ancient-hltv-2397605-m3-r3.nar",
+    "replaySize": 2660699
   },
   {
     "date": "2026-09-09",
@@ -1321,8 +1321,8 @@
     "size": 303406388,
     "matchId": "hltv-2397608-m1",
     "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2397608-m1-stats.msgpack.gz",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Legacy-vs-Alliance-2026-09-09-Inferno-hltv-2397608-m1-r2.nar",
-    "replaySize": 1862380
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Legacy-vs-Alliance-2026-09-09-Inferno-hltv-2397608-m1-r3.nar",
+    "replaySize": 1934212
   },
   {
     "date": "2026-09-09",
@@ -1349,8 +1349,8 @@
     "size": 331726034,
     "matchId": "hltv-2397604-m2",
     "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2397604-m2.msgpack.gz",
-    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/9z-vs-MIBR-2026-09-09-Nuke-hltv-2397604-m2-r2.nar",
-    "replaySize": 2336870
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/9z-vs-MIBR-2026-09-09-Nuke-hltv-2397604-m2-r3.nar",
+    "replaySize": 2404702
   },
   {
     "date": "2026-09-09",
@@ -1362,7 +1362,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2397603-m1-5star-vs-the-mongolz-m1-inferno.dem",
     "size": 403172117,
     "matchId": "hltv-2397603-m1",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2397603-m1-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2397603-m1-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/5star-vs-The-MongolZ-2026-09-09-Inferno-hltv-2397603-m1-r3.nar",
+    "replaySize": 2465310
   },
   {
     "date": "2026-09-09",
@@ -1374,7 +1376,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2397603-m2-5star-vs-the-mongolz-m2-nuke.dem",
     "size": 420037586,
     "matchId": "hltv-2397603-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2397603-m2-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2397603-m2-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/5star-vs-The-MongolZ-2026-09-09-Nuke-hltv-2397603-m2-r3.nar",
+    "replaySize": 2774197
   },
   {
     "date": "2026-09-09",
@@ -1386,7 +1390,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2397607-m1-magic-vs-faze-m1-ancient.dem",
     "size": 536324206,
     "matchId": "hltv-2397607-m1",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2397607-m1-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2397607-m1-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/magic-vs-FaZe-2026-09-09-Ancient-hltv-2397607-m1-r3.nar",
+    "replaySize": 3716561
   },
   {
     "date": "2026-09-09",
@@ -1398,7 +1404,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2397607-m3-magic-vs-faze-m3-cache.dem",
     "size": 642848151,
     "matchId": "hltv-2397607-m3",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2397607-m3-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2397607-m3-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/magic-vs-FaZe-2026-09-09-Cache-hltv-2397607-m3-r3.nar",
+    "replaySize": 4611608
   },
   {
     "date": "2026-09-08",
@@ -1410,7 +1418,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2397599-m1-g2-vs-astralis-m1-ancient.dem",
     "size": 384277523,
     "matchId": "hltv-2397599-m1",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2397599-m1.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/reparse-2026-09-15-client2000908-r2-hltv-2397599-m1.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/G2-vs-Astralis-2026-09-08-Ancient-hltv-2397599-m1-r3.nar",
+    "replaySize": 2789219
   },
   {
     "date": "2026-09-06",
@@ -1449,7 +1459,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2396951-m3-spirit-vs-mouz-m3-ancient.dem",
     "size": 275946444,
     "matchId": "hltv-2396951-m3",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2396951-m3-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2396951-m3-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Spirit-vs-MOUZ-2026-09-06-Ancient-hltv-2396951-m3-r3.nar",
+    "replaySize": 1897095
   },
   {
     "date": "2026-09-06",
@@ -1461,7 +1473,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2396951-m4-spirit-vs-mouz-m4-nuke.dem",
     "size": 306989430,
     "matchId": "hltv-2396951-m4",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2396951-m4-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2396951-m4-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Spirit-vs-MOUZ-2026-09-06-Nuke-hltv-2396951-m4-r3.nar",
+    "replaySize": 2264347
   },
   {
     "date": "2026-09-05",
@@ -1554,7 +1568,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2396948-m1-furia-vs-vitality-m1-nuke.dem",
     "size": 300557216,
     "matchId": "hltv-2396948-m1",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2396948-m1-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2396948-m1-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/FURIA-vs-Vitality-2026-09-04-Nuke-hltv-2396948-m1-r3.nar",
+    "replaySize": 2071651
   },
   {
     "date": "2026-09-04",
