@@ -11,17 +11,6 @@
  ],
  "recent": [
   {
-   "matchId": 2399372,
-   "date": "2026-10-08",
-   "opponent": 13724,
-   "bo": 3,
-   "score": [
-    1,
-    2
-   ],
-   "eventId": 9428
-  },
-  {
    "matchId": 2399155,
    "date": "2026-10-08",
    "opponent": 8840,
@@ -31,6 +20,17 @@
     0
    ],
    "eventId": 9383
+  },
+  {
+   "matchId": 2399372,
+   "date": "2026-10-08",
+   "opponent": 13724,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 9428
   }
  ],
  "mapStats": {
