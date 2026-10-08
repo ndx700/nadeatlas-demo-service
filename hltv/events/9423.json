@@ -6,164 +6,146 @@
  "status": "upcoming",
  "location": "Brisbane, Australia",
  "prize": "$7,111",
- "playoffs": [
+ "playoffs": [],
+ "lower": [],
+ "groups": [
   {
-   "round": "Opening round",
+   "name": "Group A",
    "matches": [
     {
      "matchId": null,
      "time": null,
      "bo": 1,
-     "team1": "THUNDER dOWNUNDER",
-     "team2": "BGNS Orange",
+     "team1": null,
+     "team2": null,
      "score": [
       null,
       null
      ],
-     "winner": null
+     "winner": null,
+     "round": "Opening round"
+    },
+    {
+     "matchId": 2399235,
+     "time": "2026-10-10T07:30:00+08:00",
+     "bo": 1,
+     "team1": 8536,
+     "team2": 12152,
+     "score": [
+      null,
+      null
+     ],
+     "winner": null,
+     "round": "Opening round"
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": 3,
+     "team1": null,
+     "team2": null,
+     "score": [
+      null,
+      null
+     ],
+     "winner": null,
+     "round": "Winners' match"
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": 3,
+     "team1": null,
+     "team2": null,
+     "score": [
+      null,
+      null
+     ],
+     "winner": null,
+     "round": "Elimination match"
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": 3,
+     "team1": null,
+     "team2": null,
+     "score": [
+      null,
+      null
+     ],
+     "winner": null,
+     "round": "Decider match"
+    }
+   ]
+  },
+  {
+   "name": "Group B",
+   "matches": [
+    {
+     "matchId": null,
+     "time": null,
+     "bo": 1,
+     "team1": null,
+     "team2": 9275,
+     "score": [
+      null,
+      null
+     ],
+     "winner": null,
+     "round": "Opening round"
     },
     {
      "matchId": null,
      "time": null,
      "bo": 1,
-     "team1": "Ground Zero",
-     "team2": "KZG",
+     "team1": null,
+     "team2": null,
      "score": [
       null,
       null
      ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Winners' match",
-   "matches": [
-    {
-     "matchId": null,
-     "time": null,
-     "bo": 3,
-     "team1": "TBD",
-     "team2": "TBD",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Elimination match",
-   "matches": [
-    {
-     "matchId": null,
-     "time": null,
-     "bo": 3,
-     "team1": "TBD",
-     "team2": "TBD",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Decider match",
-   "matches": [
-    {
-     "matchId": null,
-     "time": null,
-     "bo": 3,
-     "team1": "TBD",
-     "team2": "TBD",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Opening round",
-   "matches": [
-    {
-     "matchId": null,
-     "time": null,
-     "bo": 1,
-     "team1": "FlyQuest",
-     "team2": "madlikewizards",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
+     "winner": null,
+     "round": "Opening round"
     },
     {
      "matchId": null,
      "time": null,
-     "bo": 1,
-     "team1": "Mindfreak",
-     "team2": "Abyssal",
+     "bo": 3,
+     "team1": null,
+     "team2": null,
      "score": [
       null,
       null
      ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Winners' match",
-   "matches": [
+     "winner": null,
+     "round": "Winners' match"
+    },
     {
      "matchId": null,
      "time": null,
      "bo": 3,
-     "team1": "TBD",
-     "team2": "TBD",
+     "team1": null,
+     "team2": null,
      "score": [
       null,
       null
      ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Elimination match",
-   "matches": [
+     "winner": null,
+     "round": "Elimination match"
+    },
     {
      "matchId": null,
      "time": null,
      "bo": 3,
-     "team1": "TBD",
-     "team2": "TBD",
+     "team1": null,
+     "team2": null,
      "score": [
       null,
       null
      ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Decider match",
-   "matches": [
-    {
-     "matchId": null,
-     "time": null,
-     "bo": 3,
-     "team1": "TBD",
-     "team2": "TBD",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
+     "winner": null,
+     "round": "Decider match"
     }
    ]
   }

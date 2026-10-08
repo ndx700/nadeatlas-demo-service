@@ -1,7 +1,7 @@
 {
  "id": 2396949,
  "eventId": 8249,
- "stage": null,
+ "stage": "Semi-finals",
  "time": "2026-09-05T22:00:00+08:00",
  "bo": 3,
  "status": "finished",
@@ -79,7 +79,7 @@
    "both": [
     {
      "player": 16920,
-     "nick": "Dmitry 'sh1ro' Sokolovsh1ro",
+     "nick": "sh1ro",
      "kills": 33,
      "deaths": 23,
      "swing": 2.54,
@@ -89,7 +89,7 @@
     },
     {
      "player": 21167,
-     "nick": "Danil 'donk' Kryshkovetsdonk",
+     "nick": "donk",
      "kills": 34,
      "deaths": 30,
      "swing": 1.49,
@@ -99,7 +99,7 @@
     },
     {
      "player": 19808,
-     "nick": "Andrey 'tN1R' TatarinovichtN1R",
+     "nick": "tN1R",
      "kills": 29,
      "deaths": 30,
      "swing": 0.69,
@@ -109,7 +109,7 @@
     },
     {
      "player": 18317,
-     "nick": "Boris 'magixx' Vorobievmagixx",
+     "nick": "magixx",
      "kills": 30,
      "deaths": 27,
      "swing": -0.03,
@@ -119,7 +119,7 @@
     },
     {
      "player": 20423,
-     "nick": "Myroslav 'zont1x' Plakhotiazont1x",
+     "nick": "zont1x",
      "kills": 32,
      "deaths": 32,
      "swing": 0.48,
@@ -129,7 +129,7 @@
     },
     {
      "player": 19230,
-     "nick": "Ilya 'm0NESY' Osipovm0NESY",
+     "nick": "m0NESY",
      "kills": 39,
      "deaths": 29,
      "swing": 1.68,
@@ -139,7 +139,7 @@
     },
     {
      "player": 24177,
-     "nick": "Maksim 'kyousuke' Lukinkyousuke",
+     "nick": "kyousuke",
      "kills": 35,
      "deaths": 35,
      "swing": -2.4,
@@ -149,7 +149,7 @@
     },
     {
      "player": 12018,
-     "nick": "René 'TeSeS' MadsenTeSeS",
+     "nick": "TeSeS",
      "kills": 27,
      "deaths": 31,
      "swing": 0.39,
@@ -159,7 +159,7 @@
     },
     {
      "player": 3741,
-     "nick": "Nikola 'NiKo' KovačNiKo",
+     "nick": "NiKo",
      "kills": 21,
      "deaths": 33,
      "swing": -2.66,
@@ -169,7 +169,7 @@
     },
     {
      "player": 429,
-     "nick": "Finn 'karrigan' Andersenkarrigan",
+     "nick": "karrigan",
      "kills": 19,
      "deaths": 33,
      "swing": -2.65,
@@ -181,7 +181,7 @@
    "t": [
     {
      "player": 16920,
-     "nick": "Dmitry 'sh1ro' Sokolovsh1ro",
+     "nick": "sh1ro",
      "kills": 13,
      "deaths": 13,
      "swing": 0.95,
@@ -191,7 +191,7 @@
     },
     {
      "player": 18317,
-     "nick": "Boris 'magixx' Vorobievmagixx",
+     "nick": "magixx",
      "kills": 13,
      "deaths": 16,
      "swing": 0.19,
@@ -201,7 +201,7 @@
     },
     {
      "player": 19808,
-     "nick": "Andrey 'tN1R' TatarinovichtN1R",
+     "nick": "tN1R",
      "kills": 9,
      "deaths": 18,
      "swing": -1.53,
@@ -211,7 +211,7 @@
     },
     {
      "player": 21167,
-     "nick": "Danil 'donk' Kryshkovetsdonk",
+     "nick": "donk",
      "kills": 11,
      "deaths": 17,
      "swing": -1.35,
@@ -221,7 +221,7 @@
     },
     {
      "player": 20423,
-     "nick": "Myroslav 'zont1x' Plakhotiazont1x",
+     "nick": "zont1x",
      "kills": 7,
      "deaths": 16,
      "swing": -1.79,
@@ -231,7 +231,7 @@
     },
     {
      "player": 19230,
-     "nick": "Ilya 'm0NESY' Osipovm0NESY",
+     "nick": "m0NESY",
      "kills": 19,
      "deaths": 22,
      "swing": -2.54,
@@ -241,7 +241,7 @@
     },
     {
      "player": 12018,
-     "nick": "René 'TeSeS' MadsenTeSeS",
+     "nick": "TeSeS",
      "kills": 11,
      "deaths": 20,
      "swing": 0.26,
@@ -251,7 +251,7 @@
     },
     {
      "player": 429,
-     "nick": "Finn 'karrigan' Andersenkarrigan",
+     "nick": "karrigan",
      "kills": 11,
      "deaths": 21,
      "swing": -1.26,
@@ -261,7 +261,7 @@
     },
     {
      "player": 24177,
-     "nick": "Maksim 'kyousuke' Lukinkyousuke",
+     "nick": "kyousuke",
      "kills": 12,
      "deaths": 22,
      "swing": -4.49,
@@ -271,7 +271,7 @@
     },
     {
      "player": 3741,
-     "nick": "Nikola 'NiKo' KovačNiKo",
+     "nick": "NiKo",
      "kills": 9,
      "deaths": 22,
      "swing": -4.74,
@@ -283,7 +283,7 @@
    "ct": [
     {
      "player": 20423,
-     "nick": "Myroslav 'zont1x' Plakhotiazont1x",
+     "nick": "zont1x",
      "kills": 25,
      "deaths": 16,
      "swing": 2.46,
@@ -293,7 +293,7 @@
     },
     {
      "player": 21167,
-     "nick": "Danil 'donk' Kryshkovetsdonk",
+     "nick": "donk",
      "kills": 23,
      "deaths": 13,
      "swing": 3.97,
@@ -303,7 +303,7 @@
     },
     {
      "player": 16920,
-     "nick": "Dmitry 'sh1ro' Sokolovsh1ro",
+     "nick": "sh1ro",
      "kills": 20,
      "deaths": 10,
      "swing": 3.93,
@@ -313,7 +313,7 @@
     },
     {
      "player": 19808,
-     "nick": "Andrey 'tN1R' TatarinovichtN1R",
+     "nick": "tN1R",
      "kills": 20,
      "deaths": 12,
      "swing": 2.63,
@@ -323,7 +323,7 @@
     },
     {
      "player": 18317,
-     "nick": "Boris 'magixx' Vorobievmagixx",
+     "nick": "magixx",
      "kills": 17,
      "deaths": 11,
      "swing": -0.22,
@@ -333,7 +333,7 @@
     },
     {
      "player": 19230,
-     "nick": "Ilya 'm0NESY' Osipovm0NESY",
+     "nick": "m0NESY",
      "kills": 20,
      "deaths": 7,
      "swing": 6.51,
@@ -343,7 +343,7 @@
     },
     {
      "player": 24177,
-     "nick": "Maksim 'kyousuke' Lukinkyousuke",
+     "nick": "kyousuke",
      "kills": 23,
      "deaths": 13,
      "swing": -0.02,
@@ -353,7 +353,7 @@
     },
     {
      "player": 12018,
-     "nick": "René 'TeSeS' MadsenTeSeS",
+     "nick": "TeSeS",
      "kills": 16,
      "deaths": 11,
      "swing": 0.54,
@@ -363,7 +363,7 @@
     },
     {
      "player": 3741,
-     "nick": "Nikola 'NiKo' KovačNiKo",
+     "nick": "NiKo",
      "kills": 12,
      "deaths": 11,
      "swing": -0.28,
@@ -373,7 +373,7 @@
     },
     {
      "player": 429,
-     "nick": "Finn 'karrigan' Andersenkarrigan",
+     "nick": "karrigan",
      "kills": 8,
      "deaths": 12,
      "swing": -4.25,
@@ -387,7 +387,7 @@
    "both": [
     {
      "player": 16920,
-     "nick": "Dmitry 'sh1ro' Sokolovsh1ro",
+     "nick": "sh1ro",
      "kills": 17,
      "deaths": 11,
      "swing": 4.49,
@@ -397,7 +397,7 @@
     },
     {
      "player": 19808,
-     "nick": "Andrey 'tN1R' TatarinovichtN1R",
+     "nick": "tN1R",
      "kills": 17,
      "deaths": 13,
      "swing": 3.87,
@@ -407,7 +407,7 @@
     },
     {
      "player": 21167,
-     "nick": "Danil 'donk' Kryshkovetsdonk",
+     "nick": "donk",
      "kills": 15,
      "deaths": 13,
      "swing": 3.95,
@@ -417,7 +417,7 @@
     },
     {
      "player": 18317,
-     "nick": "Boris 'magixx' Vorobievmagixx",
+     "nick": "magixx",
      "kills": 15,
      "deaths": 14,
      "swing": -1.04,
@@ -427,7 +427,7 @@
     },
     {
      "player": 20423,
-     "nick": "Myroslav 'zont1x' Plakhotiazont1x",
+     "nick": "zont1x",
      "kills": 12,
      "deaths": 14,
      "swing": -1.33,
@@ -437,7 +437,7 @@
     },
     {
      "player": 19230,
-     "nick": "Ilya 'm0NESY' Osipovm0NESY",
+     "nick": "m0NESY",
      "kills": 16,
      "deaths": 14,
      "swing": 1.35,
@@ -447,7 +447,7 @@
     },
     {
      "player": 24177,
-     "nick": "Maksim 'kyousuke' Lukinkyousuke",
+     "nick": "kyousuke",
      "kills": 21,
      "deaths": 17,
      "swing": -4.43,
@@ -457,7 +457,7 @@
     },
     {
      "player": 12018,
-     "nick": "René 'TeSeS' MadsenTeSeS",
+     "nick": "TeSeS",
      "kills": 12,
      "deaths": 15,
      "swing": -0.78,
@@ -467,7 +467,7 @@
     },
     {
      "player": 3741,
-     "nick": "Nikola 'NiKo' KovačNiKo",
+     "nick": "NiKo",
      "kills": 8,
      "deaths": 15,
      "swing": -2.29,
@@ -477,7 +477,7 @@
     },
     {
      "player": 429,
-     "nick": "Finn 'karrigan' Andersenkarrigan",
+     "nick": "karrigan",
      "kills": 7,
      "deaths": 16,
      "swing": -4.81,
@@ -489,7 +489,7 @@
    "t": [
     {
      "player": 16920,
-     "nick": "Dmitry 'sh1ro' Sokolovsh1ro",
+     "nick": "sh1ro",
      "kills": 5,
      "deaths": 6,
      "swing": -2.28,
@@ -499,7 +499,7 @@
     },
     {
      "player": 18317,
-     "nick": "Boris 'magixx' Vorobievmagixx",
+     "nick": "magixx",
      "kills": 5,
      "deaths": 8,
      "swing": -0.63,
@@ -509,7 +509,7 @@
     },
     {
      "player": 19808,
-     "nick": "Andrey 'tN1R' TatarinovichtN1R",
+     "nick": "tN1R",
      "kills": 3,
      "deaths": 8,
      "swing": -2.67,
@@ -519,7 +519,7 @@
     },
     {
      "player": 21167,
-     "nick": "Danil 'donk' Kryshkovetsdonk",
+     "nick": "donk",
      "kills": 2,
      "deaths": 7,
      "swing": -2.23,
@@ -529,7 +529,7 @@
     },
     {
      "player": 20423,
-     "nick": "Myroslav 'zont1x' Plakhotiazont1x",
+     "nick": "zont1x",
      "kills": 2,
      "deaths": 8,
      "swing": -6.28,
@@ -539,7 +539,7 @@
     },
     {
      "player": 19230,
-     "nick": "Ilya 'm0NESY' Osipovm0NESY",
+     "nick": "m0NESY",
      "kills": 8,
      "deaths": 12,
      "swing": -5.61,
@@ -549,7 +549,7 @@
     },
     {
      "player": 24177,
-     "nick": "Maksim 'kyousuke' Lukinkyousuke",
+     "nick": "kyousuke",
      "kills": 7,
      "deaths": 12,
      "swing": -8.48,
@@ -559,7 +559,7 @@
     },
     {
      "player": 429,
-     "nick": "Finn 'karrigan' Andersenkarrigan",
+     "nick": "karrigan",
      "kills": 5,
      "deaths": 11,
      "swing": -3.4,
@@ -569,7 +569,7 @@
     },
     {
      "player": 12018,
-     "nick": "René 'TeSeS' MadsenTeSeS",
+     "nick": "TeSeS",
      "kills": 4,
      "deaths": 12,
      "swing": -4.57,
@@ -579,7 +579,7 @@
     },
     {
      "player": 3741,
-     "nick": "Nikola 'NiKo' KovačNiKo",
+     "nick": "NiKo",
      "kills": 4,
      "deaths": 12,
      "swing": -5.88,
@@ -591,7 +591,7 @@
    "ct": [
     {
      "player": 16920,
-     "nick": "Dmitry 'sh1ro' Sokolovsh1ro",
+     "nick": "sh1ro",
      "kills": 12,
      "deaths": 5,
      "swing": 9.56,
@@ -601,7 +601,7 @@
     },
     {
      "player": 19808,
-     "nick": "Andrey 'tN1R' TatarinovichtN1R",
+     "nick": "tN1R",
      "kills": 14,
      "deaths": 5,
      "swing": 8.78,
@@ -611,7 +611,7 @@
     },
     {
      "player": 21167,
-     "nick": "Danil 'donk' Kryshkovetsdonk",
+     "nick": "donk",
      "kills": 13,
      "deaths": 6,
      "swing": 8.58,
@@ -621,7 +621,7 @@
     },
     {
      "player": 20423,
-     "nick": "Myroslav 'zont1x' Plakhotiazont1x",
+     "nick": "zont1x",
      "kills": 10,
      "deaths": 6,
      "swing": 2.38,
@@ -631,7 +631,7 @@
     },
     {
      "player": 18317,
-     "nick": "Boris 'magixx' Vorobievmagixx",
+     "nick": "magixx",
      "kills": 10,
      "deaths": 6,
      "swing": -1.35,
@@ -641,7 +641,7 @@
     },
     {
      "player": 19230,
-     "nick": "Ilya 'm0NESY' Osipovm0NESY",
+     "nick": "m0NESY",
      "kills": 8,
      "deaths": 2,
      "swing": 10.62,
@@ -651,7 +651,7 @@
     },
     {
      "player": 24177,
-     "nick": "Maksim 'kyousuke' Lukinkyousuke",
+     "nick": "kyousuke",
      "kills": 14,
      "deaths": 5,
      "swing": 0.98,
@@ -661,7 +661,7 @@
     },
     {
      "player": 12018,
-     "nick": "René 'TeSeS' MadsenTeSeS",
+     "nick": "TeSeS",
      "kills": 8,
      "deaths": 3,
      "swing": 4.29,
@@ -671,7 +671,7 @@
     },
     {
      "player": 3741,
-     "nick": "Nikola 'NiKo' KovačNiKo",
+     "nick": "NiKo",
      "kills": 4,
      "deaths": 3,
      "swing": 2.51,
@@ -681,7 +681,7 @@
     },
     {
      "player": 429,
-     "nick": "Finn 'karrigan' Andersenkarrigan",
+     "nick": "karrigan",
      "kills": 2,
      "deaths": 5,
      "swing": -6.69,
@@ -695,7 +695,7 @@
    "both": [
     {
      "player": 20423,
-     "nick": "Myroslav 'zont1x' Plakhotiazont1x",
+     "nick": "zont1x",
      "kills": 20,
      "deaths": 18,
      "swing": 2.06,
@@ -705,7 +705,7 @@
     },
     {
      "player": 18317,
-     "nick": "Boris 'magixx' Vorobievmagixx",
+     "nick": "magixx",
      "kills": 15,
      "deaths": 13,
      "swing": 0.86,
@@ -715,7 +715,7 @@
     },
     {
      "player": 16920,
-     "nick": "Dmitry 'sh1ro' Sokolovsh1ro",
+     "nick": "sh1ro",
      "kills": 16,
      "deaths": 12,
      "swing": 0.84,
@@ -725,7 +725,7 @@
     },
     {
      "player": 21167,
-     "nick": "Danil 'donk' Kryshkovetsdonk",
+     "nick": "donk",
      "kills": 19,
      "deaths": 17,
      "swing": -0.66,
@@ -735,7 +735,7 @@
     },
     {
      "player": 19808,
-     "nick": "Andrey 'tN1R' TatarinovichtN1R",
+     "nick": "tN1R",
      "kills": 12,
      "deaths": 17,
      "swing": -2.1,
@@ -745,7 +745,7 @@
     },
     {
      "player": 19230,
-     "nick": "Ilya 'm0NESY' Osipovm0NESY",
+     "nick": "m0NESY",
      "kills": 23,
      "deaths": 15,
      "swing": 1.98,
@@ -755,7 +755,7 @@
     },
     {
      "player": 24177,
-     "nick": "Maksim 'kyousuke' Lukinkyousuke",
+     "nick": "kyousuke",
      "kills": 14,
      "deaths": 18,
      "swing": -0.64,
@@ -765,7 +765,7 @@
     },
     {
      "player": 12018,
-     "nick": "René 'TeSeS' MadsenTeSeS",
+     "nick": "TeSeS",
      "kills": 15,
      "deaths": 16,
      "swing": 1.41,
@@ -775,7 +775,7 @@
     },
     {
      "player": 429,
-     "nick": "Finn 'karrigan' Andersenkarrigan",
+     "nick": "karrigan",
      "kills": 12,
      "deaths": 17,
      "swing": -0.77,
@@ -785,7 +785,7 @@
     },
     {
      "player": 3741,
-     "nick": "Nikola 'NiKo' KovačNiKo",
+     "nick": "NiKo",
      "kills": 13,
      "deaths": 18,
      "swing": -2.99,
@@ -797,7 +797,7 @@
    "t": [
     {
      "player": 16920,
-     "nick": "Dmitry 'sh1ro' Sokolovsh1ro",
+     "nick": "sh1ro",
      "kills": 8,
      "deaths": 7,
      "swing": 3.37,
@@ -807,7 +807,7 @@
     },
     {
      "player": 18317,
-     "nick": "Boris 'magixx' Vorobievmagixx",
+     "nick": "magixx",
      "kills": 8,
      "deaths": 8,
      "swing": 0.81,
@@ -817,7 +817,7 @@
     },
     {
      "player": 21167,
-     "nick": "Danil 'donk' Kryshkovetsdonk",
+     "nick": "donk",
      "kills": 9,
      "deaths": 10,
      "swing": -0.69,
@@ -827,7 +827,7 @@
     },
     {
      "player": 20423,
-     "nick": "Myroslav 'zont1x' Plakhotiazont1x",
+     "nick": "zont1x",
      "kills": 5,
      "deaths": 8,
      "swing": 1.59,
@@ -837,7 +837,7 @@
     },
     {
      "player": 19808,
-     "nick": "Andrey 'tN1R' TatarinovichtN1R",
+     "nick": "tN1R",
      "kills": 6,
      "deaths": 10,
      "swing": -0.67,
@@ -847,7 +847,7 @@
     },
     {
      "player": 12018,
-     "nick": "René 'TeSeS' MadsenTeSeS",
+     "nick": "TeSeS",
      "kills": 7,
      "deaths": 8,
      "swing": 5.09,
@@ -857,7 +857,7 @@
     },
     {
      "player": 19230,
-     "nick": "Ilya 'm0NESY' Osipovm0NESY",
+     "nick": "m0NESY",
      "kills": 11,
      "deaths": 10,
      "swing": 0.53,
@@ -867,7 +867,7 @@
     },
     {
      "player": 429,
-     "nick": "Finn 'karrigan' Andersenkarrigan",
+     "nick": "karrigan",
      "kills": 6,
      "deaths": 10,
      "swing": 0.89,
@@ -877,7 +877,7 @@
     },
     {
      "player": 24177,
-     "nick": "Maksim 'kyousuke' Lukinkyousuke",
+     "nick": "kyousuke",
      "kills": 5,
      "deaths": 10,
      "swing": -0.49,
@@ -887,7 +887,7 @@
     },
     {
      "player": 3741,
-     "nick": "Nikola 'NiKo' KovačNiKo",
+     "nick": "NiKo",
      "kills": 5,
      "deaths": 10,
      "swing": -3.6,
@@ -899,7 +899,7 @@
    "ct": [
     {
      "player": 20423,
-     "nick": "Myroslav 'zont1x' Plakhotiazont1x",
+     "nick": "zont1x",
      "kills": 15,
      "deaths": 10,
      "swing": 2.53,
@@ -909,7 +909,7 @@
     },
     {
      "player": 18317,
-     "nick": "Boris 'magixx' Vorobievmagixx",
+     "nick": "magixx",
      "kills": 7,
      "deaths": 5,
      "swing": 0.9,
@@ -919,7 +919,7 @@
     },
     {
      "player": 21167,
-     "nick": "Danil 'donk' Kryshkovetsdonk",
+     "nick": "donk",
      "kills": 10,
      "deaths": 7,
      "swing": -0.64,
@@ -929,7 +929,7 @@
     },
     {
      "player": 16920,
-     "nick": "Dmitry 'sh1ro' Sokolovsh1ro",
+     "nick": "sh1ro",
      "kills": 8,
      "deaths": 5,
      "swing": -1.7,
@@ -939,7 +939,7 @@
     },
     {
      "player": 19808,
-     "nick": "Andrey 'tN1R' TatarinovichtN1R",
+     "nick": "tN1R",
      "kills": 6,
      "deaths": 7,
      "swing": -3.52,
@@ -949,7 +949,7 @@
     },
     {
      "player": 19230,
-     "nick": "Ilya 'm0NESY' Osipovm0NESY",
+     "nick": "m0NESY",
      "kills": 12,
      "deaths": 5,
      "swing": 3.42,
@@ -959,7 +959,7 @@
     },
     {
      "player": 24177,
-     "nick": "Maksim 'kyousuke' Lukinkyousuke",
+     "nick": "kyousuke",
      "kills": 9,
      "deaths": 8,
      "swing": -0.78,
@@ -969,7 +969,7 @@
     },
     {
      "player": 3741,
-     "nick": "Nikola 'NiKo' KovačNiKo",
+     "nick": "NiKo",
      "kills": 8,
      "deaths": 8,
      "swing": -2.37,
@@ -979,7 +979,7 @@
     },
     {
      "player": 429,
-     "nick": "Finn 'karrigan' Andersenkarrigan",
+     "nick": "karrigan",
      "kills": 6,
      "deaths": 7,
      "swing": -2.42,
@@ -989,7 +989,7 @@
     },
     {
      "player": 12018,
-     "nick": "René 'TeSeS' MadsenTeSeS",
+     "nick": "TeSeS",
      "kills": 8,
      "deaths": 8,
      "swing": -2.26,

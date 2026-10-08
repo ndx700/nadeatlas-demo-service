@@ -3,7 +3,7 @@
  "name": "MESA Pro Series Fall 2026",
  "start": "2026-10-08",
  "end": "2026-10-11",
- "status": "upcoming",
+ "status": "live",
  "location": "Ulaanbaatar, Mongolia",
  "prize": "$3,000",
  "playoffs": [
@@ -11,26 +11,26 @@
    "round": "Upper semi-finals",
    "matches": [
     {
+     "matchId": 2399372,
+     "time": "2026-10-08T13:00:00+08:00",
+     "bo": 3,
+     "team1": 13724,
+     "team2": 12646,
+     "score": [
+      2,
+      1
+     ],
+     "winner": 13724
+    },
+    {
      "matchId": null,
      "time": null,
      "bo": null,
-     "team1": "5star",
-     "team2": "Chinggis Warriors",
+     "team1": null,
+     "team2": null,
      "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": 2399373,
-     "time": null,
-     "bo": null,
-     "team1": "NEXVOID",
-     "team2": "The Huns",
-     "score": [
-      null,
-      null
+      2,
+      0
      ],
      "winner": null
     }
@@ -43,8 +43,8 @@
      "matchId": null,
      "time": null,
      "bo": 3,
-     "team1": "5star",
-     "team2": "TBD",
+     "team1": 13724,
+     "team2": null,
      "score": [
       null,
       null
@@ -60,8 +60,8 @@
      "matchId": null,
      "time": null,
      "bo": 3,
-     "team1": "TBD",
-     "team2": "TBD",
+     "team1": null,
+     "team2": null,
      "score": [
       null,
       null
@@ -77,8 +77,8 @@
      "matchId": null,
      "time": null,
      "bo": 3,
-     "team1": "TBD",
-     "team2": "The Audacity",
+     "team1": null,
+     "team2": 14086,
      "score": [
       null,
       null
@@ -89,8 +89,8 @@
      "matchId": null,
      "time": null,
      "bo": 3,
-     "team1": "Chinggis Warriors",
-     "team2": "1337",
+     "team1": 12646,
+     "team2": null,
      "score": [
       null,
       null
@@ -106,8 +106,8 @@
      "matchId": null,
      "time": null,
      "bo": 3,
-     "team1": "TBD",
-     "team2": "TBD",
+     "team1": null,
+     "team2": null,
      "score": [
       null,
       null
@@ -123,8 +123,8 @@
      "matchId": null,
      "time": null,
      "bo": 3,
-     "team1": "TBD",
-     "team2": "TBD",
+     "team1": null,
+     "team2": null,
      "score": [
       null,
       null
@@ -134,6 +134,8 @@
    ]
   }
  ],
+ "lower": [],
+ "groups": [],
  "thirdPlace": [],
  "teams": [
   13724,

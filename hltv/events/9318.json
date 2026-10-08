@@ -11,11 +11,11 @@
    "round": "Opening round",
    "matches": [
     {
-     "matchId": null,
-     "time": null,
+     "matchId": 2399044,
+     "time": "2026-10-09T00:30:00+08:00",
      "bo": 3,
-     "team1": "FaZe",
-     "team2": "OG/Sangal winner",
+     "team1": 6667,
+     "team2": 10333,
      "score": [
       null,
       null
@@ -23,11 +23,23 @@
      "winner": null
     },
     {
+     "matchId": 2399042,
+     "time": "2026-10-08T22:00:00+08:00",
+     "bo": 3,
+     "team1": 13838,
+     "team2": 13777,
+     "score": [
+      0,
+      2
+     ],
+     "winner": 13777
+    },
+    {
      "matchId": null,
      "time": null,
      "bo": 3,
-     "team1": "EAC",
-     "team2": "PURE",
+     "team1": null,
+     "team2": 12889,
      "score": [
       null,
       null
@@ -35,23 +47,11 @@
      "winner": null
     },
     {
-     "matchId": null,
-     "time": null,
+     "matchId": 2399043,
+     "time": "2026-10-08T21:30:00+08:00",
      "bo": 3,
-     "team1": "INFINITE",
-     "team2": "G2 Ares/RBLS winner",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": 3,
-     "team1": "WBT",
-     "team2": "NAVI Junior",
+     "team1": null,
+     "team2": 10371,
      "score": [
       null,
       null
@@ -67,8 +67,8 @@
      "matchId": null,
      "time": null,
      "bo": 3,
-     "team1": "TBD",
-     "team2": "TBD",
+     "team1": null,
+     "team2": 13963,
      "score": [
       null,
       null
@@ -79,8 +79,8 @@
      "matchId": null,
      "time": null,
      "bo": 3,
-     "team1": "TBD",
-     "team2": "TBD",
+     "team1": null,
+     "team2": null,
      "score": [
       null,
       null
@@ -96,8 +96,8 @@
      "matchId": null,
      "time": null,
      "bo": 3,
-     "team1": "TBD",
-     "team2": "TBD",
+     "team1": null,
+     "team2": null,
      "score": [
       null,
       null
@@ -113,8 +113,8 @@
      "matchId": null,
      "time": null,
      "bo": 3,
-     "team1": "TBD",
-     "team2": "TBD",
+     "team1": null,
+     "team2": null,
      "score": [
       null,
       null
@@ -130,8 +130,8 @@
      "matchId": null,
      "time": null,
      "bo": 3,
-     "team1": "TBD",
-     "team2": "TBD",
+     "team1": null,
+     "team2": 13838,
      "score": [
       null,
       null
@@ -142,8 +142,8 @@
      "matchId": null,
      "time": null,
      "bo": 3,
-     "team1": "TBD",
-     "team2": "TBD",
+     "team1": null,
+     "team2": null,
      "score": [
       null,
       null
@@ -159,8 +159,8 @@
      "matchId": null,
      "time": null,
      "bo": 3,
-     "team1": "TBD",
-     "team2": "TBD",
+     "team1": null,
+     "team2": null,
      "score": [
       null,
       null
@@ -171,8 +171,8 @@
      "matchId": null,
      "time": null,
      "bo": 3,
-     "team1": "TBD",
-     "team2": "TBD",
+     "team1": null,
+     "team2": null,
      "score": [
       null,
       null
@@ -188,8 +188,8 @@
      "matchId": null,
      "time": null,
      "bo": 3,
-     "team1": "TBD",
-     "team2": "TBD",
+     "team1": null,
+     "team2": null,
      "score": [
       null,
       null
@@ -205,8 +205,8 @@
      "matchId": null,
      "time": null,
      "bo": 3,
-     "team1": "TBD",
-     "team2": "TBD",
+     "team1": null,
+     "team2": null,
      "score": [
       null,
       null
@@ -221,30 +221,32 @@
     {
      "matchId": null,
      "time": null,
-     "bo": 3,
-     "team1": "G2 Ares",
-     "team2": "RBLS",
+     "bo": null,
+     "team1": 12889,
+     "team2": 12642,
      "score": [
-      null,
-      null
+      2,
+      1
      ],
-     "winner": null
+     "winner": 12889
     },
     {
-     "matchId": null,
-     "time": null,
+     "matchId": 2399041,
+     "time": "2026-10-08T18:00:00+08:00",
      "bo": 3,
-     "team1": "OG",
-     "team2": "Sangal",
+     "team1": 10503,
+     "team2": 10333,
      "score": [
-      null,
-      null
+      0,
+      2
      ],
-     "winner": null
+     "winner": 10333
     }
    ]
   }
  ],
+ "lower": [],
+ "groups": [],
  "thirdPlace": [],
  "teams": [
   13777,

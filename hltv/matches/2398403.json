@@ -1,57 +1,1323 @@
 {
  "id": 2398403,
  "eventId": 9420,
- "stage": null,
+ "stage": "Round of 16",
  "time": "2026-10-08T16:00:00+08:00",
  "bo": 3,
  "status": "finished",
  "team1": {
   "id": 13518,
-  "score": 0,
-  "players": []
+  "score": 2,
+  "players": [
+   20097,
+   15369,
+   11217,
+   11343,
+   21657
+  ]
  },
  "team2": {
   "id": 13573,
-  "score": 0,
-  "players": []
+  "score": 1,
+  "players": [
+   21302,
+   20253,
+   21783,
+   20813,
+   20252
+  ]
  },
  "maps": [
   {
    "map": "de_cache",
    "pick": 13573,
    "score": [
-    null,
-    null
+    10,
+    13
    ],
-   "halves": null
+   "halves": [
+    [
+     7,
+     5
+    ],
+    [
+     3,
+     8
+    ]
+   ]
   },
   {
    "map": "de_inferno",
    "pick": 13518,
    "score": [
-    null,
-    null
+    13,
+    11
    ],
-   "halves": null
+   "halves": [
+    [
+     8,
+     4
+    ],
+    [
+     5,
+     7
+    ]
+   ]
   },
   {
    "map": "de_dust2",
    "pick": null,
    "score": [
-    null,
-    null
+    13,
+    9
    ],
-   "halves": null
+   "halves": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     4
+    ]
+   ]
   }
  ],
  "stats": {
   "all": {
-   "both": [],
-   "t": [],
-   "ct": []
+   "both": [
+    {
+     "player": 20097,
+     "nick": "h4rn",
+     "kills": 46,
+     "deaths": 41,
+     "swing": 4.66,
+     "adr": 71.8,
+     "kast": 72.5,
+     "rating": 1.24
+    },
+    {
+     "player": 15369,
+     "nick": "REDSTAR",
+     "kills": 43,
+     "deaths": 41,
+     "swing": 2.42,
+     "adr": 72.1,
+     "kast": 72.5,
+     "rating": 1.13
+    },
+    {
+     "player": 11217,
+     "nick": "SPELLAN",
+     "kills": 40,
+     "deaths": 50,
+     "swing": 1.03,
+     "adr": 73.4,
+     "kast": 66.7,
+     "rating": 1.05
+    },
+    {
+     "player": 11343,
+     "nick": "SHiPZ",
+     "kills": 51,
+     "deaths": 51,
+     "swing": -2.86,
+     "adr": 72.7,
+     "kast": 59.4,
+     "rating": 0.98
+    },
+    {
+     "player": 21657,
+     "nick": "Skrimo",
+     "kills": 35,
+     "deaths": 46,
+     "swing": -1.25,
+     "adr": 60.6,
+     "kast": 69.6,
+     "rating": 0.89
+    },
+    {
+     "player": 21302,
+     "nick": "Cjoffo",
+     "kills": 54,
+     "deaths": 46,
+     "swing": 1.05,
+     "adr": 81.7,
+     "kast": 81.2,
+     "rating": 1.21
+    },
+    {
+     "player": 20253,
+     "nick": "Dragon",
+     "kills": 49,
+     "deaths": 43,
+     "swing": -1.1,
+     "adr": 76.1,
+     "kast": 81.2,
+     "rating": 1.09
+    },
+    {
+     "player": 21783,
+     "nick": "brutmonster",
+     "kills": 44,
+     "deaths": 40,
+     "swing": 0.71,
+     "adr": 65.5,
+     "kast": 72.5,
+     "rating": 1.05
+    },
+    {
+     "player": 20813,
+     "nick": "VLDN",
+     "kills": 44,
+     "deaths": 43,
+     "swing": -1.29,
+     "adr": 75.7,
+     "kast": 73.9,
+     "rating": 0.96
+    },
+    {
+     "player": 20252,
+     "nick": "Kind0",
+     "kills": 36,
+     "deaths": 44,
+     "swing": -3.36,
+     "adr": 56.9,
+     "kast": 68.1,
+     "rating": 0.77
+    }
+   ],
+   "t": [
+    {
+     "player": 20097,
+     "nick": "h4rn",
+     "kills": 20,
+     "deaths": 23,
+     "swing": 3.94,
+     "adr": 61.4,
+     "kast": 62.9,
+     "rating": 1.1
+    },
+    {
+     "player": 11343,
+     "nick": "SHiPZ",
+     "kills": 24,
+     "deaths": 29,
+     "swing": 0.97,
+     "adr": 73.6,
+     "kast": 60.0,
+     "rating": 1.05
+    },
+    {
+     "player": 11217,
+     "nick": "SPELLAN",
+     "kills": 17,
+     "deaths": 29,
+     "swing": 2.08,
+     "adr": 59.6,
+     "kast": 57.1,
+     "rating": 1.0
+    },
+    {
+     "player": 15369,
+     "nick": "REDSTAR",
+     "kills": 15,
+     "deaths": 23,
+     "swing": 1.39,
+     "adr": 54.5,
+     "kast": 62.9,
+     "rating": 0.95
+    },
+    {
+     "player": 21657,
+     "nick": "Skrimo",
+     "kills": 16,
+     "deaths": 25,
+     "swing": -1.68,
+     "adr": 55.9,
+     "kast": 68.6,
+     "rating": 0.88
+    },
+    {
+     "player": 20253,
+     "nick": "Dragon",
+     "kills": 30,
+     "deaths": 23,
+     "swing": 1.84,
+     "adr": 79.0,
+     "kast": 73.5,
+     "rating": 1.32
+    },
+    {
+     "player": 21783,
+     "nick": "brutmonster",
+     "kills": 16,
+     "deaths": 24,
+     "swing": 2.79,
+     "adr": 57.4,
+     "kast": 64.7,
+     "rating": 1.04
+    },
+    {
+     "player": 21302,
+     "nick": "Cjoffo",
+     "kills": 19,
+     "deaths": 26,
+     "swing": -0.62,
+     "adr": 67.3,
+     "kast": 73.5,
+     "rating": 0.99
+    },
+    {
+     "player": 20813,
+     "nick": "VLDN",
+     "kills": 18,
+     "deaths": 25,
+     "swing": -2.93,
+     "adr": 65.4,
+     "kast": 67.6,
+     "rating": 0.85
+    },
+    {
+     "player": 20252,
+     "nick": "Kind0",
+     "kills": 17,
+     "deaths": 25,
+     "swing": -2.3,
+     "adr": 56.1,
+     "kast": 64.7,
+     "rating": 0.82
+    }
+   ],
+   "ct": [
+    {
+     "player": 20097,
+     "nick": "h4rn",
+     "kills": 26,
+     "deaths": 18,
+     "swing": 5.39,
+     "adr": 82.5,
+     "kast": 82.4,
+     "rating": 1.38
+    },
+    {
+     "player": 15369,
+     "nick": "REDSTAR",
+     "kills": 28,
+     "deaths": 18,
+     "swing": 3.48,
+     "adr": 90.2,
+     "kast": 82.4,
+     "rating": 1.32
+    },
+    {
+     "player": 11217,
+     "nick": "SPELLAN",
+     "kills": 23,
+     "deaths": 21,
+     "swing": -0.05,
+     "adr": 87.6,
+     "kast": 76.5,
+     "rating": 1.1
+    },
+    {
+     "player": 11343,
+     "nick": "SHiPZ",
+     "kills": 27,
+     "deaths": 22,
+     "swing": -6.81,
+     "adr": 71.8,
+     "kast": 58.8,
+     "rating": 0.9
+    },
+    {
+     "player": 21657,
+     "nick": "Skrimo",
+     "kills": 19,
+     "deaths": 21,
+     "swing": -0.8,
+     "adr": 65.5,
+     "kast": 70.6,
+     "rating": 0.89
+    },
+    {
+     "player": 21302,
+     "nick": "Cjoffo",
+     "kills": 35,
+     "deaths": 20,
+     "swing": 2.67,
+     "adr": 95.6,
+     "kast": 88.6,
+     "rating": 1.43
+    },
+    {
+     "player": 20813,
+     "nick": "VLDN",
+     "kills": 26,
+     "deaths": 18,
+     "swing": 0.29,
+     "adr": 85.7,
+     "kast": 80.0,
+     "rating": 1.07
+    },
+    {
+     "player": 21783,
+     "nick": "brutmonster",
+     "kills": 28,
+     "deaths": 16,
+     "swing": -1.31,
+     "adr": 73.3,
+     "kast": 80.0,
+     "rating": 1.06
+    },
+    {
+     "player": 20253,
+     "nick": "Dragon",
+     "kills": 19,
+     "deaths": 20,
+     "swing": -3.95,
+     "adr": 73.2,
+     "kast": 88.6,
+     "rating": 0.86
+    },
+    {
+     "player": 20252,
+     "nick": "Kind0",
+     "kills": 19,
+     "deaths": 19,
+     "swing": -4.39,
+     "adr": 57.6,
+     "kast": 71.4,
+     "rating": 0.71
+    }
+   ]
+  },
+  "de_cache": {
+   "both": [
+    {
+     "player": 20097,
+     "nick": "h4rn",
+     "kills": 15,
+     "deaths": 15,
+     "swing": 2.26,
+     "adr": 63.7,
+     "kast": 69.6,
+     "rating": 1.1
+    },
+    {
+     "player": 11343,
+     "nick": "SHiPZ",
+     "kills": 16,
+     "deaths": 16,
+     "swing": -1.32,
+     "adr": 70.3,
+     "kast": 60.9,
+     "rating": 1.03
+    },
+    {
+     "player": 15369,
+     "nick": "REDSTAR",
+     "kills": 12,
+     "deaths": 11,
+     "swing": -0.11,
+     "adr": 59.3,
+     "kast": 69.6,
+     "rating": 0.98
+    },
+    {
+     "player": 21657,
+     "nick": "Skrimo",
+     "kills": 9,
+     "deaths": 16,
+     "swing": -1.31,
+     "adr": 60.2,
+     "kast": 60.9,
+     "rating": 0.85
+    },
+    {
+     "player": 11217,
+     "nick": "SPELLAN",
+     "kills": 10,
+     "deaths": 18,
+     "swing": -4.03,
+     "adr": 63.2,
+     "kast": 56.5,
+     "rating": 0.68
+    },
+    {
+     "player": 21783,
+     "nick": "brutmonster",
+     "kills": 18,
+     "deaths": 12,
+     "swing": 4.11,
+     "adr": 78.7,
+     "kast": 78.3,
+     "rating": 1.39
+    },
+    {
+     "player": 20813,
+     "nick": "VLDN",
+     "kills": 18,
+     "deaths": 11,
+     "swing": 0.68,
+     "adr": 98.6,
+     "kast": 73.9,
+     "rating": 1.25
+    },
+    {
+     "player": 20253,
+     "nick": "Dragon",
+     "kills": 17,
+     "deaths": 13,
+     "swing": 0.59,
+     "adr": 68.2,
+     "kast": 78.3,
+     "rating": 1.16
+    },
+    {
+     "player": 21302,
+     "nick": "Cjoffo",
+     "kills": 13,
+     "deaths": 14,
+     "swing": 0.84,
+     "adr": 65.2,
+     "kast": 91.3,
+     "rating": 1.13
+    },
+    {
+     "player": 20252,
+     "nick": "Kind0",
+     "kills": 10,
+     "deaths": 12,
+     "swing": -1.71,
+     "adr": 48.0,
+     "kast": 78.3,
+     "rating": 0.88
+    }
+   ],
+   "t": [
+    {
+     "player": 11343,
+     "nick": "SHiPZ",
+     "kills": 6,
+     "deaths": 9,
+     "swing": 3.59,
+     "adr": 57.3,
+     "kast": 54.5,
+     "rating": 0.98
+    },
+    {
+     "player": 20097,
+     "nick": "h4rn",
+     "kills": 4,
+     "deaths": 8,
+     "swing": 1.28,
+     "adr": 31.9,
+     "kast": 45.5,
+     "rating": 0.74
+    },
+    {
+     "player": 15369,
+     "nick": "REDSTAR",
+     "kills": 2,
+     "deaths": 6,
+     "swing": -4.0,
+     "adr": 22.4,
+     "kast": 54.5,
+     "rating": 0.49
+    },
+    {
+     "player": 11217,
+     "nick": "SPELLAN",
+     "kills": 2,
+     "deaths": 9,
+     "swing": -7.01,
+     "adr": 32.7,
+     "kast": 36.4,
+     "rating": 0.39
+    },
+    {
+     "player": 21657,
+     "nick": "Skrimo",
+     "kills": 0,
+     "deaths": 9,
+     "swing": -6.2,
+     "adr": 36.5,
+     "kast": 36.4,
+     "rating": 0.39
+    },
+    {
+     "player": 20253,
+     "nick": "Dragon",
+     "kills": 12,
+     "deaths": 9,
+     "swing": 5.7,
+     "adr": 82.1,
+     "kast": 66.7,
+     "rating": 1.58
+    },
+    {
+     "player": 21783,
+     "nick": "brutmonster",
+     "kills": 10,
+     "deaths": 9,
+     "swing": 5.32,
+     "adr": 84.4,
+     "kast": 66.7,
+     "rating": 1.49
+    },
+    {
+     "player": 21302,
+     "nick": "Cjoffo",
+     "kills": 5,
+     "deaths": 11,
+     "swing": -1.1,
+     "adr": 61.2,
+     "kast": 83.3,
+     "rating": 0.96
+    },
+    {
+     "player": 20813,
+     "nick": "VLDN",
+     "kills": 4,
+     "deaths": 9,
+     "swing": -4.65,
+     "adr": 55.1,
+     "kast": 58.3,
+     "rating": 0.65
+    },
+    {
+     "player": 20252,
+     "nick": "Kind0",
+     "kills": 4,
+     "deaths": 10,
+     "swing": -7.96,
+     "adr": 41.5,
+     "kast": 66.7,
+     "rating": 0.54
+    }
+   ],
+   "ct": [
+    {
+     "player": 20097,
+     "nick": "h4rn",
+     "kills": 11,
+     "deaths": 7,
+     "swing": 3.15,
+     "adr": 92.8,
+     "kast": 91.7,
+     "rating": 1.44
+    },
+    {
+     "player": 15369,
+     "nick": "REDSTAR",
+     "kills": 10,
+     "deaths": 5,
+     "swing": 3.46,
+     "adr": 93.2,
+     "kast": 83.3,
+     "rating": 1.44
+    },
+    {
+     "player": 21657,
+     "nick": "Skrimo",
+     "kills": 9,
+     "deaths": 7,
+     "swing": 3.18,
+     "adr": 81.9,
+     "kast": 83.3,
+     "rating": 1.26
+    },
+    {
+     "player": 11343,
+     "nick": "SHiPZ",
+     "kills": 10,
+     "deaths": 7,
+     "swing": -5.81,
+     "adr": 82.3,
+     "kast": 66.7,
+     "rating": 1.08
+    },
+    {
+     "player": 11217,
+     "nick": "SPELLAN",
+     "kills": 8,
+     "deaths": 9,
+     "swing": -1.29,
+     "adr": 91.1,
+     "kast": 75.0,
+     "rating": 0.94
+    },
+    {
+     "player": 20813,
+     "nick": "VLDN",
+     "kills": 14,
+     "deaths": 2,
+     "swing": 6.48,
+     "adr": 146.0,
+     "kast": 90.9,
+     "rating": 1.91
+    },
+    {
+     "player": 21302,
+     "nick": "Cjoffo",
+     "kills": 8,
+     "deaths": 3,
+     "swing": 2.96,
+     "adr": 69.6,
+     "kast": 100.0,
+     "rating": 1.32
+    },
+    {
+     "player": 21783,
+     "nick": "brutmonster",
+     "kills": 8,
+     "deaths": 3,
+     "swing": 2.78,
+     "adr": 72.5,
+     "kast": 90.9,
+     "rating": 1.28
+    },
+    {
+     "player": 20252,
+     "nick": "Kind0",
+     "kills": 6,
+     "deaths": 2,
+     "swing": 5.11,
+     "adr": 55.0,
+     "kast": 90.9,
+     "rating": 1.25
+    },
+    {
+     "player": 20253,
+     "nick": "Dragon",
+     "kills": 5,
+     "deaths": 4,
+     "swing": -4.98,
+     "adr": 53.0,
+     "kast": 90.9,
+     "rating": 0.71
+    }
+   ]
+  },
+  "de_inferno": {
+   "both": [
+    {
+     "player": 20097,
+     "nick": "h4rn",
+     "kills": 18,
+     "deaths": 17,
+     "swing": 6.52,
+     "adr": 86.1,
+     "kast": 75.0,
+     "rating": 1.38
+    },
+    {
+     "player": 11343,
+     "nick": "SHiPZ",
+     "kills": 19,
+     "deaths": 19,
+     "swing": -1.24,
+     "adr": 88.7,
+     "kast": 62.5,
+     "rating": 1.25
+    },
+    {
+     "player": 21657,
+     "nick": "Skrimo",
+     "kills": 16,
+     "deaths": 16,
+     "swing": 1.25,
+     "adr": 68.1,
+     "kast": 70.8,
+     "rating": 1.15
+    },
+    {
+     "player": 15369,
+     "nick": "REDSTAR",
+     "kills": 12,
+     "deaths": 14,
+     "swing": 2.36,
+     "adr": 58.5,
+     "kast": 62.5,
+     "rating": 1.01
+    },
+    {
+     "player": 11217,
+     "nick": "SPELLAN",
+     "kills": 10,
+     "deaths": 17,
+     "swing": -2.13,
+     "adr": 57.9,
+     "kast": 62.5,
+     "rating": 0.85
+    },
+    {
+     "player": 21302,
+     "nick": "Cjoffo",
+     "kills": 25,
+     "deaths": 18,
+     "swing": 1.39,
+     "adr": 102.1,
+     "kast": 83.3,
+     "rating": 1.47
+    },
+    {
+     "player": 20252,
+     "nick": "Kind0",
+     "kills": 15,
+     "deaths": 13,
+     "swing": 0.65,
+     "adr": 66.0,
+     "kast": 75.0,
+     "rating": 1.15
+    },
+    {
+     "player": 21783,
+     "nick": "brutmonster",
+     "kills": 13,
+     "deaths": 14,
+     "swing": -1.78,
+     "adr": 57.7,
+     "kast": 70.8,
+     "rating": 0.94
+    },
+    {
+     "player": 20813,
+     "nick": "VLDN",
+     "kills": 14,
+     "deaths": 15,
+     "swing": -1.07,
+     "adr": 61.4,
+     "kast": 75.0,
+     "rating": 0.9
+    },
+    {
+     "player": 20253,
+     "nick": "Dragon",
+     "kills": 14,
+     "deaths": 16,
+     "swing": -5.96,
+     "adr": 72.1,
+     "kast": 87.5,
+     "rating": 0.89
+    }
+   ],
+   "t": [
+    {
+     "player": 11343,
+     "nick": "SHiPZ",
+     "kills": 12,
+     "deaths": 9,
+     "swing": 7.22,
+     "adr": 111.8,
+     "kast": 75.0,
+     "rating": 1.92
+    },
+    {
+     "player": 21657,
+     "nick": "Skrimo",
+     "kills": 9,
+     "deaths": 8,
+     "swing": 3.46,
+     "adr": 77.8,
+     "kast": 91.7,
+     "rating": 1.47
+    },
+    {
+     "player": 15369,
+     "nick": "REDSTAR",
+     "kills": 7,
+     "deaths": 7,
+     "swing": 4.17,
+     "adr": 70.5,
+     "kast": 58.3,
+     "rating": 1.25
+    },
+    {
+     "player": 20097,
+     "nick": "h4rn",
+     "kills": 9,
+     "deaths": 9,
+     "swing": 1.34,
+     "adr": 79.3,
+     "kast": 75.0,
+     "rating": 1.07
+    },
+    {
+     "player": 11217,
+     "nick": "SPELLAN",
+     "kills": 3,
+     "deaths": 9,
+     "swing": -0.52,
+     "adr": 37.2,
+     "kast": 58.3,
+     "rating": 0.78
+    },
+    {
+     "player": 20252,
+     "nick": "Kind0",
+     "kills": 11,
+     "deaths": 5,
+     "swing": 8.11,
+     "adr": 85.7,
+     "kast": 91.7,
+     "rating": 1.81
+    },
+    {
+     "player": 20253,
+     "nick": "Dragon",
+     "kills": 10,
+     "deaths": 7,
+     "swing": -2.37,
+     "adr": 97.0,
+     "kast": 91.7,
+     "rating": 1.24
+    },
+    {
+     "player": 20813,
+     "nick": "VLDN",
+     "kills": 8,
+     "deaths": 8,
+     "swing": -1.57,
+     "adr": 57.9,
+     "kast": 75.0,
+     "rating": 1.0
+    },
+    {
+     "player": 21302,
+     "nick": "Cjoffo",
+     "kills": 8,
+     "deaths": 8,
+     "swing": -1.91,
+     "adr": 72.1,
+     "kast": 75.0,
+     "rating": 0.99
+    },
+    {
+     "player": 21783,
+     "nick": "brutmonster",
+     "kills": 4,
+     "deaths": 7,
+     "swing": -0.13,
+     "adr": 48.2,
+     "kast": 66.7,
+     "rating": 0.9
+    }
+   ],
+   "ct": [
+    {
+     "player": 20097,
+     "nick": "h4rn",
+     "kills": 9,
+     "deaths": 8,
+     "swing": 11.71,
+     "adr": 92.8,
+     "kast": 75.0,
+     "rating": 1.69
+    },
+    {
+     "player": 11217,
+     "nick": "SPELLAN",
+     "kills": 7,
+     "deaths": 8,
+     "swing": -3.73,
+     "adr": 78.7,
+     "kast": 66.7,
+     "rating": 0.91
+    },
+    {
+     "player": 21657,
+     "nick": "Skrimo",
+     "kills": 7,
+     "deaths": 8,
+     "swing": -0.97,
+     "adr": 58.4,
+     "kast": 50.0,
+     "rating": 0.84
+    },
+    {
+     "player": 15369,
+     "nick": "REDSTAR",
+     "kills": 5,
+     "deaths": 7,
+     "swing": 0.55,
+     "adr": 46.4,
+     "kast": 66.7,
+     "rating": 0.77
+    },
+    {
+     "player": 11343,
+     "nick": "SHiPZ",
+     "kills": 7,
+     "deaths": 10,
+     "swing": -9.7,
+     "adr": 65.6,
+     "kast": 50.0,
+     "rating": 0.58
+    },
+    {
+     "player": 21302,
+     "nick": "Cjoffo",
+     "kills": 17,
+     "deaths": 10,
+     "swing": 4.68,
+     "adr": 132.1,
+     "kast": 91.7,
+     "rating": 1.95
+    },
+    {
+     "player": 21783,
+     "nick": "brutmonster",
+     "kills": 9,
+     "deaths": 7,
+     "swing": -3.42,
+     "adr": 67.2,
+     "kast": 75.0,
+     "rating": 0.97
+    },
+    {
+     "player": 20813,
+     "nick": "VLDN",
+     "kills": 6,
+     "deaths": 7,
+     "swing": -0.56,
+     "adr": 64.9,
+     "kast": 75.0,
+     "rating": 0.81
+    },
+    {
+     "player": 20253,
+     "nick": "Dragon",
+     "kills": 4,
+     "deaths": 9,
+     "swing": -9.56,
+     "adr": 47.2,
+     "kast": 83.3,
+     "rating": 0.55
+    },
+    {
+     "player": 20252,
+     "nick": "Kind0",
+     "kills": 4,
+     "deaths": 8,
+     "swing": -6.81,
+     "adr": 46.2,
+     "kast": 58.3,
+     "rating": 0.49
+    }
+   ]
+  },
+  "de_dust2": {
+   "both": [
+    {
+     "player": 11217,
+     "nick": "SPELLAN",
+     "kills": 20,
+     "deaths": 15,
+     "swing": 9.76,
+     "adr": 101.1,
+     "kast": 81.8,
+     "rating": 1.85
+    },
+    {
+     "player": 15369,
+     "nick": "REDSTAR",
+     "kills": 19,
+     "deaths": 16,
+     "swing": 5.13,
+     "adr": 100.4,
+     "kast": 86.4,
+     "rating": 1.55
+    },
+    {
+     "player": 20097,
+     "nick": "h4rn",
+     "kills": 13,
+     "deaths": 9,
+     "swing": 5.13,
+     "adr": 64.7,
+     "kast": 72.7,
+     "rating": 1.3
+    },
+    {
+     "player": 21657,
+     "nick": "Skrimo",
+     "kills": 10,
+     "deaths": 14,
+     "swing": -3.9,
+     "adr": 52.9,
+     "kast": 77.3,
+     "rating": 0.79
+    },
+    {
+     "player": 11343,
+     "nick": "SHiPZ",
+     "kills": 16,
+     "deaths": 16,
+     "swing": -6.25,
+     "adr": 57.7,
+     "kast": 54.5,
+     "rating": 0.74
+    },
+    {
+     "player": 20253,
+     "nick": "Dragon",
+     "kills": 18,
+     "deaths": 14,
+     "swing": 2.44,
+     "adr": 88.7,
+     "kast": 77.3,
+     "rating": 1.34
+    },
+    {
+     "player": 21302,
+     "nick": "Cjoffo",
+     "kills": 16,
+     "deaths": 14,
+     "swing": 0.9,
+     "adr": 76.5,
+     "kast": 68.2,
+     "rating": 1.07
+    },
+    {
+     "player": 21783,
+     "nick": "brutmonster",
+     "kills": 13,
+     "deaths": 14,
+     "swing": -0.14,
+     "adr": 60.1,
+     "kast": 68.2,
+     "rating": 0.85
+    },
+    {
+     "player": 20813,
+     "nick": "VLDN",
+     "kills": 12,
+     "deaths": 17,
+     "swing": -3.6,
+     "adr": 67.4,
+     "kast": 72.7,
+     "rating": 0.78
+    },
+    {
+     "player": 20252,
+     "nick": "Kind0",
+     "kills": 11,
+     "deaths": 19,
+     "swing": -9.46,
+     "adr": 56.3,
+     "kast": 50.0,
+     "rating": 0.45
+    }
+   ],
+   "t": [
+    {
+     "player": 11217,
+     "nick": "SPELLAN",
+     "kills": 12,
+     "deaths": 11,
+     "swing": 13.01,
+     "adr": 106.8,
+     "kast": 75.0,
+     "rating": 2.07
+    },
+    {
+     "player": 20097,
+     "nick": "h4rn",
+     "kills": 7,
+     "deaths": 6,
+     "swing": 8.98,
+     "adr": 70.6,
+     "kast": 66.7,
+     "rating": 1.53
+    },
+    {
+     "player": 15369,
+     "nick": "REDSTAR",
+     "kills": 6,
+     "deaths": 10,
+     "swing": 3.54,
+     "adr": 68.0,
+     "kast": 75.0,
+     "rating": 1.18
+    },
+    {
+     "player": 21657,
+     "nick": "Skrimo",
+     "kills": 7,
+     "deaths": 8,
+     "swing": -2.67,
+     "adr": 51.8,
+     "kast": 75.0,
+     "rating": 0.94
+    },
+    {
+     "player": 11343,
+     "nick": "SHiPZ",
+     "kills": 6,
+     "deaths": 11,
+     "swing": -7.69,
+     "adr": 50.3,
+     "kast": 50.0,
+     "rating": 0.47
+    },
+    {
+     "player": 20253,
+     "nick": "Dragon",
+     "kills": 8,
+     "deaths": 7,
+     "swing": 2.25,
+     "adr": 53.8,
+     "kast": 60.0,
+     "rating": 1.17
+    },
+    {
+     "player": 21302,
+     "nick": "Cjoffo",
+     "kills": 6,
+     "deaths": 7,
+     "swing": 1.49,
+     "adr": 68.9,
+     "kast": 60.0,
+     "rating": 1.04
+    },
+    {
+     "player": 20813,
+     "nick": "VLDN",
+     "kills": 6,
+     "deaths": 8,
+     "swing": -2.49,
+     "adr": 86.9,
+     "kast": 70.0,
+     "rating": 0.88
+    },
+    {
+     "player": 21783,
+     "nick": "brutmonster",
+     "kills": 2,
+     "deaths": 8,
+     "swing": 3.25,
+     "adr": 36.1,
+     "kast": 60.0,
+     "rating": 0.71
+    },
+    {
+     "player": 20252,
+     "nick": "Kind0",
+     "kills": 2,
+     "deaths": 10,
+     "swing": -8.0,
+     "adr": 38.2,
+     "kast": 30.0,
+     "rating": 0.3
+    }
+   ],
+   "ct": [
+    {
+     "player": 15369,
+     "nick": "REDSTAR",
+     "kills": 13,
+     "deaths": 6,
+     "swing": 7.03,
+     "adr": 139.2,
+     "kast": 100.0,
+     "rating": 1.99
+    },
+    {
+     "player": 11217,
+     "nick": "SPELLAN",
+     "kills": 8,
+     "deaths": 4,
+     "swing": 5.86,
+     "adr": 94.3,
+     "kast": 90.0,
+     "rating": 1.59
+    },
+    {
+     "player": 11343,
+     "nick": "SHiPZ",
+     "kills": 10,
+     "deaths": 5,
+     "swing": -4.52,
+     "adr": 66.6,
+     "kast": 60.0,
+     "rating": 1.07
+    },
+    {
+     "player": 20097,
+     "nick": "h4rn",
+     "kills": 6,
+     "deaths": 3,
+     "swing": 0.5,
+     "adr": 57.7,
+     "kast": 80.0,
+     "rating": 1.03
+    },
+    {
+     "player": 21657,
+     "nick": "Skrimo",
+     "kills": 3,
+     "deaths": 6,
+     "swing": -5.38,
+     "adr": 54.2,
+     "kast": 80.0,
+     "rating": 0.62
+    },
+    {
+     "player": 20253,
+     "nick": "Dragon",
+     "kills": 10,
+     "deaths": 7,
+     "swing": 2.6,
+     "adr": 117.8,
+     "kast": 91.7,
+     "rating": 1.48
+    },
+    {
+     "player": 21302,
+     "nick": "Cjoffo",
+     "kills": 10,
+     "deaths": 7,
+     "swing": 0.4,
+     "adr": 82.9,
+     "kast": 75.0,
+     "rating": 1.09
+    },
+    {
+     "player": 21783,
+     "nick": "brutmonster",
+     "kills": 11,
+     "deaths": 6,
+     "swing": -2.96,
+     "adr": 80.1,
+     "kast": 75.0,
+     "rating": 0.97
+    },
+    {
+     "player": 20813,
+     "nick": "VLDN",
+     "kills": 6,
+     "deaths": 9,
+     "swing": -4.53,
+     "adr": 51.2,
+     "kast": 75.0,
+     "rating": 0.7
+    },
+    {
+     "player": 20252,
+     "nick": "Kind0",
+     "kills": 9,
+     "deaths": 9,
+     "swing": -10.68,
+     "adr": 71.3,
+     "kast": 66.7,
+     "rating": 0.57
+    }
+   ]
   }
  },
- "mvp": null,
+ "mvp": 20097,
  "highlight": null,
  "h2h": {
   "team1Wins": 2,

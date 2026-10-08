@@ -11,11 +11,11 @@
    "round": "Quarter-finals",
    "matches": [
     {
-     "matchId": null,
-     "time": null,
+     "matchId": 2398751,
+     "time": "2026-10-09T19:00:00+08:00",
      "bo": 3,
-     "team1": "Vitality",
-     "team2": "PARIVISION",
+     "team1": 9565,
+     "team2": 12467,
      "score": [
       null,
       null
@@ -23,11 +23,11 @@
      "winner": null
     },
     {
-     "matchId": null,
-     "time": null,
+     "matchId": 2398750,
+     "time": "2026-10-09T16:30:00+08:00",
      "bo": 3,
-     "team1": "1win",
-     "team2": "Aurora",
+     "team1": 10621,
+     "team2": 11861,
      "score": [
       null,
       null
@@ -35,11 +35,11 @@
      "winner": null
     },
     {
-     "matchId": null,
-     "time": null,
+     "matchId": 2398753,
+     "time": "2026-10-10T00:00:00+08:00",
      "bo": 3,
-     "team1": "Falcons",
-     "team2": "Spirit",
+     "team1": 11283,
+     "team2": 7020,
      "score": [
       null,
       null
@@ -47,11 +47,11 @@
      "winner": null
     },
     {
-     "matchId": null,
-     "time": null,
+     "matchId": 2398752,
+     "time": "2026-10-09T21:30:00+08:00",
      "bo": 3,
-     "team1": "FURIA",
-     "team2": "MOUZ",
+     "team1": 8297,
+     "team2": 4494,
      "score": [
       null,
       null
@@ -67,8 +67,8 @@
      "matchId": null,
      "time": null,
      "bo": null,
-     "team1": "TBD",
-     "team2": "TBD",
+     "team1": null,
+     "team2": null,
      "score": [
       null,
       null
@@ -79,8 +79,8 @@
      "matchId": null,
      "time": null,
      "bo": null,
-     "team1": "TBD",
-     "team2": "TBD",
+     "team1": null,
+     "team2": null,
      "score": [
       null,
       null
@@ -96,8 +96,8 @@
      "matchId": null,
      "time": null,
      "bo": 5,
-     "team1": "TBD",
-     "team2": "TBD",
+     "team1": null,
+     "team2": null,
      "score": [
       null,
       null
@@ -107,13 +107,15 @@
    ]
   }
  ],
+ "lower": [],
+ "groups": [],
  "thirdPlace": [
   {
    "matchId": null,
    "time": null,
    "bo": 3,
-   "team1": "TBD",
-   "team2": "TBD",
+   "team1": null,
+   "team2": null,
    "score": [
     null,
     null

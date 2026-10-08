@@ -5,7 +5,30 @@
  "rankHltv": null,
  "rankVrs": null,
  "players": [],
- "events": [],
- "recent": [],
- "mapStats": {}
+ "events": [
+  9420
+ ],
+ "recent": [
+  {
+   "matchId": 2398404,
+   "date": "2026-10-08",
+   "opponent": 7969,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 9420
+  }
+ ],
+ "mapStats": {
+  "de_anubis": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_dust2": {
+   "played": 1,
+   "winPct": 0
+  }
+ }
 }

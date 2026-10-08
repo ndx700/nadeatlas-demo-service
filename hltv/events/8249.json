@@ -11,28 +11,28 @@
    "round": "Quarter-finals",
    "matches": [
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Falcons",
-     "team2": "G2",
+     "matchId": 2396947,
+     "time": "2026-09-04T22:00:00+08:00",
+     "bo": 3,
+     "team1": 11283,
+     "team2": 5995,
      "score": [
-      null,
-      null
+      2,
+      0
      ],
-     "winner": null
+     "winner": 11283
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "FURIA",
-     "team2": "Vitality",
+     "matchId": 2396948,
+     "time": "2026-09-05T00:50:00+08:00",
+     "bo": 3,
+     "team1": 8297,
+     "team2": 9565,
      "score": [
-      null,
-      null
+      1,
+      2
      ],
-     "winner": null
+     "winner": 9565
     }
    ]
   },
@@ -40,28 +40,28 @@
    "round": "Semi-finals",
    "matches": [
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Spirit",
-     "team2": "Falcons",
+     "matchId": 2396949,
+     "time": "2026-09-05T22:00:00+08:00",
+     "bo": 3,
+     "team1": 7020,
+     "team2": 11283,
      "score": [
-      null,
-      null
+      2,
+      0
      ],
-     "winner": null
+     "winner": 7020
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "MOUZ",
-     "team2": "Vitality",
+     "matchId": 2396950,
+     "time": "2026-09-06T00:45:00+08:00",
+     "bo": 3,
+     "team1": 4494,
+     "team2": 9565,
      "score": [
-      null,
-      null
+      2,
+      0
      ],
-     "winner": null
+     "winner": 4494
     }
    ]
   },
@@ -69,364 +69,341 @@
    "round": "Grand final",
    "matches": [
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Spirit",
-     "team2": "MOUZ",
+     "matchId": 2396951,
+     "time": "2026-09-06T22:00:00+08:00",
+     "bo": 5,
+     "team1": 7020,
+     "team2": 4494,
      "score": [
-      null,
-      null
+      3,
+      1
      ],
-     "winner": null
+     "winner": 7020
     }
    ]
-  },
+  }
+ ],
+ "lower": [],
+ "groups": [
   {
-   "round": "Opening round",
+   "name": "Group A",
    "matches": [
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Aurora",
-     "team2": "G2",
+     "matchId": 2396923,
+     "time": "2026-08-26T17:00:00+08:00",
+     "bo": 3,
+     "team1": 11861,
+     "team2": 5995,
      "score": [
-      null,
-      null
+      0,
+      2
      ],
-     "winner": null
+     "winner": 5995,
+     "round": "Opening round"
+    },
+    {
+     "matchId": 2396924,
+     "time": "2026-08-26T19:55:00+08:00",
+     "bo": 3,
+     "team1": 7020,
+     "team2": 13926,
+     "score": [
+      2,
+      0
+     ],
+     "winner": 7020,
+     "round": "Opening round"
     },
     {
      "matchId": null,
      "time": null,
      "bo": null,
-     "team1": "Spirit",
-     "team2": "DENDELE",
+     "team1": 4608,
+     "team2": 12376,
      "score": [
-      null,
-      null
+      1,
+      2
      ],
-     "winner": null
+     "winner": 12376,
+     "round": "Opening round"
     },
     {
      "matchId": null,
      "time": null,
      "bo": null,
-     "team1": "Natus Vincere",
-     "team2": "M80",
+     "team1": 8297,
+     "team2": 4773,
      "score": [
-      null,
-      null
+      2,
+      0
      ],
-     "winner": null
+     "winner": 8297,
+     "round": "Opening round"
+    },
+    {
+     "matchId": 2396932,
+     "time": "2026-08-28T19:50:00+08:00",
+     "bo": 3,
+     "team1": 5995,
+     "team2": 7020,
+     "score": [
+      0,
+      2
+     ],
+     "winner": 7020,
+     "round": "Upper semi-finals"
     },
     {
      "matchId": null,
      "time": null,
      "bo": null,
-     "team1": "FURIA",
-     "team2": "paiN",
+     "team1": 12376,
+     "team2": 8297,
      "score": [
-      null,
-      null
+      0,
+      2
      ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Upper semi-finals",
-   "matches": [
+     "winner": 8297,
+     "round": "Upper semi-finals"
+    },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "G2",
-     "team2": "Spirit",
+     "matchId": 2396943,
+     "time": "2026-08-31T17:00:00+08:00",
+     "bo": 3,
+     "team1": 7020,
+     "team2": 8297,
      "score": [
-      null,
-      null
+      2,
+      0
      ],
-     "winner": null
+     "winner": 7020,
+     "round": "Upper final"
     },
     {
      "matchId": null,
      "time": null,
      "bo": null,
-     "team1": "M80",
-     "team2": "FURIA",
+     "team1": 11861,
+     "team2": 13926,
      "score": [
-      null,
-      null
+      2,
+      0
      ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Upper final",
-   "matches": [
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Spirit",
-     "team2": "FURIA",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Lower round 1",
-   "matches": [
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Aurora",
-     "team2": "DENDELE",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
+     "winner": 11861,
+     "round": "Lower round 1"
     },
     {
      "matchId": null,
      "time": null,
      "bo": null,
-     "team1": "Natus Vincere",
-     "team2": "paiN",
+     "team1": 4608,
+     "team2": 4773,
      "score": [
-      null,
-      null
+      2,
+      0
      ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Lower semi-finals",
-   "matches": [
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "M80",
-     "team2": "Aurora",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
+     "winner": 4608,
+     "round": "Lower round 1"
     },
     {
      "matchId": null,
      "time": null,
      "bo": null,
-     "team1": "G2",
-     "team2": "Natus Vincere",
+     "team1": 12376,
+     "team2": 11861,
      "score": [
-      null,
-      null
+      0,
+      2
      ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Lower final",
-   "matches": [
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Aurora",
-     "team2": "G2",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Opening round",
-   "matches": [
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Vitality",
-     "team2": "Inner Circle",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
+     "winner": 11861,
+     "round": "Lower semi-finals"
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "MOUZ",
-     "team2": "9z",
+     "matchId": 2396940,
+     "time": "2026-08-30T17:05:00+08:00",
+     "bo": 3,
+     "team1": 5995,
+     "team2": 4608,
      "score": [
-      null,
-      null
+      2,
+      0
      ],
-     "winner": null
+     "winner": 5995,
+     "round": "Lower semi-finals"
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Legacy",
-     "team2": "FUT",
+     "matchId": 2396944,
+     "time": "2026-08-31T19:30:00+08:00",
+     "bo": 3,
+     "team1": 11861,
+     "team2": 5995,
      "score": [
-      null,
-      null
+      1,
+      2
      ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Falcons",
-     "team2": "Lynn Vision",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
+     "winner": 5995,
+     "round": "Lower final"
     }
    ]
   },
   {
-   "round": "Upper semi-finals",
+   "name": "Group B",
    "matches": [
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Inner Circle",
-     "team2": "MOUZ",
+     "matchId": 2396927,
+     "time": "2026-08-27T17:00:00+08:00",
+     "bo": 3,
+     "team1": 9565,
+     "team2": 13117,
      "score": [
-      null,
-      null
+      0,
+      2
      ],
-     "winner": null
+     "winner": 13117,
+     "round": "Opening round"
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Legacy",
-     "team2": "Falcons",
+     "matchId": 2396928,
+     "time": "2026-08-27T20:00:00+08:00",
+     "bo": 3,
+     "team1": 4494,
+     "team2": 9996,
      "score": [
-      null,
-      null
+      2,
+      0
      ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Upper final",
-   "matches": [
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "MOUZ",
-     "team2": "Falcons",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Lower round 1",
-   "matches": [
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Vitality",
-     "team2": "9z",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
+     "winner": 4494,
+     "round": "Opening round"
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "FUT",
-     "team2": "Lynn Vision",
+     "matchId": 2396929,
+     "time": "2026-08-27T22:30:00+08:00",
+     "bo": 3,
+     "team1": 12468,
+     "team2": 13286,
      "score": [
-      null,
-      null
+      2,
+      0
      ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Lower semi-finals",
-   "matches": [
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Legacy",
-     "team2": "Vitality",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
+     "winner": 12468,
+     "round": "Opening round"
     },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Inner Circle",
-     "team2": "FUT",
+     "matchId": 2396930,
+     "time": "2026-08-28T01:10:00+08:00",
+     "bo": 3,
+     "team1": 11283,
+     "team2": 8840,
      "score": [
-      null,
-      null
+      2,
+      1
      ],
-     "winner": null
-    }
-   ]
-  },
-  {
-   "round": "Lower final",
-   "matches": [
+     "winner": 11283,
+     "round": "Opening round"
+    },
     {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Vitality",
-     "team2": "FUT",
+     "matchId": 2396936,
+     "time": "2026-08-29T19:10:00+08:00",
+     "bo": 3,
+     "team1": 13117,
+     "team2": 4494,
      "score": [
-      null,
-      null
+      0,
+      2
      ],
-     "winner": null
+     "winner": 4494,
+     "round": "Upper semi-finals"
+    },
+    {
+     "matchId": 2396938,
+     "time": "2026-08-30T00:45:00+08:00",
+     "bo": 3,
+     "team1": 12468,
+     "team2": 11283,
+     "score": [
+      1,
+      2
+     ],
+     "winner": 11283,
+     "round": "Upper semi-finals"
+    },
+    {
+     "matchId": 2396945,
+     "time": "2026-08-31T23:35:00+08:00",
+     "bo": 3,
+     "team1": 4494,
+     "team2": 11283,
+     "score": [
+      2,
+      1
+     ],
+     "winner": 4494,
+     "round": "Upper final"
+    },
+    {
+     "matchId": 2396935,
+     "time": "2026-08-29T17:00:00+08:00",
+     "bo": 3,
+     "team1": 9565,
+     "team2": 9996,
+     "score": [
+      2,
+      0
+     ],
+     "winner": 9565,
+     "round": "Lower round 1"
+    },
+    {
+     "matchId": 2396937,
+     "time": "2026-08-29T21:30:00+08:00",
+     "bo": 3,
+     "team1": 13286,
+     "team2": 8840,
+     "score": [
+      2,
+      1
+     ],
+     "winner": 13286,
+     "round": "Lower round 1"
+    },
+    {
+     "matchId": 2396941,
+     "time": "2026-08-31T01:10:00+08:00",
+     "bo": 3,
+     "team1": 12468,
+     "team2": 9565,
+     "score": [
+      1,
+      2
+     ],
+     "winner": 9565,
+     "round": "Lower semi-finals"
+    },
+    {
+     "matchId": 2396942,
+     "time": "2026-08-30T22:40:00+08:00",
+     "bo": 3,
+     "team1": 13117,
+     "team2": 13286,
+     "score": [
+      0,
+      2
+     ],
+     "winner": 13286,
+     "round": "Lower semi-finals"
+    },
+    {
+     "matchId": 2396946,
+     "time": "2026-09-01T02:35:00+08:00",
+     "bo": 3,
+     "team1": 9565,
+     "team2": 13286,
+     "score": [
+      2,
+      0
+     ],
+     "winner": 9565,
+     "round": "Lower final"
     }
    ]
   }

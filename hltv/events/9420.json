@@ -12,22 +12,34 @@
    "matches": [
     {
      "matchId": 2398403,
+     "time": "2026-10-08T16:00:00+08:00",
+     "bo": 3,
+     "team1": 13518,
+     "team2": 13573,
+     "score": [
+      2,
+      1
+     ],
+     "winner": 13518
+    },
+    {
+     "matchId": null,
      "time": null,
      "bo": null,
-     "team1": "Acend",
-     "team2": "ex-Zero Tenacity",
+     "team1": 12380,
+     "team2": 7187,
      "score": [
-      null,
-      null
+      0,
+      1
      ],
-     "winner": null
+     "winner": 7187
     },
     {
      "matchId": null,
      "time": null,
      "bo": 3,
-     "team1": "CYBERSHOKE",
-     "team2": "Nexus",
+     "team1": null,
+     "team2": 13924,
      "score": [
       null,
       null
@@ -37,72 +49,60 @@
     {
      "matchId": null,
      "time": null,
+     "bo": null,
+     "team1": 13808,
+     "team2": 11446,
+     "score": [
+      0,
+      1
+     ],
+     "winner": 11446
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": null,
+     "team2": 13901,
+     "score": [
+      2,
+      0
+     ],
+     "winner": null
+    },
+    {
+     "matchId": null,
+     "time": null,
+     "bo": null,
+     "team1": 13479,
+     "team2": 13877,
+     "score": [
+      1,
+      2
+     ],
+     "winner": 13877
+    },
+    {
+     "matchId": 2398404,
+     "time": "2026-10-08T19:30:00+08:00",
      "bo": 3,
-     "team1": "SINNERS",
-     "team2": "Black Phoenix",
+     "team1": 7969,
+     "team2": 12609,
      "score": [
-      null,
-      null
+      2,
+      0
      ],
-     "winner": null
+     "winner": 7969
     },
     {
      "matchId": null,
      "time": null,
      "bo": null,
-     "team1": "Walczaki",
-     "team2": "Leo",
+     "team1": null,
+     "team2": 13838,
      "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Iberian Soul",
-     "team2": "ex-RUSTEC",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Omega",
-     "team2": "Noir Verse",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": 3,
-     "team1": "Nemiga",
-     "team2": "Lavked",
-     "score": [
-      null,
-      null
-     ],
-     "winner": null
-    },
-    {
-     "matchId": null,
-     "time": null,
-     "bo": null,
-     "team1": "Gothic",
-     "team2": "EAC",
-     "score": [
-      null,
-      null
+      2,
+      0
      ],
      "winner": null
     }
@@ -115,8 +115,8 @@
      "matchId": null,
      "time": null,
      "bo": null,
-     "team1": "TBD",
-     "team2": "TBD",
+     "team1": 13518,
+     "team2": 7187,
      "score": [
       null,
       null
@@ -127,8 +127,8 @@
      "matchId": null,
      "time": null,
      "bo": null,
-     "team1": "TBD",
-     "team2": "Leo",
+     "team1": null,
+     "team2": 11446,
      "score": [
       null,
       null
@@ -139,8 +139,8 @@
      "matchId": null,
      "time": null,
      "bo": null,
-     "team1": "Iberian Soul",
-     "team2": "Noir Verse",
+     "team1": null,
+     "team2": 13877,
      "score": [
       null,
       null
@@ -151,8 +151,8 @@
      "matchId": null,
      "time": null,
      "bo": null,
-     "team1": "TBD",
-     "team2": "Gothic",
+     "team1": 7969,
+     "team2": null,
      "score": [
       null,
       null
@@ -168,8 +168,8 @@
      "matchId": null,
      "time": null,
      "bo": null,
-     "team1": "TBD",
-     "team2": "TBD",
+     "team1": null,
+     "team2": null,
      "score": [
       null,
       null
@@ -180,8 +180,8 @@
      "matchId": null,
      "time": null,
      "bo": null,
-     "team1": "TBD",
-     "team2": "TBD",
+     "team1": null,
+     "team2": null,
      "score": [
       null,
       null
@@ -197,8 +197,8 @@
      "matchId": null,
      "time": null,
      "bo": 3,
-     "team1": "TBD",
-     "team2": "TBD",
+     "team1": null,
+     "team2": null,
      "score": [
       null,
       null
@@ -208,6 +208,8 @@
    ]
   }
  ],
+ "lower": [],
+ "groups": [],
  "thirdPlace": [],
  "teams": [
   7187,
@@ -226,13 +228,13 @@
   11018,
   13747,
   13991,
+  12380,
   13479,
   13808,
   7969,
   10577,
   13104,
   13518,
-  12380,
   14014,
   13973,
   13592,
