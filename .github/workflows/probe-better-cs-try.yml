@@ -1,0 +1,23 @@
+name: Probe better-cs-api samples
+on:
+  workflow_dispatch:
+    inputs:
+      paths:
+        description: Space-separated API paths (1 credit each)
+        required: true
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 .github/probes/better_cs_try.py
+        env:
+          BETTER_CS_API_KEY: ${{ secrets.BETTER_CS_API_KEY }}
+          PATHS: ${{ inputs.paths }}
+      - run: |
+          git config user.name "github-actions[bot]"; git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/probes/better-cs-samples; git diff --cached --quiet && exit 0
+          git commit -qm "probe: better-cs-api samples"
+          for i in 1 2 3 4 5; do git pull -q --rebase origin main && git push -q origin HEAD:main && exit 0; sleep 5; done
