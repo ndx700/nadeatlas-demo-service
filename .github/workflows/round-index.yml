@@ -63,3 +63,8 @@ jobs:
             sleep 5
           done
           echo "::warning::could not push the round index"; exit 1
+      - name: Drop jsDelivr's old copy
+        if: steps.index.outputs.changed == '1'
+        run: |
+          code=$(curl -s -o /dev/null -w '%{http_code}' -m 20 "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/rounds/all.json") || true
+          echo "::notice::jsDelivr purge of rounds/all.json: $code"
