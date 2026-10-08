@@ -1,0 +1,26 @@
+{
+  "id": 8040, "name": "IEM Example 2026", "start": "2026-10-01", "end": "2026-10-12", "status": "live",
+  "location": "Chengdu", "prize": "$250,000",
+  "playoffs": [
+    {"round": "Quarters", "matches": [
+      {"matchId": 2398801, "time": "2026-10-10T19:00:00+08:00", "bo": 3, "team1": 9565, "team2": 12345, "score": [2, 0], "winner": 9565},
+      {"matchId": 2398802, "time": "2026-10-10T16:30:00+08:00", "bo": 3, "team1": null, "team2": null}
+    ]},
+    {"round": "Semis", "matches": [
+      {"matchId": null, "time": "2026-10-11T19:00:00+08:00", "bo": 3, "team1": 9565, "team2": null}
+    ]},
+    {"round": "Grand final", "matches": [
+      {"matchId": null, "time": "2026-10-12T23:00:00+08:00", "bo": 5, "team1": null, "team2": null}
+    ]}
+  ],
+  "thirdPlace": [{"matchId": null, "bo": 3, "team1": null, "team2": null}],
+  "swiss": {
+    "rounds": [
+      {"record": "0:0", "matches": [{"matchId": 2398700, "team1": 9565, "team2": 12345, "score": [1, 0], "winner": 9565}]},
+      {"record": "1:0", "matches": []},
+      {"record": "0:1", "matches": []}
+    ],
+    "advanced": [{"team": 9565, "record": "3:0"}],
+    "eliminated": [{"team": 12345, "record": "0:3"}]
+  }
+}

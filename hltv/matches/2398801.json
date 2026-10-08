@@ -1,0 +1,35 @@
+{
+  "id": 2398801, "eventId": 8040, "stage": "Quarters", "time": "2026-10-10T19:00:00+08:00", "bo": 3, "status": "finished",
+  "team1": {"id": 9565, "score": 2, "players": [11893, 7322]},
+  "team2": {"id": 12345, "score": 0, "players": []},
+  "maps": [
+    {"map": "de_inferno", "pick": 9565, "score": [13, 9], "halves": [[7, 5], [6, 4]]},
+    {"map": "de_mirage", "pick": 12345, "score": [13, 11], "halves": [[5, 7], [8, 4]]}
+  ],
+  "stats": {
+    "all": {
+      "both": [
+        {"player": 11893, "kills": 45, "deaths": 30, "swing": 3.31, "adr": 96.0, "kast": 77.0, "rating": 1.37},
+        {"player": 7322, "kills": 30, "deaths": 33, "swing": -1.2, "adr": 64.6, "kast": 70.1, "rating": 0.95}
+      ],
+      "t": [],
+      "ct": []
+    },
+    "de_inferno": {"both": [], "t": [], "ct": []},
+    "de_mirage": {"both": [], "t": [], "ct": []}
+  },
+  "mvp": {"player": 11893, "maps": 2, "kpr": 0.88, "dpr": 0.65, "kast": 77.0, "mkRating": 1.19, "swing": 3.31, "adr": 96.0, "rating": 1.37},
+  "highlight": null,
+  "mapStats": {
+    "team1": {"de_dust2": {"played": 10, "winPct": 70}},
+    "team2": {"de_dust2": {"played": 15, "winPct": 73}}
+  },
+  "recent": {
+    "team1": [{"matchId": 2398743, "opponent": 4608, "bo": 3, "score": [2, 1]}],
+    "team2": []
+  },
+  "h2h": {
+    "team1Wins": 10, "team2Wins": 11, "overtimes": 7,
+    "maps": [{"date": "2026-09-05", "eventId": 7998, "event": "BLAST Open Porto 2026", "map": "de_ancient", "score": [11, 13]}]
+  }
+}

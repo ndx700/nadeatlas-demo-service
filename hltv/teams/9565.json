@@ -1,0 +1,15 @@
+{
+  "id": 9565, "name": "Vitality", "country": "FR", "rankHltv": 1, "rankVrs": 2,
+  "players": [
+    {"id": 11893, "nick": "ZywOo", "name": "Mathieu Herbaut", "country": "FR"},
+    {"id": 7322, "nick": "apEX", "name": "Dan Madesclaire", "country": "FR", "role": "igl"}
+  ],
+  "events": [8040],
+  "recent": [
+    {"matchId": 2398801, "date": "2026-10-10", "opponent": 12345, "bo": 3, "score": [2, 0], "eventId": 8040}
+  ],
+  "mapStats": {
+    "de_dust2": {"played": 10, "winPct": 70},
+    "de_mirage": {"played": 6, "winPct": 67}
+  }
+}

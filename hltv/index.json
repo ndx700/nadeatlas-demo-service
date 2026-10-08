@@ -1,0 +1,12 @@
+{
+  "template": true,
+  "updatedAt": "2026-10-08T15:00:00+08:00",
+  "teams": [
+    {"id": 9565, "name": "Vitality", "country": "FR", "rankHltv": 1, "rankVrs": 2},
+    {"id": 12345, "name": "Example Team", "country": "CN", "rankHltv": 18, "rankVrs": 20}
+  ],
+  "events": [
+    {"id": 8040, "name": "IEM Example 2026", "start": "2026-10-01", "end": "2026-10-12",
+     "status": "live", "location": "Chengdu", "prize": "$250,000", "teams": [9565, 12345]}
+  ]
+}
