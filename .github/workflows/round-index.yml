@@ -1,0 +1,65 @@
+name: Round index
+
+# The facts the app's round filter searches (rounds/all.json): every round of every parsed replay in
+# index-all-maps.json, read with the app's own .nar reader. Each replay is read once; a run with nothing new ends
+# after the first step. See scripts/rounds/build_rounds.py.
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["Sync verified Dust2 demos"]
+    types: [completed]
+  push:
+    branches: [main]
+    paths:
+      - "index-all-maps.json"
+      - "scripts/rounds/**"
+      - ".github/workflows/round-index.yml"
+  schedule:
+    - cron: "41 */3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: round-index
+  cancel-in-progress: false
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - name: Anything new?
+        id: check
+        run: python3 scripts/rounds/build_rounds.py --check
+      - uses: actions/setup-java@v4
+        if: steps.check.outputs.pending != '0'
+        with:
+          distribution: temurin
+          java-version: '17'
+      - name: Build the reader
+        if: steps.check.outputs.pending != '0'
+        run: |
+          curl -sSL --retry 3 -o /tmp/kc.zip https://github.com/JetBrains/kotlin/releases/download/v2.0.21/kotlin-compiler-2.0.21.zip
+          unzip -q /tmp/kc.zip -d /tmp
+          cd scripts/rounds && /tmp/kotlinc/bin/kotlinc -nowarn Replay.kt Vec3.kt RoundIndex.kt -include-runtime -d /tmp/rounds.jar
+      - name: Index new replays
+        id: index
+        if: steps.check.outputs.pending != '0'
+        env:
+          ROUNDS_JAR: /tmp/rounds.jar
+        run: python3 scripts/rounds/build_rounds.py
+      - name: Publish
+        if: steps.index.outputs.changed == '1'
+        run: |
+          git config user.name "nadeatlas-demo-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add rounds
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Round index: ${{ steps.index.outputs.matches }} matches, ${{ steps.index.outputs.rounds }} rounds"
+          for i in 1 2 3; do
+            git pull --rebase -X theirs && git push && exit 0
+            sleep 5
+          done
+          echo "::warning::could not push the round index"; exit 1
