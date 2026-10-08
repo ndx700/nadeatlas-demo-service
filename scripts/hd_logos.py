@@ -138,6 +138,7 @@ def main():
                 missing.append(n); print("MISS", n)
         except Exception as e:
             missing.append(n); print("FAIL", n, repr(e))
+            if len(missing) <= 5: print(f"::warning::{n}: {e!r}"[:900])
     json.dump(done, open(index_path, "w"), ensure_ascii=False, indent=1, sort_keys=True)
     # Contact sheet on the app's card colour.
     items = sorted(done.items(), key=lambda kv: kv[1]["name"].lower())
@@ -151,6 +152,7 @@ def main():
         d.text((x + 6, y + cell - 2), v["name"][:20], fill=(220, 220, 220, 255))
     sheet.save(os.path.join(OUT, "_sheet.png"))
     print(f"{len(done)} crests, {len(missing)} missing: {missing}")
+    print(f"::notice::{len(done)} crests, {len(missing)} missing: {', '.join(missing)}"[:4000])
 
 if __name__ == "__main__":
     main()
