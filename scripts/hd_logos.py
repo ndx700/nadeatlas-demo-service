@@ -83,7 +83,11 @@ def logo_file(n):
     for t in order:
         img = pages[t].get("pageimage")
         if img and "logo" in img.lower(): return t, img
+    if DEBUG[0] < 3:
+        DEBUG[0] += 1
+        print(f"::warning::{n}: order={order} pages={json.dumps(q)[:700]}")
     return None, None
+DEBUG = [0]
 
 def file_url(name):
     q = api(action="query", titles="File:" + name, prop="imageinfo", iiprop="url")
