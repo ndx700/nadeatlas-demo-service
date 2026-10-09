@@ -371,7 +371,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398740-m2-aurora-vs-betboom-m2-nuke.dem",
     "size": 330692541,
     "matchId": "hltv-2398740-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398740-m2-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398740-m2-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Aurora-vs-BETBOOM-2026-10-05-Nuke-hltv-2398740-m2-r3.nar",
+    "replaySize": 2429458
   },
   {
     "date": "2026-10-05",
@@ -383,7 +385,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398740-m3-aurora-vs-betboom-m3-anubis.dem",
     "size": 366775952,
     "matchId": "hltv-2398740-m3",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398740-m3-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398740-m3-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Aurora-vs-BETBOOM-2026-10-05-Anubis-hltv-2398740-m3-r3.nar",
+    "replaySize": 2803366
   },
   {
     "date": "2026-10-05",
@@ -409,7 +413,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398738-m2-m80-vs-tyloo-m2-cache.dem",
     "size": 317692984,
     "matchId": "hltv-2398738-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398738-m2-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398738-m2-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/M80-vs-TYLOO-2026-10-05-Cache-hltv-2398738-m2-r3.nar",
+    "replaySize": 2325529
   },
   {
     "date": "2026-10-05",
@@ -421,7 +427,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398738-m3-m80-vs-tyloo-m3-anubis.dem",
     "size": 343187485,
     "matchId": "hltv-2398738-m3",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398738-m3-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398738-m3-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/M80-vs-TYLOO-2026-10-05-Anubis-hltv-2398738-m3-r3.nar",
+    "replaySize": 2500416
   },
   {
     "date": "2026-10-05",
@@ -433,7 +441,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398735-m1-9z-vs-natus-vincere-m1-nuke.dem",
     "size": 302515975,
     "matchId": "hltv-2398735-m1",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398735-m1-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398735-m1-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/9z-vs-Natus-Vincere-2026-10-05-Nuke-hltv-2398735-m1-r3.nar",
+    "replaySize": 2238140
   },
   {
     "date": "2026-10-05",
@@ -445,7 +455,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398735-m2-9z-vs-natus-vincere-m2-cache.dem",
     "size": 326031053,
     "matchId": "hltv-2398735-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398735-m2-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398735-m2-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/9z-vs-Natus-Vincere-2026-10-05-Cache-hltv-2398735-m2-r3.nar",
+    "replaySize": 2500479
   },
   {
     "date": "2026-10-05",
@@ -471,7 +483,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398736-m2-legacy-vs-1win-m2-ancient.dem",
     "size": 353740809,
     "matchId": "hltv-2398736-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398736-m2-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398736-m2-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Legacy-vs-1win-2026-10-05-Ancient-hltv-2398736-m2-r3.nar",
+    "replaySize": 2725898
   },
   {
     "date": "2026-10-05",
@@ -497,7 +511,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398734-m2-shinden-vs-g2-m2-ancient.dem",
     "size": 324403362,
     "matchId": "hltv-2398734-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398734-m2-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398734-m2-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/ShindeN-vs-G2-2026-10-05-Ancient-hltv-2398734-m2-r3.nar",
+    "replaySize": 2405354
   },
   {
     "date": "2026-10-05",
@@ -509,7 +525,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398733-m1-parivision-vs-furia-m1-ancient.dem",
     "size": 346213388,
     "matchId": "hltv-2398733-m1",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398733-m1-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398733-m1-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/PARIVISION-vs-FURIA-2026-10-05-Ancient-hltv-2398733-m1-r3.nar",
+    "replaySize": 2522244
   },
   {
     "date": "2026-10-05",
@@ -535,7 +553,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398733-m3-parivision-vs-furia-m3-inferno.dem",
     "size": 464405542,
     "matchId": "hltv-2398733-m3",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398733-m3-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398733-m3-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/PARIVISION-vs-FURIA-2026-10-05-Inferno-hltv-2398733-m3-r3.nar",
+    "replaySize": 3358533
   },
   {
     "date": "2026-10-04",
@@ -631,7 +651,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398732-m1-betboom-vs-m80-m1-cache.dem",
     "size": 475550145,
     "matchId": "hltv-2398732-m1",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398732-m1-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398732-m1-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/BETBOOM-vs-M80-2026-10-04-Cache-hltv-2398732-m1-r3.nar",
+    "replaySize": 3625857
   },
   {
     "date": "2026-10-04",
@@ -643,7 +665,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398732-m2-betboom-vs-m80-m2-anubis.dem",
     "size": 391763115,
     "matchId": "hltv-2398732-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398732-m2-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398732-m2-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/BETBOOM-vs-M80-2026-10-04-Anubis-hltv-2398732-m2-r3.nar",
+    "replaySize": 2957835
   },
   {
     "date": "2026-10-04",
