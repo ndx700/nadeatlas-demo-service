@@ -1,8 +1,8 @@
 {
  "id": 2396613,
  "eventId": 8261,
- "stage": "Playoffs",
- "time": "2026-08-23T08:00:00Z",
+ "stage": "3rd Place Decider Match",
+ "time": "2026-08-23T16:00:00+08:00",
  "bo": 3,
  "status": "finished",
  "team1": {
@@ -191,108 +191,6 @@
     {
      "player": 24144,
      "nick": "molodoy",
-     "kills": 28,
-     "deaths": 18,
-     "swing": 5.04,
-     "adr": 96.2,
-     "kast": 73.3,
-     "rating": 1.41
-    },
-    {
-     "player": 2023,
-     "nick": "FalleN",
-     "kills": 19,
-     "deaths": 22,
-     "swing": 1.19,
-     "adr": 69.9,
-     "kast": 66.7,
-     "rating": 1.08
-    },
-    {
-     "player": 15631,
-     "nick": "KSCERATO",
-     "kills": 18,
-     "deaths": 19,
-     "swing": -1.28,
-     "adr": 66.9,
-     "kast": 66.7,
-     "rating": 0.85
-    },
-    {
-     "player": 13915,
-     "nick": "YEKINDAR",
-     "kills": 17,
-     "deaths": 20,
-     "swing": -4.38,
-     "adr": 67.9,
-     "kast": 53.3,
-     "rating": 0.68
-    },
-    {
-     "player": 12553,
-     "nick": "yuurih",
-     "kills": 12,
-     "deaths": 20,
-     "swing": -1.64,
-     "adr": 44.5,
-     "kast": 60.0,
-     "rating": 0.64
-    },
-    {
-     "player": 19045,
-     "nick": "latto",
-     "kills": 35,
-     "deaths": 16,
-     "swing": 5.45,
-     "adr": 100.6,
-     "kast": 88.9,
-     "rating": 1.67
-    },
-    {
-     "player": 19869,
-     "nick": "try",
-     "kills": 34,
-     "deaths": 21,
-     "swing": 3.6,
-     "adr": 81.3,
-     "kast": 77.8,
-     "rating": 1.23
-    },
-    {
-     "player": 12521,
-     "nick": "arT",
-     "kills": 24,
-     "deaths": 26,
-     "swing": -1.76,
-     "adr": 86.5,
-     "kast": 66.7,
-     "rating": 0.96
-    },
-    {
-     "player": 19686,
-     "nick": "n1ssim",
-     "kills": 24,
-     "deaths": 22,
-     "swing": -1.19,
-     "adr": 67.4,
-     "kast": 69.4,
-     "rating": 0.92
-    },
-    {
-     "player": 15698,
-     "nick": "dumau",
-     "kills": 20,
-     "deaths": 24,
-     "swing": -2.68,
-     "adr": 62.4,
-     "kast": 83.3,
-     "rating": 0.78
-    }
-   ],
-   "ct": [
-    {
-     "player": 24144,
-     "nick": "molodoy",
      "kills": 29,
      "deaths": 25,
      "swing": 0.09,
@@ -389,6 +287,108 @@
      "adr": 42.0,
      "kast": 60.0,
      "rating": 0.54
+    }
+   ],
+   "ct": [
+    {
+     "player": 24144,
+     "nick": "molodoy",
+     "kills": 28,
+     "deaths": 18,
+     "swing": 5.04,
+     "adr": 96.2,
+     "kast": 73.3,
+     "rating": 1.41
+    },
+    {
+     "player": 2023,
+     "nick": "FalleN",
+     "kills": 19,
+     "deaths": 22,
+     "swing": 1.19,
+     "adr": 69.9,
+     "kast": 66.7,
+     "rating": 1.08
+    },
+    {
+     "player": 15631,
+     "nick": "KSCERATO",
+     "kills": 18,
+     "deaths": 19,
+     "swing": -1.28,
+     "adr": 66.9,
+     "kast": 66.7,
+     "rating": 0.85
+    },
+    {
+     "player": 13915,
+     "nick": "YEKINDAR",
+     "kills": 17,
+     "deaths": 20,
+     "swing": -4.38,
+     "adr": 67.9,
+     "kast": 53.3,
+     "rating": 0.68
+    },
+    {
+     "player": 12553,
+     "nick": "yuurih",
+     "kills": 12,
+     "deaths": 20,
+     "swing": -1.64,
+     "adr": 44.5,
+     "kast": 60.0,
+     "rating": 0.64
+    },
+    {
+     "player": 19045,
+     "nick": "latto",
+     "kills": 35,
+     "deaths": 16,
+     "swing": 5.45,
+     "adr": 100.6,
+     "kast": 88.9,
+     "rating": 1.67
+    },
+    {
+     "player": 19869,
+     "nick": "try",
+     "kills": 34,
+     "deaths": 21,
+     "swing": 3.6,
+     "adr": 81.3,
+     "kast": 77.8,
+     "rating": 1.23
+    },
+    {
+     "player": 12521,
+     "nick": "arT",
+     "kills": 24,
+     "deaths": 26,
+     "swing": -1.76,
+     "adr": 86.5,
+     "kast": 66.7,
+     "rating": 0.96
+    },
+    {
+     "player": 19686,
+     "nick": "n1ssim",
+     "kills": 24,
+     "deaths": 22,
+     "swing": -1.19,
+     "adr": 67.4,
+     "kast": 69.4,
+     "rating": 0.92
+    },
+    {
+     "player": 15698,
+     "nick": "dumau",
+     "kills": 20,
+     "deaths": 24,
+     "swing": -2.68,
+     "adr": 62.4,
+     "kast": 83.3,
+     "rating": 0.78
     }
    ]
   },
@@ -499,108 +499,6 @@
     {
      "player": 24144,
      "nick": "molodoy",
-     "kills": 9,
-     "deaths": 6,
-     "swing": 13.04,
-     "adr": 82.0,
-     "kast": 80.0,
-     "rating": 1.75
-    },
-    {
-     "player": 15631,
-     "nick": "KSCERATO",
-     "kills": 11,
-     "deaths": 7,
-     "swing": 6.8,
-     "adr": 109.3,
-     "kast": 80.0,
-     "rating": 1.61
-    },
-    {
-     "player": 12553,
-     "nick": "yuurih",
-     "kills": 6,
-     "deaths": 7,
-     "swing": -0.19,
-     "adr": 65.2,
-     "kast": 70.0,
-     "rating": 0.95
-    },
-    {
-     "player": 13915,
-     "nick": "YEKINDAR",
-     "kills": 6,
-     "deaths": 7,
-     "swing": -0.41,
-     "adr": 58.9,
-     "kast": 50.0,
-     "rating": 0.87
-    },
-    {
-     "player": 2023,
-     "nick": "FalleN",
-     "kills": 5,
-     "deaths": 8,
-     "swing": -3.35,
-     "adr": 78.1,
-     "kast": 60.0,
-     "rating": 0.86
-    },
-    {
-     "player": 19045,
-     "nick": "latto",
-     "kills": 13,
-     "deaths": 8,
-     "swing": 2.06,
-     "adr": 116.2,
-     "kast": 91.7,
-     "rating": 1.52
-    },
-    {
-     "player": 19869,
-     "nick": "try",
-     "kills": 10,
-     "deaths": 8,
-     "swing": 2.14,
-     "adr": 72.0,
-     "kast": 66.7,
-     "rating": 1.04
-    },
-    {
-     "player": 15698,
-     "nick": "dumau",
-     "kills": 9,
-     "deaths": 7,
-     "swing": 0.03,
-     "adr": 72.0,
-     "kast": 91.7,
-     "rating": 1.03
-    },
-    {
-     "player": 12521,
-     "nick": "arT",
-     "kills": 8,
-     "deaths": 8,
-     "swing": -6.55,
-     "adr": 91.2,
-     "kast": 66.7,
-     "rating": 0.85
-    },
-    {
-     "player": 19686,
-     "nick": "n1ssim",
-     "kills": 6,
-     "deaths": 8,
-     "swing": -6.2,
-     "adr": 39.6,
-     "kast": 66.7,
-     "rating": 0.57
-    }
-   ],
-   "ct": [
-    {
-     "player": 24144,
-     "nick": "molodoy",
      "kills": 13,
      "deaths": 8,
      "swing": 5.47,
@@ -697,6 +595,108 @@
      "adr": 37.5,
      "kast": 50.0,
      "rating": 0.2
+    }
+   ],
+   "ct": [
+    {
+     "player": 24144,
+     "nick": "molodoy",
+     "kills": 9,
+     "deaths": 6,
+     "swing": 13.04,
+     "adr": 82.0,
+     "kast": 80.0,
+     "rating": 1.75
+    },
+    {
+     "player": 15631,
+     "nick": "KSCERATO",
+     "kills": 11,
+     "deaths": 7,
+     "swing": 6.8,
+     "adr": 109.3,
+     "kast": 80.0,
+     "rating": 1.61
+    },
+    {
+     "player": 12553,
+     "nick": "yuurih",
+     "kills": 6,
+     "deaths": 7,
+     "swing": -0.19,
+     "adr": 65.2,
+     "kast": 70.0,
+     "rating": 0.95
+    },
+    {
+     "player": 13915,
+     "nick": "YEKINDAR",
+     "kills": 6,
+     "deaths": 7,
+     "swing": -0.41,
+     "adr": 58.9,
+     "kast": 50.0,
+     "rating": 0.87
+    },
+    {
+     "player": 2023,
+     "nick": "FalleN",
+     "kills": 5,
+     "deaths": 8,
+     "swing": -3.35,
+     "adr": 78.1,
+     "kast": 60.0,
+     "rating": 0.86
+    },
+    {
+     "player": 19045,
+     "nick": "latto",
+     "kills": 13,
+     "deaths": 8,
+     "swing": 2.06,
+     "adr": 116.2,
+     "kast": 91.7,
+     "rating": 1.52
+    },
+    {
+     "player": 19869,
+     "nick": "try",
+     "kills": 10,
+     "deaths": 8,
+     "swing": 2.14,
+     "adr": 72.0,
+     "kast": 66.7,
+     "rating": 1.04
+    },
+    {
+     "player": 15698,
+     "nick": "dumau",
+     "kills": 9,
+     "deaths": 7,
+     "swing": 0.03,
+     "adr": 72.0,
+     "kast": 91.7,
+     "rating": 1.03
+    },
+    {
+     "player": 12521,
+     "nick": "arT",
+     "kills": 8,
+     "deaths": 8,
+     "swing": -6.55,
+     "adr": 91.2,
+     "kast": 66.7,
+     "rating": 0.85
+    },
+    {
+     "player": 19686,
+     "nick": "n1ssim",
+     "kills": 6,
+     "deaths": 8,
+     "swing": -6.2,
+     "adr": 39.6,
+     "kast": 66.7,
+     "rating": 0.57
     }
    ]
   },
@@ -805,108 +805,6 @@
    ],
    "t": [
     {
-     "player": 2023,
-     "nick": "FalleN",
-     "kills": 7,
-     "deaths": 8,
-     "swing": 4.0,
-     "adr": 65.3,
-     "kast": 70.0,
-     "rating": 1.15
-    },
-    {
-     "player": 24144,
-     "nick": "molodoy",
-     "kills": 9,
-     "deaths": 6,
-     "swing": -1.61,
-     "adr": 79.8,
-     "kast": 60.0,
-     "rating": 1.09
-    },
-    {
-     "player": 12553,
-     "nick": "yuurih",
-     "kills": 4,
-     "deaths": 6,
-     "swing": 1.01,
-     "adr": 49.7,
-     "kast": 60.0,
-     "rating": 0.72
-    },
-    {
-     "player": 13915,
-     "nick": "YEKINDAR",
-     "kills": 5,
-     "deaths": 7,
-     "swing": -6.47,
-     "adr": 85.2,
-     "kast": 60.0,
-     "rating": 0.59
-    },
-    {
-     "player": 15631,
-     "nick": "KSCERATO",
-     "kills": 3,
-     "deaths": 6,
-     "swing": -6.98,
-     "adr": 37.2,
-     "kast": 60.0,
-     "rating": 0.52
-    },
-    {
-     "player": 12521,
-     "nick": "arT",
-     "kills": 12,
-     "deaths": 8,
-     "swing": 6.71,
-     "adr": 111.0,
-     "kast": 75.0,
-     "rating": 1.74
-    },
-    {
-     "player": 19869,
-     "nick": "try",
-     "kills": 12,
-     "deaths": 6,
-     "swing": 5.57,
-     "adr": 93.4,
-     "kast": 83.3,
-     "rating": 1.4
-    },
-    {
-     "player": 19045,
-     "nick": "latto",
-     "kills": 9,
-     "deaths": 4,
-     "swing": -0.29,
-     "adr": 80.4,
-     "kast": 83.3,
-     "rating": 1.15
-    },
-    {
-     "player": 19686,
-     "nick": "n1ssim",
-     "kills": 9,
-     "deaths": 8,
-     "swing": -0.85,
-     "adr": 82.5,
-     "kast": 75.0,
-     "rating": 0.93
-    },
-    {
-     "player": 15698,
-     "nick": "dumau",
-     "kills": 5,
-     "deaths": 7,
-     "swing": -3.31,
-     "adr": 47.5,
-     "kast": 83.3,
-     "rating": 0.69
-    }
-   ],
-   "ct": [
-    {
      "player": 24144,
      "nick": "molodoy",
      "kills": 10,
@@ -1005,6 +903,108 @@
      "adr": 21.2,
      "kast": 70.0,
      "rating": 0.56
+    }
+   ],
+   "ct": [
+    {
+     "player": 2023,
+     "nick": "FalleN",
+     "kills": 7,
+     "deaths": 8,
+     "swing": 4.0,
+     "adr": 65.3,
+     "kast": 70.0,
+     "rating": 1.15
+    },
+    {
+     "player": 24144,
+     "nick": "molodoy",
+     "kills": 9,
+     "deaths": 6,
+     "swing": -1.61,
+     "adr": 79.8,
+     "kast": 60.0,
+     "rating": 1.09
+    },
+    {
+     "player": 12553,
+     "nick": "yuurih",
+     "kills": 4,
+     "deaths": 6,
+     "swing": 1.01,
+     "adr": 49.7,
+     "kast": 60.0,
+     "rating": 0.72
+    },
+    {
+     "player": 13915,
+     "nick": "YEKINDAR",
+     "kills": 5,
+     "deaths": 7,
+     "swing": -6.47,
+     "adr": 85.2,
+     "kast": 60.0,
+     "rating": 0.59
+    },
+    {
+     "player": 15631,
+     "nick": "KSCERATO",
+     "kills": 3,
+     "deaths": 6,
+     "swing": -6.98,
+     "adr": 37.2,
+     "kast": 60.0,
+     "rating": 0.52
+    },
+    {
+     "player": 12521,
+     "nick": "arT",
+     "kills": 12,
+     "deaths": 8,
+     "swing": 6.71,
+     "adr": 111.0,
+     "kast": 75.0,
+     "rating": 1.74
+    },
+    {
+     "player": 19869,
+     "nick": "try",
+     "kills": 12,
+     "deaths": 6,
+     "swing": 5.57,
+     "adr": 93.4,
+     "kast": 83.3,
+     "rating": 1.4
+    },
+    {
+     "player": 19045,
+     "nick": "latto",
+     "kills": 9,
+     "deaths": 4,
+     "swing": -0.29,
+     "adr": 80.4,
+     "kast": 83.3,
+     "rating": 1.15
+    },
+    {
+     "player": 19686,
+     "nick": "n1ssim",
+     "kills": 9,
+     "deaths": 8,
+     "swing": -0.85,
+     "adr": 82.5,
+     "kast": 75.0,
+     "rating": 0.93
+    },
+    {
+     "player": 15698,
+     "nick": "dumau",
+     "kills": 5,
+     "deaths": 7,
+     "swing": -3.31,
+     "adr": 47.5,
+     "kast": 83.3,
+     "rating": 0.69
     }
    ]
   },
@@ -1113,108 +1113,6 @@
    ],
    "t": [
     {
-     "player": 24144,
-     "nick": "molodoy",
-     "kills": 10,
-     "deaths": 6,
-     "swing": 3.71,
-     "adr": 126.9,
-     "kast": 80.0,
-     "rating": 1.49
-    },
-    {
-     "player": 2023,
-     "nick": "FalleN",
-     "kills": 7,
-     "deaths": 6,
-     "swing": 2.91,
-     "adr": 66.3,
-     "kast": 70.0,
-     "rating": 1.27
-    },
-    {
-     "player": 15631,
-     "nick": "KSCERATO",
-     "kills": 4,
-     "deaths": 6,
-     "swing": -3.65,
-     "adr": 54.1,
-     "kast": 60.0,
-     "rating": 0.64
-    },
-    {
-     "player": 13915,
-     "nick": "YEKINDAR",
-     "kills": 6,
-     "deaths": 6,
-     "swing": -6.26,
-     "adr": 59.5,
-     "kast": 50.0,
-     "rating": 0.62
-    },
-    {
-     "player": 12553,
-     "nick": "yuurih",
-     "kills": 2,
-     "deaths": 7,
-     "swing": -5.76,
-     "adr": 18.7,
-     "kast": 50.0,
-     "rating": 0.37
-    },
-    {
-     "player": 19045,
-     "nick": "latto",
-     "kills": 13,
-     "deaths": 4,
-     "swing": 14.59,
-     "adr": 105.2,
-     "kast": 91.7,
-     "rating": 2.45
-    },
-    {
-     "player": 19686,
-     "nick": "n1ssim",
-     "kills": 9,
-     "deaths": 6,
-     "swing": 3.48,
-     "adr": 80.2,
-     "kast": 66.7,
-     "rating": 1.34
-    },
-    {
-     "player": 19869,
-     "nick": "try",
-     "kills": 12,
-     "deaths": 7,
-     "swing": 3.1,
-     "adr": 78.4,
-     "kast": 83.3,
-     "rating": 1.27
-    },
-    {
-     "player": 15698,
-     "nick": "dumau",
-     "kills": 6,
-     "deaths": 10,
-     "swing": -4.77,
-     "adr": 67.8,
-     "kast": 75.0,
-     "rating": 0.62
-    },
-    {
-     "player": 12521,
-     "nick": "arT",
-     "kills": 4,
-     "deaths": 10,
-     "swing": -5.44,
-     "adr": 57.2,
-     "kast": 58.3,
-     "rating": 0.46
-    }
-   ],
-   "ct": [
-    {
      "player": 13915,
      "nick": "YEKINDAR",
      "kills": 9,
@@ -1314,21 +1212,112 @@
      "kast": 60.0,
      "rating": 0.54
     }
+   ],
+   "ct": [
+    {
+     "player": 24144,
+     "nick": "molodoy",
+     "kills": 10,
+     "deaths": 6,
+     "swing": 3.71,
+     "adr": 126.9,
+     "kast": 80.0,
+     "rating": 1.49
+    },
+    {
+     "player": 2023,
+     "nick": "FalleN",
+     "kills": 7,
+     "deaths": 6,
+     "swing": 2.91,
+     "adr": 66.3,
+     "kast": 70.0,
+     "rating": 1.27
+    },
+    {
+     "player": 15631,
+     "nick": "KSCERATO",
+     "kills": 4,
+     "deaths": 6,
+     "swing": -3.65,
+     "adr": 54.1,
+     "kast": 60.0,
+     "rating": 0.64
+    },
+    {
+     "player": 13915,
+     "nick": "YEKINDAR",
+     "kills": 6,
+     "deaths": 6,
+     "swing": -6.26,
+     "adr": 59.5,
+     "kast": 50.0,
+     "rating": 0.62
+    },
+    {
+     "player": 12553,
+     "nick": "yuurih",
+     "kills": 2,
+     "deaths": 7,
+     "swing": -5.76,
+     "adr": 18.7,
+     "kast": 50.0,
+     "rating": 0.37
+    },
+    {
+     "player": 19045,
+     "nick": "latto",
+     "kills": 13,
+     "deaths": 4,
+     "swing": 14.59,
+     "adr": 105.2,
+     "kast": 91.7,
+     "rating": 2.45
+    },
+    {
+     "player": 19686,
+     "nick": "n1ssim",
+     "kills": 9,
+     "deaths": 6,
+     "swing": 3.48,
+     "adr": 80.2,
+     "kast": 66.7,
+     "rating": 1.34
+    },
+    {
+     "player": 19869,
+     "nick": "try",
+     "kills": 12,
+     "deaths": 7,
+     "swing": 3.1,
+     "adr": 78.4,
+     "kast": 83.3,
+     "rating": 1.27
+    },
+    {
+     "player": 15698,
+     "nick": "dumau",
+     "kills": 6,
+     "deaths": 10,
+     "swing": -4.77,
+     "adr": 67.8,
+     "kast": 75.0,
+     "rating": 0.62
+    },
+    {
+     "player": 12521,
+     "nick": "arT",
+     "kills": 4,
+     "deaths": 10,
+     "swing": -5.44,
+     "adr": 57.2,
+     "kast": 58.3,
+     "rating": 0.46
+    }
    ]
   }
  },
- "mvp": {
-  "player": 19869,
-  "nick": "try",
-  "maps": 3,
-  "kpr": 1.0,
-  "dpr": 0.61,
-  "kast": 74.2,
-  "mkRating": 1.27,
-  "swing": 3.65,
-  "adr": 86.2,
-  "rating": 1.35
- },
+ "mvp": 19869,
  "highlight": null,
  "h2h": {
   "team1Wins": 2,

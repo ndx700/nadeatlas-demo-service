@@ -2,7 +2,7 @@
  "id": 2396563,
  "eventId": 8261,
  "stage": "Group B",
- "time": "2026-08-12T13:45:00Z",
+ "time": "2026-08-12T21:45:00+08:00",
  "bo": 1,
  "status": "finished",
  "team1": {
@@ -153,108 +153,6 @@
    ],
    "t": [
     {
-     "player": 24177,
-     "nick": "kyousuke",
-     "kills": 9,
-     "deaths": 4,
-     "swing": 16.93,
-     "adr": 152.0,
-     "kast": 71.4,
-     "rating": 2.81
-    },
-    {
-     "player": 19230,
-     "nick": "m0NESY",
-     "kills": 6,
-     "deaths": 3,
-     "swing": 6.5,
-     "adr": 75.6,
-     "kast": 71.4,
-     "rating": 1.42
-    },
-    {
-     "player": 12018,
-     "nick": "TeSeS",
-     "kills": 3,
-     "deaths": 4,
-     "swing": 3.81,
-     "adr": 42.6,
-     "kast": 57.1,
-     "rating": 0.87
-    },
-    {
-     "player": 429,
-     "nick": "karrigan",
-     "kills": 5,
-     "deaths": 7,
-     "swing": -5.32,
-     "adr": 80.4,
-     "kast": 71.4,
-     "rating": 0.63
-    },
-    {
-     "player": 3741,
-     "nick": "NiKo",
-     "kills": 3,
-     "deaths": 6,
-     "swing": -10.72,
-     "adr": 52.6,
-     "kast": 57.1,
-     "rating": 0.46
-    },
-    {
-     "player": 22886,
-     "nick": "xeedo",
-     "kills": 7,
-     "deaths": 9,
-     "swing": -0.95,
-     "adr": 93.0,
-     "kast": 66.7,
-     "rating": 1.16
-    },
-    {
-     "player": 12004,
-     "nick": "clax",
-     "kills": 6,
-     "deaths": 9,
-     "swing": 0.21,
-     "adr": 77.0,
-     "kast": 50.0,
-     "rating": 0.9
-    },
-    {
-     "player": 23686,
-     "nick": "kashl1d",
-     "kills": 7,
-     "deaths": 6,
-     "swing": -2.46,
-     "adr": 46.9,
-     "kast": 66.7,
-     "rating": 0.7
-    },
-    {
-     "player": 24725,
-     "nick": "qw1nk1",
-     "kills": 5,
-     "deaths": 8,
-     "swing": -7.14,
-     "adr": 44.8,
-     "kast": 66.7,
-     "rating": 0.59
-    },
-    {
-     "player": 19575,
-     "nick": "X5G7V",
-     "kills": 6,
-     "deaths": 10,
-     "swing": -5.4,
-     "adr": 60.8,
-     "kast": 41.7,
-     "rating": 0.54
-    }
-   ],
-   "ct": [
-    {
      "player": 19230,
      "nick": "m0NESY",
      "kills": 16,
@@ -353,6 +251,108 @@
      "adr": 69.3,
      "kast": 85.7,
      "rating": 0.57
+    }
+   ],
+   "ct": [
+    {
+     "player": 24177,
+     "nick": "kyousuke",
+     "kills": 9,
+     "deaths": 4,
+     "swing": 16.93,
+     "adr": 152.0,
+     "kast": 71.4,
+     "rating": 2.81
+    },
+    {
+     "player": 19230,
+     "nick": "m0NESY",
+     "kills": 6,
+     "deaths": 3,
+     "swing": 6.5,
+     "adr": 75.6,
+     "kast": 71.4,
+     "rating": 1.42
+    },
+    {
+     "player": 12018,
+     "nick": "TeSeS",
+     "kills": 3,
+     "deaths": 4,
+     "swing": 3.81,
+     "adr": 42.6,
+     "kast": 57.1,
+     "rating": 0.87
+    },
+    {
+     "player": 429,
+     "nick": "karrigan",
+     "kills": 5,
+     "deaths": 7,
+     "swing": -5.32,
+     "adr": 80.4,
+     "kast": 71.4,
+     "rating": 0.63
+    },
+    {
+     "player": 3741,
+     "nick": "NiKo",
+     "kills": 3,
+     "deaths": 6,
+     "swing": -10.72,
+     "adr": 52.6,
+     "kast": 57.1,
+     "rating": 0.46
+    },
+    {
+     "player": 22886,
+     "nick": "xeedo",
+     "kills": 7,
+     "deaths": 9,
+     "swing": -0.95,
+     "adr": 93.0,
+     "kast": 66.7,
+     "rating": 1.16
+    },
+    {
+     "player": 12004,
+     "nick": "clax",
+     "kills": 6,
+     "deaths": 9,
+     "swing": 0.21,
+     "adr": 77.0,
+     "kast": 50.0,
+     "rating": 0.9
+    },
+    {
+     "player": 23686,
+     "nick": "kashl1d",
+     "kills": 7,
+     "deaths": 6,
+     "swing": -2.46,
+     "adr": 46.9,
+     "kast": 66.7,
+     "rating": 0.7
+    },
+    {
+     "player": 24725,
+     "nick": "qw1nk1",
+     "kills": 5,
+     "deaths": 8,
+     "swing": -7.14,
+     "adr": 44.8,
+     "kast": 66.7,
+     "rating": 0.59
+    },
+    {
+     "player": 19575,
+     "nick": "X5G7V",
+     "kills": 6,
+     "deaths": 10,
+     "swing": -5.4,
+     "adr": 60.8,
+     "kast": 41.7,
+     "rating": 0.54
     }
    ]
   },
@@ -461,108 +461,6 @@
    ],
    "t": [
     {
-     "player": 24177,
-     "nick": "kyousuke",
-     "kills": 9,
-     "deaths": 4,
-     "swing": 16.93,
-     "adr": 152.0,
-     "kast": 71.4,
-     "rating": 2.81
-    },
-    {
-     "player": 19230,
-     "nick": "m0NESY",
-     "kills": 6,
-     "deaths": 3,
-     "swing": 6.5,
-     "adr": 75.6,
-     "kast": 71.4,
-     "rating": 1.42
-    },
-    {
-     "player": 12018,
-     "nick": "TeSeS",
-     "kills": 3,
-     "deaths": 4,
-     "swing": 3.81,
-     "adr": 42.6,
-     "kast": 57.1,
-     "rating": 0.87
-    },
-    {
-     "player": 429,
-     "nick": "karrigan",
-     "kills": 5,
-     "deaths": 7,
-     "swing": -5.32,
-     "adr": 80.4,
-     "kast": 71.4,
-     "rating": 0.63
-    },
-    {
-     "player": 3741,
-     "nick": "NiKo",
-     "kills": 3,
-     "deaths": 6,
-     "swing": -10.72,
-     "adr": 52.6,
-     "kast": 57.1,
-     "rating": 0.46
-    },
-    {
-     "player": 22886,
-     "nick": "xeedo",
-     "kills": 7,
-     "deaths": 9,
-     "swing": -0.95,
-     "adr": 93.0,
-     "kast": 66.7,
-     "rating": 1.16
-    },
-    {
-     "player": 12004,
-     "nick": "clax",
-     "kills": 6,
-     "deaths": 9,
-     "swing": 0.21,
-     "adr": 77.0,
-     "kast": 50.0,
-     "rating": 0.9
-    },
-    {
-     "player": 23686,
-     "nick": "kashl1d",
-     "kills": 7,
-     "deaths": 6,
-     "swing": -2.46,
-     "adr": 46.9,
-     "kast": 66.7,
-     "rating": 0.7
-    },
-    {
-     "player": 24725,
-     "nick": "qw1nk1",
-     "kills": 5,
-     "deaths": 8,
-     "swing": -7.14,
-     "adr": 44.8,
-     "kast": 66.7,
-     "rating": 0.59
-    },
-    {
-     "player": 19575,
-     "nick": "X5G7V",
-     "kills": 6,
-     "deaths": 10,
-     "swing": -5.4,
-     "adr": 60.8,
-     "kast": 41.7,
-     "rating": 0.54
-    }
-   ],
-   "ct": [
-    {
      "player": 19230,
      "nick": "m0NESY",
      "kills": 16,
@@ -662,21 +560,112 @@
      "kast": 85.7,
      "rating": 0.57
     }
+   ],
+   "ct": [
+    {
+     "player": 24177,
+     "nick": "kyousuke",
+     "kills": 9,
+     "deaths": 4,
+     "swing": 16.93,
+     "adr": 152.0,
+     "kast": 71.4,
+     "rating": 2.81
+    },
+    {
+     "player": 19230,
+     "nick": "m0NESY",
+     "kills": 6,
+     "deaths": 3,
+     "swing": 6.5,
+     "adr": 75.6,
+     "kast": 71.4,
+     "rating": 1.42
+    },
+    {
+     "player": 12018,
+     "nick": "TeSeS",
+     "kills": 3,
+     "deaths": 4,
+     "swing": 3.81,
+     "adr": 42.6,
+     "kast": 57.1,
+     "rating": 0.87
+    },
+    {
+     "player": 429,
+     "nick": "karrigan",
+     "kills": 5,
+     "deaths": 7,
+     "swing": -5.32,
+     "adr": 80.4,
+     "kast": 71.4,
+     "rating": 0.63
+    },
+    {
+     "player": 3741,
+     "nick": "NiKo",
+     "kills": 3,
+     "deaths": 6,
+     "swing": -10.72,
+     "adr": 52.6,
+     "kast": 57.1,
+     "rating": 0.46
+    },
+    {
+     "player": 22886,
+     "nick": "xeedo",
+     "kills": 7,
+     "deaths": 9,
+     "swing": -0.95,
+     "adr": 93.0,
+     "kast": 66.7,
+     "rating": 1.16
+    },
+    {
+     "player": 12004,
+     "nick": "clax",
+     "kills": 6,
+     "deaths": 9,
+     "swing": 0.21,
+     "adr": 77.0,
+     "kast": 50.0,
+     "rating": 0.9
+    },
+    {
+     "player": 23686,
+     "nick": "kashl1d",
+     "kills": 7,
+     "deaths": 6,
+     "swing": -2.46,
+     "adr": 46.9,
+     "kast": 66.7,
+     "rating": 0.7
+    },
+    {
+     "player": 24725,
+     "nick": "qw1nk1",
+     "kills": 5,
+     "deaths": 8,
+     "swing": -7.14,
+     "adr": 44.8,
+     "kast": 66.7,
+     "rating": 0.59
+    },
+    {
+     "player": 19575,
+     "nick": "X5G7V",
+     "kills": 6,
+     "deaths": 10,
+     "swing": -5.4,
+     "adr": 60.8,
+     "kast": 41.7,
+     "rating": 0.54
+    }
    ]
   }
  },
- "mvp": {
-  "player": 19230,
-  "nick": "m0NESY",
-  "maps": 1,
-  "kpr": 1.16,
-  "dpr": 0.42,
-  "kast": 73.7,
-  "mkRating": 1.66,
-  "swing": 9.6,
-  "adr": 110.2,
-  "rating": 1.99
- },
+ "mvp": 19230,
  "highlight": null,
  "h2h": {
   "team1Wins": 2,

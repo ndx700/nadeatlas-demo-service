@@ -1,8 +1,8 @@
 {
  "id": 2396604,
  "eventId": 8261,
- "stage": "Playoffs",
- "time": "2026-08-20T11:00:00Z",
+ "stage": "Round of 16",
+ "time": "2026-08-20T19:00:00+08:00",
  "bo": 3,
  "status": "finished",
  "team1": {
@@ -182,108 +182,6 @@
     {
      "player": 24177,
      "nick": "kyousuke",
-     "kills": 29,
-     "deaths": 12,
-     "swing": 5.24,
-     "adr": 129.6,
-     "kast": 81.8,
-     "rating": 1.75
-    },
-    {
-     "player": 19230,
-     "nick": "m0NESY",
-     "kills": 23,
-     "deaths": 8,
-     "swing": 9.06,
-     "adr": 95.6,
-     "kast": 86.4,
-     "rating": 1.74
-    },
-    {
-     "player": 429,
-     "nick": "karrigan",
-     "kills": 15,
-     "deaths": 11,
-     "swing": 2.05,
-     "adr": 91.7,
-     "kast": 90.9,
-     "rating": 1.35
-    },
-    {
-     "player": 12018,
-     "nick": "TeSeS",
-     "kills": 10,
-     "deaths": 10,
-     "swing": -1.61,
-     "adr": 58.3,
-     "kast": 81.8,
-     "rating": 0.94
-    },
-    {
-     "player": 3741,
-     "nick": "NiKo",
-     "kills": 15,
-     "deaths": 11,
-     "swing": -2.95,
-     "adr": 63.9,
-     "kast": 77.3,
-     "rating": 0.87
-    },
-    {
-     "player": 25510,
-     "nick": "tikuak",
-     "kills": 10,
-     "deaths": 11,
-     "swing": -0.7,
-     "adr": 76.3,
-     "kast": 81.2,
-     "rating": 1.03
-    },
-    {
-     "player": 20275,
-     "nick": "Techno",
-     "kills": 11,
-     "deaths": 10,
-     "swing": -2.83,
-     "adr": 65.4,
-     "kast": 62.5,
-     "rating": 0.83
-    },
-    {
-     "player": 21809,
-     "nick": "910",
-     "kills": 10,
-     "deaths": 11,
-     "swing": -2.59,
-     "adr": 62.6,
-     "kast": 68.8,
-     "rating": 0.76
-    },
-    {
-     "player": 20194,
-     "nick": "bLitz",
-     "kills": 13,
-     "deaths": 15,
-     "swing": -8.22,
-     "adr": 90.1,
-     "kast": 68.8,
-     "rating": 0.7
-    },
-    {
-     "player": 26013,
-     "nick": "DarkMeister",
-     "kills": 10,
-     "deaths": 13,
-     "swing": -6.62,
-     "adr": 72.6,
-     "kast": 68.8,
-     "rating": 0.66
-    }
-   ],
-   "ct": [
-    {
-     "player": 24177,
-     "nick": "kyousuke",
      "kills": 15,
      "deaths": 10,
      "swing": 10.42,
@@ -380,6 +278,108 @@
      "adr": 47.5,
      "kast": 40.9,
      "rating": 0.52
+    }
+   ],
+   "ct": [
+    {
+     "player": 24177,
+     "nick": "kyousuke",
+     "kills": 29,
+     "deaths": 12,
+     "swing": 5.24,
+     "adr": 129.6,
+     "kast": 81.8,
+     "rating": 1.75
+    },
+    {
+     "player": 19230,
+     "nick": "m0NESY",
+     "kills": 23,
+     "deaths": 8,
+     "swing": 9.06,
+     "adr": 95.6,
+     "kast": 86.4,
+     "rating": 1.74
+    },
+    {
+     "player": 429,
+     "nick": "karrigan",
+     "kills": 15,
+     "deaths": 11,
+     "swing": 2.05,
+     "adr": 91.7,
+     "kast": 90.9,
+     "rating": 1.35
+    },
+    {
+     "player": 12018,
+     "nick": "TeSeS",
+     "kills": 10,
+     "deaths": 10,
+     "swing": -1.61,
+     "adr": 58.3,
+     "kast": 81.8,
+     "rating": 0.94
+    },
+    {
+     "player": 3741,
+     "nick": "NiKo",
+     "kills": 15,
+     "deaths": 11,
+     "swing": -2.95,
+     "adr": 63.9,
+     "kast": 77.3,
+     "rating": 0.87
+    },
+    {
+     "player": 25510,
+     "nick": "tikuak",
+     "kills": 10,
+     "deaths": 11,
+     "swing": -0.7,
+     "adr": 76.3,
+     "kast": 81.2,
+     "rating": 1.03
+    },
+    {
+     "player": 20275,
+     "nick": "Techno",
+     "kills": 11,
+     "deaths": 10,
+     "swing": -2.83,
+     "adr": 65.4,
+     "kast": 62.5,
+     "rating": 0.83
+    },
+    {
+     "player": 21809,
+     "nick": "910",
+     "kills": 10,
+     "deaths": 11,
+     "swing": -2.59,
+     "adr": 62.6,
+     "kast": 68.8,
+     "rating": 0.76
+    },
+    {
+     "player": 20194,
+     "nick": "bLitz",
+     "kills": 13,
+     "deaths": 15,
+     "swing": -8.22,
+     "adr": 90.1,
+     "kast": 68.8,
+     "rating": 0.7
+    },
+    {
+     "player": 26013,
+     "nick": "DarkMeister",
+     "kills": 10,
+     "deaths": 13,
+     "swing": -6.62,
+     "adr": 72.6,
+     "kast": 68.8,
+     "rating": 0.66
     }
    ]
   },
@@ -490,108 +490,6 @@
     {
      "player": 24177,
      "nick": "kyousuke",
-     "kills": 20,
-     "deaths": 5,
-     "swing": 10.27,
-     "adr": 162.3,
-     "kast": 100.0,
-     "rating": 2.51
-    },
-    {
-     "player": 19230,
-     "nick": "m0NESY",
-     "kills": 10,
-     "deaths": 5,
-     "swing": 5.85,
-     "adr": 75.2,
-     "kast": 91.7,
-     "rating": 1.41
-    },
-    {
-     "player": 429,
-     "nick": "karrigan",
-     "kills": 8,
-     "deaths": 6,
-     "swing": 2.69,
-     "adr": 90.1,
-     "kast": 100.0,
-     "rating": 1.35
-    },
-    {
-     "player": 3741,
-     "nick": "NiKo",
-     "kills": 9,
-     "deaths": 5,
-     "swing": 0.52,
-     "adr": 75.0,
-     "kast": 83.3,
-     "rating": 1.17
-    },
-    {
-     "player": 12018,
-     "nick": "TeSeS",
-     "kills": 6,
-     "deaths": 5,
-     "swing": -3.1,
-     "adr": 50.5,
-     "kast": 91.7,
-     "rating": 0.87
-    },
-    {
-     "player": 20194,
-     "nick": "bLitz",
-     "kills": 4,
-     "deaths": 4,
-     "swing": 2.33,
-     "adr": 80.2,
-     "kast": 75.0,
-     "rating": 1.15
-    },
-    {
-     "player": 25510,
-     "nick": "tikuak",
-     "kills": 2,
-     "deaths": 3,
-     "swing": -6.24,
-     "adr": 71.2,
-     "kast": 75.0,
-     "rating": 0.67
-    },
-    {
-     "player": 21809,
-     "nick": "910",
-     "kills": 1,
-     "deaths": 3,
-     "swing": -7.61,
-     "adr": 73.5,
-     "kast": 75.0,
-     "rating": 0.53
-    },
-    {
-     "player": 20275,
-     "nick": "Techno",
-     "kills": 2,
-     "deaths": 4,
-     "swing": -11.14,
-     "adr": 69.0,
-     "kast": 50.0,
-     "rating": 0.42
-    },
-    {
-     "player": 26013,
-     "nick": "DarkMeister",
-     "kills": 0,
-     "deaths": 3,
-     "swing": -20.23,
-     "adr": 16.0,
-     "kast": 50.0,
-     "rating": 0.13
-    }
-   ],
-   "ct": [
-    {
-     "player": 24177,
-     "nick": "kyousuke",
      "kills": 6,
      "deaths": 2,
      "swing": 25.24,
@@ -688,6 +586,108 @@
      "adr": 38.2,
      "kast": 58.3,
      "rating": 0.41
+    }
+   ],
+   "ct": [
+    {
+     "player": 24177,
+     "nick": "kyousuke",
+     "kills": 20,
+     "deaths": 5,
+     "swing": 10.27,
+     "adr": 162.3,
+     "kast": 100.0,
+     "rating": 2.51
+    },
+    {
+     "player": 19230,
+     "nick": "m0NESY",
+     "kills": 10,
+     "deaths": 5,
+     "swing": 5.85,
+     "adr": 75.2,
+     "kast": 91.7,
+     "rating": 1.41
+    },
+    {
+     "player": 429,
+     "nick": "karrigan",
+     "kills": 8,
+     "deaths": 6,
+     "swing": 2.69,
+     "adr": 90.1,
+     "kast": 100.0,
+     "rating": 1.35
+    },
+    {
+     "player": 3741,
+     "nick": "NiKo",
+     "kills": 9,
+     "deaths": 5,
+     "swing": 0.52,
+     "adr": 75.0,
+     "kast": 83.3,
+     "rating": 1.17
+    },
+    {
+     "player": 12018,
+     "nick": "TeSeS",
+     "kills": 6,
+     "deaths": 5,
+     "swing": -3.1,
+     "adr": 50.5,
+     "kast": 91.7,
+     "rating": 0.87
+    },
+    {
+     "player": 20194,
+     "nick": "bLitz",
+     "kills": 4,
+     "deaths": 4,
+     "swing": 2.33,
+     "adr": 80.2,
+     "kast": 75.0,
+     "rating": 1.15
+    },
+    {
+     "player": 25510,
+     "nick": "tikuak",
+     "kills": 2,
+     "deaths": 3,
+     "swing": -6.24,
+     "adr": 71.2,
+     "kast": 75.0,
+     "rating": 0.67
+    },
+    {
+     "player": 21809,
+     "nick": "910",
+     "kills": 1,
+     "deaths": 3,
+     "swing": -7.61,
+     "adr": 73.5,
+     "kast": 75.0,
+     "rating": 0.53
+    },
+    {
+     "player": 20275,
+     "nick": "Techno",
+     "kills": 2,
+     "deaths": 4,
+     "swing": -11.14,
+     "adr": 69.0,
+     "kast": 50.0,
+     "rating": 0.42
+    },
+    {
+     "player": 26013,
+     "nick": "DarkMeister",
+     "kills": 0,
+     "deaths": 3,
+     "swing": -20.23,
+     "adr": 16.0,
+     "kast": 50.0,
+     "rating": 0.13
     }
    ]
   },
@@ -796,108 +796,6 @@
    ],
    "t": [
     {
-     "player": 19230,
-     "nick": "m0NESY",
-     "kills": 13,
-     "deaths": 3,
-     "swing": 12.91,
-     "adr": 120.2,
-     "kast": 80.0,
-     "rating": 2.16
-    },
-    {
-     "player": 429,
-     "nick": "karrigan",
-     "kills": 7,
-     "deaths": 5,
-     "swing": 1.27,
-     "adr": 93.6,
-     "kast": 80.0,
-     "rating": 1.35
-    },
-    {
-     "player": 12018,
-     "nick": "TeSeS",
-     "kills": 4,
-     "deaths": 5,
-     "swing": 0.17,
-     "adr": 67.6,
-     "kast": 70.0,
-     "rating": 1.02
-    },
-    {
-     "player": 24177,
-     "nick": "kyousuke",
-     "kills": 9,
-     "deaths": 7,
-     "swing": -0.8,
-     "adr": 90.4,
-     "kast": 60.0,
-     "rating": 1.0
-    },
-    {
-     "player": 3741,
-     "nick": "NiKo",
-     "kills": 6,
-     "deaths": 6,
-     "swing": -7.13,
-     "adr": 50.6,
-     "kast": 70.0,
-     "rating": 0.59
-    },
-    {
-     "player": 25510,
-     "nick": "tikuak",
-     "kills": 8,
-     "deaths": 8,
-     "swing": 1.14,
-     "adr": 78.0,
-     "kast": 83.3,
-     "rating": 1.17
-    },
-    {
-     "player": 20275,
-     "nick": "Techno",
-     "kills": 9,
-     "deaths": 6,
-     "swing": -0.06,
-     "adr": 64.2,
-     "kast": 66.7,
-     "rating": 0.99
-    },
-    {
-     "player": 26013,
-     "nick": "DarkMeister",
-     "kills": 10,
-     "deaths": 10,
-     "swing": -2.08,
-     "adr": 91.5,
-     "kast": 75.0,
-     "rating": 0.96
-    },
-    {
-     "player": 21809,
-     "nick": "910",
-     "kills": 9,
-     "deaths": 8,
-     "swing": -0.92,
-     "adr": 59.0,
-     "kast": 66.7,
-     "rating": 0.85
-    },
-    {
-     "player": 20194,
-     "nick": "bLitz",
-     "kills": 9,
-     "deaths": 11,
-     "swing": -11.74,
-     "adr": 93.3,
-     "kast": 66.7,
-     "rating": 0.61
-    }
-   ],
-   "ct": [
-    {
      "player": 3741,
      "nick": "NiKo",
      "kills": 11,
@@ -997,21 +895,112 @@
      "kast": 60.0,
      "rating": 0.54
     }
+   ],
+   "ct": [
+    {
+     "player": 19230,
+     "nick": "m0NESY",
+     "kills": 13,
+     "deaths": 3,
+     "swing": 12.91,
+     "adr": 120.2,
+     "kast": 80.0,
+     "rating": 2.16
+    },
+    {
+     "player": 429,
+     "nick": "karrigan",
+     "kills": 7,
+     "deaths": 5,
+     "swing": 1.27,
+     "adr": 93.6,
+     "kast": 80.0,
+     "rating": 1.35
+    },
+    {
+     "player": 12018,
+     "nick": "TeSeS",
+     "kills": 4,
+     "deaths": 5,
+     "swing": 0.17,
+     "adr": 67.6,
+     "kast": 70.0,
+     "rating": 1.02
+    },
+    {
+     "player": 24177,
+     "nick": "kyousuke",
+     "kills": 9,
+     "deaths": 7,
+     "swing": -0.8,
+     "adr": 90.4,
+     "kast": 60.0,
+     "rating": 1.0
+    },
+    {
+     "player": 3741,
+     "nick": "NiKo",
+     "kills": 6,
+     "deaths": 6,
+     "swing": -7.13,
+     "adr": 50.6,
+     "kast": 70.0,
+     "rating": 0.59
+    },
+    {
+     "player": 25510,
+     "nick": "tikuak",
+     "kills": 8,
+     "deaths": 8,
+     "swing": 1.14,
+     "adr": 78.0,
+     "kast": 83.3,
+     "rating": 1.17
+    },
+    {
+     "player": 20275,
+     "nick": "Techno",
+     "kills": 9,
+     "deaths": 6,
+     "swing": -0.06,
+     "adr": 64.2,
+     "kast": 66.7,
+     "rating": 0.99
+    },
+    {
+     "player": 26013,
+     "nick": "DarkMeister",
+     "kills": 10,
+     "deaths": 10,
+     "swing": -2.08,
+     "adr": 91.5,
+     "kast": 75.0,
+     "rating": 0.96
+    },
+    {
+     "player": 21809,
+     "nick": "910",
+     "kills": 9,
+     "deaths": 8,
+     "swing": -0.92,
+     "adr": 59.0,
+     "kast": 66.7,
+     "rating": 0.85
+    },
+    {
+     "player": 20194,
+     "nick": "bLitz",
+     "kills": 9,
+     "deaths": 11,
+     "swing": -11.74,
+     "adr": 93.3,
+     "kast": 66.7,
+     "rating": 0.61
+    }
    ]
   }
  },
- "mvp": {
-  "player": 24177,
-  "nick": "kyousuke",
-  "maps": 2,
-  "kpr": 1.16,
-  "dpr": 0.58,
-  "kast": 81.6,
-  "mkRating": 1.43,
-  "swing": 7.42,
-  "adr": 113.8,
-  "rating": 1.85
- },
+ "mvp": 24177,
  "highlight": null,
  "h2h": {
   "team1Wins": 2,

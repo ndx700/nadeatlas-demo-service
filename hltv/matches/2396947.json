@@ -1,8 +1,8 @@
 {
  "id": 2396947,
  "eventId": 8249,
- "stage": "Playoffs",
- "time": "2026-09-04T14:00:00Z",
+ "stage": "Quarter-finals",
+ "time": "2026-09-04T22:00:00+08:00",
  "bo": 3,
  "status": "finished",
  "team1": {
@@ -182,108 +182,6 @@
     {
      "player": 3741,
      "nick": "NiKo",
-     "kills": 27,
-     "deaths": 13,
-     "swing": 9.25,
-     "adr": 118.5,
-     "kast": 81.8,
-     "rating": 1.94
-    },
-    {
-     "player": 24177,
-     "nick": "kyousuke",
-     "kills": 22,
-     "deaths": 13,
-     "swing": 5.0,
-     "adr": 101.4,
-     "kast": 90.9,
-     "rating": 1.7
-    },
-    {
-     "player": 19230,
-     "nick": "m0NESY",
-     "kills": 18,
-     "deaths": 11,
-     "swing": 5.08,
-     "adr": 79.2,
-     "kast": 81.8,
-     "rating": 1.27
-    },
-    {
-     "player": 12018,
-     "nick": "TeSeS",
-     "kills": 13,
-     "deaths": 10,
-     "swing": 1.73,
-     "adr": 56.3,
-     "kast": 90.9,
-     "rating": 1.11
-    },
-    {
-     "player": 429,
-     "nick": "karrigan",
-     "kills": 10,
-     "deaths": 14,
-     "swing": -4.24,
-     "adr": 61.5,
-     "kast": 72.7,
-     "rating": 0.7
-    },
-    {
-     "player": 3972,
-     "nick": "huNter-",
-     "kills": 17,
-     "deaths": 14,
-     "swing": 2.55,
-     "adr": 88.3,
-     "kast": 84.2,
-     "rating": 1.37
-    },
-    {
-     "player": 21062,
-     "nick": "MATYS",
-     "kills": 16,
-     "deaths": 10,
-     "swing": 1.36,
-     "adr": 72.8,
-     "kast": 73.7,
-     "rating": 1.16
-    },
-    {
-     "player": 20447,
-     "nick": "HeavyGod",
-     "kills": 10,
-     "deaths": 12,
-     "swing": -2.5,
-     "adr": 70.1,
-     "kast": 68.4,
-     "rating": 0.75
-    },
-    {
-     "player": 9436,
-     "nick": "NertZ",
-     "kills": 9,
-     "deaths": 12,
-     "swing": -3.83,
-     "adr": 65.7,
-     "kast": 78.9,
-     "rating": 0.68
-    },
-    {
-     "player": 20425,
-     "nick": "r1nkle",
-     "kills": 8,
-     "deaths": 12,
-     "swing": -4.45,
-     "adr": 51.9,
-     "kast": 57.9,
-     "rating": 0.57
-    }
-   ],
-   "ct": [
-    {
-     "player": 3741,
-     "nick": "NiKo",
      "kills": 10,
      "deaths": 11,
      "swing": 4.27,
@@ -380,6 +278,108 @@
      "adr": 38.7,
      "kast": 50.0,
      "rating": 0.44
+    }
+   ],
+   "ct": [
+    {
+     "player": 3741,
+     "nick": "NiKo",
+     "kills": 27,
+     "deaths": 13,
+     "swing": 9.25,
+     "adr": 118.5,
+     "kast": 81.8,
+     "rating": 1.94
+    },
+    {
+     "player": 24177,
+     "nick": "kyousuke",
+     "kills": 22,
+     "deaths": 13,
+     "swing": 5.0,
+     "adr": 101.4,
+     "kast": 90.9,
+     "rating": 1.7
+    },
+    {
+     "player": 19230,
+     "nick": "m0NESY",
+     "kills": 18,
+     "deaths": 11,
+     "swing": 5.08,
+     "adr": 79.2,
+     "kast": 81.8,
+     "rating": 1.27
+    },
+    {
+     "player": 12018,
+     "nick": "TeSeS",
+     "kills": 13,
+     "deaths": 10,
+     "swing": 1.73,
+     "adr": 56.3,
+     "kast": 90.9,
+     "rating": 1.11
+    },
+    {
+     "player": 429,
+     "nick": "karrigan",
+     "kills": 10,
+     "deaths": 14,
+     "swing": -4.24,
+     "adr": 61.5,
+     "kast": 72.7,
+     "rating": 0.7
+    },
+    {
+     "player": 3972,
+     "nick": "huNter-",
+     "kills": 17,
+     "deaths": 14,
+     "swing": 2.55,
+     "adr": 88.3,
+     "kast": 84.2,
+     "rating": 1.37
+    },
+    {
+     "player": 21062,
+     "nick": "MATYS",
+     "kills": 16,
+     "deaths": 10,
+     "swing": 1.36,
+     "adr": 72.8,
+     "kast": 73.7,
+     "rating": 1.16
+    },
+    {
+     "player": 20447,
+     "nick": "HeavyGod",
+     "kills": 10,
+     "deaths": 12,
+     "swing": -2.5,
+     "adr": 70.1,
+     "kast": 68.4,
+     "rating": 0.75
+    },
+    {
+     "player": 9436,
+     "nick": "NertZ",
+     "kills": 9,
+     "deaths": 12,
+     "swing": -3.83,
+     "adr": 65.7,
+     "kast": 78.9,
+     "rating": 0.68
+    },
+    {
+     "player": 20425,
+     "nick": "r1nkle",
+     "kills": 8,
+     "deaths": 12,
+     "swing": -4.45,
+     "adr": 51.9,
+     "kast": 57.9,
+     "rating": 0.57
     }
    ]
   },
@@ -490,108 +490,6 @@
     {
      "player": 3741,
      "nick": "NiKo",
-     "kills": 18,
-     "deaths": 6,
-     "swing": 17.23,
-     "adr": 126.2,
-     "kast": 91.7,
-     "rating": 2.58
-    },
-    {
-     "player": 24177,
-     "nick": "kyousuke",
-     "kills": 15,
-     "deaths": 5,
-     "swing": 9.84,
-     "adr": 134.2,
-     "kast": 100.0,
-     "rating": 2.33
-    },
-    {
-     "player": 12018,
-     "nick": "TeSeS",
-     "kills": 9,
-     "deaths": 3,
-     "swing": 7.65,
-     "adr": 77.2,
-     "kast": 100.0,
-     "rating": 1.54
-    },
-    {
-     "player": 19230,
-     "nick": "m0NESY",
-     "kills": 8,
-     "deaths": 4,
-     "swing": 1.08,
-     "adr": 61.6,
-     "kast": 91.7,
-     "rating": 1.04
-    },
-    {
-     "player": 429,
-     "nick": "karrigan",
-     "kills": 6,
-     "deaths": 5,
-     "swing": -2.88,
-     "adr": 61.6,
-     "kast": 91.7,
-     "rating": 0.87
-    },
-    {
-     "player": 21062,
-     "nick": "MATYS",
-     "kills": 11,
-     "deaths": 3,
-     "swing": 7.86,
-     "adr": 123.0,
-     "kast": 85.7,
-     "rating": 2.18
-    },
-    {
-     "player": 3972,
-     "nick": "huNter-",
-     "kills": 7,
-     "deaths": 4,
-     "swing": 7.69,
-     "adr": 87.0,
-     "kast": 100.0,
-     "rating": 1.56
-    },
-    {
-     "player": 20447,
-     "nick": "HeavyGod",
-     "kills": 4,
-     "deaths": 3,
-     "swing": 0.3,
-     "adr": 91.9,
-     "kast": 100.0,
-     "rating": 1.06
-    },
-    {
-     "player": 20425,
-     "nick": "r1nkle",
-     "kills": 4,
-     "deaths": 2,
-     "swing": -0.09,
-     "adr": 65.1,
-     "kast": 71.4,
-     "rating": 0.91
-    },
-    {
-     "player": 9436,
-     "nick": "NertZ",
-     "kills": 2,
-     "deaths": 5,
-     "swing": -6.21,
-     "adr": 47.3,
-     "kast": 71.4,
-     "rating": 0.4
-    }
-   ],
-   "ct": [
-    {
-     "player": 3741,
-     "nick": "NiKo",
      "kills": 5,
      "deaths": 5,
      "swing": 7.59,
@@ -688,6 +586,108 @@
      "adr": 21.9,
      "kast": 33.3,
      "rating": 0.22
+    }
+   ],
+   "ct": [
+    {
+     "player": 3741,
+     "nick": "NiKo",
+     "kills": 18,
+     "deaths": 6,
+     "swing": 17.23,
+     "adr": 126.2,
+     "kast": 91.7,
+     "rating": 2.58
+    },
+    {
+     "player": 24177,
+     "nick": "kyousuke",
+     "kills": 15,
+     "deaths": 5,
+     "swing": 9.84,
+     "adr": 134.2,
+     "kast": 100.0,
+     "rating": 2.33
+    },
+    {
+     "player": 12018,
+     "nick": "TeSeS",
+     "kills": 9,
+     "deaths": 3,
+     "swing": 7.65,
+     "adr": 77.2,
+     "kast": 100.0,
+     "rating": 1.54
+    },
+    {
+     "player": 19230,
+     "nick": "m0NESY",
+     "kills": 8,
+     "deaths": 4,
+     "swing": 1.08,
+     "adr": 61.6,
+     "kast": 91.7,
+     "rating": 1.04
+    },
+    {
+     "player": 429,
+     "nick": "karrigan",
+     "kills": 6,
+     "deaths": 5,
+     "swing": -2.88,
+     "adr": 61.6,
+     "kast": 91.7,
+     "rating": 0.87
+    },
+    {
+     "player": 21062,
+     "nick": "MATYS",
+     "kills": 11,
+     "deaths": 3,
+     "swing": 7.86,
+     "adr": 123.0,
+     "kast": 85.7,
+     "rating": 2.18
+    },
+    {
+     "player": 3972,
+     "nick": "huNter-",
+     "kills": 7,
+     "deaths": 4,
+     "swing": 7.69,
+     "adr": 87.0,
+     "kast": 100.0,
+     "rating": 1.56
+    },
+    {
+     "player": 20447,
+     "nick": "HeavyGod",
+     "kills": 4,
+     "deaths": 3,
+     "swing": 0.3,
+     "adr": 91.9,
+     "kast": 100.0,
+     "rating": 1.06
+    },
+    {
+     "player": 20425,
+     "nick": "r1nkle",
+     "kills": 4,
+     "deaths": 2,
+     "swing": -0.09,
+     "adr": 65.1,
+     "kast": 71.4,
+     "rating": 0.91
+    },
+    {
+     "player": 9436,
+     "nick": "NertZ",
+     "kills": 2,
+     "deaths": 5,
+     "swing": -6.21,
+     "adr": 47.3,
+     "kast": 71.4,
+     "rating": 0.4
     }
    ]
   },
@@ -796,108 +796,6 @@
    ],
    "t": [
     {
-     "player": 19230,
-     "nick": "m0NESY",
-     "kills": 10,
-     "deaths": 7,
-     "swing": 9.89,
-     "adr": 100.3,
-     "kast": 70.0,
-     "rating": 1.62
-    },
-    {
-     "player": 3741,
-     "nick": "NiKo",
-     "kills": 9,
-     "deaths": 7,
-     "swing": -0.33,
-     "adr": 109.2,
-     "kast": 70.0,
-     "rating": 1.22
-    },
-    {
-     "player": 24177,
-     "nick": "kyousuke",
-     "kills": 7,
-     "deaths": 8,
-     "swing": -0.81,
-     "adr": 62.1,
-     "kast": 80.0,
-     "rating": 1.05
-    },
-    {
-     "player": 12018,
-     "nick": "TeSeS",
-     "kills": 4,
-     "deaths": 7,
-     "swing": -5.37,
-     "adr": 31.3,
-     "kast": 80.0,
-     "rating": 0.72
-    },
-    {
-     "player": 429,
-     "nick": "karrigan",
-     "kills": 4,
-     "deaths": 9,
-     "swing": -5.88,
-     "adr": 61.4,
-     "kast": 50.0,
-     "rating": 0.5
-    },
-    {
-     "player": 3972,
-     "nick": "huNter-",
-     "kills": 10,
-     "deaths": 10,
-     "swing": -0.45,
-     "adr": 89.0,
-     "kast": 75.0,
-     "rating": 1.28
-    },
-    {
-     "player": 9436,
-     "nick": "NertZ",
-     "kills": 7,
-     "deaths": 7,
-     "swing": -2.44,
-     "adr": 76.4,
-     "kast": 83.3,
-     "rating": 0.86
-    },
-    {
-     "player": 21062,
-     "nick": "MATYS",
-     "kills": 5,
-     "deaths": 7,
-     "swing": -2.43,
-     "adr": 43.5,
-     "kast": 66.7,
-     "rating": 0.66
-    },
-    {
-     "player": 20447,
-     "nick": "HeavyGod",
-     "kills": 6,
-     "deaths": 9,
-     "swing": -4.14,
-     "adr": 57.4,
-     "kast": 50.0,
-     "rating": 0.6
-    },
-    {
-     "player": 20425,
-     "nick": "r1nkle",
-     "kills": 4,
-     "deaths": 10,
-     "swing": -7.0,
-     "adr": 44.2,
-     "kast": 50.0,
-     "rating": 0.37
-    }
-   ],
-   "ct": [
-    {
      "player": 24177,
      "nick": "kyousuke",
      "kills": 11,
@@ -997,21 +895,112 @@
      "kast": 60.0,
      "rating": 0.46
     }
+   ],
+   "ct": [
+    {
+     "player": 19230,
+     "nick": "m0NESY",
+     "kills": 10,
+     "deaths": 7,
+     "swing": 9.89,
+     "adr": 100.3,
+     "kast": 70.0,
+     "rating": 1.62
+    },
+    {
+     "player": 3741,
+     "nick": "NiKo",
+     "kills": 9,
+     "deaths": 7,
+     "swing": -0.33,
+     "adr": 109.2,
+     "kast": 70.0,
+     "rating": 1.22
+    },
+    {
+     "player": 24177,
+     "nick": "kyousuke",
+     "kills": 7,
+     "deaths": 8,
+     "swing": -0.81,
+     "adr": 62.1,
+     "kast": 80.0,
+     "rating": 1.05
+    },
+    {
+     "player": 12018,
+     "nick": "TeSeS",
+     "kills": 4,
+     "deaths": 7,
+     "swing": -5.37,
+     "adr": 31.3,
+     "kast": 80.0,
+     "rating": 0.72
+    },
+    {
+     "player": 429,
+     "nick": "karrigan",
+     "kills": 4,
+     "deaths": 9,
+     "swing": -5.88,
+     "adr": 61.4,
+     "kast": 50.0,
+     "rating": 0.5
+    },
+    {
+     "player": 3972,
+     "nick": "huNter-",
+     "kills": 10,
+     "deaths": 10,
+     "swing": -0.45,
+     "adr": 89.0,
+     "kast": 75.0,
+     "rating": 1.28
+    },
+    {
+     "player": 9436,
+     "nick": "NertZ",
+     "kills": 7,
+     "deaths": 7,
+     "swing": -2.44,
+     "adr": 76.4,
+     "kast": 83.3,
+     "rating": 0.86
+    },
+    {
+     "player": 21062,
+     "nick": "MATYS",
+     "kills": 5,
+     "deaths": 7,
+     "swing": -2.43,
+     "adr": 43.5,
+     "kast": 66.7,
+     "rating": 0.66
+    },
+    {
+     "player": 20447,
+     "nick": "HeavyGod",
+     "kills": 6,
+     "deaths": 9,
+     "swing": -4.14,
+     "adr": 57.4,
+     "kast": 50.0,
+     "rating": 0.6
+    },
+    {
+     "player": 20425,
+     "nick": "r1nkle",
+     "kills": 4,
+     "deaths": 10,
+     "swing": -7.0,
+     "adr": 44.2,
+     "kast": 50.0,
+     "rating": 0.37
+    }
    ]
   }
  },
- "mvp": {
-  "player": 3741,
-  "nick": "NiKo",
-  "maps": 2,
-  "kpr": 0.9,
-  "dpr": 0.59,
-  "kast": 78.0,
-  "mkRating": 1.37,
-  "swing": 6.94,
-  "adr": 92.3,
-  "rating": 1.64
- },
+ "mvp": 3741,
  "highlight": null,
  "h2h": {
   "team1Wins": 6,
