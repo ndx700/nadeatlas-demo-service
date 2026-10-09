@@ -679,7 +679,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398731-m1-vitality-vs-natus-vincere-m1-anubis.dem",
     "size": 325128357,
     "matchId": "hltv-2398731-m1",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398731-m1-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398731-m1-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Vitality-vs-Natus-Vincere-2026-10-04-Anubis-hltv-2398731-m1-r3.nar",
+    "replaySize": 2452820
   },
   {
     "date": "2026-10-04",
@@ -691,7 +693,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398731-m2-vitality-vs-natus-vincere-m2-nuke.dem",
     "size": 285541106,
     "matchId": "hltv-2398731-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398731-m2-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398731-m2-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Vitality-vs-Natus-Vincere-2026-10-04-Nuke-hltv-2398731-m2-r3.nar",
+    "replaySize": 2138974
   },
   {
     "date": "2026-10-04",
@@ -731,7 +735,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398730-m2-g2-vs-1win-m2-ancient.dem",
     "size": 252863289,
     "matchId": "hltv-2398730-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398730-m2-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398730-m2-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/G2-vs-1win-2026-10-04-Ancient-hltv-2398730-m2-r3.nar",
+    "replaySize": 1934951
   },
   {
     "date": "2026-10-04",
@@ -785,7 +791,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398727-m1-9z-vs-tyloo-m1-nuke.dem",
     "size": 366787450,
     "matchId": "hltv-2398727-m1",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398727-m1-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398727-m1-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/9z-vs-TYLOO-2026-10-04-Nuke-hltv-2398727-m1-r3.nar",
+    "replaySize": 2726894
   },
   {
     "date": "2026-10-04",
@@ -811,7 +819,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398726-m1-p1-shinden-vs-legacy-m1-nuke-p1.dem",
     "size": 224396475,
     "matchId": "hltv-2398726-m1",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398726-m1-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398726-m1-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/ShindeN-vs-Legacy-2026-10-04-Nuke-hltv-2398726-m1-r3.nar",
+    "replaySize": 1712394
   },
   {
     "date": "2026-10-04",
@@ -911,7 +921,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398724-m2-furia-vs-betboom-m2-cache.dem",
     "size": 470027375,
     "matchId": "hltv-2398724-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398724-m2-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398724-m2-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/FURIA-vs-BETBOOM-2026-10-03-Cache-hltv-2398724-m2-r3.nar",
+    "replaySize": 3638078
   },
   {
     "date": "2026-10-03",
@@ -923,7 +935,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398723-m1-g2-vs-natus-vincere-m1-cache.dem",
     "size": 356977600,
     "matchId": "hltv-2398723-m1",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398723-m1-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398723-m1-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/G2-vs-Natus-Vincere-2026-10-03-Cache-hltv-2398723-m1-r3.nar",
+    "replaySize": 2586674
   },
   {
     "date": "2026-10-03",
@@ -935,7 +949,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398723-m2-p1-g2-vs-natus-vincere-m2-inferno-p1.dem",
     "size": 216200037,
     "matchId": "hltv-2398723-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398723-m2-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398723-m2-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/G2-vs-Natus-Vincere-2026-10-03-Inferno-hltv-2398723-m2-r3.nar",
+    "replaySize": 1472360
   },
   {
     "date": "2026-10-03",
@@ -947,7 +963,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398722-m1-mouz-vs-m80-m1-cache.dem",
     "size": 352864394,
     "matchId": "hltv-2398722-m1",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398722-m1-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398722-m1-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/MOUZ-vs-M80-2026-10-03-Cache-hltv-2398722-m1-r3.nar",
+    "replaySize": 2656244
   },
   {
     "date": "2026-10-03",
@@ -1015,7 +1033,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398718-m2-legacy-vs-parivision-m2-inferno.dem",
     "size": 285438008,
     "matchId": "hltv-2398718-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398718-m2-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398718-m2-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Legacy-vs-PARIVISION-2026-10-03-Inferno-hltv-2398718-m2-r3.nar",
+    "replaySize": 1969639
   },
   {
     "date": "2026-10-03",
@@ -1027,7 +1047,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398718-m3-legacy-vs-parivision-m3-ancient.dem",
     "size": 446951310,
     "matchId": "hltv-2398718-m3",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398718-m3-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398718-m3-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Legacy-vs-PARIVISION-2026-10-03-Ancient-hltv-2398718-m3-r3.nar",
+    "replaySize": 3371128
   },
   {
     "date": "2026-10-03",
@@ -1053,7 +1075,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398717-m2-falcons-vs-tyloo-m2-anubis.dem",
     "size": 295296092,
     "matchId": "hltv-2398717-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398717-m2-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398717-m2-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Falcons-vs-TYLOO-2026-10-03-Anubis-hltv-2398717-m2-r3.nar",
+    "replaySize": 2199924
   },
   {
     "date": "2026-09-20",
