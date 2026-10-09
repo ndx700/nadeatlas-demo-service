@@ -1,0 +1,38 @@
+{
+ "id": 13857,
+ "name": "Iowa Stormboar",
+ "country": null,
+ "rankHltv": null,
+ "rankVrs": null,
+ "players": [],
+ "events": [
+  9387
+ ],
+ "recent": [
+  {
+   "matchId": 2399215,
+   "date": "2026-10-09",
+   "opponent": 12554,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 9387
+  }
+ ],
+ "mapStats": {
+  "de_ancient": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_dust2": {
+   "played": 1,
+   "winPct": 100
+  },
+  "de_mirage": {
+   "played": 1,
+   "winPct": 100
+  }
+ }
+}
