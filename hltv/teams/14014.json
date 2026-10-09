@@ -1,0 +1,70 @@
+{
+ "id": 14014,
+ "name": "Gothic",
+ "country": null,
+ "rankHltv": null,
+ "rankVrs": null,
+ "players": [],
+ "events": [
+  9420,
+  9439
+ ],
+ "recent": [
+  {
+   "matchId": 2398408,
+   "date": "2026-10-09",
+   "opponent": 7969,
+   "bo": 3,
+   "score": [
+    0,
+    0
+   ],
+   "eventId": 9420
+  },
+  {
+   "matchId": 2398400,
+   "date": "2026-10-07",
+   "opponent": 13838,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 9420
+  },
+  {
+   "matchId": 2399370,
+   "date": "2026-10-07",
+   "opponent": 13279,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 9439
+  },
+  {
+   "matchId": 2399143,
+   "date": "2026-10-06",
+   "opponent": 13759,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 9439
+  },
+  {
+   "matchId": 2399069,
+   "date": "2026-10-05",
+   "opponent": 11176,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 9439
+  }
+ ],
+ "mapStats": {}
+}

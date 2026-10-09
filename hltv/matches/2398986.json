@@ -1,21 +1,59 @@
 {
  "id": 2398986,
  "eventId": 9408,
- "stage": "Playoffs",
- "time": "2026-10-09T18:00:00Z",
+ "stage": null,
+ "time": "2026-10-10T02:00:00+08:00",
  "bo": 3,
  "status": "upcoming",
  "team1": {
-  "id": 14030,
-  "score": null,
-  "players": []
- },
- "team2": {
   "id": 13027,
   "score": null,
   "players": []
  },
+ "team2": {
+  "id": 14030,
+  "score": null,
+  "players": []
+ },
  "maps": [],
- "stats": {},
- "mvp": null
+ "stats": {
+  "all": {
+   "both": [],
+   "t": [],
+   "ct": []
+  }
+ },
+ "mvp": null,
+ "highlight": null,
+ "h2h": {
+  "team1Wins": 2,
+  "team2Wins": 0,
+  "overtimes": 1,
+  "maps": [
+   {
+    "date": "2026-09-30",
+    "matchId": 2398783,
+    "eventId": null,
+    "event": "WINLINE MPKBK CIS LAN Season 8",
+    "map": "de_anubis",
+    "score": [
+     13,
+     7
+    ],
+    "winner": 13027
+   },
+   {
+    "date": "2026-09-30",
+    "matchId": 2398783,
+    "eventId": null,
+    "event": "WINLINE MPKBK CIS LAN Season 8",
+    "map": "de_dust2",
+    "score": [
+     16,
+     14
+    ],
+    "winner": 13027
+   }
+  ]
+ }
 }

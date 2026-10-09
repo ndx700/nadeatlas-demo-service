@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-09T15:11:42+08:00",
+ "updatedAt": "2026-10-09T21:34:17+08:00",
  "teams": [
   {
    "id": 7020,
@@ -27,7 +27,7 @@
    "name": "FURIA",
    "country": "BR",
    "rankHltv": 4,
-   "rankVrs": 6
+   "rankVrs": 7
   },
   {
    "id": 11283,
@@ -62,7 +62,7 @@
    "name": "Aurora",
    "country": "TR",
    "rankHltv": 9,
-   "rankVrs": 7
+   "rankVrs": 6
   },
   {
    "id": 4608,
@@ -104,7 +104,7 @@
    "name": "B8",
    "country": "UA",
    "rankHltv": 15,
-   "rankVrs": 16
+   "rankVrs": 17
   },
   {
    "id": 9996,
@@ -153,7 +153,7 @@
    "name": "Nemiga",
    "country": "RU",
    "rankHltv": 22,
-   "rankVrs": 17
+   "rankVrs": 16
   },
   {
    "id": 12474,
@@ -216,7 +216,7 @@
    "name": "TYLOO",
    "country": "CN",
    "rankHltv": 34,
-   "rankVrs": 45
+   "rankVrs": 46
   },
   {
    "id": 8840,
@@ -569,6 +569,48 @@
    "rankVrs": null
   },
   {
+   "id": 13983,
+   "name": "Vitalem Aerem",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 11514,
+   "name": "Rare Atom",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 13646,
+   "name": "Fortress",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 7187,
+   "name": "Nexus",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 14014,
+   "name": "Gothic",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 13027,
+   "name": "Nuclear TigeRES",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
    "id": 13973,
    "name": "Color",
    "country": null,
@@ -627,13 +669,6 @@
   {
    "id": 12380,
    "name": "CYBERSHOKE",
-   "country": null,
-   "rankHltv": null,
-   "rankVrs": null
-  },
-  {
-   "id": 7187,
-   "name": "Nexus",
    "country": null,
    "rankHltv": null,
    "rankVrs": null
@@ -732,13 +767,6 @@
   {
    "id": 13104,
    "name": "Iberian Soul#55#58",
-   "country": null,
-   "rankHltv": null,
-   "rankVrs": null
-  },
-  {
-   "id": 14014,
-   "name": "Gothic#208",
    "country": null,
    "rankHltv": null,
    "rankVrs": null
@@ -856,13 +884,6 @@
    "rankVrs": null
   },
   {
-   "id": 13027,
-   "name": "Nuclear TigeRES",
-   "country": null,
-   "rankHltv": null,
-   "rankVrs": null
-  },
-  {
    "id": 13012,
    "name": "HYPERSPIRIT",
    "country": null,
@@ -940,13 +961,6 @@
    "rankVrs": null
   },
   {
-   "id": 11514,
-   "name": "Rare Atom#105#134",
-   "country": null,
-   "rankHltv": null,
-   "rankVrs": null
-  },
-  {
    "id": 13331,
    "name": "Kaleido#154#180",
    "country": null,
@@ -956,13 +970,6 @@
   {
    "id": 13053,
    "name": "Just Swing#178#201",
-   "country": null,
-   "rankHltv": null,
-   "rankVrs": null
-  },
-  {
-   "id": 13983,
-   "name": "Vitalem Aerem#180#202",
    "country": null,
    "rankHltv": null,
    "rankVrs": null

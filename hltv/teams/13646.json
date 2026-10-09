@@ -1,6 +1,6 @@
 {
- "id": 9735,
- "name": "Lilmix",
+ "id": 13646,
+ "name": "Fortress",
  "country": null,
  "rankHltv": null,
  "rankVrs": null,
@@ -12,18 +12,18 @@
   {
    "matchId": 2399381,
    "date": "2026-10-09",
-   "opponent": 13646,
+   "opponent": 9735,
    "bo": 3,
    "score": [
-    0,
-    2
+    2,
+    0
    ],
    "eventId": 9439
   },
   {
-   "matchId": 2399074,
+   "matchId": 2399071,
    "date": "2026-10-08",
-   "opponent": 12960,
+   "opponent": 12609,
    "bo": 3,
    "score": [
     0,
@@ -33,13 +33,17 @@
   }
  ],
  "mapStats": {
-  "de_cache": {
+  "de_ancient": {
    "played": 1,
    "winPct": 0
   },
-  "de_mirage": {
+  "de_cache": {
    "played": 1,
-   "winPct": 0
+   "winPct": 100
+  },
+  "de_mirage": {
+   "played": 2,
+   "winPct": 50
   }
  }
 }

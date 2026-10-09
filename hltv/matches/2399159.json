@@ -1,21 +1,303 @@
 {
  "id": 2399159,
  "eventId": 9383,
- "stage": "Playoffs",
- "time": "2026-10-09T13:00:00Z",
+ "stage": null,
+ "time": "2026-10-09T21:00:00+08:00",
  "bo": 3,
- "status": "upcoming",
+ "status": "finished",
  "team1": {
-  "id": 11514,
-  "score": null,
+  "id": 13983,
+  "score": 0,
   "players": []
  },
  "team2": {
-  "id": 13983,
-  "score": null,
+  "id": 11514,
+  "score": 0,
   "players": []
  },
- "maps": [],
- "stats": {},
- "mvp": null
+ "maps": [
+  {
+   "map": "de_inferno",
+   "pick": 11514,
+   "score": [
+    null,
+    null
+   ],
+   "halves": null
+  },
+  {
+   "map": "de_dust2",
+   "pick": 13983,
+   "score": [
+    null,
+    null
+   ],
+   "halves": null
+  },
+  {
+   "map": "de_ancient",
+   "pick": null,
+   "score": [
+    null,
+    null
+   ],
+   "halves": null
+  }
+ ],
+ "stats": {
+  "all": {
+   "both": [],
+   "t": [],
+   "ct": []
+  }
+ },
+ "mvp": null,
+ "highlight": null,
+ "h2h": {
+  "team1Wins": 5,
+  "team2Wins": 19,
+  "overtimes": 3,
+  "maps": [
+   {
+    "date": "2026-09-25",
+    "matchId": 2398483,
+    "eventId": null,
+    "event": "ESL Challenger League Season 52 Asia-Pacific Cup 2",
+    "map": "de_inferno",
+    "score": [
+     7,
+     13
+    ],
+    "winner": 11514
+   },
+   {
+    "date": "2026-09-25",
+    "matchId": 2398483,
+    "eventId": null,
+    "event": "ESL Challenger League Season 52 Asia-Pacific Cup 2",
+    "map": "de_dust2",
+    "score": [
+     13,
+     11
+    ],
+    "winner": 13983
+   },
+   {
+    "date": "2026-09-25",
+    "matchId": 2398483,
+    "eventId": null,
+    "event": "ESL Challenger League Season 52 Asia-Pacific Cup 2",
+    "map": "de_ancient",
+    "score": [
+     6,
+     13
+    ],
+    "winner": 11514
+   },
+   {
+    "date": "2026-08-23",
+    "matchId": 2397017,
+    "eventId": null,
+    "event": "GLuck Moscow Cyber Games 2026 Asia Closed Qualifier",
+    "map": "de_ancient",
+    "score": [
+     11,
+     13
+    ],
+    "winner": 11514
+   },
+   {
+    "date": "2026-08-23",
+    "matchId": 2397017,
+    "eventId": null,
+    "event": "GLuck Moscow Cyber Games 2026 Asia Closed Qualifier",
+    "map": "de_dust2",
+    "score": [
+     13,
+     10
+    ],
+    "winner": 13983
+   },
+   {
+    "date": "2026-08-23",
+    "matchId": 2397017,
+    "eventId": null,
+    "event": "GLuck Moscow Cyber Games 2026 Asia Closed Qualifier",
+    "map": "de_inferno",
+    "score": [
+     3,
+     13
+    ],
+    "winner": 11514
+   },
+   {
+    "date": "2025-08-14",
+    "matchId": 2384554,
+    "eventId": null,
+    "event": "ESL Challenger League Season 50 Asia-Pacific Cup 1",
+    "map": "de_mirage",
+    "score": [
+     10,
+     13
+    ],
+    "winner": 11514
+   },
+   {
+    "date": "2025-08-14",
+    "matchId": 2384554,
+    "eventId": null,
+    "event": "ESL Challenger League Season 50 Asia-Pacific Cup 1",
+    "map": "de_overpass",
+    "score": [
+     2,
+     13
+    ],
+    "winner": 11514
+   },
+   {
+    "date": "2025-07-06",
+    "matchId": 2383501,
+    "eventId": null,
+    "event": "XSE GangKui Cup Season 1",
+    "map": "de_anubis",
+    "score": [
+     11,
+     13
+    ],
+    "winner": 11514
+   },
+   {
+    "date": "2025-07-06",
+    "matchId": 2383501,
+    "eventId": null,
+    "event": "XSE GangKui Cup Season 1",
+    "map": "de_ancient",
+    "score": [
+     11,
+     13
+    ],
+    "winner": 11514
+   },
+   {
+    "date": "2025-07-06",
+    "matchId": 2383501,
+    "eventId": null,
+    "event": "XSE GangKui Cup Season 1",
+    "map": "de_inferno",
+    "score": [
+     6,
+     13
+    ],
+    "winner": 11514
+   },
+   {
+    "date": "2025-07-06",
+    "matchId": 2383501,
+    "eventId": null,
+    "event": "XSE GangKui Cup Season 1",
+    "map": "de_dust2",
+    "score": [
+     19,
+     16
+    ],
+    "winner": 13983
+   },
+   {
+    "date": "2025-05-17",
+    "matchId": 2382671,
+    "eventId": null,
+    "event": "XSE Pro League Chengdu 2025",
+    "map": "de_mirage",
+    "score": [
+     5,
+     13
+    ],
+    "winner": 11514
+   },
+   {
+    "date": "2025-05-17",
+    "matchId": 2382671,
+    "eventId": null,
+    "event": "XSE Pro League Chengdu 2025",
+    "map": "de_anubis",
+    "score": [
+     3,
+     13
+    ],
+    "winner": 11514
+   },
+   {
+    "date": "2025-03-30",
+    "matchId": 2381036,
+    "eventId": null,
+    "event": "PGL Astana 2025 China Closed Qualifier",
+    "map": "de_inferno",
+    "score": [
+     4,
+     13
+    ],
+    "winner": 11514
+   },
+   {
+    "date": "2025-03-30",
+    "matchId": 2381036,
+    "eventId": null,
+    "event": "PGL Astana 2025 China Closed Qualifier",
+    "map": "de_mirage",
+    "score": [
+     13,
+     10
+    ],
+    "winner": 13983
+   },
+   {
+    "date": "2025-03-30",
+    "matchId": 2381036,
+    "eventId": null,
+    "event": "PGL Astana 2025 China Closed Qualifier",
+    "map": "de_anubis",
+    "score": [
+     13,
+     16
+    ],
+    "winner": 11514
+   },
+   {
+    "date": "2025-02-25",
+    "matchId": 2379778,
+    "eventId": null,
+    "event": "MESA Asian Masters 2025 China Closed Qualifier",
+    "map": "de_anubis",
+    "score": [
+     7,
+     13
+    ],
+    "winner": 11514
+   },
+   {
+    "date": "2025-02-25",
+    "matchId": 2379778,
+    "eventId": null,
+    "event": "MESA Asian Masters 2025 China Closed Qualifier",
+    "map": "de_mirage",
+    "score": [
+     5,
+     13
+    ],
+    "winner": 11514
+   },
+   {
+    "date": "2025-02-10",
+    "matchId": 2379184,
+    "eventId": null,
+    "event": "BLAST Rising Asia Spring 2025 Closed Qualifier",
+    "map": "de_mirage",
+    "score": [
+     13,
+     16
+    ],
+    "winner": 11514
+   }
+  ]
+ }
 }

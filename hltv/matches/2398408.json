@@ -1,21 +1,53 @@
 {
  "id": 2398408,
  "eventId": 9420,
- "stage": "Playoffs",
- "time": "2026-10-09T11:00:00Z",
+ "stage": null,
+ "time": "2026-10-09T18:58:48+08:00",
  "bo": 3,
- "status": "upcoming",
+ "status": "finished",
  "team1": {
   "id": 7969,
-  "score": null,
+  "score": 0,
   "players": []
  },
  "team2": {
   "id": 14014,
-  "score": null,
+  "score": 0,
   "players": []
  },
- "maps": [],
- "stats": {},
- "mvp": null
+ "maps": [
+  {
+   "map": "de_cache",
+   "pick": 7969,
+   "score": [
+    null,
+    null
+   ],
+   "halves": null
+  },
+  {
+   "map": "de_ancient",
+   "pick": null,
+   "score": [
+    null,
+    null
+   ],
+   "halves": null
+  }
+ ],
+ "stats": {
+  "all": {
+   "both": [],
+   "t": [],
+   "ct": []
+  }
+ },
+ "mvp": null,
+ "highlight": null,
+ "h2h": {
+  "team1Wins": 0,
+  "team2Wins": 0,
+  "overtimes": 0,
+  "maps": []
+ }
 }

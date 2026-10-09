@@ -1,0 +1,60 @@
+{
+ "id": 11514,
+ "name": "Rare Atom",
+ "country": null,
+ "rankHltv": null,
+ "rankVrs": null,
+ "players": [],
+ "events": [
+  9383
+ ],
+ "recent": [
+  {
+   "matchId": 2399159,
+   "date": "2026-10-09",
+   "opponent": 13983,
+   "bo": 3,
+   "score": [
+    0,
+    0
+   ],
+   "eventId": 9383
+  },
+  {
+   "matchId": 2399158,
+   "date": "2026-10-08",
+   "opponent": 13053,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 9383
+  },
+  {
+   "matchId": 2399154,
+   "date": "2026-10-07",
+   "opponent": 14048,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 9383
+  }
+ ],
+ "mapStats": {
+  "de_ancient": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_cache": {
+   "played": 1,
+   "winPct": 100
+  },
+  "de_dust2": {
+   "played": 1,
+   "winPct": 100
+  }
+ }
+}

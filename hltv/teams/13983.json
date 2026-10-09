@@ -1,0 +1,36 @@
+{
+ "id": 13983,
+ "name": "Vitalem Aerem",
+ "country": null,
+ "rankHltv": null,
+ "rankVrs": null,
+ "players": [],
+ "events": [
+  9383
+ ],
+ "recent": [
+  {
+   "matchId": 2399159,
+   "date": "2026-10-09",
+   "opponent": 11514,
+   "bo": 3,
+   "score": [
+    0,
+    0
+   ],
+   "eventId": 9383
+  },
+  {
+   "matchId": 2399148,
+   "date": "2026-10-07",
+   "opponent": 12646,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 9383
+  }
+ ],
+ "mapStats": {}
+}

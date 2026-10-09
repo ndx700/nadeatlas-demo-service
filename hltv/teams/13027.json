@@ -1,0 +1,42 @@
+{
+ "id": 13027,
+ "name": "Nuclear TigeRES",
+ "country": null,
+ "rankHltv": null,
+ "rankVrs": null,
+ "players": [],
+ "events": [
+  9154,
+  9408
+ ],
+ "recent": [
+  {
+   "matchId": 2398982,
+   "date": "2026-10-08",
+   "opponent": 13973,
+   "bo": 3,
+   "score": [
+    1,
+    0
+   ],
+   "eventId": 9408
+  },
+  {
+   "matchId": 2396002,
+   "date": "2026-07-21",
+   "opponent": 4494,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 9154
+  }
+ ],
+ "mapStats": {
+  "de_default": {
+   "played": 1,
+   "winPct": 100
+  }
+ }
+}

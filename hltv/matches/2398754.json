@@ -6,12 +6,12 @@
  "bo": 3,
  "status": "upcoming",
  "team1": {
-  "id": null,
+  "id": 11861,
   "score": null,
   "players": []
  },
  "team2": {
-  "id": null,
+  "id": 9565,
   "score": null,
   "players": []
  },
@@ -25,5 +25,239 @@
  },
  "mvp": null,
  "highlight": null,
- "h2h": null
+ "h2h": {
+  "team1Wins": 8,
+  "team2Wins": 11,
+  "overtimes": 3,
+  "maps": [
+   {
+    "date": "2026-09-21",
+    "matchId": 2398108,
+    "eventId": null,
+    "event": "StarLadder StarSeries Fall 2026",
+    "map": "de_cache",
+    "score": [
+     7,
+     13
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2026-09-21",
+    "matchId": 2398108,
+    "eventId": null,
+    "event": "StarLadder StarSeries Fall 2026",
+    "map": "de_mirage",
+    "score": [
+     4,
+     13
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2026-09-21",
+    "matchId": 2398108,
+    "eventId": null,
+    "event": "StarLadder StarSeries Fall 2026",
+    "map": "de_inferno",
+    "score": [
+     13,
+     11
+    ],
+    "winner": 11861
+   },
+   {
+    "date": "2026-09-21",
+    "matchId": 2398108,
+    "eventId": null,
+    "event": "StarLadder StarSeries Fall 2026",
+    "map": "de_anubis",
+    "score": [
+     4,
+     13
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2026-09-20",
+    "matchId": 2398105,
+    "eventId": null,
+    "event": "StarLadder StarSeries Fall 2026",
+    "map": "de_nuke",
+    "score": [
+     13,
+     8
+    ],
+    "winner": 11861
+   },
+   {
+    "date": "2026-09-20",
+    "matchId": 2398105,
+    "eventId": null,
+    "event": "StarLadder StarSeries Fall 2026",
+    "map": "de_inferno",
+    "score": [
+     11,
+     13
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2026-09-20",
+    "matchId": 2398105,
+    "eventId": null,
+    "event": "StarLadder StarSeries Fall 2026",
+    "map": "de_anubis",
+    "score": [
+     13,
+     7
+    ],
+    "winner": 11861
+   },
+   {
+    "date": "2026-03-28",
+    "matchId": 2391773,
+    "eventId": null,
+    "event": "BLAST Open Rotterdam 2026",
+    "map": "de_nuke",
+    "score": [
+     5,
+     13
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2026-03-28",
+    "matchId": 2391773,
+    "eventId": null,
+    "event": "BLAST Open Rotterdam 2026",
+    "map": "de_inferno",
+    "score": [
+     5,
+     13
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2026-02-21",
+    "matchId": 2389982,
+    "eventId": null,
+    "event": "PGL Cluj-Napoca 2026",
+    "map": "de_overpass",
+    "score": [
+     10,
+     13
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2026-02-21",
+    "matchId": 2389982,
+    "eventId": null,
+    "event": "PGL Cluj-Napoca 2026",
+    "map": "de_inferno",
+    "score": [
+     8,
+     13
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2026-02-04",
+    "matchId": 2389658,
+    "eventId": null,
+    "event": "IEM Kraków 2026",
+    "map": "de_overpass",
+    "score": [
+     7,
+     13
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2026-02-04",
+    "matchId": 2389658,
+    "eventId": null,
+    "event": "IEM Kraków 2026",
+    "map": "de_ancient",
+    "score": [
+     22,
+     25
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2025-01-25",
+    "matchId": 2378456,
+    "eventId": null,
+    "event": "BLAST Bounty 2025 Season 1 Finals",
+    "map": "de_mirage",
+    "score": [
+     13,
+     11
+    ],
+    "winner": 11861
+   },
+   {
+    "date": "2025-01-25",
+    "matchId": 2378456,
+    "eventId": null,
+    "event": "BLAST Bounty 2025 Season 1 Finals",
+    "map": "de_anubis",
+    "score": [
+     13,
+     9
+    ],
+    "winner": 11861
+   },
+   {
+    "date": "2024-09-20",
+    "matchId": 2375423,
+    "eventId": null,
+    "event": "ESL Pro League Season 20",
+    "map": "de_inferno",
+    "score": [
+     22,
+     20
+    ],
+    "winner": 11861
+   },
+   {
+    "date": "2024-09-20",
+    "matchId": 2375423,
+    "eventId": null,
+    "event": "ESL Pro League Season 20",
+    "map": "de_nuke",
+    "score": [
+     5,
+     13
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2024-09-20",
+    "matchId": 2375423,
+    "eventId": null,
+    "event": "ESL Pro League Season 20",
+    "map": "de_anubis",
+    "score": [
+     16,
+     14
+    ],
+    "winner": 11861
+   },
+   {
+    "date": "2024-03-21",
+    "matchId": 2370630,
+    "eventId": null,
+    "event": "PGL CS2 Major Copenhagen 2024",
+    "map": "de_inferno",
+    "score": [
+     13,
+     10
+    ],
+    "winner": 11861
+   }
+  ]
+ }
 }

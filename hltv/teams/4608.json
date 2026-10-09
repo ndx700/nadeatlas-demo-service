@@ -79,17 +79,6 @@
    "eventId": 8244
   },
   {
-   "matchId": 2398723,
-   "date": "2026-10-04",
-   "opponent": 5995,
-   "bo": 3,
-   "score": [
-    2,
-    0
-   ],
-   "eventId": 8244
-  },
-  {
    "matchId": 2398731,
    "date": "2026-10-04",
    "opponent": 9565,
@@ -97,6 +86,17 @@
    "score": [
     1,
     2
+   ],
+   "eventId": 8244
+  },
+  {
+   "matchId": 2398723,
+   "date": "2026-10-04",
+   "opponent": 5995,
+   "bo": 3,
+   "score": [
+    2,
+    0
    ],
    "eventId": 8244
   },

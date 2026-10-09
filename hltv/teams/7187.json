@@ -1,0 +1,63 @@
+{
+ "id": 7187,
+ "name": "Nexus",
+ "country": null,
+ "rankHltv": null,
+ "rankVrs": null,
+ "players": [],
+ "events": [
+  9420
+ ],
+ "recent": [
+  {
+   "matchId": 2398405,
+   "date": "2026-10-08",
+   "opponent": 12380,
+   "bo": 3,
+   "score": [
+    1,
+    0
+   ],
+   "eventId": 9420
+  },
+  {
+   "matchId": 2398372,
+   "date": "",
+   "opponent": 13901,
+   "bo": null,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 9420
+  },
+  {
+   "matchId": 2398379,
+   "date": "",
+   "opponent": 13054,
+   "bo": null,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 9420
+  },
+  {
+   "matchId": 2398389,
+   "date": "",
+   "opponent": 12609,
+   "bo": null,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 9420
+  }
+ ],
+ "mapStats": {
+  "de_default": {
+   "played": 1,
+   "winPct": 100
+  }
+ }
+}

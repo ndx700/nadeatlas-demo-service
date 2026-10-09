@@ -3,7 +3,7 @@
  "name": "Nemiga",
  "country": "RU",
  "rankHltv": 22,
- "rankVrs": 17,
+ "rankVrs": 16,
  "players": [
   {
    "id": 19920,
@@ -42,6 +42,17 @@
   9420
  ],
  "recent": [
+  {
+   "matchId": 2398408,
+   "date": "2026-10-09",
+   "opponent": 14014,
+   "bo": 3,
+   "score": [
+    0,
+    0
+   ],
+   "eventId": 9420
+  },
   {
    "matchId": 2398404,
    "date": "2026-10-08",
