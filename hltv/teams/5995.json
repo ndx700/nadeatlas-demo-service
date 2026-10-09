@@ -40,7 +40,10 @@
  "events": [
   8244,
   8249,
-  8266
+  8261,
+  8266,
+  8301,
+  9154
  ],
  "recent": [
   {
@@ -66,23 +69,23 @@
    "eventId": 8244
   },
   {
-   "matchId": 2398723,
-   "date": "2026-10-04",
-   "opponent": 4608,
-   "bo": 3,
-   "score": [
-    0,
-    2
-   ],
-   "eventId": 8244
-  },
-  {
    "matchId": 2398730,
    "date": "2026-10-04",
    "opponent": 10621,
    "bo": 3,
    "score": [
     1,
+    2
+   ],
+   "eventId": 8244
+  },
+  {
+   "matchId": 2398723,
+   "date": "2026-10-03",
+   "opponent": 4608,
+   "bo": 3,
+   "score": [
+    0,
     2
    ],
    "eventId": 8244
@@ -218,31 +221,119 @@
     0
    ],
    "eventId": 8249
+  },
+  {
+   "matchId": 2396607,
+   "date": "2026-08-20",
+   "opponent": 8297,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 8261
+  },
+  {
+   "matchId": 2396599,
+   "date": "2026-08-19",
+   "opponent": 6665,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 8261
+  },
+  {
+   "matchId": 2396576,
+   "date": "2026-08-13",
+   "opponent": 7532,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 8261
+  },
+  {
+   "matchId": 2396561,
+   "date": "2026-08-12",
+   "opponent": 12376,
+   "bo": 1,
+   "score": [
+    13,
+    11
+   ],
+   "eventId": 8261
+  },
+  {
+   "matchId": 2396013,
+   "date": "2026-07-25",
+   "opponent": 5973,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 9154
+  },
+  {
+   "matchId": 2396003,
+   "date": "2026-07-22",
+   "opponent": 7969,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 9154
+  },
+  {
+   "matchId": 2394992,
+   "date": "",
+   "opponent": 12468,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8301
+  },
+  {
+   "matchId": 2394995,
+   "date": "",
+   "opponent": 4608,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 8301
   }
  ],
  "mapStats": {
   "de_ancient": {
-   "played": 11,
-   "winPct": 73
+   "played": 14,
+   "winPct": 64
   },
   "de_anubis": {
-   "played": 4,
-   "winPct": 75
+   "played": 6,
+   "winPct": 67
   },
   "de_cache": {
-   "played": 3,
+   "played": 4,
    "winPct": 0
   },
   "de_dust2": {
-   "played": 7,
-   "winPct": 29
+   "played": 9,
+   "winPct": 33
   },
   "de_inferno": {
-   "played": 9,
-   "winPct": 56
+   "played": 11,
+   "winPct": 55
   },
   "de_mirage": {
-   "played": 6,
+   "played": 8,
    "winPct": 50
   }
  }

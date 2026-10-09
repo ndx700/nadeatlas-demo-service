@@ -5,7 +5,86 @@
  "rankHltv": null,
  "rankVrs": null,
  "players": [],
- "events": [],
- "recent": [],
- "mapStats": {}
+ "events": [
+  9374,
+  9439
+ ],
+ "recent": [
+  {
+   "matchId": 2399360,
+   "date": "2026-10-08",
+   "opponent": 13747,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 9374
+  },
+  {
+   "matchId": 2399362,
+   "date": "2026-10-08",
+   "opponent": 13998,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 9374
+  },
+  {
+   "matchId": 2399347,
+   "date": "2026-10-07",
+   "opponent": 13747,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 9374
+  },
+  {
+   "matchId": 2399355,
+   "date": "2026-10-07",
+   "opponent": 13974,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 9374
+  },
+  {
+   "matchId": 2399143,
+   "date": "2026-10-06",
+   "opponent": 14014,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 9439
+  },
+  {
+   "matchId": 2399070,
+   "date": "2026-10-05",
+   "opponent": 13279,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 9439
+  }
+ ],
+ "mapStats": {
+  "de_ancient": {
+   "played": 1,
+   "winPct": 100
+  },
+  "de_mirage": {
+   "played": 1,
+   "winPct": 100
+  }
+ }
 }

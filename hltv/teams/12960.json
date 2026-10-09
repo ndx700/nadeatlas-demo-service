@@ -6,9 +6,21 @@
  "rankVrs": null,
  "players": [],
  "events": [
+  9439,
   9441
  ],
  "recent": [
+  {
+   "matchId": 2399074,
+   "date": "2026-10-08",
+   "opponent": 9735,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 9439
+  },
   {
    "matchId": 2399276,
    "date": "2026-10-08",
@@ -17,6 +29,17 @@
    "score": [
     2,
     0
+   ],
+   "eventId": 9441
+  },
+  {
+   "matchId": 2399273,
+   "date": "2026-10-07",
+   "opponent": 13877,
+   "bo": 3,
+   "score": [
+    2,
+    1
    ],
    "eventId": 9441
   }

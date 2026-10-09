@@ -41,12 +41,13 @@
   8057,
   8244,
   8249,
-  8261
+  8261,
+  9154
  ],
  "recent": [
   {
    "matchId": 2398739,
-   "date": "2026-10-06",
+   "date": "2026-10-05",
    "opponent": 11283,
    "bo": 3,
    "score": [
@@ -57,7 +58,7 @@
   },
   {
    "matchId": 2398731,
-   "date": "2026-10-05",
+   "date": "2026-10-04",
    "opponent": 4608,
    "bo": 3,
    "score": [
@@ -100,17 +101,6 @@
    "eventId": 8057
   },
   {
-   "matchId": 2398102,
-   "date": "2026-09-19",
-   "opponent": 8297,
-   "bo": 3,
-   "score": [
-    2,
-    0
-   ],
-   "eventId": 8057
-  },
-  {
    "matchId": 2398105,
    "date": "2026-09-19",
    "opponent": 11861,
@@ -118,6 +108,17 @@
    "score": [
     1,
     2
+   ],
+   "eventId": 8057
+  },
+  {
+   "matchId": 2398102,
+   "date": "2026-09-18",
+   "opponent": 8297,
+   "bo": 3,
+   "score": [
+    2,
+    0
    ],
    "eventId": 8057
   },
@@ -134,7 +135,7 @@
   },
   {
    "matchId": 2396950,
-   "date": "2026-09-06",
+   "date": "2026-09-05",
    "opponent": 4494,
    "bo": 3,
    "score": [
@@ -145,7 +146,7 @@
   },
   {
    "matchId": 2396948,
-   "date": "2026-09-05",
+   "date": "2026-09-04",
    "opponent": 8297,
    "bo": 3,
    "score": [
@@ -156,7 +157,7 @@
   },
   {
    "matchId": 2396946,
-   "date": "2026-09-01",
+   "date": "2026-08-31",
    "opponent": 13286,
    "bo": 3,
    "score": [
@@ -167,7 +168,7 @@
   },
   {
    "matchId": 2396941,
-   "date": "2026-08-31",
+   "date": "2026-08-30",
    "opponent": 12468,
    "bo": 3,
    "score": [
@@ -200,7 +201,7 @@
   },
   {
    "matchId": 2396610,
-   "date": "2026-08-22",
+   "date": "2026-08-21",
    "opponent": 7020,
    "bo": 3,
    "score": [
@@ -219,6 +220,50 @@
     0
    ],
    "eventId": 8261
+  },
+  {
+   "matchId": 2396596,
+   "date": "2026-08-16",
+   "opponent": 8840,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8261
+  },
+  {
+   "matchId": 2396583,
+   "date": "2026-08-14",
+   "opponent": 11241,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 8261
+  },
+  {
+   "matchId": 2396567,
+   "date": "2026-08-12",
+   "opponent": 8474,
+   "bo": 1,
+   "score": [
+    13,
+    4
+   ],
+   "eventId": 8261
+  },
+  {
+   "matchId": 2396004,
+   "date": "2026-07-24",
+   "opponent": 5973,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 9154
   }
  ],
  "mapStats": {
@@ -231,20 +276,20 @@
    "winPct": 83
   },
   "de_dust2": {
-   "played": 10,
-   "winPct": 90
+   "played": 12,
+   "winPct": 83
   },
   "de_inferno": {
-   "played": 2,
+   "played": 4,
    "winPct": 50
   },
   "de_mirage": {
-   "played": 8,
-   "winPct": 62
+   "played": 9,
+   "winPct": 56
   },
   "de_nuke": {
-   "played": 6,
-   "winPct": 50
+   "played": 7,
+   "winPct": 57
   }
  }
 }

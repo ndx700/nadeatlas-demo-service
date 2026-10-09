@@ -6,19 +6,20 @@
  "rankVrs": null,
  "players": [],
  "events": [
+  9383,
   9428
  ],
  "recent": [
   {
-   "matchId": 2399374,
-   "date": "2026-10-09",
-   "opponent": 14086,
+   "matchId": 2399160,
+   "date": "2026-10-08",
+   "opponent": 13242,
    "bo": 3,
    "score": [
-    2,
+    1,
     0
    ],
-   "eventId": 9428
+   "eventId": 9383
   },
   {
    "matchId": 2399373,
@@ -27,23 +28,30 @@
    "bo": 3,
    "score": [
     0,
-    2
+    1
    ],
    "eventId": 9428
+  },
+  {
+   "matchId": 2399150,
+   "date": "2026-10-07",
+   "opponent": 14049,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 9383
   }
  ],
  "mapStats": {
   "de_ancient": {
-   "played": 2,
-   "winPct": 50
-  },
-  "de_dust2": {
-   "played": 1,
-   "winPct": 100
-  },
-  "de_inferno": {
    "played": 1,
    "winPct": 0
+  },
+  "de_default": {
+   "played": 1,
+   "winPct": 100
   }
  }
 }

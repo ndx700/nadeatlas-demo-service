@@ -38,9 +38,34 @@
   }
  ],
  "events": [
-  8261
+  8261,
+  8266,
+  8301,
+  9154
  ],
  "recent": [
+  {
+   "matchId": 2397603,
+   "date": "2026-09-09",
+   "opponent": 13724,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8266
+  },
+  {
+   "matchId": 2397597,
+   "date": "2026-09-08",
+   "opponent": 9215,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 8266
+  },
   {
    "matchId": 2396604,
    "date": "2026-08-20",
@@ -51,16 +76,105 @@
     2
    ],
    "eventId": 8261
+  },
+  {
+   "matchId": 2396598,
+   "date": "2026-08-16",
+   "opponent": 4773,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8261
+  },
+  {
+   "matchId": 2396587,
+   "date": "2026-08-15",
+   "opponent": 4608,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 8261
+  },
+  {
+   "matchId": 2396572,
+   "date": "2026-08-12",
+   "opponent": 13592,
+   "bo": 1,
+   "score": [
+    13,
+    7
+   ],
+   "eventId": 8261
+  },
+  {
+   "matchId": 2396008,
+   "date": "2026-07-26",
+   "opponent": 12257,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 9154
+  },
+  {
+   "matchId": 2395992,
+   "date": "2026-07-24",
+   "opponent": 7175,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 9154
+  },
+  {
+   "matchId": 2394972,
+   "date": "",
+   "opponent": 11241,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8301
+  },
+  {
+   "matchId": 2394993,
+   "date": "",
+   "opponent": 9996,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8301
   }
  ],
  "mapStats": {
+  "de_ancient": {
+   "played": 2,
+   "winPct": 50
+  },
   "de_dust2": {
    "played": 1,
    "winPct": 0
   },
   "de_inferno": {
-   "played": 1,
-   "winPct": 0
+   "played": 5,
+   "winPct": 40
+  },
+  "de_mirage": {
+   "played": 3,
+   "winPct": 67
+  },
+  "de_nuke": {
+   "played": 2,
+   "winPct": 50
   }
  }
 }

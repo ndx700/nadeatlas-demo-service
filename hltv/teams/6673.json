@@ -42,8 +42,19 @@
  ],
  "recent": [
   {
-   "matchId": 2398101,
+   "matchId": 2398104,
    "date": "2026-09-19",
+   "opponent": 9215,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8057
+  },
+  {
+   "matchId": 2398101,
+   "date": "2026-09-18",
    "opponent": 11861,
    "bo": 3,
    "score": [

@@ -39,12 +39,25 @@
  ],
  "events": [
   8244,
-  8266
+  8261,
+  8266,
+  8301
  ],
  "recent": [
   {
-   "matchId": 2398740,
+   "matchId": 2398744,
    "date": "2026-10-06",
+   "opponent": 9996,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8244
+  },
+  {
+   "matchId": 2398740,
+   "date": "2026-10-05",
    "opponent": 11861,
    "bo": 3,
    "score": [
@@ -65,6 +78,17 @@
    "eventId": 8244
   },
   {
+   "matchId": 2398732,
+   "date": "2026-10-04",
+   "opponent": 12376,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8244
+  },
+  {
    "matchId": 2397621,
    "date": "2026-09-12",
    "opponent": 5995,
@@ -74,28 +98,98 @@
     2
    ],
    "eventId": 8266
+  },
+  {
+   "matchId": 2397613,
+   "date": "2026-09-10",
+   "opponent": 9215,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8266
+  },
+  {
+   "matchId": 2397606,
+   "date": "2026-09-09",
+   "opponent": 6665,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8266
+  },
+  {
+   "matchId": 2397601,
+   "date": "2026-09-08",
+   "opponent": 7532,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8266
+  },
+  {
+   "matchId": 2396582,
+   "date": "2026-08-14",
+   "opponent": 4411,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8261
+  },
+  {
+   "matchId": 2396565,
+   "date": "2026-08-12",
+   "opponent": 6667,
+   "bo": 1,
+   "score": [
+    11,
+    13
+   ],
+   "eventId": 8261
+  },
+  {
+   "matchId": 2394975,
+   "date": "",
+   "opponent": 11283,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8301
   }
  ],
  "mapStats": {
   "de_ancient": {
-   "played": 1,
-   "winPct": 0
-  },
-  "de_anubis": {
    "played": 2,
    "winPct": 0
   },
+  "de_anubis": {
+   "played": 6,
+   "winPct": 50
+  },
   "de_cache": {
+   "played": 3,
+   "winPct": 67
+  },
+  "de_dust2": {
    "played": 1,
    "winPct": 0
   },
   "de_mirage": {
-   "played": 3,
-   "winPct": 33
+   "played": 5,
+   "winPct": 40
   },
   "de_nuke": {
-   "played": 1,
-   "winPct": 100
+   "played": 4,
+   "winPct": 75
   }
  }
 }

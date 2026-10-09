@@ -51,6 +51,17 @@
     2
    ],
    "eventId": 8261
+  },
+  {
+   "matchId": 2396560,
+   "date": "2026-08-12",
+   "opponent": 9928,
+   "bo": 1,
+   "score": [
+    3,
+    13
+   ],
+   "eventId": 8261
   }
  ],
  "mapStats": {
@@ -59,6 +70,10 @@
    "winPct": 0
   },
   "de_dust2": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_nuke": {
    "played": 1,
    "winPct": 0
   }

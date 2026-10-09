@@ -6,6 +6,7 @@
  "rankVrs": null,
  "players": [],
  "events": [
+  9408,
   9420
  ],
  "recent": [
@@ -19,6 +20,17 @@
     1
    ],
    "eventId": 9420
+  },
+  {
+   "matchId": 2398976,
+   "date": "2026-10-07",
+   "opponent": 11712,
+   "bo": 3,
+   "score": [
+    1,
+    0
+   ],
+   "eventId": 9408
   }
  ],
  "mapStats": {

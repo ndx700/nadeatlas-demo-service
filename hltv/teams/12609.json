@@ -6,7 +6,8 @@
  "rankVrs": null,
  "players": [],
  "events": [
-  9420
+  9420,
+  9439
  ],
  "recent": [
   {
@@ -19,9 +20,79 @@
     2
    ],
    "eventId": 9420
+  },
+  {
+   "matchId": 2399071,
+   "date": "2026-10-08",
+   "opponent": 13646,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 9439
+  },
+  {
+   "matchId": 2398370,
+   "date": "",
+   "opponent": 13991,
+   "bo": null,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 9420
+  },
+  {
+   "matchId": 2398378,
+   "date": "",
+   "opponent": 10867,
+   "bo": null,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 9420
+  },
+  {
+   "matchId": 2398389,
+   "date": "",
+   "opponent": 7187,
+   "bo": null,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 9420
+  },
+  {
+   "matchId": 2398393,
+   "date": "",
+   "opponent": 13838,
+   "bo": null,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 9420
+  },
+  {
+   "matchId": 2398398,
+   "date": "",
+   "opponent": 13054,
+   "bo": null,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 9420
   }
  ],
  "mapStats": {
+  "de_ancient": {
+   "played": 1,
+   "winPct": 100
+  },
   "de_anubis": {
    "played": 1,
    "winPct": 0
@@ -29,6 +100,10 @@
   "de_dust2": {
    "played": 1,
    "winPct": 0
+  },
+  "de_mirage": {
+   "played": 1,
+   "winPct": 100
   }
  }
 }

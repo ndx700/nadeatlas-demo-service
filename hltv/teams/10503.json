@@ -6,6 +6,7 @@
  "rankVrs": null,
  "players": [],
  "events": [
+  9154,
   9318
  ],
  "recent": [
@@ -17,6 +18,72 @@
    "score": [
     0,
     2
+   ],
+   "eventId": 9318
+  },
+  {
+   "matchId": 2396006,
+   "date": "2026-07-23",
+   "opponent": 7020,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 9154
+  },
+  {
+   "matchId": 2399011,
+   "date": "",
+   "opponent": 13777,
+   "bo": null,
+   "score": [
+    6,
+    13
+   ],
+   "eventId": 9318
+  },
+  {
+   "matchId": 2399015,
+   "date": "",
+   "opponent": 13963,
+   "bo": null,
+   "score": [
+    13,
+    2
+   ],
+   "eventId": 9318
+  },
+  {
+   "matchId": 2399017,
+   "date": "",
+   "opponent": 13321,
+   "bo": null,
+   "score": [
+    6,
+    13
+   ],
+   "eventId": 9318
+  },
+  {
+   "matchId": 2399020,
+   "date": "",
+   "opponent": 13571,
+   "bo": null,
+   "score": [
+    13,
+    9
+   ],
+   "eventId": 9318
+  },
+  {
+   "matchId": 2399022,
+   "date": "",
+   "opponent": 12889,
+   "bo": null,
+   "score": [
+    13,
+    7
    ],
    "eventId": 9318
   }

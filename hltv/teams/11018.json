@@ -6,6 +6,7 @@
  "rankVrs": null,
  "players": [],
  "events": [
+  9420,
   9441
  ],
  "recent": [
@@ -19,6 +20,61 @@
     2
    ],
    "eventId": 9441
+  },
+  {
+   "matchId": 2399272,
+   "date": "2026-10-07",
+   "opponent": 13991,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 9441
+  },
+  {
+   "matchId": 2398369,
+   "date": "",
+   "opponent": 13838,
+   "bo": null,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 9420
+  },
+  {
+   "matchId": 2398375,
+   "date": "",
+   "opponent": 13924,
+   "bo": null,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 9420
+  },
+  {
+   "matchId": 2398382,
+   "date": "",
+   "opponent": 13747,
+   "bo": null,
+   "score": [
+    1,
+    0
+   ],
+   "eventId": 9420
+  },
+  {
+   "matchId": 2398391,
+   "date": "",
+   "opponent": 13908,
+   "bo": null,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 9420
   }
  ],
  "mapStats": {

@@ -5,7 +5,81 @@
  "rankHltv": null,
  "rankVrs": null,
  "players": [],
- "events": [],
- "recent": [],
- "mapStats": {}
+ "events": [
+  9318
+ ],
+ "recent": [
+  {
+   "matchId": 2399043,
+   "date": "2026-10-08",
+   "opponent": 13683,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 9318
+  },
+  {
+   "matchId": 2399039,
+   "date": "2026-10-07",
+   "opponent": 10333,
+   "bo": 1,
+   "score": [
+    13,
+    6
+   ],
+   "eventId": 9318
+  },
+  {
+   "matchId": 2399025,
+   "date": "",
+   "opponent": 10567,
+   "bo": null,
+   "score": [
+    16,
+    14
+   ],
+   "eventId": 9318
+  },
+  {
+   "matchId": 2399029,
+   "date": "",
+   "opponent": 12642,
+   "bo": null,
+   "score": [
+    11,
+    13
+   ],
+   "eventId": 9318
+  },
+  {
+   "matchId": 2399033,
+   "date": "",
+   "opponent": 13364,
+   "bo": null,
+   "score": [
+    13,
+    9
+   ],
+   "eventId": 9318
+  },
+  {
+   "matchId": 2399036,
+   "date": "",
+   "opponent": 12087,
+   "bo": null,
+   "score": [
+    16,
+    14
+   ],
+   "eventId": 9318
+  }
+ ],
+ "mapStats": {
+  "de_anubis": {
+   "played": 1,
+   "winPct": 100
+  }
+ }
 }

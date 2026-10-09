@@ -37,7 +37,41 @@
    "country": "BG"
   }
  ],
- "events": [],
- "recent": [],
- "mapStats": {}
+ "events": [
+  9154
+ ],
+ "recent": [
+  {
+   "matchId": 2396013,
+   "date": "2026-07-25",
+   "opponent": 5995,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 9154
+  },
+  {
+   "matchId": 2396004,
+   "date": "2026-07-24",
+   "opponent": 9565,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 9154
+  }
+ ],
+ "mapStats": {
+  "de_anubis": {
+   "played": 1,
+   "winPct": 100
+  },
+  "de_mirage": {
+   "played": 1,
+   "winPct": 100
+  }
+ }
 }

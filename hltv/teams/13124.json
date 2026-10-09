@@ -19,10 +19,62 @@
     3
    ],
    "eventId": 9410
+  },
+  {
+   "matchId": 2398307,
+   "date": "2026-10-02",
+   "opponent": 13855,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 9410
+  },
+  {
+   "matchId": 2398306,
+   "date": "2026-09-25",
+   "opponent": 12554,
+   "bo": 3,
+   "score": [
+    0,
+    1
+   ],
+   "eventId": 9410
+  },
+  {
+   "matchId": 2398303,
+   "date": "2026-09-20",
+   "opponent": 13857,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 9410
+  },
+  {
+   "matchId": 2398283,
+   "date": "2026-09-16",
+   "opponent": 13994,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 9410
   }
  ],
  "mapStats": {
   "de_ancient": {
+   "played": 2,
+   "winPct": 50
+  },
+  "de_anubis": {
+   "played": 2,
+   "winPct": 100
+  },
+  "de_default": {
    "played": 1,
    "winPct": 0
   },
@@ -31,12 +83,12 @@
    "winPct": 0
   },
   "de_inferno": {
-   "played": 1,
+   "played": 2,
    "winPct": 0
   },
   "de_mirage": {
-   "played": 1,
-   "winPct": 100
+   "played": 3,
+   "winPct": 67
   }
  }
 }

@@ -37,7 +37,83 @@
    "country": "PL"
   }
  ],
- "events": [],
- "recent": [],
- "mapStats": {}
+ "events": [
+  8261,
+  9154
+ ],
+ "recent": [
+  {
+   "matchId": 2396594,
+   "date": "2026-08-16",
+   "opponent": 6665,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 8261
+  },
+  {
+   "matchId": 2396582,
+   "date": "2026-08-14",
+   "opponent": 12394,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8261
+  },
+  {
+   "matchId": 2396566,
+   "date": "2026-08-12",
+   "opponent": 12468,
+   "bo": 1,
+   "score": [
+    5,
+    13
+   ],
+   "eventId": 8261
+  },
+  {
+   "matchId": 2396007,
+   "date": "2026-07-26",
+   "opponent": 4773,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 9154
+  },
+  {
+   "matchId": 2395996,
+   "date": "2026-07-21",
+   "opponent": 12376,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 9154
+  }
+ ],
+ "mapStats": {
+  "de_anubis": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_cache": {
+   "played": 2,
+   "winPct": 0
+  },
+  "de_inferno": {
+   "played": 1,
+   "winPct": 100
+  },
+  "de_nuke": {
+   "played": 2,
+   "winPct": 0
+  }
+ }
 }

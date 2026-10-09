@@ -2,20 +2,28 @@
  "id": 2398754,
  "eventId": 8244,
  "stage": null,
- "time": "2026-10-10T13:45:00Z",
+ "time": "2026-10-10T21:45:00+08:00",
  "bo": 3,
  "status": "upcoming",
  "team1": {
-  "id": 0,
+  "id": null,
   "score": null,
   "players": []
  },
  "team2": {
-  "id": 0,
+  "id": null,
   "score": null,
   "players": []
  },
  "maps": [],
- "stats": {},
- "mvp": null
+ "stats": {
+  "all": {
+   "both": [],
+   "t": [],
+   "ct": []
+  }
+ },
+ "mvp": null,
+ "highlight": null,
+ "h2h": null
 }

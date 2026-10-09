@@ -3,7 +3,7 @@
  "name": "TYLOO",
  "country": "CN",
  "rankHltv": 34,
- "rankVrs": 46,
+ "rankVrs": 45,
  "players": [
   {
    "id": 19645,
@@ -39,9 +39,32 @@
  ],
  "events": [
   8244,
-  8261
+  8261,
+  8266
  ],
  "recent": [
+  {
+   "matchId": 2398738,
+   "date": "2026-10-05",
+   "opponent": 12376,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 8244
+  },
+  {
+   "matchId": 2398727,
+   "date": "2026-10-04",
+   "opponent": 9996,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8244
+  },
   {
    "matchId": 2398717,
    "date": "2026-10-03",
@@ -52,6 +75,50 @@
     2
    ],
    "eventId": 8244
+  },
+  {
+   "matchId": 2397615,
+   "date": "2026-09-10",
+   "opponent": 12474,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8266
+  },
+  {
+   "matchId": 2397609,
+   "date": "2026-09-09",
+   "opponent": 9928,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8266
+  },
+  {
+   "matchId": 2397600,
+   "date": "2026-09-08",
+   "opponent": 12467,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8266
+  },
+  {
+   "matchId": 2396586,
+   "date": "2026-08-14",
+   "opponent": 8840,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8261
   },
   {
    "matchId": 2396569,
@@ -66,11 +133,27 @@
   }
  ],
  "mapStats": {
+  "de_ancient": {
+   "played": 3,
+   "winPct": 33
+  },
   "de_anubis": {
+   "played": 2,
+   "winPct": 0
+  },
+  "de_cache": {
    "played": 1,
    "winPct": 0
   },
+  "de_inferno": {
+   "played": 3,
+   "winPct": 0
+  },
   "de_mirage": {
+   "played": 5,
+   "winPct": 40
+  },
+  "de_nuke": {
    "played": 2,
    "winPct": 0
   }

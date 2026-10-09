@@ -10,6 +10,17 @@
  ],
  "recent": [
   {
+   "matchId": 2399044,
+   "date": "2026-10-08",
+   "opponent": 6667,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 9318
+  },
+  {
    "matchId": 2399041,
    "date": "2026-10-08",
    "opponent": 10503,
@@ -19,16 +30,79 @@
     0
    ],
    "eventId": 9318
+  },
+  {
+   "matchId": 2399039,
+   "date": "2026-10-07",
+   "opponent": 10371,
+   "bo": 1,
+   "score": [
+    6,
+    13
+   ],
+   "eventId": 9318
+  },
+  {
+   "matchId": 2399026,
+   "date": "",
+   "opponent": 13364,
+   "bo": null,
+   "score": [
+    16,
+    13
+   ],
+   "eventId": 9318
+  },
+  {
+   "matchId": 2399030,
+   "date": "",
+   "opponent": 12087,
+   "bo": null,
+   "score": [
+    13,
+    4
+   ],
+   "eventId": 9318
+  },
+  {
+   "matchId": 2399032,
+   "date": "",
+   "opponent": 12642,
+   "bo": null,
+   "score": [
+    13,
+    6
+   ],
+   "eventId": 9318
+  },
+  {
+   "matchId": 2399034,
+   "date": "",
+   "opponent": 10567,
+   "bo": null,
+   "score": [
+    13,
+    10
+   ],
+   "eventId": 9318
   }
  ],
  "mapStats": {
-  "de_dust2": {
+  "de_anubis": {
    "played": 1,
+   "winPct": 0
+  },
+  "de_cache": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_dust2": {
+   "played": 2,
    "winPct": 100
   },
   "de_nuke": {
-   "played": 1,
-   "winPct": 100
+   "played": 2,
+   "winPct": 50
   }
  }
 }

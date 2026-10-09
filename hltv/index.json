@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-09T05:57:15+08:00",
+ "updatedAt": "2026-10-09T14:41:42+08:00",
  "teams": [
   {
    "id": 7020,
@@ -69,7 +69,7 @@
    "name": "Natus Vincere",
    "country": "FI",
    "rankHltv": 10,
-   "rankVrs": 20
+   "rankVrs": 21
   },
   {
    "id": 6665,
@@ -97,7 +97,7 @@
    "name": "FaZe",
    "country": "SK",
    "rankHltv": 14,
-   "rankVrs": 31
+   "rankVrs": 25
   },
   {
    "id": 11241,
@@ -125,14 +125,14 @@
    "name": "magic",
    "country": "BY",
    "rankHltv": 18,
-   "rankVrs": 27
+   "rankVrs": 28
   },
   {
    "id": 9928,
    "name": "GamerLegion",
    "country": "PL",
    "rankHltv": 19,
-   "rankVrs": 28
+   "rankVrs": 29
   },
   {
    "id": 12467,
@@ -146,7 +146,7 @@
    "name": "Envy",
    "country": "FR",
    "rankHltv": 21,
-   "rankVrs": 25
+   "rankVrs": 26
   },
   {
    "id": 7969,
@@ -160,7 +160,7 @@
    "name": "Alliance",
    "country": "SE",
    "rankHltv": 23,
-   "rankVrs": 30
+   "rankVrs": 31
   },
   {
    "id": 6290,
@@ -202,14 +202,14 @@
    "name": "HEROIC",
    "country": "SE",
    "rankHltv": 29,
-   "rankVrs": 21
+   "rankVrs": 20
   },
   {
    "id": 6673,
    "name": "NRG",
    "country": "US",
    "rankHltv": 30,
-   "rankVrs": 48
+   "rankVrs": 47
   },
   {
    "id": 4863,
@@ -223,7 +223,7 @@
    "name": "Lynn Vision",
    "country": "CN",
    "rankHltv": 36,
-   "rankVrs": 67
+   "rankVrs": 64
   },
   {
    "id": 10621,
@@ -520,6 +520,55 @@
    "rankVrs": null
   },
   {
+   "id": 14085,
+   "name": "antidaun",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 9958,
+   "name": "Alter Ego",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 14086,
+   "name": "The Audacity",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 13613,
+   "name": "Bebop",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 12889,
+   "name": "G2 Ares",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 12554,
+   "name": "regain",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 13857,
+   "name": "Iowa Stormboar",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
    "id": 13973,
    "name": "Color",
    "country": null,
@@ -605,7 +654,7 @@
   },
   {
    "id": 11446,
-   "name": "Leo",
+   "name": "Leo#89#104",
    "country": null,
    "rankHltv": null,
    "rankVrs": null
@@ -695,13 +744,6 @@
    "rankVrs": null
   },
   {
-   "id": 12889,
-   "name": "G2 Ares",
-   "country": null,
-   "rankHltv": null,
-   "rankVrs": null
-  },
-  {
    "id": 13963,
    "name": "Orion Wanderers",
    "country": null,
@@ -758,15 +800,190 @@
    "rankVrs": null
   },
   {
-   "id": 14086,
-   "name": "The Audacity",
+   "id": 14075,
+   "name": "1337#371",
    "country": null,
    "rankHltv": null,
    "rankVrs": null
   },
   {
-   "id": 14075,
-   "name": "1337#371",
+   "id": 10245,
+   "name": "JiJieHao#37#32",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 12257,
+   "name": "Wildcard",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 13623,
+   "name": "STATE",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 13173,
+   "name": "Phantom",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 11641,
+   "name": "Metizport",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 13355,
+   "name": "Nemesis",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 11581,
+   "name": "HOTU#42#35",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 13027,
+   "name": "Nuclear TigeRES#54#44",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 13012,
+   "name": "HYPERSPIRIT",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 13761,
+   "name": "Vexar",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 13971,
+   "name": "Revise",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 13900,
+   "name": "Banda Chuya",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 13974,
+   "name": "Ryvex",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 13945,
+   "name": "MAYBE",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 13776,
+   "name": "Just Players#145#115",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 11176,
+   "name": "MOUZ NXT#146#149",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 13996,
+   "name": "BBL#47#38",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 13242,
+   "name": "XDM",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 14048,
+   "name": "bLight blue",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 11514,
+   "name": "Rare Atom#105#134",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 13331,
+   "name": "Kaleido#154#180",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 13053,
+   "name": "Just Swing#178#201",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 13983,
+   "name": "Vitalem Aerem#180#202",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 13694,
+   "name": "THE UNIT#246#225",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 12948,
+   "name": "BORING PLAYERS#331",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 14049,
+   "name": "The KnockoutX#330",
    "country": null,
    "rankHltv": null,
    "rankVrs": null

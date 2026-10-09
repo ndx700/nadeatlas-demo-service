@@ -37,7 +37,21 @@
    "role": "igl"
   }
  ],
- "events": [],
- "recent": [],
+ "events": [
+  9154
+ ],
+ "recent": [
+  {
+   "matchId": 2395992,
+   "date": "2026-07-24",
+   "opponent": 6248,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 9154
+  }
+ ],
  "mapStats": {}
 }
