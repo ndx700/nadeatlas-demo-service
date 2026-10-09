@@ -23,7 +23,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398749-m2-p1-spirit-vs-m80-m2-cache-p1.dem",
     "size": 74647833,
     "matchId": "hltv-2398749-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398749-m2-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398749-m2-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Spirit-vs-M80-2026-10-07-Cache-hltv-2398749-m2-r3.nar",
+    "replaySize": 564457
   },
   {
     "date": "2026-10-07",
@@ -369,7 +371,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398738-m1-m80-vs-tyloo-m1-mirage.dem",
     "size": 404141519,
     "matchId": "hltv-2398738-m1",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398738-m1-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398738-m1-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/M80-vs-TYLOO-2026-10-05-Mirage-hltv-2398738-m1-r3.nar",
+    "replaySize": 2853733
   },
   {
     "date": "2026-10-05",
@@ -493,7 +497,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398733-m2-parivision-vs-furia-m2-mirage.dem",
     "size": 318825540,
     "matchId": "hltv-2398733-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398733-m2-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398733-m2-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/PARIVISION-vs-FURIA-2026-10-05-Mirage-hltv-2398733-m2-r3.nar",
+    "replaySize": 2392782
   },
   {
     "date": "2026-10-05",
@@ -649,7 +655,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398731-m3-vitality-vs-natus-vincere-m3-mirage.dem",
     "size": 280374911,
     "matchId": "hltv-2398731-m3",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398731-m3-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398731-m3-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Vitality-vs-Natus-Vincere-2026-10-04-Mirage-hltv-2398731-m3-r3.nar",
+    "replaySize": 2109529
   },
   {
     "date": "2026-10-04",
@@ -687,7 +695,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398730-m3-g2-vs-1win-m3-mirage.dem",
     "size": 329116852,
     "matchId": "hltv-2398730-m3",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398730-m3-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398730-m3-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/G2-vs-1win-2026-10-04-Mirage-hltv-2398730-m3-r3.nar",
+    "replaySize": 2418745
   },
   {
     "date": "2026-10-04",
@@ -699,7 +709,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398728-m1-falcons-vs-aurora-m1-mirage.dem",
     "size": 285079351,
     "matchId": "hltv-2398728-m1",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398728-m1-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398728-m1-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Falcons-vs-Aurora-2026-10-04-Mirage-hltv-2398728-m1-r3.nar",
+    "replaySize": 2119998
   },
   {
     "date": "2026-10-04",
@@ -737,7 +749,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398727-m2-9z-vs-tyloo-m2-mirage.dem",
     "size": 219946384,
     "matchId": "hltv-2398727-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398727-m2-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398727-m2-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/9z-vs-TYLOO-2026-10-04-Mirage-hltv-2398727-m2-r3.nar",
+    "replaySize": 1646908
   },
   {
     "date": "2026-10-04",
@@ -761,7 +775,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398726-m2-shinden-vs-legacy-m2-mirage.dem",
     "size": 348132898,
     "matchId": "hltv-2398726-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398726-m2-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398726-m2-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/ShindeN-vs-Legacy-2026-10-04-Mirage-hltv-2398726-m2-r3.nar",
+    "replaySize": 2684835
   },
   {
     "date": "2026-10-03",
@@ -833,7 +849,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398724-m1-furia-vs-betboom-m1-mirage.dem",
     "size": 278977242,
     "matchId": "hltv-2398724-m1",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398724-m1-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398724-m1-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/FURIA-vs-BETBOOM-2026-10-03-Mirage-hltv-2398724-m1-r3.nar",
+    "replaySize": 2151085
   },
   {
     "date": "2026-10-03",
@@ -893,7 +911,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398722-m2-mouz-vs-m80-m2-mirage.dem",
     "size": 277703653,
     "matchId": "hltv-2398722-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398722-m2-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398722-m2-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/MOUZ-vs-M80-2026-10-03-Mirage-hltv-2398722-m2-r3.nar",
+    "replaySize": 2080783
   },
   {
     "date": "2026-10-03",
@@ -919,7 +939,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398721-m2-p1-aurora-vs-9z-m2-mirage-p1.dem",
     "size": 256513509,
     "matchId": "hltv-2398721-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398721-m2-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398721-m2-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Aurora-vs-9z-2026-10-03-Mirage-hltv-2398721-m2-r3.nar",
+    "replaySize": 1832967
   },
   {
     "date": "2026-10-03",
@@ -969,7 +991,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398717-m1-falcons-vs-tyloo-m1-mirage.dem",
     "size": 397822659,
     "matchId": "hltv-2398717-m1",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398717-m1-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398717-m1-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Falcons-vs-TYLOO-2026-10-03-Mirage-hltv-2398717-m1-r3.nar",
+    "replaySize": 2992189
   },
   {
     "date": "2026-10-03",
