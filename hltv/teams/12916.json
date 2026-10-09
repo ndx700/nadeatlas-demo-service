@@ -16,10 +16,19 @@
    "bo": 3,
    "score": [
     0,
-    0
+    2
    ],
    "eventId": 9408
   }
  ],
- "mapStats": {}
+ "mapStats": {
+  "de_mirage": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_nuke": {
+   "played": 1,
+   "winPct": 0
+  }
+ }
 }

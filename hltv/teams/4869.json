@@ -5,7 +5,30 @@
  "rankHltv": null,
  "rankVrs": null,
  "players": [],
- "events": [],
- "recent": [],
- "mapStats": {}
+ "events": [
+  9374
+ ],
+ "recent": [
+  {
+   "matchId": 2399361,
+   "date": "2026-10-08",
+   "opponent": 14084,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 9374
+  }
+ ],
+ "mapStats": {
+  "de_inferno": {
+   "played": 1,
+   "winPct": 100
+  },
+  "de_mirage": {
+   "played": 1,
+   "winPct": 100
+  }
+ }
 }

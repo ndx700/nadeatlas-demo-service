@@ -27,7 +27,7 @@
    "bo": 3,
    "score": [
     0,
-    1
+    2
    ],
    "eventId": 9428
   }
@@ -40,6 +40,10 @@
   "de_dust2": {
    "played": 1,
    "winPct": 100
+  },
+  "de_inferno": {
+   "played": 1,
+   "winPct": 0
   }
  }
 }

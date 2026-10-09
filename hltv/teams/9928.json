@@ -49,7 +49,7 @@
    "opponent": 13619,
    "bo": 3,
    "score": [
-    1,
+    2,
     0
    ],
    "eventId": 9408
@@ -89,6 +89,10 @@
   "de_dust2": {
    "played": 1,
    "winPct": 0
+  },
+  "de_inferno": {
+   "played": 1,
+   "winPct": 100
   },
   "de_mirage": {
    "played": 2,

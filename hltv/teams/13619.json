@@ -16,13 +16,17 @@
    "bo": 3,
    "score": [
     0,
-    1
+    2
    ],
    "eventId": 9408
   }
  ],
  "mapStats": {
   "de_ancient": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_inferno": {
    "played": 1,
    "winPct": 0
   }
