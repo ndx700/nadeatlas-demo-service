@@ -1,0 +1,34 @@
+{
+ "id": 13976,
+ "name": "LFO 8",
+ "country": null,
+ "rankHltv": null,
+ "rankVrs": null,
+ "players": [],
+ "events": [
+  9381
+ ],
+ "recent": [
+  {
+   "matchId": 2399142,
+   "date": "2026-10-10",
+   "opponent": 9942,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 9381
+  }
+ ],
+ "mapStats": {
+  "de_cache": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_nuke": {
+   "played": 1,
+   "winPct": 0
+  }
+ }
+}

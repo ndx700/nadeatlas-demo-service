@@ -43,6 +43,17 @@
  ],
  "recent": [
   {
+   "matchId": 2398411,
+   "date": "2026-10-10",
+   "opponent": 13104,
+   "bo": 3,
+   "score": [
+    0,
+    1
+   ],
+   "eventId": 9420
+  },
+  {
    "matchId": 2398408,
    "date": "2026-10-09",
    "opponent": 14014,
@@ -80,6 +91,10 @@
   "de_anubis": {
    "played": 1,
    "winPct": 100
+  },
+  "de_cache": {
+   "played": 1,
+   "winPct": 0
   },
   "de_dust2": {
    "played": 1,

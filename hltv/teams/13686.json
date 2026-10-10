@@ -1,0 +1,34 @@
+{
+ "id": 13686,
+ "name": "Abyssal",
+ "country": null,
+ "rankHltv": null,
+ "rankVrs": null,
+ "players": [],
+ "events": [
+  9423
+ ],
+ "recent": [
+  {
+   "matchId": 2399241,
+   "date": "2026-10-10",
+   "opponent": 12774,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 9423
+  }
+ ],
+ "mapStats": {
+  "de_dust2": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_inferno": {
+   "played": 1,
+   "winPct": 0
+  }
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "id": 11581,
+ "name": "HOTU",
+ "country": null,
+ "rankHltv": null,
+ "rankVrs": null,
+ "players": [],
+ "events": [
+  9154,
+  9408
+ ],
+ "recent": [
+  {
+   "matchId": 2398987,
+   "date": "2026-10-10",
+   "opponent": 4991,
+   "bo": 3,
+   "score": [
+    1,
+    0
+   ],
+   "eventId": 9408
+  },
+  {
+   "matchId": 2398975,
+   "date": "2026-10-07",
+   "opponent": 13623,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 9408
+  },
+  {
+   "matchId": 2396010,
+   "date": "2026-07-25",
+   "opponent": 6665,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 9154
+  },
+  {
+   "matchId": 2395995,
+   "date": "2026-07-22",
+   "opponent": 9928,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 9154
+  }
+ ],
+ "mapStats": {
+  "de_dust2": {
+   "played": 1,
+   "winPct": 100
+  }
+ }
+}

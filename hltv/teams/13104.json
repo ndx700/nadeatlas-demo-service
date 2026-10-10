@@ -1,41 +1,41 @@
 {
- "id": 4991,
- "name": "fnatic",
+ "id": 13104,
+ "name": "Iberian Soul",
  "country": null,
  "rankHltv": null,
  "rankVrs": null,
  "players": [],
  "events": [
-  9408
+  9420
  ],
  "recent": [
   {
-   "matchId": 2398987,
+   "matchId": 2398411,
    "date": "2026-10-10",
-   "opponent": 11581,
+   "opponent": 7969,
    "bo": 3,
    "score": [
-    0,
-    1
+    1,
+    0
    ],
-   "eventId": 9408
+   "eventId": 9420
   },
   {
-   "matchId": 2398977,
+   "matchId": 2398402,
    "date": "2026-10-07",
-   "opponent": 13173,
+   "opponent": 13901,
    "bo": 3,
    "score": [
     2,
-    1
+    0
    ],
-   "eventId": 9408
+   "eventId": 9420
   }
  ],
  "mapStats": {
-  "de_dust2": {
+  "de_cache": {
    "played": 1,
-   "winPct": 0
+   "winPct": 100
   }
  }
 }

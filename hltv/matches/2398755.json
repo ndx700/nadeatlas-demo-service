@@ -2,20 +2,274 @@
  "id": 2398755,
  "eventId": 8244,
  "stage": null,
- "time": "2026-10-10T17:00:00Z",
+ "time": "2026-10-11T01:00:00+08:00",
  "bo": 3,
  "status": "upcoming",
  "team1": {
-  "id": 0,
+  "id": 4494,
   "score": null,
   "players": []
  },
  "team2": {
-  "id": 0,
+  "id": 7020,
   "score": null,
   "players": []
  },
  "maps": [],
- "stats": {},
- "mvp": null
+ "stats": {
+  "all": {
+   "both": [],
+   "t": [],
+   "ct": []
+  }
+ },
+ "mvp": null,
+ "highlight": null,
+ "h2h": {
+  "team1Wins": 14,
+  "team2Wins": 22,
+  "overtimes": 7,
+  "maps": [
+   {
+    "date": "2026-10-06",
+    "matchId": 2398737,
+    "eventId": null,
+    "event": "ESL Pro League Season 24",
+    "map": "de_mirage",
+    "score": [
+     13,
+     11
+    ],
+    "winner": 4494
+   },
+   {
+    "date": "2026-10-06",
+    "matchId": 2398737,
+    "eventId": null,
+    "event": "ESL Pro League Season 24",
+    "map": "de_dust2",
+    "score": [
+     13,
+     5
+    ],
+    "winner": 4494
+   },
+   {
+    "date": "2026-09-07",
+    "matchId": 2396951,
+    "eventId": null,
+    "event": "BLAST Open Porto 2026",
+    "map": "de_nuke",
+    "score": [
+     6,
+     13
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2026-09-07",
+    "matchId": 2396951,
+    "eventId": null,
+    "event": "BLAST Open Porto 2026",
+    "map": "de_ancient",
+    "score": [
+     3,
+     13
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2026-09-07",
+    "matchId": 2396951,
+    "eventId": null,
+    "event": "BLAST Open Porto 2026",
+    "map": "de_mirage",
+    "score": [
+     13,
+     11
+    ],
+    "winner": 4494
+   },
+   {
+    "date": "2026-09-07",
+    "matchId": 2396951,
+    "eventId": null,
+    "event": "BLAST Open Porto 2026",
+    "map": "de_dust2",
+    "score": [
+     8,
+     13
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2026-08-02",
+    "matchId": 2396021,
+    "eventId": null,
+    "event": "BLAST Bounty 2026 Season 2 Finals",
+    "map": "de_nuke",
+    "score": [
+     13,
+     10
+    ],
+    "winner": 4494
+   },
+   {
+    "date": "2026-08-02",
+    "matchId": 2396021,
+    "eventId": null,
+    "event": "BLAST Bounty 2026 Season 2 Finals",
+    "map": "de_ancient",
+    "score": [
+     9,
+     13
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2026-08-02",
+    "matchId": 2396021,
+    "eventId": null,
+    "event": "BLAST Bounty 2026 Season 2 Finals",
+    "map": "de_mirage",
+    "score": [
+     13,
+     4
+    ],
+    "winner": 4494
+   },
+   {
+    "date": "2026-08-02",
+    "matchId": 2396021,
+    "eventId": null,
+    "event": "BLAST Bounty 2026 Season 2 Finals",
+    "map": "de_dust2",
+    "score": [
+     13,
+     8
+    ],
+    "winner": 4494
+   },
+   {
+    "date": "2026-05-16",
+    "matchId": 2394153,
+    "eventId": null,
+    "event": "PGL Astana 2026",
+    "map": "de_nuke",
+    "score": [
+     2,
+     13
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2026-05-16",
+    "matchId": 2394153,
+    "eventId": null,
+    "event": "PGL Astana 2026",
+    "map": "de_dust2",
+    "score": [
+     3,
+     13
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2026-04-18",
+    "matchId": 2393240,
+    "eventId": null,
+    "event": "IEM Rio 2026",
+    "map": "de_mirage",
+    "score": [
+     8,
+     13
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2026-04-18",
+    "matchId": 2393240,
+    "eventId": null,
+    "event": "IEM Rio 2026",
+    "map": "de_dust2",
+    "score": [
+     5,
+     13
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2026-02-08",
+    "matchId": 2389665,
+    "eventId": null,
+    "event": "IEM Kraków 2026",
+    "map": "de_mirage",
+    "score": [
+     3,
+     13
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2026-02-08",
+    "matchId": 2389665,
+    "eventId": null,
+    "event": "IEM Kraków 2026",
+    "map": "de_dust2",
+    "score": [
+     8,
+     13
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2025-12-06",
+    "matchId": 2388111,
+    "eventId": null,
+    "event": "StarLadder Budapest Major 2025",
+    "map": "de_overpass",
+    "score": [
+     11,
+     13
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2025-12-06",
+    "matchId": 2388111,
+    "eventId": null,
+    "event": "StarLadder Budapest Major 2025",
+    "map": "de_train",
+    "score": [
+     13,
+     10
+    ],
+    "winner": 4494
+   },
+   {
+    "date": "2025-12-06",
+    "matchId": 2388111,
+    "eventId": null,
+    "event": "StarLadder Budapest Major 2025",
+    "map": "de_mirage",
+    "score": [
+     5,
+     13
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2025-08-17",
+    "matchId": 2384154,
+    "eventId": null,
+    "event": "BLAST Bounty 2025 Season 2 Finals",
+    "map": "de_mirage",
+    "score": [
+     5,
+     13
+    ],
+    "winner": 7020
+   }
+  ]
+ }
 }

@@ -3,7 +3,7 @@
  "name": "FaZe",
  "country": "SK",
  "rankHltv": 14,
- "rankVrs": 25,
+ "rankVrs": 24,
  "players": [
   {
    "id": 9960,
@@ -44,6 +44,17 @@
   9318
  ],
  "recent": [
+  {
+   "matchId": 2399052,
+   "date": "2026-10-10",
+   "opponent": 10371,
+   "bo": 3,
+   "score": [
+    0,
+    1
+   ],
+   "eventId": 9318
+  },
   {
    "matchId": 2399044,
    "date": "2026-10-08",
@@ -136,6 +147,10 @@
  "mapStats": {
   "de_ancient": {
    "played": 2,
+   "winPct": 0
+  },
+  "de_anubis": {
+   "played": 1,
    "winPct": 0
   },
   "de_cache": {

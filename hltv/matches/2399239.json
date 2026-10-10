@@ -1,21 +1,676 @@
 {
  "id": 2399239,
  "eventId": 9423,
- "stage": "Group B",
- "time": "2026-10-10T03:30:00Z",
+ "stage": null,
+ "time": "2026-10-10T13:30:00+08:00",
  "bo": 1,
- "status": "upcoming",
+ "status": "finished",
  "team1": {
   "id": 12774,
-  "score": null,
-  "players": []
+  "score": 1,
+  "players": [
+   4679,
+   18214,
+   11139,
+   11140,
+   17384
+  ]
  },
  "team2": {
   "id": 9275,
-  "score": null,
-  "players": []
+  "score": 0,
+  "players": [
+   14333,
+   20582,
+   17236,
+   22317,
+   11806
+  ]
  },
- "maps": [],
- "stats": {},
- "mvp": null
+ "maps": [
+  {
+   "map": "de_dust2",
+   "pick": null,
+   "score": [
+    13,
+    8
+   ],
+   "halves": [
+    [
+     8,
+     4
+    ],
+    [
+     5,
+     4
+    ]
+   ]
+  }
+ ],
+ "stats": {
+  "all": {
+   "both": [
+    {
+     "player": 4679,
+     "nick": "jks",
+     "kills": 14,
+     "deaths": 11,
+     "swing": 5.93,
+     "adr": 63.5,
+     "kast": 85.7,
+     "rating": 1.48
+    },
+    {
+     "player": 18214,
+     "nick": "nettik",
+     "kills": 19,
+     "deaths": 13,
+     "swing": 2.58,
+     "adr": 93.7,
+     "kast": 71.4,
+     "rating": 1.39
+    },
+    {
+     "player": 11139,
+     "nick": "aliStair",
+     "kills": 14,
+     "deaths": 12,
+     "swing": 3.4,
+     "adr": 66.5,
+     "kast": 81.0,
+     "rating": 1.36
+    },
+    {
+     "player": 11140,
+     "nick": "INS",
+     "kills": 14,
+     "deaths": 14,
+     "swing": 2.42,
+     "adr": 83.7,
+     "kast": 76.2,
+     "rating": 1.28
+    },
+    {
+     "player": 17384,
+     "nick": "Vexite",
+     "kills": 12,
+     "deaths": 14,
+     "swing": -0.37,
+     "adr": 62.0,
+     "kast": 61.9,
+     "rating": 0.95
+    },
+    {
+     "player": 14333,
+     "nick": "ju1ces",
+     "kills": 18,
+     "deaths": 13,
+     "swing": 0.41,
+     "adr": 79.5,
+     "kast": 66.7,
+     "rating": 1.12
+    },
+    {
+     "player": 20582,
+     "nick": "Kiyo",
+     "kills": 16,
+     "deaths": 16,
+     "swing": -4.0,
+     "adr": 80.0,
+     "kast": 57.1,
+     "rating": 0.86
+    },
+    {
+     "player": 17236,
+     "nick": "vanilla",
+     "kills": 15,
+     "deaths": 16,
+     "swing": -5.32,
+     "adr": 78.5,
+     "kast": 61.9,
+     "rating": 0.83
+    },
+    {
+     "player": 22317,
+     "nick": "kragz",
+     "kills": 7,
+     "deaths": 12,
+     "swing": -0.03,
+     "adr": 39.8,
+     "kast": 71.4,
+     "rating": 0.81
+    },
+    {
+     "player": 11806,
+     "nick": "JD",
+     "kills": 7,
+     "deaths": 16,
+     "swing": -5.52,
+     "adr": 56.0,
+     "kast": 71.4,
+     "rating": 0.63
+    }
+   ],
+   "t": [
+    {
+     "player": 11139,
+     "nick": "aliStair",
+     "kills": 12,
+     "deaths": 6,
+     "swing": 12.32,
+     "adr": 85.2,
+     "kast": 75.0,
+     "rating": 1.94
+    },
+    {
+     "player": 18214,
+     "nick": "nettik",
+     "kills": 10,
+     "deaths": 7,
+     "swing": -0.8,
+     "adr": 87.8,
+     "kast": 75.0,
+     "rating": 1.33
+    },
+    {
+     "player": 4679,
+     "nick": "jks",
+     "kills": 6,
+     "deaths": 5,
+     "swing": 4.19,
+     "adr": 43.8,
+     "kast": 83.3,
+     "rating": 1.29
+    },
+    {
+     "player": 11140,
+     "nick": "INS",
+     "kills": 7,
+     "deaths": 7,
+     "swing": 1.85,
+     "adr": 83.7,
+     "kast": 66.7,
+     "rating": 1.16
+    },
+    {
+     "player": 17384,
+     "nick": "Vexite",
+     "kills": 4,
+     "deaths": 8,
+     "swing": 0.66,
+     "adr": 48.1,
+     "kast": 58.3,
+     "rating": 0.91
+    },
+    {
+     "player": 22317,
+     "nick": "kragz",
+     "kills": 6,
+     "deaths": 5,
+     "swing": 6.51,
+     "adr": 73.1,
+     "kast": 77.8,
+     "rating": 1.36
+    },
+    {
+     "player": 14333,
+     "nick": "ju1ces",
+     "kills": 8,
+     "deaths": 6,
+     "swing": 3.09,
+     "adr": 94.1,
+     "kast": 66.7,
+     "rating": 1.35
+    },
+    {
+     "player": 20582,
+     "nick": "Kiyo",
+     "kills": 7,
+     "deaths": 7,
+     "swing": 0.73,
+     "adr": 91.8,
+     "kast": 66.7,
+     "rating": 1.21
+    },
+    {
+     "player": 17236,
+     "nick": "vanilla",
+     "kills": 6,
+     "deaths": 8,
+     "swing": -11.12,
+     "adr": 63.3,
+     "kast": 55.6,
+     "rating": 0.55
+    },
+    {
+     "player": 11806,
+     "nick": "JD",
+     "kills": 3,
+     "deaths": 8,
+     "swing": -8.64,
+     "adr": 44.9,
+     "kast": 55.6,
+     "rating": 0.48
+    }
+   ],
+   "ct": [
+    {
+     "player": 4679,
+     "nick": "jks",
+     "kills": 8,
+     "deaths": 6,
+     "swing": 8.26,
+     "adr": 89.8,
+     "kast": 88.9,
+     "rating": 1.74
+    },
+    {
+     "player": 18214,
+     "nick": "nettik",
+     "kills": 9,
+     "deaths": 6,
+     "swing": 7.08,
+     "adr": 101.6,
+     "kast": 66.7,
+     "rating": 1.48
+    },
+    {
+     "player": 11140,
+     "nick": "INS",
+     "kills": 7,
+     "deaths": 7,
+     "swing": 3.18,
+     "adr": 83.8,
+     "kast": 88.9,
+     "rating": 1.43
+    },
+    {
+     "player": 17384,
+     "nick": "Vexite",
+     "kills": 8,
+     "deaths": 6,
+     "swing": -1.75,
+     "adr": 80.4,
+     "kast": 66.7,
+     "rating": 1.0
+    },
+    {
+     "player": 11139,
+     "nick": "aliStair",
+     "kills": 2,
+     "deaths": 6,
+     "swing": -8.5,
+     "adr": 41.6,
+     "kast": 88.9,
+     "rating": 0.58
+    },
+    {
+     "player": 17236,
+     "nick": "vanilla",
+     "kills": 9,
+     "deaths": 8,
+     "swing": -0.97,
+     "adr": 89.9,
+     "kast": 66.7,
+     "rating": 1.04
+    },
+    {
+     "player": 14333,
+     "nick": "ju1ces",
+     "kills": 10,
+     "deaths": 7,
+     "swing": -1.6,
+     "adr": 68.6,
+     "kast": 66.7,
+     "rating": 0.95
+    },
+    {
+     "player": 11806,
+     "nick": "JD",
+     "kills": 4,
+     "deaths": 8,
+     "swing": -3.18,
+     "adr": 64.3,
+     "kast": 83.3,
+     "rating": 0.74
+    },
+    {
+     "player": 20582,
+     "nick": "Kiyo",
+     "kills": 9,
+     "deaths": 9,
+     "swing": -7.55,
+     "adr": 71.2,
+     "kast": 50.0,
+     "rating": 0.6
+    },
+    {
+     "player": 22317,
+     "nick": "kragz",
+     "kills": 1,
+     "deaths": 7,
+     "swing": -4.93,
+     "adr": 14.8,
+     "kast": 66.7,
+     "rating": 0.4
+    }
+   ]
+  },
+  "de_dust2": {
+   "both": [
+    {
+     "player": 4679,
+     "nick": "jks",
+     "kills": 14,
+     "deaths": 11,
+     "swing": 5.93,
+     "adr": 63.5,
+     "kast": 85.7,
+     "rating": 1.48
+    },
+    {
+     "player": 18214,
+     "nick": "nettik",
+     "kills": 19,
+     "deaths": 13,
+     "swing": 2.58,
+     "adr": 93.7,
+     "kast": 71.4,
+     "rating": 1.39
+    },
+    {
+     "player": 11139,
+     "nick": "aliStair",
+     "kills": 14,
+     "deaths": 12,
+     "swing": 3.4,
+     "adr": 66.5,
+     "kast": 81.0,
+     "rating": 1.36
+    },
+    {
+     "player": 11140,
+     "nick": "INS",
+     "kills": 14,
+     "deaths": 14,
+     "swing": 2.42,
+     "adr": 83.7,
+     "kast": 76.2,
+     "rating": 1.28
+    },
+    {
+     "player": 17384,
+     "nick": "Vexite",
+     "kills": 12,
+     "deaths": 14,
+     "swing": -0.37,
+     "adr": 62.0,
+     "kast": 61.9,
+     "rating": 0.95
+    },
+    {
+     "player": 14333,
+     "nick": "ju1ces",
+     "kills": 18,
+     "deaths": 13,
+     "swing": 0.41,
+     "adr": 79.5,
+     "kast": 66.7,
+     "rating": 1.12
+    },
+    {
+     "player": 20582,
+     "nick": "Kiyo",
+     "kills": 16,
+     "deaths": 16,
+     "swing": -4.0,
+     "adr": 80.0,
+     "kast": 57.1,
+     "rating": 0.86
+    },
+    {
+     "player": 17236,
+     "nick": "vanilla",
+     "kills": 15,
+     "deaths": 16,
+     "swing": -5.32,
+     "adr": 78.5,
+     "kast": 61.9,
+     "rating": 0.83
+    },
+    {
+     "player": 22317,
+     "nick": "kragz",
+     "kills": 7,
+     "deaths": 12,
+     "swing": -0.03,
+     "adr": 39.8,
+     "kast": 71.4,
+     "rating": 0.81
+    },
+    {
+     "player": 11806,
+     "nick": "JD",
+     "kills": 7,
+     "deaths": 16,
+     "swing": -5.52,
+     "adr": 56.0,
+     "kast": 71.4,
+     "rating": 0.63
+    }
+   ],
+   "t": [
+    {
+     "player": 11139,
+     "nick": "aliStair",
+     "kills": 12,
+     "deaths": 6,
+     "swing": 12.32,
+     "adr": 85.2,
+     "kast": 75.0,
+     "rating": 1.94
+    },
+    {
+     "player": 18214,
+     "nick": "nettik",
+     "kills": 10,
+     "deaths": 7,
+     "swing": -0.8,
+     "adr": 87.8,
+     "kast": 75.0,
+     "rating": 1.33
+    },
+    {
+     "player": 4679,
+     "nick": "jks",
+     "kills": 6,
+     "deaths": 5,
+     "swing": 4.19,
+     "adr": 43.8,
+     "kast": 83.3,
+     "rating": 1.29
+    },
+    {
+     "player": 11140,
+     "nick": "INS",
+     "kills": 7,
+     "deaths": 7,
+     "swing": 1.85,
+     "adr": 83.7,
+     "kast": 66.7,
+     "rating": 1.16
+    },
+    {
+     "player": 17384,
+     "nick": "Vexite",
+     "kills": 4,
+     "deaths": 8,
+     "swing": 0.66,
+     "adr": 48.1,
+     "kast": 58.3,
+     "rating": 0.91
+    },
+    {
+     "player": 22317,
+     "nick": "kragz",
+     "kills": 6,
+     "deaths": 5,
+     "swing": 6.51,
+     "adr": 73.1,
+     "kast": 77.8,
+     "rating": 1.36
+    },
+    {
+     "player": 14333,
+     "nick": "ju1ces",
+     "kills": 8,
+     "deaths": 6,
+     "swing": 3.09,
+     "adr": 94.1,
+     "kast": 66.7,
+     "rating": 1.35
+    },
+    {
+     "player": 20582,
+     "nick": "Kiyo",
+     "kills": 7,
+     "deaths": 7,
+     "swing": 0.73,
+     "adr": 91.8,
+     "kast": 66.7,
+     "rating": 1.21
+    },
+    {
+     "player": 17236,
+     "nick": "vanilla",
+     "kills": 6,
+     "deaths": 8,
+     "swing": -11.12,
+     "adr": 63.3,
+     "kast": 55.6,
+     "rating": 0.55
+    },
+    {
+     "player": 11806,
+     "nick": "JD",
+     "kills": 3,
+     "deaths": 8,
+     "swing": -8.64,
+     "adr": 44.9,
+     "kast": 55.6,
+     "rating": 0.48
+    }
+   ],
+   "ct": [
+    {
+     "player": 4679,
+     "nick": "jks",
+     "kills": 8,
+     "deaths": 6,
+     "swing": 8.26,
+     "adr": 89.8,
+     "kast": 88.9,
+     "rating": 1.74
+    },
+    {
+     "player": 18214,
+     "nick": "nettik",
+     "kills": 9,
+     "deaths": 6,
+     "swing": 7.08,
+     "adr": 101.6,
+     "kast": 66.7,
+     "rating": 1.48
+    },
+    {
+     "player": 11140,
+     "nick": "INS",
+     "kills": 7,
+     "deaths": 7,
+     "swing": 3.18,
+     "adr": 83.8,
+     "kast": 88.9,
+     "rating": 1.43
+    },
+    {
+     "player": 17384,
+     "nick": "Vexite",
+     "kills": 8,
+     "deaths": 6,
+     "swing": -1.75,
+     "adr": 80.4,
+     "kast": 66.7,
+     "rating": 1.0
+    },
+    {
+     "player": 11139,
+     "nick": "aliStair",
+     "kills": 2,
+     "deaths": 6,
+     "swing": -8.5,
+     "adr": 41.6,
+     "kast": 88.9,
+     "rating": 0.58
+    },
+    {
+     "player": 17236,
+     "nick": "vanilla",
+     "kills": 9,
+     "deaths": 8,
+     "swing": -0.97,
+     "adr": 89.9,
+     "kast": 66.7,
+     "rating": 1.04
+    },
+    {
+     "player": 14333,
+     "nick": "ju1ces",
+     "kills": 10,
+     "deaths": 7,
+     "swing": -1.6,
+     "adr": 68.6,
+     "kast": 66.7,
+     "rating": 0.95
+    },
+    {
+     "player": 11806,
+     "nick": "JD",
+     "kills": 4,
+     "deaths": 8,
+     "swing": -3.18,
+     "adr": 64.3,
+     "kast": 83.3,
+     "rating": 0.74
+    },
+    {
+     "player": 20582,
+     "nick": "Kiyo",
+     "kills": 9,
+     "deaths": 9,
+     "swing": -7.55,
+     "adr": 71.2,
+     "kast": 50.0,
+     "rating": 0.6
+    },
+    {
+     "player": 22317,
+     "nick": "kragz",
+     "kills": 1,
+     "deaths": 7,
+     "swing": -4.93,
+     "adr": 14.8,
+     "kast": 66.7,
+     "rating": 0.4
+    }
+   ]
+  }
+ },
+ "mvp": 4679,
+ "highlight": null,
+ "h2h": {
+  "team1Wins": 0,
+  "team2Wins": 0,
+  "overtimes": 0,
+  "maps": []
+ }
 }

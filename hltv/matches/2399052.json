@@ -1,21 +1,694 @@
 {
  "id": 2399052,
  "eventId": 9318,
- "stage": "Playoffs",
- "time": "2026-10-10T10:00:00Z",
+ "stage": null,
+ "time": "2026-10-10T18:00:00+08:00",
  "bo": 3,
- "status": "upcoming",
+ "status": "finished",
  "team1": {
-  "id": 0,
-  "score": null,
-  "players": []
+  "id": 6667,
+  "score": 0,
+  "players": [
+   22383,
+   10394,
+   21972,
+   9960,
+   22866
+  ]
  },
  "team2": {
-  "id": 0,
-  "score": null,
-  "players": []
+  "id": 10371,
+  "score": 1,
+  "players": [
+   25060,
+   23753,
+   25478,
+   25675,
+   25674
+  ]
  },
- "maps": [],
- "stats": {},
- "mvp": null
+ "maps": [
+  {
+   "map": "de_anubis",
+   "pick": 10371,
+   "score": [
+    9,
+    13
+   ],
+   "halves": [
+    [
+     5,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ]
+  },
+  {
+   "map": "de_nuke",
+   "pick": 6667,
+   "score": [
+    null,
+    null
+   ],
+   "halves": null
+  },
+  {
+   "map": "de_dust2",
+   "pick": null,
+   "score": [
+    null,
+    null
+   ],
+   "halves": null
+  }
+ ],
+ "stats": {
+  "all": {
+   "both": [
+    {
+     "player": 22383,
+     "nick": "jcobbb",
+     "kills": 16,
+     "deaths": 12,
+     "swing": 4.59,
+     "adr": 71.3,
+     "kast": 77.3,
+     "rating": 1.44
+    },
+    {
+     "player": 10394,
+     "nick": "Twistzz",
+     "kills": 20,
+     "deaths": 16,
+     "swing": 1.89,
+     "adr": 99.5,
+     "kast": 77.3,
+     "rating": 1.32
+    },
+    {
+     "player": 21972,
+     "nick": "Neityu",
+     "kills": 10,
+     "deaths": 16,
+     "swing": -2.64,
+     "adr": 61.1,
+     "kast": 72.7,
+     "rating": 0.78
+    },
+    {
+     "player": 9960,
+     "nick": "frozen",
+     "kills": 8,
+     "deaths": 13,
+     "swing": -3.39,
+     "adr": 55.9,
+     "kast": 72.7,
+     "rating": 0.76
+    },
+    {
+     "player": 22866,
+     "nick": "JBOEN",
+     "kills": 13,
+     "deaths": 14,
+     "swing": -6.89,
+     "adr": 52.3,
+     "kast": 63.6,
+     "rating": 0.68
+    },
+    {
+     "player": 25060,
+     "nick": "FAZERY",
+     "kills": 15,
+     "deaths": 14,
+     "swing": 6.84,
+     "adr": 83.4,
+     "kast": 72.7,
+     "rating": 1.51
+    },
+    {
+     "player": 23753,
+     "nick": "MahaR",
+     "kills": 11,
+     "deaths": 12,
+     "swing": 2.42,
+     "adr": 70.9,
+     "kast": 77.3,
+     "rating": 1.13
+    },
+    {
+     "player": 25478,
+     "nick": "skizzyee",
+     "kills": 17,
+     "deaths": 14,
+     "swing": -0.0,
+     "adr": 72.8,
+     "kast": 68.2,
+     "rating": 1.09
+    },
+    {
+     "player": 25675,
+     "nick": "kodak",
+     "kills": 13,
+     "deaths": 14,
+     "swing": -1.96,
+     "adr": 66.6,
+     "kast": 86.4,
+     "rating": 0.94
+    },
+    {
+     "player": 25674,
+     "nick": "yoki",
+     "kills": 14,
+     "deaths": 14,
+     "swing": -1.27,
+     "adr": 52.7,
+     "kast": 68.2,
+     "rating": 0.89
+    }
+   ],
+   "t": [
+    {
+     "player": 22383,
+     "nick": "jcobbb",
+     "kills": 11,
+     "deaths": 6,
+     "swing": 9.05,
+     "adr": 86.0,
+     "kast": 66.7,
+     "rating": 1.9
+    },
+    {
+     "player": 10394,
+     "nick": "Twistzz",
+     "kills": 6,
+     "deaths": 11,
+     "swing": 2.37,
+     "adr": 63.2,
+     "kast": 66.7,
+     "rating": 1.01
+    },
+    {
+     "player": 9960,
+     "nick": "frozen",
+     "kills": 4,
+     "deaths": 8,
+     "swing": -2.88,
+     "adr": 52.5,
+     "kast": 75.0,
+     "rating": 0.81
+    },
+    {
+     "player": 21972,
+     "nick": "Neityu",
+     "kills": 4,
+     "deaths": 9,
+     "swing": -3.1,
+     "adr": 50.2,
+     "kast": 66.7,
+     "rating": 0.72
+    },
+    {
+     "player": 22866,
+     "nick": "JBOEN",
+     "kills": 7,
+     "deaths": 9,
+     "swing": -7.55,
+     "adr": 43.1,
+     "kast": 58.3,
+     "rating": 0.58
+    },
+    {
+     "player": 25060,
+     "nick": "FAZERY",
+     "kills": 9,
+     "deaths": 7,
+     "swing": 20.76,
+     "adr": 115.6,
+     "kast": 70.0,
+     "rating": 2.44
+    },
+    {
+     "player": 25674,
+     "nick": "yoki",
+     "kills": 7,
+     "deaths": 7,
+     "swing": -0.51,
+     "adr": 58.8,
+     "kast": 50.0,
+     "rating": 1.02
+    },
+    {
+     "player": 25675,
+     "nick": "kodak",
+     "kills": 5,
+     "deaths": 8,
+     "swing": -1.83,
+     "adr": 55.9,
+     "kast": 80.0,
+     "rating": 0.94
+    },
+    {
+     "player": 23753,
+     "nick": "MahaR",
+     "kills": 1,
+     "deaths": 6,
+     "swing": -3.3,
+     "adr": 40.3,
+     "kast": 70.0,
+     "rating": 0.61
+    },
+    {
+     "player": 25478,
+     "nick": "skizzyee",
+     "kills": 5,
+     "deaths": 8,
+     "swing": -4.41,
+     "adr": 38.5,
+     "kast": 50.0,
+     "rating": 0.57
+    }
+   ],
+   "ct": [
+    {
+     "player": 10394,
+     "nick": "Twistzz",
+     "kills": 14,
+     "deaths": 5,
+     "swing": 1.33,
+     "adr": 143.1,
+     "kast": 90.0,
+     "rating": 1.7
+    },
+    {
+     "player": 22383,
+     "nick": "jcobbb",
+     "kills": 5,
+     "deaths": 6,
+     "swing": -0.75,
+     "adr": 53.6,
+     "kast": 90.0,
+     "rating": 0.88
+    },
+    {
+     "player": 21972,
+     "nick": "Neityu",
+     "kills": 6,
+     "deaths": 7,
+     "swing": -2.1,
+     "adr": 74.2,
+     "kast": 80.0,
+     "rating": 0.84
+    },
+    {
+     "player": 22866,
+     "nick": "JBOEN",
+     "kills": 6,
+     "deaths": 5,
+     "swing": -6.1,
+     "adr": 63.4,
+     "kast": 70.0,
+     "rating": 0.79
+    },
+    {
+     "player": 9960,
+     "nick": "frozen",
+     "kills": 4,
+     "deaths": 5,
+     "swing": -4.0,
+     "adr": 60.0,
+     "kast": 70.0,
+     "rating": 0.7
+    },
+    {
+     "player": 23753,
+     "nick": "MahaR",
+     "kills": 10,
+     "deaths": 6,
+     "swing": 7.19,
+     "adr": 96.4,
+     "kast": 83.3,
+     "rating": 1.56
+    },
+    {
+     "player": 25478,
+     "nick": "skizzyee",
+     "kills": 12,
+     "deaths": 6,
+     "swing": 3.67,
+     "adr": 101.3,
+     "kast": 83.3,
+     "rating": 1.52
+    },
+    {
+     "player": 25675,
+     "nick": "kodak",
+     "kills": 8,
+     "deaths": 6,
+     "swing": -2.08,
+     "adr": 75.6,
+     "kast": 91.7,
+     "rating": 0.94
+    },
+    {
+     "player": 25674,
+     "nick": "yoki",
+     "kills": 7,
+     "deaths": 7,
+     "swing": -1.9,
+     "adr": 47.7,
+     "kast": 83.3,
+     "rating": 0.79
+    },
+    {
+     "player": 25060,
+     "nick": "FAZERY",
+     "kills": 6,
+     "deaths": 7,
+     "swing": -4.76,
+     "adr": 56.5,
+     "kast": 75.0,
+     "rating": 0.73
+    }
+   ]
+  },
+  "de_anubis": {
+   "both": [
+    {
+     "player": 22383,
+     "nick": "jcobbb",
+     "kills": 16,
+     "deaths": 12,
+     "swing": 4.59,
+     "adr": 71.3,
+     "kast": 77.3,
+     "rating": 1.44
+    },
+    {
+     "player": 10394,
+     "nick": "Twistzz",
+     "kills": 20,
+     "deaths": 16,
+     "swing": 1.89,
+     "adr": 99.5,
+     "kast": 77.3,
+     "rating": 1.32
+    },
+    {
+     "player": 21972,
+     "nick": "Neityu",
+     "kills": 10,
+     "deaths": 16,
+     "swing": -2.64,
+     "adr": 61.1,
+     "kast": 72.7,
+     "rating": 0.78
+    },
+    {
+     "player": 9960,
+     "nick": "frozen",
+     "kills": 8,
+     "deaths": 13,
+     "swing": -3.39,
+     "adr": 55.9,
+     "kast": 72.7,
+     "rating": 0.76
+    },
+    {
+     "player": 22866,
+     "nick": "JBOEN",
+     "kills": 13,
+     "deaths": 14,
+     "swing": -6.89,
+     "adr": 52.3,
+     "kast": 63.6,
+     "rating": 0.68
+    },
+    {
+     "player": 25060,
+     "nick": "FAZERY",
+     "kills": 15,
+     "deaths": 14,
+     "swing": 6.84,
+     "adr": 83.4,
+     "kast": 72.7,
+     "rating": 1.51
+    },
+    {
+     "player": 23753,
+     "nick": "MahaR",
+     "kills": 11,
+     "deaths": 12,
+     "swing": 2.42,
+     "adr": 70.9,
+     "kast": 77.3,
+     "rating": 1.13
+    },
+    {
+     "player": 25478,
+     "nick": "skizzyee",
+     "kills": 17,
+     "deaths": 14,
+     "swing": -0.0,
+     "adr": 72.8,
+     "kast": 68.2,
+     "rating": 1.09
+    },
+    {
+     "player": 25675,
+     "nick": "kodak",
+     "kills": 13,
+     "deaths": 14,
+     "swing": -1.96,
+     "adr": 66.6,
+     "kast": 86.4,
+     "rating": 0.94
+    },
+    {
+     "player": 25674,
+     "nick": "yoki",
+     "kills": 14,
+     "deaths": 14,
+     "swing": -1.27,
+     "adr": 52.7,
+     "kast": 68.2,
+     "rating": 0.89
+    }
+   ],
+   "t": [
+    {
+     "player": 22383,
+     "nick": "jcobbb",
+     "kills": 11,
+     "deaths": 6,
+     "swing": 9.05,
+     "adr": 86.0,
+     "kast": 66.7,
+     "rating": 1.9
+    },
+    {
+     "player": 10394,
+     "nick": "Twistzz",
+     "kills": 6,
+     "deaths": 11,
+     "swing": 2.37,
+     "adr": 63.2,
+     "kast": 66.7,
+     "rating": 1.01
+    },
+    {
+     "player": 9960,
+     "nick": "frozen",
+     "kills": 4,
+     "deaths": 8,
+     "swing": -2.88,
+     "adr": 52.5,
+     "kast": 75.0,
+     "rating": 0.81
+    },
+    {
+     "player": 21972,
+     "nick": "Neityu",
+     "kills": 4,
+     "deaths": 9,
+     "swing": -3.1,
+     "adr": 50.2,
+     "kast": 66.7,
+     "rating": 0.72
+    },
+    {
+     "player": 22866,
+     "nick": "JBOEN",
+     "kills": 7,
+     "deaths": 9,
+     "swing": -7.55,
+     "adr": 43.1,
+     "kast": 58.3,
+     "rating": 0.58
+    },
+    {
+     "player": 25060,
+     "nick": "FAZERY",
+     "kills": 9,
+     "deaths": 7,
+     "swing": 20.76,
+     "adr": 115.6,
+     "kast": 70.0,
+     "rating": 2.44
+    },
+    {
+     "player": 25674,
+     "nick": "yoki",
+     "kills": 7,
+     "deaths": 7,
+     "swing": -0.51,
+     "adr": 58.8,
+     "kast": 50.0,
+     "rating": 1.02
+    },
+    {
+     "player": 25675,
+     "nick": "kodak",
+     "kills": 5,
+     "deaths": 8,
+     "swing": -1.83,
+     "adr": 55.9,
+     "kast": 80.0,
+     "rating": 0.94
+    },
+    {
+     "player": 23753,
+     "nick": "MahaR",
+     "kills": 1,
+     "deaths": 6,
+     "swing": -3.3,
+     "adr": 40.3,
+     "kast": 70.0,
+     "rating": 0.61
+    },
+    {
+     "player": 25478,
+     "nick": "skizzyee",
+     "kills": 5,
+     "deaths": 8,
+     "swing": -4.41,
+     "adr": 38.5,
+     "kast": 50.0,
+     "rating": 0.57
+    }
+   ],
+   "ct": [
+    {
+     "player": 10394,
+     "nick": "Twistzz",
+     "kills": 14,
+     "deaths": 5,
+     "swing": 1.33,
+     "adr": 143.1,
+     "kast": 90.0,
+     "rating": 1.7
+    },
+    {
+     "player": 22383,
+     "nick": "jcobbb",
+     "kills": 5,
+     "deaths": 6,
+     "swing": -0.75,
+     "adr": 53.6,
+     "kast": 90.0,
+     "rating": 0.88
+    },
+    {
+     "player": 21972,
+     "nick": "Neityu",
+     "kills": 6,
+     "deaths": 7,
+     "swing": -2.1,
+     "adr": 74.2,
+     "kast": 80.0,
+     "rating": 0.84
+    },
+    {
+     "player": 22866,
+     "nick": "JBOEN",
+     "kills": 6,
+     "deaths": 5,
+     "swing": -6.1,
+     "adr": 63.4,
+     "kast": 70.0,
+     "rating": 0.79
+    },
+    {
+     "player": 9960,
+     "nick": "frozen",
+     "kills": 4,
+     "deaths": 5,
+     "swing": -4.0,
+     "adr": 60.0,
+     "kast": 70.0,
+     "rating": 0.7
+    },
+    {
+     "player": 23753,
+     "nick": "MahaR",
+     "kills": 10,
+     "deaths": 6,
+     "swing": 7.19,
+     "adr": 96.4,
+     "kast": 83.3,
+     "rating": 1.56
+    },
+    {
+     "player": 25478,
+     "nick": "skizzyee",
+     "kills": 12,
+     "deaths": 6,
+     "swing": 3.67,
+     "adr": 101.3,
+     "kast": 83.3,
+     "rating": 1.52
+    },
+    {
+     "player": 25675,
+     "nick": "kodak",
+     "kills": 8,
+     "deaths": 6,
+     "swing": -2.08,
+     "adr": 75.6,
+     "kast": 91.7,
+     "rating": 0.94
+    },
+    {
+     "player": 25674,
+     "nick": "yoki",
+     "kills": 7,
+     "deaths": 7,
+     "swing": -1.9,
+     "adr": 47.7,
+     "kast": 83.3,
+     "rating": 0.79
+    },
+    {
+     "player": 25060,
+     "nick": "FAZERY",
+     "kills": 6,
+     "deaths": 7,
+     "swing": -4.76,
+     "adr": 56.5,
+     "kast": 75.0,
+     "rating": 0.73
+    }
+   ]
+  }
+ },
+ "mvp": null,
+ "highlight": null,
+ "h2h": {
+  "team1Wins": 0,
+  "team2Wins": 0,
+  "overtimes": 0,
+  "maps": []
+ }
 }

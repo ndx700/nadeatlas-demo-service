@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-09T21:34:17+08:00",
+ "updatedAt": "2026-10-10T19:05:49+08:00",
  "teams": [
   {
    "id": 7020,
@@ -13,14 +13,14 @@
    "name": "Vitality",
    "country": "FR",
    "rankHltv": 2,
-   "rankVrs": 2
+   "rankVrs": 3
   },
   {
    "id": 4494,
    "name": "MOUZ",
    "country": "HU",
    "rankHltv": 3,
-   "rankVrs": 3
+   "rankVrs": 2
   },
   {
    "id": 8297,
@@ -41,7 +41,7 @@
    "name": "Legacy",
    "country": "BR",
    "rankHltv": 6,
-   "rankVrs": 5
+   "rankVrs": 6
   },
   {
    "id": 5995,
@@ -62,7 +62,7 @@
    "name": "Aurora",
    "country": "TR",
    "rankHltv": 9,
-   "rankVrs": 6
+   "rankVrs": 5
   },
   {
    "id": 4608,
@@ -74,7 +74,7 @@
   {
    "id": 6665,
    "name": "Astralis",
-   "country": "DK",
+   "country": "SE",
    "rankHltv": 11,
    "rankVrs": 10
   },
@@ -97,7 +97,7 @@
    "name": "FaZe",
    "country": "SK",
    "rankHltv": 14,
-   "rankVrs": 25
+   "rankVrs": 24
   },
   {
    "id": 11241,
@@ -118,7 +118,7 @@
    "name": "The MongolZ",
    "country": "MN",
    "rankHltv": 17,
-   "rankVrs": 50
+   "rankVrs": 52
   },
   {
    "id": 13592,
@@ -195,7 +195,7 @@
    "name": "Inner Circle",
    "country": "UA",
    "rankHltv": 28,
-   "rankVrs": 24
+   "rankVrs": 25
   },
   {
    "id": 7175,
@@ -209,21 +209,21 @@
    "name": "NRG",
    "country": "US",
    "rankHltv": 30,
-   "rankVrs": 47
+   "rankVrs": 46
   },
   {
    "id": 4863,
    "name": "TYLOO",
    "country": "CN",
    "rankHltv": 34,
-   "rankVrs": 46
+   "rankVrs": 45
   },
   {
    "id": 8840,
    "name": "Lynn Vision",
    "country": "CN",
    "rankHltv": 36,
-   "rankVrs": 64
+   "rankVrs": 65
   },
   {
    "id": 10621,
@@ -611,15 +611,22 @@
    "rankVrs": null
   },
   {
-   "id": 13973,
-   "name": "Color",
+   "id": 11581,
+   "name": "HOTU",
    "country": null,
    "rankHltv": null,
    "rankVrs": null
   },
   {
-   "id": 4773,
-   "name": "paiN",
+   "id": 13104,
+   "name": "Iberian Soul",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 12774,
+   "name": "FlyQuest",
    "country": null,
    "rankHltv": null,
    "rankVrs": null
@@ -632,15 +639,57 @@
    "rankVrs": null
   },
   {
-   "id": 12774,
-   "name": "FlyQuest#75#87",
+   "id": 12677,
+   "name": "Galorys",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 9686,
+   "name": "Turma do Pagode",
    "country": null,
    "rankHltv": null,
    "rankVrs": null
   },
   {
    "id": 13686,
-   "name": "Abyssal#165#198",
+   "name": "Abyssal",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 13924,
+   "name": "Black Phoenix",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 13976,
+   "name": "LFO 8",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 9942,
+   "name": "MARKandLARRY",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 13973,
+   "name": "Color",
+   "country": null,
+   "rankHltv": null,
+   "rankVrs": null
+  },
+  {
+   "id": 4773,
+   "name": "paiN",
    "country": null,
    "rankHltv": null,
    "rankVrs": null
@@ -669,13 +718,6 @@
   {
    "id": 12380,
    "name": "CYBERSHOKE",
-   "country": null,
-   "rankHltv": null,
-   "rankVrs": null
-  },
-  {
-   "id": 13924,
-   "name": "Black Phoenix",
    "country": null,
    "rankHltv": null,
    "rankVrs": null
@@ -760,13 +802,6 @@
   {
    "id": 13991,
    "name": "Azuolas",
-   "country": null,
-   "rankHltv": null,
-   "rankVrs": null
-  },
-  {
-   "id": 13104,
-   "name": "Iberian Soul#55#58",
    "country": null,
    "rankHltv": null,
    "rankVrs": null
@@ -872,13 +907,6 @@
   {
    "id": 13355,
    "name": "Nemesis",
-   "country": null,
-   "rankHltv": null,
-   "rankVrs": null
-  },
-  {
-   "id": 11581,
-   "name": "HOTU",
    "country": null,
    "rankHltv": null,
    "rankVrs": null

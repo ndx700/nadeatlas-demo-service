@@ -1,0 +1,60 @@
+{
+ "id": 12677,
+ "name": "Galorys",
+ "country": null,
+ "rankHltv": null,
+ "rankVrs": null,
+ "players": [],
+ "events": [
+  9385
+ ],
+ "recent": [
+  {
+   "matchId": 2399192,
+   "date": "2026-10-10",
+   "opponent": 9686,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 9385
+  },
+  {
+   "matchId": 2399188,
+   "date": "2026-10-08",
+   "opponent": 14051,
+   "bo": 3,
+   "score": [
+    1,
+    0
+   ],
+   "eventId": 9385
+  },
+  {
+   "matchId": 2399176,
+   "date": "2026-10-07",
+   "opponent": 13912,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 9385
+  }
+ ],
+ "mapStats": {
+  "de_ancient": {
+   "played": 2,
+   "winPct": 50
+  },
+  "de_inferno": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_nuke": {
+   "played": 1,
+   "winPct": 100
+  }
+ }
+}

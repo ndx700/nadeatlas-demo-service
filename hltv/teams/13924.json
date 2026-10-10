@@ -1,0 +1,82 @@
+{
+ "id": 13924,
+ "name": "Black Phoenix",
+ "country": null,
+ "rankHltv": null,
+ "rankVrs": null,
+ "players": [],
+ "events": [
+  9420
+ ],
+ "recent": [
+  {
+   "matchId": 2398406,
+   "date": "2026-10-08",
+   "opponent": 10577,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 9420
+  },
+  {
+   "matchId": 2398367,
+   "date": "",
+   "opponent": 13573,
+   "bo": null,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 9420
+  },
+  {
+   "matchId": 2398375,
+   "date": "",
+   "opponent": 11018,
+   "bo": null,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 9420
+  },
+  {
+   "matchId": 2398388,
+   "date": "",
+   "opponent": 13901,
+   "bo": null,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 9420
+  },
+  {
+   "matchId": 2398395,
+   "date": "",
+   "opponent": 13054,
+   "bo": null,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 9420
+  }
+ ],
+ "mapStats": {
+  "de_dust2": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_mirage": {
+   "played": 1,
+   "winPct": 100
+  },
+  "de_nuke": {
+   "played": 1,
+   "winPct": 100
+  }
+ }
+}

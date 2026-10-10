@@ -1,0 +1,53 @@
+{
+ "id": 9686,
+ "name": "Turma do Pagode",
+ "country": null,
+ "rankHltv": null,
+ "rankVrs": null,
+ "players": [],
+ "events": [
+  9385
+ ],
+ "recent": [
+  {
+   "matchId": 2399192,
+   "date": "2026-10-10",
+   "opponent": 12677,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 9385
+  },
+  {
+   "matchId": 2399182,
+   "date": "2026-10-07",
+   "opponent": 13902,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 9385
+  }
+ ],
+ "mapStats": {
+  "de_ancient": {
+   "played": 2,
+   "winPct": 50
+  },
+  "de_anubis": {
+   "played": 1,
+   "winPct": 0
+  },
+  "de_dust2": {
+   "played": 1,
+   "winPct": 100
+  },
+  "de_nuke": {
+   "played": 1,
+   "winPct": 0
+  }
+ }
+}

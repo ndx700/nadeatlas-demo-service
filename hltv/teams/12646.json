@@ -11,6 +11,17 @@
  ],
  "recent": [
   {
+   "matchId": 2399377,
+   "date": "2026-10-10",
+   "opponent": 12510,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 9428
+  },
+  {
    "matchId": 2399155,
    "date": "2026-10-08",
    "opponent": 8840,
@@ -54,12 +65,12 @@
    "winPct": 0
   },
   "de_inferno": {
-   "played": 1,
-   "winPct": 0
-  },
-  "de_nuke": {
    "played": 2,
    "winPct": 50
+  },
+  "de_nuke": {
+   "played": 3,
+   "winPct": 67
   }
  }
 }
