@@ -1,15 +1,15 @@
 {
   "state": "ok",
   "message": "multi-source sync completed",
-  "updatedAt": "2026-10-11T23:50:19.510438Z",
+  "updatedAt": "2026-10-12T00:06:42.164431Z",
   "sources": {
     "public_pro_demo": {
       "state": "ok",
       "events": 24,
-      "mapsListed": 1570,
+      "mapsListed": 1577,
       "looked": 7,
       "added": 7,
-      "addedDust2": 0,
+      "addedDust2": 3,
       "remaining": 0
     },
     "better_cs": {
@@ -18,15 +18,15 @@
     }
   },
   "added": 7,
-  "published": 44,
-  "publishedAllMaps": 229,
+  "published": 47,
+  "publishedAllMaps": 236,
   "mapCounts": {
     "de_ancient": 33,
     "de_anubis": 22,
     "de_cache": 31,
-    "de_dust2": 44,
-    "de_inferno": 31,
-    "de_mirage": 45,
+    "de_dust2": 47,
+    "de_inferno": 32,
+    "de_mirage": 48,
     "de_nuke": 23
   },
   "logos": 69,

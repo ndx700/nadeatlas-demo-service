@@ -1,5 +1,41 @@
 [
   {
+    "date": "2026-10-11",
+    "event": "ESL Pro League Season 24",
+    "team1": "Vitality",
+    "team2": "MOUZ",
+    "score": "12-16",
+    "map": "de_dust2",
+    "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398757-m3-vitality-vs-mouz-m3-dust2.dem",
+    "size": 463801607,
+    "matchId": "hltv-2398757-m3",
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398757-m3-stats.msgpack.gz"
+  },
+  {
+    "date": "2026-10-10",
+    "event": "ESL Pro League Season 24",
+    "team1": "MOUZ",
+    "team2": "Spirit",
+    "score": "7-13",
+    "map": "de_dust2",
+    "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398755-m1-mouz-vs-spirit-m1-dust2.dem",
+    "size": 356752996,
+    "matchId": "hltv-2398755-m1",
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398755-m1-stats.msgpack.gz"
+  },
+  {
+    "date": "2026-10-09",
+    "event": "ESL Pro League Season 24",
+    "team1": "Vitality",
+    "team2": "PARIVISION",
+    "score": "13-10",
+    "map": "de_dust2",
+    "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398751-m2-vitality-vs-parivision-m2-dust2.dem",
+    "size": 387894737,
+    "matchId": "hltv-2398751-m2",
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398751-m2-stats.msgpack.gz"
+  },
+  {
     "date": "2026-10-07",
     "event": "ESL Pro League Season 24",
     "team1": "Spirit",
