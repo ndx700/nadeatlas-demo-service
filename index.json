@@ -9,7 +9,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398757-m3-vitality-vs-mouz-m3-dust2.dem",
     "size": 463801607,
     "matchId": "hltv-2398757-m3",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398757-m3-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398757-m3-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Vitality-vs-MOUZ-2026-10-11-Dust2-hltv-2398757-m3-r3.nar",
+    "replaySize": 3536605
   },
   {
     "date": "2026-10-10",
@@ -21,7 +23,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398755-m1-mouz-vs-spirit-m1-dust2.dem",
     "size": 356752996,
     "matchId": "hltv-2398755-m1",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398755-m1-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398755-m1-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/MOUZ-vs-Spirit-2026-10-10-Dust2-hltv-2398755-m1-r3.nar",
+    "replaySize": 2629891
   },
   {
     "date": "2026-10-09",
@@ -33,7 +37,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398751-m2-vitality-vs-parivision-m2-dust2.dem",
     "size": 387894737,
     "matchId": "hltv-2398751-m2",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398751-m2-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398751-m2-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/Vitality-vs-PARIVISION-2026-10-09-Dust2-hltv-2398751-m2-r3.nar",
+    "replaySize": 3053025
   },
   {
     "date": "2026-10-09",
@@ -45,7 +51,9 @@
     "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398750-m1-1win-vs-aurora-m1-dust2.dem",
     "size": 397276627,
     "matchId": "hltv-2398750-m1",
-    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398750-m1-stats.msgpack.gz"
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398750-m1-stats.msgpack.gz",
+    "replay": "https://github.com/ndx700/nadeatlas-demo-service/releases/download/replays/1win-vs-Aurora-2026-10-09-Dust2-hltv-2398750-m1-r3.nar",
+    "replaySize": 2987932
   },
   {
     "date": "2026-10-07",
