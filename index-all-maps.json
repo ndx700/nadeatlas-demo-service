@@ -120,6 +120,18 @@
     "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398754-m3-stats.msgpack.gz"
   },
   {
+    "date": "2026-10-10",
+    "event": "ESL Pro League Season 24",
+    "team1": "MOUZ",
+    "team2": "Spirit",
+    "score": "11-13",
+    "map": "de_nuke",
+    "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398755-m3-mouz-vs-spirit-m3-nuke.dem",
+    "size": 391574824,
+    "matchId": "hltv-2398755-m3",
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398755-m3-stats.msgpack.gz"
+  },
+  {
     "date": "2026-10-09",
     "event": "ESL Pro League Season 24",
     "team1": "FURIA",
@@ -178,6 +190,42 @@
     "size": 387894737,
     "matchId": "hltv-2398751-m2",
     "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398751-m2-stats.msgpack.gz"
+  },
+  {
+    "date": "2026-10-09",
+    "event": "ESL Pro League Season 24",
+    "team1": "Falcons",
+    "team2": "Spirit",
+    "score": "13-10",
+    "map": "de_anubis",
+    "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398753-m2-falcons-vs-spirit-m2-anubis.dem",
+    "size": 383095720,
+    "matchId": "hltv-2398753-m2",
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398753-m2-stats.msgpack.gz"
+  },
+  {
+    "date": "2026-10-09",
+    "event": "ESL Pro League Season 24",
+    "team1": "1win",
+    "team2": "Aurora",
+    "score": "9-13",
+    "map": "de_dust2",
+    "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398750-m1-1win-vs-aurora-m1-dust2.dem",
+    "size": 397276627,
+    "matchId": "hltv-2398750-m1",
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398750-m1-stats.msgpack.gz"
+  },
+  {
+    "date": "2026-10-09",
+    "event": "ESL Pro League Season 24",
+    "team1": "1win",
+    "team2": "Aurora",
+    "score": "8-13",
+    "map": "de_anubis",
+    "url": "https://videoscdn-cs.rlin.dev/demos/hltv-2398750-m2-p1-1win-vs-aurora-m2-anubis-p1.dem",
+    "size": 147361633,
+    "matchId": "hltv-2398750-m2",
+    "statsUrl": "https://videoscdn-cs.rlin.dev/stats/hltv-2398750-m2-stats.msgpack.gz"
   },
   {
     "date": "2026-10-07",
