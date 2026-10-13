@@ -1,12 +1,12 @@
 {
   "state": "ok",
   "message": "multi-source sync completed",
-  "updatedAt": "2026-10-13T11:29:07.706309Z",
+  "updatedAt": "2026-10-13T11:53:07.358490Z",
   "sources": {
     "public_pro_demo": {
       "state": "ok",
       "events": 24,
-      "mapsListed": 1581,
+      "mapsListed": 1426,
       "looked": 0,
       "added": 0,
       "addedDust2": 0,
@@ -30,5 +30,8 @@
     "de_nuke": 24
   },
   "logos": 69,
-  "errors": []
+  "errors": [
+    "rlin event 9154: URLError: <urlopen error [Errno 104] Connection reset by peer>",
+    "rlin event 8048: URLError: <urlopen error [Errno 104] Connection reset by peer>"
+  ]
 }
