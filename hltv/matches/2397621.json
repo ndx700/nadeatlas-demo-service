@@ -1,30 +1,30 @@
 {
  "id": 2397621,
  "eventId": 8266,
- "stage": "Semi-finals",
- "time": "2026-09-12T19:05:00+08:00",
+ "stage": "Semi-final",
+ "time": "2026-09-12T11:05:00Z",
  "bo": 3,
  "status": "finished",
  "team1": {
   "id": 12394,
   "score": 1,
   "players": [
-   15662,
-   18506,
-   11840,
    21667,
-   20357
+   11840,
+   20357,
+   15662,
+   18506
   ]
  },
  "team2": {
   "id": 5995,
   "score": 2,
   "players": [
-   9436,
-   21062,
    20425,
-   20447,
-   3972
+   21062,
+   3972,
+   9436,
+   20447
   ]
  },
  "maps": [
@@ -61,10 +61,6 @@
     [
      6,
      6
-    ],
-    [
-     1,
-     4
     ]
    ]
   },
@@ -1321,17 +1317,27 @@
    ]
   }
  },
- "mvp": 9436,
- "highlight": null,
+ "mvp": {
+  "player": 9436,
+  "nick": "NertZ",
+  "maps": 3,
+  "kpr": 0.84,
+  "dpr": 0.62,
+  "kast": 78.3,
+  "mkRating": 1.24,
+  "swing": 4.41,
+  "adr": 88.9,
+  "rating": 1.37
+ },
  "h2h": {
   "team1Wins": 4,
-  "team2Wins": 5,
   "overtimes": 0,
+  "team2Wins": 5,
   "maps": [
    {
-    "date": "2026-04-05",
+    "date": "2026-04-04",
     "matchId": 2392453,
-    "eventId": null,
+    "eventId": 8977,
     "event": "Stake Ranked Episode 1",
     "map": "de_dust2",
     "score": [
@@ -1341,9 +1347,9 @@
     "winner": 5995
    },
    {
-    "date": "2026-04-05",
+    "date": "2026-04-04",
     "matchId": 2392453,
-    "eventId": null,
+    "eventId": 8977,
     "event": "Stake Ranked Episode 1",
     "map": "de_ancient",
     "score": [
@@ -1353,9 +1359,9 @@
     "winner": 5995
    },
    {
-    "date": "2026-04-05",
+    "date": "2026-04-04",
     "matchId": 2392453,
-    "eventId": null,
+    "eventId": 8977,
     "event": "Stake Ranked Episode 1",
     "map": "de_anubis",
     "score": [
@@ -1365,9 +1371,9 @@
     "winner": 12394
    },
    {
-    "date": "2026-04-03",
+    "date": "2026-04-02",
     "matchId": 2392446,
-    "eventId": null,
+    "eventId": 8977,
     "event": "Stake Ranked Episode 1",
     "map": "de_overpass",
     "score": [
@@ -1377,9 +1383,9 @@
     "winner": 5995
    },
    {
-    "date": "2026-04-03",
+    "date": "2026-04-02",
     "matchId": 2392446,
-    "eventId": null,
+    "eventId": 8977,
     "event": "Stake Ranked Episode 1",
     "map": "de_ancient",
     "score": [
@@ -1389,9 +1395,9 @@
     "winner": 12394
    },
    {
-    "date": "2026-04-03",
+    "date": "2026-04-02",
     "matchId": 2392446,
-    "eventId": null,
+    "eventId": 8977,
     "event": "Stake Ranked Episode 1",
     "map": "de_mirage",
     "score": [
@@ -1401,9 +1407,9 @@
     "winner": 5995
    },
    {
-    "date": "2026-03-31",
+    "date": "2026-03-30",
     "matchId": 2392538,
-    "eventId": null,
+    "eventId": 9043,
     "event": "Radio Popular Roman Imperium Cup VII",
     "map": "de_anubis",
     "score": [
@@ -1413,9 +1419,9 @@
     "winner": 12394
    },
    {
-    "date": "2026-03-31",
+    "date": "2026-03-30",
     "matchId": 2392538,
-    "eventId": null,
+    "eventId": 9043,
     "event": "Radio Popular Roman Imperium Cup VII",
     "map": "de_ancient",
     "score": [
@@ -1425,9 +1431,9 @@
     "winner": 5995
    },
    {
-    "date": "2026-03-31",
+    "date": "2026-03-30",
     "matchId": 2392538,
-    "eventId": null,
+    "eventId": 9043,
     "event": "Radio Popular Roman Imperium Cup VII",
     "map": "de_mirage",
     "score": [
@@ -1437,5 +1443,6 @@
     "winner": 12394
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/111353"
 }

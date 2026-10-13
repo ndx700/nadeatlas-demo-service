@@ -1,21 +1,1018 @@
 {
  "id": 2396933,
  "eventId": 8249,
- "stage": "Group A",
+ "stage": "Group A Lower Bracket Round 1",
  "time": "2026-08-28T14:30:00Z",
  "bo": 3,
  "status": "finished",
  "team1": {
   "id": 4608,
   "score": 2,
-  "players": []
+  "players": [
+   14759,
+   22673,
+   18987,
+   20127,
+   9816
+  ]
  },
  "team2": {
   "id": 4773,
   "score": 0,
-  "players": []
+  "players": [
+   18835,
+   18141,
+   16816,
+   18714,
+   20171
+  ]
  },
- "maps": [],
- "stats": {},
- "mvp": null
+ "maps": [
+  {
+   "map": "de_nuke",
+   "pick": 4773,
+   "score": [
+    13,
+    9
+   ],
+   "halves": [
+    [
+     6,
+     6
+    ],
+    [
+     7,
+     3
+    ]
+   ]
+  },
+  {
+   "map": "de_mirage",
+   "pick": 4608,
+   "score": [
+    13,
+    11
+   ],
+   "halves": [
+    [
+     2,
+     10
+    ],
+    [
+     11,
+     1
+    ]
+   ]
+  },
+  {
+   "map": "de_inferno",
+   "pick": null,
+   "score": null
+  }
+ ],
+ "stats": {
+  "all": {
+   "both": [
+    {
+     "player": 22673,
+     "nick": "makazze",
+     "kills": 34,
+     "deaths": 31,
+     "swing": 3.82,
+     "adr": 87.7,
+     "kast": 69.6,
+     "rating": 1.3
+    },
+    {
+     "player": 20127,
+     "nick": "w0nderful",
+     "kills": 32,
+     "deaths": 25,
+     "swing": 2.37,
+     "adr": 72.0,
+     "kast": 73.9,
+     "rating": 1.18
+    },
+    {
+     "player": 18987,
+     "nick": "b1t",
+     "kills": 35,
+     "deaths": 32,
+     "swing": -0.67,
+     "adr": 72.9,
+     "kast": 80.4,
+     "rating": 1.03
+    },
+    {
+     "player": 9816,
+     "nick": "Aleksib",
+     "kills": 25,
+     "deaths": 26,
+     "swing": 0.33,
+     "adr": 59.4,
+     "kast": 76.1,
+     "rating": 0.99
+    },
+    {
+     "player": 14759,
+     "nick": "iM",
+     "kills": 27,
+     "deaths": 30,
+     "swing": -0.97,
+     "adr": 70.3,
+     "kast": 78.3,
+     "rating": 0.94
+    },
+    {
+     "player": 20171,
+     "nick": "snow",
+     "kills": 39,
+     "deaths": 32,
+     "swing": -0.28,
+     "adr": 80.7,
+     "kast": 73.9,
+     "rating": 1.22
+    },
+    {
+     "player": 16816,
+     "nick": "vsm",
+     "kills": 36,
+     "deaths": 30,
+     "swing": 0.58,
+     "adr": 84.2,
+     "kast": 69.6,
+     "rating": 1.14
+    },
+    {
+     "player": 18141,
+     "nick": "biguzera",
+     "kills": 27,
+     "deaths": 31,
+     "swing": -0.09,
+     "adr": 67.2,
+     "kast": 71.7,
+     "rating": 0.99
+    },
+    {
+     "player": 18714,
+     "nick": "piriajr",
+     "kills": 24,
+     "deaths": 31,
+     "swing": -1.26,
+     "adr": 56.1,
+     "kast": 67.4,
+     "rating": 0.85
+    },
+    {
+     "player": 18835,
+     "nick": "saffee",
+     "kills": 17,
+     "deaths": 29,
+     "swing": -3.85,
+     "adr": 47.5,
+     "kast": 69.6,
+     "rating": 0.62
+    }
+   ],
+   "t": [
+    {
+     "player": 20127,
+     "nick": "w0nderful",
+     "kills": 15,
+     "deaths": 16,
+     "swing": 4.21,
+     "adr": 75.3,
+     "kast": 72.7,
+     "rating": 1.41
+    },
+    {
+     "player": 14759,
+     "nick": "iM",
+     "kills": 13,
+     "deaths": 18,
+     "swing": -0.79,
+     "adr": 75.7,
+     "kast": 72.7,
+     "rating": 0.97
+    },
+    {
+     "player": 22673,
+     "nick": "makazze",
+     "kills": 12,
+     "deaths": 18,
+     "swing": -0.53,
+     "adr": 59.5,
+     "kast": 54.5,
+     "rating": 0.89
+    },
+    {
+     "player": 9816,
+     "nick": "Aleksib",
+     "kills": 11,
+     "deaths": 15,
+     "swing": -0.97,
+     "adr": 57.3,
+     "kast": 68.2,
+     "rating": 0.89
+    },
+    {
+     "player": 18987,
+     "nick": "b1t",
+     "kills": 12,
+     "deaths": 18,
+     "swing": -3.71,
+     "adr": 50.8,
+     "kast": 68.2,
+     "rating": 0.72
+    },
+    {
+     "player": 16816,
+     "nick": "vsm",
+     "kills": 16,
+     "deaths": 16,
+     "swing": -1.18,
+     "adr": 78.0,
+     "kast": 66.7,
+     "rating": 1.09
+    },
+    {
+     "player": 20171,
+     "nick": "snow",
+     "kills": 16,
+     "deaths": 19,
+     "swing": -2.35,
+     "adr": 59.7,
+     "kast": 62.5,
+     "rating": 0.95
+    },
+    {
+     "player": 18141,
+     "nick": "biguzera",
+     "kills": 10,
+     "deaths": 19,
+     "swing": -0.16,
+     "adr": 55.4,
+     "kast": 62.5,
+     "rating": 0.89
+    },
+    {
+     "player": 18714,
+     "nick": "piriajr",
+     "kills": 10,
+     "deaths": 18,
+     "swing": -2.37,
+     "adr": 45.4,
+     "kast": 58.3,
+     "rating": 0.73
+    },
+    {
+     "player": 18835,
+     "nick": "saffee",
+     "kills": 7,
+     "deaths": 18,
+     "swing": -4.93,
+     "adr": 28.9,
+     "kast": 58.3,
+     "rating": 0.55
+    }
+   ],
+   "ct": [
+    {
+     "player": 22673,
+     "nick": "makazze",
+     "kills": 22,
+     "deaths": 13,
+     "swing": 7.81,
+     "adr": 113.5,
+     "kast": 83.3,
+     "rating": 1.67
+    },
+    {
+     "player": 18987,
+     "nick": "b1t",
+     "kills": 23,
+     "deaths": 14,
+     "swing": 2.12,
+     "adr": 93.1,
+     "kast": 91.7,
+     "rating": 1.31
+    },
+    {
+     "player": 9816,
+     "nick": "Aleksib",
+     "kills": 14,
+     "deaths": 11,
+     "swing": 1.52,
+     "adr": 61.4,
+     "kast": 83.3,
+     "rating": 1.09
+    },
+    {
+     "player": 20127,
+     "nick": "w0nderful",
+     "kills": 17,
+     "deaths": 9,
+     "swing": 0.69,
+     "adr": 69.0,
+     "kast": 75.0,
+     "rating": 0.97
+    },
+    {
+     "player": 14759,
+     "nick": "iM",
+     "kills": 14,
+     "deaths": 12,
+     "swing": -1.15,
+     "adr": 65.5,
+     "kast": 83.3,
+     "rating": 0.91
+    },
+    {
+     "player": 20171,
+     "nick": "snow",
+     "kills": 23,
+     "deaths": 13,
+     "swing": 1.98,
+     "adr": 103.5,
+     "kast": 86.4,
+     "rating": 1.52
+    },
+    {
+     "player": 16816,
+     "nick": "vsm",
+     "kills": 20,
+     "deaths": 14,
+     "swing": 2.51,
+     "adr": 91.0,
+     "kast": 72.7,
+     "rating": 1.19
+    },
+    {
+     "player": 18141,
+     "nick": "biguzera",
+     "kills": 17,
+     "deaths": 12,
+     "swing": -0.01,
+     "adr": 80.1,
+     "kast": 81.8,
+     "rating": 1.1
+    },
+    {
+     "player": 18714,
+     "nick": "piriajr",
+     "kills": 14,
+     "deaths": 13,
+     "swing": -0.04,
+     "adr": 67.8,
+     "kast": 77.3,
+     "rating": 0.98
+    },
+    {
+     "player": 18835,
+     "nick": "saffee",
+     "kills": 10,
+     "deaths": 11,
+     "swing": -2.66,
+     "adr": 67.7,
+     "kast": 81.8,
+     "rating": 0.7
+    }
+   ]
+  },
+  "de_nuke": {
+   "both": [
+    {
+     "player": 20127,
+     "nick": "w0nderful",
+     "kills": 20,
+     "deaths": 10,
+     "swing": 4.06,
+     "adr": 86.2,
+     "kast": 81.8,
+     "rating": 1.5
+    },
+    {
+     "player": 22673,
+     "nick": "makazze",
+     "kills": 16,
+     "deaths": 16,
+     "swing": 2.61,
+     "adr": 98.6,
+     "kast": 81.8,
+     "rating": 1.29
+    },
+    {
+     "player": 18987,
+     "nick": "b1t",
+     "kills": 18,
+     "deaths": 16,
+     "swing": 1.91,
+     "adr": 80.8,
+     "kast": 90.9,
+     "rating": 1.18
+    },
+    {
+     "player": 9816,
+     "nick": "Aleksib",
+     "kills": 9,
+     "deaths": 11,
+     "swing": -0.15,
+     "adr": 45.0,
+     "kast": 72.7,
+     "rating": 0.89
+    },
+    {
+     "player": 14759,
+     "nick": "iM",
+     "kills": 11,
+     "deaths": 14,
+     "swing": -3.71,
+     "adr": 55.5,
+     "kast": 68.2,
+     "rating": 0.7
+    },
+    {
+     "player": 20171,
+     "nick": "snow",
+     "kills": 19,
+     "deaths": 16,
+     "swing": -1.6,
+     "adr": 81.5,
+     "kast": 77.3,
+     "rating": 1.31
+    },
+    {
+     "player": 18714,
+     "nick": "piriajr",
+     "kills": 16,
+     "deaths": 15,
+     "swing": 0.98,
+     "adr": 71.8,
+     "kast": 77.3,
+     "rating": 1.18
+    },
+    {
+     "player": 16816,
+     "nick": "vsm",
+     "kills": 16,
+     "deaths": 14,
+     "swing": 1.08,
+     "adr": 84.5,
+     "kast": 63.6,
+     "rating": 1.17
+    },
+    {
+     "player": 18141,
+     "nick": "biguzera",
+     "kills": 9,
+     "deaths": 15,
+     "swing": -1.77,
+     "adr": 60.9,
+     "kast": 77.3,
+     "rating": 0.91
+    },
+    {
+     "player": 18835,
+     "nick": "saffee",
+     "kills": 7,
+     "deaths": 14,
+     "swing": -3.42,
+     "adr": 36.3,
+     "kast": 72.7,
+     "rating": 0.62
+    }
+   ],
+   "t": [
+    {
+     "player": 20127,
+     "nick": "w0nderful",
+     "kills": 11,
+     "deaths": 5,
+     "swing": 8.76,
+     "adr": 107.1,
+     "kast": 90.0,
+     "rating": 2.23
+    },
+    {
+     "player": 22673,
+     "nick": "makazze",
+     "kills": 9,
+     "deaths": 7,
+     "swing": 6.18,
+     "adr": 99.7,
+     "kast": 90.0,
+     "rating": 1.76
+    },
+    {
+     "player": 9816,
+     "nick": "Aleksib",
+     "kills": 6,
+     "deaths": 4,
+     "swing": 4.99,
+     "adr": 60.3,
+     "kast": 80.0,
+     "rating": 1.33
+    },
+    {
+     "player": 18987,
+     "nick": "b1t",
+     "kills": 7,
+     "deaths": 8,
+     "swing": 1.38,
+     "adr": 77.6,
+     "kast": 90.0,
+     "rating": 1.08
+    },
+    {
+     "player": 14759,
+     "nick": "iM",
+     "kills": 6,
+     "deaths": 7,
+     "swing": -1.26,
+     "adr": 66.5,
+     "kast": 70.0,
+     "rating": 0.81
+    },
+    {
+     "player": 16816,
+     "nick": "vsm",
+     "kills": 10,
+     "deaths": 6,
+     "swing": 3.57,
+     "adr": 87.2,
+     "kast": 75.0,
+     "rating": 1.49
+    },
+    {
+     "player": 20171,
+     "nick": "snow",
+     "kills": 10,
+     "deaths": 7,
+     "swing": 3.01,
+     "adr": 75.4,
+     "kast": 75.0,
+     "rating": 1.46
+    },
+    {
+     "player": 18714,
+     "nick": "piriajr",
+     "kills": 7,
+     "deaths": 7,
+     "swing": 3.53,
+     "adr": 56.1,
+     "kast": 83.3,
+     "rating": 1.25
+    },
+    {
+     "player": 18141,
+     "nick": "biguzera",
+     "kills": 5,
+     "deaths": 8,
+     "swing": 1.43,
+     "adr": 61.8,
+     "kast": 75.0,
+     "rating": 1.12
+    },
+    {
+     "player": 18835,
+     "nick": "saffee",
+     "kills": 4,
+     "deaths": 7,
+     "swing": -3.49,
+     "adr": 29.5,
+     "kast": 75.0,
+     "rating": 0.79
+    }
+   ],
+   "ct": [
+    {
+     "player": 18987,
+     "nick": "b1t",
+     "kills": 11,
+     "deaths": 8,
+     "swing": 2.36,
+     "adr": 83.5,
+     "kast": 91.7,
+     "rating": 1.26
+    },
+    {
+     "player": 20127,
+     "nick": "w0nderful",
+     "kills": 9,
+     "deaths": 5,
+     "swing": 0.15,
+     "adr": 68.8,
+     "kast": 75.0,
+     "rating": 0.9
+    },
+    {
+     "player": 22673,
+     "nick": "makazze",
+     "kills": 7,
+     "deaths": 9,
+     "swing": -0.37,
+     "adr": 97.8,
+     "kast": 75.0,
+     "rating": 0.9
+    },
+    {
+     "player": 14759,
+     "nick": "iM",
+     "kills": 5,
+     "deaths": 7,
+     "swing": -5.75,
+     "adr": 46.3,
+     "kast": 66.7,
+     "rating": 0.6
+    },
+    {
+     "player": 9816,
+     "nick": "Aleksib",
+     "kills": 3,
+     "deaths": 7,
+     "swing": -4.43,
+     "adr": 32.2,
+     "kast": 66.7,
+     "rating": 0.53
+    },
+    {
+     "player": 20171,
+     "nick": "snow",
+     "kills": 9,
+     "deaths": 9,
+     "swing": -7.13,
+     "adr": 88.7,
+     "kast": 80.0,
+     "rating": 1.13
+    },
+    {
+     "player": 18714,
+     "nick": "piriajr",
+     "kills": 9,
+     "deaths": 8,
+     "swing": -2.08,
+     "adr": 90.7,
+     "kast": 70.0,
+     "rating": 1.09
+    },
+    {
+     "player": 16816,
+     "nick": "vsm",
+     "kills": 6,
+     "deaths": 8,
+     "swing": -1.91,
+     "adr": 81.2,
+     "kast": 50.0,
+     "rating": 0.78
+    },
+    {
+     "player": 18141,
+     "nick": "biguzera",
+     "kills": 4,
+     "deaths": 7,
+     "swing": -5.6,
+     "adr": 59.8,
+     "kast": 80.0,
+     "rating": 0.66
+    },
+    {
+     "player": 18835,
+     "nick": "saffee",
+     "kills": 3,
+     "deaths": 7,
+     "swing": -3.34,
+     "adr": 44.4,
+     "kast": 70.0,
+     "rating": 0.42
+    }
+   ]
+  },
+  "de_mirage": {
+   "both": [
+    {
+     "player": 22673,
+     "nick": "makazze",
+     "kills": 18,
+     "deaths": 15,
+     "swing": 4.94,
+     "adr": 77.7,
+     "kast": 58.3,
+     "rating": 1.44
+    },
+    {
+     "player": 14759,
+     "nick": "iM",
+     "kills": 16,
+     "deaths": 16,
+     "swing": 1.54,
+     "adr": 84.0,
+     "kast": 87.5,
+     "rating": 1.21
+    },
+    {
+     "player": 9816,
+     "nick": "Aleksib",
+     "kills": 16,
+     "deaths": 15,
+     "swing": 0.76,
+     "adr": 72.6,
+     "kast": 79.2,
+     "rating": 1.19
+    },
+    {
+     "player": 18987,
+     "nick": "b1t",
+     "kills": 17,
+     "deaths": 16,
+     "swing": -3.03,
+     "adr": 65.6,
+     "kast": 70.8,
+     "rating": 0.93
+    },
+    {
+     "player": 20127,
+     "nick": "w0nderful",
+     "kills": 12,
+     "deaths": 15,
+     "swing": 0.83,
+     "adr": 59.0,
+     "kast": 66.7,
+     "rating": 0.92
+    },
+    {
+     "player": 20171,
+     "nick": "snow",
+     "kills": 20,
+     "deaths": 16,
+     "swing": 0.94,
+     "adr": 79.9,
+     "kast": 70.8,
+     "rating": 1.24
+    },
+    {
+     "player": 16816,
+     "nick": "vsm",
+     "kills": 20,
+     "deaths": 16,
+     "swing": 0.12,
+     "adr": 84.0,
+     "kast": 75.0,
+     "rating": 1.18
+    },
+    {
+     "player": 18141,
+     "nick": "biguzera",
+     "kills": 18,
+     "deaths": 16,
+     "swing": 1.45,
+     "adr": 73.0,
+     "kast": 66.7,
+     "rating": 1.09
+    },
+    {
+     "player": 18835,
+     "nick": "saffee",
+     "kills": 10,
+     "deaths": 15,
+     "swing": -4.24,
+     "adr": 57.7,
+     "kast": 66.7,
+     "rating": 0.64
+    },
+    {
+     "player": 18714,
+     "nick": "piriajr",
+     "kills": 8,
+     "deaths": 16,
+     "swing": -3.31,
+     "adr": 41.7,
+     "kast": 58.3,
+     "rating": 0.62
+    }
+   ],
+   "t": [
+    {
+     "player": 14759,
+     "nick": "iM",
+     "kills": 7,
+     "deaths": 11,
+     "swing": -0.39,
+     "adr": 83.3,
+     "kast": 75.0,
+     "rating": 1.1
+    },
+    {
+     "player": 20127,
+     "nick": "w0nderful",
+     "kills": 4,
+     "deaths": 11,
+     "swing": 0.43,
+     "adr": 48.8,
+     "kast": 58.3,
+     "rating": 0.8
+    },
+    {
+     "player": 9816,
+     "nick": "Aleksib",
+     "kills": 5,
+     "deaths": 11,
+     "swing": -5.95,
+     "adr": 54.8,
+     "kast": 58.3,
+     "rating": 0.56
+    },
+    {
+     "player": 18987,
+     "nick": "b1t",
+     "kills": 5,
+     "deaths": 10,
+     "swing": -7.95,
+     "adr": 28.5,
+     "kast": 50.0,
+     "rating": 0.49
+    },
+    {
+     "player": 22673,
+     "nick": "makazze",
+     "kills": 3,
+     "deaths": 11,
+     "swing": -6.11,
+     "adr": 26.1,
+     "kast": 25.0,
+     "rating": 0.34
+    },
+    {
+     "player": 16816,
+     "nick": "vsm",
+     "kills": 6,
+     "deaths": 10,
+     "swing": -5.94,
+     "adr": 68.8,
+     "kast": 58.3,
+     "rating": 0.73
+    },
+    {
+     "player": 18141,
+     "nick": "biguzera",
+     "kills": 5,
+     "deaths": 11,
+     "swing": -1.76,
+     "adr": 49.0,
+     "kast": 50.0,
+     "rating": 0.66
+    },
+    {
+     "player": 20171,
+     "nick": "snow",
+     "kills": 6,
+     "deaths": 12,
+     "swing": -7.7,
+     "adr": 43.9,
+     "kast": 50.0,
+     "rating": 0.52
+    },
+    {
+     "player": 18835,
+     "nick": "saffee",
+     "kills": 3,
+     "deaths": 11,
+     "swing": -6.38,
+     "adr": 28.2,
+     "kast": 41.7,
+     "rating": 0.33
+    },
+    {
+     "player": 18714,
+     "nick": "piriajr",
+     "kills": 3,
+     "deaths": 11,
+     "swing": -8.28,
+     "adr": 34.7,
+     "kast": 33.3,
+     "rating": 0.31
+    }
+   ],
+   "ct": [
+    {
+     "player": 22673,
+     "nick": "makazze",
+     "kills": 15,
+     "deaths": 4,
+     "swing": 16.0,
+     "adr": 129.3,
+     "kast": 91.7,
+     "rating": 2.54
+    },
+    {
+     "player": 9816,
+     "nick": "Aleksib",
+     "kills": 11,
+     "deaths": 4,
+     "swing": 7.47,
+     "adr": 90.5,
+     "kast": 100.0,
+     "rating": 1.82
+    },
+    {
+     "player": 18987,
+     "nick": "b1t",
+     "kills": 12,
+     "deaths": 6,
+     "swing": 1.89,
+     "adr": 102.7,
+     "kast": 91.7,
+     "rating": 1.37
+    },
+    {
+     "player": 14759,
+     "nick": "iM",
+     "kills": 9,
+     "deaths": 5,
+     "swing": 3.46,
+     "adr": 84.6,
+     "kast": 100.0,
+     "rating": 1.31
+    },
+    {
+     "player": 20127,
+     "nick": "w0nderful",
+     "kills": 8,
+     "deaths": 4,
+     "swing": 1.23,
+     "adr": 69.2,
+     "kast": 75.0,
+     "rating": 1.03
+    },
+    {
+     "player": 20171,
+     "nick": "snow",
+     "kills": 14,
+     "deaths": 4,
+     "swing": 9.57,
+     "adr": 115.9,
+     "kast": 91.7,
+     "rating": 1.96
+    },
+    {
+     "player": 16816,
+     "nick": "vsm",
+     "kills": 14,
+     "deaths": 6,
+     "swing": 6.18,
+     "adr": 99.2,
+     "kast": 91.7,
+     "rating": 1.62
+    },
+    {
+     "player": 18141,
+     "nick": "biguzera",
+     "kills": 13,
+     "deaths": 5,
+     "swing": 4.66,
+     "adr": 97.1,
+     "kast": 83.3,
+     "rating": 1.52
+    },
+    {
+     "player": 18835,
+     "nick": "saffee",
+     "kills": 7,
+     "deaths": 4,
+     "swing": -2.1,
+     "adr": 87.2,
+     "kast": 91.7,
+     "rating": 0.95
+    },
+    {
+     "player": 18714,
+     "nick": "piriajr",
+     "kills": 5,
+     "deaths": 5,
+     "swing": 1.66,
+     "adr": 48.7,
+     "kast": 83.3,
+     "rating": 0.92
+    }
+   ]
+  }
+ },
+ "mvp": {
+  "player": 22673,
+  "nick": "makazze",
+  "maps": 2,
+  "kpr": 0.74,
+  "dpr": 0.67,
+  "kast": 69.6,
+  "mkRating": 0.92,
+  "swing": 3.82,
+  "adr": 87.7,
+  "rating": 1.3
+ },
+ "h2h": {
+  "team1Wins": 0,
+  "overtimes": 0,
+  "team2Wins": 0,
+  "maps": []
+ },
+ "demo": "https://www.hltv.org/download/demo/110682"
 }

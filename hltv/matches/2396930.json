@@ -1,28 +1,28 @@
 {
  "id": 2396930,
  "eventId": 8249,
- "stage": "Group B",
- "time": "2026-08-28T01:10:00+08:00",
+ "stage": "Group B Upper Bracket Quarter-final",
+ "time": "2026-08-27T17:10:00Z",
  "bo": 3,
  "status": "finished",
  "team1": {
   "id": 11283,
   "score": 2,
   "players": [
+   429,
+   3741,
    19230,
    12018,
-   24177,
-   3741,
-   429
+   24177
   ]
  },
  "team2": {
   "id": 8840,
   "score": 1,
   "players": [
-   23100,
-   22922,
    20254,
+   22922,
+   23100,
    18744,
    16551
   ]
@@ -1317,17 +1317,27 @@
    ]
   }
  },
- "mvp": 19230,
- "highlight": null,
+ "mvp": {
+  "player": 19230,
+  "nick": "m0NESY",
+  "maps": 3,
+  "kpr": 0.94,
+  "dpr": 0.48,
+  "kast": 77.4,
+  "mkRating": 1.54,
+  "swing": 7.18,
+  "adr": 92.9,
+  "rating": 1.68
+ },
  "h2h": {
   "team1Wins": 0,
-  "team2Wins": 1,
   "overtimes": 0,
+  "team2Wins": 1,
   "maps": [
    {
-    "date": "2025-06-08",
+    "date": "2025-06-07",
     "matchId": 2382444,
-    "eventId": null,
+    "eventId": 8437,
     "event": "BLAST.tv Austin Major 2025 Stage 2",
     "map": "de_nuke",
     "score": [
@@ -1337,5 +1347,6 @@
     "winner": 8840
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/110648"
 }

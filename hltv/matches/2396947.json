@@ -1,29 +1,29 @@
 {
  "id": 2396947,
  "eventId": 8249,
- "stage": "Quarter-finals",
- "time": "2026-09-04T22:00:00+08:00",
+ "stage": "Quarter-final",
+ "time": "2026-09-04T14:00:00Z",
  "bo": 3,
  "status": "finished",
  "team1": {
   "id": 11283,
   "score": 2,
   "players": [
+   429,
    3741,
-   24177,
    19230,
    12018,
-   429
+   24177
   ]
  },
  "team2": {
   "id": 5995,
   "score": 0,
   "players": [
-   3972,
-   21062,
-   9436,
    20425,
+   21062,
+   3972,
+   9436,
    20447
   ]
  },
@@ -67,11 +67,7 @@
   {
    "map": "de_mirage",
    "pick": null,
-   "score": [
-    null,
-    null
-   ],
-   "halves": null
+   "score": null
   }
  ],
  "stats": {
@@ -1000,17 +996,27 @@
    ]
   }
  },
- "mvp": 3741,
- "highlight": null,
+ "mvp": {
+  "player": 3741,
+  "nick": "NiKo",
+  "maps": 2,
+  "kpr": 0.9,
+  "dpr": 0.59,
+  "kast": 78.0,
+  "mkRating": 1.37,
+  "swing": 6.94,
+  "adr": 92.3,
+  "rating": 1.64
+ },
  "h2h": {
   "team1Wins": 6,
-  "team2Wins": 2,
   "overtimes": 1,
+  "team2Wins": 2,
   "maps": [
    {
-    "date": "2026-06-12",
+    "date": "2026-06-11",
     "matchId": 2394899,
-    "eventId": null,
+    "eventId": 8301,
     "event": "IEM Cologne Major 2026",
     "map": "de_ancient",
     "score": [
@@ -1020,9 +1026,9 @@
     "winner": 11283
    },
    {
-    "date": "2026-06-12",
+    "date": "2026-06-11",
     "matchId": 2394899,
-    "eventId": null,
+    "eventId": 8301,
     "event": "IEM Cologne Major 2026",
     "map": "de_dust2",
     "score": [
@@ -1032,9 +1038,9 @@
     "winner": 11283
    },
    {
-    "date": "2026-06-12",
+    "date": "2026-06-11",
     "matchId": 2394899,
-    "eventId": null,
+    "eventId": 8301,
     "event": "IEM Cologne Major 2026",
     "map": "de_inferno",
     "score": [
@@ -1044,9 +1050,9 @@
     "winner": 5995
    },
    {
-    "date": "2025-12-08",
+    "date": "2025-12-07",
     "matchId": 2388123,
-    "eventId": null,
+    "eventId": 8042,
     "event": "StarLadder Budapest Major 2025",
     "map": "de_dust2",
     "score": [
@@ -1056,9 +1062,9 @@
     "winner": 11283
    },
    {
-    "date": "2025-12-08",
+    "date": "2025-12-07",
     "matchId": 2388123,
-    "eventId": null,
+    "eventId": 8042,
     "event": "StarLadder Budapest Major 2025",
     "map": "de_inferno",
     "score": [
@@ -1068,9 +1074,9 @@
     "winner": 11283
    },
    {
-    "date": "2025-12-08",
+    "date": "2025-12-07",
     "matchId": 2388123,
-    "eventId": null,
+    "eventId": 8042,
     "event": "StarLadder Budapest Major 2025",
     "map": "de_ancient",
     "score": [
@@ -1082,7 +1088,7 @@
    {
     "date": "2025-08-21",
     "matchId": 2384304,
-    "eventId": null,
+    "eventId": 8039,
     "event": "Esports World Cup 2025",
     "map": "de_train",
     "score": [
@@ -1094,7 +1100,7 @@
    {
     "date": "2025-08-21",
     "matchId": 2384304,
-    "eventId": null,
+    "eventId": 8039,
     "event": "Esports World Cup 2025",
     "map": "de_ancient",
     "score": [
@@ -1104,5 +1110,6 @@
     "winner": 11283
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/110982"
 }

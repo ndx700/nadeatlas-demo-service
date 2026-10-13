@@ -1,7 +1,7 @@
 {
  "id": 2396942,
  "eventId": 8249,
- "stage": "Group B",
+ "stage": "Group B Lower Bracket Semi-final",
  "time": "2026-08-30T14:40:00Z",
  "bo": 3,
  "status": "finished",
@@ -9,10 +9,10 @@
   "id": 13117,
   "score": 0,
   "players": [
-   19592,
-   23415,
-   24282,
    24168,
+   24282,
+   23415,
+   19592,
    16147
   ]
  },
@@ -20,11 +20,11 @@
   "id": 13286,
   "score": 2,
   "players": [
+   19187,
    20584,
    22674,
    23553,
-   22203,
-   19187
+   22203
   ]
  },
  "maps": [
@@ -67,11 +67,7 @@
   {
    "map": "de_anubis",
    "pick": null,
-   "score": [
-    null,
-    null
-   ],
-   "halves": null
+   "score": null
   }
  ],
  "stats": {
@@ -180,108 +176,6 @@
    ],
    "t": [
     {
-     "player": 19592,
-     "nick": "headtr1ck",
-     "kills": 19,
-     "deaths": 9,
-     "swing": 5.7,
-     "adr": 77.7,
-     "kast": 89.5,
-     "rating": 1.38
-    },
-    {
-     "player": 23415,
-     "nick": "zeRRoFIX",
-     "kills": 14,
-     "deaths": 13,
-     "swing": 1.48,
-     "adr": 91.5,
-     "kast": 78.9,
-     "rating": 1.07
-    },
-    {
-     "player": 16147,
-     "nick": "cptkurtka023",
-     "kills": 12,
-     "deaths": 15,
-     "swing": -0.95,
-     "adr": 90.9,
-     "kast": 78.9,
-     "rating": 0.92
-    },
-    {
-     "player": 24282,
-     "nick": "Dawy",
-     "kills": 12,
-     "deaths": 13,
-     "swing": -4.67,
-     "adr": 70.9,
-     "kast": 73.7,
-     "rating": 0.74
-    },
-    {
-     "player": 24168,
-     "nick": "onic",
-     "kills": 9,
-     "deaths": 13,
-     "swing": -7.26,
-     "adr": 45.5,
-     "kast": 57.9,
-     "rating": 0.53
-    },
-    {
-     "player": 20584,
-     "nick": "dem0n",
-     "kills": 22,
-     "deaths": 5,
-     "swing": 6.81,
-     "adr": 86.1,
-     "kast": 95.5,
-     "rating": 1.76
-    },
-    {
-     "player": 23553,
-     "nick": "dziugss",
-     "kills": 16,
-     "deaths": 12,
-     "swing": 3.76,
-     "adr": 87.5,
-     "kast": 86.4,
-     "rating": 1.37
-    },
-    {
-     "player": 22674,
-     "nick": "cmtry",
-     "kills": 17,
-     "deaths": 7,
-     "swing": 1.88,
-     "adr": 85.1,
-     "kast": 90.9,
-     "rating": 1.19
-    },
-    {
-     "player": 22203,
-     "nick": "Krabeni",
-     "kills": 19,
-     "deaths": 13,
-     "swing": 0.62,
-     "adr": 80.5,
-     "kast": 81.8,
-     "rating": 1.06
-    },
-    {
-     "player": 19187,
-     "nick": "xfl0ud",
-     "kills": 17,
-     "deaths": 16,
-     "swing": -2.03,
-     "adr": 91.8,
-     "kast": 81.8,
-     "rating": 1.01
-    }
-   ],
-   "ct": [
-    {
      "player": 24168,
      "nick": "onic",
      "kills": 15,
@@ -380,6 +274,108 @@
      "adr": 54.7,
      "kast": 89.5,
      "rating": 0.9
+    }
+   ],
+   "ct": [
+    {
+     "player": 19592,
+     "nick": "headtr1ck",
+     "kills": 19,
+     "deaths": 9,
+     "swing": 5.7,
+     "adr": 77.7,
+     "kast": 89.5,
+     "rating": 1.38
+    },
+    {
+     "player": 23415,
+     "nick": "zeRRoFIX",
+     "kills": 14,
+     "deaths": 13,
+     "swing": 1.48,
+     "adr": 91.5,
+     "kast": 78.9,
+     "rating": 1.07
+    },
+    {
+     "player": 16147,
+     "nick": "cptkurtka023",
+     "kills": 12,
+     "deaths": 15,
+     "swing": -0.95,
+     "adr": 90.9,
+     "kast": 78.9,
+     "rating": 0.92
+    },
+    {
+     "player": 24282,
+     "nick": "Dawy",
+     "kills": 12,
+     "deaths": 13,
+     "swing": -4.67,
+     "adr": 70.9,
+     "kast": 73.7,
+     "rating": 0.74
+    },
+    {
+     "player": 24168,
+     "nick": "onic",
+     "kills": 9,
+     "deaths": 13,
+     "swing": -7.26,
+     "adr": 45.5,
+     "kast": 57.9,
+     "rating": 0.53
+    },
+    {
+     "player": 20584,
+     "nick": "dem0n",
+     "kills": 22,
+     "deaths": 5,
+     "swing": 6.81,
+     "adr": 86.1,
+     "kast": 95.5,
+     "rating": 1.76
+    },
+    {
+     "player": 23553,
+     "nick": "dziugss",
+     "kills": 16,
+     "deaths": 12,
+     "swing": 3.76,
+     "adr": 87.5,
+     "kast": 86.4,
+     "rating": 1.37
+    },
+    {
+     "player": 22674,
+     "nick": "cmtry",
+     "kills": 17,
+     "deaths": 7,
+     "swing": 1.88,
+     "adr": 85.1,
+     "kast": 90.9,
+     "rating": 1.19
+    },
+    {
+     "player": 22203,
+     "nick": "Krabeni",
+     "kills": 19,
+     "deaths": 13,
+     "swing": 0.62,
+     "adr": 80.5,
+     "kast": 81.8,
+     "rating": 1.06
+    },
+    {
+     "player": 19187,
+     "nick": "xfl0ud",
+     "kills": 17,
+     "deaths": 16,
+     "swing": -2.03,
+     "adr": 91.8,
+     "kast": 81.8,
+     "rating": 1.01
     }
    ]
   },
@@ -488,108 +484,6 @@
    ],
    "t": [
     {
-     "player": 19592,
-     "nick": "headtr1ck",
-     "kills": 11,
-     "deaths": 5,
-     "swing": 8.21,
-     "adr": 76.8,
-     "kast": 91.7,
-     "rating": 1.48
-    },
-    {
-     "player": 16147,
-     "nick": "cptkurtka023",
-     "kills": 9,
-     "deaths": 9,
-     "swing": 1.25,
-     "adr": 101.7,
-     "kast": 91.7,
-     "rating": 1.18
-    },
-    {
-     "player": 23415,
-     "nick": "zeRRoFIX",
-     "kills": 8,
-     "deaths": 9,
-     "swing": 3.13,
-     "adr": 83.2,
-     "kast": 75.0,
-     "rating": 1.08
-    },
-    {
-     "player": 24282,
-     "nick": "Dawy",
-     "kills": 8,
-     "deaths": 8,
-     "swing": -4.77,
-     "adr": 78.8,
-     "kast": 83.3,
-     "rating": 0.8
-    },
-    {
-     "player": 24168,
-     "nick": "onic",
-     "kills": 6,
-     "deaths": 9,
-     "swing": -9.49,
-     "adr": 41.9,
-     "kast": 58.3,
-     "rating": 0.51
-    },
-    {
-     "player": 20584,
-     "nick": "dem0n",
-     "kills": 10,
-     "deaths": 3,
-     "swing": 7.13,
-     "adr": 105.8,
-     "kast": 90.0,
-     "rating": 1.82
-    },
-    {
-     "player": 22674,
-     "nick": "cmtry",
-     "kills": 7,
-     "deaths": 2,
-     "swing": 4.24,
-     "adr": 83.5,
-     "kast": 90.0,
-     "rating": 1.33
-    },
-    {
-     "player": 22203,
-     "nick": "Krabeni",
-     "kills": 12,
-     "deaths": 7,
-     "swing": 1.53,
-     "adr": 93.7,
-     "kast": 80.0,
-     "rating": 1.26
-    },
-    {
-     "player": 23553,
-     "nick": "dziugss",
-     "kills": 7,
-     "deaths": 5,
-     "swing": 0.35,
-     "adr": 79.2,
-     "kast": 90.0,
-     "rating": 1.2
-    },
-    {
-     "player": 19187,
-     "nick": "xfl0ud",
-     "kills": 7,
-     "deaths": 7,
-     "swing": -3.96,
-     "adr": 87.2,
-     "kast": 90.0,
-     "rating": 0.89
-    }
-   ],
-   "ct": [
-    {
      "player": 24168,
      "nick": "onic",
      "kills": 8,
@@ -688,6 +582,108 @@
      "adr": 49.9,
      "kast": 66.7,
      "rating": 0.78
+    }
+   ],
+   "ct": [
+    {
+     "player": 19592,
+     "nick": "headtr1ck",
+     "kills": 11,
+     "deaths": 5,
+     "swing": 8.21,
+     "adr": 76.8,
+     "kast": 91.7,
+     "rating": 1.48
+    },
+    {
+     "player": 16147,
+     "nick": "cptkurtka023",
+     "kills": 9,
+     "deaths": 9,
+     "swing": 1.25,
+     "adr": 101.7,
+     "kast": 91.7,
+     "rating": 1.18
+    },
+    {
+     "player": 23415,
+     "nick": "zeRRoFIX",
+     "kills": 8,
+     "deaths": 9,
+     "swing": 3.13,
+     "adr": 83.2,
+     "kast": 75.0,
+     "rating": 1.08
+    },
+    {
+     "player": 24282,
+     "nick": "Dawy",
+     "kills": 8,
+     "deaths": 8,
+     "swing": -4.77,
+     "adr": 78.8,
+     "kast": 83.3,
+     "rating": 0.8
+    },
+    {
+     "player": 24168,
+     "nick": "onic",
+     "kills": 6,
+     "deaths": 9,
+     "swing": -9.49,
+     "adr": 41.9,
+     "kast": 58.3,
+     "rating": 0.51
+    },
+    {
+     "player": 20584,
+     "nick": "dem0n",
+     "kills": 10,
+     "deaths": 3,
+     "swing": 7.13,
+     "adr": 105.8,
+     "kast": 90.0,
+     "rating": 1.82
+    },
+    {
+     "player": 22674,
+     "nick": "cmtry",
+     "kills": 7,
+     "deaths": 2,
+     "swing": 4.24,
+     "adr": 83.5,
+     "kast": 90.0,
+     "rating": 1.33
+    },
+    {
+     "player": 22203,
+     "nick": "Krabeni",
+     "kills": 12,
+     "deaths": 7,
+     "swing": 1.53,
+     "adr": 93.7,
+     "kast": 80.0,
+     "rating": 1.26
+    },
+    {
+     "player": 23553,
+     "nick": "dziugss",
+     "kills": 7,
+     "deaths": 5,
+     "swing": 0.35,
+     "adr": 79.2,
+     "kast": 90.0,
+     "rating": 1.2
+    },
+    {
+     "player": 19187,
+     "nick": "xfl0ud",
+     "kills": 7,
+     "deaths": 7,
+     "swing": -3.96,
+     "adr": 87.2,
+     "kast": 90.0,
+     "rating": 0.89
     }
    ]
   },
@@ -796,108 +792,6 @@
    ],
    "t": [
     {
-     "player": 19592,
-     "nick": "headtr1ck",
-     "kills": 8,
-     "deaths": 4,
-     "swing": 1.4,
-     "adr": 79.1,
-     "kast": 85.7,
-     "rating": 1.23
-    },
-    {
-     "player": 23415,
-     "nick": "zeRRoFIX",
-     "kills": 6,
-     "deaths": 4,
-     "swing": -1.35,
-     "adr": 105.6,
-     "kast": 85.7,
-     "rating": 1.05
-    },
-    {
-     "player": 24282,
-     "nick": "Dawy",
-     "kills": 4,
-     "deaths": 5,
-     "swing": -4.51,
-     "adr": 57.3,
-     "kast": 57.1,
-     "rating": 0.64
-    },
-    {
-     "player": 24168,
-     "nick": "onic",
-     "kills": 3,
-     "deaths": 4,
-     "swing": -3.45,
-     "adr": 51.7,
-     "kast": 57.1,
-     "rating": 0.6
-    },
-    {
-     "player": 16147,
-     "nick": "cptkurtka023",
-     "kills": 3,
-     "deaths": 6,
-     "swing": -4.72,
-     "adr": 72.4,
-     "kast": 57.1,
-     "rating": 0.58
-    },
-    {
-     "player": 20584,
-     "nick": "dem0n",
-     "kills": 12,
-     "deaths": 2,
-     "swing": 6.54,
-     "adr": 69.7,
-     "kast": 100.0,
-     "rating": 1.71
-    },
-    {
-     "player": 23553,
-     "nick": "dziugss",
-     "kills": 9,
-     "deaths": 7,
-     "swing": 6.61,
-     "adr": 94.5,
-     "kast": 83.3,
-     "rating": 1.53
-    },
-    {
-     "player": 19187,
-     "nick": "xfl0ud",
-     "kills": 10,
-     "deaths": 9,
-     "swing": -0.42,
-     "adr": 95.6,
-     "kast": 75.0,
-     "rating": 1.12
-    },
-    {
-     "player": 22674,
-     "nick": "cmtry",
-     "kills": 10,
-     "deaths": 5,
-     "swing": -0.08,
-     "adr": 86.5,
-     "kast": 91.7,
-     "rating": 1.08
-    },
-    {
-     "player": 22203,
-     "nick": "Krabeni",
-     "kills": 7,
-     "deaths": 6,
-     "swing": -0.14,
-     "adr": 69.6,
-     "kast": 83.3,
-     "rating": 0.9
-    }
-   ],
-   "ct": [
-    {
      "player": 24282,
      "nick": "Dawy",
      "kills": 9,
@@ -997,6 +891,108 @@
      "kast": 57.1,
      "rating": 0.39
     }
+   ],
+   "ct": [
+    {
+     "player": 19592,
+     "nick": "headtr1ck",
+     "kills": 8,
+     "deaths": 4,
+     "swing": 1.4,
+     "adr": 79.1,
+     "kast": 85.7,
+     "rating": 1.23
+    },
+    {
+     "player": 23415,
+     "nick": "zeRRoFIX",
+     "kills": 6,
+     "deaths": 4,
+     "swing": -1.35,
+     "adr": 105.6,
+     "kast": 85.7,
+     "rating": 1.05
+    },
+    {
+     "player": 24282,
+     "nick": "Dawy",
+     "kills": 4,
+     "deaths": 5,
+     "swing": -4.51,
+     "adr": 57.3,
+     "kast": 57.1,
+     "rating": 0.64
+    },
+    {
+     "player": 24168,
+     "nick": "onic",
+     "kills": 3,
+     "deaths": 4,
+     "swing": -3.45,
+     "adr": 51.7,
+     "kast": 57.1,
+     "rating": 0.6
+    },
+    {
+     "player": 16147,
+     "nick": "cptkurtka023",
+     "kills": 3,
+     "deaths": 6,
+     "swing": -4.72,
+     "adr": 72.4,
+     "kast": 57.1,
+     "rating": 0.58
+    },
+    {
+     "player": 20584,
+     "nick": "dem0n",
+     "kills": 12,
+     "deaths": 2,
+     "swing": 6.54,
+     "adr": 69.7,
+     "kast": 100.0,
+     "rating": 1.71
+    },
+    {
+     "player": 23553,
+     "nick": "dziugss",
+     "kills": 9,
+     "deaths": 7,
+     "swing": 6.61,
+     "adr": 94.5,
+     "kast": 83.3,
+     "rating": 1.53
+    },
+    {
+     "player": 19187,
+     "nick": "xfl0ud",
+     "kills": 10,
+     "deaths": 9,
+     "swing": -0.42,
+     "adr": 95.6,
+     "kast": 75.0,
+     "rating": 1.12
+    },
+    {
+     "player": 22674,
+     "nick": "cmtry",
+     "kills": 10,
+     "deaths": 5,
+     "swing": -0.08,
+     "adr": 86.5,
+     "kast": 91.7,
+     "rating": 1.08
+    },
+    {
+     "player": 22203,
+     "nick": "Krabeni",
+     "kills": 7,
+     "deaths": 6,
+     "swing": -0.14,
+     "adr": 69.6,
+     "kast": 83.3,
+     "rating": 0.9
+    }
    ]
   }
  },
@@ -1012,16 +1008,15 @@
   "adr": 102.7,
   "rating": 2.09
  },
- "highlight": null,
  "h2h": {
   "team1Wins": 3,
-  "team2Wins": 8,
   "overtimes": 1,
+  "team2Wins": 8,
   "maps": [
    {
     "date": "2026-04-04",
     "matchId": 2393003,
-    "eventId": null,
+    "eventId": 8048,
     "event": "PGL Bucharest 2026",
     "map": "de_ancient",
     "score": [
@@ -1033,7 +1028,7 @@
    {
     "date": "2026-04-04",
     "matchId": 2393003,
-    "eventId": null,
+    "eventId": 8048,
     "event": "PGL Bucharest 2026",
     "map": "de_mirage",
     "score": [
@@ -1045,7 +1040,7 @@
    {
     "date": "2026-04-04",
     "matchId": 2393003,
-    "eventId": null,
+    "eventId": 8048,
     "event": "PGL Bucharest 2026",
     "map": "de_dust2",
     "score": [
@@ -1057,7 +1052,7 @@
    {
     "date": "2025-12-07",
     "matchId": 2387482,
-    "eventId": null,
+    "eventId": 8798,
     "event": "Galaxy Battle 2025 Phase 5",
     "map": "de_ancient",
     "score": [
@@ -1069,7 +1064,7 @@
    {
     "date": "2025-12-07",
     "matchId": 2387482,
-    "eventId": null,
+    "eventId": 8798,
     "event": "Galaxy Battle 2025 Phase 5",
     "map": "de_mirage",
     "score": [
@@ -1081,7 +1076,7 @@
    {
     "date": "2025-11-30",
     "matchId": 2388544,
-    "eventId": null,
+    "eventId": 8726,
     "event": "DreamHack Knockout Stockholm 2025",
     "map": "de_dust2",
     "score": [
@@ -1093,7 +1088,7 @@
    {
     "date": "2025-11-30",
     "matchId": 2388544,
-    "eventId": null,
+    "eventId": 8726,
     "event": "DreamHack Knockout Stockholm 2025",
     "map": "de_ancient",
     "score": [
@@ -1105,7 +1100,7 @@
    {
     "date": "2025-11-30",
     "matchId": 2388544,
-    "eventId": null,
+    "eventId": 8726,
     "event": "DreamHack Knockout Stockholm 2025",
     "map": "de_mirage",
     "score": [
@@ -1117,7 +1112,7 @@
    {
     "date": "2025-11-22",
     "matchId": 2388206,
-    "eventId": null,
+    "eventId": 8841,
     "event": "Digital Crusade DraculaN Season 3",
     "map": "de_nuke",
     "score": [
@@ -1129,7 +1124,7 @@
    {
     "date": "2025-11-22",
     "matchId": 2388206,
-    "eventId": null,
+    "eventId": 8841,
     "event": "Digital Crusade DraculaN Season 3",
     "map": "de_train",
     "score": [
@@ -1141,7 +1136,7 @@
    {
     "date": "2025-11-22",
     "matchId": 2388206,
-    "eventId": null,
+    "eventId": 8841,
     "event": "Digital Crusade DraculaN Season 3",
     "map": "de_mirage",
     "score": [
@@ -1151,5 +1146,6 @@
     "winner": 13286
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/110787"
 }

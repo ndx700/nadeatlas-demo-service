@@ -1,7 +1,7 @@
 {
  "id": 2398107,
  "eventId": 8057,
- "stage": "Playoffs",
+ "stage": "Consolidation Final",
  "time": "2026-09-20T12:00:00Z",
  "bo": 3,
  "status": "finished",
@@ -9,22 +9,22 @@
   "id": 9565,
   "score": 2,
   "players": [
-   11893,
-   11816,
-   16693,
+   18462,
    7322,
-   18462
+   11816,
+   11893,
+   16693
   ]
  },
  "team2": {
   "id": 8297,
   "score": 0,
   "players": [
-   15631,
-   13915,
-   12553,
    24144,
-   2023
+   12553,
+   2023,
+   15631,
+   13915
   ]
  },
  "maps": [
@@ -67,11 +67,7 @@
   {
    "map": "de_nuke",
    "pick": null,
-   "score": [
-    null,
-    null
-   ],
-   "halves": null
+   "score": null
   }
  ],
  "stats": {
@@ -180,108 +176,6 @@
    ],
    "t": [
     {
-     "player": 11816,
-     "nick": "ropz",
-     "kills": 23,
-     "deaths": 12,
-     "swing": 3.21,
-     "adr": 95.8,
-     "kast": 83.3,
-     "rating": 1.56
-    },
-    {
-     "player": 11893,
-     "nick": "ZywOo",
-     "kills": 24,
-     "deaths": 10,
-     "swing": 5.55,
-     "adr": 84.8,
-     "kast": 87.5,
-     "rating": 1.44
-    },
-    {
-     "player": 16693,
-     "nick": "flameZ",
-     "kills": 17,
-     "deaths": 11,
-     "swing": 2.68,
-     "adr": 65.6,
-     "kast": 79.2,
-     "rating": 1.15
-    },
-    {
-     "player": 7322,
-     "nick": "apEX",
-     "kills": 14,
-     "deaths": 14,
-     "swing": 2.52,
-     "adr": 85.8,
-     "kast": 75.0,
-     "rating": 1.13
-    },
-    {
-     "player": 18462,
-     "nick": "mezii",
-     "kills": 17,
-     "deaths": 14,
-     "swing": 0.56,
-     "adr": 83.0,
-     "kast": 79.2,
-     "rating": 1.04
-    },
-    {
-     "player": 12553,
-     "nick": "yuurih",
-     "kills": 8,
-     "deaths": 11,
-     "swing": -2.65,
-     "adr": 81.7,
-     "kast": 66.7,
-     "rating": 0.81
-    },
-    {
-     "player": 13915,
-     "nick": "YEKINDAR",
-     "kills": 12,
-     "deaths": 13,
-     "swing": -3.99,
-     "adr": 80.6,
-     "kast": 60.0,
-     "rating": 0.8
-    },
-    {
-     "player": 15631,
-     "nick": "KSCERATO",
-     "kills": 6,
-     "deaths": 10,
-     "swing": -0.49,
-     "adr": 59.5,
-     "kast": 73.3,
-     "rating": 0.78
-    },
-    {
-     "player": 2023,
-     "nick": "FalleN",
-     "kills": 8,
-     "deaths": 9,
-     "swing": -3.97,
-     "adr": 55.3,
-     "kast": 53.3,
-     "rating": 0.7
-    },
-    {
-     "player": 24144,
-     "nick": "molodoy",
-     "kills": 8,
-     "deaths": 7,
-     "swing": -4.87,
-     "adr": 49.7,
-     "kast": 73.3,
-     "rating": 0.66
-    }
-   ],
-   "ct": [
-    {
      "player": 11893,
      "nick": "ZywOo",
      "kills": 18,
@@ -380,6 +274,108 @@
      "adr": 38.0,
      "kast": 50.0,
      "rating": 0.63
+    }
+   ],
+   "ct": [
+    {
+     "player": 11816,
+     "nick": "ropz",
+     "kills": 23,
+     "deaths": 12,
+     "swing": 3.21,
+     "adr": 95.8,
+     "kast": 83.3,
+     "rating": 1.56
+    },
+    {
+     "player": 11893,
+     "nick": "ZywOo",
+     "kills": 24,
+     "deaths": 10,
+     "swing": 5.55,
+     "adr": 84.8,
+     "kast": 87.5,
+     "rating": 1.44
+    },
+    {
+     "player": 16693,
+     "nick": "flameZ",
+     "kills": 17,
+     "deaths": 11,
+     "swing": 2.68,
+     "adr": 65.6,
+     "kast": 79.2,
+     "rating": 1.15
+    },
+    {
+     "player": 7322,
+     "nick": "apEX",
+     "kills": 14,
+     "deaths": 14,
+     "swing": 2.52,
+     "adr": 85.8,
+     "kast": 75.0,
+     "rating": 1.13
+    },
+    {
+     "player": 18462,
+     "nick": "mezii",
+     "kills": 17,
+     "deaths": 14,
+     "swing": 0.56,
+     "adr": 83.0,
+     "kast": 79.2,
+     "rating": 1.04
+    },
+    {
+     "player": 12553,
+     "nick": "yuurih",
+     "kills": 8,
+     "deaths": 11,
+     "swing": -2.65,
+     "adr": 81.7,
+     "kast": 66.7,
+     "rating": 0.81
+    },
+    {
+     "player": 13915,
+     "nick": "YEKINDAR",
+     "kills": 12,
+     "deaths": 13,
+     "swing": -3.99,
+     "adr": 80.6,
+     "kast": 60.0,
+     "rating": 0.8
+    },
+    {
+     "player": 15631,
+     "nick": "KSCERATO",
+     "kills": 6,
+     "deaths": 10,
+     "swing": -0.49,
+     "adr": 59.5,
+     "kast": 73.3,
+     "rating": 0.78
+    },
+    {
+     "player": 2023,
+     "nick": "FalleN",
+     "kills": 8,
+     "deaths": 9,
+     "swing": -3.97,
+     "adr": 55.3,
+     "kast": 53.3,
+     "rating": 0.7
+    },
+    {
+     "player": 24144,
+     "nick": "molodoy",
+     "kills": 8,
+     "deaths": 7,
+     "swing": -4.87,
+     "adr": 49.7,
+     "kast": 73.3,
+     "rating": 0.66
     }
    ]
   },
@@ -488,108 +484,6 @@
    ],
    "t": [
     {
-     "player": 11816,
-     "nick": "ropz",
-     "kills": 15,
-     "deaths": 6,
-     "swing": 4.99,
-     "adr": 113.0,
-     "kast": 75.0,
-     "rating": 1.87
-    },
-    {
-     "player": 11893,
-     "nick": "ZywOo",
-     "kills": 11,
-     "deaths": 3,
-     "swing": 10.37,
-     "adr": 76.3,
-     "kast": 100.0,
-     "rating": 1.7
-    },
-    {
-     "player": 16693,
-     "nick": "flameZ",
-     "kills": 8,
-     "deaths": 6,
-     "swing": 2.11,
-     "adr": 68.1,
-     "kast": 83.3,
-     "rating": 1.08
-    },
-    {
-     "player": 7322,
-     "nick": "apEX",
-     "kills": 5,
-     "deaths": 7,
-     "swing": -1.52,
-     "adr": 77.3,
-     "kast": 75.0,
-     "rating": 0.77
-    },
-    {
-     "player": 18462,
-     "nick": "mezii",
-     "kills": 7,
-     "deaths": 7,
-     "swing": -4.88,
-     "adr": 66.8,
-     "kast": 83.3,
-     "rating": 0.74
-    },
-    {
-     "player": 13915,
-     "nick": "YEKINDAR",
-     "kills": 7,
-     "deaths": 5,
-     "swing": 2.28,
-     "adr": 99.8,
-     "kast": 66.7,
-     "rating": 1.49
-    },
-    {
-     "player": 12553,
-     "nick": "yuurih",
-     "kills": 4,
-     "deaths": 4,
-     "swing": 1.46,
-     "adr": 99.7,
-     "kast": 83.3,
-     "rating": 1.21
-    },
-    {
-     "player": 24144,
-     "nick": "molodoy",
-     "kills": 3,
-     "deaths": 4,
-     "swing": -15.6,
-     "adr": 53.0,
-     "kast": 50.0,
-     "rating": 0.36
-    },
-    {
-     "player": 15631,
-     "nick": "KSCERATO",
-     "kills": 1,
-     "deaths": 5,
-     "swing": -6.68,
-     "adr": 38.5,
-     "kast": 83.3,
-     "rating": 0.36
-    },
-    {
-     "player": 2023,
-     "nick": "FalleN",
-     "kills": 1,
-     "deaths": 5,
-     "swing": -9.14,
-     "adr": 18.7,
-     "kast": 16.7,
-     "rating": 0.3
-    }
-   ],
-   "ct": [
-    {
      "player": 11893,
      "nick": "ZywOo",
      "kills": 9,
@@ -688,6 +582,108 @@
      "adr": 14.5,
      "kast": 41.7,
      "rating": 0.38
+    }
+   ],
+   "ct": [
+    {
+     "player": 11816,
+     "nick": "ropz",
+     "kills": 15,
+     "deaths": 6,
+     "swing": 4.99,
+     "adr": 113.0,
+     "kast": 75.0,
+     "rating": 1.87
+    },
+    {
+     "player": 11893,
+     "nick": "ZywOo",
+     "kills": 11,
+     "deaths": 3,
+     "swing": 10.37,
+     "adr": 76.3,
+     "kast": 100.0,
+     "rating": 1.7
+    },
+    {
+     "player": 16693,
+     "nick": "flameZ",
+     "kills": 8,
+     "deaths": 6,
+     "swing": 2.11,
+     "adr": 68.1,
+     "kast": 83.3,
+     "rating": 1.08
+    },
+    {
+     "player": 7322,
+     "nick": "apEX",
+     "kills": 5,
+     "deaths": 7,
+     "swing": -1.52,
+     "adr": 77.3,
+     "kast": 75.0,
+     "rating": 0.77
+    },
+    {
+     "player": 18462,
+     "nick": "mezii",
+     "kills": 7,
+     "deaths": 7,
+     "swing": -4.88,
+     "adr": 66.8,
+     "kast": 83.3,
+     "rating": 0.74
+    },
+    {
+     "player": 13915,
+     "nick": "YEKINDAR",
+     "kills": 7,
+     "deaths": 5,
+     "swing": 2.28,
+     "adr": 99.8,
+     "kast": 66.7,
+     "rating": 1.49
+    },
+    {
+     "player": 12553,
+     "nick": "yuurih",
+     "kills": 4,
+     "deaths": 4,
+     "swing": 1.46,
+     "adr": 99.7,
+     "kast": 83.3,
+     "rating": 1.21
+    },
+    {
+     "player": 24144,
+     "nick": "molodoy",
+     "kills": 3,
+     "deaths": 4,
+     "swing": -15.6,
+     "adr": 53.0,
+     "kast": 50.0,
+     "rating": 0.36
+    },
+    {
+     "player": 15631,
+     "nick": "KSCERATO",
+     "kills": 1,
+     "deaths": 5,
+     "swing": -6.68,
+     "adr": 38.5,
+     "kast": 83.3,
+     "rating": 0.36
+    },
+    {
+     "player": 2023,
+     "nick": "FalleN",
+     "kills": 1,
+     "deaths": 5,
+     "swing": -9.14,
+     "adr": 18.7,
+     "kast": 16.7,
+     "rating": 0.3
     }
    ]
   },
@@ -796,108 +792,6 @@
    ],
    "t": [
     {
-     "player": 7322,
-     "nick": "apEX",
-     "kills": 9,
-     "deaths": 7,
-     "swing": 6.57,
-     "adr": 94.2,
-     "kast": 75.0,
-     "rating": 1.52
-    },
-    {
-     "player": 18462,
-     "nick": "mezii",
-     "kills": 10,
-     "deaths": 7,
-     "swing": 5.99,
-     "adr": 99.2,
-     "kast": 75.0,
-     "rating": 1.42
-    },
-    {
-     "player": 11816,
-     "nick": "ropz",
-     "kills": 8,
-     "deaths": 6,
-     "swing": 1.44,
-     "adr": 78.5,
-     "kast": 91.7,
-     "rating": 1.25
-    },
-    {
-     "player": 11893,
-     "nick": "ZywOo",
-     "kills": 13,
-     "deaths": 7,
-     "swing": 0.73,
-     "adr": 93.2,
-     "kast": 75.0,
-     "rating": 1.22
-    },
-    {
-     "player": 16693,
-     "nick": "flameZ",
-     "kills": 9,
-     "deaths": 5,
-     "swing": 3.24,
-     "adr": 63.1,
-     "kast": 75.0,
-     "rating": 1.21
-    },
-    {
-     "player": 15631,
-     "nick": "KSCERATO",
-     "kills": 5,
-     "deaths": 5,
-     "swing": 3.64,
-     "adr": 73.6,
-     "kast": 66.7,
-     "rating": 1.12
-    },
-    {
-     "player": 2023,
-     "nick": "FalleN",
-     "kills": 7,
-     "deaths": 4,
-     "swing": -0.53,
-     "adr": 79.8,
-     "kast": 77.8,
-     "rating": 1.04
-    },
-    {
-     "player": 24144,
-     "nick": "molodoy",
-     "kills": 5,
-     "deaths": 3,
-     "swing": 2.28,
-     "adr": 47.6,
-     "kast": 88.9,
-     "rating": 0.98
-    },
-    {
-     "player": 12553,
-     "nick": "yuurih",
-     "kills": 4,
-     "deaths": 7,
-     "swing": -5.39,
-     "adr": 69.7,
-     "kast": 55.6,
-     "rating": 0.59
-    },
-    {
-     "player": 13915,
-     "nick": "YEKINDAR",
-     "kills": 5,
-     "deaths": 8,
-     "swing": -8.16,
-     "adr": 67.8,
-     "kast": 55.6,
-     "rating": 0.47
-    }
-   ],
-   "ct": [
-    {
      "player": 11893,
      "nick": "ZywOo",
      "kills": 9,
@@ -997,6 +891,108 @@
      "kast": 58.3,
      "rating": 0.38
     }
+   ],
+   "ct": [
+    {
+     "player": 7322,
+     "nick": "apEX",
+     "kills": 9,
+     "deaths": 7,
+     "swing": 6.57,
+     "adr": 94.2,
+     "kast": 75.0,
+     "rating": 1.52
+    },
+    {
+     "player": 18462,
+     "nick": "mezii",
+     "kills": 10,
+     "deaths": 7,
+     "swing": 5.99,
+     "adr": 99.2,
+     "kast": 75.0,
+     "rating": 1.42
+    },
+    {
+     "player": 11816,
+     "nick": "ropz",
+     "kills": 8,
+     "deaths": 6,
+     "swing": 1.44,
+     "adr": 78.5,
+     "kast": 91.7,
+     "rating": 1.25
+    },
+    {
+     "player": 11893,
+     "nick": "ZywOo",
+     "kills": 13,
+     "deaths": 7,
+     "swing": 0.73,
+     "adr": 93.2,
+     "kast": 75.0,
+     "rating": 1.22
+    },
+    {
+     "player": 16693,
+     "nick": "flameZ",
+     "kills": 9,
+     "deaths": 5,
+     "swing": 3.24,
+     "adr": 63.1,
+     "kast": 75.0,
+     "rating": 1.21
+    },
+    {
+     "player": 15631,
+     "nick": "KSCERATO",
+     "kills": 5,
+     "deaths": 5,
+     "swing": 3.64,
+     "adr": 73.6,
+     "kast": 66.7,
+     "rating": 1.12
+    },
+    {
+     "player": 2023,
+     "nick": "FalleN",
+     "kills": 7,
+     "deaths": 4,
+     "swing": -0.53,
+     "adr": 79.8,
+     "kast": 77.8,
+     "rating": 1.04
+    },
+    {
+     "player": 24144,
+     "nick": "molodoy",
+     "kills": 5,
+     "deaths": 3,
+     "swing": 2.28,
+     "adr": 47.6,
+     "kast": 88.9,
+     "rating": 0.98
+    },
+    {
+     "player": 12553,
+     "nick": "yuurih",
+     "kills": 4,
+     "deaths": 7,
+     "swing": -5.39,
+     "adr": 69.7,
+     "kast": 55.6,
+     "rating": 0.59
+    },
+    {
+     "player": 13915,
+     "nick": "YEKINDAR",
+     "kills": 5,
+     "deaths": 8,
+     "swing": -8.16,
+     "adr": 67.8,
+     "kast": 55.6,
+     "rating": 0.47
+    }
    ]
   }
  },
@@ -1012,16 +1008,15 @@
   "adr": 102.8,
   "rating": 1.94
  },
- "highlight": null,
  "h2h": {
   "team1Wins": 17,
-  "team2Wins": 8,
   "overtimes": 2,
+  "team2Wins": 8,
   "maps": [
    {
-    "date": "2026-09-19",
+    "date": "2026-09-18",
     "matchId": 2398102,
-    "eventId": null,
+    "eventId": 8057,
     "event": "StarLadder StarSeries Fall 2026",
     "map": "de_dust2",
     "score": [
@@ -1031,9 +1026,9 @@
     "winner": 9565
    },
    {
-    "date": "2026-09-19",
+    "date": "2026-09-18",
     "matchId": 2398102,
-    "eventId": null,
+    "eventId": 8057,
     "event": "StarLadder StarSeries Fall 2026",
     "map": "de_mirage",
     "score": [
@@ -1043,9 +1038,9 @@
     "winner": 9565
    },
    {
-    "date": "2026-09-05",
+    "date": "2026-09-04",
     "matchId": 2396948,
-    "eventId": null,
+    "eventId": 8249,
     "event": "BLAST Open Porto 2026",
     "map": "de_dust2",
     "score": [
@@ -1055,9 +1050,9 @@
     "winner": 9565
    },
    {
-    "date": "2026-09-05",
+    "date": "2026-09-04",
     "matchId": 2396948,
-    "eventId": null,
+    "eventId": 8249,
     "event": "BLAST Open Porto 2026",
     "map": "de_cache",
     "score": [
@@ -1067,9 +1062,9 @@
     "winner": 9565
    },
    {
-    "date": "2026-09-05",
+    "date": "2026-09-04",
     "matchId": 2396948,
-    "eventId": null,
+    "eventId": 8249,
     "event": "BLAST Open Porto 2026",
     "map": "de_nuke",
     "score": [
@@ -1079,9 +1074,9 @@
     "winner": 8297
    },
    {
-    "date": "2026-04-19",
+    "date": "2026-04-18",
     "matchId": 2393243,
-    "eventId": null,
+    "eventId": 8242,
     "event": "IEM Rio 2026",
     "map": "de_ancient",
     "score": [
@@ -1091,9 +1086,9 @@
     "winner": 9565
    },
    {
-    "date": "2026-04-19",
+    "date": "2026-04-18",
     "matchId": 2393243,
-    "eventId": null,
+    "eventId": 8242,
     "event": "IEM Rio 2026",
     "map": "de_overpass",
     "score": [
@@ -1103,9 +1098,9 @@
     "winner": 9565
    },
    {
-    "date": "2026-02-09",
+    "date": "2026-02-08",
     "matchId": 2389666,
-    "eventId": null,
+    "eventId": 8240,
     "event": "IEM Kraków 2026",
     "map": "de_overpass",
     "score": [
@@ -1115,9 +1110,9 @@
     "winner": 9565
    },
    {
-    "date": "2026-02-09",
+    "date": "2026-02-08",
     "matchId": 2389666,
-    "eventId": null,
+    "eventId": 8240,
     "event": "IEM Kraków 2026",
     "map": "de_nuke",
     "score": [
@@ -1127,9 +1122,9 @@
     "winner": 9565
    },
    {
-    "date": "2026-02-09",
+    "date": "2026-02-08",
     "matchId": 2389666,
-    "eventId": null,
+    "eventId": 8240,
     "event": "IEM Kraków 2026",
     "map": "de_inferno",
     "score": [
@@ -1139,9 +1134,9 @@
     "winner": 9565
    },
    {
-    "date": "2026-02-09",
+    "date": "2026-02-08",
     "matchId": 2389666,
-    "eventId": null,
+    "eventId": 8240,
     "event": "IEM Kraków 2026",
     "map": "de_mirage",
     "score": [
@@ -1153,7 +1148,7 @@
    {
     "date": "2025-11-13",
     "matchId": 2387545,
-    "eventId": null,
+    "eventId": 7908,
     "event": "BLAST Rivals 2025 Season 2",
     "map": "de_inferno",
     "score": [
@@ -1165,7 +1160,7 @@
    {
     "date": "2025-11-13",
     "matchId": 2387545,
-    "eventId": null,
+    "eventId": 7908,
     "event": "BLAST Rivals 2025 Season 2",
     "map": "de_overpass",
     "score": [
@@ -1177,7 +1172,7 @@
    {
     "date": "2025-11-13",
     "matchId": 2387545,
-    "eventId": null,
+    "eventId": 7908,
     "event": "BLAST Rivals 2025 Season 2",
     "map": "de_nuke",
     "score": [
@@ -1189,7 +1184,7 @@
    {
     "date": "2025-11-09",
     "matchId": 2387414,
-    "eventId": null,
+    "eventId": 8041,
     "event": "IEM Chengdu 2025",
     "map": "de_overpass",
     "score": [
@@ -1201,7 +1196,7 @@
    {
     "date": "2025-11-09",
     "matchId": 2387414,
-    "eventId": null,
+    "eventId": 8041,
     "event": "IEM Chengdu 2025",
     "map": "de_inferno",
     "score": [
@@ -1213,7 +1208,7 @@
    {
     "date": "2025-11-09",
     "matchId": 2387414,
-    "eventId": null,
+    "eventId": 8041,
     "event": "IEM Chengdu 2025",
     "map": "de_ancient",
     "score": [
@@ -1223,9 +1218,9 @@
     "winner": 8297
    },
    {
-    "date": "2025-10-11",
+    "date": "2025-10-10",
     "matchId": 2385966,
-    "eventId": null,
+    "eventId": 8040,
     "event": "ESL Pro League Season 22",
     "map": "de_nuke",
     "score": [
@@ -1235,9 +1230,9 @@
     "winner": 9565
    },
    {
-    "date": "2025-10-11",
+    "date": "2025-10-10",
     "matchId": 2385966,
-    "eventId": null,
+    "eventId": 8040,
     "event": "ESL Pro League Season 22",
     "map": "de_inferno",
     "score": [
@@ -1247,9 +1242,9 @@
     "winner": 9565
    },
    {
-    "date": "2025-10-11",
+    "date": "2025-10-10",
     "matchId": 2385966,
-    "eventId": null,
+    "eventId": 8040,
     "event": "ESL Pro League Season 22",
     "map": "de_overpass",
     "score": [
@@ -1257,7 +1252,68 @@
      13
     ],
     "winner": 8297
+   },
+   {
+    "date": "2024-12-05",
+    "matchId": 2377705,
+    "eventId": 7524,
+    "event": "Perfect World Shanghai Major 2024",
+    "map": "de_mirage",
+    "score": [
+     16,
+     13
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2024-09-12",
+    "matchId": 2375394,
+    "eventId": 7441,
+    "event": "ESL Pro League Season 20",
+    "map": "de_dust2",
+    "score": [
+     13,
+     3
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2024-09-12",
+    "matchId": 2375394,
+    "eventId": 7441,
+    "event": "ESL Pro League Season 20",
+    "map": "de_vertigo",
+    "score": [
+     13,
+     7
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2024-08-11",
+    "matchId": 2374305,
+    "eventId": 7436,
+    "event": "IEM Cologne 2024",
+    "map": "de_mirage",
+    "score": [
+     13,
+     2
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2024-08-11",
+    "matchId": 2374305,
+    "eventId": 7436,
+    "event": "IEM Cologne 2024",
+    "map": "de_inferno",
+    "score": [
+     13,
+     3
+    ],
+    "winner": 9565
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/111667"
 }

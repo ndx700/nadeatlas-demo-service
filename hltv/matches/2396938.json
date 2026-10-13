@@ -1,30 +1,30 @@
 {
  "id": 2396938,
  "eventId": 8249,
- "stage": "Group B",
- "time": "2026-08-30T00:45:00+08:00",
+ "stage": "Group B Upper Bracket Semi-final",
+ "time": "2026-08-29T16:45:00Z",
  "bo": 3,
  "status": "finished",
  "team1": {
   "id": 12468,
   "score": 1,
   "players": [
-   19045,
-   15698,
    19686,
-   19869,
-   12521
+   15698,
+   12521,
+   19045,
+   19869
   ]
  },
  "team2": {
   "id": 11283,
   "score": 2,
   "players": [
-   19230,
-   24177,
+   429,
    3741,
+   19230,
    12018,
-   429
+   24177
   ]
  },
  "maps": [
@@ -1317,17 +1317,27 @@
    ]
   }
  },
- "mvp": 19230,
- "highlight": null,
+ "mvp": {
+  "player": 19230,
+  "nick": "m0NESY",
+  "maps": 3,
+  "kpr": 0.92,
+  "dpr": 0.48,
+  "kast": 73.8,
+  "mkRating": 1.28,
+  "swing": 6.79,
+  "adr": 89.2,
+  "rating": 1.59
+ },
  "h2h": {
   "team1Wins": 5,
-  "team2Wins": 5,
   "overtimes": 1,
+  "team2Wins": 5,
   "maps": [
    {
     "date": "2026-08-21",
     "matchId": 2396609,
-    "eventId": null,
+    "eventId": 8261,
     "event": "Esports World Cup 2026",
     "map": "de_dust2",
     "score": [
@@ -1339,7 +1349,7 @@
    {
     "date": "2026-08-21",
     "matchId": 2396609,
-    "eventId": null,
+    "eventId": 8261,
     "event": "Esports World Cup 2026",
     "map": "de_mirage",
     "score": [
@@ -1351,7 +1361,7 @@
    {
     "date": "2026-05-24",
     "matchId": 2394228,
-    "eventId": null,
+    "eventId": 8263,
     "event": "CS Asia Championships 2026",
     "map": "de_dust2",
     "score": [
@@ -1363,7 +1373,7 @@
    {
     "date": "2026-05-24",
     "matchId": 2394228,
-    "eventId": null,
+    "eventId": 8263,
     "event": "CS Asia Championships 2026",
     "map": "de_mirage",
     "score": [
@@ -1375,7 +1385,7 @@
    {
     "date": "2026-05-24",
     "matchId": 2394228,
-    "eventId": null,
+    "eventId": 8263,
     "event": "CS Asia Championships 2026",
     "map": "de_ancient",
     "score": [
@@ -1387,7 +1397,7 @@
    {
     "date": "2026-05-24",
     "matchId": 2394228,
-    "eventId": null,
+    "eventId": 8263,
     "event": "CS Asia Championships 2026",
     "map": "de_nuke",
     "score": [
@@ -1399,7 +1409,7 @@
    {
     "date": "2026-05-22",
     "matchId": 2394219,
-    "eventId": null,
+    "eventId": 8263,
     "event": "CS Asia Championships 2026",
     "map": "de_ancient",
     "score": [
@@ -1411,7 +1421,7 @@
    {
     "date": "2026-05-22",
     "matchId": 2394219,
-    "eventId": null,
+    "eventId": 8263,
     "event": "CS Asia Championships 2026",
     "map": "de_dust2",
     "score": [
@@ -1423,7 +1433,7 @@
    {
     "date": "2025-09-14",
     "matchId": 2385300,
-    "eventId": null,
+    "eventId": 8064,
     "event": "FISSURE Playground 2",
     "map": "de_ancient",
     "score": [
@@ -1435,7 +1445,7 @@
    {
     "date": "2025-09-14",
     "matchId": 2385300,
-    "eventId": null,
+    "eventId": 8064,
     "event": "FISSURE Playground 2",
     "map": "de_inferno",
     "score": [
@@ -1445,5 +1455,6 @@
     "winner": 11283
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/110733"
 }

@@ -191,108 +191,6 @@
     {
      "player": 15370,
      "nick": "slaxz-",
-     "kills": 32,
-     "deaths": 12,
-     "swing": 6.98,
-     "adr": 96.4,
-     "kast": 87.5,
-     "rating": 1.63
-    },
-    {
-     "player": 16599,
-     "nick": "Swisher",
-     "kills": 30,
-     "deaths": 13,
-     "swing": 5.86,
-     "adr": 85.0,
-     "kast": 81.2,
-     "rating": 1.51
-    },
-    {
-     "player": 22921,
-     "nick": "Lake",
-     "kills": 29,
-     "deaths": 21,
-     "swing": 0.48,
-     "adr": 106.8,
-     "kast": 90.6,
-     "rating": 1.32
-    },
-    {
-     "player": 21665,
-     "nick": "JBa",
-     "kills": 24,
-     "deaths": 17,
-     "swing": 2.49,
-     "adr": 79.3,
-     "kast": 81.2,
-     "rating": 1.25
-    },
-    {
-     "player": 20104,
-     "nick": "s1n",
-     "kills": 21,
-     "deaths": 17,
-     "swing": -4.0,
-     "adr": 74.9,
-     "kast": 81.2,
-     "rating": 0.92
-    },
-    {
-     "player": 21621,
-     "nick": "Moseyuh",
-     "kills": 27,
-     "deaths": 18,
-     "swing": 3.81,
-     "adr": 96.0,
-     "kast": 87.5,
-     "rating": 1.4
-    },
-    {
-     "player": 20702,
-     "nick": "Jee",
-     "kills": 31,
-     "deaths": 21,
-     "swing": 2.12,
-     "adr": 102.5,
-     "kast": 84.4,
-     "rating": 1.3
-    },
-    {
-     "player": 19645,
-     "nick": "JamYoung",
-     "kills": 22,
-     "deaths": 17,
-     "swing": 2.59,
-     "adr": 76.4,
-     "kast": 78.1,
-     "rating": 1.2
-    },
-    {
-     "player": 24857,
-     "nick": "Zero",
-     "kills": 21,
-     "deaths": 19,
-     "swing": -1.32,
-     "adr": 66.4,
-     "kast": 71.9,
-     "rating": 0.83
-    },
-    {
-     "player": 20895,
-     "nick": "Mercury",
-     "kills": 16,
-     "deaths": 18,
-     "swing": -5.62,
-     "adr": 45.1,
-     "kast": 65.6,
-     "rating": 0.63
-    }
-   ],
-   "ct": [
-    {
-     "player": 15370,
-     "nick": "slaxz-",
      "kills": 28,
      "deaths": 21,
      "swing": 3.83,
@@ -389,6 +287,108 @@
      "adr": 56.9,
      "kast": 56.2,
      "rating": 0.68
+    }
+   ],
+   "ct": [
+    {
+     "player": 15370,
+     "nick": "slaxz-",
+     "kills": 32,
+     "deaths": 12,
+     "swing": 6.98,
+     "adr": 96.4,
+     "kast": 87.5,
+     "rating": 1.63
+    },
+    {
+     "player": 16599,
+     "nick": "Swisher",
+     "kills": 30,
+     "deaths": 13,
+     "swing": 5.86,
+     "adr": 85.0,
+     "kast": 81.2,
+     "rating": 1.51
+    },
+    {
+     "player": 22921,
+     "nick": "Lake",
+     "kills": 29,
+     "deaths": 21,
+     "swing": 0.48,
+     "adr": 106.8,
+     "kast": 90.6,
+     "rating": 1.32
+    },
+    {
+     "player": 21665,
+     "nick": "JBa",
+     "kills": 24,
+     "deaths": 17,
+     "swing": 2.49,
+     "adr": 79.3,
+     "kast": 81.2,
+     "rating": 1.25
+    },
+    {
+     "player": 20104,
+     "nick": "s1n",
+     "kills": 21,
+     "deaths": 17,
+     "swing": -4.0,
+     "adr": 74.9,
+     "kast": 81.2,
+     "rating": 0.92
+    },
+    {
+     "player": 21621,
+     "nick": "Moseyuh",
+     "kills": 27,
+     "deaths": 18,
+     "swing": 3.81,
+     "adr": 96.0,
+     "kast": 87.5,
+     "rating": 1.4
+    },
+    {
+     "player": 20702,
+     "nick": "Jee",
+     "kills": 31,
+     "deaths": 21,
+     "swing": 2.12,
+     "adr": 102.5,
+     "kast": 84.4,
+     "rating": 1.3
+    },
+    {
+     "player": 19645,
+     "nick": "JamYoung",
+     "kills": 22,
+     "deaths": 17,
+     "swing": 2.59,
+     "adr": 76.4,
+     "kast": 78.1,
+     "rating": 1.2
+    },
+    {
+     "player": 24857,
+     "nick": "Zero",
+     "kills": 21,
+     "deaths": 19,
+     "swing": -1.32,
+     "adr": 66.4,
+     "kast": 71.9,
+     "rating": 0.83
+    },
+    {
+     "player": 20895,
+     "nick": "Mercury",
+     "kills": 16,
+     "deaths": 18,
+     "swing": -5.62,
+     "adr": 45.1,
+     "kast": 65.6,
+     "rating": 0.63
     }
    ]
   },
@@ -497,108 +497,6 @@
    ],
    "t": [
     {
-     "player": 16599,
-     "nick": "Swisher",
-     "kills": 14,
-     "deaths": 6,
-     "swing": 6.9,
-     "adr": 104.2,
-     "kast": 75.0,
-     "rating": 1.66
-    },
-    {
-     "player": 22921,
-     "nick": "Lake",
-     "kills": 14,
-     "deaths": 7,
-     "swing": 1.84,
-     "adr": 124.5,
-     "kast": 91.7,
-     "rating": 1.61
-    },
-    {
-     "player": 15370,
-     "nick": "slaxz-",
-     "kills": 11,
-     "deaths": 5,
-     "swing": 3.9,
-     "adr": 94.9,
-     "kast": 83.3,
-     "rating": 1.45
-    },
-    {
-     "player": 20104,
-     "nick": "s1n",
-     "kills": 6,
-     "deaths": 5,
-     "swing": -3.44,
-     "adr": 62.6,
-     "kast": 83.3,
-     "rating": 0.74
-    },
-    {
-     "player": 21665,
-     "nick": "JBa",
-     "kills": 3,
-     "deaths": 8,
-     "swing": -10.04,
-     "adr": 41.8,
-     "kast": 66.7,
-     "rating": 0.39
-    },
-    {
-     "player": 24857,
-     "nick": "Zero",
-     "kills": 12,
-     "deaths": 6,
-     "swing": 8.23,
-     "adr": 108.4,
-     "kast": 81.8,
-     "rating": 1.59
-    },
-    {
-     "player": 20895,
-     "nick": "Mercury",
-     "kills": 11,
-     "deaths": 4,
-     "swing": 1.77,
-     "adr": 89.5,
-     "kast": 90.9,
-     "rating": 1.31
-    },
-    {
-     "player": 21621,
-     "nick": "Moseyuh",
-     "kills": 9,
-     "deaths": 6,
-     "swing": 2.88,
-     "adr": 92.2,
-     "kast": 90.9,
-     "rating": 1.3
-    },
-    {
-     "player": 19645,
-     "nick": "JamYoung",
-     "kills": 5,
-     "deaths": 3,
-     "swing": 3.67,
-     "adr": 40.5,
-     "kast": 81.8,
-     "rating": 1.08
-    },
-    {
-     "player": 20702,
-     "nick": "Jee",
-     "kills": 8,
-     "deaths": 5,
-     "swing": 0.0,
-     "adr": 79.8,
-     "kast": 90.9,
-     "rating": 1.06
-    }
-   ],
-   "ct": [
-    {
      "player": 15370,
      "nick": "slaxz-",
      "kills": 12,
@@ -697,6 +595,108 @@
      "adr": 38.2,
      "kast": 33.3,
      "rating": 0.72
+    }
+   ],
+   "ct": [
+    {
+     "player": 16599,
+     "nick": "Swisher",
+     "kills": 14,
+     "deaths": 6,
+     "swing": 6.9,
+     "adr": 104.2,
+     "kast": 75.0,
+     "rating": 1.66
+    },
+    {
+     "player": 22921,
+     "nick": "Lake",
+     "kills": 14,
+     "deaths": 7,
+     "swing": 1.84,
+     "adr": 124.5,
+     "kast": 91.7,
+     "rating": 1.61
+    },
+    {
+     "player": 15370,
+     "nick": "slaxz-",
+     "kills": 11,
+     "deaths": 5,
+     "swing": 3.9,
+     "adr": 94.9,
+     "kast": 83.3,
+     "rating": 1.45
+    },
+    {
+     "player": 20104,
+     "nick": "s1n",
+     "kills": 6,
+     "deaths": 5,
+     "swing": -3.44,
+     "adr": 62.6,
+     "kast": 83.3,
+     "rating": 0.74
+    },
+    {
+     "player": 21665,
+     "nick": "JBa",
+     "kills": 3,
+     "deaths": 8,
+     "swing": -10.04,
+     "adr": 41.8,
+     "kast": 66.7,
+     "rating": 0.39
+    },
+    {
+     "player": 24857,
+     "nick": "Zero",
+     "kills": 12,
+     "deaths": 6,
+     "swing": 8.23,
+     "adr": 108.4,
+     "kast": 81.8,
+     "rating": 1.59
+    },
+    {
+     "player": 20895,
+     "nick": "Mercury",
+     "kills": 11,
+     "deaths": 4,
+     "swing": 1.77,
+     "adr": 89.5,
+     "kast": 90.9,
+     "rating": 1.31
+    },
+    {
+     "player": 21621,
+     "nick": "Moseyuh",
+     "kills": 9,
+     "deaths": 6,
+     "swing": 2.88,
+     "adr": 92.2,
+     "kast": 90.9,
+     "rating": 1.3
+    },
+    {
+     "player": 19645,
+     "nick": "JamYoung",
+     "kills": 5,
+     "deaths": 3,
+     "swing": 3.67,
+     "adr": 40.5,
+     "kast": 81.8,
+     "rating": 1.08
+    },
+    {
+     "player": 20702,
+     "nick": "Jee",
+     "kills": 8,
+     "deaths": 5,
+     "swing": 0.0,
+     "adr": 79.8,
+     "kast": 90.9,
+     "rating": 1.06
     }
    ]
   },
@@ -805,108 +805,6 @@
    ],
    "t": [
     {
-     "player": 21665,
-     "nick": "JBa",
-     "kills": 11,
-     "deaths": 1,
-     "swing": 11.87,
-     "adr": 119.8,
-     "kast": 87.5,
-     "rating": 2.4
-    },
-    {
-     "player": 15370,
-     "nick": "slaxz-",
-     "kills": 9,
-     "deaths": 2,
-     "swing": 10.22,
-     "adr": 110.8,
-     "kast": 87.5,
-     "rating": 1.94
-    },
-    {
-     "player": 16599,
-     "nick": "Swisher",
-     "kills": 6,
-     "deaths": 4,
-     "swing": 4.05,
-     "adr": 78.1,
-     "kast": 87.5,
-     "rating": 1.36
-    },
-    {
-     "player": 20104,
-     "nick": "s1n",
-     "kills": 5,
-     "deaths": 5,
-     "swing": -6.61,
-     "adr": 63.5,
-     "kast": 87.5,
-     "rating": 0.81
-    },
-    {
-     "player": 22921,
-     "nick": "Lake",
-     "kills": 3,
-     "deaths": 6,
-     "swing": -2.3,
-     "adr": 73.2,
-     "kast": 87.5,
-     "rating": 0.77
-    },
-    {
-     "player": 21621,
-     "nick": "Moseyuh",
-     "kills": 10,
-     "deaths": 5,
-     "swing": 6.64,
-     "adr": 97.4,
-     "kast": 75.0,
-     "rating": 1.54
-    },
-    {
-     "player": 19645,
-     "nick": "JamYoung",
-     "kills": 8,
-     "deaths": 6,
-     "swing": 2.87,
-     "adr": 84.2,
-     "kast": 66.7,
-     "rating": 1.22
-    },
-    {
-     "player": 20702,
-     "nick": "Jee",
-     "kills": 9,
-     "deaths": 10,
-     "swing": -1.57,
-     "adr": 77.4,
-     "kast": 66.7,
-     "rating": 0.79
-    },
-    {
-     "player": 24857,
-     "nick": "Zero",
-     "kills": 5,
-     "deaths": 8,
-     "swing": -8.68,
-     "adr": 59.3,
-     "kast": 66.7,
-     "rating": 0.48
-    },
-    {
-     "player": 20895,
-     "nick": "Mercury",
-     "kills": 4,
-     "deaths": 8,
-     "swing": -12.67,
-     "adr": 18.4,
-     "kast": 50.0,
-     "rating": 0.33
-    }
-   ],
-   "ct": [
-    {
      "player": 15370,
      "nick": "slaxz-",
      "kills": 12,
@@ -1005,6 +903,108 @@
      "adr": 32.4,
      "kast": 25.0,
      "rating": 0.15
+    }
+   ],
+   "ct": [
+    {
+     "player": 21665,
+     "nick": "JBa",
+     "kills": 11,
+     "deaths": 1,
+     "swing": 11.87,
+     "adr": 119.8,
+     "kast": 87.5,
+     "rating": 2.4
+    },
+    {
+     "player": 15370,
+     "nick": "slaxz-",
+     "kills": 9,
+     "deaths": 2,
+     "swing": 10.22,
+     "adr": 110.8,
+     "kast": 87.5,
+     "rating": 1.94
+    },
+    {
+     "player": 16599,
+     "nick": "Swisher",
+     "kills": 6,
+     "deaths": 4,
+     "swing": 4.05,
+     "adr": 78.1,
+     "kast": 87.5,
+     "rating": 1.36
+    },
+    {
+     "player": 20104,
+     "nick": "s1n",
+     "kills": 5,
+     "deaths": 5,
+     "swing": -6.61,
+     "adr": 63.5,
+     "kast": 87.5,
+     "rating": 0.81
+    },
+    {
+     "player": 22921,
+     "nick": "Lake",
+     "kills": 3,
+     "deaths": 6,
+     "swing": -2.3,
+     "adr": 73.2,
+     "kast": 87.5,
+     "rating": 0.77
+    },
+    {
+     "player": 21621,
+     "nick": "Moseyuh",
+     "kills": 10,
+     "deaths": 5,
+     "swing": 6.64,
+     "adr": 97.4,
+     "kast": 75.0,
+     "rating": 1.54
+    },
+    {
+     "player": 19645,
+     "nick": "JamYoung",
+     "kills": 8,
+     "deaths": 6,
+     "swing": 2.87,
+     "adr": 84.2,
+     "kast": 66.7,
+     "rating": 1.22
+    },
+    {
+     "player": 20702,
+     "nick": "Jee",
+     "kills": 9,
+     "deaths": 10,
+     "swing": -1.57,
+     "adr": 77.4,
+     "kast": 66.7,
+     "rating": 0.79
+    },
+    {
+     "player": 24857,
+     "nick": "Zero",
+     "kills": 5,
+     "deaths": 8,
+     "swing": -8.68,
+     "adr": 59.3,
+     "kast": 66.7,
+     "rating": 0.48
+    },
+    {
+     "player": 20895,
+     "nick": "Mercury",
+     "kills": 4,
+     "deaths": 8,
+     "swing": -12.67,
+     "adr": 18.4,
+     "kast": 50.0,
+     "rating": 0.33
     }
    ]
   },
@@ -1113,108 +1113,6 @@
    ],
    "t": [
     {
-     "player": 21665,
-     "nick": "JBa",
-     "kills": 10,
-     "deaths": 8,
-     "swing": 8.77,
-     "adr": 89.8,
-     "kast": 91.7,
-     "rating": 1.72
-    },
-    {
-     "player": 15370,
-     "nick": "slaxz-",
-     "kills": 12,
-     "deaths": 5,
-     "swing": 7.9,
-     "adr": 88.3,
-     "kast": 91.7,
-     "rating": 1.61
-    },
-    {
-     "player": 16599,
-     "nick": "Swisher",
-     "kills": 10,
-     "deaths": 3,
-     "swing": 6.03,
-     "adr": 70.4,
-     "kast": 83.3,
-     "rating": 1.47
-    },
-    {
-     "player": 22921,
-     "nick": "Lake",
-     "kills": 12,
-     "deaths": 8,
-     "swing": 0.98,
-     "adr": 111.5,
-     "kast": 91.7,
-     "rating": 1.42
-    },
-    {
-     "player": 20104,
-     "nick": "s1n",
-     "kills": 10,
-     "deaths": 7,
-     "swing": -2.83,
-     "adr": 94.9,
-     "kast": 75.0,
-     "rating": 1.22
-    },
-    {
-     "player": 20702,
-     "nick": "Jee",
-     "kills": 14,
-     "deaths": 6,
-     "swing": 9.63,
-     "adr": 163.6,
-     "kast": 100.0,
-     "rating": 2.51
-    },
-    {
-     "player": 19645,
-     "nick": "JamYoung",
-     "kills": 9,
-     "deaths": 8,
-     "swing": 0.91,
-     "adr": 110.0,
-     "kast": 88.9,
-     "rating": 1.39
-    },
-    {
-     "player": 21621,
-     "nick": "Moseyuh",
-     "kills": 8,
-     "deaths": 7,
-     "swing": 1.2,
-     "adr": 98.9,
-     "kast": 100.0,
-     "rating": 1.38
-    },
-    {
-     "player": 24857,
-     "nick": "Zero",
-     "kills": 4,
-     "deaths": 5,
-     "swing": -3.18,
-     "adr": 24.7,
-     "kast": 66.7,
-     "rating": 0.66
-    },
-    {
-     "player": 20895,
-     "nick": "Mercury",
-     "kills": 1,
-     "deaths": 6,
-     "swing": -5.27,
-     "adr": 26.4,
-     "kast": 55.6,
-     "rating": 0.47
-    }
-   ],
-   "ct": [
-    {
      "player": 22921,
      "nick": "Lake",
      "kills": 9,
@@ -1314,6 +1212,108 @@
      "kast": 41.7,
      "rating": 0.43
     }
+   ],
+   "ct": [
+    {
+     "player": 21665,
+     "nick": "JBa",
+     "kills": 10,
+     "deaths": 8,
+     "swing": 8.77,
+     "adr": 89.8,
+     "kast": 91.7,
+     "rating": 1.72
+    },
+    {
+     "player": 15370,
+     "nick": "slaxz-",
+     "kills": 12,
+     "deaths": 5,
+     "swing": 7.9,
+     "adr": 88.3,
+     "kast": 91.7,
+     "rating": 1.61
+    },
+    {
+     "player": 16599,
+     "nick": "Swisher",
+     "kills": 10,
+     "deaths": 3,
+     "swing": 6.03,
+     "adr": 70.4,
+     "kast": 83.3,
+     "rating": 1.47
+    },
+    {
+     "player": 22921,
+     "nick": "Lake",
+     "kills": 12,
+     "deaths": 8,
+     "swing": 0.98,
+     "adr": 111.5,
+     "kast": 91.7,
+     "rating": 1.42
+    },
+    {
+     "player": 20104,
+     "nick": "s1n",
+     "kills": 10,
+     "deaths": 7,
+     "swing": -2.83,
+     "adr": 94.9,
+     "kast": 75.0,
+     "rating": 1.22
+    },
+    {
+     "player": 20702,
+     "nick": "Jee",
+     "kills": 14,
+     "deaths": 6,
+     "swing": 9.63,
+     "adr": 163.6,
+     "kast": 100.0,
+     "rating": 2.51
+    },
+    {
+     "player": 19645,
+     "nick": "JamYoung",
+     "kills": 9,
+     "deaths": 8,
+     "swing": 0.91,
+     "adr": 110.0,
+     "kast": 88.9,
+     "rating": 1.39
+    },
+    {
+     "player": 21621,
+     "nick": "Moseyuh",
+     "kills": 8,
+     "deaths": 7,
+     "swing": 1.2,
+     "adr": 98.9,
+     "kast": 100.0,
+     "rating": 1.38
+    },
+    {
+     "player": 24857,
+     "nick": "Zero",
+     "kills": 4,
+     "deaths": 5,
+     "swing": -3.18,
+     "adr": 24.7,
+     "kast": 66.7,
+     "rating": 0.66
+    },
+    {
+     "player": 20895,
+     "nick": "Mercury",
+     "kills": 1,
+     "deaths": 6,
+     "swing": -5.27,
+     "adr": 26.4,
+     "kast": 55.6,
+     "rating": 0.47
+    }
    ]
   }
  },
@@ -1328,5 +1328,37 @@
   "swing": 5.41,
   "adr": 93.7,
   "rating": 1.57
- }
+ },
+ "h2h": {
+  "team1Wins": 1,
+  "overtimes": 0,
+  "team2Wins": 1,
+  "maps": [
+   {
+    "date": "2025-11-30",
+    "matchId": 2388075,
+    "eventId": 8505,
+    "event": "StarLadder Budapest Major 2025 Stage 2",
+    "map": "de_train",
+    "score": [
+     13,
+     10
+    ],
+    "winner": 12376
+   },
+   {
+    "date": "2025-06-07",
+    "matchId": 2382431,
+    "eventId": 8437,
+    "event": "BLAST.tv Austin Major 2025 Stage 2",
+    "map": "de_train",
+    "score": [
+     9,
+     13
+    ],
+    "winner": 4863
+   }
+  ]
+ },
+ "demo": "https://www.hltv.org/download/demo/112418"
 }

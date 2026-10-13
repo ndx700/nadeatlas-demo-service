@@ -1,30 +1,30 @@
 {
  "id": 2397623,
  "eventId": 8266,
- "stage": "Grand final",
- "time": "2026-09-13T17:10:00+08:00",
+ "stage": "Grand Final",
+ "time": "2026-09-13T09:10:00Z",
  "bo": 5,
  "status": "finished",
  "team1": {
   "id": 12468,
   "score": 3,
   "players": [
-   19045,
    19686,
-   19869,
    15698,
-   12521
+   12521,
+   19045,
+   19869
   ]
  },
  "team2": {
   "id": 5995,
   "score": 0,
   "players": [
-   9436,
-   20447,
+   20425,
    21062,
    3972,
-   20425
+   9436,
+   20447
   ]
  },
  "maps": [
@@ -85,20 +85,12 @@
   {
    "map": "de_inferno",
    "pick": 5995,
-   "score": [
-    null,
-    null
-   ],
-   "halves": null
+   "score": null
   },
   {
    "map": "de_cache",
    "pick": null,
-   "score": [
-    null,
-    null
-   ],
-   "halves": null
+   "score": null
   }
  ],
  "stats": {
@@ -1335,17 +1327,27 @@
    ]
   }
  },
- "mvp": 19045,
- "highlight": null,
+ "mvp": {
+  "player": 19045,
+  "nick": "latto",
+  "maps": 3,
+  "kpr": 1.11,
+  "dpr": 0.55,
+  "kast": 80.6,
+  "mkRating": 1.46,
+  "swing": 5.38,
+  "adr": 102.9,
+  "rating": 1.71
+ },
  "h2h": {
   "team1Wins": 2,
-  "team2Wins": 4,
   "overtimes": 1,
+  "team2Wins": 4,
   "maps": [
    {
-    "date": "2026-06-15",
+    "date": "2026-06-14",
     "matchId": 2394992,
-    "eventId": null,
+    "eventId": 8301,
     "event": "IEM Cologne Major 2026",
     "map": "de_overpass",
     "score": [
@@ -1355,9 +1357,9 @@
     "winner": 5995
    },
    {
-    "date": "2026-06-15",
+    "date": "2026-06-14",
     "matchId": 2394992,
-    "eventId": null,
+    "eventId": 8301,
     "event": "IEM Cologne Major 2026",
     "map": "de_dust2",
     "score": [
@@ -1367,9 +1369,9 @@
     "winner": 5995
    },
    {
-    "date": "2026-03-03",
+    "date": "2026-03-02",
     "matchId": 2391025,
-    "eventId": null,
+    "eventId": 8241,
     "event": "ESL Pro League Season 23 Stage 1",
     "map": "de_dust2",
     "score": [
@@ -1379,9 +1381,9 @@
     "winner": 12468
    },
    {
-    "date": "2026-03-03",
+    "date": "2026-03-02",
     "matchId": 2391025,
-    "eventId": null,
+    "eventId": 8241,
     "event": "ESL Pro League Season 23 Stage 1",
     "map": "de_inferno",
     "score": [
@@ -1391,9 +1393,9 @@
     "winner": 12468
    },
    {
-    "date": "2025-09-16",
+    "date": "2025-09-15",
     "matchId": 2385309,
-    "eventId": null,
+    "eventId": 8064,
     "event": "FISSURE Playground 2",
     "map": "de_ancient",
     "score": [
@@ -1403,9 +1405,9 @@
     "winner": 5995
    },
    {
-    "date": "2025-09-16",
+    "date": "2025-09-15",
     "matchId": 2385309,
-    "eventId": null,
+    "eventId": 8064,
     "event": "FISSURE Playground 2",
     "map": "de_train",
     "score": [
@@ -1415,5 +1417,6 @@
     "winner": 5995
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/111394"
 }

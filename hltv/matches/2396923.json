@@ -1,7 +1,7 @@
 {
  "id": 2396923,
  "eventId": 8249,
- "stage": "Group A",
+ "stage": "Group A Upper Bracket Quarter-final",
  "time": "2026-08-26T09:00:00Z",
  "bo": 3,
  "status": "finished",
@@ -9,11 +9,11 @@
   "id": 11861,
   "score": 0,
   "players": [
-   19677,
-   18850,
-   7938,
    8574,
-   21243
+   7938,
+   21243,
+   18850,
+   19677
   ]
  },
  "team2": {
@@ -21,10 +21,10 @@
   "score": 2,
   "players": [
    20425,
-   9436,
-   20447,
+   21062,
    3972,
-   21062
+   9436,
+   20447
   ]
  },
  "maps": [
@@ -61,21 +61,13 @@
     [
      6,
      6
-    ],
-    [
-     0,
-     4
     ]
    ]
   },
   {
    "map": "de_mirage",
    "pick": null,
-   "score": [
-    null,
-    null
-   ],
-   "halves": null
+   "score": null
   }
  ],
  "stats": {
@@ -186,108 +178,6 @@
     {
      "player": 19677,
      "nick": "kyxsan",
-     "kills": 17,
-     "deaths": 16,
-     "swing": 4.34,
-     "adr": 78.6,
-     "kast": 60.0,
-     "rating": 1.2
-    },
-    {
-     "player": 7938,
-     "nick": "XANTARES",
-     "kills": 19,
-     "deaths": 15,
-     "swing": -1.2,
-     "adr": 88.2,
-     "kast": 72.0,
-     "rating": 1.07
-    },
-    {
-     "player": 8574,
-     "nick": "woxic",
-     "kills": 22,
-     "deaths": 18,
-     "swing": -0.16,
-     "adr": 88.6,
-     "kast": 64.0,
-     "rating": 0.99
-    },
-    {
-     "player": 18850,
-     "nick": "Jimpphat",
-     "kills": 17,
-     "deaths": 20,
-     "swing": -1.29,
-     "adr": 69.0,
-     "kast": 72.0,
-     "rating": 0.98
-    },
-    {
-     "player": 21243,
-     "nick": "Wicadia",
-     "kills": 13,
-     "deaths": 19,
-     "swing": -5.37,
-     "adr": 63.8,
-     "kast": 64.0,
-     "rating": 0.69
-    },
-    {
-     "player": 20425,
-     "nick": "r1nkle",
-     "kills": 28,
-     "deaths": 7,
-     "swing": 11.69,
-     "adr": 141.1,
-     "kast": 90.5,
-     "rating": 2.33
-    },
-    {
-     "player": 20447,
-     "nick": "HeavyGod",
-     "kills": 20,
-     "deaths": 10,
-     "swing": 5.22,
-     "adr": 90.7,
-     "kast": 95.2,
-     "rating": 1.6
-    },
-    {
-     "player": 3972,
-     "nick": "huNter-",
-     "kills": 19,
-     "deaths": 8,
-     "swing": 6.18,
-     "adr": 81.4,
-     "kast": 85.7,
-     "rating": 1.57
-    },
-    {
-     "player": 9436,
-     "nick": "NertZ",
-     "kills": 17,
-     "deaths": 11,
-     "swing": -0.59,
-     "adr": 79.2,
-     "kast": 81.0,
-     "rating": 1.15
-    },
-    {
-     "player": 21062,
-     "nick": "MATYS",
-     "kills": 10,
-     "deaths": 12,
-     "swing": -3.8,
-     "adr": 58.8,
-     "kast": 76.2,
-     "rating": 0.78
-    }
-   ],
-   "ct": [
-    {
-     "player": 19677,
-     "nick": "kyxsan",
      "kills": 13,
      "deaths": 20,
      "swing": 0.35,
@@ -384,6 +274,108 @@
      "adr": 55.9,
      "kast": 68.0,
      "rating": 0.87
+    }
+   ],
+   "ct": [
+    {
+     "player": 19677,
+     "nick": "kyxsan",
+     "kills": 17,
+     "deaths": 16,
+     "swing": 4.34,
+     "adr": 78.6,
+     "kast": 60.0,
+     "rating": 1.2
+    },
+    {
+     "player": 7938,
+     "nick": "XANTARES",
+     "kills": 19,
+     "deaths": 15,
+     "swing": -1.2,
+     "adr": 88.2,
+     "kast": 72.0,
+     "rating": 1.07
+    },
+    {
+     "player": 8574,
+     "nick": "woxic",
+     "kills": 22,
+     "deaths": 18,
+     "swing": -0.16,
+     "adr": 88.6,
+     "kast": 64.0,
+     "rating": 0.99
+    },
+    {
+     "player": 18850,
+     "nick": "Jimpphat",
+     "kills": 17,
+     "deaths": 20,
+     "swing": -1.29,
+     "adr": 69.0,
+     "kast": 72.0,
+     "rating": 0.98
+    },
+    {
+     "player": 21243,
+     "nick": "Wicadia",
+     "kills": 13,
+     "deaths": 19,
+     "swing": -5.37,
+     "adr": 63.8,
+     "kast": 64.0,
+     "rating": 0.69
+    },
+    {
+     "player": 20425,
+     "nick": "r1nkle",
+     "kills": 28,
+     "deaths": 7,
+     "swing": 11.69,
+     "adr": 141.1,
+     "kast": 90.5,
+     "rating": 2.33
+    },
+    {
+     "player": 20447,
+     "nick": "HeavyGod",
+     "kills": 20,
+     "deaths": 10,
+     "swing": 5.22,
+     "adr": 90.7,
+     "kast": 95.2,
+     "rating": 1.6
+    },
+    {
+     "player": 3972,
+     "nick": "huNter-",
+     "kills": 19,
+     "deaths": 8,
+     "swing": 6.18,
+     "adr": 81.4,
+     "kast": 85.7,
+     "rating": 1.57
+    },
+    {
+     "player": 9436,
+     "nick": "NertZ",
+     "kills": 17,
+     "deaths": 11,
+     "swing": -0.59,
+     "adr": 79.2,
+     "kast": 81.0,
+     "rating": 1.15
+    },
+    {
+     "player": 21062,
+     "nick": "MATYS",
+     "kills": 10,
+     "deaths": 12,
+     "swing": -3.8,
+     "adr": 58.8,
+     "kast": 76.2,
+     "rating": 0.78
     }
    ]
   },
@@ -492,108 +484,6 @@
    ],
    "t": [
     {
-     "player": 19677,
-     "nick": "kyxsan",
-     "kills": 8,
-     "deaths": 7,
-     "swing": 8.92,
-     "adr": 66.9,
-     "kast": 58.3,
-     "rating": 1.38
-    },
-    {
-     "player": 7938,
-     "nick": "XANTARES",
-     "kills": 10,
-     "deaths": 6,
-     "swing": -1.1,
-     "adr": 98.1,
-     "kast": 75.0,
-     "rating": 1.16
-    },
-    {
-     "player": 18850,
-     "nick": "Jimpphat",
-     "kills": 7,
-     "deaths": 11,
-     "swing": -5.83,
-     "adr": 60.4,
-     "kast": 75.0,
-     "rating": 0.84
-    },
-    {
-     "player": 21243,
-     "nick": "Wicadia",
-     "kills": 8,
-     "deaths": 10,
-     "swing": -4.49,
-     "adr": 76.3,
-     "kast": 50.0,
-     "rating": 0.74
-    },
-    {
-     "player": 8574,
-     "nick": "woxic",
-     "kills": 9,
-     "deaths": 10,
-     "swing": -2.97,
-     "adr": 85.6,
-     "kast": 58.3,
-     "rating": 0.7
-    },
-    {
-     "player": 20447,
-     "nick": "HeavyGod",
-     "kills": 8,
-     "deaths": 2,
-     "swing": 17.96,
-     "adr": 138.3,
-     "kast": 100.0,
-     "rating": 2.62
-    },
-    {
-     "player": 9436,
-     "nick": "NertZ",
-     "kills": 9,
-     "deaths": 1,
-     "swing": 11.28,
-     "adr": 123.5,
-     "kast": 100.0,
-     "rating": 2.3
-    },
-    {
-     "player": 3972,
-     "nick": "huNter-",
-     "kills": 7,
-     "deaths": 1,
-     "swing": 6.45,
-     "adr": 83.2,
-     "kast": 100.0,
-     "rating": 1.83
-    },
-    {
-     "player": 20425,
-     "nick": "r1nkle",
-     "kills": 5,
-     "deaths": 3,
-     "swing": 3.96,
-     "adr": 91.5,
-     "kast": 66.7,
-     "rating": 1.13
-    },
-    {
-     "player": 21062,
-     "nick": "MATYS",
-     "kills": 1,
-     "deaths": 2,
-     "swing": -0.11,
-     "adr": 56.7,
-     "kast": 100.0,
-     "rating": 0.92
-    }
-   ],
-   "ct": [
-    {
      "player": 8574,
      "nick": "woxic",
      "kills": 3,
@@ -692,6 +582,108 @@
      "adr": 49.5,
      "kast": 66.7,
      "rating": 0.6
+    }
+   ],
+   "ct": [
+    {
+     "player": 19677,
+     "nick": "kyxsan",
+     "kills": 8,
+     "deaths": 7,
+     "swing": 8.92,
+     "adr": 66.9,
+     "kast": 58.3,
+     "rating": 1.38
+    },
+    {
+     "player": 7938,
+     "nick": "XANTARES",
+     "kills": 10,
+     "deaths": 6,
+     "swing": -1.1,
+     "adr": 98.1,
+     "kast": 75.0,
+     "rating": 1.16
+    },
+    {
+     "player": 18850,
+     "nick": "Jimpphat",
+     "kills": 7,
+     "deaths": 11,
+     "swing": -5.83,
+     "adr": 60.4,
+     "kast": 75.0,
+     "rating": 0.84
+    },
+    {
+     "player": 21243,
+     "nick": "Wicadia",
+     "kills": 8,
+     "deaths": 10,
+     "swing": -4.49,
+     "adr": 76.3,
+     "kast": 50.0,
+     "rating": 0.74
+    },
+    {
+     "player": 8574,
+     "nick": "woxic",
+     "kills": 9,
+     "deaths": 10,
+     "swing": -2.97,
+     "adr": 85.6,
+     "kast": 58.3,
+     "rating": 0.7
+    },
+    {
+     "player": 20447,
+     "nick": "HeavyGod",
+     "kills": 8,
+     "deaths": 2,
+     "swing": 17.96,
+     "adr": 138.3,
+     "kast": 100.0,
+     "rating": 2.62
+    },
+    {
+     "player": 9436,
+     "nick": "NertZ",
+     "kills": 9,
+     "deaths": 1,
+     "swing": 11.28,
+     "adr": 123.5,
+     "kast": 100.0,
+     "rating": 2.3
+    },
+    {
+     "player": 3972,
+     "nick": "huNter-",
+     "kills": 7,
+     "deaths": 1,
+     "swing": 6.45,
+     "adr": 83.2,
+     "kast": 100.0,
+     "rating": 1.83
+    },
+    {
+     "player": 20425,
+     "nick": "r1nkle",
+     "kills": 5,
+     "deaths": 3,
+     "swing": 3.96,
+     "adr": 91.5,
+     "kast": 66.7,
+     "rating": 1.13
+    },
+    {
+     "player": 21062,
+     "nick": "MATYS",
+     "kills": 1,
+     "deaths": 2,
+     "swing": -0.11,
+     "adr": 56.7,
+     "kast": 100.0,
+     "rating": 0.92
     }
    ]
   },
@@ -800,108 +792,6 @@
    ],
    "t": [
     {
-     "player": 8574,
-     "nick": "woxic",
-     "kills": 13,
-     "deaths": 8,
-     "swing": 2.43,
-     "adr": 91.4,
-     "kast": 69.2,
-     "rating": 1.27
-    },
-    {
-     "player": 18850,
-     "nick": "Jimpphat",
-     "kills": 10,
-     "deaths": 9,
-     "swing": 2.9,
-     "adr": 76.9,
-     "kast": 69.2,
-     "rating": 1.15
-    },
-    {
-     "player": 19677,
-     "nick": "kyxsan",
-     "kills": 9,
-     "deaths": 9,
-     "swing": 0.11,
-     "adr": 89.4,
-     "kast": 61.5,
-     "rating": 1.08
-    },
-    {
-     "player": 7938,
-     "nick": "XANTARES",
-     "kills": 9,
-     "deaths": 9,
-     "swing": -1.3,
-     "adr": 79.2,
-     "kast": 69.2,
-     "rating": 1.0
-    },
-    {
-     "player": 21243,
-     "nick": "Wicadia",
-     "kills": 5,
-     "deaths": 9,
-     "swing": -6.18,
-     "adr": 52.2,
-     "kast": 76.9,
-     "rating": 0.67
-    },
-    {
-     "player": 20425,
-     "nick": "r1nkle",
-     "kills": 23,
-     "deaths": 4,
-     "swing": 14.79,
-     "adr": 161.0,
-     "kast": 100.0,
-     "rating": 2.85
-    },
-    {
-     "player": 3972,
-     "nick": "huNter-",
-     "kills": 12,
-     "deaths": 7,
-     "swing": 6.08,
-     "adr": 80.7,
-     "kast": 80.0,
-     "rating": 1.47
-    },
-    {
-     "player": 20447,
-     "nick": "HeavyGod",
-     "kills": 12,
-     "deaths": 8,
-     "swing": 0.12,
-     "adr": 71.6,
-     "kast": 93.3,
-     "rating": 1.24
-    },
-    {
-     "player": 9436,
-     "nick": "NertZ",
-     "kills": 8,
-     "deaths": 10,
-     "swing": -5.33,
-     "adr": 61.5,
-     "kast": 73.3,
-     "rating": 0.79
-    },
-    {
-     "player": 21062,
-     "nick": "MATYS",
-     "kills": 9,
-     "deaths": 10,
-     "swing": -5.27,
-     "adr": 59.6,
-     "kast": 66.7,
-     "rating": 0.75
-    }
-   ],
-   "ct": [
-    {
      "player": 19677,
      "nick": "kyxsan",
      "kills": 13,
@@ -1001,6 +891,108 @@
      "kast": 69.2,
      "rating": 0.97
     }
+   ],
+   "ct": [
+    {
+     "player": 8574,
+     "nick": "woxic",
+     "kills": 13,
+     "deaths": 8,
+     "swing": 2.43,
+     "adr": 91.4,
+     "kast": 69.2,
+     "rating": 1.27
+    },
+    {
+     "player": 18850,
+     "nick": "Jimpphat",
+     "kills": 10,
+     "deaths": 9,
+     "swing": 2.9,
+     "adr": 76.9,
+     "kast": 69.2,
+     "rating": 1.15
+    },
+    {
+     "player": 19677,
+     "nick": "kyxsan",
+     "kills": 9,
+     "deaths": 9,
+     "swing": 0.11,
+     "adr": 89.4,
+     "kast": 61.5,
+     "rating": 1.08
+    },
+    {
+     "player": 7938,
+     "nick": "XANTARES",
+     "kills": 9,
+     "deaths": 9,
+     "swing": -1.3,
+     "adr": 79.2,
+     "kast": 69.2,
+     "rating": 1.0
+    },
+    {
+     "player": 21243,
+     "nick": "Wicadia",
+     "kills": 5,
+     "deaths": 9,
+     "swing": -6.18,
+     "adr": 52.2,
+     "kast": 76.9,
+     "rating": 0.67
+    },
+    {
+     "player": 20425,
+     "nick": "r1nkle",
+     "kills": 23,
+     "deaths": 4,
+     "swing": 14.79,
+     "adr": 161.0,
+     "kast": 100.0,
+     "rating": 2.85
+    },
+    {
+     "player": 3972,
+     "nick": "huNter-",
+     "kills": 12,
+     "deaths": 7,
+     "swing": 6.08,
+     "adr": 80.7,
+     "kast": 80.0,
+     "rating": 1.47
+    },
+    {
+     "player": 20447,
+     "nick": "HeavyGod",
+     "kills": 12,
+     "deaths": 8,
+     "swing": 0.12,
+     "adr": 71.6,
+     "kast": 93.3,
+     "rating": 1.24
+    },
+    {
+     "player": 9436,
+     "nick": "NertZ",
+     "kills": 8,
+     "deaths": 10,
+     "swing": -5.33,
+     "adr": 61.5,
+     "kast": 73.3,
+     "rating": 0.79
+    },
+    {
+     "player": 21062,
+     "nick": "MATYS",
+     "kills": 9,
+     "deaths": 10,
+     "swing": -5.27,
+     "adr": 59.6,
+     "kast": 66.7,
+     "rating": 0.75
+    }
    ]
   }
  },
@@ -1016,16 +1008,15 @@
   "adr": 106.9,
   "rating": 1.64
  },
- "highlight": null,
  "h2h": {
   "team1Wins": 4,
-  "team2Wins": 0,
   "overtimes": 0,
+  "team2Wins": 0,
   "maps": [
    {
     "date": "2026-06-13",
     "matchId": 2394981,
-    "eventId": null,
+    "eventId": 8301,
     "event": "IEM Cologne Major 2026",
     "map": "de_anubis",
     "score": [
@@ -1037,7 +1028,7 @@
    {
     "date": "2026-06-13",
     "matchId": 2394981,
-    "eventId": null,
+    "eventId": 8301,
     "event": "IEM Cologne Major 2026",
     "map": "de_overpass",
     "score": [
@@ -1047,9 +1038,9 @@
     "winner": 11861
    },
    {
-    "date": "2026-03-10",
+    "date": "2026-03-09",
     "matchId": 2391129,
-    "eventId": null,
+    "eventId": 8412,
     "event": "ESL Pro League Season 23 Stage 2",
     "map": "de_anubis",
     "score": [
@@ -1059,9 +1050,9 @@
     "winner": 11861
    },
    {
-    "date": "2026-03-10",
+    "date": "2026-03-09",
     "matchId": 2391129,
-    "eventId": null,
+    "eventId": 8412,
     "event": "ESL Pro League Season 23 Stage 2",
     "map": "de_mirage",
     "score": [
@@ -1071,5 +1062,6 @@
     "winner": 11861
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/110581"
 }

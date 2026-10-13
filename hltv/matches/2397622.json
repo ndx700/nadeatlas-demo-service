@@ -1,8 +1,8 @@
 {
  "id": 2397622,
  "eventId": 8266,
- "stage": "Semi-finals",
- "time": "2026-09-12T14:15:00+08:00",
+ "stage": "Semi-final",
+ "time": "2026-09-12T06:15:00Z",
  "bo": 3,
  "status": "finished",
  "team1": {
@@ -10,10 +10,10 @@
   "score": 2,
   "players": [
    19686,
-   19045,
    15698,
-   19869,
-   12521
+   12521,
+   19045,
+   19869
   ]
  },
  "team2": {
@@ -21,10 +21,10 @@
   "score": 1,
   "players": [
    22570,
-   19694,
    21037,
-   19310,
-   21288
+   19694,
+   21288,
+   19310
   ]
  },
  "maps": [
@@ -79,10 +79,6 @@
     [
      7,
      5
-    ],
-    [
-     4,
-     2
     ]
    ]
   }
@@ -1321,17 +1317,27 @@
    ]
   }
  },
- "mvp": 19686,
- "highlight": null,
+ "mvp": {
+  "player": 19686,
+  "nick": "n1ssim",
+  "maps": 3,
+  "kpr": 0.75,
+  "dpr": 0.62,
+  "kast": 76.6,
+  "mkRating": 1.31,
+  "swing": 2.55,
+  "adr": 91.2,
+  "rating": 1.33
+ },
  "h2h": {
   "team1Wins": 8,
-  "team2Wins": 5,
   "overtimes": 2,
+  "team2Wins": 5,
   "maps": [
    {
-    "date": "2026-08-17",
+    "date": "2026-08-16",
     "matchId": 2396593,
-    "eventId": null,
+    "eventId": 8261,
     "event": "Esports World Cup 2026",
     "map": "de_inferno",
     "score": [
@@ -1341,9 +1347,9 @@
     "winner": 12468
    },
    {
-    "date": "2026-08-17",
+    "date": "2026-08-16",
     "matchId": 2396593,
-    "eventId": null,
+    "eventId": 8261,
     "event": "Esports World Cup 2026",
     "map": "de_nuke",
     "score": [
@@ -1355,7 +1361,7 @@
    {
     "date": "2026-06-06",
     "matchId": 2394869,
-    "eventId": null,
+    "eventId": 9029,
     "event": "IEM Cologne Major 2026 Stage 2",
     "map": "de_nuke",
     "score": [
@@ -1367,7 +1373,7 @@
    {
     "date": "2026-05-23",
     "matchId": 2394226,
-    "eventId": null,
+    "eventId": 8263,
     "event": "CS Asia Championships 2026",
     "map": "de_inferno",
     "score": [
@@ -1379,7 +1385,7 @@
    {
     "date": "2026-05-23",
     "matchId": 2394226,
-    "eventId": null,
+    "eventId": 8263,
     "event": "CS Asia Championships 2026",
     "map": "de_mirage",
     "score": [
@@ -1391,7 +1397,7 @@
    {
     "date": "2026-04-06",
     "matchId": 2393020,
-    "eventId": null,
+    "eventId": 8048,
     "event": "PGL Bucharest 2026",
     "map": "de_nuke",
     "score": [
@@ -1403,7 +1409,7 @@
    {
     "date": "2026-04-06",
     "matchId": 2393020,
-    "eventId": null,
+    "eventId": 8048,
     "event": "PGL Bucharest 2026",
     "map": "de_mirage",
     "score": [
@@ -1415,7 +1421,7 @@
    {
     "date": "2026-04-06",
     "matchId": 2393020,
-    "eventId": null,
+    "eventId": 8048,
     "event": "PGL Bucharest 2026",
     "map": "de_inferno",
     "score": [
@@ -1427,7 +1433,7 @@
    {
     "date": "2026-01-18",
     "matchId": 2389384,
-    "eventId": null,
+    "eventId": 8931,
     "event": "BetBoom RUSH B Summit Season 1",
     "map": "de_nuke",
     "score": [
@@ -1439,7 +1445,7 @@
    {
     "date": "2026-01-18",
     "matchId": 2389384,
-    "eventId": null,
+    "eventId": 8931,
     "event": "BetBoom RUSH B Summit Season 1",
     "map": "de_inferno",
     "score": [
@@ -1451,7 +1457,7 @@
    {
     "date": "2026-01-18",
     "matchId": 2389384,
-    "eventId": null,
+    "eventId": 8931,
     "event": "BetBoom RUSH B Summit Season 1",
     "map": "de_ancient",
     "score": [
@@ -1463,7 +1469,7 @@
    {
     "date": "2026-01-16",
     "matchId": 2389379,
-    "eventId": null,
+    "eventId": 8931,
     "event": "BetBoom RUSH B Summit Season 1",
     "map": "de_inferno",
     "score": [
@@ -1475,7 +1481,7 @@
    {
     "date": "2026-01-16",
     "matchId": 2389379,
-    "eventId": null,
+    "eventId": 8931,
     "event": "BetBoom RUSH B Summit Season 1",
     "map": "de_mirage",
     "score": [
@@ -1485,5 +1491,6 @@
     "winner": 12468
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/111340"
 }

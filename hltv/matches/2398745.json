@@ -1,29 +1,29 @@
 {
  "id": 2398745,
  "eventId": 8244,
- "stage": null,
- "time": "2026-10-07T03:00:00+08:00",
+ "stage": "Swiss Round 4",
+ "time": "2026-10-06T19:00:00Z",
  "bo": 3,
  "status": "finished",
  "team1": {
   "id": 11283,
   "score": 2,
   "players": [
+   429,
    3741,
-   12018,
    19230,
-   24177,
-   429
+   12018,
+   24177
   ]
  },
  "team2": {
   "id": 4608,
   "score": 1,
   "players": [
-   18987,
-   22673,
-   20127,
    14759,
+   22673,
+   18987,
+   20127,
    9816
   ]
  },
@@ -61,10 +61,6 @@
     [
      4,
      8
-    ],
-    [
-     3,
-     7
     ]
    ]
   },
@@ -1321,17 +1317,27 @@
    ]
   }
  },
- "mvp": 3741,
- "highlight": null,
+ "mvp": {
+  "player": 3741,
+  "nick": "NiKo",
+  "maps": 3,
+  "kpr": 0.88,
+  "dpr": 0.65,
+  "kast": 77.0,
+  "mkRating": 1.19,
+  "swing": 3.31,
+  "adr": 96.0,
+  "rating": 1.37
+ },
  "h2h": {
   "team1Wins": 7,
-  "team2Wins": 4,
   "overtimes": 2,
+  "team2Wins": 4,
   "maps": [
    {
-    "date": "2026-06-15",
+    "date": "2026-06-14",
     "matchId": 2394991,
-    "eventId": null,
+    "eventId": 8301,
     "event": "IEM Cologne Major 2026",
     "map": "de_anubis",
     "score": [
@@ -1341,9 +1347,9 @@
     "winner": 11283
    },
    {
-    "date": "2026-06-15",
+    "date": "2026-06-14",
     "matchId": 2394991,
-    "eventId": null,
+    "eventId": 8301,
     "event": "IEM Cologne Major 2026",
     "map": "de_mirage",
     "score": [
@@ -1353,9 +1359,9 @@
     "winner": 4608
    },
    {
-    "date": "2026-06-15",
+    "date": "2026-06-14",
     "matchId": 2394991,
-    "eventId": null,
+    "eventId": 8301,
     "event": "IEM Cologne Major 2026",
     "map": "de_dust2",
     "score": [
@@ -1365,9 +1371,9 @@
     "winner": 11283
    },
    {
-    "date": "2026-03-21",
+    "date": "2026-03-20",
     "matchId": 2391757,
-    "eventId": null,
+    "eventId": 8248,
     "event": "BLAST Open Rotterdam 2026",
     "map": "de_dust2",
     "score": [
@@ -1377,9 +1383,9 @@
     "winner": 4608
    },
    {
-    "date": "2026-03-21",
+    "date": "2026-03-20",
     "matchId": 2391757,
-    "eventId": null,
+    "eventId": 8248,
     "event": "BLAST Open Rotterdam 2026",
     "map": "de_inferno",
     "score": [
@@ -1389,9 +1395,9 @@
     "winner": 4608
    },
    {
-    "date": "2026-03-21",
+    "date": "2026-03-20",
     "matchId": 2391757,
-    "eventId": null,
+    "eventId": 8248,
     "event": "BLAST Open Rotterdam 2026",
     "map": "de_mirage",
     "score": [
@@ -1403,7 +1409,7 @@
    {
     "date": "2025-10-05",
     "matchId": 2385938,
-    "eventId": null,
+    "eventId": 8040,
     "event": "ESL Pro League Season 22",
     "map": "de_ancient",
     "score": [
@@ -1415,7 +1421,7 @@
    {
     "date": "2025-10-05",
     "matchId": 2385938,
-    "eventId": null,
+    "eventId": 8040,
     "event": "ESL Pro League Season 22",
     "map": "de_nuke",
     "score": [
@@ -1427,7 +1433,7 @@
    {
     "date": "2025-04-22",
     "matchId": 2381760,
-    "eventId": null,
+    "eventId": 8036,
     "event": "IEM Melbourne 2025",
     "map": "de_dust2",
     "score": [
@@ -1439,7 +1445,7 @@
    {
     "date": "2025-04-22",
     "matchId": 2381760,
-    "eventId": null,
+    "eventId": 8036,
     "event": "IEM Melbourne 2025",
     "map": "de_mirage",
     "score": [
@@ -1451,7 +1457,7 @@
    {
     "date": "2025-04-22",
     "matchId": 2381760,
-    "eventId": null,
+    "eventId": 8036,
     "event": "IEM Melbourne 2025",
     "map": "de_inferno",
     "score": [
@@ -1461,5 +1467,6 @@
     "winner": 4608
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/112437"
 }

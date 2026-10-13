@@ -1,8 +1,8 @@
 {
  "id": 2397602,
  "eventId": 8266,
- "stage": "Group B",
- "time": "2026-09-08T19:50:00+08:00",
+ "stage": "Group B Upper Bracket Quarter-final",
+ "time": "2026-09-08T11:50:00Z",
  "bo": 3,
  "status": "finished",
  "team1": {
@@ -10,19 +10,19 @@
   "score": 2,
   "players": [
    24144,
-   13915,
    12553,
    2023,
-   15631
+   15631,
+   13915
   ]
  },
  "team2": {
   "id": 9928,
   "score": 1,
   "players": [
-   9278,
-   20301,
    20994,
+   20301,
+   9278,
    23766,
    18465
   ]
@@ -1317,17 +1317,27 @@
    ]
   }
  },
- "mvp": 24144,
- "highlight": null,
+ "mvp": {
+  "player": 24144,
+  "nick": "molodoy",
+  "maps": 3,
+  "kpr": 0.89,
+  "dpr": 0.52,
+  "kast": 81.0,
+  "mkRating": 1.31,
+  "swing": 5.24,
+  "adr": 87.4,
+  "rating": 1.51
+ },
  "h2h": {
   "team1Wins": 1,
-  "team2Wins": 2,
   "overtimes": 0,
+  "team2Wins": 2,
   "maps": [
    {
     "date": "2026-04-30",
     "matchId": 2393322,
-    "eventId": null,
+    "eventId": 8250,
     "event": "BLAST Rivals 2026 Season 1",
     "map": "de_mirage",
     "score": [
@@ -1339,7 +1349,7 @@
    {
     "date": "2026-04-30",
     "matchId": 2393322,
-    "eventId": null,
+    "eventId": 8250,
     "event": "BLAST Rivals 2026 Season 1",
     "map": "de_nuke",
     "score": [
@@ -1351,7 +1361,7 @@
    {
     "date": "2026-04-30",
     "matchId": 2393322,
-    "eventId": null,
+    "eventId": 8250,
     "event": "BLAST Rivals 2026 Season 1",
     "map": "de_inferno",
     "score": [
@@ -1361,5 +1371,6 @@
     "winner": 8297
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/111151"
 }

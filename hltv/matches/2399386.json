@@ -1,0 +1,148 @@
+{
+ "id": 2399386,
+ "eventId": 8932,
+ "stage": "Group B Opening Match",
+ "time": "2026-10-14T13:30:00Z",
+ "bo": 3,
+ "status": "upcoming",
+ "team1": {
+  "id": 12468,
+  "score": null,
+  "players": []
+ },
+ "team2": {
+  "id": 12467,
+  "score": null,
+  "players": []
+ },
+ "maps": [],
+ "stats": {},
+ "mvp": null,
+ "h2h": {
+  "team1Wins": 6,
+  "overtimes": 3,
+  "team2Wins": 4,
+  "maps": [
+   {
+    "date": "2026-10-03",
+    "matchId": 2398718,
+    "eventId": 8244,
+    "event": "ESL Pro League Season 24",
+    "map": "de_ancient",
+    "score": [
+     12,
+     16
+    ],
+    "winner": 12467
+   },
+   {
+    "date": "2026-10-03",
+    "matchId": 2398718,
+    "eventId": 8244,
+    "event": "ESL Pro League Season 24",
+    "map": "de_inferno",
+    "score": [
+     2,
+     13
+    ],
+    "winner": 12467
+   },
+   {
+    "date": "2026-10-03",
+    "matchId": 2398718,
+    "eventId": 8244,
+    "event": "ESL Pro League Season 24",
+    "map": "de_dust2",
+    "score": [
+     13,
+     5
+    ],
+    "winner": 12468
+   },
+   {
+    "date": "2026-06-13",
+    "matchId": 2394984,
+    "eventId": 8301,
+    "event": "IEM Cologne Major 2026",
+    "map": "de_dust2",
+    "score": [
+     16,
+     13
+    ],
+    "winner": 12468
+   },
+   {
+    "date": "2026-06-13",
+    "matchId": 2394984,
+    "eventId": 8301,
+    "event": "IEM Cologne Major 2026",
+    "map": "de_inferno",
+    "score": [
+     16,
+     12
+    ],
+    "winner": 12468
+   },
+   {
+    "date": "2026-04-04",
+    "matchId": 2393009,
+    "eventId": 8048,
+    "event": "PGL Bucharest 2026",
+    "map": "de_dust2",
+    "score": [
+     4,
+     13
+    ],
+    "winner": 12467
+   },
+   {
+    "date": "2026-04-04",
+    "matchId": 2393009,
+    "eventId": 8048,
+    "event": "PGL Bucharest 2026",
+    "map": "de_inferno",
+    "score": [
+     10,
+     13
+    ],
+    "winner": 12467
+   },
+   {
+    "date": "2026-04-04",
+    "matchId": 2393009,
+    "eventId": 8048,
+    "event": "PGL Bucharest 2026",
+    "map": "de_mirage",
+    "score": [
+     13,
+     10
+    ],
+    "winner": 12468
+   },
+   {
+    "date": "2026-03-03",
+    "matchId": 2391029,
+    "eventId": 8241,
+    "event": "ESL Pro League Season 23 Stage 1",
+    "map": "de_dust2",
+    "score": [
+     13,
+     10
+    ],
+    "winner": 12468
+   },
+   {
+    "date": "2026-03-03",
+    "matchId": 2391029,
+    "eventId": 8241,
+    "event": "ESL Pro League Season 23 Stage 1",
+    "map": "de_inferno",
+    "score": [
+     13,
+     11
+    ],
+    "winner": 12468
+   }
+  ]
+ }
+}

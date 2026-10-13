@@ -1,0 +1,104 @@
+{
+ "id": 8932,
+ "name": "Thunderpick World Championship 2026",
+ "start": "2026-10-14",
+ "end": "2026-10-18",
+ "status": "upcoming",
+ "location": "Malta",
+ "prize": "$1,000,000",
+ "teams": [
+  8297,
+  11283,
+  11861,
+  12468,
+  12467,
+  12394,
+  9996,
+  4411
+ ],
+ "matches": [
+  2399384,
+  2399385,
+  2399386,
+  2399387,
+  2399408,
+  2399409,
+  2399410,
+  2399411,
+  2399412,
+  2399413,
+  2399414,
+  2399415,
+  2399416,
+  2399417
+ ],
+ "playoffs": [],
+ "thirdPlace": [],
+ "groups": [
+  {
+   "name": "Group A",
+   "matches": [
+    {
+     "matchId": 2399385,
+     "time": "2026-10-14T11:00:00Z",
+     "bo": 3,
+     "team1": 11283,
+     "team2": 4411,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 2399384,
+     "time": "2026-10-14T08:30:00Z",
+     "bo": 3,
+     "team1": 9996,
+     "team2": 11861,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 0,
+     "time": null,
+     "bo": null,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 0,
+     "time": null,
+     "bo": null,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 0,
+     "time": null,
+     "bo": null,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,30 +1,30 @@
 {
  "id": 2398733,
  "eventId": 8244,
- "stage": null,
- "time": "2026-10-05T17:00:00+08:00",
+ "stage": "Swiss Round 3",
+ "time": "2026-10-05T09:00:00Z",
  "bo": 3,
  "status": "finished",
  "team1": {
   "id": 12467,
   "score": 1,
   "players": [
+   23685,
+   13776,
    22471,
    12732,
-   8528,
-   13776,
-   23685
+   8528
   ]
  },
  "team2": {
   "id": 8297,
   "score": 2,
   "players": [
-   13915,
-   15631,
+   24144,
    12553,
    2023,
-   24144
+   15631,
+   13915
   ]
  },
  "maps": [
@@ -1317,17 +1317,27 @@
    ]
   }
  },
- "mvp": 22471,
- "highlight": null,
+ "mvp": {
+  "player": 22471,
+  "nick": "xiELO",
+  "maps": 3,
+  "kpr": 0.79,
+  "dpr": 0.69,
+  "kast": 73.8,
+  "mkRating": 1.43,
+  "swing": 6.1,
+  "adr": 81.1,
+  "rating": 1.44
+ },
  "h2h": {
   "team1Wins": 3,
-  "team2Wins": 4,
   "overtimes": 2,
+  "team2Wins": 4,
   "maps": [
    {
     "date": "2026-09-09",
     "matchId": 2397610,
-    "eventId": null,
+    "eventId": 8266,
     "event": "FISSURE Playground 3",
     "map": "de_inferno",
     "score": [
@@ -1339,7 +1349,7 @@
    {
     "date": "2026-09-09",
     "matchId": 2397610,
-    "eventId": null,
+    "eventId": 8266,
     "event": "FISSURE Playground 3",
     "map": "de_ancient",
     "score": [
@@ -1349,9 +1359,9 @@
     "winner": 8297
    },
    {
-    "date": "2026-02-18",
+    "date": "2026-02-17",
     "matchId": 2389975,
-    "eventId": null,
+    "eventId": 8047,
     "event": "PGL Cluj-Napoca 2026",
     "map": "de_mirage",
     "score": [
@@ -1361,9 +1371,9 @@
     "winner": 8297
    },
    {
-    "date": "2026-02-18",
+    "date": "2026-02-17",
     "matchId": 2389975,
-    "eventId": null,
+    "eventId": 8047,
     "event": "PGL Cluj-Napoca 2026",
     "map": "de_inferno",
     "score": [
@@ -1373,9 +1383,9 @@
     "winner": 12467
    },
    {
-    "date": "2026-02-18",
+    "date": "2026-02-17",
     "matchId": 2389975,
-    "eventId": null,
+    "eventId": 8047,
     "event": "PGL Cluj-Napoca 2026",
     "map": "de_dust2",
     "score": [
@@ -1385,9 +1395,9 @@
     "winner": 8297
    },
    {
-    "date": "2026-01-25",
+    "date": "2026-01-24",
     "matchId": 2389280,
-    "eventId": null,
+    "eventId": 8246,
     "event": "BLAST Bounty 2026 Season 1 Finals",
     "map": "de_inferno",
     "score": [
@@ -1397,9 +1407,9 @@
     "winner": 12467
    },
    {
-    "date": "2026-01-25",
+    "date": "2026-01-24",
     "matchId": 2389280,
-    "eventId": null,
+    "eventId": 8246,
     "event": "BLAST Bounty 2026 Season 1 Finals",
     "map": "de_mirage",
     "score": [
@@ -1409,5 +1419,6 @@
     "winner": 12467
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/112413"
 }

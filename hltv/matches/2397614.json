@@ -1,30 +1,30 @@
 {
  "id": 2397614,
  "eventId": 8266,
- "stage": "Group A",
- "time": "2026-09-10T21:30:00+08:00",
+ "stage": "Group A Lower Bracket Final",
+ "time": "2026-09-10T13:30:00Z",
  "bo": 3,
  "status": "finished",
  "team1": {
   "id": 5995,
   "score": 2,
   "players": [
+   20425,
    21062,
-   20447,
    3972,
    9436,
-   20425
+   20447
   ]
  },
  "team2": {
   "id": 13724,
   "score": 0,
   "players": [
-   18150,
+   24303,
    15861,
-   15060,
    21396,
-   24303
+   18150,
+   15060
   ]
  },
  "maps": [
@@ -67,11 +67,7 @@
   {
    "map": "de_anubis",
    "pick": null,
-   "score": [
-    null,
-    null
-   ],
-   "halves": null
+   "score": null
   }
  ],
  "stats": {
@@ -1000,12 +996,23 @@
    ]
   }
  },
- "mvp": 21062,
- "highlight": null,
+ "mvp": {
+  "player": 21062,
+  "nick": "MATYS",
+  "maps": 2,
+  "kpr": 0.97,
+  "dpr": 0.54,
+  "kast": 84.6,
+  "mkRating": 1.36,
+  "swing": 6.94,
+  "adr": 106.3,
+  "rating": 1.67
+ },
  "h2h": {
   "team1Wins": 0,
-  "team2Wins": 0,
   "overtimes": 0,
+  "team2Wins": 0,
   "maps": []
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/111254"
 }

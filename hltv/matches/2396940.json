@@ -1,19 +1,19 @@
 {
  "id": 2396940,
  "eventId": 8249,
- "stage": "Group A",
- "time": "2026-08-30T17:05:00+08:00",
+ "stage": "Group A Lower Bracket Semi-final",
+ "time": "2026-08-30T09:05:00Z",
  "bo": 3,
  "status": "finished",
  "team1": {
   "id": 5995,
   "score": 2,
   "players": [
-   20447,
-   21062,
    20425,
+   21062,
    3972,
-   9436
+   9436,
+   20447
   ]
  },
  "team2": {
@@ -22,9 +22,9 @@
   "players": [
    14759,
    22673,
-   9816,
+   18987,
    20127,
-   18987
+   9816
   ]
  },
  "maps": [
@@ -67,11 +67,7 @@
   {
    "map": "de_mirage",
    "pick": null,
-   "score": [
-    null,
-    null
-   ],
-   "halves": null
+   "score": null
   }
  ],
  "stats": {
@@ -1000,17 +996,27 @@
    ]
   }
  },
- "mvp": 20447,
- "highlight": null,
+ "mvp": {
+  "player": 20447,
+  "nick": "HeavyGod",
+  "maps": 2,
+  "kpr": 0.88,
+  "dpr": 0.48,
+  "kast": 83.3,
+  "mkRating": 1.36,
+  "swing": 6.87,
+  "adr": 90.0,
+  "rating": 1.61
+ },
  "h2h": {
   "team1Wins": 4,
-  "team2Wins": 4,
   "overtimes": 1,
+  "team2Wins": 4,
   "maps": [
    {
-    "date": "2026-06-16",
+    "date": "2026-06-15",
     "matchId": 2394995,
-    "eventId": null,
+    "eventId": 8301,
     "event": "IEM Cologne Major 2026",
     "map": "de_mirage",
     "score": [
@@ -1020,9 +1026,9 @@
     "winner": 5995
    },
    {
-    "date": "2026-06-16",
+    "date": "2026-06-15",
     "matchId": 2394995,
-    "eventId": null,
+    "eventId": 8301,
     "event": "IEM Cologne Major 2026",
     "map": "de_inferno",
     "score": [
@@ -1032,9 +1038,9 @@
     "winner": 5995
    },
    {
-    "date": "2026-06-16",
+    "date": "2026-06-15",
     "matchId": 2394995,
-    "eventId": null,
+    "eventId": 8301,
     "event": "IEM Cologne Major 2026",
     "map": "de_dust2",
     "score": [
@@ -1046,7 +1052,7 @@
    {
     "date": "2026-03-07",
     "matchId": 2391111,
-    "eventId": null,
+    "eventId": 8412,
     "event": "ESL Pro League Season 23 Stage 2",
     "map": "de_ancient",
     "score": [
@@ -1058,7 +1064,7 @@
    {
     "date": "2026-03-07",
     "matchId": 2391111,
-    "eventId": null,
+    "eventId": 8412,
     "event": "ESL Pro League Season 23 Stage 2",
     "map": "de_mirage",
     "score": [
@@ -1070,7 +1076,7 @@
    {
     "date": "2026-03-07",
     "matchId": 2391111,
-    "eventId": null,
+    "eventId": 8412,
     "event": "ESL Pro League Season 23 Stage 2",
     "map": "de_dust2",
     "score": [
@@ -1080,9 +1086,9 @@
     "winner": 4608
    },
    {
-    "date": "2026-02-19",
+    "date": "2026-02-18",
     "matchId": 2389979,
-    "eventId": null,
+    "eventId": 8047,
     "event": "PGL Cluj-Napoca 2026",
     "map": "de_ancient",
     "score": [
@@ -1092,9 +1098,9 @@
     "winner": 4608
    },
    {
-    "date": "2026-02-19",
+    "date": "2026-02-18",
     "matchId": 2389979,
-    "eventId": null,
+    "eventId": 8047,
     "event": "PGL Cluj-Napoca 2026",
     "map": "de_dust2",
     "score": [
@@ -1104,5 +1110,6 @@
     "winner": 4608
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/110759"
 }

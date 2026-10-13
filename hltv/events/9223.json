@@ -3,7 +3,7 @@
  "name": "Stake Pulse Beat III",
  "start": "2026-10-12",
  "end": "2026-10-17",
- "status": "upcoming",
+ "status": "live",
  "location": "Stockholm, Sweden",
  "prize": "$80,000",
  "teams": [
@@ -27,21 +27,21 @@
  "matches": [
   2399130,
   2399131,
-  2399132,
-  2399133,
-  2399134,
-  2399135,
-  2399136,
-  2399137,
   2399250,
   2399251,
   2399252,
+  2399132,
+  2399133,
   2399253,
   2399254,
   2399255,
+  2399134,
+  2399135,
   2399256,
   2399257,
   2399258,
+  2399136,
+  2399137,
   2399259,
   2399260,
   2399261,
@@ -155,7 +155,6 @@
    ]
   }
  ],
- "lower": [],
  "thirdPlace": [
   {
    "matchId": 2399268,
@@ -181,58 +180,58 @@
      "team1": 13117,
      "team2": 10333,
      "score": [
-      null,
-      null
+      2,
+      0
      ],
-     "winner": 0
+     "winner": 13117
     },
     {
      "matchId": 2399131,
-     "time": "2026-10-12T10:00:00Z",
+     "time": "2026-10-12T10:15:00Z",
      "bo": 3,
      "team1": 4411,
      "team2": 12916,
      "score": [
-      null,
-      null
+      2,
+      1
      ],
-     "winner": 0
+     "winner": 4411
     },
     {
      "matchId": 2399250,
-     "time": "2026-10-12T13:00:00Z",
+     "time": "2026-10-12T13:20:00Z",
      "bo": 3,
-     "team1": 0,
-     "team2": 0,
+     "team1": 13117,
+     "team2": 4411,
      "score": [
-      null,
-      null
+      0,
+      2
      ],
-     "winner": 0
+     "winner": 4411
     },
     {
      "matchId": 2399251,
-     "time": "2026-10-12T13:00:00Z",
+     "time": "2026-10-12T13:20:00Z",
      "bo": 3,
-     "team1": 0,
-     "team2": 0,
+     "team1": 10333,
+     "team2": 12916,
      "score": [
-      null,
-      null
+      2,
+      0
      ],
-     "winner": 0
+     "winner": 10333
     },
     {
      "matchId": 2399252,
      "time": "2026-10-12T16:00:00Z",
      "bo": 3,
-     "team1": 0,
-     "team2": 0,
+     "team1": 13117,
+     "team2": 10333,
      "score": [
-      null,
-      null
+      0,
+      2
      ],
-     "winner": 0
+     "winner": 10333
     }
    ]
   },
@@ -246,10 +245,10 @@
      "team1": 5973,
      "team2": 13996,
      "score": [
-      null,
-      null
+      2,
+      1
      ],
-     "winner": 0
+     "winner": 5973
     },
     {
      "matchId": 2399133,
@@ -258,17 +257,17 @@
      "team1": 8474,
      "team2": 10245,
      "score": [
-      null,
-      null
+      2,
+      0
      ],
-     "winner": 0
+     "winner": 8474
     },
     {
      "matchId": 2399253,
-     "time": "2026-10-13T13:00:00Z",
+     "time": "2026-10-13T13:20:00Z",
      "bo": 3,
-     "team1": 0,
-     "team2": 0,
+     "team1": 8474,
+     "team2": 5973,
      "score": [
       null,
       null
@@ -277,10 +276,10 @@
     },
     {
      "matchId": 2399254,
-     "time": "2026-10-13T13:00:00Z",
+     "time": "2026-10-13T13:20:00Z",
      "bo": 3,
-     "team1": 0,
-     "team2": 0,
+     "team1": 10245,
+     "team2": 13996,
      "score": [
       null,
       null
@@ -288,9 +287,9 @@
      "winner": 0
     },
     {
-     "matchId": 2399255,
-     "time": "2026-10-13T16:00:00Z",
-     "bo": 3,
+     "matchId": 0,
+     "time": null,
+     "bo": null,
      "team1": 0,
      "team2": 0,
      "score": [
@@ -329,9 +328,9 @@
      "winner": 0
     },
     {
-     "matchId": 2399256,
-     "time": "2026-10-14T13:00:00Z",
-     "bo": 3,
+     "matchId": 0,
+     "time": null,
+     "bo": null,
      "team1": 0,
      "team2": 0,
      "score": [
@@ -341,9 +340,9 @@
      "winner": 0
     },
     {
-     "matchId": 2399257,
-     "time": "2026-10-14T13:00:00Z",
-     "bo": 3,
+     "matchId": 0,
+     "time": null,
+     "bo": null,
      "team1": 0,
      "team2": 0,
      "score": [
@@ -353,9 +352,9 @@
      "winner": 0
     },
     {
-     "matchId": 2399258,
-     "time": "2026-10-14T16:00:00Z",
-     "bo": 3,
+     "matchId": 0,
+     "time": null,
+     "bo": null,
      "team1": 0,
      "team2": 0,
      "score": [
@@ -394,9 +393,9 @@
      "winner": 0
     },
     {
-     "matchId": 2399259,
-     "time": "2026-10-15T13:00:00Z",
-     "bo": 3,
+     "matchId": 0,
+     "time": null,
+     "bo": null,
      "team1": 0,
      "team2": 0,
      "score": [
@@ -406,9 +405,9 @@
      "winner": 0
     },
     {
-     "matchId": 2399260,
-     "time": "2026-10-15T13:00:00Z",
-     "bo": 3,
+     "matchId": 0,
+     "time": null,
+     "bo": null,
      "team1": 0,
      "team2": 0,
      "score": [
@@ -418,9 +417,9 @@
      "winner": 0
     },
     {
-     "matchId": 2399261,
-     "time": "2026-10-15T16:00:00Z",
-     "bo": 3,
+     "matchId": 0,
+     "time": null,
+     "bo": null,
      "team1": 0,
      "team2": 0,
      "score": [

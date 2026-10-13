@@ -1,7 +1,7 @@
 {
  "id": 2396941,
  "eventId": 8249,
- "stage": "Group B",
+ "stage": "Group B Lower Bracket Semi-final",
  "time": "2026-08-30T17:10:00Z",
  "bo": 3,
  "status": "finished",
@@ -9,10 +9,10 @@
   "id": 9565,
   "score": 2,
   "players": [
-   11893,
-   7322,
    19206,
+   7322,
    11816,
+   11893,
    16693
   ]
  },
@@ -20,11 +20,11 @@
   "id": 12468,
   "score": 1,
   "players": [
-   15698,
-   19869,
-   19045,
    19686,
-   12521
+   15698,
+   12521,
+   19045,
+   19869
   ]
  },
  "maps": [
@@ -42,10 +42,6 @@
     ],
     [
      10,
-     2
-    ],
-    [
-     4,
      2
     ]
    ]
@@ -193,108 +189,6 @@
    ],
    "t": [
     {
-     "player": 11893,
-     "nick": "ZywOo",
-     "kills": 40,
-     "deaths": 18,
-     "swing": 5.87,
-     "adr": 111.9,
-     "kast": 83.3,
-     "rating": 1.72
-    },
-    {
-     "player": 7322,
-     "nick": "apEX",
-     "kills": 31,
-     "deaths": 19,
-     "swing": 1.07,
-     "adr": 95.2,
-     "kast": 77.8,
-     "rating": 1.26
-    },
-    {
-     "player": 16693,
-     "nick": "flameZ",
-     "kills": 25,
-     "deaths": 18,
-     "swing": 2.88,
-     "adr": 75.7,
-     "kast": 88.9,
-     "rating": 1.25
-    },
-    {
-     "player": 11816,
-     "nick": "ropz",
-     "kills": 30,
-     "deaths": 19,
-     "swing": 0.97,
-     "adr": 80.8,
-     "kast": 72.2,
-     "rating": 1.1
-    },
-    {
-     "player": 19206,
-     "nick": "jL",
-     "kills": 25,
-     "deaths": 20,
-     "swing": -0.41,
-     "adr": 82.6,
-     "kast": 80.6,
-     "rating": 1.02
-    },
-    {
-     "player": 19869,
-     "nick": "try",
-     "kills": 36,
-     "deaths": 16,
-     "swing": 4.4,
-     "adr": 87.7,
-     "kast": 94.6,
-     "rating": 1.42
-    },
-    {
-     "player": 15698,
-     "nick": "dumau",
-     "kills": 36,
-     "deaths": 20,
-     "swing": 3.56,
-     "adr": 100.5,
-     "kast": 81.1,
-     "rating": 1.42
-    },
-    {
-     "player": 19045,
-     "nick": "latto",
-     "kills": 30,
-     "deaths": 19,
-     "swing": 2.59,
-     "adr": 89.0,
-     "kast": 83.8,
-     "rating": 1.34
-    },
-    {
-     "player": 12521,
-     "nick": "arT",
-     "kills": 21,
-     "deaths": 19,
-     "swing": 1.14,
-     "adr": 73.0,
-     "kast": 70.3,
-     "rating": 1.0
-    },
-    {
-     "player": 19686,
-     "nick": "n1ssim",
-     "kills": 17,
-     "deaths": 16,
-     "swing": -2.22,
-     "adr": 53.3,
-     "kast": 78.4,
-     "rating": 0.83
-    }
-   ],
-   "ct": [
-    {
      "player": 19206,
      "nick": "jL",
      "kills": 21,
@@ -393,6 +287,108 @@
      "adr": 34.3,
      "kast": 44.4,
      "rating": 0.55
+    }
+   ],
+   "ct": [
+    {
+     "player": 11893,
+     "nick": "ZywOo",
+     "kills": 40,
+     "deaths": 18,
+     "swing": 5.87,
+     "adr": 111.9,
+     "kast": 83.3,
+     "rating": 1.72
+    },
+    {
+     "player": 7322,
+     "nick": "apEX",
+     "kills": 31,
+     "deaths": 19,
+     "swing": 1.07,
+     "adr": 95.2,
+     "kast": 77.8,
+     "rating": 1.26
+    },
+    {
+     "player": 16693,
+     "nick": "flameZ",
+     "kills": 25,
+     "deaths": 18,
+     "swing": 2.88,
+     "adr": 75.7,
+     "kast": 88.9,
+     "rating": 1.25
+    },
+    {
+     "player": 11816,
+     "nick": "ropz",
+     "kills": 30,
+     "deaths": 19,
+     "swing": 0.97,
+     "adr": 80.8,
+     "kast": 72.2,
+     "rating": 1.1
+    },
+    {
+     "player": 19206,
+     "nick": "jL",
+     "kills": 25,
+     "deaths": 20,
+     "swing": -0.41,
+     "adr": 82.6,
+     "kast": 80.6,
+     "rating": 1.02
+    },
+    {
+     "player": 19869,
+     "nick": "try",
+     "kills": 36,
+     "deaths": 16,
+     "swing": 4.4,
+     "adr": 87.7,
+     "kast": 94.6,
+     "rating": 1.42
+    },
+    {
+     "player": 15698,
+     "nick": "dumau",
+     "kills": 36,
+     "deaths": 20,
+     "swing": 3.56,
+     "adr": 100.5,
+     "kast": 81.1,
+     "rating": 1.42
+    },
+    {
+     "player": 19045,
+     "nick": "latto",
+     "kills": 30,
+     "deaths": 19,
+     "swing": 2.59,
+     "adr": 89.0,
+     "kast": 83.8,
+     "rating": 1.34
+    },
+    {
+     "player": 12521,
+     "nick": "arT",
+     "kills": 21,
+     "deaths": 19,
+     "swing": 1.14,
+     "adr": 73.0,
+     "kast": 70.3,
+     "rating": 1.0
+    },
+    {
+     "player": 19686,
+     "nick": "n1ssim",
+     "kills": 17,
+     "deaths": 16,
+     "swing": -2.22,
+     "adr": 53.3,
+     "kast": 78.4,
+     "rating": 0.83
     }
    ]
   },
@@ -501,108 +497,6 @@
    ],
    "t": [
     {
-     "player": 11893,
-     "nick": "ZywOo",
-     "kills": 19,
-     "deaths": 7,
-     "swing": 10.83,
-     "adr": 114.0,
-     "kast": 86.7,
-     "rating": 2.05
-    },
-    {
-     "player": 19206,
-     "nick": "jL",
-     "kills": 13,
-     "deaths": 9,
-     "swing": 5.56,
-     "adr": 100.7,
-     "kast": 73.3,
-     "rating": 1.44
-    },
-    {
-     "player": 11816,
-     "nick": "ropz",
-     "kills": 14,
-     "deaths": 8,
-     "swing": 1.99,
-     "adr": 95.6,
-     "kast": 73.3,
-     "rating": 1.25
-    },
-    {
-     "player": 16693,
-     "nick": "flameZ",
-     "kills": 9,
-     "deaths": 9,
-     "swing": -1.12,
-     "adr": 64.5,
-     "kast": 80.0,
-     "rating": 0.87
-    },
-    {
-     "player": 7322,
-     "nick": "apEX",
-     "kills": 7,
-     "deaths": 9,
-     "swing": -4.12,
-     "adr": 59.9,
-     "kast": 80.0,
-     "rating": 0.69
-    },
-    {
-     "player": 19686,
-     "nick": "n1ssim",
-     "kills": 13,
-     "deaths": 6,
-     "swing": 3.36,
-     "adr": 91.1,
-     "kast": 80.0,
-     "rating": 1.45
-    },
-    {
-     "player": 19045,
-     "nick": "latto",
-     "kills": 10,
-     "deaths": 8,
-     "swing": 1.16,
-     "adr": 89.6,
-     "kast": 73.3,
-     "rating": 1.19
-    },
-    {
-     "player": 15698,
-     "nick": "dumau",
-     "kills": 12,
-     "deaths": 8,
-     "swing": 1.98,
-     "adr": 82.5,
-     "kast": 73.3,
-     "rating": 1.17
-    },
-    {
-     "player": 19869,
-     "nick": "try",
-     "kills": 11,
-     "deaths": 5,
-     "swing": -0.36,
-     "adr": 65.0,
-     "kast": 100.0,
-     "rating": 1.04
-    },
-    {
-     "player": 12521,
-     "nick": "arT",
-     "kills": 9,
-     "deaths": 7,
-     "swing": 1.74,
-     "adr": 67.3,
-     "kast": 66.7,
-     "rating": 0.99
-    }
-   ],
-   "ct": [
-    {
      "player": 19206,
      "nick": "jL",
      "kills": 7,
@@ -701,6 +595,108 @@
      "adr": 46.2,
      "kast": 46.7,
      "rating": 0.5
+    }
+   ],
+   "ct": [
+    {
+     "player": 11893,
+     "nick": "ZywOo",
+     "kills": 19,
+     "deaths": 7,
+     "swing": 10.83,
+     "adr": 114.0,
+     "kast": 86.7,
+     "rating": 2.05
+    },
+    {
+     "player": 19206,
+     "nick": "jL",
+     "kills": 13,
+     "deaths": 9,
+     "swing": 5.56,
+     "adr": 100.7,
+     "kast": 73.3,
+     "rating": 1.44
+    },
+    {
+     "player": 11816,
+     "nick": "ropz",
+     "kills": 14,
+     "deaths": 8,
+     "swing": 1.99,
+     "adr": 95.6,
+     "kast": 73.3,
+     "rating": 1.25
+    },
+    {
+     "player": 16693,
+     "nick": "flameZ",
+     "kills": 9,
+     "deaths": 9,
+     "swing": -1.12,
+     "adr": 64.5,
+     "kast": 80.0,
+     "rating": 0.87
+    },
+    {
+     "player": 7322,
+     "nick": "apEX",
+     "kills": 7,
+     "deaths": 9,
+     "swing": -4.12,
+     "adr": 59.9,
+     "kast": 80.0,
+     "rating": 0.69
+    },
+    {
+     "player": 19686,
+     "nick": "n1ssim",
+     "kills": 13,
+     "deaths": 6,
+     "swing": 3.36,
+     "adr": 91.1,
+     "kast": 80.0,
+     "rating": 1.45
+    },
+    {
+     "player": 19045,
+     "nick": "latto",
+     "kills": 10,
+     "deaths": 8,
+     "swing": 1.16,
+     "adr": 89.6,
+     "kast": 73.3,
+     "rating": 1.19
+    },
+    {
+     "player": 15698,
+     "nick": "dumau",
+     "kills": 12,
+     "deaths": 8,
+     "swing": 1.98,
+     "adr": 82.5,
+     "kast": 73.3,
+     "rating": 1.17
+    },
+    {
+     "player": 19869,
+     "nick": "try",
+     "kills": 11,
+     "deaths": 5,
+     "swing": -0.36,
+     "adr": 65.0,
+     "kast": 100.0,
+     "rating": 1.04
+    },
+    {
+     "player": 12521,
+     "nick": "arT",
+     "kills": 9,
+     "deaths": 7,
+     "swing": 1.74,
+     "adr": 67.3,
+     "kast": 66.7,
+     "rating": 0.99
     }
    ]
   },
@@ -809,108 +805,6 @@
    ],
    "t": [
     {
-     "player": 7322,
-     "nick": "apEX",
-     "kills": 12,
-     "deaths": 6,
-     "swing": 6.71,
-     "adr": 107.1,
-     "kast": 75.0,
-     "rating": 1.87
-    },
-    {
-     "player": 16693,
-     "nick": "flameZ",
-     "kills": 10,
-     "deaths": 5,
-     "swing": 5.87,
-     "adr": 95.2,
-     "kast": 100.0,
-     "rating": 1.67
-    },
-    {
-     "player": 11816,
-     "nick": "ropz",
-     "kills": 9,
-     "deaths": 7,
-     "swing": 0.61,
-     "adr": 82.5,
-     "kast": 66.7,
-     "rating": 1.07
-    },
-    {
-     "player": 11893,
-     "nick": "ZywOo",
-     "kills": 9,
-     "deaths": 7,
-     "swing": -4.46,
-     "adr": 86.5,
-     "kast": 75.0,
-     "rating": 0.94
-    },
-    {
-     "player": 19206,
-     "nick": "jL",
-     "kills": 7,
-     "deaths": 7,
-     "swing": -7.42,
-     "adr": 77.9,
-     "kast": 91.7,
-     "rating": 0.78
-    },
-    {
-     "player": 15698,
-     "nick": "dumau",
-     "kills": 15,
-     "deaths": 6,
-     "swing": 10.25,
-     "adr": 142.3,
-     "kast": 100.0,
-     "rating": 2.35
-    },
-    {
-     "player": 19869,
-     "nick": "try",
-     "kills": 12,
-     "deaths": 4,
-     "swing": 10.95,
-     "adr": 100.0,
-     "kast": 100.0,
-     "rating": 2.04
-    },
-    {
-     "player": 19045,
-     "nick": "latto",
-     "kills": 9,
-     "deaths": 7,
-     "swing": 1.8,
-     "adr": 99.4,
-     "kast": 100.0,
-     "rating": 1.32
-    },
-    {
-     "player": 12521,
-     "nick": "arT",
-     "kills": 5,
-     "deaths": 4,
-     "swing": -1.14,
-     "adr": 69.9,
-     "kast": 80.0,
-     "rating": 0.92
-    },
-    {
-     "player": 19686,
-     "nick": "n1ssim",
-     "kills": 3,
-     "deaths": 4,
-     "swing": -2.56,
-     "adr": 36.4,
-     "kast": 90.0,
-     "rating": 0.67
-    }
-   ],
-   "ct": [
-    {
      "player": 11816,
      "nick": "ropz",
      "kills": 7,
@@ -1009,6 +903,108 @@
      "adr": 30.3,
      "kast": 50.0,
      "rating": 0.54
+    }
+   ],
+   "ct": [
+    {
+     "player": 7322,
+     "nick": "apEX",
+     "kills": 12,
+     "deaths": 6,
+     "swing": 6.71,
+     "adr": 107.1,
+     "kast": 75.0,
+     "rating": 1.87
+    },
+    {
+     "player": 16693,
+     "nick": "flameZ",
+     "kills": 10,
+     "deaths": 5,
+     "swing": 5.87,
+     "adr": 95.2,
+     "kast": 100.0,
+     "rating": 1.67
+    },
+    {
+     "player": 11816,
+     "nick": "ropz",
+     "kills": 9,
+     "deaths": 7,
+     "swing": 0.61,
+     "adr": 82.5,
+     "kast": 66.7,
+     "rating": 1.07
+    },
+    {
+     "player": 11893,
+     "nick": "ZywOo",
+     "kills": 9,
+     "deaths": 7,
+     "swing": -4.46,
+     "adr": 86.5,
+     "kast": 75.0,
+     "rating": 0.94
+    },
+    {
+     "player": 19206,
+     "nick": "jL",
+     "kills": 7,
+     "deaths": 7,
+     "swing": -7.42,
+     "adr": 77.9,
+     "kast": 91.7,
+     "rating": 0.78
+    },
+    {
+     "player": 15698,
+     "nick": "dumau",
+     "kills": 15,
+     "deaths": 6,
+     "swing": 10.25,
+     "adr": 142.3,
+     "kast": 100.0,
+     "rating": 2.35
+    },
+    {
+     "player": 19869,
+     "nick": "try",
+     "kills": 12,
+     "deaths": 4,
+     "swing": 10.95,
+     "adr": 100.0,
+     "kast": 100.0,
+     "rating": 2.04
+    },
+    {
+     "player": 19045,
+     "nick": "latto",
+     "kills": 9,
+     "deaths": 7,
+     "swing": 1.8,
+     "adr": 99.4,
+     "kast": 100.0,
+     "rating": 1.32
+    },
+    {
+     "player": 12521,
+     "nick": "arT",
+     "kills": 5,
+     "deaths": 4,
+     "swing": -1.14,
+     "adr": 69.9,
+     "kast": 80.0,
+     "rating": 0.92
+    },
+    {
+     "player": 19686,
+     "nick": "n1ssim",
+     "kills": 3,
+     "deaths": 4,
+     "swing": -2.56,
+     "adr": 36.4,
+     "kast": 90.0,
+     "rating": 0.67
     }
    ]
   },
@@ -1117,108 +1113,6 @@
    ],
    "t": [
     {
-     "player": 11893,
-     "nick": "ZywOo",
-     "kills": 12,
-     "deaths": 4,
-     "swing": 11.37,
-     "adr": 142.1,
-     "kast": 88.9,
-     "rating": 2.52
-    },
-    {
-     "player": 7322,
-     "nick": "apEX",
-     "kills": 12,
-     "deaths": 4,
-     "swing": 2.23,
-     "adr": 138.0,
-     "kast": 77.8,
-     "rating": 1.62
-    },
-    {
-     "player": 16693,
-     "nick": "flameZ",
-     "kills": 6,
-     "deaths": 4,
-     "swing": 5.55,
-     "adr": 68.3,
-     "kast": 88.9,
-     "rating": 1.41
-    },
-    {
-     "player": 11816,
-     "nick": "ropz",
-     "kills": 7,
-     "deaths": 4,
-     "swing": -0.24,
-     "adr": 54.0,
-     "kast": 77.8,
-     "rating": 0.93
-    },
-    {
-     "player": 19206,
-     "nick": "jL",
-     "kills": 5,
-     "deaths": 4,
-     "swing": -1.02,
-     "adr": 58.6,
-     "kast": 77.8,
-     "rating": 0.87
-    },
-    {
-     "player": 19045,
-     "nick": "latto",
-     "kills": 11,
-     "deaths": 4,
-     "swing": 5.04,
-     "adr": 79.7,
-     "kast": 83.3,
-     "rating": 1.53
-    },
-    {
-     "player": 19869,
-     "nick": "try",
-     "kills": 13,
-     "deaths": 7,
-     "swing": 4.9,
-     "adr": 105.8,
-     "kast": 83.3,
-     "rating": 1.49
-    },
-    {
-     "player": 15698,
-     "nick": "dumau",
-     "kills": 9,
-     "deaths": 6,
-     "swing": -0.02,
-     "adr": 88.2,
-     "kast": 75.0,
-     "rating": 1.1
-    },
-    {
-     "player": 12521,
-     "nick": "arT",
-     "kills": 7,
-     "deaths": 8,
-     "swing": 2.29,
-     "adr": 82.8,
-     "kast": 66.7,
-     "rating": 1.08
-    },
-    {
-     "player": 19686,
-     "nick": "n1ssim",
-     "kills": 1,
-     "deaths": 6,
-     "swing": -8.9,
-     "adr": 20.0,
-     "kast": 66.7,
-     "rating": 0.38
-    }
-   ],
-   "ct": [
-    {
      "player": 7322,
      "nick": "apEX",
      "kills": 11,
@@ -1318,6 +1212,108 @@
      "kast": 22.2,
      "rating": 0.18
     }
+   ],
+   "ct": [
+    {
+     "player": 11893,
+     "nick": "ZywOo",
+     "kills": 12,
+     "deaths": 4,
+     "swing": 11.37,
+     "adr": 142.1,
+     "kast": 88.9,
+     "rating": 2.52
+    },
+    {
+     "player": 7322,
+     "nick": "apEX",
+     "kills": 12,
+     "deaths": 4,
+     "swing": 2.23,
+     "adr": 138.0,
+     "kast": 77.8,
+     "rating": 1.62
+    },
+    {
+     "player": 16693,
+     "nick": "flameZ",
+     "kills": 6,
+     "deaths": 4,
+     "swing": 5.55,
+     "adr": 68.3,
+     "kast": 88.9,
+     "rating": 1.41
+    },
+    {
+     "player": 11816,
+     "nick": "ropz",
+     "kills": 7,
+     "deaths": 4,
+     "swing": -0.24,
+     "adr": 54.0,
+     "kast": 77.8,
+     "rating": 0.93
+    },
+    {
+     "player": 19206,
+     "nick": "jL",
+     "kills": 5,
+     "deaths": 4,
+     "swing": -1.02,
+     "adr": 58.6,
+     "kast": 77.8,
+     "rating": 0.87
+    },
+    {
+     "player": 19045,
+     "nick": "latto",
+     "kills": 11,
+     "deaths": 4,
+     "swing": 5.04,
+     "adr": 79.7,
+     "kast": 83.3,
+     "rating": 1.53
+    },
+    {
+     "player": 19869,
+     "nick": "try",
+     "kills": 13,
+     "deaths": 7,
+     "swing": 4.9,
+     "adr": 105.8,
+     "kast": 83.3,
+     "rating": 1.49
+    },
+    {
+     "player": 15698,
+     "nick": "dumau",
+     "kills": 9,
+     "deaths": 6,
+     "swing": -0.02,
+     "adr": 88.2,
+     "kast": 75.0,
+     "rating": 1.1
+    },
+    {
+     "player": 12521,
+     "nick": "arT",
+     "kills": 7,
+     "deaths": 8,
+     "swing": 2.29,
+     "adr": 82.8,
+     "kast": 66.7,
+     "rating": 1.08
+    },
+    {
+     "player": 19686,
+     "nick": "n1ssim",
+     "kills": 1,
+     "deaths": 6,
+     "swing": -8.9,
+     "adr": 20.0,
+     "kast": 66.7,
+     "rating": 0.38
+    }
    ]
   }
  },
@@ -1333,16 +1329,15 @@
   "adr": 75.8,
   "rating": 1.14
  },
- "highlight": null,
  "h2h": {
   "team1Wins": 4,
-  "team2Wins": 1,
   "overtimes": 1,
+  "team2Wins": 1,
   "maps": [
    {
-    "date": "2025-08-11",
+    "date": "2025-08-10",
     "matchId": 2384149,
-    "eventId": null,
+    "eventId": 7906,
     "event": "BLAST Bounty 2025 Season 2",
     "map": "de_dust2",
     "score": [
@@ -1352,9 +1347,9 @@
     "winner": 9565
    },
    {
-    "date": "2025-08-11",
+    "date": "2025-08-10",
     "matchId": 2384149,
-    "eventId": null,
+    "eventId": 7906,
     "event": "BLAST Bounty 2025 Season 2",
     "map": "de_mirage",
     "score": [
@@ -1366,7 +1361,7 @@
    {
     "date": "2025-06-12",
     "matchId": 2382432,
-    "eventId": null,
+    "eventId": 7902,
     "event": "BLAST.tv Austin Major 2025",
     "map": "de_inferno",
     "score": [
@@ -1376,9 +1371,9 @@
     "winner": 12468
    },
    {
-    "date": "2025-05-20",
+    "date": "2025-05-19",
     "matchId": 2382375,
-    "eventId": null,
+    "eventId": 8037,
     "event": "IEM Dallas 2025",
     "map": "de_dust2",
     "score": [
@@ -1388,9 +1383,9 @@
     "winner": 9565
    },
    {
-    "date": "2025-05-20",
+    "date": "2025-05-19",
     "matchId": 2382375,
-    "eventId": null,
+    "eventId": 8037,
     "event": "IEM Dallas 2025",
     "map": "de_inferno",
     "score": [
@@ -1400,5 +1395,6 @@
     "winner": 9565
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/110806"
 }

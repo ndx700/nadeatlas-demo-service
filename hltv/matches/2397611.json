@@ -1,30 +1,30 @@
 {
  "id": 2397611,
  "eventId": 8266,
- "stage": "Group A",
- "time": "2026-09-10T11:45:00+08:00",
+ "stage": "Group A Lower Bracket Semi-final",
+ "time": "2026-09-10T03:45:00Z",
  "bo": 3,
  "status": "finished",
  "team1": {
   "id": 9996,
   "score": 1,
   "players": [
-   22613,
+   14736,
    12092,
    14737,
-   14736,
-   20394
+   20394,
+   22613
   ]
  },
  "team2": {
   "id": 5995,
   "score": 2,
   "players": [
-   20447,
-   9436,
-   3972,
    20425,
-   21062
+   21062,
+   3972,
+   9436,
+   20447
   ]
  },
  "maps": [
@@ -1317,12 +1317,23 @@
    ]
   }
  },
- "mvp": 20447,
- "highlight": null,
+ "mvp": {
+  "player": 20447,
+  "nick": "HeavyGod",
+  "maps": 3,
+  "kpr": 0.79,
+  "dpr": 0.65,
+  "kast": 73.5,
+  "mkRating": 1.29,
+  "swing": 5.4,
+  "adr": 90.8,
+  "rating": 1.43
+ },
  "h2h": {
   "team1Wins": 0,
-  "team2Wins": 0,
   "overtimes": 0,
+  "team2Wins": 0,
   "maps": []
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/111227"
 }

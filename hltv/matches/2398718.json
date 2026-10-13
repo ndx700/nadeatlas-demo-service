@@ -1,30 +1,30 @@
 {
  "id": 2398718,
  "eventId": 8244,
- "stage": null,
- "time": "2026-10-03T17:00:00+08:00",
+ "stage": "Swiss Round 1",
+ "time": "2026-10-03T09:00:00Z",
  "bo": 3,
  "status": "finished",
  "team1": {
   "id": 12468,
   "score": 1,
   "players": [
-   19045,
-   15698,
-   19869,
    19686,
-   17215
+   15698,
+   17215,
+   19045,
+   19869
   ]
  },
  "team2": {
   "id": 12467,
   "score": 2,
   "players": [
+   23685,
    13776,
-   12732,
-   8528,
    22471,
-   23685
+   12732,
+   8528
   ]
  },
  "maps": [
@@ -79,10 +79,6 @@
     [
      7,
      5
-    ],
-    [
-     0,
-     4
     ]
    ]
   }
@@ -1321,17 +1317,27 @@
    ]
   }
  },
- "mvp": 13776,
- "highlight": null,
+ "mvp": {
+  "player": 13776,
+  "nick": "Jame",
+  "maps": 3,
+  "kpr": 0.85,
+  "dpr": 0.44,
+  "kast": 78.7,
+  "mkRating": 0.81,
+  "swing": 4.73,
+  "adr": 77.9,
+  "rating": 1.37
+ },
  "h2h": {
   "team1Wins": 5,
-  "team2Wins": 2,
   "overtimes": 2,
+  "team2Wins": 2,
   "maps": [
    {
-    "date": "2026-06-14",
+    "date": "2026-06-13",
     "matchId": 2394984,
-    "eventId": null,
+    "eventId": 8301,
     "event": "IEM Cologne Major 2026",
     "map": "de_dust2",
     "score": [
@@ -1341,9 +1347,9 @@
     "winner": 12468
    },
    {
-    "date": "2026-06-14",
+    "date": "2026-06-13",
     "matchId": 2394984,
-    "eventId": null,
+    "eventId": 8301,
     "event": "IEM Cologne Major 2026",
     "map": "de_inferno",
     "score": [
@@ -1353,9 +1359,9 @@
     "winner": 12468
    },
    {
-    "date": "2026-04-05",
+    "date": "2026-04-04",
     "matchId": 2393009,
-    "eventId": null,
+    "eventId": 8048,
     "event": "PGL Bucharest 2026",
     "map": "de_dust2",
     "score": [
@@ -1365,9 +1371,9 @@
     "winner": 12467
    },
    {
-    "date": "2026-04-05",
+    "date": "2026-04-04",
     "matchId": 2393009,
-    "eventId": null,
+    "eventId": 8048,
     "event": "PGL Bucharest 2026",
     "map": "de_inferno",
     "score": [
@@ -1377,9 +1383,9 @@
     "winner": 12467
    },
    {
-    "date": "2026-04-05",
+    "date": "2026-04-04",
     "matchId": 2393009,
-    "eventId": null,
+    "eventId": 8048,
     "event": "PGL Bucharest 2026",
     "map": "de_mirage",
     "score": [
@@ -1391,7 +1397,7 @@
    {
     "date": "2026-03-03",
     "matchId": 2391029,
-    "eventId": null,
+    "eventId": 8241,
     "event": "ESL Pro League Season 23 Stage 1",
     "map": "de_dust2",
     "score": [
@@ -1403,7 +1409,7 @@
    {
     "date": "2026-03-03",
     "matchId": 2391029,
-    "eventId": null,
+    "eventId": 8241,
     "event": "ESL Pro League Season 23 Stage 1",
     "map": "de_inferno",
     "score": [
@@ -1413,5 +1419,6 @@
     "winner": 12468
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/112345"
 }

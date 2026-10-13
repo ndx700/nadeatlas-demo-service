@@ -1,7 +1,7 @@
 {
  "id": 2397597,
  "eventId": 8266,
- "stage": "Group A",
+ "stage": "Group A Upper Bracket Quarter-final",
  "time": "2026-09-08T05:55:00Z",
  "bo": 3,
  "status": "finished",
@@ -189,108 +189,6 @@
    ],
    "t": [
     {
-     "player": 20194,
-     "nick": "bLitz",
-     "kills": 38,
-     "deaths": 29,
-     "swing": 2.03,
-     "adr": 114.2,
-     "kast": 65.8,
-     "rating": 1.31
-    },
-    {
-     "player": 23402,
-     "nick": "cobrazera",
-     "kills": 29,
-     "deaths": 24,
-     "swing": 2.89,
-     "adr": 89.4,
-     "kast": 78.9,
-     "rating": 1.29
-    },
-    {
-     "player": 21809,
-     "nick": "910",
-     "kills": 29,
-     "deaths": 24,
-     "swing": 2.01,
-     "adr": 72.7,
-     "kast": 76.3,
-     "rating": 1.02
-    },
-    {
-     "player": 25510,
-     "nick": "tikuak",
-     "kills": 21,
-     "deaths": 25,
-     "swing": -3.22,
-     "adr": 61.9,
-     "kast": 73.7,
-     "rating": 0.77
-    },
-    {
-     "player": 26013,
-     "nick": "DarkMeister",
-     "kills": 20,
-     "deaths": 27,
-     "swing": -5.17,
-     "adr": 59.6,
-     "kast": 65.8,
-     "rating": 0.7
-    },
-    {
-     "player": 21037,
-     "nick": "insani",
-     "kills": 28,
-     "deaths": 20,
-     "swing": 0.87,
-     "adr": 98.9,
-     "kast": 74.2,
-     "rating": 1.29
-    },
-    {
-     "player": 21288,
-     "nick": "venomzera",
-     "kills": 23,
-     "deaths": 21,
-     "swing": 3.44,
-     "adr": 77.1,
-     "kast": 80.6,
-     "rating": 1.19
-    },
-    {
-     "player": 22570,
-     "nick": "tomaszin",
-     "kills": 24,
-     "deaths": 19,
-     "swing": -1.93,
-     "adr": 84.6,
-     "kast": 77.4,
-     "rating": 1.0
-    },
-    {
-     "player": 19694,
-     "nick": "nqz",
-     "kills": 20,
-     "deaths": 16,
-     "swing": -0.23,
-     "adr": 61.4,
-     "kast": 71.0,
-     "rating": 0.93
-    },
-    {
-     "player": 19310,
-     "nick": "LNZ",
-     "kills": 14,
-     "deaths": 21,
-     "swing": -3.7,
-     "adr": 60.6,
-     "kast": 77.4,
-     "rating": 0.66
-    }
-   ],
-   "ct": [
-    {
      "player": 21809,
      "nick": "910",
      "kills": 30,
@@ -389,6 +287,108 @@
      "adr": 52.8,
      "kast": 68.4,
      "rating": 0.69
+    }
+   ],
+   "ct": [
+    {
+     "player": 20194,
+     "nick": "bLitz",
+     "kills": 38,
+     "deaths": 29,
+     "swing": 2.03,
+     "adr": 114.2,
+     "kast": 65.8,
+     "rating": 1.31
+    },
+    {
+     "player": 23402,
+     "nick": "cobrazera",
+     "kills": 29,
+     "deaths": 24,
+     "swing": 2.89,
+     "adr": 89.4,
+     "kast": 78.9,
+     "rating": 1.29
+    },
+    {
+     "player": 21809,
+     "nick": "910",
+     "kills": 29,
+     "deaths": 24,
+     "swing": 2.01,
+     "adr": 72.7,
+     "kast": 76.3,
+     "rating": 1.02
+    },
+    {
+     "player": 25510,
+     "nick": "tikuak",
+     "kills": 21,
+     "deaths": 25,
+     "swing": -3.22,
+     "adr": 61.9,
+     "kast": 73.7,
+     "rating": 0.77
+    },
+    {
+     "player": 26013,
+     "nick": "DarkMeister",
+     "kills": 20,
+     "deaths": 27,
+     "swing": -5.17,
+     "adr": 59.6,
+     "kast": 65.8,
+     "rating": 0.7
+    },
+    {
+     "player": 21037,
+     "nick": "insani",
+     "kills": 28,
+     "deaths": 20,
+     "swing": 0.87,
+     "adr": 98.9,
+     "kast": 74.2,
+     "rating": 1.29
+    },
+    {
+     "player": 21288,
+     "nick": "venomzera",
+     "kills": 23,
+     "deaths": 21,
+     "swing": 3.44,
+     "adr": 77.1,
+     "kast": 80.6,
+     "rating": 1.19
+    },
+    {
+     "player": 22570,
+     "nick": "tomaszin",
+     "kills": 24,
+     "deaths": 19,
+     "swing": -1.93,
+     "adr": 84.6,
+     "kast": 77.4,
+     "rating": 1.0
+    },
+    {
+     "player": 19694,
+     "nick": "nqz",
+     "kills": 20,
+     "deaths": 16,
+     "swing": -0.23,
+     "adr": 61.4,
+     "kast": 71.0,
+     "rating": 0.93
+    },
+    {
+     "player": 19310,
+     "nick": "LNZ",
+     "kills": 14,
+     "deaths": 21,
+     "swing": -3.7,
+     "adr": 60.6,
+     "kast": 77.4,
+     "rating": 0.66
     }
    ]
   },
@@ -499,108 +499,6 @@
     {
      "player": 21809,
      "nick": "910",
-     "kills": 11,
-     "deaths": 7,
-     "swing": 9.34,
-     "adr": 85.8,
-     "kast": 83.3,
-     "rating": 1.57
-    },
-    {
-     "player": 25510,
-     "nick": "tikuak",
-     "kills": 9,
-     "deaths": 6,
-     "swing": 4.55,
-     "adr": 68.2,
-     "kast": 75.0,
-     "rating": 1.22
-    },
-    {
-     "player": 20194,
-     "nick": "bLitz",
-     "kills": 10,
-     "deaths": 10,
-     "swing": 1.04,
-     "adr": 102.0,
-     "kast": 75.0,
-     "rating": 1.1
-    },
-    {
-     "player": 23402,
-     "nick": "cobrazera",
-     "kills": 7,
-     "deaths": 8,
-     "swing": -2.01,
-     "adr": 77.2,
-     "kast": 75.0,
-     "rating": 0.88
-    },
-    {
-     "player": 26013,
-     "nick": "DarkMeister",
-     "kills": 7,
-     "deaths": 8,
-     "swing": -5.35,
-     "adr": 70.2,
-     "kast": 75.0,
-     "rating": 0.82
-    },
-    {
-     "player": 21288,
-     "nick": "venomzera",
-     "kills": 6,
-     "deaths": 5,
-     "swing": 2.4,
-     "adr": 83.8,
-     "kast": 83.3,
-     "rating": 1.26
-    },
-    {
-     "player": 21037,
-     "nick": "insani",
-     "kills": 4,
-     "deaths": 5,
-     "swing": -10.71,
-     "adr": 97.8,
-     "kast": 33.3,
-     "rating": 0.64
-    },
-    {
-     "player": 19694,
-     "nick": "nqz",
-     "kills": 2,
-     "deaths": 5,
-     "swing": -11.56,
-     "adr": 51.2,
-     "kast": 50.0,
-     "rating": 0.48
-    },
-    {
-     "player": 19310,
-     "nick": "LNZ",
-     "kills": 3,
-     "deaths": 5,
-     "swing": -12.39,
-     "adr": 40.0,
-     "kast": 66.7,
-     "rating": 0.3
-    },
-    {
-     "player": 22570,
-     "nick": "tomaszin",
-     "kills": 1,
-     "deaths": 6,
-     "swing": -9.97,
-     "adr": 50.3,
-     "kast": 83.3,
-     "rating": 0.29
-    }
-   ],
-   "ct": [
-    {
-     "player": 21809,
-     "nick": "910",
      "kills": 8,
      "deaths": 2,
      "swing": 24.47,
@@ -697,6 +595,108 @@
      "adr": 45.2,
      "kast": 58.3,
      "rating": 0.67
+    }
+   ],
+   "ct": [
+    {
+     "player": 21809,
+     "nick": "910",
+     "kills": 11,
+     "deaths": 7,
+     "swing": 9.34,
+     "adr": 85.8,
+     "kast": 83.3,
+     "rating": 1.57
+    },
+    {
+     "player": 25510,
+     "nick": "tikuak",
+     "kills": 9,
+     "deaths": 6,
+     "swing": 4.55,
+     "adr": 68.2,
+     "kast": 75.0,
+     "rating": 1.22
+    },
+    {
+     "player": 20194,
+     "nick": "bLitz",
+     "kills": 10,
+     "deaths": 10,
+     "swing": 1.04,
+     "adr": 102.0,
+     "kast": 75.0,
+     "rating": 1.1
+    },
+    {
+     "player": 23402,
+     "nick": "cobrazera",
+     "kills": 7,
+     "deaths": 8,
+     "swing": -2.01,
+     "adr": 77.2,
+     "kast": 75.0,
+     "rating": 0.88
+    },
+    {
+     "player": 26013,
+     "nick": "DarkMeister",
+     "kills": 7,
+     "deaths": 8,
+     "swing": -5.35,
+     "adr": 70.2,
+     "kast": 75.0,
+     "rating": 0.82
+    },
+    {
+     "player": 21288,
+     "nick": "venomzera",
+     "kills": 6,
+     "deaths": 5,
+     "swing": 2.4,
+     "adr": 83.8,
+     "kast": 83.3,
+     "rating": 1.26
+    },
+    {
+     "player": 21037,
+     "nick": "insani",
+     "kills": 4,
+     "deaths": 5,
+     "swing": -10.71,
+     "adr": 97.8,
+     "kast": 33.3,
+     "rating": 0.64
+    },
+    {
+     "player": 19694,
+     "nick": "nqz",
+     "kills": 2,
+     "deaths": 5,
+     "swing": -11.56,
+     "adr": 51.2,
+     "kast": 50.0,
+     "rating": 0.48
+    },
+    {
+     "player": 19310,
+     "nick": "LNZ",
+     "kills": 3,
+     "deaths": 5,
+     "swing": -12.39,
+     "adr": 40.0,
+     "kast": 66.7,
+     "rating": 0.3
+    },
+    {
+     "player": 22570,
+     "nick": "tomaszin",
+     "kills": 1,
+     "deaths": 6,
+     "swing": -9.97,
+     "adr": 50.3,
+     "kast": 83.3,
+     "rating": 0.29
     }
    ]
   },
@@ -805,108 +805,6 @@
    ],
    "t": [
     {
-     "player": 20194,
-     "nick": "bLitz",
-     "kills": 17,
-     "deaths": 7,
-     "swing": 6.49,
-     "adr": 163.6,
-     "kast": 72.7,
-     "rating": 2.13
-    },
-    {
-     "player": 23402,
-     "nick": "cobrazera",
-     "kills": 9,
-     "deaths": 6,
-     "swing": 6.52,
-     "adr": 94.4,
-     "kast": 81.8,
-     "rating": 1.54
-    },
-    {
-     "player": 21809,
-     "nick": "910",
-     "kills": 9,
-     "deaths": 7,
-     "swing": -1.33,
-     "adr": 78.9,
-     "kast": 72.7,
-     "rating": 0.98
-    },
-    {
-     "player": 25510,
-     "nick": "tikuak",
-     "kills": 5,
-     "deaths": 8,
-     "swing": -4.47,
-     "adr": 48.6,
-     "kast": 72.7,
-     "rating": 0.64
-    },
-    {
-     "player": 26013,
-     "nick": "DarkMeister",
-     "kills": 2,
-     "deaths": 8,
-     "swing": -8.05,
-     "adr": 31.7,
-     "kast": 63.6,
-     "rating": 0.37
-    },
-    {
-     "player": 21037,
-     "nick": "insani",
-     "kills": 14,
-     "deaths": 5,
-     "swing": 11.81,
-     "adr": 108.3,
-     "kast": 91.7,
-     "rating": 2.21
-    },
-    {
-     "player": 22570,
-     "nick": "tomaszin",
-     "kills": 14,
-     "deaths": 5,
-     "swing": 2.27,
-     "adr": 117.2,
-     "kast": 75.0,
-     "rating": 1.46
-    },
-    {
-     "player": 19310,
-     "nick": "LNZ",
-     "kills": 7,
-     "deaths": 6,
-     "swing": -0.45,
-     "adr": 71.6,
-     "kast": 83.3,
-     "rating": 0.87
-    },
-    {
-     "player": 21288,
-     "nick": "venomzera",
-     "kills": 6,
-     "deaths": 7,
-     "swing": -3.16,
-     "adr": 60.3,
-     "kast": 66.7,
-     "rating": 0.77
-    },
-    {
-     "player": 19694,
-     "nick": "nqz",
-     "kills": 4,
-     "deaths": 5,
-     "swing": -0.68,
-     "adr": 34.3,
-     "kast": 75.0,
-     "rating": 0.73
-    }
-   ],
-   "ct": [
-    {
      "player": 21809,
      "nick": "910",
      "kills": 10,
@@ -1005,6 +903,108 @@
      "adr": 59.3,
      "kast": 72.7,
      "rating": 0.75
+    }
+   ],
+   "ct": [
+    {
+     "player": 20194,
+     "nick": "bLitz",
+     "kills": 17,
+     "deaths": 7,
+     "swing": 6.49,
+     "adr": 163.6,
+     "kast": 72.7,
+     "rating": 2.13
+    },
+    {
+     "player": 23402,
+     "nick": "cobrazera",
+     "kills": 9,
+     "deaths": 6,
+     "swing": 6.52,
+     "adr": 94.4,
+     "kast": 81.8,
+     "rating": 1.54
+    },
+    {
+     "player": 21809,
+     "nick": "910",
+     "kills": 9,
+     "deaths": 7,
+     "swing": -1.33,
+     "adr": 78.9,
+     "kast": 72.7,
+     "rating": 0.98
+    },
+    {
+     "player": 25510,
+     "nick": "tikuak",
+     "kills": 5,
+     "deaths": 8,
+     "swing": -4.47,
+     "adr": 48.6,
+     "kast": 72.7,
+     "rating": 0.64
+    },
+    {
+     "player": 26013,
+     "nick": "DarkMeister",
+     "kills": 2,
+     "deaths": 8,
+     "swing": -8.05,
+     "adr": 31.7,
+     "kast": 63.6,
+     "rating": 0.37
+    },
+    {
+     "player": 21037,
+     "nick": "insani",
+     "kills": 14,
+     "deaths": 5,
+     "swing": 11.81,
+     "adr": 108.3,
+     "kast": 91.7,
+     "rating": 2.21
+    },
+    {
+     "player": 22570,
+     "nick": "tomaszin",
+     "kills": 14,
+     "deaths": 5,
+     "swing": 2.27,
+     "adr": 117.2,
+     "kast": 75.0,
+     "rating": 1.46
+    },
+    {
+     "player": 19310,
+     "nick": "LNZ",
+     "kills": 7,
+     "deaths": 6,
+     "swing": -0.45,
+     "adr": 71.6,
+     "kast": 83.3,
+     "rating": 0.87
+    },
+    {
+     "player": 21288,
+     "nick": "venomzera",
+     "kills": 6,
+     "deaths": 7,
+     "swing": -3.16,
+     "adr": 60.3,
+     "kast": 66.7,
+     "rating": 0.77
+    },
+    {
+     "player": 19694,
+     "nick": "nqz",
+     "kills": 4,
+     "deaths": 5,
+     "swing": -0.68,
+     "adr": 34.3,
+     "kast": 75.0,
+     "rating": 0.73
     }
    ]
   },
@@ -1113,108 +1113,6 @@
    ],
    "t": [
     {
-     "player": 23402,
-     "nick": "cobrazera",
-     "kills": 13,
-     "deaths": 10,
-     "swing": 4.15,
-     "adr": 95.4,
-     "kast": 80.0,
-     "rating": 1.45
-    },
-    {
-     "player": 20194,
-     "nick": "bLitz",
-     "kills": 11,
-     "deaths": 12,
-     "swing": -0.44,
-     "adr": 87.7,
-     "kast": 53.3,
-     "rating": 0.96
-    },
-    {
-     "player": 26013,
-     "nick": "DarkMeister",
-     "kills": 11,
-     "deaths": 11,
-     "swing": -2.91,
-     "adr": 71.6,
-     "kast": 60.0,
-     "rating": 0.89
-    },
-    {
-     "player": 21809,
-     "nick": "910",
-     "kills": 9,
-     "deaths": 10,
-     "swing": -1.4,
-     "adr": 57.7,
-     "kast": 73.3,
-     "rating": 0.67
-    },
-    {
-     "player": 25510,
-     "nick": "tikuak",
-     "kills": 7,
-     "deaths": 11,
-     "swing": -8.52,
-     "adr": 66.6,
-     "kast": 73.3,
-     "rating": 0.59
-    },
-    {
-     "player": 21288,
-     "nick": "venomzera",
-     "kills": 11,
-     "deaths": 9,
-     "swing": 10.02,
-     "adr": 89.5,
-     "kast": 92.3,
-     "rating": 1.65
-    },
-    {
-     "player": 19694,
-     "nick": "nqz",
-     "kills": 14,
-     "deaths": 6,
-     "swing": 5.41,
-     "adr": 91.2,
-     "kast": 76.9,
-     "rating": 1.49
-    },
-    {
-     "player": 21037,
-     "nick": "insani",
-     "kills": 10,
-     "deaths": 10,
-     "swing": -3.88,
-     "adr": 90.8,
-     "kast": 76.9,
-     "rating": 1.0
-    },
-    {
-     "player": 22570,
-     "nick": "tomaszin",
-     "kills": 9,
-     "deaths": 8,
-     "swing": -2.09,
-     "adr": 70.4,
-     "kast": 76.9,
-     "rating": 1.0
-    },
-    {
-     "player": 19310,
-     "nick": "LNZ",
-     "kills": 4,
-     "deaths": 10,
-     "swing": -2.69,
-     "adr": 60.0,
-     "kast": 76.9,
-     "rating": 0.69
-    }
-   ],
-   "ct": [
-    {
      "player": 21809,
      "nick": "910",
      "kills": 12,
@@ -1314,6 +1212,108 @@
      "kast": 60.0,
      "rating": 0.48
     }
+   ],
+   "ct": [
+    {
+     "player": 23402,
+     "nick": "cobrazera",
+     "kills": 13,
+     "deaths": 10,
+     "swing": 4.15,
+     "adr": 95.4,
+     "kast": 80.0,
+     "rating": 1.45
+    },
+    {
+     "player": 20194,
+     "nick": "bLitz",
+     "kills": 11,
+     "deaths": 12,
+     "swing": -0.44,
+     "adr": 87.7,
+     "kast": 53.3,
+     "rating": 0.96
+    },
+    {
+     "player": 26013,
+     "nick": "DarkMeister",
+     "kills": 11,
+     "deaths": 11,
+     "swing": -2.91,
+     "adr": 71.6,
+     "kast": 60.0,
+     "rating": 0.89
+    },
+    {
+     "player": 21809,
+     "nick": "910",
+     "kills": 9,
+     "deaths": 10,
+     "swing": -1.4,
+     "adr": 57.7,
+     "kast": 73.3,
+     "rating": 0.67
+    },
+    {
+     "player": 25510,
+     "nick": "tikuak",
+     "kills": 7,
+     "deaths": 11,
+     "swing": -8.52,
+     "adr": 66.6,
+     "kast": 73.3,
+     "rating": 0.59
+    },
+    {
+     "player": 21288,
+     "nick": "venomzera",
+     "kills": 11,
+     "deaths": 9,
+     "swing": 10.02,
+     "adr": 89.5,
+     "kast": 92.3,
+     "rating": 1.65
+    },
+    {
+     "player": 19694,
+     "nick": "nqz",
+     "kills": 14,
+     "deaths": 6,
+     "swing": 5.41,
+     "adr": 91.2,
+     "kast": 76.9,
+     "rating": 1.49
+    },
+    {
+     "player": 21037,
+     "nick": "insani",
+     "kills": 10,
+     "deaths": 10,
+     "swing": -3.88,
+     "adr": 90.8,
+     "kast": 76.9,
+     "rating": 1.0
+    },
+    {
+     "player": 22570,
+     "nick": "tomaszin",
+     "kills": 9,
+     "deaths": 8,
+     "swing": -2.09,
+     "adr": 70.4,
+     "kast": 76.9,
+     "rating": 1.0
+    },
+    {
+     "player": 19310,
+     "nick": "LNZ",
+     "kills": 4,
+     "deaths": 10,
+     "swing": -2.69,
+     "adr": 60.0,
+     "kast": 76.9,
+     "rating": 0.69
+    }
    ]
   }
  },
@@ -1328,5 +1328,12 @@
   "swing": 3.55,
   "adr": 92.6,
   "rating": 1.39
- }
+ },
+ "h2h": {
+  "team1Wins": 0,
+  "overtimes": 0,
+  "team2Wins": 0,
+  "maps": []
+ },
+ "demo": "https://www.hltv.org/download/demo/111139"
 }

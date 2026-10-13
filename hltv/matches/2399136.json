@@ -1,7 +1,7 @@
 {
  "id": 2399136,
  "eventId": 9223,
- "stage": "Group D",
+ "stage": "Group D Opening Match",
  "time": "2026-10-15T10:00:00Z",
  "bo": 3,
  "status": "upcoming",
@@ -18,11 +18,10 @@
  "maps": [],
  "stats": {},
  "mvp": null,
- "highlight": null,
  "h2h": {
   "team1Wins": 0,
-  "team2Wins": 0,
   "overtimes": 0,
+  "team2Wins": 0,
   "maps": []
  }
 }

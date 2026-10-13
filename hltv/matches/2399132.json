@@ -1,21 +1,1352 @@
 {
  "id": 2399132,
  "eventId": 9223,
- "stage": "Group B",
+ "stage": "Group B Opening Match",
  "time": "2026-10-13T10:00:00Z",
  "bo": 3,
- "status": "upcoming",
+ "status": "finished",
  "team1": {
   "id": 5973,
-  "score": null,
-  "players": []
+  "score": 2,
+  "players": [
+   24203,
+   11617,
+   8520,
+   8738,
+   11630
+  ]
  },
  "team2": {
   "id": 13996,
-  "score": null,
-  "players": []
+  "score": 1,
+  "players": [
+   21571,
+   21379,
+   24104,
+   16731,
+   21199
+  ]
  },
- "maps": [],
- "stats": {},
- "mvp": null
+ "maps": [
+  {
+   "map": "de_nuke",
+   "pick": 13996,
+   "score": [
+    9,
+    13
+   ],
+   "halves": [
+    [
+     6,
+     6
+    ],
+    [
+     3,
+     7
+    ]
+   ]
+  },
+  {
+   "map": "de_mirage",
+   "pick": 5973,
+   "score": [
+    13,
+    8
+   ],
+   "halves": [
+    [
+     11,
+     1
+    ],
+    [
+     2,
+     7
+    ]
+   ]
+  },
+  {
+   "map": "de_cache",
+   "pick": null,
+   "score": [
+    16,
+    14
+   ],
+   "halves": [
+    [
+     11,
+     1
+    ],
+    [
+     1,
+     11
+    ]
+   ]
+  }
+ ],
+ "stats": {
+  "all": {
+   "both": [
+    {
+     "player": 24203,
+     "nick": "Jorko",
+     "kills": 57,
+     "deaths": 43,
+     "swing": 2.39,
+     "adr": 77.5,
+     "kast": 72.6,
+     "rating": 1.29
+    },
+    {
+     "player": 8738,
+     "nick": "EliGE",
+     "kills": 55,
+     "deaths": 51,
+     "swing": 1.41,
+     "adr": 85.0,
+     "kast": 75.3,
+     "rating": 1.22
+    },
+    {
+     "player": 11630,
+     "nick": "JT",
+     "kills": 49,
+     "deaths": 44,
+     "swing": 1.64,
+     "adr": 72.8,
+     "kast": 75.3,
+     "rating": 1.2
+    },
+    {
+     "player": 11617,
+     "nick": "malbsMd",
+     "kills": 58,
+     "deaths": 53,
+     "swing": -1.63,
+     "adr": 75.2,
+     "kast": 68.5,
+     "rating": 1.03
+    },
+    {
+     "player": 8520,
+     "nick": "NAF",
+     "kills": 39,
+     "deaths": 48,
+     "swing": -1.03,
+     "adr": 72.9,
+     "kast": 80.8,
+     "rating": 0.99
+    },
+    {
+     "player": 21571,
+     "nick": "leakz",
+     "kills": 62,
+     "deaths": 53,
+     "swing": 3.92,
+     "adr": 90.5,
+     "kast": 76.7,
+     "rating": 1.37
+    },
+    {
+     "player": 24104,
+     "nick": "NickyB",
+     "kills": 48,
+     "deaths": 54,
+     "swing": 1.22,
+     "adr": 84.6,
+     "kast": 68.5,
+     "rating": 1.19
+    },
+    {
+     "player": 21379,
+     "nick": "salazar",
+     "kills": 49,
+     "deaths": 46,
+     "swing": -1.29,
+     "adr": 67.9,
+     "kast": 69.9,
+     "rating": 0.93
+    },
+    {
+     "player": 16731,
+     "nick": "IceBerg",
+     "kills": 43,
+     "deaths": 57,
+     "swing": -1.85,
+     "adr": 66.4,
+     "kast": 71.2,
+     "rating": 0.91
+    },
+    {
+     "player": 21199,
+     "nick": "MistR",
+     "kills": 34,
+     "deaths": 50,
+     "swing": -4.79,
+     "adr": 43.8,
+     "kast": 65.8,
+     "rating": 0.73
+    }
+   ],
+   "t": [
+    {
+     "player": 24203,
+     "nick": "Jorko",
+     "kills": 31,
+     "deaths": 17,
+     "swing": 9.03,
+     "adr": 87.4,
+     "kast": 83.8,
+     "rating": 1.8
+    },
+    {
+     "player": 11630,
+     "nick": "JT",
+     "kills": 30,
+     "deaths": 22,
+     "swing": 7.46,
+     "adr": 87.5,
+     "kast": 81.1,
+     "rating": 1.68
+    },
+    {
+     "player": 8738,
+     "nick": "EliGE",
+     "kills": 33,
+     "deaths": 23,
+     "swing": 5.95,
+     "adr": 93.2,
+     "kast": 81.1,
+     "rating": 1.63
+    },
+    {
+     "player": 11617,
+     "nick": "malbsMd",
+     "kills": 32,
+     "deaths": 25,
+     "swing": 1.65,
+     "adr": 78.6,
+     "kast": 75.7,
+     "rating": 1.23
+    },
+    {
+     "player": 8520,
+     "nick": "NAF",
+     "kills": 20,
+     "deaths": 23,
+     "swing": -0.29,
+     "adr": 68.4,
+     "kast": 78.4,
+     "rating": 1.09
+    },
+    {
+     "player": 24104,
+     "nick": "NickyB",
+     "kills": 29,
+     "deaths": 23,
+     "swing": 8.21,
+     "adr": 96.1,
+     "kast": 77.8,
+     "rating": 1.7
+    },
+    {
+     "player": 21571,
+     "nick": "leakz",
+     "kills": 32,
+     "deaths": 25,
+     "swing": 7.48,
+     "adr": 93.9,
+     "kast": 80.6,
+     "rating": 1.66
+    },
+    {
+     "player": 21379,
+     "nick": "salazar",
+     "kills": 28,
+     "deaths": 17,
+     "swing": 1.97,
+     "adr": 73.9,
+     "kast": 72.2,
+     "rating": 1.26
+    },
+    {
+     "player": 16731,
+     "nick": "IceBerg",
+     "kills": 23,
+     "deaths": 28,
+     "swing": 2.21,
+     "adr": 69.7,
+     "kast": 86.1,
+     "rating": 1.22
+    },
+    {
+     "player": 21199,
+     "nick": "MistR",
+     "kills": 17,
+     "deaths": 20,
+     "swing": -1.05,
+     "adr": 46.2,
+     "kast": 72.2,
+     "rating": 0.93
+    }
+   ],
+   "ct": [
+    {
+     "player": 8520,
+     "nick": "NAF",
+     "kills": 19,
+     "deaths": 25,
+     "swing": -1.79,
+     "adr": 77.5,
+     "kast": 83.3,
+     "rating": 0.88
+    },
+    {
+     "player": 11617,
+     "nick": "malbsMd",
+     "kills": 26,
+     "deaths": 28,
+     "swing": -4.99,
+     "adr": 71.7,
+     "kast": 61.1,
+     "rating": 0.82
+    },
+    {
+     "player": 8738,
+     "nick": "EliGE",
+     "kills": 22,
+     "deaths": 28,
+     "swing": -3.26,
+     "adr": 76.6,
+     "kast": 69.4,
+     "rating": 0.79
+    },
+    {
+     "player": 24203,
+     "nick": "Jorko",
+     "kills": 26,
+     "deaths": 26,
+     "swing": -4.43,
+     "adr": 67.3,
+     "kast": 61.1,
+     "rating": 0.77
+    },
+    {
+     "player": 11630,
+     "nick": "JT",
+     "kills": 19,
+     "deaths": 22,
+     "swing": -4.35,
+     "adr": 57.6,
+     "kast": 69.4,
+     "rating": 0.7
+    },
+    {
+     "player": 21571,
+     "nick": "leakz",
+     "kills": 30,
+     "deaths": 28,
+     "swing": 0.45,
+     "adr": 87.2,
+     "kast": 73.0,
+     "rating": 1.09
+    },
+    {
+     "player": 24104,
+     "nick": "NickyB",
+     "kills": 19,
+     "deaths": 31,
+     "swing": -5.57,
+     "adr": 73.4,
+     "kast": 59.5,
+     "rating": 0.69
+    },
+    {
+     "player": 21379,
+     "nick": "salazar",
+     "kills": 21,
+     "deaths": 29,
+     "swing": -4.46,
+     "adr": 62.0,
+     "kast": 67.6,
+     "rating": 0.62
+    },
+    {
+     "player": 16731,
+     "nick": "IceBerg",
+     "kills": 20,
+     "deaths": 29,
+     "swing": -5.79,
+     "adr": 63.2,
+     "kast": 56.8,
+     "rating": 0.62
+    },
+    {
+     "player": 21199,
+     "nick": "MistR",
+     "kills": 17,
+     "deaths": 30,
+     "swing": -8.42,
+     "adr": 41.4,
+     "kast": 59.5,
+     "rating": 0.54
+    }
+   ]
+  },
+  "de_nuke": {
+   "both": [
+    {
+     "player": 24203,
+     "nick": "Jorko",
+     "kills": 19,
+     "deaths": 16,
+     "swing": 1.55,
+     "adr": 92.7,
+     "kast": 81.8,
+     "rating": 1.31
+    },
+    {
+     "player": 11617,
+     "nick": "malbsMd",
+     "kills": 18,
+     "deaths": 17,
+     "swing": -0.94,
+     "adr": 76.5,
+     "kast": 63.6,
+     "rating": 1.07
+    },
+    {
+     "player": 11630,
+     "nick": "JT",
+     "kills": 15,
+     "deaths": 17,
+     "swing": 0.29,
+     "adr": 66.7,
+     "kast": 63.6,
+     "rating": 0.96
+    },
+    {
+     "player": 8520,
+     "nick": "NAF",
+     "kills": 9,
+     "deaths": 16,
+     "swing": -2.45,
+     "adr": 49.6,
+     "kast": 77.3,
+     "rating": 0.86
+    },
+    {
+     "player": 8738,
+     "nick": "EliGE",
+     "kills": 9,
+     "deaths": 19,
+     "swing": -3.57,
+     "adr": 66.4,
+     "kast": 59.1,
+     "rating": 0.62
+    },
+    {
+     "player": 21571,
+     "nick": "leakz",
+     "kills": 21,
+     "deaths": 15,
+     "swing": 8.67,
+     "adr": 102.8,
+     "kast": 81.8,
+     "rating": 1.83
+    },
+    {
+     "player": 16731,
+     "nick": "IceBerg",
+     "kills": 17,
+     "deaths": 15,
+     "swing": 0.49,
+     "adr": 87.0,
+     "kast": 90.9,
+     "rating": 1.23
+    },
+    {
+     "player": 21379,
+     "nick": "salazar",
+     "kills": 20,
+     "deaths": 13,
+     "swing": -0.82,
+     "adr": 77.4,
+     "kast": 77.3,
+     "rating": 1.12
+    },
+    {
+     "player": 24104,
+     "nick": "NickyB",
+     "kills": 13,
+     "deaths": 14,
+     "swing": 0.67,
+     "adr": 82.8,
+     "kast": 63.6,
+     "rating": 1.1
+    },
+    {
+     "player": 21199,
+     "nick": "MistR",
+     "kills": 13,
+     "deaths": 13,
+     "swing": -3.89,
+     "adr": 52.5,
+     "kast": 77.3,
+     "rating": 0.89
+    }
+   ],
+   "t": [
+    {
+     "player": 8520,
+     "nick": "NAF",
+     "kills": 6,
+     "deaths": 9,
+     "swing": -0.67,
+     "adr": 64.2,
+     "kast": 70.0,
+     "rating": 1.13
+    },
+    {
+     "player": 24203,
+     "nick": "Jorko",
+     "kills": 5,
+     "deaths": 8,
+     "swing": 0.52,
+     "adr": 74.4,
+     "kast": 80.0,
+     "rating": 1.07
+    },
+    {
+     "player": 11630,
+     "nick": "JT",
+     "kills": 5,
+     "deaths": 10,
+     "swing": 1.03,
+     "adr": 60.9,
+     "kast": 60.0,
+     "rating": 0.9
+    },
+    {
+     "player": 8738,
+     "nick": "EliGE",
+     "kills": 5,
+     "deaths": 9,
+     "swing": -6.16,
+     "adr": 69.4,
+     "kast": 50.0,
+     "rating": 0.71
+    },
+    {
+     "player": 11617,
+     "nick": "malbsMd",
+     "kills": 6,
+     "deaths": 9,
+     "swing": -7.87,
+     "adr": 46.8,
+     "kast": 50.0,
+     "rating": 0.47
+    },
+    {
+     "player": 21571,
+     "nick": "leakz",
+     "kills": 10,
+     "deaths": 9,
+     "swing": 5.46,
+     "adr": 91.5,
+     "kast": 83.3,
+     "rating": 1.54
+    },
+    {
+     "player": 21379,
+     "nick": "salazar",
+     "kills": 10,
+     "deaths": 7,
+     "swing": -3.4,
+     "adr": 73.8,
+     "kast": 66.7,
+     "rating": 1.1
+    },
+    {
+     "player": 24104,
+     "nick": "NickyB",
+     "kills": 6,
+     "deaths": 9,
+     "swing": 2.25,
+     "adr": 63.6,
+     "kast": 66.7,
+     "rating": 1.02
+    },
+    {
+     "player": 16731,
+     "nick": "IceBerg",
+     "kills": 6,
+     "deaths": 10,
+     "swing": -1.38,
+     "adr": 68.6,
+     "kast": 83.3,
+     "rating": 1.0
+    },
+    {
+     "player": 21199,
+     "nick": "MistR",
+     "kills": 8,
+     "deaths": 8,
+     "swing": -4.51,
+     "adr": 66.2,
+     "kast": 58.3,
+     "rating": 0.88
+    }
+   ],
+   "ct": [
+    {
+     "player": 11617,
+     "nick": "malbsMd",
+     "kills": 12,
+     "deaths": 8,
+     "swing": 4.83,
+     "adr": 101.2,
+     "kast": 75.0,
+     "rating": 1.56
+    },
+    {
+     "player": 24203,
+     "nick": "Jorko",
+     "kills": 14,
+     "deaths": 8,
+     "swing": 2.4,
+     "adr": 107.9,
+     "kast": 83.3,
+     "rating": 1.51
+    },
+    {
+     "player": 11630,
+     "nick": "JT",
+     "kills": 10,
+     "deaths": 7,
+     "swing": -0.33,
+     "adr": 71.5,
+     "kast": 66.7,
+     "rating": 1.01
+    },
+    {
+     "player": 8520,
+     "nick": "NAF",
+     "kills": 3,
+     "deaths": 7,
+     "swing": -3.93,
+     "adr": 37.4,
+     "kast": 83.3,
+     "rating": 0.63
+    },
+    {
+     "player": 8738,
+     "nick": "EliGE",
+     "kills": 4,
+     "deaths": 10,
+     "swing": -1.41,
+     "adr": 63.8,
+     "kast": 66.7,
+     "rating": 0.55
+    },
+    {
+     "player": 21571,
+     "nick": "leakz",
+     "kills": 11,
+     "deaths": 6,
+     "swing": 12.51,
+     "adr": 116.4,
+     "kast": 80.0,
+     "rating": 2.18
+    },
+    {
+     "player": 16731,
+     "nick": "IceBerg",
+     "kills": 11,
+     "deaths": 5,
+     "swing": 2.72,
+     "adr": 109.2,
+     "kast": 100.0,
+     "rating": 1.5
+    },
+    {
+     "player": 24104,
+     "nick": "NickyB",
+     "kills": 7,
+     "deaths": 5,
+     "swing": -1.23,
+     "adr": 105.8,
+     "kast": 60.0,
+     "rating": 1.19
+    },
+    {
+     "player": 21379,
+     "nick": "salazar",
+     "kills": 10,
+     "deaths": 6,
+     "swing": 2.28,
+     "adr": 81.6,
+     "kast": 90.0,
+     "rating": 1.14
+    },
+    {
+     "player": 21199,
+     "nick": "MistR",
+     "kills": 5,
+     "deaths": 5,
+     "swing": -3.15,
+     "adr": 36.0,
+     "kast": 100.0,
+     "rating": 0.91
+    }
+   ]
+  },
+  "de_mirage": {
+   "both": [
+    {
+     "player": 11617,
+     "nick": "malbsMd",
+     "kills": 22,
+     "deaths": 13,
+     "swing": 0.19,
+     "adr": 97.6,
+     "kast": 76.2,
+     "rating": 1.46
+    },
+    {
+     "player": 24203,
+     "nick": "Jorko",
+     "kills": 16,
+     "deaths": 11,
+     "swing": 4.35,
+     "adr": 76.4,
+     "kast": 71.4,
+     "rating": 1.44
+    },
+    {
+     "player": 8520,
+     "nick": "NAF",
+     "kills": 14,
+     "deaths": 10,
+     "swing": 3.23,
+     "adr": 92.2,
+     "kast": 85.7,
+     "rating": 1.4
+    },
+    {
+     "player": 8738,
+     "nick": "EliGE",
+     "kills": 17,
+     "deaths": 13,
+     "swing": 1.3,
+     "adr": 81.4,
+     "kast": 81.0,
+     "rating": 1.33
+    },
+    {
+     "player": 11630,
+     "nick": "JT",
+     "kills": 13,
+     "deaths": 9,
+     "swing": 1.2,
+     "adr": 59.0,
+     "kast": 85.7,
+     "rating": 1.16
+    },
+    {
+     "player": 24104,
+     "nick": "NickyB",
+     "kills": 13,
+     "deaths": 18,
+     "swing": 0.42,
+     "adr": 65.9,
+     "kast": 66.7,
+     "rating": 1.09
+    },
+    {
+     "player": 21571,
+     "nick": "leakz",
+     "kills": 16,
+     "deaths": 16,
+     "swing": -2.05,
+     "adr": 82.9,
+     "kast": 81.0,
+     "rating": 1.0
+    },
+    {
+     "player": 21379,
+     "nick": "salazar",
+     "kills": 9,
+     "deaths": 13,
+     "swing": -0.8,
+     "adr": 62.5,
+     "kast": 66.7,
+     "rating": 0.78
+    },
+    {
+     "player": 21199,
+     "nick": "MistR",
+     "kills": 10,
+     "deaths": 16,
+     "swing": -2.49,
+     "adr": 38.1,
+     "kast": 61.9,
+     "rating": 0.78
+    },
+    {
+     "player": 16731,
+     "nick": "IceBerg",
+     "kills": 8,
+     "deaths": 19,
+     "swing": -5.35,
+     "adr": 57.2,
+     "kast": 52.4,
+     "rating": 0.63
+    }
+   ],
+   "t": [
+    {
+     "player": 24203,
+     "nick": "Jorko",
+     "kills": 13,
+     "deaths": 4,
+     "swing": 12.18,
+     "adr": 93.6,
+     "kast": 83.3,
+     "rating": 2.15
+    },
+    {
+     "player": 11617,
+     "nick": "malbsMd",
+     "kills": 14,
+     "deaths": 7,
+     "swing": 6.33,
+     "adr": 123.8,
+     "kast": 100.0,
+     "rating": 1.99
+    },
+    {
+     "player": 8738,
+     "nick": "EliGE",
+     "kills": 12,
+     "deaths": 7,
+     "swing": 7.23,
+     "adr": 89.5,
+     "kast": 83.3,
+     "rating": 1.8
+    },
+    {
+     "player": 11630,
+     "nick": "JT",
+     "kills": 10,
+     "deaths": 4,
+     "swing": 5.86,
+     "adr": 81.8,
+     "kast": 91.7,
+     "rating": 1.63
+    },
+    {
+     "player": 8520,
+     "nick": "NAF",
+     "kills": 7,
+     "deaths": 5,
+     "swing": 3.92,
+     "adr": 79.8,
+     "kast": 83.3,
+     "rating": 1.35
+    },
+    {
+     "player": 24104,
+     "nick": "NickyB",
+     "kills": 8,
+     "deaths": 6,
+     "swing": 12.03,
+     "adr": 105.2,
+     "kast": 88.9,
+     "rating": 2.0
+    },
+    {
+     "player": 16731,
+     "nick": "IceBerg",
+     "kills": 6,
+     "deaths": 7,
+     "swing": 3.2,
+     "adr": 66.8,
+     "kast": 77.8,
+     "rating": 1.15
+    },
+    {
+     "player": 21571,
+     "nick": "leakz",
+     "kills": 6,
+     "deaths": 6,
+     "swing": 2.24,
+     "adr": 76.3,
+     "kast": 77.8,
+     "rating": 1.14
+    },
+    {
+     "player": 21199,
+     "nick": "MistR",
+     "kills": 4,
+     "deaths": 4,
+     "swing": 3.95,
+     "adr": 32.8,
+     "kast": 77.8,
+     "rating": 1.1
+    },
+    {
+     "player": 21379,
+     "nick": "salazar",
+     "kills": 5,
+     "deaths": 3,
+     "swing": 1.97,
+     "adr": 62.0,
+     "kast": 66.7,
+     "rating": 1.09
+    }
+   ],
+   "ct": [
+    {
+     "player": 8520,
+     "nick": "NAF",
+     "kills": 7,
+     "deaths": 5,
+     "swing": 2.31,
+     "adr": 108.8,
+     "kast": 88.9,
+     "rating": 1.47
+    },
+    {
+     "player": 11617,
+     "nick": "malbsMd",
+     "kills": 8,
+     "deaths": 6,
+     "swing": -8.0,
+     "adr": 62.6,
+     "kast": 44.4,
+     "rating": 0.74
+    },
+    {
+     "player": 8738,
+     "nick": "EliGE",
+     "kills": 5,
+     "deaths": 6,
+     "swing": -6.61,
+     "adr": 70.6,
+     "kast": 77.8,
+     "rating": 0.69
+    },
+    {
+     "player": 11630,
+     "nick": "JT",
+     "kills": 3,
+     "deaths": 5,
+     "swing": -5.0,
+     "adr": 28.6,
+     "kast": 77.8,
+     "rating": 0.54
+    },
+    {
+     "player": 24203,
+     "nick": "Jorko",
+     "kills": 3,
+     "deaths": 7,
+     "swing": -6.09,
+     "adr": 53.6,
+     "kast": 55.6,
+     "rating": 0.5
+    },
+    {
+     "player": 21571,
+     "nick": "leakz",
+     "kills": 10,
+     "deaths": 10,
+     "swing": -5.27,
+     "adr": 87.8,
+     "kast": 83.3,
+     "rating": 0.89
+    },
+    {
+     "player": 21379,
+     "nick": "salazar",
+     "kills": 4,
+     "deaths": 10,
+     "swing": -2.89,
+     "adr": 62.8,
+     "kast": 66.7,
+     "rating": 0.54
+    },
+    {
+     "player": 21199,
+     "nick": "MistR",
+     "kills": 6,
+     "deaths": 12,
+     "swing": -7.32,
+     "adr": 42.1,
+     "kast": 50.0,
+     "rating": 0.53
+    },
+    {
+     "player": 24104,
+     "nick": "NickyB",
+     "kills": 5,
+     "deaths": 12,
+     "swing": -8.28,
+     "adr": 36.3,
+     "kast": 50.0,
+     "rating": 0.4
+    },
+    {
+     "player": 16731,
+     "nick": "IceBerg",
+     "kills": 2,
+     "deaths": 12,
+     "swing": -11.76,
+     "adr": 50.0,
+     "kast": 33.3,
+     "rating": 0.23
+    }
+   ]
+  },
+  "de_cache": {
+   "both": [
+    {
+     "player": 8738,
+     "nick": "EliGE",
+     "kills": 29,
+     "deaths": 19,
+     "swing": 5.14,
+     "adr": 101.2,
+     "kast": 83.3,
+     "rating": 1.67
+    },
+    {
+     "player": 11630,
+     "nick": "JT",
+     "kills": 21,
+     "deaths": 18,
+     "swing": 2.93,
+     "adr": 86.9,
+     "kast": 76.7,
+     "rating": 1.43
+    },
+    {
+     "player": 24203,
+     "nick": "Jorko",
+     "kills": 22,
+     "deaths": 16,
+     "swing": 1.64,
+     "adr": 67.1,
+     "kast": 66.7,
+     "rating": 1.26
+    },
+    {
+     "player": 11617,
+     "nick": "malbsMd",
+     "kills": 18,
+     "deaths": 23,
+     "swing": -3.4,
+     "adr": 58.6,
+     "kast": 66.7,
+     "rating": 0.85
+    },
+    {
+     "player": 8520,
+     "nick": "NAF",
+     "kills": 16,
+     "deaths": 22,
+     "swing": -2.98,
+     "adr": 76.5,
+     "kast": 80.0,
+     "rating": 0.84
+    },
+    {
+     "player": 21571,
+     "nick": "leakz",
+     "kills": 25,
+     "deaths": 22,
+     "swing": 4.61,
+     "adr": 86.9,
+     "kast": 70.0,
+     "rating": 1.38
+    },
+    {
+     "player": 24104,
+     "nick": "NickyB",
+     "kills": 22,
+     "deaths": 22,
+     "swing": 2.19,
+     "adr": 99.0,
+     "kast": 73.3,
+     "rating": 1.36
+    },
+    {
+     "player": 16731,
+     "nick": "IceBerg",
+     "kills": 18,
+     "deaths": 23,
+     "swing": -1.11,
+     "adr": 57.7,
+     "kast": 70.0,
+     "rating": 0.99
+    },
+    {
+     "player": 21379,
+     "nick": "salazar",
+     "kills": 20,
+     "deaths": 20,
+     "swing": -1.97,
+     "adr": 64.7,
+     "kast": 66.7,
+     "rating": 0.97
+    },
+    {
+     "player": 21199,
+     "nick": "MistR",
+     "kills": 11,
+     "deaths": 21,
+     "swing": -7.05,
+     "adr": 41.4,
+     "kast": 60.0,
+     "rating": 0.61
+    }
+   ],
+   "t": [
+    {
+     "player": 11630,
+     "nick": "JT",
+     "kills": 15,
+     "deaths": 8,
+     "swing": 13.02,
+     "adr": 109.9,
+     "kast": 86.7,
+     "rating": 2.28
+    },
+    {
+     "player": 8738,
+     "nick": "EliGE",
+     "kills": 16,
+     "deaths": 7,
+     "swing": 13.0,
+     "adr": 112.1,
+     "kast": 100.0,
+     "rating": 2.27
+    },
+    {
+     "player": 24203,
+     "nick": "Jorko",
+     "kills": 13,
+     "deaths": 5,
+     "swing": 12.18,
+     "adr": 91.1,
+     "kast": 86.7,
+     "rating": 2.03
+    },
+    {
+     "player": 11617,
+     "nick": "malbsMd",
+     "kills": 12,
+     "deaths": 9,
+     "swing": 4.25,
+     "adr": 63.5,
+     "kast": 73.3,
+     "rating": 1.28
+    },
+    {
+     "player": 8520,
+     "nick": "NAF",
+     "kills": 7,
+     "deaths": 9,
+     "swing": -3.41,
+     "adr": 62.1,
+     "kast": 80.0,
+     "rating": 0.87
+    },
+    {
+     "player": 24104,
+     "nick": "NickyB",
+     "kills": 15,
+     "deaths": 8,
+     "swing": 10.67,
+     "adr": 116.5,
+     "kast": 80.0,
+     "rating": 2.1
+    },
+    {
+     "player": 21571,
+     "nick": "leakz",
+     "kills": 16,
+     "deaths": 10,
+     "swing": 12.24,
+     "adr": 106.5,
+     "kast": 80.0,
+     "rating": 2.09
+    },
+    {
+     "player": 21379,
+     "nick": "salazar",
+     "kills": 13,
+     "deaths": 7,
+     "swing": 6.26,
+     "adr": 81.1,
+     "kast": 80.0,
+     "rating": 1.55
+    },
+    {
+     "player": 16731,
+     "nick": "IceBerg",
+     "kills": 11,
+     "deaths": 11,
+     "swing": 4.48,
+     "adr": 72.4,
+     "kast": 93.3,
+     "rating": 1.45
+    },
+    {
+     "player": 21199,
+     "nick": "MistR",
+     "kills": 5,
+     "deaths": 8,
+     "swing": -1.28,
+     "adr": 38.3,
+     "kast": 80.0,
+     "rating": 0.9
+    }
+   ],
+   "ct": [
+    {
+     "player": 8738,
+     "nick": "EliGE",
+     "kills": 13,
+     "deaths": 12,
+     "swing": -2.73,
+     "adr": 90.3,
+     "kast": 66.7,
+     "rating": 1.08
+    },
+    {
+     "player": 8520,
+     "nick": "NAF",
+     "kills": 9,
+     "deaths": 13,
+     "swing": -2.54,
+     "adr": 90.9,
+     "kast": 80.0,
+     "rating": 0.8
+    },
+    {
+     "player": 11630,
+     "nick": "JT",
+     "kills": 6,
+     "deaths": 10,
+     "swing": -7.16,
+     "adr": 63.9,
+     "kast": 66.7,
+     "rating": 0.57
+    },
+    {
+     "player": 24203,
+     "nick": "Jorko",
+     "kills": 9,
+     "deaths": 11,
+     "swing": -8.89,
+     "adr": 43.1,
+     "kast": 46.7,
+     "rating": 0.48
+    },
+    {
+     "player": 11617,
+     "nick": "malbsMd",
+     "kills": 6,
+     "deaths": 14,
+     "swing": -11.05,
+     "adr": 53.6,
+     "kast": 60.0,
+     "rating": 0.41
+    },
+    {
+     "player": 21571,
+     "nick": "leakz",
+     "kills": 9,
+     "deaths": 12,
+     "swing": -3.02,
+     "adr": 67.3,
+     "kast": 60.0,
+     "rating": 0.67
+    },
+    {
+     "player": 24104,
+     "nick": "NickyB",
+     "kills": 7,
+     "deaths": 14,
+     "swing": -6.3,
+     "adr": 81.4,
+     "kast": 66.7,
+     "rating": 0.62
+    },
+    {
+     "player": 16731,
+     "nick": "IceBerg",
+     "kills": 7,
+     "deaths": 12,
+     "swing": -6.7,
+     "adr": 43.1,
+     "kast": 46.7,
+     "rating": 0.53
+    },
+    {
+     "player": 21379,
+     "nick": "salazar",
+     "kills": 7,
+     "deaths": 13,
+     "swing": -10.2,
+     "adr": 48.3,
+     "kast": 53.3,
+     "rating": 0.4
+    },
+    {
+     "player": 21199,
+     "nick": "MistR",
+     "kills": 6,
+     "deaths": 13,
+     "swing": -12.82,
+     "adr": 44.5,
+     "kast": 40.0,
+     "rating": 0.32
+    }
+   ]
+  }
+ },
+ "mvp": {
+  "player": 21571,
+  "nick": "leakz",
+  "maps": 3,
+  "kpr": 0.85,
+  "dpr": 0.73,
+  "kast": 76.7,
+  "mkRating": 1.3,
+  "swing": 3.92,
+  "adr": 90.5,
+  "rating": 1.37
+ },
+ "h2h": {
+  "team1Wins": 0,
+  "overtimes": 0,
+  "team2Wins": 1,
+  "maps": [
+   {
+    "date": "2026-09-18",
+    "matchId": 2397911,
+    "eventId": 9266,
+    "event": "Logitech G Play Connect 2026",
+    "map": "de_nuke",
+    "score": [
+     6,
+     13
+    ],
+    "winner": 13996
+   }
+  ]
+ },
+ "demo": "https://www.hltv.org/download/demo/112720"
 }

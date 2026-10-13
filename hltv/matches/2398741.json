@@ -1,18 +1,18 @@
 {
  "id": 2398741,
  "eventId": 8244,
- "stage": null,
- "time": "2026-10-06T20:00:00+08:00",
+ "stage": "Swiss Round 4",
+ "time": "2026-10-06T12:00:00Z",
  "bo": 3,
  "status": "finished",
  "team1": {
   "id": 5995,
   "score": 1,
   "players": [
-   9436,
+   20425,
    21062,
    3972,
-   20425,
+   9436,
    20447
   ]
  },
@@ -20,11 +20,11 @@
   "id": 12467,
   "score": 2,
   "players": [
-   13776,
-   8528,
-   22471,
    23685,
-   12732
+   13776,
+   22471,
+   12732,
+   8528
   ]
  },
  "maps": [
@@ -1317,17 +1317,27 @@
    ]
   }
  },
- "mvp": 13776,
- "highlight": null,
+ "mvp": {
+  "player": 13776,
+  "nick": "Jame",
+  "maps": 3,
+  "kpr": 0.83,
+  "dpr": 0.55,
+  "kast": 77.3,
+  "mkRating": 1.16,
+  "swing": 4.08,
+  "adr": 80.0,
+  "rating": 1.35
+ },
  "h2h": {
   "team1Wins": 3,
-  "team2Wins": 3,
   "overtimes": 1,
+  "team2Wins": 3,
   "maps": [
    {
     "date": "2026-05-12",
     "matchId": 2394145,
-    "eventId": null,
+    "eventId": 8049,
     "event": "PGL Astana 2026",
     "map": "de_ancient",
     "score": [
@@ -1339,7 +1349,7 @@
    {
     "date": "2026-05-12",
     "matchId": 2394145,
-    "eventId": null,
+    "eventId": 8049,
     "event": "PGL Astana 2026",
     "map": "de_dust2",
     "score": [
@@ -1351,7 +1361,7 @@
    {
     "date": "2026-05-12",
     "matchId": 2394145,
-    "eventId": null,
+    "eventId": 8049,
     "event": "PGL Astana 2026",
     "map": "de_mirage",
     "score": [
@@ -1363,7 +1373,7 @@
    {
     "date": "2026-02-15",
     "matchId": 2389958,
-    "eventId": null,
+    "eventId": 8047,
     "event": "PGL Cluj-Napoca 2026",
     "map": "de_dust2",
     "score": [
@@ -1375,7 +1385,7 @@
    {
     "date": "2026-02-15",
     "matchId": 2389958,
-    "eventId": null,
+    "eventId": 8047,
     "event": "PGL Cluj-Napoca 2026",
     "map": "de_inferno",
     "score": [
@@ -1387,7 +1397,7 @@
    {
     "date": "2026-02-15",
     "matchId": 2389958,
-    "eventId": null,
+    "eventId": 8047,
     "event": "PGL Cluj-Napoca 2026",
     "map": "de_mirage",
     "score": [
@@ -1397,5 +1407,6 @@
     "winner": 5995
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/112429"
 }

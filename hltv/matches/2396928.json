@@ -1,7 +1,7 @@
 {
  "id": 2396928,
  "eventId": 8249,
- "stage": "Group B",
+ "stage": "Group B Upper Bracket Quarter-final",
  "time": "2026-08-27T12:00:00Z",
  "bo": 3,
  "status": "finished",
@@ -10,9 +10,9 @@
   "score": 2,
   "players": [
    24457,
-   18072,
    18221,
    20312,
+   18072,
    22279
   ]
  },
@@ -21,10 +21,10 @@
   "score": 0,
   "players": [
    14736,
-   22613,
-   20394,
+   12092,
    14737,
-   12092
+   20394,
+   22613
   ]
  },
  "maps": [
@@ -67,11 +67,7 @@
   {
    "map": "de_dust2",
    "pick": null,
-   "score": [
-    null,
-    null
-   ],
-   "halves": null
+   "score": null
   }
  ],
  "stats": {
@@ -180,108 +176,6 @@
    ],
    "t": [
     {
-     "player": 18221,
-     "nick": "Spinx",
-     "kills": 22,
-     "deaths": 5,
-     "swing": 9.78,
-     "adr": 92.2,
-     "kast": 95.0,
-     "rating": 1.9
-    },
-    {
-     "player": 20312,
-     "nick": "xertioN",
-     "kills": 20,
-     "deaths": 13,
-     "swing": 6.71,
-     "adr": 105.5,
-     "kast": 85.0,
-     "rating": 1.52
-    },
-    {
-     "player": 18072,
-     "nick": "torzsi",
-     "kills": 21,
-     "deaths": 9,
-     "swing": 5.7,
-     "adr": 98.8,
-     "kast": 90.0,
-     "rating": 1.5
-    },
-    {
-     "player": 24457,
-     "nick": "xelex",
-     "kills": 14,
-     "deaths": 7,
-     "swing": 3.54,
-     "adr": 85.7,
-     "kast": 95.0,
-     "rating": 1.33
-    },
-    {
-     "player": 22279,
-     "nick": "PR",
-     "kills": 13,
-     "deaths": 10,
-     "swing": -0.38,
-     "adr": 68.8,
-     "kast": 80.0,
-     "rating": 0.9
-    },
-    {
-     "player": 22613,
-     "nick": "HUASOPEEK",
-     "kills": 10,
-     "deaths": 12,
-     "swing": 2.39,
-     "adr": 78.9,
-     "kast": 70.6,
-     "rating": 1.13
-    },
-    {
-     "player": 20394,
-     "nick": "luchov",
-     "kills": 16,
-     "deaths": 12,
-     "swing": -2.58,
-     "adr": 87.2,
-     "kast": 70.6,
-     "rating": 1.08
-    },
-    {
-     "player": 14736,
-     "nick": "dgt",
-     "kills": 12,
-     "deaths": 12,
-     "swing": -0.37,
-     "adr": 84.4,
-     "kast": 70.6,
-     "rating": 0.93
-    },
-    {
-     "player": 14737,
-     "nick": "meyern",
-     "kills": 11,
-     "deaths": 11,
-     "swing": -0.77,
-     "adr": 62.1,
-     "kast": 70.6,
-     "rating": 0.88
-    },
-    {
-     "player": 12092,
-     "nick": "max",
-     "kills": 9,
-     "deaths": 11,
-     "swing": -6.16,
-     "adr": 63.1,
-     "kast": 64.7,
-     "rating": 0.66
-    }
-   ],
-   "ct": [
-    {
      "player": 24457,
      "nick": "xelex",
      "kills": 17,
@@ -380,6 +274,108 @@
      "adr": 39.0,
      "kast": 30.0,
      "rating": 0.42
+    }
+   ],
+   "ct": [
+    {
+     "player": 18221,
+     "nick": "Spinx",
+     "kills": 22,
+     "deaths": 5,
+     "swing": 9.78,
+     "adr": 92.2,
+     "kast": 95.0,
+     "rating": 1.9
+    },
+    {
+     "player": 20312,
+     "nick": "xertioN",
+     "kills": 20,
+     "deaths": 13,
+     "swing": 6.71,
+     "adr": 105.5,
+     "kast": 85.0,
+     "rating": 1.52
+    },
+    {
+     "player": 18072,
+     "nick": "torzsi",
+     "kills": 21,
+     "deaths": 9,
+     "swing": 5.7,
+     "adr": 98.8,
+     "kast": 90.0,
+     "rating": 1.5
+    },
+    {
+     "player": 24457,
+     "nick": "xelex",
+     "kills": 14,
+     "deaths": 7,
+     "swing": 3.54,
+     "adr": 85.7,
+     "kast": 95.0,
+     "rating": 1.33
+    },
+    {
+     "player": 22279,
+     "nick": "PR",
+     "kills": 13,
+     "deaths": 10,
+     "swing": -0.38,
+     "adr": 68.8,
+     "kast": 80.0,
+     "rating": 0.9
+    },
+    {
+     "player": 22613,
+     "nick": "HUASOPEEK",
+     "kills": 10,
+     "deaths": 12,
+     "swing": 2.39,
+     "adr": 78.9,
+     "kast": 70.6,
+     "rating": 1.13
+    },
+    {
+     "player": 20394,
+     "nick": "luchov",
+     "kills": 16,
+     "deaths": 12,
+     "swing": -2.58,
+     "adr": 87.2,
+     "kast": 70.6,
+     "rating": 1.08
+    },
+    {
+     "player": 14736,
+     "nick": "dgt",
+     "kills": 12,
+     "deaths": 12,
+     "swing": -0.37,
+     "adr": 84.4,
+     "kast": 70.6,
+     "rating": 0.93
+    },
+    {
+     "player": 14737,
+     "nick": "meyern",
+     "kills": 11,
+     "deaths": 11,
+     "swing": -0.77,
+     "adr": 62.1,
+     "kast": 70.6,
+     "rating": 0.88
+    },
+    {
+     "player": 12092,
+     "nick": "max",
+     "kills": 9,
+     "deaths": 11,
+     "swing": -6.16,
+     "adr": 63.1,
+     "kast": 64.7,
+     "rating": 0.66
     }
    ]
   },
@@ -488,108 +484,6 @@
    ],
    "t": [
     {
-     "player": 18221,
-     "nick": "Spinx",
-     "kills": 19,
-     "deaths": 1,
-     "swing": 17.23,
-     "adr": 125.8,
-     "kast": 100.0,
-     "rating": 2.78
-    },
-    {
-     "player": 20312,
-     "nick": "xertioN",
-     "kills": 10,
-     "deaths": 7,
-     "swing": 6.03,
-     "adr": 87.2,
-     "kast": 83.3,
-     "rating": 1.4
-    },
-    {
-     "player": 18072,
-     "nick": "torzsi",
-     "kills": 11,
-     "deaths": 4,
-     "swing": 3.22,
-     "adr": 89.2,
-     "kast": 100.0,
-     "rating": 1.37
-    },
-    {
-     "player": 22279,
-     "nick": "PR",
-     "kills": 10,
-     "deaths": 6,
-     "swing": 4.36,
-     "adr": 81.5,
-     "kast": 100.0,
-     "rating": 1.28
-    },
-    {
-     "player": 24457,
-     "nick": "xelex",
-     "kills": 5,
-     "deaths": 5,
-     "swing": 1.73,
-     "adr": 64.5,
-     "kast": 91.7,
-     "rating": 0.95
-    },
-    {
-     "player": 14736,
-     "nick": "dgt",
-     "kills": 8,
-     "deaths": 2,
-     "swing": 4.02,
-     "adr": 129.2,
-     "kast": 100.0,
-     "rating": 1.75
-    },
-    {
-     "player": 12092,
-     "nick": "max",
-     "kills": 4,
-     "deaths": 3,
-     "swing": -1.55,
-     "adr": 106.0,
-     "kast": 80.0,
-     "rating": 1.03
-    },
-    {
-     "player": 20394,
-     "nick": "luchov",
-     "kills": 4,
-     "deaths": 2,
-     "swing": -3.06,
-     "adr": 72.4,
-     "kast": 80.0,
-     "rating": 0.82
-    },
-    {
-     "player": 22613,
-     "nick": "HUASOPEEK",
-     "kills": 2,
-     "deaths": 2,
-     "swing": -2.66,
-     "adr": 40.0,
-     "kast": 60.0,
-     "rating": 0.76
-    },
-    {
-     "player": 14737,
-     "nick": "meyern",
-     "kills": 2,
-     "deaths": 2,
-     "swing": -6.15,
-     "adr": 72.8,
-     "kast": 80.0,
-     "rating": 0.72
-    }
-   ],
-   "ct": [
-    {
      "player": 24457,
      "nick": "xelex",
      "kills": 6,
@@ -688,6 +582,108 @@
      "adr": 43.1,
      "kast": 41.7,
      "rating": 0.38
+    }
+   ],
+   "ct": [
+    {
+     "player": 18221,
+     "nick": "Spinx",
+     "kills": 19,
+     "deaths": 1,
+     "swing": 17.23,
+     "adr": 125.8,
+     "kast": 100.0,
+     "rating": 2.78
+    },
+    {
+     "player": 20312,
+     "nick": "xertioN",
+     "kills": 10,
+     "deaths": 7,
+     "swing": 6.03,
+     "adr": 87.2,
+     "kast": 83.3,
+     "rating": 1.4
+    },
+    {
+     "player": 18072,
+     "nick": "torzsi",
+     "kills": 11,
+     "deaths": 4,
+     "swing": 3.22,
+     "adr": 89.2,
+     "kast": 100.0,
+     "rating": 1.37
+    },
+    {
+     "player": 22279,
+     "nick": "PR",
+     "kills": 10,
+     "deaths": 6,
+     "swing": 4.36,
+     "adr": 81.5,
+     "kast": 100.0,
+     "rating": 1.28
+    },
+    {
+     "player": 24457,
+     "nick": "xelex",
+     "kills": 5,
+     "deaths": 5,
+     "swing": 1.73,
+     "adr": 64.5,
+     "kast": 91.7,
+     "rating": 0.95
+    },
+    {
+     "player": 14736,
+     "nick": "dgt",
+     "kills": 8,
+     "deaths": 2,
+     "swing": 4.02,
+     "adr": 129.2,
+     "kast": 100.0,
+     "rating": 1.75
+    },
+    {
+     "player": 12092,
+     "nick": "max",
+     "kills": 4,
+     "deaths": 3,
+     "swing": -1.55,
+     "adr": 106.0,
+     "kast": 80.0,
+     "rating": 1.03
+    },
+    {
+     "player": 20394,
+     "nick": "luchov",
+     "kills": 4,
+     "deaths": 2,
+     "swing": -3.06,
+     "adr": 72.4,
+     "kast": 80.0,
+     "rating": 0.82
+    },
+    {
+     "player": 22613,
+     "nick": "HUASOPEEK",
+     "kills": 2,
+     "deaths": 2,
+     "swing": -2.66,
+     "adr": 40.0,
+     "kast": 60.0,
+     "rating": 0.76
+    },
+    {
+     "player": 14737,
+     "nick": "meyern",
+     "kills": 2,
+     "deaths": 2,
+     "swing": -6.15,
+     "adr": 72.8,
+     "kast": 80.0,
+     "rating": 0.72
     }
    ]
   },
@@ -796,108 +792,6 @@
    ],
    "t": [
     {
-     "player": 24457,
-     "nick": "xelex",
-     "kills": 9,
-     "deaths": 2,
-     "swing": 6.26,
-     "adr": 117.4,
-     "kast": 100.0,
-     "rating": 1.95
-    },
-    {
-     "player": 18072,
-     "nick": "torzsi",
-     "kills": 10,
-     "deaths": 5,
-     "swing": 9.42,
-     "adr": 113.2,
-     "kast": 75.0,
-     "rating": 1.73
-    },
-    {
-     "player": 20312,
-     "nick": "xertioN",
-     "kills": 10,
-     "deaths": 6,
-     "swing": 7.73,
-     "adr": 132.8,
-     "kast": 87.5,
-     "rating": 1.71
-    },
-    {
-     "player": 18221,
-     "nick": "Spinx",
-     "kills": 3,
-     "deaths": 4,
-     "swing": -1.39,
-     "adr": 41.6,
-     "kast": 87.5,
-     "rating": 0.79
-    },
-    {
-     "player": 22279,
-     "nick": "PR",
-     "kills": 3,
-     "deaths": 4,
-     "swing": -7.51,
-     "adr": 49.9,
-     "kast": 50.0,
-     "rating": 0.49
-    },
-    {
-     "player": 22613,
-     "nick": "HUASOPEEK",
-     "kills": 8,
-     "deaths": 10,
-     "swing": 4.49,
-     "adr": 95.2,
-     "kast": 75.0,
-     "rating": 1.32
-    },
-    {
-     "player": 20394,
-     "nick": "luchov",
-     "kills": 12,
-     "deaths": 10,
-     "swing": -2.38,
-     "adr": 93.3,
-     "kast": 66.7,
-     "rating": 1.19
-    },
-    {
-     "player": 14737,
-     "nick": "meyern",
-     "kills": 9,
-     "deaths": 9,
-     "swing": 1.48,
-     "adr": 57.7,
-     "kast": 66.7,
-     "rating": 0.96
-    },
-    {
-     "player": 14736,
-     "nick": "dgt",
-     "kills": 4,
-     "deaths": 10,
-     "swing": -2.2,
-     "adr": 65.8,
-     "kast": 58.3,
-     "rating": 0.64
-    },
-    {
-     "player": 12092,
-     "nick": "max",
-     "kills": 5,
-     "deaths": 8,
-     "swing": -8.09,
-     "adr": 45.2,
-     "kast": 58.3,
-     "rating": 0.53
-    }
-   ],
-   "ct": [
-    {
      "player": 18072,
      "nick": "torzsi",
      "kills": 12,
@@ -997,6 +891,108 @@
      "kast": 37.5,
      "rating": 0.33
     }
+   ],
+   "ct": [
+    {
+     "player": 24457,
+     "nick": "xelex",
+     "kills": 9,
+     "deaths": 2,
+     "swing": 6.26,
+     "adr": 117.4,
+     "kast": 100.0,
+     "rating": 1.95
+    },
+    {
+     "player": 18072,
+     "nick": "torzsi",
+     "kills": 10,
+     "deaths": 5,
+     "swing": 9.42,
+     "adr": 113.2,
+     "kast": 75.0,
+     "rating": 1.73
+    },
+    {
+     "player": 20312,
+     "nick": "xertioN",
+     "kills": 10,
+     "deaths": 6,
+     "swing": 7.73,
+     "adr": 132.8,
+     "kast": 87.5,
+     "rating": 1.71
+    },
+    {
+     "player": 18221,
+     "nick": "Spinx",
+     "kills": 3,
+     "deaths": 4,
+     "swing": -1.39,
+     "adr": 41.6,
+     "kast": 87.5,
+     "rating": 0.79
+    },
+    {
+     "player": 22279,
+     "nick": "PR",
+     "kills": 3,
+     "deaths": 4,
+     "swing": -7.51,
+     "adr": 49.9,
+     "kast": 50.0,
+     "rating": 0.49
+    },
+    {
+     "player": 22613,
+     "nick": "HUASOPEEK",
+     "kills": 8,
+     "deaths": 10,
+     "swing": 4.49,
+     "adr": 95.2,
+     "kast": 75.0,
+     "rating": 1.32
+    },
+    {
+     "player": 20394,
+     "nick": "luchov",
+     "kills": 12,
+     "deaths": 10,
+     "swing": -2.38,
+     "adr": 93.3,
+     "kast": 66.7,
+     "rating": 1.19
+    },
+    {
+     "player": 14737,
+     "nick": "meyern",
+     "kills": 9,
+     "deaths": 9,
+     "swing": 1.48,
+     "adr": 57.7,
+     "kast": 66.7,
+     "rating": 0.96
+    },
+    {
+     "player": 14736,
+     "nick": "dgt",
+     "kills": 4,
+     "deaths": 10,
+     "swing": -2.2,
+     "adr": 65.8,
+     "kast": 58.3,
+     "rating": 0.64
+    },
+    {
+     "player": 12092,
+     "nick": "max",
+     "kills": 5,
+     "deaths": 8,
+     "swing": -8.09,
+     "adr": 45.2,
+     "kast": 58.3,
+     "rating": 0.53
+    }
    ]
   }
  },
@@ -1012,16 +1008,15 @@
   "adr": 87.6,
   "rating": 1.54
  },
- "highlight": null,
  "h2h": {
   "team1Wins": 2,
-  "team2Wins": 4,
   "overtimes": 0,
+  "team2Wins": 4,
   "maps": [
    {
     "date": "2026-05-11",
     "matchId": 2394136,
-    "eventId": null,
+    "eventId": 8049,
     "event": "PGL Astana 2026",
     "map": "de_ancient",
     "score": [
@@ -1033,7 +1028,7 @@
    {
     "date": "2026-05-11",
     "matchId": 2394136,
-    "eventId": null,
+    "eventId": 8049,
     "event": "PGL Astana 2026",
     "map": "de_inferno",
     "score": [
@@ -1045,7 +1040,7 @@
    {
     "date": "2026-05-11",
     "matchId": 2394136,
-    "eventId": null,
+    "eventId": 8049,
     "event": "PGL Astana 2026",
     "map": "de_nuke",
     "score": [
@@ -1055,9 +1050,9 @@
     "winner": 9996
    },
    {
-    "date": "2026-03-22",
+    "date": "2026-03-21",
     "matchId": 2391760,
-    "eventId": null,
+    "eventId": 8248,
     "event": "BLAST Open Rotterdam 2026",
     "map": "de_nuke",
     "score": [
@@ -1067,9 +1062,9 @@
     "winner": 9996
    },
    {
-    "date": "2026-03-22",
+    "date": "2026-03-21",
     "matchId": 2391760,
-    "eventId": null,
+    "eventId": 8248,
     "event": "BLAST Open Rotterdam 2026",
     "map": "de_inferno",
     "score": [
@@ -1079,9 +1074,9 @@
     "winner": 9996
    },
    {
-    "date": "2026-03-22",
+    "date": "2026-03-21",
     "matchId": 2391760,
-    "eventId": null,
+    "eventId": 8248,
     "event": "BLAST Open Rotterdam 2026",
     "map": "de_dust2",
     "score": [
@@ -1091,5 +1086,6 @@
     "winner": 4494
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/110630"
 }

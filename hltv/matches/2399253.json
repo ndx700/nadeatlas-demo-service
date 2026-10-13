@@ -1,21 +1,673 @@
 {
  "id": 2399253,
  "eventId": 9223,
- "stage": "Group B",
- "time": "2026-10-13T13:00:00Z",
+ "stage": "Group B Winners' Match",
+ "time": "2026-10-13T13:20:00Z",
  "bo": 3,
- "status": "upcoming",
+ "status": "live",
  "team1": {
-  "id": 0,
+  "id": 8474,
   "score": null,
   "players": []
  },
  "team2": {
-  "id": 0,
+  "id": 5973,
   "score": null,
   "players": []
  },
- "maps": [],
- "stats": {},
- "mvp": null
+ "maps": [
+  {
+   "map": "de_dust2",
+   "pick": 8474,
+   "score": [
+    13,
+    0
+   ],
+   "halves": [
+    [
+     12,
+     0
+    ],
+    [
+     1,
+     0
+    ]
+   ]
+  },
+  {
+   "map": "de_inferno",
+   "pick": 5973,
+   "score": null
+  },
+  {
+   "map": "de_mirage",
+   "pick": null,
+   "score": null
+  }
+ ],
+ "stats": {
+  "all": {
+   "both": [
+    {
+     "player": 23397,
+     "nick": "poiii",
+     "kills": 13,
+     "deaths": 5,
+     "swing": 18.01,
+     "adr": 98.0,
+     "kast": 92.3,
+     "rating": 2.55
+    },
+    {
+     "player": 7592,
+     "nick": "device",
+     "kills": 11,
+     "deaths": 3,
+     "swing": 12.65,
+     "adr": 82.0,
+     "kast": 92.3,
+     "rating": 2.02
+    },
+    {
+     "player": 22695,
+     "nick": "sirah",
+     "kills": 9,
+     "deaths": 6,
+     "swing": 7.29,
+     "adr": 64.6,
+     "kast": 76.9,
+     "rating": 1.72
+    },
+    {
+     "player": 21816,
+     "nick": "Gizmy",
+     "kills": 9,
+     "deaths": 7,
+     "swing": 4.33,
+     "adr": 97.1,
+     "kast": 76.9,
+     "rating": 1.46
+    },
+    {
+     "player": 8183,
+     "nick": "rain",
+     "kills": 12,
+     "deaths": 8,
+     "swing": 1.73,
+     "adr": 77.2,
+     "kast": 92.3,
+     "rating": 1.3
+    },
+    {
+     "player": 8520,
+     "nick": "NAF",
+     "kills": 10,
+     "deaths": 9,
+     "swing": -4.52,
+     "adr": 83.8,
+     "kast": 69.2,
+     "rating": 1.15
+    },
+    {
+     "player": 8738,
+     "nick": "EliGE",
+     "kills": 8,
+     "deaths": 12,
+     "swing": -5.3,
+     "adr": 73.9,
+     "kast": 46.2,
+     "rating": 0.68
+    },
+    {
+     "player": 24203,
+     "nick": "Jorko",
+     "kills": 5,
+     "deaths": 10,
+     "swing": -8.17,
+     "adr": 55.8,
+     "kast": 46.2,
+     "rating": 0.43
+    },
+    {
+     "player": 11617,
+     "nick": "malbsMd",
+     "kills": 3,
+     "deaths": 12,
+     "swing": -14.27,
+     "adr": 39.4,
+     "kast": 38.5,
+     "rating": 0.21
+    },
+    {
+     "player": 11630,
+     "nick": "JT",
+     "kills": 3,
+     "deaths": 11,
+     "swing": -11.74,
+     "adr": 32.9,
+     "kast": 46.2,
+     "rating": 0.21
+    }
+   ],
+   "t": [
+    {
+     "player": 23397,
+     "nick": "poiii",
+     "kills": 12,
+     "deaths": 4,
+     "swing": 19.07,
+     "adr": 95.2,
+     "kast": 91.7,
+     "rating": 2.62
+    },
+    {
+     "player": 7592,
+     "nick": "device",
+     "kills": 11,
+     "deaths": 3,
+     "swing": 13.71,
+     "adr": 88.8,
+     "kast": 91.7,
+     "rating": 2.1
+    },
+    {
+     "player": 21816,
+     "nick": "Gizmy",
+     "kills": 8,
+     "deaths": 7,
+     "swing": 3.28,
+     "adr": 96.8,
+     "kast": 75.0,
+     "rating": 1.37
+    },
+    {
+     "player": 8183,
+     "nick": "rain",
+     "kills": 12,
+     "deaths": 8,
+     "swing": 1.87,
+     "adr": 83.7,
+     "kast": 91.7,
+     "rating": 1.32
+    },
+    {
+     "player": 22695,
+     "nick": "sirah",
+     "kills": 6,
+     "deaths": 6,
+     "swing": 5.67,
+     "adr": 47.7,
+     "kast": 75.0,
+     "rating": 1.32
+    },
+    {
+     "player": 24203,
+     "nick": "Jorko",
+     "kills": 1,
+     "deaths": 1,
+     "swing": 7.96,
+     "adr": 100.0,
+     "kast": 100.0,
+     "rating": 1.68
+    },
+    {
+     "player": 11617,
+     "nick": "malbsMd",
+     "kills": 0,
+     "deaths": 1,
+     "swing": -10.85,
+     "adr": 0.0,
+     "kast": 0.0,
+     "rating": 0.19
+    },
+    {
+     "player": 8738,
+     "nick": "EliGE",
+     "kills": 0,
+     "deaths": 1,
+     "swing": -11.86,
+     "adr": 27.0,
+     "kast": 0.0,
+     "rating": 0.12
+    },
+    {
+     "player": 11630,
+     "nick": "JT",
+     "kills": 0,
+     "deaths": 1,
+     "swing": -16.87,
+     "adr": 13.0,
+     "kast": 0.0,
+     "rating": 0.06
+    },
+    {
+     "player": 8520,
+     "nick": "NAF",
+     "kills": 0,
+     "deaths": 1,
+     "swing": -17.24,
+     "adr": 0.0,
+     "kast": 0.0,
+     "rating": 0.05
+    }
+   ],
+   "ct": [
+    {
+     "player": 22695,
+     "nick": "sirah",
+     "kills": 3,
+     "deaths": 0,
+     "swing": 26.69,
+     "adr": 268.0,
+     "kast": 100.0,
+     "rating": 6.48
+    },
+    {
+     "player": 21816,
+     "nick": "Gizmy",
+     "kills": 1,
+     "deaths": 0,
+     "swing": 16.87,
+     "adr": 100.0,
+     "kast": 100.0,
+     "rating": 2.55
+    },
+    {
+     "player": 23397,
+     "nick": "poiii",
+     "kills": 1,
+     "deaths": 1,
+     "swing": 5.29,
+     "adr": 132.0,
+     "kast": 100.0,
+     "rating": 1.75
+    },
+    {
+     "player": 8183,
+     "nick": "rain",
+     "kills": 0,
+     "deaths": 0,
+     "swing": 0.0,
+     "adr": 0.0,
+     "kast": 100.0,
+     "rating": 1.04
+    },
+    {
+     "player": 7592,
+     "nick": "device",
+     "kills": 0,
+     "deaths": 0,
+     "swing": 0.0,
+     "adr": 0.0,
+     "kast": 100.0,
+     "rating": 1.04
+    },
+    {
+     "player": 8520,
+     "nick": "NAF",
+     "kills": 10,
+     "deaths": 8,
+     "swing": -3.46,
+     "adr": 90.8,
+     "kast": 75.0,
+     "rating": 1.24
+    },
+    {
+     "player": 8738,
+     "nick": "EliGE",
+     "kills": 8,
+     "deaths": 11,
+     "swing": -4.75,
+     "adr": 77.8,
+     "kast": 50.0,
+     "rating": 0.72
+    },
+    {
+     "player": 24203,
+     "nick": "Jorko",
+     "kills": 4,
+     "deaths": 9,
+     "swing": -9.52,
+     "adr": 52.1,
+     "kast": 41.7,
+     "rating": 0.33
+    },
+    {
+     "player": 11630,
+     "nick": "JT",
+     "kills": 3,
+     "deaths": 10,
+     "swing": -11.31,
+     "adr": 34.6,
+     "kast": 50.0,
+     "rating": 0.22
+    },
+    {
+     "player": 11617,
+     "nick": "malbsMd",
+     "kills": 3,
+     "deaths": 11,
+     "swing": -14.56,
+     "adr": 42.7,
+     "kast": 41.7,
+     "rating": 0.21
+    }
+   ]
+  },
+  "de_dust2": {
+   "both": [
+    {
+     "player": 23397,
+     "nick": "poiii",
+     "kills": 13,
+     "deaths": 5,
+     "swing": 18.01,
+     "adr": 98.0,
+     "kast": 92.3,
+     "rating": 2.55
+    },
+    {
+     "player": 7592,
+     "nick": "device",
+     "kills": 11,
+     "deaths": 3,
+     "swing": 12.65,
+     "adr": 82.0,
+     "kast": 92.3,
+     "rating": 2.02
+    },
+    {
+     "player": 22695,
+     "nick": "sirah",
+     "kills": 9,
+     "deaths": 6,
+     "swing": 7.29,
+     "adr": 64.6,
+     "kast": 76.9,
+     "rating": 1.72
+    },
+    {
+     "player": 21816,
+     "nick": "Gizmy",
+     "kills": 9,
+     "deaths": 7,
+     "swing": 4.33,
+     "adr": 97.1,
+     "kast": 76.9,
+     "rating": 1.46
+    },
+    {
+     "player": 8183,
+     "nick": "rain",
+     "kills": 12,
+     "deaths": 8,
+     "swing": 1.73,
+     "adr": 77.2,
+     "kast": 92.3,
+     "rating": 1.3
+    },
+    {
+     "player": 8520,
+     "nick": "NAF",
+     "kills": 10,
+     "deaths": 9,
+     "swing": -4.52,
+     "adr": 83.8,
+     "kast": 69.2,
+     "rating": 1.15
+    },
+    {
+     "player": 8738,
+     "nick": "EliGE",
+     "kills": 8,
+     "deaths": 12,
+     "swing": -5.3,
+     "adr": 73.9,
+     "kast": 46.2,
+     "rating": 0.68
+    },
+    {
+     "player": 24203,
+     "nick": "Jorko",
+     "kills": 5,
+     "deaths": 10,
+     "swing": -8.17,
+     "adr": 55.8,
+     "kast": 46.2,
+     "rating": 0.43
+    },
+    {
+     "player": 11617,
+     "nick": "malbsMd",
+     "kills": 3,
+     "deaths": 12,
+     "swing": -14.27,
+     "adr": 39.4,
+     "kast": 38.5,
+     "rating": 0.21
+    },
+    {
+     "player": 11630,
+     "nick": "JT",
+     "kills": 3,
+     "deaths": 11,
+     "swing": -11.74,
+     "adr": 32.9,
+     "kast": 46.2,
+     "rating": 0.21
+    }
+   ],
+   "t": [
+    {
+     "player": 23397,
+     "nick": "poiii",
+     "kills": 12,
+     "deaths": 4,
+     "swing": 19.07,
+     "adr": 95.2,
+     "kast": 91.7,
+     "rating": 2.62
+    },
+    {
+     "player": 7592,
+     "nick": "device",
+     "kills": 11,
+     "deaths": 3,
+     "swing": 13.71,
+     "adr": 88.8,
+     "kast": 91.7,
+     "rating": 2.1
+    },
+    {
+     "player": 21816,
+     "nick": "Gizmy",
+     "kills": 8,
+     "deaths": 7,
+     "swing": 3.28,
+     "adr": 96.8,
+     "kast": 75.0,
+     "rating": 1.37
+    },
+    {
+     "player": 8183,
+     "nick": "rain",
+     "kills": 12,
+     "deaths": 8,
+     "swing": 1.87,
+     "adr": 83.7,
+     "kast": 91.7,
+     "rating": 1.32
+    },
+    {
+     "player": 22695,
+     "nick": "sirah",
+     "kills": 6,
+     "deaths": 6,
+     "swing": 5.67,
+     "adr": 47.7,
+     "kast": 75.0,
+     "rating": 1.32
+    },
+    {
+     "player": 24203,
+     "nick": "Jorko",
+     "kills": 1,
+     "deaths": 1,
+     "swing": 7.96,
+     "adr": 100.0,
+     "kast": 100.0,
+     "rating": 1.68
+    },
+    {
+     "player": 11617,
+     "nick": "malbsMd",
+     "kills": 0,
+     "deaths": 1,
+     "swing": -10.85,
+     "adr": 0.0,
+     "kast": 0.0,
+     "rating": 0.19
+    },
+    {
+     "player": 8738,
+     "nick": "EliGE",
+     "kills": 0,
+     "deaths": 1,
+     "swing": -11.86,
+     "adr": 27.0,
+     "kast": 0.0,
+     "rating": 0.12
+    },
+    {
+     "player": 11630,
+     "nick": "JT",
+     "kills": 0,
+     "deaths": 1,
+     "swing": -16.87,
+     "adr": 13.0,
+     "kast": 0.0,
+     "rating": 0.06
+    },
+    {
+     "player": 8520,
+     "nick": "NAF",
+     "kills": 0,
+     "deaths": 1,
+     "swing": -17.24,
+     "adr": 0.0,
+     "kast": 0.0,
+     "rating": 0.05
+    }
+   ],
+   "ct": [
+    {
+     "player": 22695,
+     "nick": "sirah",
+     "kills": 3,
+     "deaths": 0,
+     "swing": 26.69,
+     "adr": 268.0,
+     "kast": 100.0,
+     "rating": 6.48
+    },
+    {
+     "player": 21816,
+     "nick": "Gizmy",
+     "kills": 1,
+     "deaths": 0,
+     "swing": 16.87,
+     "adr": 100.0,
+     "kast": 100.0,
+     "rating": 2.55
+    },
+    {
+     "player": 23397,
+     "nick": "poiii",
+     "kills": 1,
+     "deaths": 1,
+     "swing": 5.29,
+     "adr": 132.0,
+     "kast": 100.0,
+     "rating": 1.75
+    },
+    {
+     "player": 8183,
+     "nick": "rain",
+     "kills": 0,
+     "deaths": 0,
+     "swing": 0.0,
+     "adr": 0.0,
+     "kast": 100.0,
+     "rating": 1.04
+    },
+    {
+     "player": 7592,
+     "nick": "device",
+     "kills": 0,
+     "deaths": 0,
+     "swing": 0.0,
+     "adr": 0.0,
+     "kast": 100.0,
+     "rating": 1.04
+    },
+    {
+     "player": 8520,
+     "nick": "NAF",
+     "kills": 10,
+     "deaths": 8,
+     "swing": -3.46,
+     "adr": 90.8,
+     "kast": 75.0,
+     "rating": 1.24
+    },
+    {
+     "player": 8738,
+     "nick": "EliGE",
+     "kills": 8,
+     "deaths": 11,
+     "swing": -4.75,
+     "adr": 77.8,
+     "kast": 50.0,
+     "rating": 0.72
+    },
+    {
+     "player": 24203,
+     "nick": "Jorko",
+     "kills": 4,
+     "deaths": 9,
+     "swing": -9.52,
+     "adr": 52.1,
+     "kast": 41.7,
+     "rating": 0.33
+    },
+    {
+     "player": 11630,
+     "nick": "JT",
+     "kills": 3,
+     "deaths": 10,
+     "swing": -11.31,
+     "adr": 34.6,
+     "kast": 50.0,
+     "rating": 0.22
+    },
+    {
+     "player": 11617,
+     "nick": "malbsMd",
+     "kills": 3,
+     "deaths": 11,
+     "swing": -14.56,
+     "adr": 42.7,
+     "kast": 41.7,
+     "rating": 0.21
+    }
+   ]
+  }
+ },
+ "mvp": null,
+ "h2h": {
+  "team1Wins": 0,
+  "overtimes": 0,
+  "team2Wins": 0,
+  "maps": []
+ }
 }

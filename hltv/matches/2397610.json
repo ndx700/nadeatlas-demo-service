@@ -1,30 +1,30 @@
 {
  "id": 2397610,
  "eventId": 8266,
- "stage": "Group B",
- "time": "2026-09-09T20:55:00+08:00",
+ "stage": "Group B Upper Bracket Semi-final",
+ "time": "2026-09-09T12:55:00Z",
  "bo": 3,
  "status": "finished",
  "team1": {
   "id": 12467,
   "score": 0,
   "players": [
-   12732,
-   24807,
-   13776,
    23685,
-   22471
+   13776,
+   24807,
+   22471,
+   12732
   ]
  },
  "team2": {
   "id": 8297,
   "score": 2,
   "players": [
-   15631,
    24144,
-   13915,
    12553,
-   2023
+   2023,
+   15631,
+   13915
   ]
  },
  "maps": [
@@ -67,11 +67,7 @@
   {
    "map": "de_mirage",
    "pick": null,
-   "score": [
-    null,
-    null
-   ],
-   "halves": null
+   "score": null
   }
  ],
  "stats": {
@@ -1000,17 +996,27 @@
    ]
   }
  },
- "mvp": 15631,
- "highlight": null,
+ "mvp": {
+  "player": 15631,
+  "nick": "KSCERATO",
+  "maps": 2,
+  "kpr": 1.05,
+  "dpr": 0.44,
+  "kast": 79.5,
+  "mkRating": 1.47,
+  "swing": 4.4,
+  "adr": 100.8,
+  "rating": 1.64
+ },
  "h2h": {
   "team1Wins": 3,
-  "team2Wins": 2,
   "overtimes": 2,
+  "team2Wins": 2,
   "maps": [
    {
-    "date": "2026-02-18",
+    "date": "2026-02-17",
     "matchId": 2389975,
-    "eventId": null,
+    "eventId": 8047,
     "event": "PGL Cluj-Napoca 2026",
     "map": "de_mirage",
     "score": [
@@ -1020,9 +1026,9 @@
     "winner": 8297
    },
    {
-    "date": "2026-02-18",
+    "date": "2026-02-17",
     "matchId": 2389975,
-    "eventId": null,
+    "eventId": 8047,
     "event": "PGL Cluj-Napoca 2026",
     "map": "de_inferno",
     "score": [
@@ -1032,9 +1038,9 @@
     "winner": 12467
    },
    {
-    "date": "2026-02-18",
+    "date": "2026-02-17",
     "matchId": 2389975,
-    "eventId": null,
+    "eventId": 8047,
     "event": "PGL Cluj-Napoca 2026",
     "map": "de_dust2",
     "score": [
@@ -1044,9 +1050,9 @@
     "winner": 8297
    },
    {
-    "date": "2026-01-25",
+    "date": "2026-01-24",
     "matchId": 2389280,
-    "eventId": null,
+    "eventId": 8246,
     "event": "BLAST Bounty 2026 Season 1 Finals",
     "map": "de_inferno",
     "score": [
@@ -1056,9 +1062,9 @@
     "winner": 12467
    },
    {
-    "date": "2026-01-25",
+    "date": "2026-01-24",
     "matchId": 2389280,
-    "eventId": null,
+    "eventId": 8246,
     "event": "BLAST Bounty 2026 Season 1 Finals",
     "map": "de_mirage",
     "score": [
@@ -1068,5 +1074,6 @@
     "winner": 12467
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/111192"
 }

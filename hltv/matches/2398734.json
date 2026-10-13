@@ -1,29 +1,29 @@
 {
  "id": 2398734,
  "eventId": 8244,
- "stage": null,
- "time": "2026-10-05T17:00:00+08:00",
+ "stage": "Swiss Round 3",
+ "time": "2026-10-05T09:00:00Z",
  "bo": 3,
  "status": "finished",
  "team1": {
   "id": 12959,
   "score": 0,
   "players": [
-   24749,
-   21155,
-   20992,
+   18554,
    20451,
-   18554
+   20992,
+   21155,
+   24749
   ]
  },
  "team2": {
   "id": 5995,
   "score": 2,
   "players": [
-   21062,
    20425,
-   9436,
+   21062,
    3972,
+   9436,
    20447
   ]
  },
@@ -67,11 +67,7 @@
   {
    "map": "de_inferno",
    "pick": null,
-   "score": [
-    null,
-    null
-   ],
-   "halves": null
+   "score": null
   }
  ],
  "stats": {
@@ -1000,12 +996,23 @@
    ]
   }
  },
- "mvp": 21062,
- "highlight": null,
+ "mvp": {
+  "player": 21062,
+  "nick": "MATYS",
+  "maps": 2,
+  "kpr": 1.02,
+  "dpr": 0.56,
+  "kast": 92.7,
+  "mkRating": 1.39,
+  "swing": 5.03,
+  "adr": 94.1,
+  "rating": 1.59
+ },
  "h2h": {
   "team1Wins": 0,
-  "team2Wins": 0,
   "overtimes": 0,
+  "team2Wins": 0,
   "maps": []
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/112412"
 }

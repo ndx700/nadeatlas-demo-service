@@ -1,7 +1,7 @@
 {
  "id": 2397598,
  "eventId": 8266,
- "stage": "Group B",
+ "stage": "Group B Upper Bracket Quarter-final",
  "time": "2026-09-08T07:50:00Z",
  "bo": 3,
  "status": "finished",
@@ -67,11 +67,7 @@
   {
    "map": "de_anubis",
    "pick": null,
-   "score": [
-    null,
-    null
-   ],
-   "halves": null
+   "score": null
   }
  ],
  "stats": {
@@ -180,108 +176,6 @@
    ],
    "t": [
     {
-     "player": 9960,
-     "nick": "frozen",
-     "kills": 18,
-     "deaths": 16,
-     "swing": 2.57,
-     "adr": 96.5,
-     "kast": 70.8,
-     "rating": 1.21
-    },
-    {
-     "player": 22866,
-     "nick": "JBOEN",
-     "kills": 17,
-     "deaths": 15,
-     "swing": 3.9,
-     "adr": 74.0,
-     "kast": 75.0,
-     "rating": 1.13
-    },
-    {
-     "player": 10394,
-     "nick": "Twistzz",
-     "kills": 21,
-     "deaths": 14,
-     "swing": -1.12,
-     "adr": 66.2,
-     "kast": 75.0,
-     "rating": 1.06
-    },
-    {
-     "player": 21972,
-     "nick": "Neityu",
-     "kills": 14,
-     "deaths": 18,
-     "swing": -1.08,
-     "adr": 72.9,
-     "kast": 70.8,
-     "rating": 0.87
-    },
-    {
-     "player": 22383,
-     "nick": "jcobbb",
-     "kills": 10,
-     "deaths": 15,
-     "swing": -4.91,
-     "adr": 56.2,
-     "kast": 58.3,
-     "rating": 0.58
-    },
-    {
-     "player": 22860,
-     "nick": "avid",
-     "kills": 21,
-     "deaths": 8,
-     "swing": 2.27,
-     "adr": 98.6,
-     "kast": 86.4,
-     "rating": 1.36
-    },
-    {
-     "player": 7443,
-     "nick": "twist",
-     "kills": 16,
-     "deaths": 8,
-     "swing": 3.43,
-     "adr": 76.1,
-     "kast": 81.8,
-     "rating": 1.27
-    },
-    {
-     "player": 21159,
-     "nick": "bobeksde",
-     "kills": 21,
-     "deaths": 11,
-     "swing": -1.52,
-     "adr": 104.6,
-     "kast": 86.4,
-     "rating": 1.2
-    },
-    {
-     "player": 16487,
-     "nick": "eraa",
-     "kills": 15,
-     "deaths": 9,
-     "swing": -0.43,
-     "adr": 61.8,
-     "kast": 81.8,
-     "rating": 0.87
-    },
-    {
-     "player": 22760,
-     "nick": "upE",
-     "kills": 14,
-     "deaths": 13,
-     "swing": -3.48,
-     "adr": 77.3,
-     "kast": 77.3,
-     "rating": 0.83
-    }
-   ],
-   "ct": [
-    {
      "player": 10394,
      "nick": "Twistzz",
      "kills": 17,
@@ -380,6 +274,108 @@
      "adr": 38.9,
      "kast": 75.0,
      "rating": 0.76
+    }
+   ],
+   "ct": [
+    {
+     "player": 9960,
+     "nick": "frozen",
+     "kills": 18,
+     "deaths": 16,
+     "swing": 2.57,
+     "adr": 96.5,
+     "kast": 70.8,
+     "rating": 1.21
+    },
+    {
+     "player": 22866,
+     "nick": "JBOEN",
+     "kills": 17,
+     "deaths": 15,
+     "swing": 3.9,
+     "adr": 74.0,
+     "kast": 75.0,
+     "rating": 1.13
+    },
+    {
+     "player": 10394,
+     "nick": "Twistzz",
+     "kills": 21,
+     "deaths": 14,
+     "swing": -1.12,
+     "adr": 66.2,
+     "kast": 75.0,
+     "rating": 1.06
+    },
+    {
+     "player": 21972,
+     "nick": "Neityu",
+     "kills": 14,
+     "deaths": 18,
+     "swing": -1.08,
+     "adr": 72.9,
+     "kast": 70.8,
+     "rating": 0.87
+    },
+    {
+     "player": 22383,
+     "nick": "jcobbb",
+     "kills": 10,
+     "deaths": 15,
+     "swing": -4.91,
+     "adr": 56.2,
+     "kast": 58.3,
+     "rating": 0.58
+    },
+    {
+     "player": 22860,
+     "nick": "avid",
+     "kills": 21,
+     "deaths": 8,
+     "swing": 2.27,
+     "adr": 98.6,
+     "kast": 86.4,
+     "rating": 1.36
+    },
+    {
+     "player": 7443,
+     "nick": "twist",
+     "kills": 16,
+     "deaths": 8,
+     "swing": 3.43,
+     "adr": 76.1,
+     "kast": 81.8,
+     "rating": 1.27
+    },
+    {
+     "player": 21159,
+     "nick": "bobeksde",
+     "kills": 21,
+     "deaths": 11,
+     "swing": -1.52,
+     "adr": 104.6,
+     "kast": 86.4,
+     "rating": 1.2
+    },
+    {
+     "player": 16487,
+     "nick": "eraa",
+     "kills": 15,
+     "deaths": 9,
+     "swing": -0.43,
+     "adr": 61.8,
+     "kast": 81.8,
+     "rating": 0.87
+    },
+    {
+     "player": 22760,
+     "nick": "upE",
+     "kills": 14,
+     "deaths": 13,
+     "swing": -3.48,
+     "adr": 77.3,
+     "kast": 77.3,
+     "rating": 0.83
     }
    ]
   },
@@ -490,108 +486,6 @@
     {
      "player": 10394,
      "nick": "Twistzz",
-     "kills": 15,
-     "deaths": 7,
-     "swing": 1.23,
-     "adr": 99.4,
-     "kast": 75.0,
-     "rating": 1.5
-    },
-    {
-     "player": 9960,
-     "nick": "frozen",
-     "kills": 8,
-     "deaths": 8,
-     "swing": 3.65,
-     "adr": 76.0,
-     "kast": 75.0,
-     "rating": 1.18
-    },
-    {
-     "player": 22866,
-     "nick": "JBOEN",
-     "kills": 5,
-     "deaths": 7,
-     "swing": 0.3,
-     "adr": 47.8,
-     "kast": 58.3,
-     "rating": 0.82
-    },
-    {
-     "player": 21972,
-     "nick": "Neityu",
-     "kills": 5,
-     "deaths": 10,
-     "swing": -1.22,
-     "adr": 69.7,
-     "kast": 75.0,
-     "rating": 0.75
-    },
-    {
-     "player": 22383,
-     "nick": "jcobbb",
-     "kills": 5,
-     "deaths": 7,
-     "swing": -2.91,
-     "adr": 59.7,
-     "kast": 50.0,
-     "rating": 0.67
-    },
-    {
-     "player": 21159,
-     "nick": "bobeksde",
-     "kills": 12,
-     "deaths": 3,
-     "swing": 5.13,
-     "adr": 123.8,
-     "kast": 100.0,
-     "rating": 1.88
-    },
-    {
-     "player": 7443,
-     "nick": "twist",
-     "kills": 9,
-     "deaths": 3,
-     "swing": 5.69,
-     "adr": 86.4,
-     "kast": 90.0,
-     "rating": 1.5
-    },
-    {
-     "player": 16487,
-     "nick": "eraa",
-     "kills": 10,
-     "deaths": 5,
-     "swing": -0.83,
-     "adr": 84.6,
-     "kast": 90.0,
-     "rating": 1.1
-    },
-    {
-     "player": 22860,
-     "nick": "avid",
-     "kills": 6,
-     "deaths": 3,
-     "swing": -0.49,
-     "adr": 91.0,
-     "kast": 100.0,
-     "rating": 1.05
-    },
-    {
-     "player": 22760,
-     "nick": "upE",
-     "kills": 6,
-     "deaths": 5,
-     "swing": -2.35,
-     "adr": 69.1,
-     "kast": 80.0,
-     "rating": 0.85
-    }
-   ],
-   "ct": [
-    {
-     "player": 10394,
-     "nick": "Twistzz",
      "kills": 11,
      "deaths": 8,
      "swing": 11.0,
@@ -688,6 +582,108 @@
      "adr": 45.9,
      "kast": 66.7,
      "rating": 0.72
+    }
+   ],
+   "ct": [
+    {
+     "player": 10394,
+     "nick": "Twistzz",
+     "kills": 15,
+     "deaths": 7,
+     "swing": 1.23,
+     "adr": 99.4,
+     "kast": 75.0,
+     "rating": 1.5
+    },
+    {
+     "player": 9960,
+     "nick": "frozen",
+     "kills": 8,
+     "deaths": 8,
+     "swing": 3.65,
+     "adr": 76.0,
+     "kast": 75.0,
+     "rating": 1.18
+    },
+    {
+     "player": 22866,
+     "nick": "JBOEN",
+     "kills": 5,
+     "deaths": 7,
+     "swing": 0.3,
+     "adr": 47.8,
+     "kast": 58.3,
+     "rating": 0.82
+    },
+    {
+     "player": 21972,
+     "nick": "Neityu",
+     "kills": 5,
+     "deaths": 10,
+     "swing": -1.22,
+     "adr": 69.7,
+     "kast": 75.0,
+     "rating": 0.75
+    },
+    {
+     "player": 22383,
+     "nick": "jcobbb",
+     "kills": 5,
+     "deaths": 7,
+     "swing": -2.91,
+     "adr": 59.7,
+     "kast": 50.0,
+     "rating": 0.67
+    },
+    {
+     "player": 21159,
+     "nick": "bobeksde",
+     "kills": 12,
+     "deaths": 3,
+     "swing": 5.13,
+     "adr": 123.8,
+     "kast": 100.0,
+     "rating": 1.88
+    },
+    {
+     "player": 7443,
+     "nick": "twist",
+     "kills": 9,
+     "deaths": 3,
+     "swing": 5.69,
+     "adr": 86.4,
+     "kast": 90.0,
+     "rating": 1.5
+    },
+    {
+     "player": 16487,
+     "nick": "eraa",
+     "kills": 10,
+     "deaths": 5,
+     "swing": -0.83,
+     "adr": 84.6,
+     "kast": 90.0,
+     "rating": 1.1
+    },
+    {
+     "player": 22860,
+     "nick": "avid",
+     "kills": 6,
+     "deaths": 3,
+     "swing": -0.49,
+     "adr": 91.0,
+     "kast": 100.0,
+     "rating": 1.05
+    },
+    {
+     "player": 22760,
+     "nick": "upE",
+     "kills": 6,
+     "deaths": 5,
+     "swing": -2.35,
+     "adr": 69.1,
+     "kast": 80.0,
+     "rating": 0.85
     }
    ]
   },
@@ -796,108 +792,6 @@
    ],
    "t": [
     {
-     "player": 22866,
-     "nick": "JBOEN",
-     "kills": 12,
-     "deaths": 8,
-     "swing": 7.49,
-     "adr": 100.1,
-     "kast": 91.7,
-     "rating": 1.51
-    },
-    {
-     "player": 9960,
-     "nick": "frozen",
-     "kills": 10,
-     "deaths": 8,
-     "swing": 1.49,
-     "adr": 117.1,
-     "kast": 66.7,
-     "rating": 1.26
-    },
-    {
-     "player": 21972,
-     "nick": "Neityu",
-     "kills": 9,
-     "deaths": 8,
-     "swing": -0.94,
-     "adr": 76.1,
-     "kast": 66.7,
-     "rating": 0.98
-    },
-    {
-     "player": 10394,
-     "nick": "Twistzz",
-     "kills": 6,
-     "deaths": 7,
-     "swing": -3.47,
-     "adr": 32.9,
-     "kast": 75.0,
-     "rating": 0.7
-    },
-    {
-     "player": 22383,
-     "nick": "jcobbb",
-     "kills": 5,
-     "deaths": 8,
-     "swing": -6.92,
-     "adr": 52.7,
-     "kast": 66.7,
-     "rating": 0.5
-    },
-    {
-     "player": 22860,
-     "nick": "avid",
-     "kills": 15,
-     "deaths": 5,
-     "swing": 4.58,
-     "adr": 105.0,
-     "kast": 75.0,
-     "rating": 1.65
-    },
-    {
-     "player": 7443,
-     "nick": "twist",
-     "kills": 7,
-     "deaths": 5,
-     "swing": 1.56,
-     "adr": 67.5,
-     "kast": 75.0,
-     "rating": 1.09
-    },
-    {
-     "player": 22760,
-     "nick": "upE",
-     "kills": 8,
-     "deaths": 8,
-     "swing": -4.42,
-     "adr": 84.1,
-     "kast": 75.0,
-     "rating": 0.8
-    },
-    {
-     "player": 16487,
-     "nick": "eraa",
-     "kills": 5,
-     "deaths": 4,
-     "swing": -0.1,
-     "adr": 42.8,
-     "kast": 75.0,
-     "rating": 0.73
-    },
-    {
-     "player": 21159,
-     "nick": "bobeksde",
-     "kills": 9,
-     "deaths": 8,
-     "swing": -7.07,
-     "adr": 88.7,
-     "kast": 75.0,
-     "rating": 0.73
-    }
-   ],
-   "ct": [
-    {
      "player": 21972,
      "nick": "Neityu",
      "kills": 6,
@@ -997,6 +891,108 @@
      "kast": 58.3,
      "rating": 0.36
     }
+   ],
+   "ct": [
+    {
+     "player": 22866,
+     "nick": "JBOEN",
+     "kills": 12,
+     "deaths": 8,
+     "swing": 7.49,
+     "adr": 100.1,
+     "kast": 91.7,
+     "rating": 1.51
+    },
+    {
+     "player": 9960,
+     "nick": "frozen",
+     "kills": 10,
+     "deaths": 8,
+     "swing": 1.49,
+     "adr": 117.1,
+     "kast": 66.7,
+     "rating": 1.26
+    },
+    {
+     "player": 21972,
+     "nick": "Neityu",
+     "kills": 9,
+     "deaths": 8,
+     "swing": -0.94,
+     "adr": 76.1,
+     "kast": 66.7,
+     "rating": 0.98
+    },
+    {
+     "player": 10394,
+     "nick": "Twistzz",
+     "kills": 6,
+     "deaths": 7,
+     "swing": -3.47,
+     "adr": 32.9,
+     "kast": 75.0,
+     "rating": 0.7
+    },
+    {
+     "player": 22383,
+     "nick": "jcobbb",
+     "kills": 5,
+     "deaths": 8,
+     "swing": -6.92,
+     "adr": 52.7,
+     "kast": 66.7,
+     "rating": 0.5
+    },
+    {
+     "player": 22860,
+     "nick": "avid",
+     "kills": 15,
+     "deaths": 5,
+     "swing": 4.58,
+     "adr": 105.0,
+     "kast": 75.0,
+     "rating": 1.65
+    },
+    {
+     "player": 7443,
+     "nick": "twist",
+     "kills": 7,
+     "deaths": 5,
+     "swing": 1.56,
+     "adr": 67.5,
+     "kast": 75.0,
+     "rating": 1.09
+    },
+    {
+     "player": 22760,
+     "nick": "upE",
+     "kills": 8,
+     "deaths": 8,
+     "swing": -4.42,
+     "adr": 84.1,
+     "kast": 75.0,
+     "rating": 0.8
+    },
+    {
+     "player": 16487,
+     "nick": "eraa",
+     "kills": 5,
+     "deaths": 4,
+     "swing": -0.1,
+     "adr": 42.8,
+     "kast": 75.0,
+     "rating": 0.73
+    },
+    {
+     "player": 21159,
+     "nick": "bobeksde",
+     "kills": 9,
+     "deaths": 8,
+     "swing": -7.07,
+     "adr": 88.7,
+     "kast": 75.0,
+     "rating": 0.73
+    }
    ]
   }
  },
@@ -1011,5 +1007,37 @@
   "swing": 3.6,
   "adr": 85.6,
   "rating": 1.38
- }
+ },
+ "h2h": {
+  "team1Wins": 2,
+  "overtimes": 0,
+  "team2Wins": 0,
+  "maps": [
+   {
+    "date": "2026-05-27",
+    "matchId": 2394197,
+    "eventId": 9054,
+    "event": "Stake Ranked Episode 2",
+    "map": "de_nuke",
+    "score": [
+     13,
+     6
+    ],
+    "winner": 6667
+   },
+   {
+    "date": "2026-05-27",
+    "matchId": 2394197,
+    "eventId": 9054,
+    "event": "Stake Ranked Episode 2",
+    "map": "de_anubis",
+    "score": [
+     13,
+     8
+    ],
+    "winner": 6667
+   }
+  ]
+ },
+ "demo": "https://www.hltv.org/download/demo/111140"
 }

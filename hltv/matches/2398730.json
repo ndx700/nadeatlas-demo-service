@@ -1,30 +1,30 @@
 {
  "id": 2398730,
  "eventId": 8244,
- "stage": null,
- "time": "2026-10-04T22:00:00+08:00",
+ "stage": "Swiss Round 2",
+ "time": "2026-10-04T14:00:00Z",
  "bo": 3,
  "status": "finished",
  "team1": {
   "id": 5995,
   "score": 1,
   "players": [
-   20447,
-   3972,
+   20425,
    21062,
+   3972,
    9436,
-   20425
+   20447
   ]
  },
  "team2": {
   "id": 10621,
   "score": 2,
   "players": [
-   19235,
    16555,
-   16921,
+   21348,
    20101,
-   21348
+   16921,
+   19235
   ]
  },
  "maps": [
@@ -1317,12 +1317,23 @@
    ]
   }
  },
- "mvp": 19235,
- "highlight": null,
+ "mvp": {
+  "player": 19235,
+  "nick": "BELCHONOKK",
+  "maps": 3,
+  "kpr": 0.88,
+  "dpr": 0.68,
+  "kast": 71.2,
+  "mkRating": 1.08,
+  "swing": 4.41,
+  "adr": 94.6,
+  "rating": 1.41
+ },
  "h2h": {
   "team1Wins": 0,
-  "team2Wins": 0,
   "overtimes": 0,
+  "team2Wins": 0,
   "maps": []
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/112398"
 }

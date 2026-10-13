@@ -1,7 +1,7 @@
 {
  "id": 2396559,
  "eventId": 8261,
- "stage": "Group A",
+ "stage": "Group A Upper Bracket Quarter-final",
  "time": "2026-08-12T10:35:00Z",
  "bo": 1,
  "status": "finished",
@@ -153,108 +153,6 @@
    ],
    "t": [
     {
-     "player": 18317,
-     "nick": "magixx",
-     "kills": 10,
-     "deaths": 7,
-     "swing": 4.54,
-     "adr": 102.4,
-     "kast": 83.3,
-     "rating": 1.44
-    },
-    {
-     "player": 21167,
-     "nick": "donk",
-     "kills": 13,
-     "deaths": 7,
-     "swing": 2.72,
-     "adr": 93.5,
-     "kast": 75.0,
-     "rating": 1.4
-    },
-    {
-     "player": 20423,
-     "nick": "zont1x",
-     "kills": 8,
-     "deaths": 9,
-     "swing": -2.61,
-     "adr": 79.4,
-     "kast": 75.0,
-     "rating": 0.9
-    },
-    {
-     "player": 19808,
-     "nick": "tN1R",
-     "kills": 8,
-     "deaths": 8,
-     "swing": -1.36,
-     "adr": 66.2,
-     "kast": 58.3,
-     "rating": 0.8
-    },
-    {
-     "player": 16920,
-     "nick": "sh1ro",
-     "kills": 6,
-     "deaths": 7,
-     "swing": -8.27,
-     "adr": 72.4,
-     "kast": 66.7,
-     "rating": 0.59
-    },
-    {
-     "player": 17675,
-     "nick": "m1N1",
-     "kills": 12,
-     "deaths": 4,
-     "swing": 9.22,
-     "adr": 102.7,
-     "kast": 90.9,
-     "rating": 1.66
-    },
-    {
-     "player": 18120,
-     "nick": "sinnopsyy",
-     "kills": 10,
-     "deaths": 4,
-     "swing": 4.57,
-     "adr": 113.2,
-     "kast": 100.0,
-     "rating": 1.6
-    },
-    {
-     "player": 18163,
-     "nick": "Bibu",
-     "kills": 10,
-     "deaths": 6,
-     "swing": 1.58,
-     "adr": 106.0,
-     "kast": 72.7,
-     "rating": 1.28
-    },
-    {
-     "player": 22419,
-     "nick": "0SAMAS",
-     "kills": 5,
-     "deaths": 3,
-     "swing": -1.27,
-     "adr": 50.9,
-     "kast": 90.9,
-     "rating": 0.88
-    },
-    {
-     "player": 18790,
-     "nick": "CacaNito",
-     "kills": 3,
-     "deaths": 5,
-     "swing": -9.21,
-     "adr": 34.5,
-     "kast": 63.6,
-     "rating": 0.46
-    }
-   ],
-   "ct": [
-    {
      "player": 21167,
      "nick": "donk",
      "kills": 10,
@@ -353,6 +251,108 @@
      "adr": 64.9,
      "kast": 58.3,
      "rating": 0.83
+    }
+   ],
+   "ct": [
+    {
+     "player": 18317,
+     "nick": "magixx",
+     "kills": 10,
+     "deaths": 7,
+     "swing": 4.54,
+     "adr": 102.4,
+     "kast": 83.3,
+     "rating": 1.44
+    },
+    {
+     "player": 21167,
+     "nick": "donk",
+     "kills": 13,
+     "deaths": 7,
+     "swing": 2.72,
+     "adr": 93.5,
+     "kast": 75.0,
+     "rating": 1.4
+    },
+    {
+     "player": 20423,
+     "nick": "zont1x",
+     "kills": 8,
+     "deaths": 9,
+     "swing": -2.61,
+     "adr": 79.4,
+     "kast": 75.0,
+     "rating": 0.9
+    },
+    {
+     "player": 19808,
+     "nick": "tN1R",
+     "kills": 8,
+     "deaths": 8,
+     "swing": -1.36,
+     "adr": 66.2,
+     "kast": 58.3,
+     "rating": 0.8
+    },
+    {
+     "player": 16920,
+     "nick": "sh1ro",
+     "kills": 6,
+     "deaths": 7,
+     "swing": -8.27,
+     "adr": 72.4,
+     "kast": 66.7,
+     "rating": 0.59
+    },
+    {
+     "player": 17675,
+     "nick": "m1N1",
+     "kills": 12,
+     "deaths": 4,
+     "swing": 9.22,
+     "adr": 102.7,
+     "kast": 90.9,
+     "rating": 1.66
+    },
+    {
+     "player": 18120,
+     "nick": "sinnopsyy",
+     "kills": 10,
+     "deaths": 4,
+     "swing": 4.57,
+     "adr": 113.2,
+     "kast": 100.0,
+     "rating": 1.6
+    },
+    {
+     "player": 18163,
+     "nick": "Bibu",
+     "kills": 10,
+     "deaths": 6,
+     "swing": 1.58,
+     "adr": 106.0,
+     "kast": 72.7,
+     "rating": 1.28
+    },
+    {
+     "player": 22419,
+     "nick": "0SAMAS",
+     "kills": 5,
+     "deaths": 3,
+     "swing": -1.27,
+     "adr": 50.9,
+     "kast": 90.9,
+     "rating": 0.88
+    },
+    {
+     "player": 18790,
+     "nick": "CacaNito",
+     "kills": 3,
+     "deaths": 5,
+     "swing": -9.21,
+     "adr": 34.5,
+     "kast": 63.6,
+     "rating": 0.46
     }
    ]
   },
@@ -461,108 +461,6 @@
    ],
    "t": [
     {
-     "player": 18317,
-     "nick": "magixx",
-     "kills": 10,
-     "deaths": 7,
-     "swing": 4.54,
-     "adr": 102.4,
-     "kast": 83.3,
-     "rating": 1.44
-    },
-    {
-     "player": 21167,
-     "nick": "donk",
-     "kills": 13,
-     "deaths": 7,
-     "swing": 2.72,
-     "adr": 93.5,
-     "kast": 75.0,
-     "rating": 1.4
-    },
-    {
-     "player": 20423,
-     "nick": "zont1x",
-     "kills": 8,
-     "deaths": 9,
-     "swing": -2.61,
-     "adr": 79.4,
-     "kast": 75.0,
-     "rating": 0.9
-    },
-    {
-     "player": 19808,
-     "nick": "tN1R",
-     "kills": 8,
-     "deaths": 8,
-     "swing": -1.36,
-     "adr": 66.2,
-     "kast": 58.3,
-     "rating": 0.8
-    },
-    {
-     "player": 16920,
-     "nick": "sh1ro",
-     "kills": 6,
-     "deaths": 7,
-     "swing": -8.27,
-     "adr": 72.4,
-     "kast": 66.7,
-     "rating": 0.59
-    },
-    {
-     "player": 17675,
-     "nick": "m1N1",
-     "kills": 12,
-     "deaths": 4,
-     "swing": 9.22,
-     "adr": 102.7,
-     "kast": 90.9,
-     "rating": 1.66
-    },
-    {
-     "player": 18120,
-     "nick": "sinnopsyy",
-     "kills": 10,
-     "deaths": 4,
-     "swing": 4.57,
-     "adr": 113.2,
-     "kast": 100.0,
-     "rating": 1.6
-    },
-    {
-     "player": 18163,
-     "nick": "Bibu",
-     "kills": 10,
-     "deaths": 6,
-     "swing": 1.58,
-     "adr": 106.0,
-     "kast": 72.7,
-     "rating": 1.28
-    },
-    {
-     "player": 22419,
-     "nick": "0SAMAS",
-     "kills": 5,
-     "deaths": 3,
-     "swing": -1.27,
-     "adr": 50.9,
-     "kast": 90.9,
-     "rating": 0.88
-    },
-    {
-     "player": 18790,
-     "nick": "CacaNito",
-     "kills": 3,
-     "deaths": 5,
-     "swing": -9.21,
-     "adr": 34.5,
-     "kast": 63.6,
-     "rating": 0.46
-    }
-   ],
-   "ct": [
-    {
      "player": 21167,
      "nick": "donk",
      "kills": 10,
@@ -662,6 +560,108 @@
      "kast": 58.3,
      "rating": 0.83
     }
+   ],
+   "ct": [
+    {
+     "player": 18317,
+     "nick": "magixx",
+     "kills": 10,
+     "deaths": 7,
+     "swing": 4.54,
+     "adr": 102.4,
+     "kast": 83.3,
+     "rating": 1.44
+    },
+    {
+     "player": 21167,
+     "nick": "donk",
+     "kills": 13,
+     "deaths": 7,
+     "swing": 2.72,
+     "adr": 93.5,
+     "kast": 75.0,
+     "rating": 1.4
+    },
+    {
+     "player": 20423,
+     "nick": "zont1x",
+     "kills": 8,
+     "deaths": 9,
+     "swing": -2.61,
+     "adr": 79.4,
+     "kast": 75.0,
+     "rating": 0.9
+    },
+    {
+     "player": 19808,
+     "nick": "tN1R",
+     "kills": 8,
+     "deaths": 8,
+     "swing": -1.36,
+     "adr": 66.2,
+     "kast": 58.3,
+     "rating": 0.8
+    },
+    {
+     "player": 16920,
+     "nick": "sh1ro",
+     "kills": 6,
+     "deaths": 7,
+     "swing": -8.27,
+     "adr": 72.4,
+     "kast": 66.7,
+     "rating": 0.59
+    },
+    {
+     "player": 17675,
+     "nick": "m1N1",
+     "kills": 12,
+     "deaths": 4,
+     "swing": 9.22,
+     "adr": 102.7,
+     "kast": 90.9,
+     "rating": 1.66
+    },
+    {
+     "player": 18120,
+     "nick": "sinnopsyy",
+     "kills": 10,
+     "deaths": 4,
+     "swing": 4.57,
+     "adr": 113.2,
+     "kast": 100.0,
+     "rating": 1.6
+    },
+    {
+     "player": 18163,
+     "nick": "Bibu",
+     "kills": 10,
+     "deaths": 6,
+     "swing": 1.58,
+     "adr": 106.0,
+     "kast": 72.7,
+     "rating": 1.28
+    },
+    {
+     "player": 22419,
+     "nick": "0SAMAS",
+     "kills": 5,
+     "deaths": 3,
+     "swing": -1.27,
+     "adr": 50.9,
+     "kast": 90.9,
+     "rating": 0.88
+    },
+    {
+     "player": 18790,
+     "nick": "CacaNito",
+     "kills": 3,
+     "deaths": 5,
+     "swing": -9.21,
+     "adr": 34.5,
+     "kast": 63.6,
+     "rating": 0.46
+    }
    ]
   }
  },
@@ -676,5 +676,12 @@
   "swing": 1.95,
   "adr": 95.4,
   "rating": 1.31
- }
+ },
+ "h2h": {
+  "team1Wins": 0,
+  "overtimes": 0,
+  "team2Wins": 0,
+  "maps": []
+ },
+ "demo": "https://www.hltv.org/download/demo/110215"
 }

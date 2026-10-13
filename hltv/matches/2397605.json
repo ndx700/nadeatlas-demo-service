@@ -1,8 +1,8 @@
 {
  "id": 2397605,
  "eventId": 8266,
- "stage": "Group A",
- "time": "2026-09-09T16:10:00+08:00",
+ "stage": "Group A Lower Bracket Round 1",
+ "time": "2026-09-09T08:10:00Z",
  "bo": 3,
  "status": "finished",
  "team1": {
@@ -20,11 +20,11 @@
   "id": 5995,
   "score": 2,
   "players": [
-   9436,
-   3972,
+   20425,
    21062,
-   20447,
-   20425
+   3972,
+   9436,
+   20447
   ]
  },
  "maps": [
@@ -1317,17 +1317,27 @@
    ]
   }
  },
- "mvp": 9436,
- "highlight": null,
+ "mvp": {
+  "player": 9436,
+  "nick": "NertZ",
+  "maps": 3,
+  "kpr": 0.75,
+  "dpr": 0.64,
+  "kast": 73.4,
+  "mkRating": 1.3,
+  "swing": 3.92,
+  "adr": 90.7,
+  "rating": 1.37
+ },
  "h2h": {
   "team1Wins": 1,
-  "team2Wins": 4,
   "overtimes": 1,
+  "team2Wins": 4,
   "maps": [
    {
-    "date": "2026-08-14",
+    "date": "2026-08-13",
     "matchId": 2396576,
-    "eventId": null,
+    "eventId": 8261,
     "event": "Esports World Cup 2026",
     "map": "de_inferno",
     "score": [
@@ -1337,9 +1347,9 @@
     "winner": 5995
    },
    {
-    "date": "2026-08-14",
+    "date": "2026-08-13",
     "matchId": 2396576,
-    "eventId": null,
+    "eventId": 8261,
     "event": "Esports World Cup 2026",
     "map": "de_ancient",
     "score": [
@@ -1349,9 +1359,9 @@
     "winner": 7532
    },
    {
-    "date": "2026-08-14",
+    "date": "2026-08-13",
     "matchId": 2396576,
-    "eventId": null,
+    "eventId": 8261,
     "event": "Esports World Cup 2026",
     "map": "de_cache",
     "score": [
@@ -1361,9 +1371,9 @@
     "winner": 5995
    },
    {
-    "date": "2026-06-09",
+    "date": "2026-06-08",
     "matchId": 2394893,
-    "eventId": null,
+    "eventId": 9029,
     "event": "IEM Cologne Major 2026 Stage 2",
     "map": "de_mirage",
     "score": [
@@ -1373,9 +1383,9 @@
     "winner": 5995
    },
    {
-    "date": "2026-06-09",
+    "date": "2026-06-08",
     "matchId": 2394893,
-    "eventId": null,
+    "eventId": 9029,
     "event": "IEM Cologne Major 2026 Stage 2",
     "map": "de_inferno",
     "score": [
@@ -1385,5 +1395,6 @@
     "winner": 5995
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/111176"
 }

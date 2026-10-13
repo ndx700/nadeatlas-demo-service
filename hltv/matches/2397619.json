@@ -1,30 +1,30 @@
 {
  "id": 2397619,
  "eventId": 8266,
- "stage": "Quarter-finals",
- "time": "2026-09-11T17:15:00+08:00",
+ "stage": "Quarter-final",
+ "time": "2026-09-11T09:15:00Z",
  "bo": 3,
  "status": "finished",
  "team1": {
   "id": 8297,
   "score": 0,
   "players": [
-   15631,
    24144,
-   13915,
    12553,
-   2023
+   2023,
+   15631,
+   13915
   ]
  },
  "team2": {
   "id": 5995,
   "score": 2,
   "players": [
-   20447,
-   21062,
-   9436,
    20425,
-   3972
+   21062,
+   3972,
+   9436,
+   20447
   ]
  },
  "maps": [
@@ -43,10 +43,6 @@
     [
      5,
      7
-    ],
-    [
-     2,
-     4
     ]
    ]
   },
@@ -71,11 +67,7 @@
   {
    "map": "de_mirage",
    "pick": null,
-   "score": [
-    null,
-    null
-   ],
-   "halves": null
+   "score": null
   }
  ],
  "stats": {
@@ -1004,17 +996,27 @@
    ]
   }
  },
- "mvp": 20447,
- "highlight": null,
+ "mvp": {
+  "player": 20447,
+  "nick": "HeavyGod",
+  "maps": 2,
+  "kpr": 0.91,
+  "dpr": 0.54,
+  "kast": 80.4,
+  "mkRating": 1.57,
+  "swing": 4.75,
+  "adr": 86.9,
+  "rating": 1.45
+ },
  "h2h": {
   "team1Wins": 10,
-  "team2Wins": 7,
   "overtimes": 3,
+  "team2Wins": 7,
   "maps": [
    {
-    "date": "2026-08-21",
+    "date": "2026-08-20",
     "matchId": 2396607,
-    "eventId": null,
+    "eventId": 8261,
     "event": "Esports World Cup 2026",
     "map": "de_dust2",
     "score": [
@@ -1024,9 +1026,9 @@
     "winner": 8297
    },
    {
-    "date": "2026-08-21",
+    "date": "2026-08-20",
     "matchId": 2396607,
-    "eventId": null,
+    "eventId": 8261,
     "event": "Esports World Cup 2026",
     "map": "de_anubis",
     "score": [
@@ -1036,9 +1038,9 @@
     "winner": 5995
    },
    {
-    "date": "2026-08-21",
+    "date": "2026-08-20",
     "matchId": 2396607,
-    "eventId": null,
+    "eventId": 8261,
     "event": "Esports World Cup 2026",
     "map": "de_ancient",
     "score": [
@@ -1048,9 +1050,9 @@
     "winner": 8297
    },
    {
-    "date": "2025-12-06",
+    "date": "2025-12-05",
     "matchId": 2388113,
-    "eventId": null,
+    "eventId": 8042,
     "event": "StarLadder Budapest Major 2025",
     "map": "de_overpass",
     "score": [
@@ -1060,9 +1062,9 @@
     "winner": 8297
    },
    {
-    "date": "2025-12-06",
+    "date": "2025-12-05",
     "matchId": 2388113,
-    "eventId": null,
+    "eventId": 8042,
     "event": "StarLadder Budapest Major 2025",
     "map": "de_inferno",
     "score": [
@@ -1074,7 +1076,7 @@
    {
     "date": "2025-11-04",
     "matchId": 2387393,
-    "eventId": null,
+    "eventId": 8041,
     "event": "IEM Chengdu 2025",
     "map": "de_overpass",
     "score": [
@@ -1086,7 +1088,7 @@
    {
     "date": "2025-11-04",
     "matchId": 2387393,
-    "eventId": null,
+    "eventId": 8041,
     "event": "IEM Chengdu 2025",
     "map": "de_train",
     "score": [
@@ -1096,9 +1098,9 @@
     "winner": 8297
    },
    {
-    "date": "2025-10-06",
+    "date": "2025-10-05",
     "matchId": 2385945,
-    "eventId": null,
+    "eventId": 8040,
     "event": "ESL Pro League Season 22",
     "map": "de_dust2",
     "score": [
@@ -1108,9 +1110,9 @@
     "winner": 5995
    },
    {
-    "date": "2025-10-06",
+    "date": "2025-10-05",
     "matchId": 2385945,
-    "eventId": null,
+    "eventId": 8040,
     "event": "ESL Pro League Season 22",
     "map": "de_train",
     "score": [
@@ -1120,9 +1122,9 @@
     "winner": 5995
    },
    {
-    "date": "2025-09-15",
+    "date": "2025-09-14",
     "matchId": 2385304,
-    "eventId": null,
+    "eventId": 8064,
     "event": "FISSURE Playground 2",
     "map": "de_overpass",
     "score": [
@@ -1132,9 +1134,9 @@
     "winner": 8297
    },
    {
-    "date": "2025-09-15",
+    "date": "2025-09-14",
     "matchId": 2385304,
-    "eventId": null,
+    "eventId": 8064,
     "event": "FISSURE Playground 2",
     "map": "de_inferno",
     "score": [
@@ -1144,9 +1146,9 @@
     "winner": 8297
    },
    {
-    "date": "2025-09-07",
+    "date": "2025-09-06",
     "matchId": 2384855,
-    "eventId": null,
+    "eventId": 7912,
     "event": "BLAST Open London 2025 Finals",
     "map": "de_mirage",
     "score": [
@@ -1156,9 +1158,9 @@
     "winner": 5995
    },
    {
-    "date": "2025-09-07",
+    "date": "2025-09-06",
     "matchId": 2384855,
-    "eventId": null,
+    "eventId": 7912,
     "event": "BLAST Open London 2025 Finals",
     "map": "de_inferno",
     "score": [
@@ -1168,9 +1170,9 @@
     "winner": 5995
    },
    {
-    "date": "2025-07-30",
+    "date": "2025-07-29",
     "matchId": 2383831,
-    "eventId": null,
+    "eventId": 8038,
     "event": "IEM Cologne 2025",
     "map": "de_inferno",
     "score": [
@@ -1180,9 +1182,9 @@
     "winner": 8297
    },
    {
-    "date": "2025-07-30",
+    "date": "2025-07-29",
     "matchId": 2383831,
-    "eventId": null,
+    "eventId": 8038,
     "event": "IEM Cologne 2025",
     "map": "de_dust2",
     "score": [
@@ -1194,7 +1196,7 @@
    {
     "date": "2025-07-26",
     "matchId": 2383758,
-    "eventId": null,
+    "eventId": 8038,
     "event": "IEM Cologne 2025",
     "map": "de_inferno",
     "score": [
@@ -1206,7 +1208,7 @@
    {
     "date": "2025-07-26",
     "matchId": 2383758,
-    "eventId": null,
+    "eventId": 8038,
     "event": "IEM Cologne 2025",
     "map": "de_dust2",
     "score": [
@@ -1216,5 +1218,6 @@
     "winner": 5995
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/111295"
 }

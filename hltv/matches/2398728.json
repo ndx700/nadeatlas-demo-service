@@ -1,29 +1,29 @@
 {
  "id": 2398728,
  "eventId": 8244,
- "stage": null,
- "time": "2026-10-04T20:20:00+08:00",
+ "stage": "Swiss Round 2",
+ "time": "2026-10-04T12:20:00Z",
  "bo": 3,
  "status": "finished",
  "team1": {
   "id": 11283,
   "score": 2,
   "players": [
-   19230,
+   429,
    3741,
+   19230,
    12018,
-   24177,
-   429
+   24177
   ]
  },
  "team2": {
   "id": 11861,
   "score": 0,
   "players": [
-   18850,
    8574,
-   21243,
    7938,
+   21243,
+   18850,
    19677
   ]
  },
@@ -67,11 +67,7 @@
   {
    "map": "de_anubis",
    "pick": null,
-   "score": [
-    null,
-    null
-   ],
-   "halves": null
+   "score": null
   }
  ],
  "stats": {
@@ -1000,17 +996,27 @@
    ]
   }
  },
- "mvp": 19230,
- "highlight": null,
+ "mvp": {
+  "player": 19230,
+  "nick": "m0NESY",
+  "maps": 2,
+  "kpr": 0.93,
+  "dpr": 0.5,
+  "kast": 87.5,
+  "mkRating": 0.87,
+  "swing": 4.42,
+  "adr": 91.8,
+  "rating": 1.44
+ },
  "h2h": {
   "team1Wins": 1,
-  "team2Wins": 4,
   "overtimes": 0,
+  "team2Wins": 4,
   "maps": [
    {
-    "date": "2026-02-02",
+    "date": "2026-02-01",
     "matchId": 2389644,
-    "eventId": null,
+    "eventId": 8240,
     "event": "IEM Kraków 2026",
     "map": "de_inferno",
     "score": [
@@ -1020,9 +1026,9 @@
     "winner": 11861
    },
    {
-    "date": "2026-02-02",
+    "date": "2026-02-01",
     "matchId": 2389644,
-    "eventId": null,
+    "eventId": 8240,
     "event": "IEM Kraków 2026",
     "map": "de_mirage",
     "score": [
@@ -1032,9 +1038,9 @@
     "winner": 11283
    },
    {
-    "date": "2026-02-02",
+    "date": "2026-02-01",
     "matchId": 2389644,
-    "eventId": null,
+    "eventId": 8240,
     "event": "IEM Kraków 2026",
     "map": "de_anubis",
     "score": [
@@ -1044,9 +1050,9 @@
     "winner": 11861
    },
    {
-    "date": "2025-08-24",
+    "date": "2025-08-23",
     "matchId": 2384386,
-    "eventId": null,
+    "eventId": 8039,
     "event": "Esports World Cup 2025",
     "map": "de_train",
     "score": [
@@ -1056,9 +1062,9 @@
     "winner": 11861
    },
    {
-    "date": "2025-08-24",
+    "date": "2025-08-23",
     "matchId": 2384386,
-    "eventId": null,
+    "eventId": 8039,
     "event": "Esports World Cup 2025",
     "map": "de_inferno",
     "score": [
@@ -1068,5 +1074,6 @@
     "winner": 11861
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/112390"
 }

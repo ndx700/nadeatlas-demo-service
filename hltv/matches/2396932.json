@@ -1,7 +1,7 @@
 {
  "id": 2396932,
  "eventId": 8249,
- "stage": "Group A",
+ "stage": "Group A Upper Bracket Semi-final",
  "time": "2026-08-28T11:50:00Z",
  "bo": 3,
  "status": "finished",
@@ -9,22 +9,22 @@
   "id": 5995,
   "score": 0,
   "players": [
-   21062,
-   9436,
    20425,
-   20447,
-   3972
+   21062,
+   3972,
+   9436,
+   20447
   ]
  },
  "team2": {
   "id": 7020,
   "score": 2,
   "players": [
-   21167,
+   18317,
    19808,
    16920,
-   20423,
-   18317
+   21167,
+   20423
   ]
  },
  "maps": [
@@ -67,11 +67,7 @@
   {
    "map": "de_ancient",
    "pick": null,
-   "score": [
-    null,
-    null
-   ],
-   "halves": null
+   "score": null
   }
  ],
  "stats": {
@@ -180,108 +176,6 @@
    ],
    "t": [
     {
-     "player": 20425,
-     "nick": "r1nkle",
-     "kills": 23,
-     "deaths": 12,
-     "swing": 0.32,
-     "adr": 78.1,
-     "kast": 83.3,
-     "rating": 1.14
-    },
-    {
-     "player": 9436,
-     "nick": "NertZ",
-     "kills": 15,
-     "deaths": 13,
-     "swing": -0.09,
-     "adr": 71.8,
-     "kast": 79.2,
-     "rating": 0.95
-    },
-    {
-     "player": 21062,
-     "nick": "MATYS",
-     "kills": 16,
-     "deaths": 18,
-     "swing": -2.6,
-     "adr": 70.6,
-     "kast": 66.7,
-     "rating": 0.78
-    },
-    {
-     "player": 20447,
-     "nick": "HeavyGod",
-     "kills": 6,
-     "deaths": 14,
-     "swing": -7.01,
-     "adr": 26.0,
-     "kast": 66.7,
-     "rating": 0.45
-    },
-    {
-     "player": 3972,
-     "nick": "huNter-",
-     "kills": 3,
-     "deaths": 17,
-     "swing": -10.88,
-     "adr": 46.6,
-     "kast": 66.7,
-     "rating": 0.32
-    },
-    {
-     "player": 21167,
-     "nick": "donk",
-     "kills": 16,
-     "deaths": 8,
-     "swing": 3.73,
-     "adr": 117.4,
-     "kast": 88.2,
-     "rating": 1.73
-    },
-    {
-     "player": 19808,
-     "nick": "tN1R",
-     "kills": 18,
-     "deaths": 11,
-     "swing": 5.93,
-     "adr": 107.1,
-     "kast": 76.5,
-     "rating": 1.72
-    },
-    {
-     "player": 16920,
-     "nick": "sh1ro",
-     "kills": 13,
-     "deaths": 7,
-     "swing": 1.32,
-     "adr": 69.8,
-     "kast": 76.5,
-     "rating": 1.15
-    },
-    {
-     "player": 18317,
-     "nick": "magixx",
-     "kills": 7,
-     "deaths": 9,
-     "swing": -2.08,
-     "adr": 48.2,
-     "kast": 76.5,
-     "rating": 0.83
-    },
-    {
-     "player": 20423,
-     "nick": "zont1x",
-     "kills": 1,
-     "deaths": 10,
-     "swing": -7.77,
-     "adr": 17.4,
-     "kast": 70.6,
-     "rating": 0.39
-    }
-   ],
-   "ct": [
-    {
      "player": 20447,
      "nick": "HeavyGod",
      "kills": 11,
@@ -380,6 +274,108 @@
      "adr": 45.8,
      "kast": 66.7,
      "rating": 1.08
+    }
+   ],
+   "ct": [
+    {
+     "player": 20425,
+     "nick": "r1nkle",
+     "kills": 23,
+     "deaths": 12,
+     "swing": 0.32,
+     "adr": 78.1,
+     "kast": 83.3,
+     "rating": 1.14
+    },
+    {
+     "player": 9436,
+     "nick": "NertZ",
+     "kills": 15,
+     "deaths": 13,
+     "swing": -0.09,
+     "adr": 71.8,
+     "kast": 79.2,
+     "rating": 0.95
+    },
+    {
+     "player": 21062,
+     "nick": "MATYS",
+     "kills": 16,
+     "deaths": 18,
+     "swing": -2.6,
+     "adr": 70.6,
+     "kast": 66.7,
+     "rating": 0.78
+    },
+    {
+     "player": 20447,
+     "nick": "HeavyGod",
+     "kills": 6,
+     "deaths": 14,
+     "swing": -7.01,
+     "adr": 26.0,
+     "kast": 66.7,
+     "rating": 0.45
+    },
+    {
+     "player": 3972,
+     "nick": "huNter-",
+     "kills": 3,
+     "deaths": 17,
+     "swing": -10.88,
+     "adr": 46.6,
+     "kast": 66.7,
+     "rating": 0.32
+    },
+    {
+     "player": 21167,
+     "nick": "donk",
+     "kills": 16,
+     "deaths": 8,
+     "swing": 3.73,
+     "adr": 117.4,
+     "kast": 88.2,
+     "rating": 1.73
+    },
+    {
+     "player": 19808,
+     "nick": "tN1R",
+     "kills": 18,
+     "deaths": 11,
+     "swing": 5.93,
+     "adr": 107.1,
+     "kast": 76.5,
+     "rating": 1.72
+    },
+    {
+     "player": 16920,
+     "nick": "sh1ro",
+     "kills": 13,
+     "deaths": 7,
+     "swing": 1.32,
+     "adr": 69.8,
+     "kast": 76.5,
+     "rating": 1.15
+    },
+    {
+     "player": 18317,
+     "nick": "magixx",
+     "kills": 7,
+     "deaths": 9,
+     "swing": -2.08,
+     "adr": 48.2,
+     "kast": 76.5,
+     "rating": 0.83
+    },
+    {
+     "player": 20423,
+     "nick": "zont1x",
+     "kills": 1,
+     "deaths": 10,
+     "swing": -7.77,
+     "adr": 17.4,
+     "kast": 70.6,
+     "rating": 0.39
     }
    ]
   },
@@ -488,108 +484,6 @@
    ],
    "t": [
     {
-     "player": 20425,
-     "nick": "r1nkle",
-     "kills": 14,
-     "deaths": 4,
-     "swing": 2.84,
-     "adr": 97.4,
-     "kast": 83.3,
-     "rating": 1.37
-    },
-    {
-     "player": 9436,
-     "nick": "NertZ",
-     "kills": 5,
-     "deaths": 5,
-     "swing": -2.03,
-     "adr": 45.2,
-     "kast": 83.3,
-     "rating": 0.76
-    },
-    {
-     "player": 21062,
-     "nick": "MATYS",
-     "kills": 8,
-     "deaths": 9,
-     "swing": -6.51,
-     "adr": 61.7,
-     "kast": 66.7,
-     "rating": 0.63
-    },
-    {
-     "player": 20447,
-     "nick": "HeavyGod",
-     "kills": 2,
-     "deaths": 6,
-     "swing": -8.56,
-     "adr": 18.8,
-     "kast": 66.7,
-     "rating": 0.4
-    },
-    {
-     "player": 3972,
-     "nick": "huNter-",
-     "kills": 2,
-     "deaths": 10,
-     "swing": -13.82,
-     "adr": 54.0,
-     "kast": 58.3,
-     "rating": 0.21
-    },
-    {
-     "player": 19808,
-     "nick": "tN1R",
-     "kills": 9,
-     "deaths": 5,
-     "swing": 13.15,
-     "adr": 115.6,
-     "kast": 85.7,
-     "rating": 2.36
-    },
-    {
-     "player": 18317,
-     "nick": "magixx",
-     "kills": 5,
-     "deaths": 4,
-     "swing": 7.06,
-     "adr": 76.1,
-     "kast": 85.7,
-     "rating": 1.57
-    },
-    {
-     "player": 16920,
-     "nick": "sh1ro",
-     "kills": 5,
-     "deaths": 3,
-     "swing": 3.62,
-     "adr": 68.7,
-     "kast": 71.4,
-     "rating": 1.27
-    },
-    {
-     "player": 21167,
-     "nick": "donk",
-     "kills": 3,
-     "deaths": 4,
-     "swing": -4.97,
-     "adr": 74.9,
-     "kast": 85.7,
-     "rating": 0.88
-    },
-    {
-     "player": 20423,
-     "nick": "zont1x",
-     "kills": 0,
-     "deaths": 5,
-     "swing": -8.37,
-     "adr": 21.0,
-     "kast": 71.4,
-     "rating": 0.4
-    }
-   ],
-   "ct": [
-    {
      "player": 21062,
      "nick": "MATYS",
      "kills": 4,
@@ -688,6 +582,108 @@
      "adr": 65.0,
      "kast": 75.0,
      "rating": 1.12
+    }
+   ],
+   "ct": [
+    {
+     "player": 20425,
+     "nick": "r1nkle",
+     "kills": 14,
+     "deaths": 4,
+     "swing": 2.84,
+     "adr": 97.4,
+     "kast": 83.3,
+     "rating": 1.37
+    },
+    {
+     "player": 9436,
+     "nick": "NertZ",
+     "kills": 5,
+     "deaths": 5,
+     "swing": -2.03,
+     "adr": 45.2,
+     "kast": 83.3,
+     "rating": 0.76
+    },
+    {
+     "player": 21062,
+     "nick": "MATYS",
+     "kills": 8,
+     "deaths": 9,
+     "swing": -6.51,
+     "adr": 61.7,
+     "kast": 66.7,
+     "rating": 0.63
+    },
+    {
+     "player": 20447,
+     "nick": "HeavyGod",
+     "kills": 2,
+     "deaths": 6,
+     "swing": -8.56,
+     "adr": 18.8,
+     "kast": 66.7,
+     "rating": 0.4
+    },
+    {
+     "player": 3972,
+     "nick": "huNter-",
+     "kills": 2,
+     "deaths": 10,
+     "swing": -13.82,
+     "adr": 54.0,
+     "kast": 58.3,
+     "rating": 0.21
+    },
+    {
+     "player": 19808,
+     "nick": "tN1R",
+     "kills": 9,
+     "deaths": 5,
+     "swing": 13.15,
+     "adr": 115.6,
+     "kast": 85.7,
+     "rating": 2.36
+    },
+    {
+     "player": 18317,
+     "nick": "magixx",
+     "kills": 5,
+     "deaths": 4,
+     "swing": 7.06,
+     "adr": 76.1,
+     "kast": 85.7,
+     "rating": 1.57
+    },
+    {
+     "player": 16920,
+     "nick": "sh1ro",
+     "kills": 5,
+     "deaths": 3,
+     "swing": 3.62,
+     "adr": 68.7,
+     "kast": 71.4,
+     "rating": 1.27
+    },
+    {
+     "player": 21167,
+     "nick": "donk",
+     "kills": 3,
+     "deaths": 4,
+     "swing": -4.97,
+     "adr": 74.9,
+     "kast": 85.7,
+     "rating": 0.88
+    },
+    {
+     "player": 20423,
+     "nick": "zont1x",
+     "kills": 0,
+     "deaths": 5,
+     "swing": -8.37,
+     "adr": 21.0,
+     "kast": 71.4,
+     "rating": 0.4
     }
    ]
   },
@@ -796,108 +792,6 @@
    ],
    "t": [
     {
-     "player": 9436,
-     "nick": "NertZ",
-     "kills": 10,
-     "deaths": 8,
-     "swing": 1.84,
-     "adr": 98.2,
-     "kast": 75.0,
-     "rating": 1.16
-    },
-    {
-     "player": 21062,
-     "nick": "MATYS",
-     "kills": 8,
-     "deaths": 9,
-     "swing": 1.31,
-     "adr": 79.5,
-     "kast": 66.7,
-     "rating": 0.98
-    },
-    {
-     "player": 20425,
-     "nick": "r1nkle",
-     "kills": 9,
-     "deaths": 8,
-     "swing": -2.21,
-     "adr": 58.8,
-     "kast": 83.3,
-     "rating": 0.92
-    },
-    {
-     "player": 20447,
-     "nick": "HeavyGod",
-     "kills": 4,
-     "deaths": 8,
-     "swing": -5.46,
-     "adr": 33.1,
-     "kast": 66.7,
-     "rating": 0.51
-    },
-    {
-     "player": 3972,
-     "nick": "huNter-",
-     "kills": 1,
-     "deaths": 7,
-     "swing": -7.93,
-     "adr": 39.2,
-     "kast": 75.0,
-     "rating": 0.43
-    },
-    {
-     "player": 21167,
-     "nick": "donk",
-     "kills": 13,
-     "deaths": 4,
-     "swing": 9.82,
-     "adr": 147.1,
-     "kast": 90.0,
-     "rating": 2.48
-    },
-    {
-     "player": 19808,
-     "nick": "tN1R",
-     "kills": 9,
-     "deaths": 6,
-     "swing": 0.87,
-     "adr": 101.1,
-     "kast": 70.0,
-     "rating": 1.34
-    },
-    {
-     "player": 16920,
-     "nick": "sh1ro",
-     "kills": 8,
-     "deaths": 4,
-     "swing": -0.3,
-     "adr": 70.6,
-     "kast": 80.0,
-     "rating": 1.07
-    },
-    {
-     "player": 18317,
-     "nick": "magixx",
-     "kills": 2,
-     "deaths": 5,
-     "swing": -8.47,
-     "adr": 28.7,
-     "kast": 70.0,
-     "rating": 0.47
-    },
-    {
-     "player": 20423,
-     "nick": "zont1x",
-     "kills": 1,
-     "deaths": 5,
-     "swing": -7.35,
-     "adr": 14.8,
-     "kast": 70.0,
-     "rating": 0.39
-    }
-   ],
-   "ct": [
-    {
      "player": 20447,
      "nick": "HeavyGod",
      "kills": 8,
@@ -997,6 +891,108 @@
      "kast": 83.3,
      "rating": 1.04
     }
+   ],
+   "ct": [
+    {
+     "player": 9436,
+     "nick": "NertZ",
+     "kills": 10,
+     "deaths": 8,
+     "swing": 1.84,
+     "adr": 98.2,
+     "kast": 75.0,
+     "rating": 1.16
+    },
+    {
+     "player": 21062,
+     "nick": "MATYS",
+     "kills": 8,
+     "deaths": 9,
+     "swing": 1.31,
+     "adr": 79.5,
+     "kast": 66.7,
+     "rating": 0.98
+    },
+    {
+     "player": 20425,
+     "nick": "r1nkle",
+     "kills": 9,
+     "deaths": 8,
+     "swing": -2.21,
+     "adr": 58.8,
+     "kast": 83.3,
+     "rating": 0.92
+    },
+    {
+     "player": 20447,
+     "nick": "HeavyGod",
+     "kills": 4,
+     "deaths": 8,
+     "swing": -5.46,
+     "adr": 33.1,
+     "kast": 66.7,
+     "rating": 0.51
+    },
+    {
+     "player": 3972,
+     "nick": "huNter-",
+     "kills": 1,
+     "deaths": 7,
+     "swing": -7.93,
+     "adr": 39.2,
+     "kast": 75.0,
+     "rating": 0.43
+    },
+    {
+     "player": 21167,
+     "nick": "donk",
+     "kills": 13,
+     "deaths": 4,
+     "swing": 9.82,
+     "adr": 147.1,
+     "kast": 90.0,
+     "rating": 2.48
+    },
+    {
+     "player": 19808,
+     "nick": "tN1R",
+     "kills": 9,
+     "deaths": 6,
+     "swing": 0.87,
+     "adr": 101.1,
+     "kast": 70.0,
+     "rating": 1.34
+    },
+    {
+     "player": 16920,
+     "nick": "sh1ro",
+     "kills": 8,
+     "deaths": 4,
+     "swing": -0.3,
+     "adr": 70.6,
+     "kast": 80.0,
+     "rating": 1.07
+    },
+    {
+     "player": 18317,
+     "nick": "magixx",
+     "kills": 2,
+     "deaths": 5,
+     "swing": -8.47,
+     "adr": 28.7,
+     "kast": 70.0,
+     "rating": 0.47
+    },
+    {
+     "player": 20423,
+     "nick": "zont1x",
+     "kills": 1,
+     "deaths": 5,
+     "swing": -7.35,
+     "adr": 14.8,
+     "kast": 70.0,
+     "rating": 0.39
+    }
    ]
   }
  },
@@ -1012,16 +1008,15 @@
   "adr": 86.9,
   "rating": 1.47
  },
- "highlight": null,
  "h2h": {
   "team1Wins": 5,
-  "team2Wins": 15,
   "overtimes": 4,
+  "team2Wins": 15,
   "maps": [
    {
-    "date": "2026-06-20",
+    "date": "2026-06-19",
     "matchId": 2394998,
-    "eventId": null,
+    "eventId": 8301,
     "event": "IEM Cologne Major 2026",
     "map": "de_mirage",
     "score": [
@@ -1031,9 +1026,9 @@
     "winner": 7020
    },
    {
-    "date": "2026-06-20",
+    "date": "2026-06-19",
     "matchId": 2394998,
-    "eventId": null,
+    "eventId": 8301,
     "event": "IEM Cologne Major 2026",
     "map": "de_dust2",
     "score": [
@@ -1043,9 +1038,9 @@
     "winner": 7020
    },
    {
-    "date": "2026-06-20",
+    "date": "2026-06-19",
     "matchId": 2394998,
-    "eventId": null,
+    "eventId": 8301,
     "event": "IEM Cologne Major 2026",
     "map": "de_overpass",
     "score": [
@@ -1057,7 +1052,7 @@
    {
     "date": "2026-05-15",
     "matchId": 2394150,
-    "eventId": null,
+    "eventId": 8049,
     "event": "PGL Astana 2026",
     "map": "de_ancient",
     "score": [
@@ -1069,7 +1064,7 @@
    {
     "date": "2026-05-15",
     "matchId": 2394150,
-    "eventId": null,
+    "eventId": 8049,
     "event": "PGL Astana 2026",
     "map": "de_dust2",
     "score": [
@@ -1079,9 +1074,9 @@
     "winner": 7020
    },
    {
-    "date": "2026-04-16",
+    "date": "2026-04-15",
     "matchId": 2393237,
-    "eventId": null,
+    "eventId": 8242,
     "event": "IEM Rio 2026",
     "map": "de_dust2",
     "score": [
@@ -1091,9 +1086,9 @@
     "winner": 7020
    },
    {
-    "date": "2026-04-16",
+    "date": "2026-04-15",
     "matchId": 2393237,
-    "eventId": null,
+    "eventId": 8242,
     "event": "IEM Rio 2026",
     "map": "de_mirage",
     "score": [
@@ -1103,9 +1098,9 @@
     "winner": 7020
    },
    {
-    "date": "2026-03-09",
+    "date": "2026-03-08",
     "matchId": 2391123,
-    "eventId": null,
+    "eventId": 8412,
     "event": "ESL Pro League Season 23 Stage 2",
     "map": "de_anubis",
     "score": [
@@ -1115,9 +1110,9 @@
     "winner": 7020
    },
    {
-    "date": "2026-03-09",
+    "date": "2026-03-08",
     "matchId": 2391123,
-    "eventId": null,
+    "eventId": 8412,
     "event": "ESL Pro League Season 23 Stage 2",
     "map": "de_ancient",
     "score": [
@@ -1127,9 +1122,9 @@
     "winner": 7020
    },
    {
-    "date": "2026-02-04",
+    "date": "2026-02-03",
     "matchId": 2389659,
-    "eventId": null,
+    "eventId": 8240,
     "event": "IEM Kraków 2026",
     "map": "de_dust2",
     "score": [
@@ -1139,9 +1134,9 @@
     "winner": 7020
    },
    {
-    "date": "2026-02-04",
+    "date": "2026-02-03",
     "matchId": 2389659,
-    "eventId": null,
+    "eventId": 8240,
     "event": "IEM Kraków 2026",
     "map": "de_overpass",
     "score": [
@@ -1151,9 +1146,9 @@
     "winner": 5995
    },
    {
-    "date": "2026-02-04",
+    "date": "2026-02-03",
     "matchId": 2389659,
-    "eventId": null,
+    "eventId": 8240,
     "event": "IEM Kraków 2026",
     "map": "de_anubis",
     "score": [
@@ -1163,9 +1158,9 @@
     "winner": 7020
    },
    {
-    "date": "2025-10-07",
+    "date": "2025-10-06",
     "matchId": 2385953,
-    "eventId": null,
+    "eventId": 8040,
     "event": "ESL Pro League Season 22",
     "map": "de_mirage",
     "score": [
@@ -1175,9 +1170,9 @@
     "winner": 7020
    },
    {
-    "date": "2025-10-07",
+    "date": "2025-10-06",
     "matchId": 2385953,
-    "eventId": null,
+    "eventId": 8040,
     "event": "ESL Pro League Season 22",
     "map": "de_dust2",
     "score": [
@@ -1187,9 +1182,9 @@
     "winner": 7020
    },
    {
-    "date": "2025-09-02",
+    "date": "2025-09-01",
     "matchId": 2384851,
-    "eventId": null,
+    "eventId": 7907,
     "event": "BLAST Open London 2025",
     "map": "de_ancient",
     "score": [
@@ -1199,9 +1194,9 @@
     "winner": 5995
    },
    {
-    "date": "2025-09-02",
+    "date": "2025-09-01",
     "matchId": 2384851,
-    "eventId": null,
+    "eventId": 7907,
     "event": "BLAST Open London 2025",
     "map": "de_dust2",
     "score": [
@@ -1211,9 +1206,9 @@
     "winner": 5995
    },
    {
-    "date": "2025-09-02",
+    "date": "2025-09-01",
     "matchId": 2384851,
-    "eventId": null,
+    "eventId": 7907,
     "event": "BLAST Open London 2025",
     "map": "de_mirage",
     "score": [
@@ -1223,9 +1218,9 @@
     "winner": 7020
    },
    {
-    "date": "2025-08-10",
+    "date": "2025-08-09",
     "matchId": 2384142,
-    "eventId": null,
+    "eventId": 7906,
     "event": "BLAST Bounty 2025 Season 2",
     "map": "de_dust2",
     "score": [
@@ -1235,9 +1230,9 @@
     "winner": 7020
    },
    {
-    "date": "2025-08-10",
+    "date": "2025-08-09",
     "matchId": 2384142,
-    "eventId": null,
+    "eventId": 7906,
     "event": "BLAST Bounty 2025 Season 2",
     "map": "de_ancient",
     "score": [
@@ -1247,9 +1242,9 @@
     "winner": 5995
    },
    {
-    "date": "2025-08-10",
+    "date": "2025-08-09",
     "matchId": 2384142,
-    "eventId": null,
+    "eventId": 7906,
     "event": "BLAST Bounty 2025 Season 2",
     "map": "de_mirage",
     "score": [
@@ -1259,5 +1254,6 @@
     "winner": 7020
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/110675"
 }

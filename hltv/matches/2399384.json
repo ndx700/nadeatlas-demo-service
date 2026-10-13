@@ -1,0 +1,76 @@
+{
+ "id": 2399384,
+ "eventId": 8932,
+ "stage": "Group A Opening Match",
+ "time": "2026-10-14T08:30:00Z",
+ "bo": 3,
+ "status": "upcoming",
+ "team1": {
+  "id": 9996,
+  "score": null,
+  "players": []
+ },
+ "team2": {
+  "id": 11861,
+  "score": null,
+  "players": []
+ },
+ "maps": [],
+ "stats": {},
+ "mvp": null,
+ "h2h": {
+  "team1Wins": 0,
+  "overtimes": 0,
+  "team2Wins": 4,
+  "maps": [
+   {
+    "date": "2026-10-03",
+    "matchId": 2398721,
+    "eventId": 8244,
+    "event": "ESL Pro League Season 24",
+    "map": "de_mirage",
+    "score": [
+     11,
+     13
+    ],
+    "winner": 11861
+   },
+   {
+    "date": "2026-10-03",
+    "matchId": 2398721,
+    "eventId": 8244,
+    "event": "ESL Pro League Season 24",
+    "map": "de_dust2",
+    "score": [
+     3,
+     13
+    ],
+    "winner": 11861
+   },
+   {
+    "date": "2026-06-14",
+    "matchId": 2394990,
+    "eventId": 8301,
+    "event": "IEM Cologne Major 2026",
+    "map": "de_dust2",
+    "score": [
+     5,
+     13
+    ],
+    "winner": 11861
+   },
+   {
+    "date": "2026-06-14",
+    "matchId": 2394990,
+    "eventId": 8301,
+    "event": "IEM Cologne Major 2026",
+    "map": "de_nuke",
+    "score": [
+     1,
+     13
+    ],
+    "winner": 11861
+   }
+  ]
+ }
+}

@@ -1,30 +1,30 @@
 {
  "id": 2398091,
  "eventId": 8057,
- "stage": "Opening rd",
- "time": "2026-09-18T01:10:00+08:00",
+ "stage": "Upper Bracket Quarter-final",
+ "time": "2026-09-17T17:10:00Z",
  "bo": 3,
  "status": "finished",
  "team1": {
   "id": 8297,
   "score": 2,
   "players": [
-   15631,
    24144,
    12553,
-   13915,
-   2023
+   2023,
+   15631,
+   13915
   ]
  },
  "team2": {
   "id": 9215,
   "score": 1,
   "players": [
-   21037,
    22570,
+   21037,
    19694,
-   19310,
-   21288
+   21288,
+   19310
   ]
  },
  "maps": [
@@ -1317,12 +1317,23 @@
    ]
   }
  },
- "mvp": 15631,
- "highlight": null,
+ "mvp": {
+  "player": 15631,
+  "nick": "KSCERATO",
+  "maps": 3,
+  "kpr": 0.82,
+  "dpr": 0.58,
+  "kast": 80.6,
+  "mkRating": 1.27,
+  "swing": 1.37,
+  "adr": 84.0,
+  "rating": 1.31
+ },
  "h2h": {
   "team1Wins": 0,
-  "team2Wins": 0,
   "overtimes": 0,
+  "team2Wins": 0,
   "maps": []
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/111557"
 }

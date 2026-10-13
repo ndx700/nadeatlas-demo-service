@@ -1,21 +1,77 @@
 {
  "id": 2399254,
  "eventId": 9223,
- "stage": "Group B",
- "time": "2026-10-13T13:00:00Z",
+ "stage": "Group B Elimination Match",
+ "time": "2026-10-13T13:20:00Z",
  "bo": 3,
- "status": "upcoming",
+ "status": "live",
  "team1": {
-  "id": 0,
+  "id": 10245,
   "score": null,
   "players": []
  },
  "team2": {
-  "id": 0,
+  "id": 13996,
   "score": null,
   "players": []
  },
- "maps": [],
+ "maps": [
+  {
+   "map": "de_inferno",
+   "pick": 13996,
+   "score": [
+    8,
+    4
+   ],
+   "halves": [
+    [
+     8,
+     4
+    ]
+   ]
+  },
+  {
+   "map": "de_mirage",
+   "pick": 10245,
+   "score": null
+  },
+  {
+   "map": "de_cache",
+   "pick": null,
+   "score": null
+  }
+ ],
  "stats": {},
- "mvp": null
+ "mvp": null,
+ "h2h": {
+  "team1Wins": 2,
+  "overtimes": 0,
+  "team2Wins": 0,
+  "maps": [
+   {
+    "date": "2025-10-08",
+    "matchId": 2386414,
+    "eventId": 8745,
+    "event": "Exort The Proving Grounds Season 5",
+    "map": "de_mirage",
+    "score": [
+     13,
+     10
+    ],
+    "winner": 10245
+   },
+   {
+    "date": "2025-10-08",
+    "matchId": 2386414,
+    "eventId": 8745,
+    "event": "Exort The Proving Grounds Season 5",
+    "map": "de_nuke",
+    "score": [
+     13,
+     11
+    ],
+    "winner": 10245
+   }
+  ]
+ }
 }

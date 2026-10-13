@@ -1,30 +1,30 @@
 {
  "id": 2397608,
  "eventId": 8266,
- "stage": "Group B",
- "time": "2026-09-09T15:35:00+08:00",
+ "stage": "Group B Upper Bracket Semi-final",
+ "time": "2026-09-09T07:35:00Z",
  "bo": 3,
  "status": "finished",
  "team1": {
   "id": 12468,
   "score": 2,
   "players": [
-   19045,
-   19869,
+   19686,
    15698,
    12521,
-   19686
+   19045,
+   19869
   ]
  },
  "team2": {
   "id": 12474,
   "score": 0,
   "players": [
+   22760,
    21159,
    22860,
-   7443,
    16487,
-   22760
+   7443
   ]
  },
  "maps": [
@@ -67,11 +67,7 @@
   {
    "map": "de_ancient",
    "pick": null,
-   "score": [
-    null,
-    null
-   ],
-   "halves": null
+   "score": null
   }
  ],
  "stats": {
@@ -1000,12 +996,23 @@
    ]
   }
  },
- "mvp": 19045,
- "highlight": null,
+ "mvp": {
+  "player": 19045,
+  "nick": "latto",
+  "maps": 2,
+  "kpr": 0.89,
+  "dpr": 0.47,
+  "kast": 86.1,
+  "mkRating": 1.51,
+  "swing": 4.74,
+  "adr": 92.5,
+  "rating": 1.57
+ },
  "h2h": {
   "team1Wins": 0,
-  "team2Wins": 0,
   "overtimes": 0,
+  "team2Wins": 0,
   "maps": []
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/111169"
 }

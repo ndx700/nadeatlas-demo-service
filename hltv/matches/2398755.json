@@ -1,39 +1,1343 @@
 {
  "id": 2398755,
  "eventId": 8244,
- "stage": null,
- "time": "2026-10-11T01:00:00+08:00",
+ "stage": "Semi-final",
+ "time": "2026-10-10T17:10:00Z",
  "bo": 3,
- "status": "upcoming",
+ "status": "finished",
  "team1": {
   "id": 4494,
-  "score": null,
-  "players": []
+  "score": 2,
+  "players": [
+   24457,
+   18221,
+   20312,
+   18072,
+   22279
+  ]
  },
  "team2": {
   "id": 7020,
-  "score": null,
-  "players": []
+  "score": 1,
+  "players": [
+   18317,
+   19808,
+   16920,
+   21167,
+   20423
+  ]
  },
- "maps": [],
+ "maps": [
+  {
+   "map": "de_dust2",
+   "pick": 7020,
+   "score": [
+    13,
+    7
+   ],
+   "halves": [
+    [
+     8,
+     4
+    ],
+    [
+     5,
+     3
+    ]
+   ]
+  },
+  {
+   "map": "de_mirage",
+   "pick": 4494,
+   "score": [
+    5,
+    13
+   ],
+   "halves": [
+    [
+     4,
+     8
+    ],
+    [
+     1,
+     5
+    ]
+   ]
+  },
+  {
+   "map": "de_nuke",
+   "pick": null,
+   "score": [
+    13,
+    11
+   ],
+   "halves": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     6
+    ]
+   ]
+  }
+ ],
  "stats": {
   "all": {
-   "both": [],
-   "t": [],
-   "ct": []
+   "both": [
+    {
+     "player": 18221,
+     "nick": "Spinx",
+     "kills": 43,
+     "deaths": 37,
+     "swing": 2.56,
+     "adr": 76.9,
+     "kast": 67.7,
+     "rating": 1.15
+    },
+    {
+     "player": 18072,
+     "nick": "torzsi",
+     "kills": 47,
+     "deaths": 38,
+     "swing": -1.55,
+     "adr": 82.1,
+     "kast": 85.5,
+     "rating": 1.11
+    },
+    {
+     "player": 24457,
+     "nick": "xelex",
+     "kills": 36,
+     "deaths": 40,
+     "swing": 0.0,
+     "adr": 61.0,
+     "kast": 79.0,
+     "rating": 1.05
+    },
+    {
+     "player": 22279,
+     "nick": "PR",
+     "kills": 47,
+     "deaths": 41,
+     "swing": -0.96,
+     "adr": 73.2,
+     "kast": 67.7,
+     "rating": 1.01
+    },
+    {
+     "player": 20312,
+     "nick": "xertioN",
+     "kills": 38,
+     "deaths": 49,
+     "swing": 0.23,
+     "adr": 71.2,
+     "kast": 67.7,
+     "rating": 0.95
+    },
+    {
+     "player": 20423,
+     "nick": "zont1x",
+     "kills": 44,
+     "deaths": 41,
+     "swing": 2.78,
+     "adr": 76.4,
+     "kast": 71.0,
+     "rating": 1.23
+    },
+    {
+     "player": 21167,
+     "nick": "donk",
+     "kills": 46,
+     "deaths": 46,
+     "swing": 0.33,
+     "adr": 83.7,
+     "kast": 64.5,
+     "rating": 1.01
+    },
+    {
+     "player": 18317,
+     "nick": "magixx",
+     "kills": 36,
+     "deaths": 44,
+     "swing": -1.25,
+     "adr": 66.3,
+     "kast": 67.7,
+     "rating": 0.98
+    },
+    {
+     "player": 16920,
+     "nick": "sh1ro",
+     "kills": 42,
+     "deaths": 39,
+     "swing": -1.41,
+     "adr": 71.7,
+     "kast": 71.0,
+     "rating": 0.96
+    },
+    {
+     "player": 19808,
+     "nick": "tN1R",
+     "kills": 37,
+     "deaths": 41,
+     "swing": -0.74,
+     "adr": 61.3,
+     "kast": 67.7,
+     "rating": 0.94
+    }
+   ],
+   "t": [
+    {
+     "player": 18072,
+     "nick": "torzsi",
+     "kills": 21,
+     "deaths": 20,
+     "swing": 1.13,
+     "adr": 75.8,
+     "kast": 84.4,
+     "rating": 1.24
+    },
+    {
+     "player": 18221,
+     "nick": "Spinx",
+     "kills": 22,
+     "deaths": 22,
+     "swing": 2.63,
+     "adr": 75.5,
+     "kast": 65.6,
+     "rating": 1.18
+    },
+    {
+     "player": 24457,
+     "nick": "xelex",
+     "kills": 19,
+     "deaths": 24,
+     "swing": 0.48,
+     "adr": 54.3,
+     "kast": 81.2,
+     "rating": 1.14
+    },
+    {
+     "player": 22279,
+     "nick": "PR",
+     "kills": 18,
+     "deaths": 25,
+     "swing": -0.26,
+     "adr": 66.9,
+     "kast": 62.5,
+     "rating": 0.9
+    },
+    {
+     "player": 20312,
+     "nick": "xertioN",
+     "kills": 16,
+     "deaths": 29,
+     "swing": -2.18,
+     "adr": 57.4,
+     "kast": 59.4,
+     "rating": 0.76
+    },
+    {
+     "player": 20423,
+     "nick": "zont1x",
+     "kills": 20,
+     "deaths": 22,
+     "swing": 6.3,
+     "adr": 72.2,
+     "kast": 63.3,
+     "rating": 1.43
+    },
+    {
+     "player": 18317,
+     "nick": "magixx",
+     "kills": 18,
+     "deaths": 25,
+     "swing": -0.91,
+     "adr": 68.5,
+     "kast": 53.3,
+     "rating": 0.99
+    },
+    {
+     "player": 16920,
+     "nick": "sh1ro",
+     "kills": 18,
+     "deaths": 21,
+     "swing": -0.89,
+     "adr": 61.1,
+     "kast": 56.7,
+     "rating": 0.93
+    },
+    {
+     "player": 21167,
+     "nick": "donk",
+     "kills": 16,
+     "deaths": 24,
+     "swing": -0.01,
+     "adr": 61.8,
+     "kast": 50.0,
+     "rating": 0.9
+    },
+    {
+     "player": 19808,
+     "nick": "tN1R",
+     "kills": 13,
+     "deaths": 23,
+     "swing": -3.18,
+     "adr": 50.8,
+     "kast": 53.3,
+     "rating": 0.7
+    }
+   ],
+   "ct": [
+    {
+     "player": 20312,
+     "nick": "xertioN",
+     "kills": 22,
+     "deaths": 20,
+     "swing": 2.82,
+     "adr": 85.9,
+     "kast": 76.7,
+     "rating": 1.15
+    },
+    {
+     "player": 22279,
+     "nick": "PR",
+     "kills": 29,
+     "deaths": 16,
+     "swing": -1.7,
+     "adr": 79.9,
+     "kast": 73.3,
+     "rating": 1.14
+    },
+    {
+     "player": 18221,
+     "nick": "Spinx",
+     "kills": 21,
+     "deaths": 15,
+     "swing": 2.49,
+     "adr": 78.5,
+     "kast": 70.0,
+     "rating": 1.12
+    },
+    {
+     "player": 18072,
+     "nick": "torzsi",
+     "kills": 26,
+     "deaths": 18,
+     "swing": -4.41,
+     "adr": 88.8,
+     "kast": 86.7,
+     "rating": 0.97
+    },
+    {
+     "player": 24457,
+     "nick": "xelex",
+     "kills": 17,
+     "deaths": 16,
+     "swing": -0.5,
+     "adr": 68.1,
+     "kast": 76.7,
+     "rating": 0.96
+    },
+    {
+     "player": 19808,
+     "nick": "tN1R",
+     "kills": 24,
+     "deaths": 18,
+     "swing": 1.54,
+     "adr": 71.1,
+     "kast": 81.2,
+     "rating": 1.15
+    },
+    {
+     "player": 21167,
+     "nick": "donk",
+     "kills": 30,
+     "deaths": 22,
+     "swing": 0.65,
+     "adr": 104.2,
+     "kast": 78.1,
+     "rating": 1.12
+    },
+    {
+     "player": 20423,
+     "nick": "zont1x",
+     "kills": 24,
+     "deaths": 19,
+     "swing": -0.52,
+     "adr": 80.4,
+     "kast": 78.1,
+     "rating": 1.04
+    },
+    {
+     "player": 16920,
+     "nick": "sh1ro",
+     "kills": 24,
+     "deaths": 18,
+     "swing": -1.89,
+     "adr": 81.5,
+     "kast": 84.4,
+     "rating": 0.98
+    },
+    {
+     "player": 18317,
+     "nick": "magixx",
+     "kills": 18,
+     "deaths": 19,
+     "swing": -1.57,
+     "adr": 64.2,
+     "kast": 81.2,
+     "rating": 0.96
+    }
+   ]
+  },
+  "de_dust2": {
+   "both": [
+    {
+     "player": 18072,
+     "nick": "torzsi",
+     "kills": 25,
+     "deaths": 11,
+     "swing": 1.29,
+     "adr": 112.2,
+     "kast": 90.0,
+     "rating": 1.71
+    },
+    {
+     "player": 18221,
+     "nick": "Spinx",
+     "kills": 17,
+     "deaths": 11,
+     "swing": 8.24,
+     "adr": 85.0,
+     "kast": 80.0,
+     "rating": 1.63
+    },
+    {
+     "player": 24457,
+     "nick": "xelex",
+     "kills": 13,
+     "deaths": 13,
+     "swing": 6.59,
+     "adr": 86.3,
+     "kast": 90.0,
+     "rating": 1.56
+    },
+    {
+     "player": 22279,
+     "nick": "PR",
+     "kills": 12,
+     "deaths": 13,
+     "swing": -0.23,
+     "adr": 56.6,
+     "kast": 75.0,
+     "rating": 0.96
+    },
+    {
+     "player": 20312,
+     "nick": "xertioN",
+     "kills": 10,
+     "deaths": 14,
+     "swing": -1.95,
+     "adr": 56.2,
+     "kast": 60.0,
+     "rating": 0.75
+    },
+    {
+     "player": 20423,
+     "nick": "zont1x",
+     "kills": 11,
+     "deaths": 13,
+     "swing": 2.38,
+     "adr": 51.9,
+     "kast": 70.0,
+     "rating": 1.1
+    },
+    {
+     "player": 18317,
+     "nick": "magixx",
+     "kills": 11,
+     "deaths": 17,
+     "swing": -2.89,
+     "adr": 72.0,
+     "kast": 55.0,
+     "rating": 0.86
+    },
+    {
+     "player": 21167,
+     "nick": "donk",
+     "kills": 14,
+     "deaths": 17,
+     "swing": -3.23,
+     "adr": 68.2,
+     "kast": 65.0,
+     "rating": 0.81
+    },
+    {
+     "player": 16920,
+     "nick": "sh1ro",
+     "kills": 14,
+     "deaths": 13,
+     "swing": -5.63,
+     "adr": 77.6,
+     "kast": 60.0,
+     "rating": 0.81
+    },
+    {
+     "player": 19808,
+     "nick": "tN1R",
+     "kills": 12,
+     "deaths": 17,
+     "swing": -4.57,
+     "adr": 66.1,
+     "kast": 60.0,
+     "rating": 0.78
+    }
+   ],
+   "t": [
+    {
+     "player": 18072,
+     "nick": "torzsi",
+     "kills": 10,
+     "deaths": 4,
+     "swing": 12.16,
+     "adr": 120.1,
+     "kast": 87.5,
+     "rating": 2.41
+    },
+    {
+     "player": 18221,
+     "nick": "Spinx",
+     "kills": 6,
+     "deaths": 6,
+     "swing": 5.63,
+     "adr": 83.4,
+     "kast": 87.5,
+     "rating": 1.47
+    },
+    {
+     "player": 22279,
+     "nick": "PR",
+     "kills": 4,
+     "deaths": 7,
+     "swing": 6.31,
+     "adr": 59.4,
+     "kast": 75.0,
+     "rating": 1.1
+    },
+    {
+     "player": 24457,
+     "nick": "xelex",
+     "kills": 3,
+     "deaths": 7,
+     "swing": 0.71,
+     "adr": 46.5,
+     "kast": 75.0,
+     "rating": 0.9
+    },
+    {
+     "player": 20312,
+     "nick": "xertioN",
+     "kills": 2,
+     "deaths": 7,
+     "swing": -7.38,
+     "adr": 31.6,
+     "kast": 37.5,
+     "rating": 0.3
+    },
+    {
+     "player": 20423,
+     "nick": "zont1x",
+     "kills": 9,
+     "deaths": 9,
+     "swing": 8.47,
+     "adr": 70.8,
+     "kast": 66.7,
+     "rating": 1.49
+    },
+    {
+     "player": 18317,
+     "nick": "magixx",
+     "kills": 7,
+     "deaths": 11,
+     "swing": -2.28,
+     "adr": 68.3,
+     "kast": 50.0,
+     "rating": 0.92
+    },
+    {
+     "player": 16920,
+     "nick": "sh1ro",
+     "kills": 8,
+     "deaths": 9,
+     "swing": -4.58,
+     "adr": 73.8,
+     "kast": 50.0,
+     "rating": 0.79
+    },
+    {
+     "player": 21167,
+     "nick": "donk",
+     "kills": 4,
+     "deaths": 11,
+     "swing": -7.33,
+     "adr": 38.9,
+     "kast": 41.7,
+     "rating": 0.38
+    },
+    {
+     "player": 19808,
+     "nick": "tN1R",
+     "kills": 3,
+     "deaths": 12,
+     "swing": -5.87,
+     "adr": 40.0,
+     "kast": 41.7,
+     "rating": 0.36
+    }
+   ],
+   "ct": [
+    {
+     "player": 24457,
+     "nick": "xelex",
+     "kills": 10,
+     "deaths": 6,
+     "swing": 10.51,
+     "adr": 112.9,
+     "kast": 100.0,
+     "rating": 1.99
+    },
+    {
+     "player": 18221,
+     "nick": "Spinx",
+     "kills": 11,
+     "deaths": 5,
+     "swing": 9.98,
+     "adr": 86.0,
+     "kast": 75.0,
+     "rating": 1.74
+    },
+    {
+     "player": 18072,
+     "nick": "torzsi",
+     "kills": 15,
+     "deaths": 7,
+     "swing": -5.96,
+     "adr": 106.9,
+     "kast": 91.7,
+     "rating": 1.25
+    },
+    {
+     "player": 20312,
+     "nick": "xertioN",
+     "kills": 8,
+     "deaths": 7,
+     "swing": 1.66,
+     "adr": 72.7,
+     "kast": 75.0,
+     "rating": 1.04
+    },
+    {
+     "player": 22279,
+     "nick": "PR",
+     "kills": 8,
+     "deaths": 6,
+     "swing": -4.59,
+     "adr": 54.8,
+     "kast": 75.0,
+     "rating": 0.87
+    },
+    {
+     "player": 21167,
+     "nick": "donk",
+     "kills": 10,
+     "deaths": 6,
+     "swing": 2.92,
+     "adr": 112.2,
+     "kast": 100.0,
+     "rating": 1.45
+    },
+    {
+     "player": 19808,
+     "nick": "tN1R",
+     "kills": 9,
+     "deaths": 5,
+     "swing": -2.62,
+     "adr": 105.2,
+     "kast": 87.5,
+     "rating": 1.4
+    },
+    {
+     "player": 16920,
+     "nick": "sh1ro",
+     "kills": 6,
+     "deaths": 4,
+     "swing": -7.2,
+     "adr": 83.4,
+     "kast": 75.0,
+     "rating": 0.83
+    },
+    {
+     "player": 18317,
+     "nick": "magixx",
+     "kills": 4,
+     "deaths": 6,
+     "swing": -3.79,
+     "adr": 77.4,
+     "kast": 62.5,
+     "rating": 0.76
+    },
+    {
+     "player": 20423,
+     "nick": "zont1x",
+     "kills": 2,
+     "deaths": 4,
+     "swing": -6.75,
+     "adr": 23.4,
+     "kast": 75.0,
+     "rating": 0.51
+    }
+   ]
+  },
+  "de_mirage": {
+   "both": [
+    {
+     "player": 18072,
+     "nick": "torzsi",
+     "kills": 11,
+     "deaths": 14,
+     "swing": -1.47,
+     "adr": 82.9,
+     "kast": 83.3,
+     "rating": 1.03
+    },
+    {
+     "player": 18221,
+     "nick": "Spinx",
+     "kills": 11,
+     "deaths": 13,
+     "swing": 1.15,
+     "adr": 74.4,
+     "kast": 55.6,
+     "rating": 0.99
+    },
+    {
+     "player": 24457,
+     "nick": "xelex",
+     "kills": 10,
+     "deaths": 14,
+     "swing": -5.37,
+     "adr": 54.0,
+     "kast": 66.7,
+     "rating": 0.91
+    },
+    {
+     "player": 20312,
+     "nick": "xertioN",
+     "kills": 10,
+     "deaths": 15,
+     "swing": -3.79,
+     "adr": 61.0,
+     "kast": 72.2,
+     "rating": 0.79
+    },
+    {
+     "player": 22279,
+     "nick": "PR",
+     "kills": 8,
+     "deaths": 15,
+     "swing": -5.47,
+     "adr": 46.4,
+     "kast": 55.6,
+     "rating": 0.58
+    },
+    {
+     "player": 21167,
+     "nick": "donk",
+     "kills": 19,
+     "deaths": 10,
+     "swing": 8.38,
+     "adr": 120.9,
+     "kast": 72.2,
+     "rating": 1.73
+    },
+    {
+     "player": 20423,
+     "nick": "zont1x",
+     "kills": 15,
+     "deaths": 11,
+     "swing": 4.77,
+     "adr": 105.2,
+     "kast": 88.9,
+     "rating": 1.55
+    },
+    {
+     "player": 19808,
+     "nick": "tN1R",
+     "kills": 14,
+     "deaths": 10,
+     "swing": 2.73,
+     "adr": 68.3,
+     "kast": 83.3,
+     "rating": 1.29
+    },
+    {
+     "player": 16920,
+     "nick": "sh1ro",
+     "kills": 12,
+     "deaths": 9,
+     "swing": 0.77,
+     "adr": 72.5,
+     "kast": 88.9,
+     "rating": 1.12
+    },
+    {
+     "player": 18317,
+     "nick": "magixx",
+     "kills": 11,
+     "deaths": 10,
+     "swing": -1.69,
+     "adr": 53.7,
+     "kast": 77.8,
+     "rating": 1.02
+    }
+   ],
+   "t": [
+    {
+     "player": 24457,
+     "nick": "xelex",
+     "kills": 9,
+     "deaths": 10,
+     "swing": 0.56,
+     "adr": 70.3,
+     "kast": 75.0,
+     "rating": 1.3
+    },
+    {
+     "player": 18072,
+     "nick": "torzsi",
+     "kills": 7,
+     "deaths": 10,
+     "swing": -0.73,
+     "adr": 75.2,
+     "kast": 83.3,
+     "rating": 1.07
+    },
+    {
+     "player": 18221,
+     "nick": "Spinx",
+     "kills": 6,
+     "deaths": 9,
+     "swing": -0.02,
+     "adr": 62.1,
+     "kast": 50.0,
+     "rating": 0.86
+    },
+    {
+     "player": 20312,
+     "nick": "xertioN",
+     "kills": 6,
+     "deaths": 10,
+     "swing": -3.62,
+     "adr": 50.8,
+     "kast": 66.7,
+     "rating": 0.79
+    },
+    {
+     "player": 22279,
+     "nick": "PR",
+     "kills": 4,
+     "deaths": 10,
+     "swing": -3.54,
+     "adr": 51.2,
+     "kast": 58.3,
+     "rating": 0.62
+    },
+    {
+     "player": 21167,
+     "nick": "donk",
+     "kills": 7,
+     "deaths": 3,
+     "swing": 21.95,
+     "adr": 141.3,
+     "kast": 66.7,
+     "rating": 2.93
+    },
+    {
+     "player": 19808,
+     "nick": "tN1R",
+     "kills": 5,
+     "deaths": 3,
+     "swing": 2.41,
+     "adr": 55.2,
+     "kast": 83.3,
+     "rating": 1.39
+    },
+    {
+     "player": 18317,
+     "nick": "magixx",
+     "kills": 4,
+     "deaths": 4,
+     "swing": 5.84,
+     "adr": 74.7,
+     "kast": 50.0,
+     "rating": 1.35
+    },
+    {
+     "player": 16920,
+     "nick": "sh1ro",
+     "kills": 4,
+     "deaths": 3,
+     "swing": -0.29,
+     "adr": 54.8,
+     "kast": 83.3,
+     "rating": 1.13
+    },
+    {
+     "player": 20423,
+     "nick": "zont1x",
+     "kills": 2,
+     "deaths": 5,
+     "swing": 0.26,
+     "adr": 67.8,
+     "kast": 83.3,
+     "rating": 1.0
+    }
+   ],
+   "ct": [
+    {
+     "player": 18221,
+     "nick": "Spinx",
+     "kills": 5,
+     "deaths": 4,
+     "swing": 3.48,
+     "adr": 99.2,
+     "kast": 66.7,
+     "rating": 1.24
+    },
+    {
+     "player": 18072,
+     "nick": "torzsi",
+     "kills": 4,
+     "deaths": 4,
+     "swing": -2.95,
+     "adr": 98.3,
+     "kast": 83.3,
+     "rating": 0.95
+    },
+    {
+     "player": 20312,
+     "nick": "xertioN",
+     "kills": 4,
+     "deaths": 5,
+     "swing": -4.14,
+     "adr": 81.3,
+     "kast": 83.3,
+     "rating": 0.8
+    },
+    {
+     "player": 22279,
+     "nick": "PR",
+     "kills": 4,
+     "deaths": 5,
+     "swing": -9.34,
+     "adr": 36.8,
+     "kast": 50.0,
+     "rating": 0.51
+    },
+    {
+     "player": 24457,
+     "nick": "xelex",
+     "kills": 1,
+     "deaths": 4,
+     "swing": -17.22,
+     "adr": 21.3,
+     "kast": 50.0,
+     "rating": 0.14
+    },
+    {
+     "player": 20423,
+     "nick": "zont1x",
+     "kills": 13,
+     "deaths": 6,
+     "swing": 7.02,
+     "adr": 123.9,
+     "kast": 91.7,
+     "rating": 1.82
+    },
+    {
+     "player": 19808,
+     "nick": "tN1R",
+     "kills": 9,
+     "deaths": 7,
+     "swing": 2.89,
+     "adr": 74.9,
+     "kast": 83.3,
+     "rating": 1.24
+    },
+    {
+     "player": 21167,
+     "nick": "donk",
+     "kills": 12,
+     "deaths": 7,
+     "swing": 1.59,
+     "adr": 110.7,
+     "kast": 75.0,
+     "rating": 1.12
+    },
+    {
+     "player": 16920,
+     "nick": "sh1ro",
+     "kills": 8,
+     "deaths": 6,
+     "swing": 1.3,
+     "adr": 81.3,
+     "kast": 91.7,
+     "rating": 1.12
+    },
+    {
+     "player": 18317,
+     "nick": "magixx",
+     "kills": 7,
+     "deaths": 6,
+     "swing": -5.46,
+     "adr": 43.2,
+     "kast": 91.7,
+     "rating": 0.86
+    }
+   ]
+  },
+  "de_nuke": {
+   "both": [
+    {
+     "player": 22279,
+     "nick": "PR",
+     "kills": 27,
+     "deaths": 13,
+     "swing": 1.83,
+     "adr": 107.0,
+     "kast": 70.8,
+     "rating": 1.49
+    },
+    {
+     "player": 20312,
+     "nick": "xertioN",
+     "kills": 18,
+     "deaths": 20,
+     "swing": 5.08,
+     "adr": 91.4,
+     "kast": 70.8,
+     "rating": 1.3
+    },
+    {
+     "player": 18221,
+     "nick": "Spinx",
+     "kills": 15,
+     "deaths": 13,
+     "swing": -1.11,
+     "adr": 72.1,
+     "kast": 66.7,
+     "rating": 0.97
+    },
+    {
+     "player": 24457,
+     "nick": "xelex",
+     "kills": 13,
+     "deaths": 13,
+     "swing": -1.46,
+     "adr": 45.1,
+     "kast": 79.2,
+     "rating": 0.94
+    },
+    {
+     "player": 18072,
+     "nick": "torzsi",
+     "kills": 11,
+     "deaths": 13,
+     "swing": -3.98,
+     "adr": 56.4,
+     "kast": 83.3,
+     "rating": 0.77
+    },
+    {
+     "player": 20423,
+     "nick": "zont1x",
+     "kills": 18,
+     "deaths": 17,
+     "swing": 1.62,
+     "adr": 75.3,
+     "kast": 58.3,
+     "rating": 1.2
+    },
+    {
+     "player": 18317,
+     "nick": "magixx",
+     "kills": 14,
+     "deaths": 17,
+     "swing": 0.44,
+     "adr": 71.0,
+     "kast": 70.8,
+     "rating": 1.09
+    },
+    {
+     "player": 16920,
+     "nick": "sh1ro",
+     "kills": 16,
+     "deaths": 17,
+     "swing": 0.48,
+     "adr": 66.1,
+     "kast": 66.7,
+     "rating": 0.98
+    },
+    {
+     "player": 19808,
+     "nick": "tN1R",
+     "kills": 11,
+     "deaths": 14,
+     "swing": -0.16,
+     "adr": 52.0,
+     "kast": 62.5,
+     "rating": 0.87
+    },
+    {
+     "player": 21167,
+     "nick": "donk",
+     "kills": 13,
+     "deaths": 19,
+     "swing": -2.75,
+     "adr": 68.7,
+     "kast": 58.3,
+     "rating": 0.79
+    }
+   ],
+   "t": [
+    {
+     "player": 18221,
+     "nick": "Spinx",
+     "kills": 10,
+     "deaths": 7,
+     "swing": 3.27,
+     "adr": 83.6,
+     "kast": 66.7,
+     "rating": 1.35
+    },
+    {
+     "player": 24457,
+     "nick": "xelex",
+     "kills": 7,
+     "deaths": 7,
+     "swing": 0.24,
+     "adr": 43.5,
+     "kast": 91.7,
+     "rating": 1.12
+    },
+    {
+     "player": 20312,
+     "nick": "xertioN",
+     "kills": 8,
+     "deaths": 12,
+     "swing": 2.71,
+     "adr": 81.2,
+     "kast": 66.7,
+     "rating": 1.12
+    },
+    {
+     "player": 22279,
+     "nick": "PR",
+     "kills": 10,
+     "deaths": 8,
+     "swing": -1.35,
+     "adr": 87.5,
+     "kast": 58.3,
+     "rating": 1.1
+    },
+    {
+     "player": 18072,
+     "nick": "torzsi",
+     "kills": 4,
+     "deaths": 6,
+     "swing": -4.37,
+     "adr": 46.8,
+     "kast": 83.3,
+     "rating": 0.78
+    },
+    {
+     "player": 20423,
+     "nick": "zont1x",
+     "kills": 9,
+     "deaths": 8,
+     "swing": 7.14,
+     "adr": 75.8,
+     "kast": 50.0,
+     "rating": 1.59
+    },
+    {
+     "player": 16920,
+     "nick": "sh1ro",
+     "kills": 6,
+     "deaths": 9,
+     "swing": 2.51,
+     "adr": 51.7,
+     "kast": 50.0,
+     "rating": 1.01
+    },
+    {
+     "player": 18317,
+     "nick": "magixx",
+     "kills": 7,
+     "deaths": 10,
+     "swing": -2.92,
+     "adr": 65.7,
+     "kast": 58.3,
+     "rating": 0.9
+    },
+    {
+     "player": 19808,
+     "nick": "tN1R",
+     "kills": 5,
+     "deaths": 8,
+     "swing": -3.27,
+     "adr": 59.5,
+     "kast": 50.0,
+     "rating": 0.77
+    },
+    {
+     "player": 21167,
+     "nick": "donk",
+     "kills": 5,
+     "deaths": 10,
+     "swing": -3.68,
+     "adr": 45.0,
+     "kast": 50.0,
+     "rating": 0.68
+    }
+   ],
+   "ct": [
+    {
+     "player": 22279,
+     "nick": "PR",
+     "kills": 17,
+     "deaths": 5,
+     "swing": 5.0,
+     "adr": 126.5,
+     "kast": 83.3,
+     "rating": 1.89
+    },
+    {
+     "player": 20312,
+     "nick": "xertioN",
+     "kills": 10,
+     "deaths": 8,
+     "swing": 7.45,
+     "adr": 101.5,
+     "kast": 75.0,
+     "rating": 1.48
+    },
+    {
+     "player": 24457,
+     "nick": "xelex",
+     "kills": 6,
+     "deaths": 6,
+     "swing": -3.15,
+     "adr": 46.8,
+     "kast": 66.7,
+     "rating": 0.76
+    },
+    {
+     "player": 18072,
+     "nick": "torzsi",
+     "kills": 7,
+     "deaths": 7,
+     "swing": -3.59,
+     "adr": 66.0,
+     "kast": 83.3,
+     "rating": 0.75
+    },
+    {
+     "player": 18221,
+     "nick": "Spinx",
+     "kills": 5,
+     "deaths": 6,
+     "swing": -5.49,
+     "adr": 60.6,
+     "kast": 66.7,
+     "rating": 0.59
+    },
+    {
+     "player": 18317,
+     "nick": "magixx",
+     "kills": 7,
+     "deaths": 7,
+     "swing": 3.81,
+     "adr": 76.2,
+     "kast": 83.3,
+     "rating": 1.28
+    },
+    {
+     "player": 19808,
+     "nick": "tN1R",
+     "kills": 6,
+     "deaths": 6,
+     "swing": 2.96,
+     "adr": 44.5,
+     "kast": 75.0,
+     "rating": 0.98
+    },
+    {
+     "player": 16920,
+     "nick": "sh1ro",
+     "kills": 10,
+     "deaths": 8,
+     "swing": -1.55,
+     "adr": 80.5,
+     "kast": 83.3,
+     "rating": 0.95
+    },
+    {
+     "player": 21167,
+     "nick": "donk",
+     "kills": 8,
+     "deaths": 9,
+     "swing": -1.81,
+     "adr": 92.4,
+     "kast": 66.7,
+     "rating": 0.9
+    },
+    {
+     "player": 20423,
+     "nick": "zont1x",
+     "kills": 9,
+     "deaths": 9,
+     "swing": -3.9,
+     "adr": 74.8,
+     "kast": 66.7,
+     "rating": 0.82
+    }
+   ]
   }
  },
- "mvp": null,
- "highlight": null,
+ "mvp": {
+  "player": 20423,
+  "nick": "zont1x",
+  "maps": 3,
+  "kpr": 0.71,
+  "dpr": 0.66,
+  "kast": 71.0,
+  "mkRating": 1.19,
+  "swing": 2.78,
+  "adr": 76.4,
+  "rating": 1.23
+ },
  "h2h": {
   "team1Wins": 14,
-  "team2Wins": 22,
   "overtimes": 7,
+  "team2Wins": 22,
   "maps": [
    {
-    "date": "2026-10-06",
+    "date": "2026-10-05",
     "matchId": 2398737,
-    "eventId": null,
+    "eventId": 8244,
     "event": "ESL Pro League Season 24",
     "map": "de_mirage",
     "score": [
@@ -43,9 +1347,9 @@
     "winner": 4494
    },
    {
-    "date": "2026-10-06",
+    "date": "2026-10-05",
     "matchId": 2398737,
-    "eventId": null,
+    "eventId": 8244,
     "event": "ESL Pro League Season 24",
     "map": "de_dust2",
     "score": [
@@ -55,9 +1359,9 @@
     "winner": 4494
    },
    {
-    "date": "2026-09-07",
+    "date": "2026-09-06",
     "matchId": 2396951,
-    "eventId": null,
+    "eventId": 8249,
     "event": "BLAST Open Porto 2026",
     "map": "de_nuke",
     "score": [
@@ -67,9 +1371,9 @@
     "winner": 7020
    },
    {
-    "date": "2026-09-07",
+    "date": "2026-09-06",
     "matchId": 2396951,
-    "eventId": null,
+    "eventId": 8249,
     "event": "BLAST Open Porto 2026",
     "map": "de_ancient",
     "score": [
@@ -79,9 +1383,9 @@
     "winner": 7020
    },
    {
-    "date": "2026-09-07",
+    "date": "2026-09-06",
     "matchId": 2396951,
-    "eventId": null,
+    "eventId": 8249,
     "event": "BLAST Open Porto 2026",
     "map": "de_mirage",
     "score": [
@@ -91,9 +1395,9 @@
     "winner": 4494
    },
    {
-    "date": "2026-09-07",
+    "date": "2026-09-06",
     "matchId": 2396951,
-    "eventId": null,
+    "eventId": 8249,
     "event": "BLAST Open Porto 2026",
     "map": "de_dust2",
     "score": [
@@ -105,7 +1409,7 @@
    {
     "date": "2026-08-02",
     "matchId": 2396021,
-    "eventId": null,
+    "eventId": 8247,
     "event": "BLAST Bounty 2026 Season 2 Finals",
     "map": "de_nuke",
     "score": [
@@ -117,7 +1421,7 @@
    {
     "date": "2026-08-02",
     "matchId": 2396021,
-    "eventId": null,
+    "eventId": 8247,
     "event": "BLAST Bounty 2026 Season 2 Finals",
     "map": "de_ancient",
     "score": [
@@ -129,7 +1433,7 @@
    {
     "date": "2026-08-02",
     "matchId": 2396021,
-    "eventId": null,
+    "eventId": 8247,
     "event": "BLAST Bounty 2026 Season 2 Finals",
     "map": "de_mirage",
     "score": [
@@ -141,7 +1445,7 @@
    {
     "date": "2026-08-02",
     "matchId": 2396021,
-    "eventId": null,
+    "eventId": 8247,
     "event": "BLAST Bounty 2026 Season 2 Finals",
     "map": "de_dust2",
     "score": [
@@ -153,7 +1457,7 @@
    {
     "date": "2026-05-16",
     "matchId": 2394153,
-    "eventId": null,
+    "eventId": 8049,
     "event": "PGL Astana 2026",
     "map": "de_nuke",
     "score": [
@@ -165,7 +1469,7 @@
    {
     "date": "2026-05-16",
     "matchId": 2394153,
-    "eventId": null,
+    "eventId": 8049,
     "event": "PGL Astana 2026",
     "map": "de_dust2",
     "score": [
@@ -175,9 +1479,9 @@
     "winner": 7020
    },
    {
-    "date": "2026-04-18",
+    "date": "2026-04-17",
     "matchId": 2393240,
-    "eventId": null,
+    "eventId": 8242,
     "event": "IEM Rio 2026",
     "map": "de_mirage",
     "score": [
@@ -187,9 +1491,9 @@
     "winner": 7020
    },
    {
-    "date": "2026-04-18",
+    "date": "2026-04-17",
     "matchId": 2393240,
-    "eventId": null,
+    "eventId": 8242,
     "event": "IEM Rio 2026",
     "map": "de_dust2",
     "score": [
@@ -201,7 +1505,7 @@
    {
     "date": "2026-02-08",
     "matchId": 2389665,
-    "eventId": null,
+    "eventId": 8240,
     "event": "IEM Kraków 2026",
     "map": "de_mirage",
     "score": [
@@ -213,7 +1517,7 @@
    {
     "date": "2026-02-08",
     "matchId": 2389665,
-    "eventId": null,
+    "eventId": 8240,
     "event": "IEM Kraków 2026",
     "map": "de_dust2",
     "score": [
@@ -223,9 +1527,9 @@
     "winner": 7020
    },
    {
-    "date": "2025-12-06",
+    "date": "2025-12-05",
     "matchId": 2388111,
-    "eventId": null,
+    "eventId": 8042,
     "event": "StarLadder Budapest Major 2025",
     "map": "de_overpass",
     "score": [
@@ -235,9 +1539,9 @@
     "winner": 7020
    },
    {
-    "date": "2025-12-06",
+    "date": "2025-12-05",
     "matchId": 2388111,
-    "eventId": null,
+    "eventId": 8042,
     "event": "StarLadder Budapest Major 2025",
     "map": "de_train",
     "score": [
@@ -247,9 +1551,9 @@
     "winner": 4494
    },
    {
-    "date": "2025-12-06",
+    "date": "2025-12-05",
     "matchId": 2388111,
-    "eventId": null,
+    "eventId": 8042,
     "event": "StarLadder Budapest Major 2025",
     "map": "de_mirage",
     "score": [
@@ -259,9 +1563,9 @@
     "winner": 7020
    },
    {
-    "date": "2025-08-17",
+    "date": "2025-08-16",
     "matchId": 2384154,
-    "eventId": null,
+    "eventId": 7910,
     "event": "BLAST Bounty 2025 Season 2 Finals",
     "map": "de_mirage",
     "score": [
@@ -269,7 +1573,200 @@
      13
     ],
     "winner": 7020
+   },
+   {
+    "date": "2025-08-16",
+    "matchId": 2384154,
+    "eventId": 7910,
+    "event": "BLAST Bounty 2025 Season 2 Finals",
+    "map": "de_ancient",
+    "score": [
+     14,
+     16
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2025-08-03",
+    "matchId": 2383844,
+    "eventId": 8038,
+    "event": "IEM Cologne 2025",
+    "map": "de_nuke",
+    "score": [
+     6,
+     13
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2025-08-03",
+    "matchId": 2383844,
+    "eventId": 8038,
+    "event": "IEM Cologne 2025",
+    "map": "de_ancient",
+    "score": [
+     11,
+     13
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2025-08-03",
+    "matchId": 2383844,
+    "eventId": 8038,
+    "event": "IEM Cologne 2025",
+    "map": "de_mirage",
+    "score": [
+     7,
+     13
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2025-07-29",
+    "matchId": 2383838,
+    "eventId": 8038,
+    "event": "IEM Cologne 2025",
+    "map": "de_overpass",
+    "score": [
+     6,
+     13
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2025-07-29",
+    "matchId": 2383838,
+    "eventId": 8038,
+    "event": "IEM Cologne 2025",
+    "map": "de_mirage",
+    "score": [
+     22,
+     19
+    ],
+    "winner": 4494
+   },
+   {
+    "date": "2025-07-29",
+    "matchId": 2383838,
+    "eventId": 8038,
+    "event": "IEM Cologne 2025",
+    "map": "de_ancient",
+    "score": [
+     13,
+     16
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2025-06-19",
+    "matchId": 2382614,
+    "eventId": 7902,
+    "event": "BLAST.tv Austin Major 2025",
+    "map": "de_nuke",
+    "score": [
+     13,
+     10
+    ],
+    "winner": 4494
+   },
+   {
+    "date": "2025-06-19",
+    "matchId": 2382614,
+    "eventId": 7902,
+    "event": "BLAST.tv Austin Major 2025",
+    "map": "de_dust2",
+    "score": [
+     13,
+     9
+    ],
+    "winner": 4494
+   },
+   {
+    "date": "2025-06-19",
+    "matchId": 2382614,
+    "eventId": 7902,
+    "event": "BLAST.tv Austin Major 2025",
+    "map": "de_mirage",
+    "score": [
+     21,
+     25
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2025-03-21",
+    "matchId": 2380114,
+    "eventId": 7904,
+    "event": "BLAST Open Lisbon 2025",
+    "map": "de_ancient",
+    "score": [
+     25,
+     22
+    ],
+    "winner": 4494
+   },
+   {
+    "date": "2025-03-21",
+    "matchId": 2380114,
+    "eventId": 7904,
+    "event": "BLAST Open Lisbon 2025",
+    "map": "de_nuke",
+    "score": [
+     16,
+     13
+    ],
+    "winner": 4494
+   },
+   {
+    "date": "2025-03-21",
+    "matchId": 2380114,
+    "eventId": 7904,
+    "event": "BLAST Open Lisbon 2025",
+    "map": "de_dust2",
+    "score": [
+     3,
+     13
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2025-03-15",
+    "matchId": 2380077,
+    "eventId": 8292,
+    "event": "ESL Pro League Season 21",
+    "map": "de_ancient",
+    "score": [
+     13,
+     10
+    ],
+    "winner": 4494
+   },
+   {
+    "date": "2025-03-15",
+    "matchId": 2380077,
+    "eventId": 8292,
+    "event": "ESL Pro League Season 21",
+    "map": "de_dust2",
+    "score": [
+     7,
+     13
+    ],
+    "winner": 7020
+   },
+   {
+    "date": "2025-03-15",
+    "matchId": 2380077,
+    "eventId": 8292,
+    "event": "ESL Pro League Season 21",
+    "map": "de_nuke",
+    "score": [
+     16,
+     14
+    ],
+    "winner": 4494
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/112648"
 }

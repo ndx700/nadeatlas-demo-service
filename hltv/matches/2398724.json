@@ -1,30 +1,30 @@
 {
  "id": 2398724,
  "eventId": 8244,
- "stage": null,
- "time": "2026-10-04T01:25:00+08:00",
+ "stage": "Swiss Round 1",
+ "time": "2026-10-03T17:25:00Z",
  "bo": 3,
  "status": "finished",
  "team1": {
   "id": 8297,
   "score": 2,
   "players": [
-   13915,
    24144,
    12553,
+   2023,
    15631,
-   2023
+   13915
   ]
  },
  "team2": {
   "id": 12394,
   "score": 0,
   "players": [
-   20357,
+   21667,
    11840,
+   20357,
    15662,
-   18506,
-   21667
+   18506
   ]
  },
  "maps": [
@@ -61,21 +61,13 @@
     [
      8,
      4
-    ],
-    [
-     4,
-     2
     ]
    ]
   },
   {
    "map": "de_nuke",
    "pick": null,
-   "score": [
-    null,
-    null
-   ],
-   "halves": null
+   "score": null
   }
  ],
  "stats": {
@@ -1004,17 +996,27 @@
    ]
   }
  },
- "mvp": 13915,
- "highlight": null,
+ "mvp": {
+  "player": 13915,
+  "nick": "YEKINDAR",
+  "maps": 2,
+  "kpr": 1.04,
+  "dpr": 0.62,
+  "kast": 81.2,
+  "mkRating": 1.51,
+  "swing": 4.53,
+  "adr": 110.2,
+  "rating": 1.66
+ },
  "h2h": {
   "team1Wins": 4,
-  "team2Wins": 2,
   "overtimes": 0,
+  "team2Wins": 2,
   "maps": [
    {
-    "date": "2026-06-14",
+    "date": "2026-06-13",
     "matchId": 2394985,
-    "eventId": null,
+    "eventId": 8301,
     "event": "IEM Cologne Major 2026",
     "map": "de_dust2",
     "score": [
@@ -1024,9 +1026,9 @@
     "winner": 8297
    },
    {
-    "date": "2026-06-14",
+    "date": "2026-06-13",
     "matchId": 2394985,
-    "eventId": null,
+    "eventId": 8301,
     "event": "IEM Cologne Major 2026",
     "map": "de_overpass",
     "score": [
@@ -1036,9 +1038,9 @@
     "winner": 8297
    },
    {
-    "date": "2025-01-20",
+    "date": "2025-01-19",
     "matchId": 2378223,
-    "eventId": null,
+    "eventId": 7903,
     "event": "BLAST Bounty 2025 Season 1",
     "map": "de_anubis",
     "score": [
@@ -1048,9 +1050,9 @@
     "winner": 12394
    },
    {
-    "date": "2025-01-20",
+    "date": "2025-01-19",
     "matchId": 2378223,
-    "eventId": null,
+    "eventId": 7903,
     "event": "BLAST Bounty 2025 Season 1",
     "map": "de_mirage",
     "score": [
@@ -1060,9 +1062,9 @@
     "winner": 12394
    },
    {
-    "date": "2025-01-20",
+    "date": "2025-01-19",
     "matchId": 2378223,
-    "eventId": null,
+    "eventId": 7903,
     "event": "BLAST Bounty 2025 Season 1",
     "map": "de_dust2",
     "score": [
@@ -1072,9 +1074,9 @@
     "winner": 8297
    },
    {
-    "date": "2024-06-06",
+    "date": "2024-06-05",
     "matchId": 2372708,
-    "eventId": null,
+    "eventId": 7475,
     "event": "YaLLa Compass 2024",
     "map": "de_nuke",
     "score": [
@@ -1084,5 +1086,6 @@
     "winner": 8297
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/112374"
 }

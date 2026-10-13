@@ -10,21 +10,21 @@
   "score": 2,
   "players": [
    18462,
+   7322,
    11816,
-   16693,
    11893,
-   7322
+   16693
   ]
  },
  "team2": {
   "id": 11283,
   "score": 1,
   "players": [
+   429,
+   3741,
    19230,
    12018,
-   3741,
-   24177,
-   429
+   24177
   ]
  },
  "maps": [
@@ -189,108 +189,6 @@
    ],
    "t": [
     {
-     "player": 18462,
-     "nick": "mezii",
-     "kills": 24,
-     "deaths": 16,
-     "swing": 5.21,
-     "adr": 95.9,
-     "kast": 75.9,
-     "rating": 1.5
-    },
-    {
-     "player": 16693,
-     "nick": "flameZ",
-     "kills": 23,
-     "deaths": 15,
-     "swing": 1.67,
-     "adr": 76.2,
-     "kast": 86.2,
-     "rating": 1.28
-    },
-    {
-     "player": 11893,
-     "nick": "ZywOo",
-     "kills": 23,
-     "deaths": 14,
-     "swing": 1.27,
-     "adr": 83.2,
-     "kast": 75.9,
-     "rating": 1.15
-    },
-    {
-     "player": 11816,
-     "nick": "ropz",
-     "kills": 23,
-     "deaths": 16,
-     "swing": 0.74,
-     "adr": 69.7,
-     "kast": 75.9,
-     "rating": 1.08
-    },
-    {
-     "player": 7322,
-     "nick": "apEX",
-     "kills": 17,
-     "deaths": 19,
-     "swing": -1.13,
-     "adr": 69.3,
-     "kast": 79.3,
-     "rating": 1.03
-    },
-    {
-     "player": 12018,
-     "nick": "TeSeS",
-     "kills": 28,
-     "deaths": 19,
-     "swing": 3.5,
-     "adr": 83.2,
-     "kast": 71.0,
-     "rating": 1.36
-    },
-    {
-     "player": 19230,
-     "nick": "m0NESY",
-     "kills": 25,
-     "deaths": 25,
-     "swing": 2.0,
-     "adr": 89.9,
-     "kast": 67.7,
-     "rating": 1.16
-    },
-    {
-     "player": 3741,
-     "nick": "NiKo",
-     "kills": 17,
-     "deaths": 23,
-     "swing": -2.68,
-     "adr": 62.4,
-     "kast": 64.5,
-     "rating": 0.77
-    },
-    {
-     "player": 24177,
-     "nick": "kyousuke",
-     "kills": 16,
-     "deaths": 20,
-     "swing": -4.28,
-     "adr": 57.8,
-     "kast": 67.7,
-     "rating": 0.75
-    },
-    {
-     "player": 429,
-     "nick": "karrigan",
-     "kills": 8,
-     "deaths": 22,
-     "swing": -1.72,
-     "adr": 44.2,
-     "kast": 61.3,
-     "rating": 0.6
-    }
-   ],
-   "ct": [
-    {
      "player": 11816,
      "nick": "ropz",
      "kills": 28,
@@ -389,6 +287,108 @@
      "adr": 47.6,
      "kast": 44.8,
      "rating": 0.5
+    }
+   ],
+   "ct": [
+    {
+     "player": 18462,
+     "nick": "mezii",
+     "kills": 24,
+     "deaths": 16,
+     "swing": 5.21,
+     "adr": 95.9,
+     "kast": 75.9,
+     "rating": 1.5
+    },
+    {
+     "player": 16693,
+     "nick": "flameZ",
+     "kills": 23,
+     "deaths": 15,
+     "swing": 1.67,
+     "adr": 76.2,
+     "kast": 86.2,
+     "rating": 1.28
+    },
+    {
+     "player": 11893,
+     "nick": "ZywOo",
+     "kills": 23,
+     "deaths": 14,
+     "swing": 1.27,
+     "adr": 83.2,
+     "kast": 75.9,
+     "rating": 1.15
+    },
+    {
+     "player": 11816,
+     "nick": "ropz",
+     "kills": 23,
+     "deaths": 16,
+     "swing": 0.74,
+     "adr": 69.7,
+     "kast": 75.9,
+     "rating": 1.08
+    },
+    {
+     "player": 7322,
+     "nick": "apEX",
+     "kills": 17,
+     "deaths": 19,
+     "swing": -1.13,
+     "adr": 69.3,
+     "kast": 79.3,
+     "rating": 1.03
+    },
+    {
+     "player": 12018,
+     "nick": "TeSeS",
+     "kills": 28,
+     "deaths": 19,
+     "swing": 3.5,
+     "adr": 83.2,
+     "kast": 71.0,
+     "rating": 1.36
+    },
+    {
+     "player": 19230,
+     "nick": "m0NESY",
+     "kills": 25,
+     "deaths": 25,
+     "swing": 2.0,
+     "adr": 89.9,
+     "kast": 67.7,
+     "rating": 1.16
+    },
+    {
+     "player": 3741,
+     "nick": "NiKo",
+     "kills": 17,
+     "deaths": 23,
+     "swing": -2.68,
+     "adr": 62.4,
+     "kast": 64.5,
+     "rating": 0.77
+    },
+    {
+     "player": 24177,
+     "nick": "kyousuke",
+     "kills": 16,
+     "deaths": 20,
+     "swing": -4.28,
+     "adr": 57.8,
+     "kast": 67.7,
+     "rating": 0.75
+    },
+    {
+     "player": 429,
+     "nick": "karrigan",
+     "kills": 8,
+     "deaths": 22,
+     "swing": -1.72,
+     "adr": 44.2,
+     "kast": 61.3,
+     "rating": 0.6
     }
    ]
   },
@@ -497,108 +497,6 @@
    ],
    "t": [
     {
-     "player": 16693,
-     "nick": "flameZ",
-     "kills": 8,
-     "deaths": 7,
-     "swing": -1.76,
-     "adr": 77.2,
-     "kast": 91.7,
-     "rating": 1.15
-    },
-    {
-     "player": 18462,
-     "nick": "mezii",
-     "kills": 7,
-     "deaths": 8,
-     "swing": 3.58,
-     "adr": 66.3,
-     "kast": 66.7,
-     "rating": 1.15
-    },
-    {
-     "player": 11816,
-     "nick": "ropz",
-     "kills": 11,
-     "deaths": 7,
-     "swing": -0.93,
-     "adr": 77.7,
-     "kast": 58.3,
-     "rating": 1.13
-    },
-    {
-     "player": 11893,
-     "nick": "ZywOo",
-     "kills": 7,
-     "deaths": 7,
-     "swing": 0.39,
-     "adr": 62.0,
-     "kast": 66.7,
-     "rating": 1.03
-    },
-    {
-     "player": 7322,
-     "nick": "apEX",
-     "kills": 5,
-     "deaths": 8,
-     "swing": -0.39,
-     "adr": 59.7,
-     "kast": 58.3,
-     "rating": 0.92
-    },
-    {
-     "player": 19230,
-     "nick": "m0NESY",
-     "kills": 13,
-     "deaths": 6,
-     "swing": 10.94,
-     "adr": 140.1,
-     "kast": 90.0,
-     "rating": 2.34
-    },
-    {
-     "player": 12018,
-     "nick": "TeSeS",
-     "kills": 14,
-     "deaths": 4,
-     "swing": 6.64,
-     "adr": 108.0,
-     "kast": 90.0,
-     "rating": 2.18
-    },
-    {
-     "player": 3741,
-     "nick": "NiKo",
-     "kills": 7,
-     "deaths": 4,
-     "swing": 0.98,
-     "adr": 76.4,
-     "kast": 90.0,
-     "rating": 1.19
-    },
-    {
-     "player": 24177,
-     "nick": "kyousuke",
-     "kills": 6,
-     "deaths": 5,
-     "swing": -4.26,
-     "adr": 54.9,
-     "kast": 80.0,
-     "rating": 0.87
-    },
-    {
-     "player": 429,
-     "nick": "karrigan",
-     "kills": 2,
-     "deaths": 7,
-     "swing": -3.61,
-     "adr": 51.7,
-     "kast": 80.0,
-     "rating": 0.53
-    }
-   ],
-   "ct": [
-    {
      "player": 11816,
      "nick": "ropz",
      "kills": 6,
@@ -697,6 +595,108 @@
      "adr": 41.8,
      "kast": 50.0,
      "rating": 0.5
+    }
+   ],
+   "ct": [
+    {
+     "player": 16693,
+     "nick": "flameZ",
+     "kills": 8,
+     "deaths": 7,
+     "swing": -1.76,
+     "adr": 77.2,
+     "kast": 91.7,
+     "rating": 1.15
+    },
+    {
+     "player": 18462,
+     "nick": "mezii",
+     "kills": 7,
+     "deaths": 8,
+     "swing": 3.58,
+     "adr": 66.3,
+     "kast": 66.7,
+     "rating": 1.15
+    },
+    {
+     "player": 11816,
+     "nick": "ropz",
+     "kills": 11,
+     "deaths": 7,
+     "swing": -0.93,
+     "adr": 77.7,
+     "kast": 58.3,
+     "rating": 1.13
+    },
+    {
+     "player": 11893,
+     "nick": "ZywOo",
+     "kills": 7,
+     "deaths": 7,
+     "swing": 0.39,
+     "adr": 62.0,
+     "kast": 66.7,
+     "rating": 1.03
+    },
+    {
+     "player": 7322,
+     "nick": "apEX",
+     "kills": 5,
+     "deaths": 8,
+     "swing": -0.39,
+     "adr": 59.7,
+     "kast": 58.3,
+     "rating": 0.92
+    },
+    {
+     "player": 19230,
+     "nick": "m0NESY",
+     "kills": 13,
+     "deaths": 6,
+     "swing": 10.94,
+     "adr": 140.1,
+     "kast": 90.0,
+     "rating": 2.34
+    },
+    {
+     "player": 12018,
+     "nick": "TeSeS",
+     "kills": 14,
+     "deaths": 4,
+     "swing": 6.64,
+     "adr": 108.0,
+     "kast": 90.0,
+     "rating": 2.18
+    },
+    {
+     "player": 3741,
+     "nick": "NiKo",
+     "kills": 7,
+     "deaths": 4,
+     "swing": 0.98,
+     "adr": 76.4,
+     "kast": 90.0,
+     "rating": 1.19
+    },
+    {
+     "player": 24177,
+     "nick": "kyousuke",
+     "kills": 6,
+     "deaths": 5,
+     "swing": -4.26,
+     "adr": 54.9,
+     "kast": 80.0,
+     "rating": 0.87
+    },
+    {
+     "player": 429,
+     "nick": "karrigan",
+     "kills": 2,
+     "deaths": 7,
+     "swing": -3.61,
+     "adr": 51.7,
+     "kast": 80.0,
+     "rating": 0.53
     }
    ]
   },
@@ -805,108 +805,6 @@
    ],
    "t": [
     {
-     "player": 18462,
-     "nick": "mezii",
-     "kills": 6,
-     "deaths": 2,
-     "swing": 12.51,
-     "adr": 120.2,
-     "kast": 100.0,
-     "rating": 2.33
-    },
-    {
-     "player": 16693,
-     "nick": "flameZ",
-     "kills": 7,
-     "deaths": 2,
-     "swing": 4.47,
-     "adr": 86.6,
-     "kast": 80.0,
-     "rating": 1.59
-    },
-    {
-     "player": 11816,
-     "nick": "ropz",
-     "kills": 4,
-     "deaths": 2,
-     "swing": 2.93,
-     "adr": 62.2,
-     "kast": 80.0,
-     "rating": 1.21
-    },
-    {
-     "player": 11893,
-     "nick": "ZywOo",
-     "kills": 4,
-     "deaths": 2,
-     "swing": 0.02,
-     "adr": 93.6,
-     "kast": 80.0,
-     "rating": 1.09
-    },
-    {
-     "player": 7322,
-     "nick": "apEX",
-     "kills": 3,
-     "deaths": 3,
-     "swing": -3.47,
-     "adr": 108.0,
-     "kast": 80.0,
-     "rating": 0.87
-    },
-    {
-     "player": 12018,
-     "nick": "TeSeS",
-     "kills": 7,
-     "deaths": 9,
-     "swing": 1.9,
-     "adr": 54.3,
-     "kast": 66.7,
-     "rating": 0.97
-    },
-    {
-     "player": 429,
-     "nick": "karrigan",
-     "kills": 4,
-     "deaths": 9,
-     "swing": 1.11,
-     "adr": 42.4,
-     "kast": 50.0,
-     "rating": 0.74
-    },
-    {
-     "player": 19230,
-     "nick": "m0NESY",
-     "kills": 7,
-     "deaths": 11,
-     "swing": -2.75,
-     "adr": 58.8,
-     "kast": 41.7,
-     "rating": 0.69
-    },
-    {
-     "player": 3741,
-     "nick": "NiKo",
-     "kills": 6,
-     "deaths": 11,
-     "swing": -3.19,
-     "adr": 62.8,
-     "kast": 50.0,
-     "rating": 0.69
-    },
-    {
-     "player": 24177,
-     "nick": "kyousuke",
-     "kills": 2,
-     "deaths": 10,
-     "swing": -11.29,
-     "adr": 33.4,
-     "kast": 58.3,
-     "rating": 0.24
-    }
-   ],
-   "ct": [
-    {
      "player": 16693,
      "nick": "flameZ",
      "kills": 16,
@@ -1005,6 +903,108 @@
      "adr": 2.0,
      "kast": 20.0,
      "rating": 0.18
+    }
+   ],
+   "ct": [
+    {
+     "player": 18462,
+     "nick": "mezii",
+     "kills": 6,
+     "deaths": 2,
+     "swing": 12.51,
+     "adr": 120.2,
+     "kast": 100.0,
+     "rating": 2.33
+    },
+    {
+     "player": 16693,
+     "nick": "flameZ",
+     "kills": 7,
+     "deaths": 2,
+     "swing": 4.47,
+     "adr": 86.6,
+     "kast": 80.0,
+     "rating": 1.59
+    },
+    {
+     "player": 11816,
+     "nick": "ropz",
+     "kills": 4,
+     "deaths": 2,
+     "swing": 2.93,
+     "adr": 62.2,
+     "kast": 80.0,
+     "rating": 1.21
+    },
+    {
+     "player": 11893,
+     "nick": "ZywOo",
+     "kills": 4,
+     "deaths": 2,
+     "swing": 0.02,
+     "adr": 93.6,
+     "kast": 80.0,
+     "rating": 1.09
+    },
+    {
+     "player": 7322,
+     "nick": "apEX",
+     "kills": 3,
+     "deaths": 3,
+     "swing": -3.47,
+     "adr": 108.0,
+     "kast": 80.0,
+     "rating": 0.87
+    },
+    {
+     "player": 12018,
+     "nick": "TeSeS",
+     "kills": 7,
+     "deaths": 9,
+     "swing": 1.9,
+     "adr": 54.3,
+     "kast": 66.7,
+     "rating": 0.97
+    },
+    {
+     "player": 429,
+     "nick": "karrigan",
+     "kills": 4,
+     "deaths": 9,
+     "swing": 1.11,
+     "adr": 42.4,
+     "kast": 50.0,
+     "rating": 0.74
+    },
+    {
+     "player": 19230,
+     "nick": "m0NESY",
+     "kills": 7,
+     "deaths": 11,
+     "swing": -2.75,
+     "adr": 58.8,
+     "kast": 41.7,
+     "rating": 0.69
+    },
+    {
+     "player": 3741,
+     "nick": "NiKo",
+     "kills": 6,
+     "deaths": 11,
+     "swing": -3.19,
+     "adr": 62.8,
+     "kast": 50.0,
+     "rating": 0.69
+    },
+    {
+     "player": 24177,
+     "nick": "kyousuke",
+     "kills": 2,
+     "deaths": 10,
+     "swing": -11.29,
+     "adr": 33.4,
+     "kast": 58.3,
+     "rating": 0.24
     }
    ]
   },
@@ -1113,108 +1113,6 @@
    ],
    "t": [
     {
-     "player": 18462,
-     "nick": "mezii",
-     "kills": 11,
-     "deaths": 6,
-     "swing": 3.8,
-     "adr": 115.3,
-     "kast": 75.0,
-     "rating": 1.56
-    },
-    {
-     "player": 11893,
-     "nick": "ZywOo",
-     "kills": 12,
-     "deaths": 5,
-     "swing": 2.67,
-     "adr": 100.0,
-     "kast": 83.3,
-     "rating": 1.31
-    },
-    {
-     "player": 16693,
-     "nick": "flameZ",
-     "kills": 8,
-     "deaths": 6,
-     "swing": 3.93,
-     "adr": 70.9,
-     "kast": 83.3,
-     "rating": 1.3
-    },
-    {
-     "player": 7322,
-     "nick": "apEX",
-     "kills": 9,
-     "deaths": 8,
-     "swing": -0.89,
-     "adr": 62.9,
-     "kast": 100.0,
-     "rating": 1.22
-    },
-    {
-     "player": 11816,
-     "nick": "ropz",
-     "kills": 8,
-     "deaths": 7,
-     "swing": 1.51,
-     "adr": 64.8,
-     "kast": 91.7,
-     "rating": 0.99
-    },
-    {
-     "player": 24177,
-     "nick": "kyousuke",
-     "kills": 8,
-     "deaths": 5,
-     "swing": 5.05,
-     "adr": 93.6,
-     "kast": 66.7,
-     "rating": 1.52
-    },
-    {
-     "player": 12018,
-     "nick": "TeSeS",
-     "kills": 7,
-     "deaths": 6,
-     "swing": 2.15,
-     "adr": 94.1,
-     "kast": 55.6,
-     "rating": 1.1
-    },
-    {
-     "player": 19230,
-     "nick": "m0NESY",
-     "kills": 5,
-     "deaths": 8,
-     "swing": -1.62,
-     "adr": 75.7,
-     "kast": 77.8,
-     "rating": 0.79
-    },
-    {
-     "player": 429,
-     "nick": "karrigan",
-     "kills": 2,
-     "deaths": 6,
-     "swing": -3.41,
-     "adr": 38.2,
-     "kast": 55.6,
-     "rating": 0.53
-    },
-    {
-     "player": 3741,
-     "nick": "NiKo",
-     "kills": 4,
-     "deaths": 8,
-     "swing": -6.09,
-     "adr": 46.2,
-     "kast": 55.6,
-     "rating": 0.42
-    }
-   ],
-   "ct": [
-    {
      "player": 11816,
      "nick": "ropz",
      "kills": 13,
@@ -1314,6 +1212,108 @@
      "kast": 50.0,
      "rating": 0.46
     }
+   ],
+   "ct": [
+    {
+     "player": 18462,
+     "nick": "mezii",
+     "kills": 11,
+     "deaths": 6,
+     "swing": 3.8,
+     "adr": 115.3,
+     "kast": 75.0,
+     "rating": 1.56
+    },
+    {
+     "player": 11893,
+     "nick": "ZywOo",
+     "kills": 12,
+     "deaths": 5,
+     "swing": 2.67,
+     "adr": 100.0,
+     "kast": 83.3,
+     "rating": 1.31
+    },
+    {
+     "player": 16693,
+     "nick": "flameZ",
+     "kills": 8,
+     "deaths": 6,
+     "swing": 3.93,
+     "adr": 70.9,
+     "kast": 83.3,
+     "rating": 1.3
+    },
+    {
+     "player": 7322,
+     "nick": "apEX",
+     "kills": 9,
+     "deaths": 8,
+     "swing": -0.89,
+     "adr": 62.9,
+     "kast": 100.0,
+     "rating": 1.22
+    },
+    {
+     "player": 11816,
+     "nick": "ropz",
+     "kills": 8,
+     "deaths": 7,
+     "swing": 1.51,
+     "adr": 64.8,
+     "kast": 91.7,
+     "rating": 0.99
+    },
+    {
+     "player": 24177,
+     "nick": "kyousuke",
+     "kills": 8,
+     "deaths": 5,
+     "swing": 5.05,
+     "adr": 93.6,
+     "kast": 66.7,
+     "rating": 1.52
+    },
+    {
+     "player": 12018,
+     "nick": "TeSeS",
+     "kills": 7,
+     "deaths": 6,
+     "swing": 2.15,
+     "adr": 94.1,
+     "kast": 55.6,
+     "rating": 1.1
+    },
+    {
+     "player": 19230,
+     "nick": "m0NESY",
+     "kills": 5,
+     "deaths": 8,
+     "swing": -1.62,
+     "adr": 75.7,
+     "kast": 77.8,
+     "rating": 0.79
+    },
+    {
+     "player": 429,
+     "nick": "karrigan",
+     "kills": 2,
+     "deaths": 6,
+     "swing": -3.41,
+     "adr": 38.2,
+     "kast": 55.6,
+     "rating": 0.53
+    },
+    {
+     "player": 3741,
+     "nick": "NiKo",
+     "kills": 4,
+     "deaths": 8,
+     "swing": -6.09,
+     "adr": 46.2,
+     "kast": 55.6,
+     "rating": 0.42
+    }
    ]
   }
  },
@@ -1329,16 +1329,15 @@
   "adr": 87.2,
   "rating": 1.35
  },
- "highlight": null,
  "h2h": {
   "team1Wins": 17,
-  "team2Wins": 15,
   "overtimes": 6,
+  "team2Wins": 15,
   "maps": [
    {
-    "date": "2026-06-20",
+    "date": "2026-06-19",
     "matchId": 2394999,
-    "eventId": null,
+    "eventId": 8301,
     "event": "IEM Cologne Major 2026",
     "map": "de_dust2",
     "score": [
@@ -1348,9 +1347,9 @@
     "winner": 11283
    },
    {
-    "date": "2026-06-20",
+    "date": "2026-06-19",
     "matchId": 2394999,
-    "eventId": null,
+    "eventId": 8301,
     "event": "IEM Cologne Major 2026",
     "map": "de_inferno",
     "score": [
@@ -1360,9 +1359,9 @@
     "winner": 9565
    },
    {
-    "date": "2026-06-20",
+    "date": "2026-06-19",
     "matchId": 2394999,
-    "eventId": null,
+    "eventId": 8301,
     "event": "IEM Cologne Major 2026",
     "map": "de_anubis",
     "score": [
@@ -1372,9 +1371,9 @@
     "winner": 11283
    },
    {
-    "date": "2026-04-16",
+    "date": "2026-04-15",
     "matchId": 2393236,
-    "eventId": null,
+    "eventId": 8242,
     "event": "IEM Rio 2026",
     "map": "de_nuke",
     "score": [
@@ -1384,9 +1383,9 @@
     "winner": 11283
    },
    {
-    "date": "2026-04-16",
+    "date": "2026-04-15",
     "matchId": 2393236,
-    "eventId": null,
+    "eventId": 8242,
     "event": "IEM Rio 2026",
     "map": "de_dust2",
     "score": [
@@ -1396,9 +1395,9 @@
     "winner": 9565
    },
    {
-    "date": "2026-04-16",
+    "date": "2026-04-15",
     "matchId": 2393236,
-    "eventId": null,
+    "eventId": 8242,
     "event": "IEM Rio 2026",
     "map": "de_mirage",
     "score": [
@@ -1408,9 +1407,9 @@
     "winner": 11283
    },
    {
-    "date": "2026-01-25",
+    "date": "2026-01-24",
     "matchId": 2389279,
-    "eventId": null,
+    "eventId": 8246,
     "event": "BLAST Bounty 2026 Season 1 Finals",
     "map": "de_mirage",
     "score": [
@@ -1420,9 +1419,9 @@
     "winner": 11283
    },
    {
-    "date": "2026-01-25",
+    "date": "2026-01-24",
     "matchId": 2389279,
-    "eventId": null,
+    "eventId": 8246,
     "event": "BLAST Bounty 2026 Season 1 Finals",
     "map": "de_anubis",
     "score": [
@@ -1432,9 +1431,9 @@
     "winner": 9565
    },
    {
-    "date": "2026-01-25",
+    "date": "2026-01-24",
     "matchId": 2389279,
-    "eventId": null,
+    "eventId": 8246,
     "event": "BLAST Bounty 2026 Season 1 Finals",
     "map": "de_inferno",
     "score": [
@@ -1446,7 +1445,7 @@
    {
     "date": "2025-11-15",
     "matchId": 2387549,
-    "eventId": null,
+    "eventId": 7908,
     "event": "BLAST Rivals 2025 Season 2",
     "map": "de_nuke",
     "score": [
@@ -1458,7 +1457,7 @@
    {
     "date": "2025-11-15",
     "matchId": 2387549,
-    "eventId": null,
+    "eventId": 7908,
     "event": "BLAST Rivals 2025 Season 2",
     "map": "de_inferno",
     "score": [
@@ -1468,9 +1467,9 @@
     "winner": 11283
    },
    {
-    "date": "2025-10-13",
+    "date": "2025-10-12",
     "matchId": 2385970,
-    "eventId": null,
+    "eventId": 8040,
     "event": "ESL Pro League Season 22",
     "map": "de_dust2",
     "score": [
@@ -1480,9 +1479,9 @@
     "winner": 9565
    },
    {
-    "date": "2025-10-13",
+    "date": "2025-10-12",
     "matchId": 2385970,
-    "eventId": null,
+    "eventId": 8040,
     "event": "ESL Pro League Season 22",
     "map": "de_train",
     "score": [
@@ -1492,9 +1491,9 @@
     "winner": 9565
    },
    {
-    "date": "2025-10-13",
+    "date": "2025-10-12",
     "matchId": 2385970,
-    "eventId": null,
+    "eventId": 8040,
     "event": "ESL Pro League Season 22",
     "map": "de_inferno",
     "score": [
@@ -1506,7 +1505,7 @@
    {
     "date": "2025-08-24",
     "matchId": 2384387,
-    "eventId": null,
+    "eventId": 8039,
     "event": "Esports World Cup 2025",
     "map": "de_nuke",
     "score": [
@@ -1518,7 +1517,7 @@
    {
     "date": "2025-08-24",
     "matchId": 2384387,
-    "eventId": null,
+    "eventId": 8039,
     "event": "Esports World Cup 2025",
     "map": "de_train",
     "score": [
@@ -1530,7 +1529,7 @@
    {
     "date": "2025-08-24",
     "matchId": 2384387,
-    "eventId": null,
+    "eventId": 8039,
     "event": "Esports World Cup 2025",
     "map": "de_inferno",
     "score": [
@@ -1542,7 +1541,7 @@
    {
     "date": "2025-05-25",
     "matchId": 2382694,
-    "eventId": null,
+    "eventId": 8037,
     "event": "IEM Dallas 2025",
     "map": "de_inferno",
     "score": [
@@ -1554,7 +1553,7 @@
    {
     "date": "2025-05-25",
     "matchId": 2382694,
-    "eventId": null,
+    "eventId": 8037,
     "event": "IEM Dallas 2025",
     "map": "de_train",
     "score": [
@@ -1566,7 +1565,7 @@
    {
     "date": "2025-05-25",
     "matchId": 2382694,
-    "eventId": null,
+    "eventId": 8037,
     "event": "IEM Dallas 2025",
     "map": "de_dust2",
     "score": [
@@ -1574,7 +1573,152 @@
      7
     ],
     "winner": 9565
+   },
+   {
+    "date": "2025-05-04",
+    "matchId": 2381918,
+    "eventId": 7905,
+    "event": "BLAST Rivals 2025 Season 1",
+    "map": "de_nuke",
+    "score": [
+     13,
+     8
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2025-05-04",
+    "matchId": 2381918,
+    "eventId": 7905,
+    "event": "BLAST Rivals 2025 Season 1",
+    "map": "de_mirage",
+    "score": [
+     14,
+     16
+    ],
+    "winner": 11283
+   },
+   {
+    "date": "2025-05-04",
+    "matchId": 2381918,
+    "eventId": 7905,
+    "event": "BLAST Rivals 2025 Season 1",
+    "map": "de_train",
+    "score": [
+     13,
+     6
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2025-05-04",
+    "matchId": 2381918,
+    "eventId": 7905,
+    "event": "BLAST Rivals 2025 Season 1",
+    "map": "de_dust2",
+    "score": [
+     13,
+     6
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2025-05-04",
+    "matchId": 2381918,
+    "eventId": 7905,
+    "event": "BLAST Rivals 2025 Season 1",
+    "map": "de_inferno",
+    "score": [
+     9,
+     13
+    ],
+    "winner": 11283
+   },
+   {
+    "date": "2025-04-27",
+    "matchId": 2381773,
+    "eventId": 8036,
+    "event": "IEM Melbourne 2025",
+    "map": "de_nuke",
+    "score": [
+     22,
+     20
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2025-04-27",
+    "matchId": 2381773,
+    "eventId": 8036,
+    "event": "IEM Melbourne 2025",
+    "map": "de_mirage",
+    "score": [
+     10,
+     13
+    ],
+    "winner": 11283
+   },
+   {
+    "date": "2025-04-27",
+    "matchId": 2381773,
+    "eventId": 8036,
+    "event": "IEM Melbourne 2025",
+    "map": "de_train",
+    "score": [
+     13,
+     9
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2025-04-27",
+    "matchId": 2381773,
+    "eventId": 8036,
+    "event": "IEM Melbourne 2025",
+    "map": "de_dust2",
+    "score": [
+     12,
+     16
+    ],
+    "winner": 11283
+   },
+   {
+    "date": "2025-04-27",
+    "matchId": 2381773,
+    "eventId": 8036,
+    "event": "IEM Melbourne 2025",
+    "map": "de_inferno",
+    "score": [
+     13,
+     2
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2025-04-23",
+    "matchId": 2381768,
+    "eventId": 8036,
+    "event": "IEM Melbourne 2025",
+    "map": "de_inferno",
+    "score": [
+     13,
+     8
+    ],
+    "winner": 9565
+   },
+   {
+    "date": "2025-04-23",
+    "matchId": 2381768,
+    "eventId": 8036,
+    "event": "IEM Melbourne 2025",
+    "map": "de_mirage",
+    "score": [
+     16,
+     13
+    ],
+    "winner": 9565
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/112423"
 }

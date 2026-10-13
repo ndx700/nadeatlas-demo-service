@@ -1,29 +1,29 @@
 {
  "id": 2398723,
  "eventId": 8244,
- "stage": null,
- "time": "2026-10-04T00:30:00+08:00",
+ "stage": "Swiss Round 1",
+ "time": "2026-10-03T16:30:00Z",
  "bo": 3,
  "status": "finished",
  "team1": {
   "id": 5995,
   "score": 0,
   "players": [
-   9436,
-   20447,
-   21062,
    20425,
-   3972
+   21062,
+   3972,
+   9436,
+   20447
   ]
  },
  "team2": {
   "id": 4608,
   "score": 2,
   "players": [
-   20127,
    14759,
-   18987,
    22673,
+   18987,
+   20127,
    9816
   ]
  },
@@ -67,11 +67,7 @@
   {
    "map": "de_mirage",
    "pick": null,
-   "score": [
-    null,
-    null
-   ],
-   "halves": null
+   "score": null
   }
  ],
  "stats": {
@@ -1000,17 +996,27 @@
    ]
   }
  },
- "mvp": 20127,
- "highlight": null,
+ "mvp": {
+  "player": 20127,
+  "nick": "w0nderful",
+  "maps": 2,
+  "kpr": 0.89,
+  "dpr": 0.3,
+  "kast": 89.2,
+  "mkRating": 1.06,
+  "swing": 4.75,
+  "adr": 78.1,
+  "rating": 1.49
+ },
  "h2h": {
   "team1Wins": 6,
-  "team2Wins": 4,
   "overtimes": 1,
+  "team2Wins": 4,
   "maps": [
    {
     "date": "2026-08-30",
     "matchId": 2396940,
-    "eventId": null,
+    "eventId": 8249,
     "event": "BLAST Open Porto 2026",
     "map": "de_inferno",
     "score": [
@@ -1022,7 +1028,7 @@
    {
     "date": "2026-08-30",
     "matchId": 2396940,
-    "eventId": null,
+    "eventId": 8249,
     "event": "BLAST Open Porto 2026",
     "map": "de_ancient",
     "score": [
@@ -1032,9 +1038,9 @@
     "winner": 5995
    },
    {
-    "date": "2026-06-16",
+    "date": "2026-06-15",
     "matchId": 2394995,
-    "eventId": null,
+    "eventId": 8301,
     "event": "IEM Cologne Major 2026",
     "map": "de_mirage",
     "score": [
@@ -1044,9 +1050,9 @@
     "winner": 5995
    },
    {
-    "date": "2026-06-16",
+    "date": "2026-06-15",
     "matchId": 2394995,
-    "eventId": null,
+    "eventId": 8301,
     "event": "IEM Cologne Major 2026",
     "map": "de_inferno",
     "score": [
@@ -1056,9 +1062,9 @@
     "winner": 5995
    },
    {
-    "date": "2026-06-16",
+    "date": "2026-06-15",
     "matchId": 2394995,
-    "eventId": null,
+    "eventId": 8301,
     "event": "IEM Cologne Major 2026",
     "map": "de_dust2",
     "score": [
@@ -1070,7 +1076,7 @@
    {
     "date": "2026-03-07",
     "matchId": 2391111,
-    "eventId": null,
+    "eventId": 8412,
     "event": "ESL Pro League Season 23 Stage 2",
     "map": "de_ancient",
     "score": [
@@ -1082,7 +1088,7 @@
    {
     "date": "2026-03-07",
     "matchId": 2391111,
-    "eventId": null,
+    "eventId": 8412,
     "event": "ESL Pro League Season 23 Stage 2",
     "map": "de_mirage",
     "score": [
@@ -1094,7 +1100,7 @@
    {
     "date": "2026-03-07",
     "matchId": 2391111,
-    "eventId": null,
+    "eventId": 8412,
     "event": "ESL Pro League Season 23 Stage 2",
     "map": "de_dust2",
     "score": [
@@ -1104,9 +1110,9 @@
     "winner": 4608
    },
    {
-    "date": "2026-02-19",
+    "date": "2026-02-18",
     "matchId": 2389979,
-    "eventId": null,
+    "eventId": 8047,
     "event": "PGL Cluj-Napoca 2026",
     "map": "de_ancient",
     "score": [
@@ -1116,9 +1122,9 @@
     "winner": 4608
    },
    {
-    "date": "2026-02-19",
+    "date": "2026-02-18",
     "matchId": 2389979,
-    "eventId": null,
+    "eventId": 8047,
     "event": "PGL Cluj-Napoca 2026",
     "map": "de_dust2",
     "score": [
@@ -1128,5 +1134,6 @@
     "winner": 4608
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/112369"
 }

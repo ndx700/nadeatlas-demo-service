@@ -1,0 +1,544 @@
+{
+ "id": 8050,
+ "name": "PGL Masters Bucharest 2026",
+ "start": "2026-10-24",
+ "end": "2026-10-31",
+ "status": "upcoming",
+ "location": "Bucharest, Romania",
+ "prize": "$1,250,000",
+ "teams": [
+  7020,
+  9565,
+  4494,
+  8297,
+  11861,
+  12468,
+  5995,
+  13286,
+  4608,
+  12394,
+  9996,
+  6248,
+  7969,
+  5973,
+  4863,
+  13926
+ ],
+ "matches": [],
+ "swiss": {
+  "rounds": [
+   {
+    "record": "0:0",
+    "matches": [
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 9565,
+      "team2": 4494,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     },
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 7020,
+      "team2": 11861,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     },
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 12468,
+      "team2": 8297,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     },
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 5995,
+      "team2": 13286,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     },
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 12394,
+      "team2": 9996,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     },
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 5973,
+      "team2": 7969,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     },
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 4608,
+      "team2": 13926,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     },
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 4863,
+      "team2": 6248,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     }
+    ]
+   },
+   {
+    "record": "1:0",
+    "matches": [
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 0,
+      "team2": 0,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     },
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 0,
+      "team2": 0,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     },
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 0,
+      "team2": 0,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     },
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 0,
+      "team2": 0,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     }
+    ]
+   },
+   {
+    "record": "0:1",
+    "matches": [
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 0,
+      "team2": 0,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     },
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 0,
+      "team2": 0,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     },
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 0,
+      "team2": 0,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     },
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 0,
+      "team2": 0,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     }
+    ]
+   },
+   {
+    "record": "2:0",
+    "matches": [
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 0,
+      "team2": 0,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     },
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 0,
+      "team2": 0,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     }
+    ]
+   },
+   {
+    "record": "1:1",
+    "matches": [
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 0,
+      "team2": 0,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     },
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 0,
+      "team2": 0,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     },
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 0,
+      "team2": 0,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     },
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 0,
+      "team2": 0,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     }
+    ]
+   },
+   {
+    "record": "0:2",
+    "matches": [
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 0,
+      "team2": 0,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     },
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 0,
+      "team2": 0,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     }
+    ]
+   },
+   {
+    "record": "2:1",
+    "matches": [
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 0,
+      "team2": 0,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     },
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 0,
+      "team2": 0,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     },
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 0,
+      "team2": 0,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     }
+    ]
+   },
+   {
+    "record": "1:2",
+    "matches": [
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 0,
+      "team2": 0,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     },
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 0,
+      "team2": 0,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     },
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 0,
+      "team2": 0,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     }
+    ]
+   },
+   {
+    "record": "2:2",
+    "matches": [
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 0,
+      "team2": 0,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     },
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 0,
+      "team2": 0,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     },
+     {
+      "matchId": 0,
+      "time": null,
+      "bo": null,
+      "team1": 0,
+      "team2": 0,
+      "score": [
+       null,
+       null
+      ],
+      "winner": 0
+     }
+    ]
+   }
+  ],
+  "advanced": [
+   {
+    "team": 0,
+    "record": "3:0"
+   },
+   {
+    "team": 0,
+    "record": "3:0"
+   },
+   {
+    "team": 0,
+    "record": "3:1"
+   },
+   {
+    "team": 0,
+    "record": "3:1"
+   },
+   {
+    "team": 0,
+    "record": "3:1"
+   },
+   {
+    "team": 0,
+    "record": "3:1"
+   },
+   {
+    "team": 0,
+    "record": "3:1"
+   },
+   {
+    "team": 0,
+    "record": "3:1"
+   }
+  ],
+  "eliminated": [
+   {
+    "team": 0,
+    "record": "0:3"
+   },
+   {
+    "team": 0,
+    "record": "0:3"
+   },
+   {
+    "team": 0,
+    "record": "1:3"
+   },
+   {
+    "team": 0,
+    "record": "1:3"
+   },
+   {
+    "team": 0,
+    "record": "1:3"
+   },
+   {
+    "team": 0,
+    "record": "1:3"
+   },
+   {
+    "team": 0,
+    "record": "1:3"
+   },
+   {
+    "team": 0,
+    "record": "1:3"
+   }
+  ]
+ },
+ "playoffs": [],
+ "thirdPlace": [],
+ "groups": []
+}

@@ -1,29 +1,29 @@
 {
  "id": 2396944,
  "eventId": 8249,
- "stage": "Group A",
- "time": "2026-08-31T19:30:00+08:00",
+ "stage": "Group A Lower Bracket Final",
+ "time": "2026-08-31T11:30:00Z",
  "bo": 3,
  "status": "finished",
  "team1": {
   "id": 5995,
   "score": 2,
   "players": [
-   20447,
    20425,
+   21062,
    3972,
    9436,
-   21062
+   20447
   ]
  },
  "team2": {
   "id": 11861,
   "score": 1,
   "players": [
-   18850,
    8574,
-   21243,
    7938,
+   21243,
+   18850,
    19677
   ]
  },
@@ -61,10 +61,6 @@
     [
      5,
      7
-    ],
-    [
-     7,
-     4
     ]
    ]
   },
@@ -1321,17 +1317,27 @@
    ]
   }
  },
- "mvp": 20447,
- "highlight": null,
+ "mvp": {
+  "player": 20447,
+  "nick": "HeavyGod",
+  "maps": 3,
+  "kpr": 0.8,
+  "dpr": 0.57,
+  "kast": 82.6,
+  "mkRating": 1.52,
+  "swing": 3.47,
+  "adr": 91.7,
+  "rating": 1.48
+ },
  "h2h": {
   "team1Wins": 2,
-  "team2Wins": 4,
   "overtimes": 1,
+  "team2Wins": 4,
   "maps": [
    {
     "date": "2026-08-26",
     "matchId": 2396923,
-    "eventId": null,
+    "eventId": 8249,
     "event": "BLAST Open Porto 2026",
     "map": "de_anubis",
     "score": [
@@ -1343,7 +1349,7 @@
    {
     "date": "2026-08-26",
     "matchId": 2396923,
-    "eventId": null,
+    "eventId": 8249,
     "event": "BLAST Open Porto 2026",
     "map": "de_inferno",
     "score": [
@@ -1355,7 +1361,7 @@
    {
     "date": "2026-06-13",
     "matchId": 2394981,
-    "eventId": null,
+    "eventId": 8301,
     "event": "IEM Cologne Major 2026",
     "map": "de_anubis",
     "score": [
@@ -1367,7 +1373,7 @@
    {
     "date": "2026-06-13",
     "matchId": 2394981,
-    "eventId": null,
+    "eventId": 8301,
     "event": "IEM Cologne Major 2026",
     "map": "de_overpass",
     "score": [
@@ -1377,9 +1383,9 @@
     "winner": 11861
    },
    {
-    "date": "2026-03-10",
+    "date": "2026-03-09",
     "matchId": 2391129,
-    "eventId": null,
+    "eventId": 8412,
     "event": "ESL Pro League Season 23 Stage 2",
     "map": "de_anubis",
     "score": [
@@ -1389,9 +1395,9 @@
     "winner": 11861
    },
    {
-    "date": "2026-03-10",
+    "date": "2026-03-09",
     "matchId": 2391129,
-    "eventId": null,
+    "eventId": 8412,
     "event": "ESL Pro League Season 23 Stage 2",
     "map": "de_mirage",
     "score": [
@@ -1401,5 +1407,6 @@
     "winner": 11861
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/110828"
 }

@@ -1,7 +1,7 @@
 {
  "id": 2399263,
  "eventId": 9223,
- "stage": "Playoffs",
+ "stage": "Quarter-final",
  "time": "2026-10-16T11:00:00Z",
  "bo": 3,
  "status": "upcoming",
@@ -17,5 +17,6 @@
  },
  "maps": [],
  "stats": {},
- "mvp": null
+ "mvp": null,
+ "h2h": null
 }

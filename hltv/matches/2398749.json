@@ -9,22 +9,22 @@
   "id": 7020,
   "score": 2,
   "players": [
-   16920,
    18317,
+   19808,
+   16920,
    21167,
-   20423,
-   19808
+   20423
   ]
  },
  "team2": {
   "id": 12376,
   "score": 0,
   "players": [
+   16599,
    21665,
    22921,
-   16599,
-   20104,
-   15370
+   15370,
+   20104
   ]
  },
  "maps": [
@@ -67,11 +67,7 @@
   {
    "map": "de_mirage",
    "pick": null,
-   "score": [
-    null,
-    null
-   ],
-   "halves": null
+   "score": null
   }
  ],
  "stats": {
@@ -180,108 +176,6 @@
    ],
    "t": [
     {
-     "player": 18317,
-     "nick": "magixx",
-     "kills": 21,
-     "deaths": 9,
-     "swing": 8.34,
-     "adr": 130.7,
-     "kast": 88.9,
-     "rating": 1.91
-    },
-    {
-     "player": 21167,
-     "nick": "donk",
-     "kills": 22,
-     "deaths": 9,
-     "swing": 5.96,
-     "adr": 118.8,
-     "kast": 88.9,
-     "rating": 1.88
-    },
-    {
-     "player": 16920,
-     "nick": "sh1ro",
-     "kills": 13,
-     "deaths": 7,
-     "swing": 0.65,
-     "adr": 65.2,
-     "kast": 94.4,
-     "rating": 1.08
-    },
-    {
-     "player": 19808,
-     "nick": "tN1R",
-     "kills": 11,
-     "deaths": 10,
-     "swing": -1.13,
-     "adr": 65.6,
-     "kast": 83.3,
-     "rating": 0.97
-    },
-    {
-     "player": 20423,
-     "nick": "zont1x",
-     "kills": 11,
-     "deaths": 9,
-     "swing": -0.25,
-     "adr": 60.3,
-     "kast": 77.8,
-     "rating": 0.89
-    },
-    {
-     "player": 22921,
-     "nick": "Lake",
-     "kills": 21,
-     "deaths": 17,
-     "swing": 3.33,
-     "adr": 95.1,
-     "kast": 83.3,
-     "rating": 1.45
-    },
-    {
-     "player": 20104,
-     "nick": "s1n",
-     "kills": 16,
-     "deaths": 15,
-     "swing": 0.82,
-     "adr": 76.3,
-     "kast": 79.2,
-     "rating": 1.2
-    },
-    {
-     "player": 21665,
-     "nick": "JBa",
-     "kills": 22,
-     "deaths": 15,
-     "swing": -0.93,
-     "adr": 76.0,
-     "kast": 70.8,
-     "rating": 1.11
-    },
-    {
-     "player": 16599,
-     "nick": "Swisher",
-     "kills": 15,
-     "deaths": 15,
-     "swing": -3.16,
-     "adr": 78.2,
-     "kast": 75.0,
-     "rating": 0.93
-    },
-    {
-     "player": 15370,
-     "nick": "slaxz-",
-     "kills": 11,
-     "deaths": 13,
-     "swing": -4.07,
-     "adr": 56.9,
-     "kast": 70.8,
-     "rating": 0.65
-    }
-   ],
-   "ct": [
-    {
      "player": 16920,
      "nick": "sh1ro",
      "kills": 20,
@@ -380,6 +274,108 @@
      "adr": 27.9,
      "kast": 33.3,
      "rating": 0.39
+    }
+   ],
+   "ct": [
+    {
+     "player": 18317,
+     "nick": "magixx",
+     "kills": 21,
+     "deaths": 9,
+     "swing": 8.34,
+     "adr": 130.7,
+     "kast": 88.9,
+     "rating": 1.91
+    },
+    {
+     "player": 21167,
+     "nick": "donk",
+     "kills": 22,
+     "deaths": 9,
+     "swing": 5.96,
+     "adr": 118.8,
+     "kast": 88.9,
+     "rating": 1.88
+    },
+    {
+     "player": 16920,
+     "nick": "sh1ro",
+     "kills": 13,
+     "deaths": 7,
+     "swing": 0.65,
+     "adr": 65.2,
+     "kast": 94.4,
+     "rating": 1.08
+    },
+    {
+     "player": 19808,
+     "nick": "tN1R",
+     "kills": 11,
+     "deaths": 10,
+     "swing": -1.13,
+     "adr": 65.6,
+     "kast": 83.3,
+     "rating": 0.97
+    },
+    {
+     "player": 20423,
+     "nick": "zont1x",
+     "kills": 11,
+     "deaths": 9,
+     "swing": -0.25,
+     "adr": 60.3,
+     "kast": 77.8,
+     "rating": 0.89
+    },
+    {
+     "player": 22921,
+     "nick": "Lake",
+     "kills": 21,
+     "deaths": 17,
+     "swing": 3.33,
+     "adr": 95.1,
+     "kast": 83.3,
+     "rating": 1.45
+    },
+    {
+     "player": 20104,
+     "nick": "s1n",
+     "kills": 16,
+     "deaths": 15,
+     "swing": 0.82,
+     "adr": 76.3,
+     "kast": 79.2,
+     "rating": 1.2
+    },
+    {
+     "player": 21665,
+     "nick": "JBa",
+     "kills": 22,
+     "deaths": 15,
+     "swing": -0.93,
+     "adr": 76.0,
+     "kast": 70.8,
+     "rating": 1.11
+    },
+    {
+     "player": 16599,
+     "nick": "Swisher",
+     "kills": 15,
+     "deaths": 15,
+     "swing": -3.16,
+     "adr": 78.2,
+     "kast": 75.0,
+     "rating": 0.93
+    },
+    {
+     "player": 15370,
+     "nick": "slaxz-",
+     "kills": 11,
+     "deaths": 13,
+     "swing": -4.07,
+     "adr": 56.9,
+     "kast": 70.8,
+     "rating": 0.65
     }
    ]
   },
@@ -488,108 +484,6 @@
    ],
    "t": [
     {
-     "player": 18317,
-     "nick": "magixx",
-     "kills": 7,
-     "deaths": 4,
-     "swing": 8.02,
-     "adr": 131.9,
-     "kast": 85.7,
-     "rating": 1.92
-    },
-    {
-     "player": 21167,
-     "nick": "donk",
-     "kills": 7,
-     "deaths": 3,
-     "swing": 9.8,
-     "adr": 87.3,
-     "kast": 71.4,
-     "rating": 1.76
-    },
-    {
-     "player": 16920,
-     "nick": "sh1ro",
-     "kills": 6,
-     "deaths": 3,
-     "swing": 1.31,
-     "adr": 79.9,
-     "kast": 100.0,
-     "rating": 1.28
-    },
-    {
-     "player": 19808,
-     "nick": "tN1R",
-     "kills": 3,
-     "deaths": 3,
-     "swing": -5.01,
-     "adr": 46.6,
-     "kast": 85.7,
-     "rating": 0.83
-    },
-    {
-     "player": 20423,
-     "nick": "zont1x",
-     "kills": 3,
-     "deaths": 4,
-     "swing": -7.04,
-     "adr": 37.9,
-     "kast": 71.4,
-     "rating": 0.59
-    },
-    {
-     "player": 21665,
-     "nick": "JBa",
-     "kills": 9,
-     "deaths": 9,
-     "swing": -2.14,
-     "adr": 51.2,
-     "kast": 66.7,
-     "rating": 0.99
-    },
-    {
-     "player": 20104,
-     "nick": "s1n",
-     "kills": 6,
-     "deaths": 10,
-     "swing": -3.29,
-     "adr": 57.1,
-     "kast": 58.3,
-     "rating": 0.9
-    },
-    {
-     "player": 16599,
-     "nick": "Swisher",
-     "kills": 7,
-     "deaths": 9,
-     "swing": -5.07,
-     "adr": 75.3,
-     "kast": 66.7,
-     "rating": 0.89
-    },
-    {
-     "player": 15370,
-     "nick": "slaxz-",
-     "kills": 5,
-     "deaths": 7,
-     "swing": -0.01,
-     "adr": 63.8,
-     "kast": 66.7,
-     "rating": 0.8
-    },
-    {
-     "player": 22921,
-     "nick": "Lake",
-     "kills": 7,
-     "deaths": 10,
-     "swing": -5.04,
-     "adr": 64.8,
-     "kast": 66.7,
-     "rating": 0.73
-    }
-   ],
-   "ct": [
-    {
      "player": 20423,
      "nick": "zont1x",
      "kills": 10,
@@ -688,6 +582,108 @@
      "adr": 31.7,
      "kast": 42.9,
      "rating": 0.29
+    }
+   ],
+   "ct": [
+    {
+     "player": 18317,
+     "nick": "magixx",
+     "kills": 7,
+     "deaths": 4,
+     "swing": 8.02,
+     "adr": 131.9,
+     "kast": 85.7,
+     "rating": 1.92
+    },
+    {
+     "player": 21167,
+     "nick": "donk",
+     "kills": 7,
+     "deaths": 3,
+     "swing": 9.8,
+     "adr": 87.3,
+     "kast": 71.4,
+     "rating": 1.76
+    },
+    {
+     "player": 16920,
+     "nick": "sh1ro",
+     "kills": 6,
+     "deaths": 3,
+     "swing": 1.31,
+     "adr": 79.9,
+     "kast": 100.0,
+     "rating": 1.28
+    },
+    {
+     "player": 19808,
+     "nick": "tN1R",
+     "kills": 3,
+     "deaths": 3,
+     "swing": -5.01,
+     "adr": 46.6,
+     "kast": 85.7,
+     "rating": 0.83
+    },
+    {
+     "player": 20423,
+     "nick": "zont1x",
+     "kills": 3,
+     "deaths": 4,
+     "swing": -7.04,
+     "adr": 37.9,
+     "kast": 71.4,
+     "rating": 0.59
+    },
+    {
+     "player": 21665,
+     "nick": "JBa",
+     "kills": 9,
+     "deaths": 9,
+     "swing": -2.14,
+     "adr": 51.2,
+     "kast": 66.7,
+     "rating": 0.99
+    },
+    {
+     "player": 20104,
+     "nick": "s1n",
+     "kills": 6,
+     "deaths": 10,
+     "swing": -3.29,
+     "adr": 57.1,
+     "kast": 58.3,
+     "rating": 0.9
+    },
+    {
+     "player": 16599,
+     "nick": "Swisher",
+     "kills": 7,
+     "deaths": 9,
+     "swing": -5.07,
+     "adr": 75.3,
+     "kast": 66.7,
+     "rating": 0.89
+    },
+    {
+     "player": 15370,
+     "nick": "slaxz-",
+     "kills": 5,
+     "deaths": 7,
+     "swing": -0.01,
+     "adr": 63.8,
+     "kast": 66.7,
+     "rating": 0.8
+    },
+    {
+     "player": 22921,
+     "nick": "Lake",
+     "kills": 7,
+     "deaths": 10,
+     "swing": -5.04,
+     "adr": 64.8,
+     "kast": 66.7,
+     "rating": 0.73
     }
    ]
   },
@@ -796,108 +792,6 @@
    ],
    "t": [
     {
-     "player": 21167,
-     "nick": "donk",
-     "kills": 15,
-     "deaths": 6,
-     "swing": 3.51,
-     "adr": 138.9,
-     "kast": 100.0,
-     "rating": 1.98
-    },
-    {
-     "player": 18317,
-     "nick": "magixx",
-     "kills": 14,
-     "deaths": 5,
-     "swing": 8.55,
-     "adr": 129.9,
-     "kast": 90.9,
-     "rating": 1.9
-    },
-    {
-     "player": 20423,
-     "nick": "zont1x",
-     "kills": 8,
-     "deaths": 5,
-     "swing": 4.06,
-     "adr": 74.5,
-     "kast": 81.8,
-     "rating": 1.14
-    },
-    {
-     "player": 19808,
-     "nick": "tN1R",
-     "kills": 8,
-     "deaths": 7,
-     "swing": 1.35,
-     "adr": 77.6,
-     "kast": 81.8,
-     "rating": 1.09
-    },
-    {
-     "player": 16920,
-     "nick": "sh1ro",
-     "kills": 7,
-     "deaths": 4,
-     "swing": 0.24,
-     "adr": 55.9,
-     "kast": 90.9,
-     "rating": 0.95
-    },
-    {
-     "player": 22921,
-     "nick": "Lake",
-     "kills": 14,
-     "deaths": 7,
-     "swing": 11.7,
-     "adr": 125.4,
-     "kast": 100.0,
-     "rating": 2.37
-    },
-    {
-     "player": 20104,
-     "nick": "s1n",
-     "kills": 10,
-     "deaths": 5,
-     "swing": 4.92,
-     "adr": 95.6,
-     "kast": 100.0,
-     "rating": 1.55
-    },
-    {
-     "player": 21665,
-     "nick": "JBa",
-     "kills": 13,
-     "deaths": 6,
-     "swing": 0.27,
-     "adr": 100.7,
-     "kast": 75.0,
-     "rating": 1.24
-    },
-    {
-     "player": 16599,
-     "nick": "Swisher",
-     "kills": 8,
-     "deaths": 6,
-     "swing": -1.25,
-     "adr": 81.1,
-     "kast": 83.3,
-     "rating": 0.98
-    },
-    {
-     "player": 15370,
-     "nick": "slaxz-",
-     "kills": 6,
-     "deaths": 6,
-     "swing": -8.14,
-     "adr": 50.0,
-     "kast": 75.0,
-     "rating": 0.52
-    }
-   ],
-   "ct": [
-    {
      "player": 16920,
      "nick": "sh1ro",
      "kills": 11,
@@ -997,6 +891,108 @@
      "kast": 27.3,
      "rating": 0.27
     }
+   ],
+   "ct": [
+    {
+     "player": 21167,
+     "nick": "donk",
+     "kills": 15,
+     "deaths": 6,
+     "swing": 3.51,
+     "adr": 138.9,
+     "kast": 100.0,
+     "rating": 1.98
+    },
+    {
+     "player": 18317,
+     "nick": "magixx",
+     "kills": 14,
+     "deaths": 5,
+     "swing": 8.55,
+     "adr": 129.9,
+     "kast": 90.9,
+     "rating": 1.9
+    },
+    {
+     "player": 20423,
+     "nick": "zont1x",
+     "kills": 8,
+     "deaths": 5,
+     "swing": 4.06,
+     "adr": 74.5,
+     "kast": 81.8,
+     "rating": 1.14
+    },
+    {
+     "player": 19808,
+     "nick": "tN1R",
+     "kills": 8,
+     "deaths": 7,
+     "swing": 1.35,
+     "adr": 77.6,
+     "kast": 81.8,
+     "rating": 1.09
+    },
+    {
+     "player": 16920,
+     "nick": "sh1ro",
+     "kills": 7,
+     "deaths": 4,
+     "swing": 0.24,
+     "adr": 55.9,
+     "kast": 90.9,
+     "rating": 0.95
+    },
+    {
+     "player": 22921,
+     "nick": "Lake",
+     "kills": 14,
+     "deaths": 7,
+     "swing": 11.7,
+     "adr": 125.4,
+     "kast": 100.0,
+     "rating": 2.37
+    },
+    {
+     "player": 20104,
+     "nick": "s1n",
+     "kills": 10,
+     "deaths": 5,
+     "swing": 4.92,
+     "adr": 95.6,
+     "kast": 100.0,
+     "rating": 1.55
+    },
+    {
+     "player": 21665,
+     "nick": "JBa",
+     "kills": 13,
+     "deaths": 6,
+     "swing": 0.27,
+     "adr": 100.7,
+     "kast": 75.0,
+     "rating": 1.24
+    },
+    {
+     "player": 16599,
+     "nick": "Swisher",
+     "kills": 8,
+     "deaths": 6,
+     "swing": -1.25,
+     "adr": 81.1,
+     "kast": 83.3,
+     "rating": 0.98
+    },
+    {
+     "player": 15370,
+     "nick": "slaxz-",
+     "kills": 6,
+     "deaths": 6,
+     "swing": -8.14,
+     "adr": 50.0,
+     "kast": 75.0,
+     "rating": 0.52
+    }
    ]
   }
  },
@@ -1012,11 +1008,11 @@
   "adr": 74.9,
   "rating": 1.43
  },
- "highlight": null,
  "h2h": {
   "team1Wins": 0,
-  "team2Wins": 0,
   "overtimes": 0,
+  "team2Wins": 0,
   "maps": []
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/112497"
 }

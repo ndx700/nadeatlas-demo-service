@@ -1,7 +1,7 @@
 {
  "id": 2399269,
  "eventId": 9223,
- "stage": "Playoffs",
+ "stage": "Grand Final",
  "time": "2026-10-17T17:00:00Z",
  "bo": 3,
  "status": "upcoming",
@@ -17,5 +17,6 @@
  },
  "maps": [],
  "stats": {},
- "mvp": null
+ "mvp": null,
+ "h2h": null
 }

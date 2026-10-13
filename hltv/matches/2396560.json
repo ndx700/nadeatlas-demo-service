@@ -1,7 +1,7 @@
 {
  "id": 2396560,
  "eventId": 8261,
- "stage": "Group A",
+ "stage": "Group A Upper Bracket Quarter-final",
  "time": "2026-08-12T09:00:00Z",
  "bo": 1,
  "status": "finished",
@@ -153,108 +153,6 @@
    ],
    "t": [
     {
-     "player": 20563,
-     "nick": "lux",
-     "kills": 4,
-     "deaths": 4,
-     "swing": -11.11,
-     "adr": 120.0,
-     "kast": 75.0,
-     "rating": 1.44
-    },
-    {
-     "player": 19015,
-     "nick": "Bymas",
-     "kills": 4,
-     "deaths": 4,
-     "swing": 0.21,
-     "adr": 97.8,
-     "kast": 75.0,
-     "rating": 1.32
-    },
-    {
-     "player": 22106,
-     "nick": "AZUWU",
-     "kills": 2,
-     "deaths": 4,
-     "swing": -6.12,
-     "adr": 63.0,
-     "kast": 75.0,
-     "rating": 0.59
-    },
-    {
-     "player": 17145,
-     "nick": "Rainwaker",
-     "kills": 1,
-     "deaths": 4,
-     "swing": -7.72,
-     "adr": 26.8,
-     "kast": 25.0,
-     "rating": 0.25
-    },
-    {
-     "player": 19926,
-     "nick": "afro",
-     "kills": 0,
-     "deaths": 4,
-     "swing": -15.24,
-     "adr": 0.0,
-     "kast": 50.0,
-     "rating": 0.13
-    },
-    {
-     "player": 20994,
-     "nick": "FL4MUS",
-     "kills": 11,
-     "deaths": 5,
-     "swing": 6.01,
-     "adr": 103.8,
-     "kast": 100.0,
-     "rating": 1.65
-    },
-    {
-     "player": 23766,
-     "nick": "hypex",
-     "kills": 10,
-     "deaths": 3,
-     "swing": 8.35,
-     "adr": 74.8,
-     "kast": 91.7,
-     "rating": 1.54
-    },
-    {
-     "player": 2553,
-     "nick": "Snax",
-     "kills": 10,
-     "deaths": 8,
-     "swing": 0.95,
-     "adr": 83.1,
-     "kast": 66.7,
-     "rating": 1.16
-    },
-    {
-     "player": 9278,
-     "nick": "REZ",
-     "kills": 11,
-     "deaths": 6,
-     "swing": -1.02,
-     "adr": 91.9,
-     "kast": 83.3,
-     "rating": 1.09
-    },
-    {
-     "player": 20301,
-     "nick": "Tauson",
-     "kills": 8,
-     "deaths": 7,
-     "swing": -1.25,
-     "adr": 68.2,
-     "kast": 66.7,
-     "rating": 0.85
-    }
-   ],
-   "ct": [
-    {
      "player": 19926,
      "nick": "afro",
      "kills": 11,
@@ -353,6 +251,108 @@
      "adr": 41.5,
      "kast": 75.0,
      "rating": 0.77
+    }
+   ],
+   "ct": [
+    {
+     "player": 20563,
+     "nick": "lux",
+     "kills": 4,
+     "deaths": 4,
+     "swing": -11.11,
+     "adr": 120.0,
+     "kast": 75.0,
+     "rating": 1.44
+    },
+    {
+     "player": 19015,
+     "nick": "Bymas",
+     "kills": 4,
+     "deaths": 4,
+     "swing": 0.21,
+     "adr": 97.8,
+     "kast": 75.0,
+     "rating": 1.32
+    },
+    {
+     "player": 22106,
+     "nick": "AZUWU",
+     "kills": 2,
+     "deaths": 4,
+     "swing": -6.12,
+     "adr": 63.0,
+     "kast": 75.0,
+     "rating": 0.59
+    },
+    {
+     "player": 17145,
+     "nick": "Rainwaker",
+     "kills": 1,
+     "deaths": 4,
+     "swing": -7.72,
+     "adr": 26.8,
+     "kast": 25.0,
+     "rating": 0.25
+    },
+    {
+     "player": 19926,
+     "nick": "afro",
+     "kills": 0,
+     "deaths": 4,
+     "swing": -15.24,
+     "adr": 0.0,
+     "kast": 50.0,
+     "rating": 0.13
+    },
+    {
+     "player": 20994,
+     "nick": "FL4MUS",
+     "kills": 11,
+     "deaths": 5,
+     "swing": 6.01,
+     "adr": 103.8,
+     "kast": 100.0,
+     "rating": 1.65
+    },
+    {
+     "player": 23766,
+     "nick": "hypex",
+     "kills": 10,
+     "deaths": 3,
+     "swing": 8.35,
+     "adr": 74.8,
+     "kast": 91.7,
+     "rating": 1.54
+    },
+    {
+     "player": 2553,
+     "nick": "Snax",
+     "kills": 10,
+     "deaths": 8,
+     "swing": 0.95,
+     "adr": 83.1,
+     "kast": 66.7,
+     "rating": 1.16
+    },
+    {
+     "player": 9278,
+     "nick": "REZ",
+     "kills": 11,
+     "deaths": 6,
+     "swing": -1.02,
+     "adr": 91.9,
+     "kast": 83.3,
+     "rating": 1.09
+    },
+    {
+     "player": 20301,
+     "nick": "Tauson",
+     "kills": 8,
+     "deaths": 7,
+     "swing": -1.25,
+     "adr": 68.2,
+     "kast": 66.7,
+     "rating": 0.85
     }
    ]
   },
@@ -461,108 +461,6 @@
    ],
    "t": [
     {
-     "player": 20563,
-     "nick": "lux",
-     "kills": 4,
-     "deaths": 4,
-     "swing": -11.11,
-     "adr": 120.0,
-     "kast": 75.0,
-     "rating": 1.44
-    },
-    {
-     "player": 19015,
-     "nick": "Bymas",
-     "kills": 4,
-     "deaths": 4,
-     "swing": 0.21,
-     "adr": 97.8,
-     "kast": 75.0,
-     "rating": 1.32
-    },
-    {
-     "player": 22106,
-     "nick": "AZUWU",
-     "kills": 2,
-     "deaths": 4,
-     "swing": -6.12,
-     "adr": 63.0,
-     "kast": 75.0,
-     "rating": 0.59
-    },
-    {
-     "player": 17145,
-     "nick": "Rainwaker",
-     "kills": 1,
-     "deaths": 4,
-     "swing": -7.72,
-     "adr": 26.8,
-     "kast": 25.0,
-     "rating": 0.25
-    },
-    {
-     "player": 19926,
-     "nick": "afro",
-     "kills": 0,
-     "deaths": 4,
-     "swing": -15.24,
-     "adr": 0.0,
-     "kast": 50.0,
-     "rating": 0.13
-    },
-    {
-     "player": 20994,
-     "nick": "FL4MUS",
-     "kills": 11,
-     "deaths": 5,
-     "swing": 6.01,
-     "adr": 103.8,
-     "kast": 100.0,
-     "rating": 1.65
-    },
-    {
-     "player": 23766,
-     "nick": "hypex",
-     "kills": 10,
-     "deaths": 3,
-     "swing": 8.35,
-     "adr": 74.8,
-     "kast": 91.7,
-     "rating": 1.54
-    },
-    {
-     "player": 2553,
-     "nick": "Snax",
-     "kills": 10,
-     "deaths": 8,
-     "swing": 0.95,
-     "adr": 83.1,
-     "kast": 66.7,
-     "rating": 1.16
-    },
-    {
-     "player": 9278,
-     "nick": "REZ",
-     "kills": 11,
-     "deaths": 6,
-     "swing": -1.02,
-     "adr": 91.9,
-     "kast": 83.3,
-     "rating": 1.09
-    },
-    {
-     "player": 20301,
-     "nick": "Tauson",
-     "kills": 8,
-     "deaths": 7,
-     "swing": -1.25,
-     "adr": 68.2,
-     "kast": 66.7,
-     "rating": 0.85
-    }
-   ],
-   "ct": [
-    {
      "player": 19926,
      "nick": "afro",
      "kills": 11,
@@ -662,6 +560,108 @@
      "kast": 75.0,
      "rating": 0.77
     }
+   ],
+   "ct": [
+    {
+     "player": 20563,
+     "nick": "lux",
+     "kills": 4,
+     "deaths": 4,
+     "swing": -11.11,
+     "adr": 120.0,
+     "kast": 75.0,
+     "rating": 1.44
+    },
+    {
+     "player": 19015,
+     "nick": "Bymas",
+     "kills": 4,
+     "deaths": 4,
+     "swing": 0.21,
+     "adr": 97.8,
+     "kast": 75.0,
+     "rating": 1.32
+    },
+    {
+     "player": 22106,
+     "nick": "AZUWU",
+     "kills": 2,
+     "deaths": 4,
+     "swing": -6.12,
+     "adr": 63.0,
+     "kast": 75.0,
+     "rating": 0.59
+    },
+    {
+     "player": 17145,
+     "nick": "Rainwaker",
+     "kills": 1,
+     "deaths": 4,
+     "swing": -7.72,
+     "adr": 26.8,
+     "kast": 25.0,
+     "rating": 0.25
+    },
+    {
+     "player": 19926,
+     "nick": "afro",
+     "kills": 0,
+     "deaths": 4,
+     "swing": -15.24,
+     "adr": 0.0,
+     "kast": 50.0,
+     "rating": 0.13
+    },
+    {
+     "player": 20994,
+     "nick": "FL4MUS",
+     "kills": 11,
+     "deaths": 5,
+     "swing": 6.01,
+     "adr": 103.8,
+     "kast": 100.0,
+     "rating": 1.65
+    },
+    {
+     "player": 23766,
+     "nick": "hypex",
+     "kills": 10,
+     "deaths": 3,
+     "swing": 8.35,
+     "adr": 74.8,
+     "kast": 91.7,
+     "rating": 1.54
+    },
+    {
+     "player": 2553,
+     "nick": "Snax",
+     "kills": 10,
+     "deaths": 8,
+     "swing": 0.95,
+     "adr": 83.1,
+     "kast": 66.7,
+     "rating": 1.16
+    },
+    {
+     "player": 9278,
+     "nick": "REZ",
+     "kills": 11,
+     "deaths": 6,
+     "swing": -1.02,
+     "adr": 91.9,
+     "kast": 83.3,
+     "rating": 1.09
+    },
+    {
+     "player": 20301,
+     "nick": "Tauson",
+     "kills": 8,
+     "deaths": 7,
+     "swing": -1.25,
+     "adr": 68.2,
+     "kast": 66.7,
+     "rating": 0.85
+    }
    ]
   }
  },
@@ -676,5 +676,12 @@
   "swing": 7.51,
   "adr": 113.7,
   "rating": 1.89
- }
+ },
+ "h2h": {
+  "team1Wins": 0,
+  "overtimes": 0,
+  "team2Wins": 0,
+  "maps": []
+ },
+ "demo": "https://www.hltv.org/download/demo/110210"
 }

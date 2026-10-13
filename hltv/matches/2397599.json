@@ -1,18 +1,18 @@
 {
  "id": 2397599,
  "eventId": 8266,
- "stage": "Group A",
- "time": "2026-09-08T21:45:00+08:00",
+ "stage": "Group A Upper Bracket Quarter-final",
+ "time": "2026-09-08T13:45:00Z",
  "bo": 3,
  "status": "finished",
  "team1": {
   "id": 5995,
   "score": 1,
   "players": [
-   9436,
-   3972,
-   21062,
    20425,
+   21062,
+   3972,
+   9436,
    20447
   ]
  },
@@ -20,10 +20,10 @@
   "id": 6665,
   "score": 2,
   "players": [
-   17956,
-   20304,
    16726,
    10096,
+   17956,
+   20304,
    21217
   ]
  },
@@ -61,10 +61,6 @@
     [
      3,
      9
-    ],
-    [
-     7,
-     5
     ]
    ]
   },
@@ -1321,17 +1317,27 @@
    ]
   }
  },
- "mvp": 17956,
- "highlight": null,
+ "mvp": {
+  "player": 17956,
+  "nick": "jabbi",
+  "maps": 3,
+  "kpr": 0.87,
+  "dpr": 0.62,
+  "kast": 78.9,
+  "mkRating": 0.96,
+  "swing": 2.19,
+  "adr": 90.0,
+  "rating": 1.35
+ },
  "h2h": {
   "team1Wins": 4,
-  "team2Wins": 1,
   "overtimes": 0,
+  "team2Wins": 1,
   "maps": [
    {
-    "date": "2026-08-20",
+    "date": "2026-08-19",
     "matchId": 2396599,
-    "eventId": null,
+    "eventId": 8261,
     "event": "Esports World Cup 2026",
     "map": "de_inferno",
     "score": [
@@ -1341,9 +1347,9 @@
     "winner": 5995
    },
    {
-    "date": "2026-08-20",
+    "date": "2026-08-19",
     "matchId": 2396599,
-    "eventId": null,
+    "eventId": 8261,
     "event": "Esports World Cup 2026",
     "map": "de_dust2",
     "score": [
@@ -1353,9 +1359,9 @@
     "winner": 5995
    },
    {
-    "date": "2026-08-20",
+    "date": "2026-08-19",
     "matchId": 2396599,
-    "eventId": null,
+    "eventId": 8261,
     "event": "Esports World Cup 2026",
     "map": "de_ancient",
     "score": [
@@ -1365,9 +1371,9 @@
     "winner": 6665
    },
    {
-    "date": "2026-04-30",
+    "date": "2026-04-29",
     "matchId": 2393320,
-    "eventId": null,
+    "eventId": 8250,
     "event": "BLAST Rivals 2026 Season 1",
     "map": "de_overpass",
     "score": [
@@ -1377,9 +1383,9 @@
     "winner": 5995
    },
    {
-    "date": "2026-04-30",
+    "date": "2026-04-29",
     "matchId": 2393320,
-    "eventId": null,
+    "eventId": 8250,
     "event": "BLAST Rivals 2026 Season 1",
     "map": "de_dust2",
     "score": [
@@ -1389,5 +1395,6 @@
     "winner": 5995
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/111157"
 }

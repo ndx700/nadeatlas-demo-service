@@ -1,30 +1,30 @@
 {
  "id": 2398746,
  "eventId": 8244,
- "stage": null,
- "time": "2026-10-07T01:00:00+08:00",
+ "stage": "Swiss Round 4",
+ "time": "2026-10-06T17:00:00Z",
  "bo": 3,
  "status": "finished",
  "team1": {
   "id": 12468,
   "score": 1,
   "players": [
-   19045,
-   15698,
    19686,
-   19869,
-   17215
+   15698,
+   17215,
+   19045,
+   19869
   ]
  },
  "team2": {
   "id": 12376,
   "score": 2,
   "players": [
-   20104,
-   15370,
-   22921,
    16599,
-   21665
+   21665,
+   22921,
+   15370,
+   20104
   ]
  },
  "maps": [
@@ -1317,17 +1317,27 @@
    ]
   }
  },
- "mvp": 20104,
- "highlight": null,
+ "mvp": {
+  "player": 20104,
+  "nick": "s1n",
+  "maps": 3,
+  "kpr": 0.92,
+  "dpr": 0.51,
+  "kast": 79.7,
+  "mkRating": 1.43,
+  "swing": 5.86,
+  "adr": 93.2,
+  "rating": 1.56
+ },
  "h2h": {
   "team1Wins": 4,
-  "team2Wins": 0,
   "overtimes": 1,
+  "team2Wins": 0,
   "maps": [
    {
-    "date": "2026-06-09",
+    "date": "2026-06-08",
     "matchId": 2394894,
-    "eventId": null,
+    "eventId": 9029,
     "event": "IEM Cologne Major 2026 Stage 2",
     "map": "de_inferno",
     "score": [
@@ -1337,9 +1347,9 @@
     "winner": 12468
    },
    {
-    "date": "2026-06-09",
+    "date": "2026-06-08",
     "matchId": 2394894,
-    "eventId": null,
+    "eventId": 9029,
     "event": "IEM Cologne Major 2026 Stage 2",
     "map": "de_dust2",
     "score": [
@@ -1351,7 +1361,7 @@
    {
     "date": "2026-05-12",
     "matchId": 2394114,
-    "eventId": null,
+    "eventId": 8243,
     "event": "IEM Atlanta 2026",
     "map": "de_mirage",
     "score": [
@@ -1363,7 +1373,7 @@
    {
     "date": "2026-05-12",
     "matchId": 2394114,
-    "eventId": null,
+    "eventId": 8243,
     "event": "IEM Atlanta 2026",
     "map": "de_inferno",
     "score": [
@@ -1373,5 +1383,6 @@
     "winner": 12468
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/112435"
 }
