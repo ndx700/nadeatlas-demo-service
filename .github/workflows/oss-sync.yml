@@ -8,6 +8,9 @@ on:
       max_gb:
         description: "GB to upload at most in this run"
         default: "20"
+      kinds:
+        description: "What to send: replays, dem, series (comma-separated)"
+        default: "replays"
   schedule:
     - cron: "17 */2 * * *"
   push:
@@ -34,6 +37,8 @@ jobs:
           ALIYUN_OSS_AK_SECRET: ${{ secrets.ALIYUN_OSS_AK_SECRET }}
           GH_TOKEN: ${{ github.token }}
           OSS_MAX_GB: ${{ inputs.max_gb || '20' }}
+          OSS_KINDS: ${{ inputs.kinds || vars.OSS_KINDS || 'replays' }}
+          OSS_ENDPOINT: ${{ vars.OSS_ENDPOINT }}
           OSS_MAX_MINUTES: "300"
         run: python3 scripts/oss_sync.py
       - name: Publish oss.json

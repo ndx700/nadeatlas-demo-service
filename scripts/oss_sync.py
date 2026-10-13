@@ -10,8 +10,10 @@ Then oss.json in this repository lists what is there, so the demo site (site/ind
 first and to the original only when there is none:
   {"base": "https://nadeatlas-demo.oss-cn-shanghai.aliyuncs.com/", "files": {key: size}, "series": {hltv id: key}}
 
-Env: ALIYUN_OSS_AK_ID, ALIYUN_OSS_AK_SECRET; GH_TOKEN (release listing); OSS_MAX_GB (default 20) per run.
-Files are streamed through one temporary file at a time, so the runner's disk only holds one demo.
+Env: ALIYUN_OSS_AK_ID, ALIYUN_OSS_AK_SECRET; GH_TOKEN (release listing); OSS_MAX_GB (default 20) per run;
+OSS_KINDS (default "replays": which of replays, dem, series to send); OSS_ENDPOINT (the transfer acceleration
+endpoint https://oss-accelerate.aliyuncs.com once it is turned on for the bucket). A GitHub runner reaches Shanghai
+at only ~100 KB/s, so files go up OSS_JOBS (default 8) at a time, each through its own temporary file.
 """
 import json, os, re, sys, tempfile, time, urllib.request
 from pathlib import Path
@@ -19,7 +21,10 @@ import oss2
 
 ROOT = Path(__file__).resolve().parents[1]
 REPO = os.environ.get("GITHUB_REPOSITORY", "ndx700/nadeatlas-demo-service")
-BUCKET, ENDPOINT = "nadeatlas-demo", "https://oss-cn-shanghai.aliyuncs.com"
+BUCKET = "nadeatlas-demo"
+ENDPOINT = os.environ.get("OSS_ENDPOINT") or "https://oss-cn-shanghai.aliyuncs.com"
+KINDS = set(os.environ.get("OSS_KINDS", "replays").split(","))
+JOBS = int(os.environ.get("OSS_JOBS", "8"))
 BASE = f"https://{BUCKET}.oss-cn-shanghai.aliyuncs.com/"
 OUT = ROOT / "oss.json"
 MAX_BYTES = int(float(os.environ.get("OSS_MAX_GB", "20")) * (1 << 30))
@@ -84,12 +89,19 @@ def main():
     # Newest first: replays (small, what the app and site use most), then single maps, then whole series.
     order = {"replays": 0, "dem": 1, "series": 2}
     items.sort(key=lambda x: order[x[0].split("/")[0]])
-    sent, sent_bytes, skipped = 0, 0, 0
+    todo, budget = [], 0
     for key, url, size, _ in items:
-        if key in have and (size is None or have[key] == size):
+        if key.split("/")[0] not in KINDS or (key in have and (size is None or have[key] == size)):
             continue
-        if sent_bytes >= MAX_BYTES or time.time() > DEADLINE:
-            skipped += 1; continue
+        if budget >= MAX_BYTES: break
+        todo.append((key, url, size)); budget += size or 0
+    import threading
+    from concurrent.futures import ThreadPoolExecutor
+    lock = threading.Lock(); stats = [0, 0]
+
+    def one(job):
+        key, url, size = job
+        if time.time() > DEADLINE: return
         try:
             with tempfile.NamedTemporaryFile(dir=os.environ.get("RUNNER_TEMP"), delete=True) as tmp:
                 with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=600) as r:
@@ -100,17 +112,23 @@ def main():
                 tmp.flush()
                 n = os.path.getsize(tmp.name)
                 if size and n != size:
-                    print(f"::warning::{key}: got {n} bytes, expected {size}; skipped"); continue
-                oss2.resumable_upload(bucket, key, tmp.name, part_size=64 << 20, num_threads=4)
-                have[key] = n; sent += 1; sent_bytes += n
+                    print(f"::warning::{key}: got {n} bytes, expected {size}; skipped"); return
+                oss2.resumable_upload(bucket, key, tmp.name, part_size=16 << 20, num_threads=4,
+                                      store=oss2.ResumableStore(root=os.environ.get("RUNNER_TEMP", "/tmp")))
+                with lock:
+                    have[key] = n; stats[0] += 1; stats[1] += n
                 print(f"up {key} {n >> 20} MB", flush=True)
         except Exception as ex:
             print(f"::warning::{key}: {ex}")
+
+    with ThreadPoolExecutor(JOBS) as pool:
+        list(pool.map(one, todo))
+    sent, sent_bytes = stats
     keys = {k for k, _, _, _ in items}
     series = {hid: key for key, _, _, hid in items if hid and key in have}
     data = {"base": BASE, "files": {k: have[k] for k in sorted(have) if k in keys}, "series": series}
     OUT.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")) + "\n", "utf-8")
-    left = sum(1 for k, _, s, _ in items if k not in have)
+    left = sum(1 for k, _, s, _ in items if k not in have and k.split("/")[0] in KINDS)
     print(f"::notice::OSS: sent {sent} files ({sent_bytes / (1 << 30):.1f} GB), {left} still to send, {len(data['files'])} on OSS")
 
 
