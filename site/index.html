@@ -1,0 +1,312 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>NadeAtlas 职业 Demo 库</title>
+<meta name="description" content="职业比赛 demo 下载，按回合筛选：战队、地图、阵营、经济、炸弹、武器、人数局面。">
+<style>
+:root{--bg:#0e1116;--panel:#161b22;--panel2:#1d232c;--line:#2a313c;--text:#e6e9ee;--muted:#8b95a3;--accent:#f0a020;--win:#3fb26b;--loss:#e5534b;--ct:#5aa9e6;--t:#e8b04a;--chip:#232a35}
+@media (prefers-color-scheme: light){:root:not([data-theme="dark"]){--bg:#f5f6f8;--panel:#fff;--panel2:#f0f2f5;--line:#dde1e7;--text:#1b1f24;--muted:#5f6b7a;--chip:#eef1f5}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:14px/1.5 -apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif}
+header{padding:18px 16px 8px;max-width:1100px;margin:0 auto}
+h1{font-size:20px;margin:0 0 4px}
+.sub{color:var(--muted);font-size:12px}
+main{max-width:1100px;margin:0 auto;padding:0 16px 40px}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px;margin:10px 0}
+.panel h2{font-size:13px;margin:0 0 8px;color:var(--muted);font-weight:600;letter-spacing:.5px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px}
+label{display:flex;flex-direction:column;gap:3px;font-size:12px;color:var(--muted)}
+select,input{background:var(--panel2);color:var(--text);border:1px solid var(--line);border-radius:8px;padding:7px 8px;font-size:14px;width:100%}
+button{background:var(--panel2);color:var(--text);border:1px solid var(--line);border-radius:8px;padding:7px 12px;font-size:13px;cursor:pointer}
+button.primary{background:var(--accent);border-color:var(--accent);color:#1b1300;font-weight:600}
+.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.adv{display:flex;flex-direction:column;gap:6px;margin-top:8px}
+.advitem{display:flex;gap:6px;flex-wrap:wrap;align-items:center;background:var(--panel2);border:1px solid var(--line);border-radius:8px;padding:6px}
+.advitem select{width:auto;flex:1 1 110px}
+.advitem .x{flex:0 0 auto;padding:4px 9px}
+.summary{display:flex;gap:16px;flex-wrap:wrap;align-items:baseline}
+.big{font-size:22px;font-weight:700}
+.match{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:10px 12px;margin:8px 0}
+.mhead{display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap}
+.teams{font-weight:600}
+.meta{color:var(--muted);font-size:12px}
+.links{display:flex;gap:6px;flex-wrap:wrap;margin-top:6px}
+.links a{font-size:12px;color:var(--text);text-decoration:none;background:var(--chip);border:1px solid var(--line);border-radius:999px;padding:3px 10px}
+.links a.dl{border-color:var(--accent);color:var(--accent)}
+.rounds{display:flex;flex-direction:column;gap:4px;margin-top:8px}
+.rd{display:flex;gap:6px;flex-wrap:wrap;align-items:center;font-size:12px;background:var(--panel2);border-radius:8px;padding:5px 8px;cursor:pointer}
+.tag{border-radius:6px;padding:1px 6px;background:var(--chip)}
+.w{color:var(--win)}.l{color:var(--loss)}.ct{color:var(--ct)}.tt{color:var(--t)}
+.detail{font-size:12px;color:var(--muted);padding:4px 8px 6px;display:none}
+.rd.open+.detail{display:block}
+.empty{color:var(--muted);text-align:center;padding:30px 0}
+.more{display:block;margin:12px auto}
+.note{font-size:12px;color:var(--muted)}
+</style>
+</head>
+<body>
+<header>
+  <h1>NadeAtlas 职业 Demo 库</h1>
+  <div class="sub" id="status">正在加载数据…</div>
+</header>
+<main>
+  <div class="panel">
+    <h2>战队与地图</h2>
+    <div class="grid">
+      <label>战队<select id="team"></select></label>
+      <label>对手（可选）<select id="opp"></select></label>
+      <label>地图<select id="map"></select></label>
+      <label>赛事<select id="event"></select></label>
+      <label>时间范围<select id="period">
+        <option value="0">全部</option><option value="7">最近 1 周</option><option value="14">最近 2 周</option>
+        <option value="31">最近 1 个月</option><option value="62">最近 2 个月</option></select></label>
+      <label>最近几场（该队）<select id="mlimit"><option value="0">不限</option><option>3</option><option>5</option><option>10</option><option>20</option></select></label>
+      <label>该地图最近几场<select id="maplimit"><option value="0">不限</option><option>3</option><option>5</option><option>10</option></select></label>
+      <label>选手（可选）<input id="player" placeholder="昵称，如 ZywOo"></label>
+    </div>
+  </div>
+  <div class="panel">
+    <h2>回合（需先选战队）</h2>
+    <div class="grid">
+      <label>阵营<select id="side"><option value="">全部</option><option value="ct">CT</option><option value="t">T</option></select></label>
+      <label>回合结果<select id="outcome"><option value="">全部</option><option value="w">赢</option><option value="l">输</option></select></label>
+      <label>本方经济<select id="mybuy"></select></label>
+      <label>对方经济<select id="oppbuy"></select></label>
+      <label>输赢方式<select id="why"><option value="">全部</option><option value="k">全歼</option><option value="e">炸弹爆炸</option><option value="d">拆包</option><option value="t">时间到</option></select></label>
+    </div>
+    <div class="adv" id="adv"></div>
+    <div class="row" style="margin-top:8px">
+      <select id="addadv" style="width:auto">
+        <option value="">＋ 高级筛选…</option>
+        <option value="bomb">炸弹事件</option>
+        <option value="weapon">武器（有 / 没有）</option>
+        <option value="awp2">双 AWP</option>
+        <option value="sit">局面（5v4、4v5、1vX…）</option>
+        <option value="pistol">手枪局之后</option>
+        <option value="first">首杀（人数优势 / 劣势）</option>
+      </select>
+      <button id="reset">重置</button>
+    </div>
+  </div>
+  <div class="panel summary" id="summary"></div>
+  <div id="list"></div>
+  <button class="more" id="more" hidden>加载更多</button>
+  <p class="note">标“国内”的链接走阿里云上海，不用梯子；原始 demo 是单张地图的 .dem 文件（几百 MB）；NadeAtlas 录像是 App 的解析格式（.nar，小很多），可在 App 里回放。HLTV 链接需要能访问 HLTV。</p>
+</main>
+<script>
+(function(){
+'use strict';
+var ROOTS=['../','https://cdn.jsdelivr.net/gh/ndx700/nadeatlas-demo-service@main/','https://raw.githubusercontent.com/ndx700/nadeatlas-demo-service/main/'];
+var BUY=['手枪局','Eco','半起','全枪'];
+var WEAPONS={1:'P2000',2:'Glock',3:'P250',4:'Deagle',5:'Five-SeveN',6:'双枪',7:'Tec-9',8:'CZ75',9:'USP',10:'R8',21:'MP7',22:'MP9',23:'野牛',24:'MAC-10',25:'UMP',26:'P90',27:'MP5',41:'截短',42:'Nova',43:'MAG-7',44:'XM1014',45:'M249',46:'Negev',61:'Galil',62:'FAMAS',63:'AK-47',64:'M4A4',65:'M4A1-S',66:'SSG08',67:'SG553',68:'AUG',69:'AWP',70:'SCAR-20',71:'G3SG1'};
+var MAPNAME={de_dust2:'Dust2',de_mirage:'Mirage',de_inferno:'Inferno',de_nuke:'Nuke',de_ancient:'Ancient',de_anubis:'Anubis',de_cache:'Cache',de_overpass:'Overpass',de_train:'Train',de_vertigo:'Vertigo'};
+var WHY={k:'全歼',e:'炸弹爆炸',d:'拆包',t:'时间到',s:'投降'};
+var $=function(id){return document.getElementById(id)};
+var M=[],FILES={},DEMOS={},OSS={base:'',files:{},series:{}},base='',shown=40,adv=[];
+
+function load(path){
+  var i=0;
+  return new Promise(function(ok,no){
+    (function next(){
+      if(i>=ROOTS.length){no(new Error(path));return}
+      var root=ROOTS[i++];
+      fetch(root+path,{cache:'no-cache'}).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(j){if(!base)base=root;ok(j)}).catch(next);
+    })();
+  });
+}
+function opt(sel,list,all){sel.innerHTML='';if(all!==undefined){var o=document.createElement('option');o.value='';o.textContent=all;sel.appendChild(o)}
+  list.forEach(function(x){var o=document.createElement('option');if(Array.isArray(x)){o.value=x[0];o.textContent=x[1]}else{o.value=x;o.textContent=x}sel.appendChild(o)})}
+function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+function mb(n){return n?(n/1048576).toFixed(0)+' MB':''}
+function hltvId(id){var m=/^hltv-(\d+)-m(\d+)/.exec(id||'');return m?{match:+m[1],map:+m[2]}:null}
+function oss(key){return OSS.base&&OSS.files[key]?OSS.base+key:''}
+function local(url){
+  // Our replays are mirrored on the relay next to this page: use the copy when the page itself is served from there.
+  var m=/github\.com\/ndx700\/nadeatlas-demo-service\/releases\/download\/([^/]+)\/(.+)$/.exec(url||'');
+  if(m&&base==='../'&&/\/ds\//.test(location.pathname))return '../releases/'+m[1]+'/'+m[2];
+  return url;
+}
+
+// ---------------------------------------------------------------- per round, from one team's side
+function persp(m,r,team){
+  var me=team?(m.t1===team?1:m.t2===team?2:0):1;
+  if(!me)return null;
+  var known=r.ct===1||r.ct===2;
+  var mySide=known?(r.ct===me?0:1):-1; // index into CT-first pairs
+  var won=known?((r.w===3&&mySide===0)||(r.w===2&&mySide===1)):null;
+  var al=[],s=r.al||'';
+  for(var i=0;i+1<s.length;i+=2){var a=+s[i],b=+s[i+1];al.push(mySide===1?[b,a]:[a,b])}
+  return {me:me,side:mySide,won:won,
+    myBuy:mySide<0?null:r.buy[mySide],oppBuy:mySide<0?null:r.buy[1-mySide],
+    myEq:mySide<0?[]:(r.eq[mySide]||[]),oppEq:mySide<0?[]:(r.eq[1-mySide]||[]),al:al};
+}
+function pistolWon(m,n,team){
+  var p=m.rounds.filter(function(x){return x.n===n})[0];if(!p)return null;
+  var q=persp(m,p,team);return q?q.won:null;
+}
+function advOk(a,m,r,p,team){
+  switch(a.type){
+  case 'bomb':
+    var b=r.b;
+    if(a.v==='none')return !b;
+    if(!b)return false;
+    if(a.v==='A'||a.v==='B')return b.site===a.v;
+    if(a.v==='e')return b.end==='e';
+    if(a.v==='d')return b.end==='d';
+    if(a.v==='Ae'||a.v==='Be')return b.site===a.v[0]&&b.end==='e';
+    return true;
+  case 'weapon':
+    var eq=a.who==='opp'?p.oppEq:p.myEq,has=eq.indexOf(+a.w)>=0;return a.has==='1'?has:!has;
+  case 'awp2':
+    var e2=a.who==='opp'?p.oppEq:p.myEq;return e2.filter(function(x){return x===69}).length>=2;
+  case 'sit':
+    var A=a.a==='X'?-1:+a.a,B=a.b==='X'?-1:+a.b;
+    return p.al.some(function(x){return (A<0||x[0]===A)&&(B<0||x[1]===B)});
+  case 'pistol':
+    var n=r.n,ref=n===2||n===3?1:n===14||n===15?13:0;if(!ref)return false;
+    if(a.v==='any')return true;var w=pistolWon(m,ref,team);return w===(a.v==='w');
+  case 'first':
+    if(p.al.length<2)return false;var f=p.al[1];var mine=f[1]<p.al[0][1];return a.v==='adv'?mine:!mine;
+  }
+  return true;
+}
+
+// ---------------------------------------------------------------- filtering
+function current(){
+  return {team:$('team').value,opp:$('opp').value,map:$('map').value,event:$('event').value,period:+$('period').value,
+    mlimit:+$('mlimit').value,maplimit:+$('maplimit').value,player:$('player').value.trim().toLowerCase(),
+    side:$('side').value,outcome:$('outcome').value,mybuy:$('mybuy').value,oppbuy:$('oppbuy').value,why:$('why').value};
+}
+function roundFilters(f){return !!(f.side||f.outcome||f.mybuy||f.oppbuy||f.why||adv.length)}
+function run(){
+  var f=current(),now=Date.now();
+  var ms=M.filter(function(m){
+    if(f.team&&m.t1!==f.team&&m.t2!==f.team)return false;
+    if(f.opp&&m.t1!==f.opp&&m.t2!==f.opp)return false;
+    if(f.event&&m.event!==f.event)return false;
+    if(f.period&&now-Date.parse(m.date)>f.period*864e5)return false;
+    if(f.player){var ps=(m.players||[]).join(' ').toLowerCase();if(ps.indexOf(f.player)<0)return false}
+    return true;
+  });
+  if(f.mlimit&&f.team){ // the team's last N series (all maps of them)
+    var series=[];ms.forEach(function(m){var k=(hltvId(m.id)||{}).match||m.id;if(series.indexOf(k)<0)series.push(k)});
+    var keep=series.slice(0,f.mlimit);ms=ms.filter(function(m){return keep.indexOf((hltvId(m.id)||{}).match||m.id)>=0});
+  }
+  if(f.map)ms=ms.filter(function(m){return m.map===f.map});
+  if(f.maplimit)ms=ms.slice(0,f.maplimit);
+  var useRounds=roundFilters(f),total=0,wins=0,known=0,out=[];
+  ms.forEach(function(m){
+    var hits=[];
+    if(useRounds){
+      m.rounds.forEach(function(r){
+        var p=persp(m,r,f.team);if(!p)return;
+        if((f.side||f.outcome||f.mybuy||f.oppbuy||adv.some(function(a){return a.type!=='bomb'}))&&p.side<0)return;
+        if(f.side&&(f.side==='ct')!==(p.side===0))return;
+        if(f.outcome&&(f.outcome==='w')!==p.won)return;
+        if(f.mybuy&&String(p.myBuy)!==f.mybuy)return;
+        if(f.oppbuy&&String(p.oppBuy)!==f.oppbuy)return;
+        if(f.why&&r.why!==f.why)return;
+        for(var i=0;i<adv.length;i++)if(!advOk(adv[i],m,r,p,f.team))return;
+        hits.push([r,p]);total++;if(p.won!==null){known++;if(p.won)wins++}
+      });
+      if(hits.length)out.push([m,hits]);
+    }else out.push([m,null]);
+  });
+  var s='';
+  if(useRounds){
+    s='<div><div class="big">'+total+'</div><div class="meta">个回合</div></div>'+
+      '<div><div class="big">'+out.length+'</div><div class="meta">张图</div></div>'+
+      (f.team&&known?'<div><div class="big">'+Math.round(wins*100/known)+'%</div><div class="meta">'+esc(f.team)+' 胜率（'+wins+'/'+known+'）</div></div>':'');
+  }else{
+    var size=out.reduce(function(a,x){return a+((FILES[x[0].id]||{}).size||0)},0);
+    s='<div><div class="big">'+out.length+'</div><div class="meta">张图的 demo</div></div><div><div class="big">'+(size/1073741824).toFixed(1)+' GB</div><div class="meta">原始 demo 合计</div></div>';
+  }
+  $('summary').innerHTML=s;
+  render(out,f);
+}
+function rdLine(m,r,p,team){
+  var side=p.side===0?'<span class="tag ct">CT</span>':p.side===1?'<span class="tag tt">T</span>':'';
+  var res=p.won===null?'':p.won?'<span class="w">赢</span>':'<span class="l">输</span>';
+  var buy=p.side<0?'':'<span class="tag">'+BUY[p.myBuy]+' vs '+BUY[p.oppBuy]+'</span>';
+  var bomb=r.b?'<span class="tag">'+esc(r.b.site||'?')+' 包点'+(r.b.end==='e'?'爆炸':r.b.end==='d'?'被拆':'下包')+'</span>':'';
+  var sc=r.s?(r.s[0]+':'+r.s[1]):'';
+  var head='<div class="rd"><b>R'+r.n+'</b>'+side+res+buy+bomb+'<span class="meta">'+sc+' · '+(WHY[r.why]||'')+(r.t?' · '+r.t+' 秒':'')+'</span></div>';
+  var names=function(a){return a.map(function(c){return WEAPONS[c]||c}).join('、')||'—'};
+  var tl=p.al.map(function(x){return x[0]+'v'+x[1]}).join(' → ');
+  var det='<div class="detail">本方：'+names(p.myEq)+'<br>对方：'+names(p.oppEq)+'<br>经济 $'+(p.side<0?'':r.val[p.side]+' vs $'+r.val[1-p.side])+'<br>人数：'+tl+
+    (r.b?'<br>炸弹：'+esc(r.b.by||'')+' 在 '+esc(r.b.site)+' 点 '+r.b.at+' 秒下包'+(r.b.def?'，'+esc(r.b.def)+' 拆除':''):'')+(r.atk?'<br>进攻：'+esc(typeof r.atk==='string'?r.atk:JSON.stringify(r.atk)):'')+'</div>';
+  return head+det;
+}
+function render(out,f){
+  var html='';
+  out.slice(0,shown).forEach(function(x){
+    var m=x[0],file=FILES[m.id]||{},h=hltvId(m.id);
+    var links='';
+    var dem=oss('dem/'+m.id+'.dem'),nar=m.replay?oss('replays/'+m.replay.split('/').pop()):'';
+    if(dem)links+='<a class="dl" href="'+esc(dem)+'" rel="noopener">原始 demo '+mb(file.size)+'（国内）</a>';
+    if(file.url)links+='<a'+(dem?'':' class="dl"')+' href="'+esc(file.url)+'" rel="noopener">原始 demo'+(dem?'（海外）':' '+mb(file.size))+'</a>';
+    if(nar)links+='<a href="'+esc(nar)+'" rel="noopener">NadeAtlas 录像 '+mb(file.replaySize)+'（国内）</a>';
+    else if(m.replay)links+='<a href="'+esc(local(m.replay))+'" rel="noopener">NadeAtlas 录像 '+mb(file.replaySize)+'</a>';
+    if(h){
+      var d=DEMOS[h.match],ser=OSS.series[h.match];
+      if(ser)links+='<a class="dl" href="'+esc(OSS.base+ser)+'" rel="noopener">整场 demo 压缩包（国内）</a>';
+      if(d)links+='<a href="'+esc(d)+'" rel="noopener">HLTV 整场 demo</a>';
+      links+='<a href="https://www.hltv.org/matches/'+h.match+'/x" rel="noopener">HLTV 比赛页</a>';
+    }
+    html+='<div class="match"><div class="mhead"><div class="teams">'+esc(m.t1)+' <span class="meta">vs</span> '+esc(m.t2)+
+      ' <span class="tag">'+esc(MAPNAME[m.map]||m.map)+'</span> '+esc(file.score||'')+'</div><div class="meta">'+esc(m.date)+' · '+esc(m.event)+'</div></div>'+
+      '<div class="links">'+links+'</div>';
+    if(x[1]){html+='<div class="rounds">';x[1].forEach(function(rp){html+=rdLine(m,rp[0],rp[1],f.team)});html+='</div>'}
+    html+='</div>';
+  });
+  $('list').innerHTML=html||'<div class="empty">没有符合条件的回合</div>';
+  $('more').hidden=out.length<=shown;
+}
+
+// ---------------------------------------------------------------- advanced filter rows
+function advRow(a){
+  var d=document.createElement('div');d.className='advitem';
+  function sel(key,opts){var s=document.createElement('select');opts.forEach(function(o){var e=document.createElement('option');e.value=o[0];e.textContent=o[1];s.appendChild(e)});
+    if(a[key]===undefined)a[key]=opts[0][0];s.value=a[key];s.onchange=function(){a[key]=s.value;shown=40;run()};d.appendChild(s)}
+  var lab=document.createElement('span');lab.className='meta';d.appendChild(lab);
+  if(a.type==='bomb'){lab.textContent='炸弹';sel('v',[['A','在 A 下包'],['B','在 B 下包'],['any','下了包'],['e','爆炸'],['d','被拆'],['Ae','A 点爆炸'],['Be','B 点爆炸'],['none','没下包']])}
+  if(a.type==='weapon'){lab.textContent='武器';sel('who',[['me','本方'],['opp','对方']]);sel('has',[['1','有'],['0','没有']]);
+    sel('w',[69,63,64,65,62,61,68,67,66,26,22,24,21,25,23,27,44,43,42,4,3,7,8,5,10].map(function(c){return [String(c),WEAPONS[c]]}))}
+  if(a.type==='awp2'){lab.textContent='双 AWP';sel('who',[['me','本方'],['opp','对方']])}
+  if(a.type==='sit'){lab.textContent='出现过局面（本方 v 对方）';var n=[['X','X'],['5','5'],['4','4'],['3','3'],['2','2'],['1','1'],['0','0']];sel('a',n.slice(1).concat([['X','X']]));sel('b',n)}
+  if(a.type==='pistol'){lab.textContent='手枪局之后的两回合';sel('v',[['any','不论输赢'],['w','手枪局赢了'],['l','手枪局输了']])}
+  if(a.type==='first'){lab.textContent='首杀';sel('v',[['adv','本方拿到（人数优势）'],['dis','对方拿到（人数劣势）']])}
+  var x=document.createElement('button');x.className='x';x.textContent='×';x.onclick=function(){adv.splice(adv.indexOf(a),1);d.remove();shown=40;run()};d.appendChild(x);
+  $('adv').appendChild(d);
+}
+
+// ---------------------------------------------------------------- start
+Promise.all([load('rounds/all.json'),load('index-all-maps.json').catch(function(){return []}),load('hltv/demos.json').catch(function(){return {}}),load('oss.json').catch(function(){return null})]).then(function(r){
+  if(r[3]&&r[3].base)OSS={base:r[3].base,files:r[3].files||{},series:r[3].series||{}};
+  M=(r[0].matches||[]).slice().sort(function(a,b){return a.date<b.date?1:a.date>b.date?-1:0});
+  (Array.isArray(r[1])?r[1]:[]).forEach(function(e){if(e.matchId)FILES[e.matchId]=e});
+  DEMOS=r[2].demos||{};var PL=r[2].players||{};
+  M.forEach(function(m){var h=hltvId(m.id);if(h&&PL[h.match])m.players=PL[h.match]});
+  var teams={},maps={},events={};
+  M.forEach(function(m){teams[m.t1]=1;teams[m.t2]=1;maps[m.map]=1;events[m.event]=1});
+  var tl=Object.keys(teams).sort(function(a,b){return a.toLowerCase()<b.toLowerCase()?-1:1});
+  opt($('team'),tl,'全部战队');opt($('opp'),tl,'任意对手');
+  opt($('map'),Object.keys(maps).sort().map(function(k){return [k,MAPNAME[k]||k]}),'全部地图');
+  opt($('event'),Object.keys(events).sort(),'全部赛事');
+  var b=[['','全部']].concat(BUY.map(function(x,i){return [String(i),x]}));opt($('mybuy'),b);opt($('oppbuy'),b);
+  var rounds=M.reduce(function(a,m){return a+m.rounds.length},0);
+  $('status').textContent=M.length+' 张图 · '+rounds+' 个回合 · 更新于 '+(r[0].updated||'').replace('T',' ').slice(0,16)+' UTC';
+  ['team','opp','map','event','period','mlimit','maplimit','side','outcome','mybuy','oppbuy','why'].forEach(function(id){$(id).onchange=function(){shown=40;run()}});
+  $('player').oninput=function(){shown=40;run()};
+  $('addadv').onchange=function(){var t=this.value;this.value='';if(!t)return;var a={type:t};adv.push(a);advRow(a);shown=40;run()};
+  $('reset').onclick=function(){document.querySelectorAll('select').forEach(function(s){s.selectedIndex=0});$('player').value='';adv=[];$('adv').innerHTML='';shown=40;run()};
+  $('more').onclick=function(){shown+=40;run()};
+  $('list').onclick=function(e){var rd=e.target.closest('.rd');if(rd)rd.classList.toggle('open')};
+  run();
+}).catch(function(e){$('status').textContent='数据加载失败：'+e.message});
+})();
+</script>
+</body>
+</html>

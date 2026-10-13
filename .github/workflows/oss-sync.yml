@@ -1,0 +1,47 @@
+name: OSS sync
+
+# Copies demos, parsed replays and HLTV series to the Aliyun OSS bucket (China mirror) and publishes oss.json,
+# the list the demo site links to. Each file goes up once. See scripts/oss_sync.py.
+on:
+  workflow_dispatch:
+    inputs:
+      max_gb:
+        description: "GB to upload at most in this run"
+        default: "20"
+  schedule:
+    - cron: "17 */2 * * *"
+  push:
+    branches: [main]
+    paths: ["scripts/oss_sync.py", ".github/workflows/oss-sync.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: oss-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install oss2
+      - name: Upload what is missing
+        env:
+          ALIYUN_OSS_AK_ID: ${{ secrets.ALIYUN_OSS_AK_ID }}
+          ALIYUN_OSS_AK_SECRET: ${{ secrets.ALIYUN_OSS_AK_SECRET }}
+          GH_TOKEN: ${{ github.token }}
+          OSS_MAX_GB: ${{ inputs.max_gb || '20' }}
+          OSS_MAX_MINUTES: "300"
+        run: python3 scripts/oss_sync.py
+      - name: Publish oss.json
+        if: always()
+        run: |
+          git add oss.json 2>/dev/null || exit 0
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "nadeatlas-demo-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git commit -m "OSS mirror list"
+          for i in 1 2 3; do git pull --rebase -X theirs && git push && exit 0; sleep 5; done
