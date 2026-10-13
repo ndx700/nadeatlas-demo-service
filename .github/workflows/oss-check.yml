@@ -1,0 +1,42 @@
+name: OSS check
+
+# Checks the Aliyun OSS mirror (bucket nadeatlas-demo, cn-shanghai): the secrets are there, a small file can be
+# uploaded, and it can be read back without credentials (public read). Prints which step failed.
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/oss-check.yml"]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - run: pip install oss2
+      - env:
+          AK_ID: ${{ secrets.ALIYUN_OSS_AK_ID }}
+          AK_SECRET: ${{ secrets.ALIYUN_OSS_AK_SECRET }}
+        shell: python
+        run: |
+          import os, sys, time, urllib.request, oss2
+          if not os.environ.get("AK_ID") or not os.environ.get("AK_SECRET"):
+              print("::error::secret ALIYUN_OSS_AK_ID or ALIYUN_OSS_AK_SECRET is missing"); sys.exit(1)
+          b = oss2.Bucket(oss2.Auth(os.environ["AK_ID"], os.environ["AK_SECRET"]), "https://oss-cn-shanghai.aliyuncs.com", "nadeatlas-demo")
+          key = "check/hello.txt"
+          try:
+              b.put_object(key, ("ok " + time.strftime("%Y-%m-%d %H:%M:%S")).encode())
+              print("upload: ok")
+          except oss2.exceptions.OssError as e:
+              print(f"::error::upload failed: {e.status} {e.code} {e.message}"); sys.exit(1)
+          try:
+              print("bucket acl:", b.get_bucket_acl().acl)
+          except oss2.exceptions.OssError as e:
+              print(f"bucket acl: cannot read ({e.code})")
+          url = "https://nadeatlas-demo.oss-cn-shanghai.aliyuncs.com/" + key
+          try:
+              with urllib.request.urlopen(url, timeout=30) as r:
+                  print("public read: ok", r.status, r.read()[:40])
+          except urllib.error.HTTPError as e:
+              body = e.read()[:400].decode("utf-8", "replace")
+              print(f"::error::public read failed: {e.code} {body}"); sys.exit(1)
