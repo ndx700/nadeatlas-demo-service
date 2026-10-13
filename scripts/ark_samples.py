@@ -38,7 +38,7 @@ def call(model, prompt):
 
 def main():
     if not KEY:
-        sys.exit("ARK_API_KEY is not set")
+        print("::error::ARK_API_KEY is not set"); sys.exit(1)
     os.makedirs(OUT, exist_ok=True)
     models = sys.argv[1:] or ["Doubao-Seedream-5.0-pro", "Doubao-Seedream-5.0-flash"]
     ok = 0
@@ -55,10 +55,10 @@ def main():
                     ext = "png" if raw[:4] == b"\x89PNG" else "jpg"
                     path = f"{OUT}/{name.lower().replace('.', '-')}_{tag}.{ext}"
                     open(path, "wb").write(raw)
-                    print(f"OK {name} as {mid}: {path} ({len(raw)//1024} KB) usage={res.get('usage')}")
+                    print(f"::notice::OK {name} as {mid}: {path} ({len(raw)//1024} KB) usage={res.get('usage')}")
                     ok += 1
                     break
-                print(f"FAIL {name} as {mid} [{tag}]: HTTP {code} {res}")
+                print(f"::warning::FAIL {name} as {mid} [{tag}]: HTTP {code} {res}")
             if not chosen:
                 break
     if not ok:
