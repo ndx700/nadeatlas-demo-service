@@ -1,0 +1,30 @@
+name: Ark image samples
+# Draws a few anime sample images with Volcano Ark (Seedream) and pushes them to the ark-samples branch.
+on:
+  workflow_dispatch:
+    inputs:
+      models:
+        description: "Model names, separated by spaces"
+        default: "Doubao-Seedream-5.0-pro Doubao-Seedream-5.0-flash"
+permissions:
+  contents: write
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Draw
+        env:
+          ARK_API_KEY: ${{ secrets.ARK_API_KEY }}
+        run: python3 scripts/ark_samples.py ${{ inputs.models }}
+      - name: Push to ark-samples
+        if: always()
+        run: |
+          [ -d samples/ark ] || exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -B ark-samples
+          git add samples/ark
+          git commit -m "Ark samples (${{ inputs.models }})"
+          git push -f origin ark-samples
