@@ -62,7 +62,18 @@ def main():
             if not chosen:
                 break
     if not ok:
+        list_models()
         sys.exit(1)
+
+def list_models():
+    req = urllib.request.Request(BASE + "/models", headers={"Authorization": "Bearer " + KEY})
+    try:
+        with urllib.request.urlopen(req, timeout=60) as r:
+            data = json.loads(r.read())
+        ids = [m.get("id") for m in data.get("data", []) if "seed" in str(m.get("id", "")).lower()]
+        print("::notice::models: " + " ".join(ids)[:3000])
+    except urllib.error.HTTPError as e:
+        print(f"::warning::list models: HTTP {e.code} {e.read().decode(errors='replace')[:300]}")
 
 if __name__ == "__main__":
     main()
