@@ -4,45 +4,1331 @@
  "stage": "Group B Elimination Match",
  "time": "2026-10-13T13:20:00Z",
  "bo": 3,
- "status": "live",
+ "status": "finished",
  "team1": {
   "id": 10245,
-  "score": null,
-  "players": []
+  "score": 2,
+  "players": [
+   18790,
+   18120,
+   18163,
+   17675,
+   22419
+  ]
  },
  "team2": {
   "id": 13996,
-  "score": null,
-  "players": []
+  "score": 1,
+  "players": [
+   21571,
+   21379,
+   24104,
+   16731,
+   21199
+  ]
  },
  "maps": [
   {
    "map": "de_inferno",
    "pick": 13996,
    "score": [
-    8,
-    4
+    11,
+    13
    ],
    "halves": [
     [
      8,
      4
+    ],
+    [
+     3,
+     9
     ]
    ]
   },
   {
    "map": "de_mirage",
    "pick": 10245,
-   "score": null
+   "score": [
+    13,
+    7
+   ],
+   "halves": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     2
+    ]
+   ]
   },
   {
    "map": "de_cache",
    "pick": null,
-   "score": null
+   "score": [
+    13,
+    11
+   ],
+   "halves": [
+    [
+     8,
+     4
+    ],
+    [
+     5,
+     7
+    ]
+   ]
   }
  ],
- "stats": {},
- "mvp": null,
+ "stats": {
+  "all": {
+   "both": [
+    {
+     "player": 17675,
+     "nick": "m1N1",
+     "kills": 62,
+     "deaths": 41,
+     "swing": 1.46,
+     "adr": 86.9,
+     "kast": 77.9,
+     "rating": 1.25
+    },
+    {
+     "player": 18120,
+     "nick": "sinnopsyy",
+     "kills": 46,
+     "deaths": 41,
+     "swing": 2.44,
+     "adr": 80.2,
+     "kast": 80.9,
+     "rating": 1.24
+    },
+    {
+     "player": 22419,
+     "nick": "0SAMAS",
+     "kills": 49,
+     "deaths": 48,
+     "swing": -0.45,
+     "adr": 75.2,
+     "kast": 82.4,
+     "rating": 1.12
+    },
+    {
+     "player": 18163,
+     "nick": "Bibu",
+     "kills": 43,
+     "deaths": 38,
+     "swing": -0.33,
+     "adr": 72.7,
+     "kast": 76.5,
+     "rating": 1.11
+    },
+    {
+     "player": 18790,
+     "nick": "CacaNito",
+     "kills": 53,
+     "deaths": 42,
+     "swing": -2.18,
+     "adr": 80.3,
+     "kast": 76.5,
+     "rating": 1.08
+    },
+    {
+     "player": 24104,
+     "nick": "NickyB",
+     "kills": 48,
+     "deaths": 51,
+     "swing": 0.99,
+     "adr": 75.6,
+     "kast": 67.6,
+     "rating": 1.08
+    },
+    {
+     "player": 21571,
+     "nick": "leakz",
+     "kills": 45,
+     "deaths": 49,
+     "swing": 0.57,
+     "adr": 80.8,
+     "kast": 69.1,
+     "rating": 1.06
+    },
+    {
+     "player": 21379,
+     "nick": "salazar",
+     "kills": 38,
+     "deaths": 48,
+     "swing": 0.58,
+     "adr": 56.7,
+     "kast": 64.7,
+     "rating": 0.91
+    },
+    {
+     "player": 21199,
+     "nick": "MistR",
+     "kills": 38,
+     "deaths": 53,
+     "swing": -2.01,
+     "adr": 64.5,
+     "kast": 64.7,
+     "rating": 0.87
+    },
+    {
+     "player": 16731,
+     "nick": "IceBerg",
+     "kills": 34,
+     "deaths": 53,
+     "swing": -1.57,
+     "adr": 66.7,
+     "kast": 66.2,
+     "rating": 0.83
+    }
+   ],
+   "t": [
+    {
+     "player": 17675,
+     "nick": "m1N1",
+     "kills": 33,
+     "deaths": 25,
+     "swing": 1.89,
+     "adr": 96.8,
+     "kast": 77.8,
+     "rating": 1.38
+    },
+    {
+     "player": 18790,
+     "nick": "CacaNito",
+     "kills": 29,
+     "deaths": 23,
+     "swing": 0.38,
+     "adr": 78.7,
+     "kast": 75.0,
+     "rating": 1.25
+    },
+    {
+     "player": 22419,
+     "nick": "0SAMAS",
+     "kills": 26,
+     "deaths": 26,
+     "swing": -0.0,
+     "adr": 70.6,
+     "kast": 80.6,
+     "rating": 1.15
+    },
+    {
+     "player": 18120,
+     "nick": "sinnopsyy",
+     "kills": 19,
+     "deaths": 24,
+     "swing": 1.36,
+     "adr": 73.6,
+     "kast": 83.3,
+     "rating": 1.15
+    },
+    {
+     "player": 18163,
+     "nick": "Bibu",
+     "kills": 18,
+     "deaths": 23,
+     "swing": -5.94,
+     "adr": 53.9,
+     "kast": 66.7,
+     "rating": 0.74
+    },
+    {
+     "player": 21199,
+     "nick": "MistR",
+     "kills": 22,
+     "deaths": 24,
+     "swing": 1.7,
+     "adr": 78.6,
+     "kast": 75.0,
+     "rating": 1.25
+    },
+    {
+     "player": 21571,
+     "nick": "leakz",
+     "kills": 19,
+     "deaths": 26,
+     "swing": -0.85,
+     "adr": 78.1,
+     "kast": 62.5,
+     "rating": 1.0
+    },
+    {
+     "player": 24104,
+     "nick": "NickyB",
+     "kills": 17,
+     "deaths": 26,
+     "swing": -1.77,
+     "adr": 63.1,
+     "kast": 53.1,
+     "rating": 0.85
+    },
+    {
+     "player": 21379,
+     "nick": "salazar",
+     "kills": 16,
+     "deaths": 24,
+     "swing": -1.53,
+     "adr": 46.4,
+     "kast": 59.4,
+     "rating": 0.83
+    },
+    {
+     "player": 16731,
+     "nick": "IceBerg",
+     "kills": 11,
+     "deaths": 29,
+     "swing": -2.99,
+     "adr": 56.5,
+     "kast": 62.5,
+     "rating": 0.65
+    }
+   ],
+   "ct": [
+    {
+     "player": 18163,
+     "nick": "Bibu",
+     "kills": 25,
+     "deaths": 15,
+     "swing": 5.98,
+     "adr": 93.9,
+     "kast": 87.5,
+     "rating": 1.53
+    },
+    {
+     "player": 18120,
+     "nick": "sinnopsyy",
+     "kills": 27,
+     "deaths": 17,
+     "swing": 3.65,
+     "adr": 87.7,
+     "kast": 78.1,
+     "rating": 1.33
+    },
+    {
+     "player": 17675,
+     "nick": "m1N1",
+     "kills": 29,
+     "deaths": 16,
+     "swing": 0.96,
+     "adr": 75.8,
+     "kast": 78.1,
+     "rating": 1.1
+    },
+    {
+     "player": 22419,
+     "nick": "0SAMAS",
+     "kills": 23,
+     "deaths": 22,
+     "swing": -0.95,
+     "adr": 80.4,
+     "kast": 84.4,
+     "rating": 1.07
+    },
+    {
+     "player": 18790,
+     "nick": "CacaNito",
+     "kills": 24,
+     "deaths": 19,
+     "swing": -5.05,
+     "adr": 82.1,
+     "kast": 78.1,
+     "rating": 0.88
+    },
+    {
+     "player": 24104,
+     "nick": "NickyB",
+     "kills": 31,
+     "deaths": 25,
+     "swing": 3.45,
+     "adr": 86.6,
+     "kast": 80.6,
+     "rating": 1.29
+    },
+    {
+     "player": 21571,
+     "nick": "leakz",
+     "kills": 26,
+     "deaths": 23,
+     "swing": 1.83,
+     "adr": 83.2,
+     "kast": 75.0,
+     "rating": 1.11
+    },
+    {
+     "player": 16731,
+     "nick": "IceBerg",
+     "kills": 23,
+     "deaths": 24,
+     "swing": -0.31,
+     "adr": 75.8,
+     "kast": 69.4,
+     "rating": 1.0
+    },
+    {
+     "player": 21379,
+     "nick": "salazar",
+     "kills": 22,
+     "deaths": 24,
+     "swing": 2.45,
+     "adr": 65.8,
+     "kast": 69.4,
+     "rating": 0.97
+    },
+    {
+     "player": 21199,
+     "nick": "MistR",
+     "kills": 16,
+     "deaths": 29,
+     "swing": -5.3,
+     "adr": 52.1,
+     "kast": 55.6,
+     "rating": 0.52
+    }
+   ]
+  },
+  "de_inferno": {
+   "both": [
+    {
+     "player": 17675,
+     "nick": "m1N1",
+     "kills": 24,
+     "deaths": 18,
+     "swing": 2.68,
+     "adr": 96.4,
+     "kast": 75.0,
+     "rating": 1.34
+    },
+    {
+     "player": 18120,
+     "nick": "sinnopsyy",
+     "kills": 15,
+     "deaths": 16,
+     "swing": 1.58,
+     "adr": 72.5,
+     "kast": 75.0,
+     "rating": 1.18
+    },
+    {
+     "player": 18163,
+     "nick": "Bibu",
+     "kills": 14,
+     "deaths": 15,
+     "swing": -0.29,
+     "adr": 72.0,
+     "kast": 70.8,
+     "rating": 1.13
+    },
+    {
+     "player": 18790,
+     "nick": "CacaNito",
+     "kills": 18,
+     "deaths": 15,
+     "swing": -4.15,
+     "adr": 83.2,
+     "kast": 75.0,
+     "rating": 1.03
+    },
+    {
+     "player": 22419,
+     "nick": "0SAMAS",
+     "kills": 12,
+     "deaths": 19,
+     "swing": -5.09,
+     "adr": 51.5,
+     "kast": 70.8,
+     "rating": 0.65
+    },
+    {
+     "player": 21571,
+     "nick": "leakz",
+     "kills": 22,
+     "deaths": 19,
+     "swing": 2.47,
+     "adr": 108.6,
+     "kast": 79.2,
+     "rating": 1.45
+    },
+    {
+     "player": 21199,
+     "nick": "MistR",
+     "kills": 20,
+     "deaths": 16,
+     "swing": 2.94,
+     "adr": 82.7,
+     "kast": 83.3,
+     "rating": 1.4
+    },
+    {
+     "player": 21379,
+     "nick": "salazar",
+     "kills": 16,
+     "deaths": 14,
+     "swing": 4.81,
+     "adr": 64.2,
+     "kast": 75.0,
+     "rating": 1.27
+    },
+    {
+     "player": 24104,
+     "nick": "NickyB",
+     "kills": 13,
+     "deaths": 18,
+     "swing": -2.98,
+     "adr": 65.0,
+     "kast": 62.5,
+     "rating": 0.84
+    },
+    {
+     "player": 16731,
+     "nick": "IceBerg",
+     "kills": 9,
+     "deaths": 16,
+     "swing": -1.98,
+     "adr": 56.0,
+     "kast": 58.3,
+     "rating": 0.77
+    }
+   ],
+   "t": [
+    {
+     "player": 18790,
+     "nick": "CacaNito",
+     "kills": 9,
+     "deaths": 10,
+     "swing": -1.04,
+     "adr": 85.8,
+     "kast": 75.0,
+     "rating": 1.15
+    },
+    {
+     "player": 17675,
+     "nick": "m1N1",
+     "kills": 9,
+     "deaths": 11,
+     "swing": -3.05,
+     "adr": 86.1,
+     "kast": 75.0,
+     "rating": 1.01
+    },
+    {
+     "player": 18120,
+     "nick": "sinnopsyy",
+     "kills": 5,
+     "deaths": 10,
+     "swing": -3.19,
+     "adr": 55.2,
+     "kast": 83.3,
+     "rating": 0.87
+    },
+    {
+     "player": 22419,
+     "nick": "0SAMAS",
+     "kills": 6,
+     "deaths": 11,
+     "swing": -2.52,
+     "adr": 50.1,
+     "kast": 58.3,
+     "rating": 0.77
+    },
+    {
+     "player": 18163,
+     "nick": "Bibu",
+     "kills": 3,
+     "deaths": 10,
+     "swing": -10.32,
+     "adr": 31.2,
+     "kast": 41.7,
+     "rating": 0.38
+    },
+    {
+     "player": 21199,
+     "nick": "MistR",
+     "kills": 9,
+     "deaths": 9,
+     "swing": 5.39,
+     "adr": 91.4,
+     "kast": 83.3,
+     "rating": 1.63
+    },
+    {
+     "player": 21571,
+     "nick": "leakz",
+     "kills": 8,
+     "deaths": 10,
+     "swing": -0.28,
+     "adr": 95.8,
+     "kast": 75.0,
+     "rating": 1.28
+    },
+    {
+     "player": 21379,
+     "nick": "salazar",
+     "kills": 8,
+     "deaths": 9,
+     "swing": 2.31,
+     "adr": 51.5,
+     "kast": 75.0,
+     "rating": 1.19
+    },
+    {
+     "player": 24104,
+     "nick": "NickyB",
+     "kills": 3,
+     "deaths": 11,
+     "swing": -9.36,
+     "adr": 36.7,
+     "kast": 50.0,
+     "rating": 0.4
+    },
+    {
+     "player": 16731,
+     "nick": "IceBerg",
+     "kills": 2,
+     "deaths": 12,
+     "swing": -7.64,
+     "adr": 40.8,
+     "kast": 33.3,
+     "rating": 0.33
+    }
+   ],
+   "ct": [
+    {
+     "player": 18163,
+     "nick": "Bibu",
+     "kills": 11,
+     "deaths": 5,
+     "swing": 9.73,
+     "adr": 112.8,
+     "kast": 100.0,
+     "rating": 1.88
+    },
+    {
+     "player": 17675,
+     "nick": "m1N1",
+     "kills": 15,
+     "deaths": 7,
+     "swing": 8.41,
+     "adr": 106.8,
+     "kast": 75.0,
+     "rating": 1.66
+    },
+    {
+     "player": 18120,
+     "nick": "sinnopsyy",
+     "kills": 10,
+     "deaths": 6,
+     "swing": 6.35,
+     "adr": 89.8,
+     "kast": 66.7,
+     "rating": 1.49
+    },
+    {
+     "player": 18790,
+     "nick": "CacaNito",
+     "kills": 9,
+     "deaths": 5,
+     "swing": -7.27,
+     "adr": 80.5,
+     "kast": 75.0,
+     "rating": 0.9
+    },
+    {
+     "player": 22419,
+     "nick": "0SAMAS",
+     "kills": 6,
+     "deaths": 8,
+     "swing": -7.65,
+     "adr": 52.8,
+     "kast": 83.3,
+     "rating": 0.54
+    },
+    {
+     "player": 21571,
+     "nick": "leakz",
+     "kills": 14,
+     "deaths": 9,
+     "swing": 5.23,
+     "adr": 121.4,
+     "kast": 83.3,
+     "rating": 1.62
+    },
+    {
+     "player": 21379,
+     "nick": "salazar",
+     "kills": 8,
+     "deaths": 5,
+     "swing": 7.31,
+     "adr": 76.9,
+     "kast": 75.0,
+     "rating": 1.35
+    },
+    {
+     "player": 24104,
+     "nick": "NickyB",
+     "kills": 10,
+     "deaths": 7,
+     "swing": 3.4,
+     "adr": 93.4,
+     "kast": 75.0,
+     "rating": 1.27
+    },
+    {
+     "player": 16731,
+     "nick": "IceBerg",
+     "kills": 7,
+     "deaths": 4,
+     "swing": 3.68,
+     "adr": 71.2,
+     "kast": 83.3,
+     "rating": 1.2
+    },
+    {
+     "player": 21199,
+     "nick": "MistR",
+     "kills": 11,
+     "deaths": 7,
+     "swing": 0.49,
+     "adr": 73.9,
+     "kast": 83.3,
+     "rating": 1.17
+    }
+   ]
+  },
+  "de_mirage": {
+   "both": [
+    {
+     "player": 17675,
+     "nick": "m1N1",
+     "kills": 20,
+     "deaths": 8,
+     "swing": 6.82,
+     "adr": 87.3,
+     "kast": 85.0,
+     "rating": 1.72
+    },
+    {
+     "player": 18120,
+     "nick": "sinnopsyy",
+     "kills": 17,
+     "deaths": 12,
+     "swing": 5.76,
+     "adr": 102.0,
+     "kast": 95.0,
+     "rating": 1.47
+    },
+    {
+     "player": 22419,
+     "nick": "0SAMAS",
+     "kills": 17,
+     "deaths": 14,
+     "swing": 0.47,
+     "adr": 88.5,
+     "kast": 90.0,
+     "rating": 1.41
+    },
+    {
+     "player": 18163,
+     "nick": "Bibu",
+     "kills": 11,
+     "deaths": 8,
+     "swing": -1.02,
+     "adr": 55.4,
+     "kast": 80.0,
+     "rating": 1.01
+    },
+    {
+     "player": 18790,
+     "nick": "CacaNito",
+     "kills": 14,
+     "deaths": 11,
+     "swing": -4.02,
+     "adr": 77.8,
+     "kast": 85.0,
+     "rating": 0.95
+    },
+    {
+     "player": 21379,
+     "nick": "salazar",
+     "kills": 14,
+     "deaths": 16,
+     "swing": 2.03,
+     "adr": 64.8,
+     "kast": 70.0,
+     "rating": 1.07
+    },
+    {
+     "player": 21571,
+     "nick": "leakz",
+     "kills": 9,
+     "deaths": 12,
+     "swing": -0.16,
+     "adr": 54.8,
+     "kast": 65.0,
+     "rating": 0.87
+    },
+    {
+     "player": 24104,
+     "nick": "NickyB",
+     "kills": 9,
+     "deaths": 15,
+     "swing": -0.87,
+     "adr": 41.0,
+     "kast": 60.0,
+     "rating": 0.73
+    },
+    {
+     "player": 16731,
+     "nick": "IceBerg",
+     "kills": 10,
+     "deaths": 18,
+     "swing": -3.96,
+     "adr": 77.8,
+     "kast": 65.0,
+     "rating": 0.73
+    },
+    {
+     "player": 21199,
+     "nick": "MistR",
+     "kills": 10,
+     "deaths": 18,
+     "swing": -5.47,
+     "adr": 65.0,
+     "kast": 65.0,
+     "rating": 0.69
+    }
+   ],
+   "t": [
+    {
+     "player": 17675,
+     "nick": "m1N1",
+     "kills": 13,
+     "deaths": 7,
+     "swing": 6.94,
+     "adr": 105.2,
+     "kast": 83.3,
+     "rating": 1.88
+    },
+    {
+     "player": 22419,
+     "nick": "0SAMAS",
+     "kills": 11,
+     "deaths": 8,
+     "swing": 2.55,
+     "adr": 94.3,
+     "kast": 91.7,
+     "rating": 1.63
+    },
+    {
+     "player": 18120,
+     "nick": "sinnopsyy",
+     "kills": 6,
+     "deaths": 8,
+     "swing": 3.84,
+     "adr": 75.9,
+     "kast": 91.7,
+     "rating": 1.17
+    },
+    {
+     "player": 18163,
+     "nick": "Bibu",
+     "kills": 7,
+     "deaths": 5,
+     "swing": -2.88,
+     "adr": 45.8,
+     "kast": 75.0,
+     "rating": 0.98
+    },
+    {
+     "player": 18790,
+     "nick": "CacaNito",
+     "kills": 8,
+     "deaths": 7,
+     "swing": -6.38,
+     "adr": 65.8,
+     "kast": 83.3,
+     "rating": 0.84
+    },
+    {
+     "player": 21199,
+     "nick": "MistR",
+     "kills": 7,
+     "deaths": 7,
+     "swing": 0.77,
+     "adr": 98.9,
+     "kast": 87.5,
+     "rating": 1.34
+    },
+    {
+     "player": 21379,
+     "nick": "salazar",
+     "kills": 4,
+     "deaths": 7,
+     "swing": -3.28,
+     "adr": 55.5,
+     "kast": 50.0,
+     "rating": 0.79
+    },
+    {
+     "player": 16731,
+     "nick": "IceBerg",
+     "kills": 3,
+     "deaths": 7,
+     "swing": -4.53,
+     "adr": 68.0,
+     "kast": 62.5,
+     "rating": 0.58
+    },
+    {
+     "player": 21571,
+     "nick": "leakz",
+     "kills": 1,
+     "deaths": 6,
+     "swing": -4.5,
+     "adr": 20.0,
+     "kast": 50.0,
+     "rating": 0.48
+    },
+    {
+     "player": 24104,
+     "nick": "NickyB",
+     "kills": 2,
+     "deaths": 7,
+     "swing": -3.41,
+     "adr": 33.5,
+     "kast": 25.0,
+     "rating": 0.47
+    }
+   ],
+   "ct": [
+    {
+     "player": 18120,
+     "nick": "sinnopsyy",
+     "kills": 11,
+     "deaths": 4,
+     "swing": 8.65,
+     "adr": 141.0,
+     "kast": 100.0,
+     "rating": 1.91
+    },
+    {
+     "player": 17675,
+     "nick": "m1N1",
+     "kills": 7,
+     "deaths": 1,
+     "swing": 6.62,
+     "adr": 60.5,
+     "kast": 87.5,
+     "rating": 1.47
+    },
+    {
+     "player": 18790,
+     "nick": "CacaNito",
+     "kills": 6,
+     "deaths": 4,
+     "swing": -0.47,
+     "adr": 95.8,
+     "kast": 87.5,
+     "rating": 1.11
+    },
+    {
+     "player": 22419,
+     "nick": "0SAMAS",
+     "kills": 6,
+     "deaths": 6,
+     "swing": -2.64,
+     "adr": 79.6,
+     "kast": 87.5,
+     "rating": 1.06
+    },
+    {
+     "player": 18163,
+     "nick": "Bibu",
+     "kills": 4,
+     "deaths": 3,
+     "swing": 1.76,
+     "adr": 69.6,
+     "kast": 87.5,
+     "rating": 1.05
+    },
+    {
+     "player": 21379,
+     "nick": "salazar",
+     "kills": 10,
+     "deaths": 9,
+     "swing": 5.58,
+     "adr": 71.0,
+     "kast": 83.3,
+     "rating": 1.25
+    },
+    {
+     "player": 21571,
+     "nick": "leakz",
+     "kills": 8,
+     "deaths": 6,
+     "swing": 2.73,
+     "adr": 77.9,
+     "kast": 75.0,
+     "rating": 1.12
+    },
+    {
+     "player": 24104,
+     "nick": "NickyB",
+     "kills": 7,
+     "deaths": 8,
+     "swing": 0.83,
+     "adr": 45.9,
+     "kast": 83.3,
+     "rating": 0.91
+    },
+    {
+     "player": 16731,
+     "nick": "IceBerg",
+     "kills": 7,
+     "deaths": 11,
+     "swing": -3.58,
+     "adr": 84.3,
+     "kast": 66.7,
+     "rating": 0.83
+    },
+    {
+     "player": 21199,
+     "nick": "MistR",
+     "kills": 3,
+     "deaths": 11,
+     "swing": -9.63,
+     "adr": 42.4,
+     "kast": 50.0,
+     "rating": 0.26
+    }
+   ]
+  },
+  "de_cache": {
+   "both": [
+    {
+     "player": 22419,
+     "nick": "0SAMAS",
+     "kills": 20,
+     "deaths": 15,
+     "swing": 3.41,
+     "adr": 87.9,
+     "kast": 87.5,
+     "rating": 1.45
+    },
+    {
+     "player": 18790,
+     "nick": "CacaNito",
+     "kills": 21,
+     "deaths": 16,
+     "swing": 1.33,
+     "adr": 79.5,
+     "kast": 70.8,
+     "rating": 1.3
+    },
+    {
+     "player": 18163,
+     "nick": "Bibu",
+     "kills": 18,
+     "deaths": 15,
+     "swing": 0.2,
+     "adr": 88.0,
+     "kast": 79.2,
+     "rating": 1.22
+    },
+    {
+     "player": 18120,
+     "nick": "sinnopsyy",
+     "kills": 14,
+     "deaths": 13,
+     "swing": 0.52,
+     "adr": 69.9,
+     "kast": 75.0,
+     "rating": 1.17
+    },
+    {
+     "player": 17675,
+     "nick": "m1N1",
+     "kills": 18,
+     "deaths": 15,
+     "swing": -4.24,
+     "adr": 77.1,
+     "kast": 75.0,
+     "rating": 0.92
+    },
+    {
+     "player": 24104,
+     "nick": "NickyB",
+     "kills": 26,
+     "deaths": 18,
+     "swing": 6.51,
+     "adr": 114.9,
+     "kast": 79.2,
+     "rating": 1.81
+    },
+    {
+     "player": 16731,
+     "nick": "IceBerg",
+     "kills": 15,
+     "deaths": 19,
+     "swing": 0.83,
+     "adr": 68.2,
+     "kast": 75.0,
+     "rating": 1.05
+    },
+    {
+     "player": 21571,
+     "nick": "leakz",
+     "kills": 14,
+     "deaths": 18,
+     "swing": -0.73,
+     "adr": 74.8,
+     "kast": 62.5,
+     "rating": 0.93
+    },
+    {
+     "player": 21199,
+     "nick": "MistR",
+     "kills": 8,
+     "deaths": 19,
+     "swing": -4.07,
+     "adr": 46.0,
+     "kast": 45.8,
+     "rating": 0.6
+    },
+    {
+     "player": 21379,
+     "nick": "salazar",
+     "kills": 8,
+     "deaths": 18,
+     "swing": -4.87,
+     "adr": 42.4,
+     "kast": 50.0,
+     "rating": 0.51
+    }
+   ],
+   "t": [
+    {
+     "player": 18790,
+     "nick": "CacaNito",
+     "kills": 12,
+     "deaths": 6,
+     "swing": 8.56,
+     "adr": 84.6,
+     "kast": 66.7,
+     "rating": 1.88
+    },
+    {
+     "player": 18120,
+     "nick": "sinnopsyy",
+     "kills": 8,
+     "deaths": 6,
+     "swing": 3.42,
+     "adr": 89.7,
+     "kast": 75.0,
+     "rating": 1.43
+    },
+    {
+     "player": 17675,
+     "nick": "m1N1",
+     "kills": 11,
+     "deaths": 7,
+     "swing": 1.78,
+     "adr": 99.1,
+     "kast": 75.0,
+     "rating": 1.32
+    },
+    {
+     "player": 22419,
+     "nick": "0SAMAS",
+     "kills": 9,
+     "deaths": 7,
+     "swing": -0.03,
+     "adr": 67.4,
+     "kast": 91.7,
+     "rating": 1.1
+    },
+    {
+     "player": 18163,
+     "nick": "Bibu",
+     "kills": 8,
+     "deaths": 8,
+     "swing": -4.63,
+     "adr": 84.6,
+     "kast": 83.3,
+     "rating": 0.94
+    },
+    {
+     "player": 24104,
+     "nick": "NickyB",
+     "kills": 12,
+     "deaths": 8,
+     "swing": 6.9,
+     "adr": 109.3,
+     "kast": 75.0,
+     "rating": 1.85
+    },
+    {
+     "player": 21571,
+     "nick": "leakz",
+     "kills": 10,
+     "deaths": 10,
+     "swing": 1.01,
+     "adr": 99.1,
+     "kast": 58.3,
+     "rating": 1.17
+    },
+    {
+     "player": 16731,
+     "nick": "IceBerg",
+     "kills": 6,
+     "deaths": 10,
+     "swing": 2.68,
+     "adr": 64.7,
+     "kast": 91.7,
+     "rating": 1.13
+    },
+    {
+     "player": 21199,
+     "nick": "MistR",
+     "kills": 6,
+     "deaths": 8,
+     "swing": -1.38,
+     "adr": 52.2,
+     "kast": 58.3,
+     "rating": 0.9
+    },
+    {
+     "player": 21379,
+     "nick": "salazar",
+     "kills": 4,
+     "deaths": 8,
+     "swing": -4.21,
+     "adr": 35.2,
+     "kast": 50.0,
+     "rating": 0.57
+    }
+   ],
+   "ct": [
+    {
+     "player": 22419,
+     "nick": "0SAMAS",
+     "kills": 11,
+     "deaths": 8,
+     "swing": 6.86,
+     "adr": 108.4,
+     "kast": 83.3,
+     "rating": 1.8
+    },
+    {
+     "player": 18163,
+     "nick": "Bibu",
+     "kills": 10,
+     "deaths": 7,
+     "swing": 5.04,
+     "adr": 91.3,
+     "kast": 75.0,
+     "rating": 1.5
+    },
+    {
+     "player": 18120,
+     "nick": "sinnopsyy",
+     "kills": 6,
+     "deaths": 7,
+     "swing": -2.37,
+     "adr": 50.1,
+     "kast": 75.0,
+     "rating": 0.91
+    },
+    {
+     "player": 18790,
+     "nick": "CacaNito",
+     "kills": 9,
+     "deaths": 10,
+     "swing": -5.89,
+     "adr": 74.5,
+     "kast": 75.0,
+     "rating": 0.72
+    },
+    {
+     "player": 17675,
+     "nick": "m1N1",
+     "kills": 7,
+     "deaths": 8,
+     "swing": -10.26,
+     "adr": 55.2,
+     "kast": 75.0,
+     "rating": 0.53
+    },
+    {
+     "player": 24104,
+     "nick": "NickyB",
+     "kills": 14,
+     "deaths": 10,
+     "swing": 6.12,
+     "adr": 120.5,
+     "kast": 83.3,
+     "rating": 1.78
+    },
+    {
+     "player": 16731,
+     "nick": "IceBerg",
+     "kills": 9,
+     "deaths": 9,
+     "swing": -1.03,
+     "adr": 71.8,
+     "kast": 58.3,
+     "rating": 0.97
+    },
+    {
+     "player": 21571,
+     "nick": "leakz",
+     "kills": 4,
+     "deaths": 8,
+     "swing": -2.47,
+     "adr": 50.4,
+     "kast": 66.7,
+     "rating": 0.68
+    },
+    {
+     "player": 21379,
+     "nick": "salazar",
+     "kills": 4,
+     "deaths": 10,
+     "swing": -5.54,
+     "adr": 49.6,
+     "kast": 50.0,
+     "rating": 0.45
+    },
+    {
+     "player": 21199,
+     "nick": "MistR",
+     "kills": 2,
+     "deaths": 11,
+     "swing": -6.76,
+     "adr": 39.9,
+     "kast": 33.3,
+     "rating": 0.31
+    }
+   ]
+  }
+ },
+ "mvp": {
+  "player": 17675,
+  "nick": "m1N1",
+  "maps": 3,
+  "kpr": 0.91,
+  "dpr": 0.6,
+  "kast": 77.9,
+  "mkRating": 1.21,
+  "swing": 1.46,
+  "adr": 86.9,
+  "rating": 1.25
+ },
  "h2h": {
   "team1Wins": 2,
   "overtimes": 0,
@@ -73,5 +1359,6 @@
     "winner": 10245
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/112725"
 }

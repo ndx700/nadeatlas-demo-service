@@ -3,7 +3,7 @@
  "name": "Thunderpick World Championship 2026",
  "start": "2026-10-14",
  "end": "2026-10-18",
- "status": "upcoming",
+ "status": "live",
  "location": "Malta",
  "prize": "$1,000,000",
  "teams": [
@@ -56,6 +56,71 @@
      "bo": 3,
      "team1": 9996,
      "team2": 11861,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 0,
+     "time": null,
+     "bo": null,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 0,
+     "time": null,
+     "bo": null,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 0,
+     "time": null,
+     "bo": null,
+     "team1": 0,
+     "team2": 0,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    }
+   ]
+  },
+  {
+   "name": "Group B",
+   "matches": [
+    {
+     "matchId": 2399386,
+     "time": "2026-10-14T13:30:00Z",
+     "bo": 3,
+     "team1": 12468,
+     "team2": 12467,
+     "score": [
+      null,
+      null
+     ],
+     "winner": 0
+    },
+    {
+     "matchId": 2399387,
+     "time": "2026-10-14T16:00:00Z",
+     "bo": 3,
+     "team1": 8297,
+     "team2": 12394,
      "score": [
       null,
       null

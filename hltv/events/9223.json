@@ -269,10 +269,10 @@
      "team1": 8474,
      "team2": 5973,
      "score": [
-      null,
-      null
+      2,
+      1
      ],
-     "winner": 0
+     "winner": 8474
     },
     {
      "matchId": 2399254,
@@ -281,22 +281,22 @@
      "team1": 10245,
      "team2": 13996,
      "score": [
-      null,
-      null
+      2,
+      1
      ],
-     "winner": 0
+     "winner": 10245
     },
     {
-     "matchId": 0,
-     "time": null,
-     "bo": null,
-     "team1": 0,
-     "team2": 0,
+     "matchId": 2399255,
+     "time": "2026-10-13T16:45:00Z",
+     "bo": 3,
+     "team1": 5973,
+     "team2": 10245,
      "score": [
-      null,
-      null
+      2,
+      0
      ],
-     "winner": 0
+     "winner": 5973
     }
    ]
   },
