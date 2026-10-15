@@ -2,8 +2,8 @@
  "id": 11241,
  "name": "B8",
  "country": "UA",
- "rankHltv": 15,
- "rankVrs": 17,
+ "rankHltv": 19,
+ "rankVrs": 19,
  "players": [
   {
    "id": 20112,
@@ -76,6 +76,28 @@
    "eventId": 8261
   },
   {
+   "matchId": 2394980,
+   "date": "2026-06-13",
+   "opponent": 13286,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 8301
+  },
+  {
+   "matchId": 2394901,
+   "date": "2026-06-11",
+   "opponent": 8297,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8301
+  },
+  {
    "matchId": 2394972,
    "date": "",
    "opponent": 6248,
@@ -88,21 +110,29 @@
   }
  ],
  "mapStats": {
-  "de_cache": {
-   "played": 1,
+  "de_nuke": {
+   "played": 2,
    "winPct": 100
   },
   "de_dust2": {
-   "played": 2,
-   "winPct": 0
+   "played": 8,
+   "winPct": 75
+  },
+  "de_ancient": {
+   "played": 7,
+   "winPct": 71
+  },
+  "de_cache": {
+   "played": 5,
+   "winPct": 60
   },
   "de_inferno": {
-   "played": 1,
-   "winPct": 0
+   "played": 6,
+   "winPct": 50
   },
   "de_mirage": {
-   "played": 2,
-   "winPct": 50
+   "played": 12,
+   "winPct": 42
   }
  }
 }

@@ -2,8 +2,8 @@
  "id": 7969,
  "name": "Nemiga",
  "country": "RU",
- "rankHltv": 22,
- "rankVrs": 16,
+ "rankHltv": 23,
+ "rankVrs": 23,
  "players": [
   {
    "id": 19920,
@@ -38,8 +38,8 @@
   }
  ],
  "events": [
-  9154,
-  9420
+  9420,
+  9154
  ],
  "recent": [
   {
@@ -88,17 +88,33 @@
   }
  ],
  "mapStats": {
-  "de_anubis": {
+  "de_inferno": {
    "played": 1,
    "winPct": 100
+  },
+  "de_anubis": {
+   "played": 16,
+   "winPct": 81
+  },
+  "de_mirage": {
+   "played": 19,
+   "winPct": 74
   },
   "de_cache": {
-   "played": 1,
-   "winPct": 0
+   "played": 16,
+   "winPct": 69
+  },
+  "de_nuke": {
+   "played": 16,
+   "winPct": 69
   },
   "de_dust2": {
-   "played": 1,
-   "winPct": 100
+   "played": 21,
+   "winPct": 62
+  },
+  "de_ancient": {
+   "played": 26,
+   "winPct": 62
   }
  }
 }

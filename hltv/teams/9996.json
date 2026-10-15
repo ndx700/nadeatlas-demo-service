@@ -2,8 +2,8 @@
  "id": 9996,
  "name": "9z",
  "country": "UY",
- "rankHltv": 16,
- "rankVrs": 13,
+ "rankHltv": 17,
+ "rankVrs": 11,
  "players": [
   {
    "id": 12092,
@@ -38,13 +38,25 @@
   }
  ],
  "events": [
+  8932,
   8244,
+  8266,
   8249,
   8261,
-  8266,
   8301
  ],
  "recent": [
+  {
+   "matchId": 2399384,
+   "date": "2026-10-14",
+   "opponent": 11861,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8932
+  },
   {
    "matchId": 2398747,
    "date": "2026-10-07",
@@ -189,6 +201,61 @@
    "eventId": 8261
   },
   {
+   "matchId": 2394997,
+   "date": "2026-06-18",
+   "opponent": 8297,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 8301
+  },
+  {
+   "matchId": 2394990,
+   "date": "2026-06-14",
+   "opponent": 11861,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8301
+  },
+  {
+   "matchId": 2394986,
+   "date": "2026-06-13",
+   "opponent": 7020,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 8301
+  },
+  {
+   "matchId": 2394978,
+   "date": "2026-06-12",
+   "opponent": 9565,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 8301
+  },
+  {
+   "matchId": 2394903,
+   "date": "2026-06-11",
+   "opponent": 12467,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 8301
+  },
+  {
    "matchId": 2394993,
    "date": "",
    "opponent": 6248,
@@ -201,29 +268,29 @@
   }
  ],
  "mapStats": {
-  "de_ancient": {
-   "played": 2,
+  "de_mirage": {
+   "played": 5,
+   "winPct": 60
+  },
+  "de_dust2": {
+   "played": 6,
    "winPct": 50
   },
   "de_cache": {
    "played": 4,
    "winPct": 50
   },
-  "de_dust2": {
-   "played": 6,
-   "winPct": 50
-  },
-  "de_inferno": {
-   "played": 3,
+  "de_nuke": {
+   "played": 9,
    "winPct": 33
   },
-  "de_mirage": {
-   "played": 5,
-   "winPct": 40
+  "de_inferno": {
+   "played": 4,
+   "winPct": 25
   },
-  "de_nuke": {
-   "played": 8,
-   "winPct": 38
+  "de_ancient": {
+   "played": 2,
+   "winPct": 0
   }
  }
 }

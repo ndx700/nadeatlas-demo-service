@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T21:53:58+08:00",
+ "updatedAt": "2026-10-15T20:28:13+08:00",
  "teams": [
   {
    "id": 7020,
@@ -69,35 +69,35 @@
    "name": "Natus Vincere",
    "country": "FI",
    "rankHltv": 10,
-   "rankVrs": 24
+   "rankVrs": 25
   },
   {
    "id": 12467,
    "name": "PARIVISION",
    "country": "KZ",
    "rankHltv": 11,
-   "rankVrs": 11
+   "rankVrs": 12
   },
   {
    "id": 9215,
    "name": "MIBR",
    "country": "SE",
    "rankHltv": 12,
-   "rankVrs": 13
+   "rankVrs": 15
   },
   {
    "id": 10621,
    "name": "1win",
-   "country": null,
+   "country": "RU",
    "rankHltv": 13,
-   "rankVrs": 15
+   "rankVrs": 14
   },
   {
    "id": 12394,
    "name": "BETBOOM",
    "country": "RU",
    "rankHltv": 14,
-   "rankVrs": 12
+   "rankVrs": 13
   },
   {
    "id": 6665,
@@ -111,21 +111,21 @@
    "name": "FaZe",
    "country": "SK",
    "rankHltv": 16,
-   "rankVrs": 18
+   "rankVrs": 20
   },
   {
    "id": 9996,
    "name": "9z",
    "country": "UY",
    "rankHltv": 17,
-   "rankVrs": 14
+   "rankVrs": 11
   },
   {
    "id": 12376,
    "name": "M80",
    "country": "DE",
    "rankHltv": 18,
-   "rankVrs": 17
+   "rankVrs": 16
   },
   {
    "id": 11241,
@@ -146,14 +146,14 @@
    "name": "The MongolZ",
    "country": "MN",
    "rankHltv": 21,
-   "rankVrs": 53
+   "rankVrs": 54
   },
   {
    "id": 9928,
    "name": "GamerLegion",
    "country": "PL",
    "rankHltv": 22,
-   "rankVrs": 31
+   "rankVrs": 33
   },
   {
    "id": 7969,
@@ -174,21 +174,21 @@
    "name": "Luminosity",
    "country": "BG",
    "rankHltv": 25,
-   "rankVrs": 21
+   "rankVrs": 22
   },
   {
    "id": 4411,
    "name": "Ninjas in Pyjamas",
    "country": "DK",
    "rankHltv": 26,
-   "rankVrs": 16
+   "rankVrs": 17
   },
   {
    "id": 5973,
    "name": "Liquid",
    "country": "CA",
    "rankHltv": 27,
-   "rankVrs": 20
+   "rankVrs": 18
   },
   {
    "id": 12474,
@@ -209,7 +209,7 @@
    "name": "HEROIC",
    "country": "SE",
    "rankHltv": 30,
-   "rankVrs": 22
+   "rankVrs": 21
   },
   {
    "id": 6673,
@@ -223,49 +223,49 @@
    "name": "paiN",
    "country": null,
    "rankHltv": 32,
-   "rankVrs": 54
+   "rankVrs": 53
   },
   {
    "id": 4863,
    "name": "TYLOO",
    "country": "CN",
    "rankHltv": 33,
-   "rankVrs": 47
+   "rankVrs": 49
   },
   {
    "id": 13724,
    "name": "5star",
    "country": null,
    "rankHltv": 34,
-   "rankVrs": 65
+   "rankVrs": 66
   },
   {
    "id": 7532,
    "name": "BIG",
    "country": null,
    "rankHltv": 35,
-   "rankVrs": 29
+   "rankVrs": 32
   },
   {
    "id": 4991,
    "name": "fnatic",
-   "country": null,
+   "country": "UA",
    "rankHltv": 36,
-   "rankVrs": 32
+   "rankVrs": 29
   },
   {
    "id": 8474,
    "name": "100 Thieves",
-   "country": null,
+   "country": "EU",
    "rankHltv": 37,
-   "rankVrs": 25
+   "rankVrs": 24
   },
   {
    "id": 8840,
    "name": "Lynn Vision",
    "country": "CN",
    "rankHltv": 39,
-   "rankVrs": 69
+   "rankVrs": 67
   },
   {
    "id": 13926,
@@ -279,7 +279,7 @@
    "name": "HOTU",
    "country": null,
    "rankHltv": 41,
-   "rankVrs": 37
+   "rankVrs": 36
   },
   {
    "id": 12257,
@@ -293,7 +293,7 @@
    "name": "K27",
    "country": null,
    "rankHltv": 43,
-   "rankVrs": 36
+   "rankVrs": 37
   },
   {
    "id": 10577,
@@ -314,14 +314,14 @@
    "name": "Nemesis",
    "country": null,
    "rankHltv": 46,
-   "rankVrs": 33
+   "rankVrs": 34
   },
   {
    "id": 10245,
    "name": "JiJieHao#37#32",
    "country": null,
    "rankHltv": 47,
-   "rankVrs": 34
+   "rankVrs": 31
   },
   {
    "id": 13679,
@@ -342,70 +342,70 @@
    "name": "ShindeN",
    "country": null,
    "rankHltv": 50,
-   "rankVrs": 83
+   "rankVrs": 84
   },
   {
    "id": 11737,
    "name": "EYEBALLERS",
    "country": null,
    "rankHltv": 52,
-   "rankVrs": 45
+   "rankVrs": 46
   },
   {
    "id": 13027,
    "name": "Nuclear TigeRES",
    "country": null,
    "rankHltv": 54,
-   "rankVrs": 49
+   "rankVrs": 45
   },
   {
    "id": 11641,
    "name": "Metizport",
    "country": null,
    "rankHltv": 55,
-   "rankVrs": 55
+   "rankVrs": 59
   },
   {
    "id": 13104,
    "name": "Iberian Soul",
    "country": null,
    "rankHltv": 56,
-   "rankVrs": 57
+   "rankVrs": 56
   },
   {
    "id": 13924,
    "name": "Black Phoenix",
    "country": null,
    "rankHltv": 57,
-   "rankVrs": 67
+   "rankVrs": 62
   },
   {
    "id": 13573,
    "name": "ex-Zero Tenacity",
    "country": null,
    "rankHltv": 58,
-   "rankVrs": 99
+   "rankVrs": 103
   },
   {
    "id": 12646,
    "name": "Chinggis Warriors",
    "country": null,
    "rankHltv": 61,
-   "rankVrs": 59
+   "rankVrs": 57
   },
   {
    "id": 10567,
    "name": "SAW",
    "country": null,
    "rankHltv": 63,
-   "rankVrs": 48
+   "rankVrs": 47
   },
   {
    "id": 13619,
    "name": "BET-M",
    "country": null,
    "rankHltv": 65,
-   "rankVrs": 85
+   "rankVrs": 87
   },
   {
    "id": 14030,
@@ -419,14 +419,14 @@
    "name": "FlyQuest",
    "country": null,
    "rankHltv": 67,
-   "rankVrs": 62
+   "rankVrs": 61
   },
   {
    "id": 12677,
    "name": "Galorys",
    "country": null,
    "rankHltv": 68,
-   "rankVrs": 82
+   "rankVrs": 86
   },
   {
    "id": 6914,
@@ -440,42 +440,42 @@
    "name": "BC.Game",
    "country": null,
    "rankHltv": 70,
-   "rankVrs": 46
+   "rankVrs": 48
   },
   {
    "id": 12916,
    "name": "Betclic",
    "country": null,
    "rankHltv": 71,
-   "rankVrs": 56
+   "rankVrs": 55
   },
   {
    "id": 13777,
    "name": "PURE",
    "country": null,
    "rankHltv": 77,
-   "rankVrs": 60
+   "rankVrs": 58
   },
   {
    "id": 13124,
    "name": "Marsborne",
    "country": null,
    "rankHltv": 78,
-   "rankVrs": 111
+   "rankVrs": 113
   },
   {
    "id": 13901,
    "name": "ex-RUSTEC",
    "country": null,
    "rankHltv": 79,
-   "rankVrs": 93
+   "rankVrs": 89
   },
   {
    "id": 10371,
    "name": "NAVI Junior",
    "country": null,
    "rankHltv": 81,
-   "rankVrs": 75
+   "rankVrs": 74
   },
   {
    "id": 11446,
@@ -489,28 +489,28 @@
    "name": "RBLS",
    "country": null,
    "rankHltv": 84,
-   "rankVrs": 78
+   "rankVrs": 75
   },
   {
    "id": 10823,
    "name": "INFINITE#71#56",
    "country": null,
    "rankHltv": 86,
-   "rankVrs": 63
+   "rankVrs": 65
   },
   {
    "id": 13173,
    "name": "Phantom",
    "country": null,
    "rankHltv": 88,
-   "rankVrs": 87
+   "rankVrs": 83
   },
   {
    "id": 12960,
    "name": "Fire Flux",
    "country": null,
    "rankHltv": 90,
-   "rankVrs": 124
+   "rankVrs": 126
   },
   {
    "id": 12380,
@@ -524,35 +524,35 @@
    "name": "mellren",
    "country": null,
    "rankHltv": 94,
-   "rankVrs": 123
+   "rankVrs": 121
   },
   {
    "id": 12087,
    "name": "Lazer Cats",
    "country": null,
    "rankHltv": 97,
-   "rankVrs": 77
+   "rankVrs": 76
   },
   {
    "id": 13667,
    "name": "NEXVOID",
    "country": null,
    "rankHltv": 101,
-   "rankVrs": 106
+   "rankVrs": 93
   },
   {
    "id": 9686,
    "name": "Turma do Pagode",
    "country": null,
    "rankHltv": 102,
-   "rankVrs": 103
+   "rankVrs": 105
   },
   {
    "id": 12889,
    "name": "G2 Ares",
    "country": null,
    "rankHltv": 103,
-   "rankVrs": 120
+   "rankVrs": 119
   },
   {
    "id": 13683,
@@ -566,63 +566,63 @@
    "name": "EAC",
    "country": null,
    "rankHltv": 110,
-   "rankVrs": 115
+   "rankVrs": 118
   },
   {
    "id": 11514,
    "name": "Rare Atom",
    "country": null,
    "rankHltv": 113,
-   "rankVrs": 140
+   "rankVrs": 150
   },
   {
    "id": 4869,
    "name": "ENCE",
    "country": null,
    "rankHltv": 114,
-   "rankVrs": 113
+   "rankVrs": 110
   },
   {
    "id": 13776,
    "name": "Just Players#145#115",
    "country": null,
    "rankHltv": 116,
-   "rankVrs": 102
+   "rankVrs": 104
   },
   {
    "id": 10503,
    "name": "OG",
    "country": null,
    "rankHltv": 117,
-   "rankVrs": 114
+   "rankVrs": 116
   },
   {
    "id": 9958,
    "name": "Alter Ego",
    "country": null,
    "rankHltv": 120,
-   "rankVrs": 137
+   "rankVrs": 133
   },
   {
    "id": 13877,
    "name": "Noir Verse",
    "country": null,
    "rankHltv": 122,
-   "rankVrs": 145
+   "rankVrs": 143
   },
   {
    "id": 12510,
    "name": "The Huns",
    "country": null,
    "rankHltv": 125,
-   "rankVrs": 129
+   "rankVrs": 128
   },
   {
    "id": 13908,
    "name": "Butterfly",
    "country": null,
    "rankHltv": 127,
-   "rankVrs": 110
+   "rankVrs": 98
   },
   {
    "id": 13321,
@@ -636,7 +636,7 @@
    "name": "Abyssal",
    "country": null,
    "rankHltv": 130,
-   "rankVrs": 134
+   "rankVrs": 129
   },
   {
    "id": 13518,
@@ -650,42 +650,42 @@
    "name": "Ground Zero",
    "country": null,
    "rankHltv": 133,
-   "rankVrs": 122
+   "rankVrs": 120
   },
   {
    "id": 13998,
    "name": "Saint Sinners",
    "country": null,
    "rankHltv": 134,
-   "rankVrs": 139
+   "rankVrs": 132
   },
   {
    "id": 13054,
    "name": "PCIFIC",
    "country": null,
    "rankHltv": 135,
-   "rankVrs": 148
+   "rankVrs": 139
   },
   {
    "id": 13623,
    "name": "STATE",
    "country": null,
    "rankHltv": 138,
-   "rankVrs": 128
+   "rankVrs": 130
   },
   {
    "id": 7187,
    "name": "Nexus",
    "country": null,
    "rankHltv": 139,
-   "rankVrs": 94
+   "rankVrs": 92
   },
   {
    "id": 12609,
    "name": "Lavked",
    "country": null,
    "rankHltv": 140,
-   "rankVrs": 144
+   "rankVrs": 140
   },
   {
    "id": 13331,
@@ -699,49 +699,49 @@
    "name": "MOUZ NXT#146#149",
    "country": null,
    "rankHltv": 146,
-   "rankVrs": 136
+   "rankVrs": 134
   },
   {
    "id": 13479,
    "name": "Omega",
    "country": null,
    "rankHltv": 148,
-   "rankVrs": 97
+   "rankVrs": 100
   },
   {
    "id": 13808,
    "name": "Walczaki",
    "country": null,
    "rankHltv": 149,
-   "rankVrs": 131
+   "rankVrs": 138
   },
   {
    "id": 13012,
    "name": "HYPERSPIRIT",
    "country": null,
    "rankHltv": 154,
-   "rankVrs": 161
+   "rankVrs": 164
   },
   {
    "id": 13053,
    "name": "Just Swing#178#201",
    "country": null,
    "rankHltv": 158,
-   "rankVrs": 168
+   "rankVrs": 169
   },
   {
    "id": 6089,
    "name": "The Last Resort",
    "country": null,
    "rankHltv": 159,
-   "rankVrs": 143
+   "rankVrs": 144
   },
   {
    "id": 13364,
    "name": "Famalicão",
    "country": null,
    "rankHltv": 161,
-   "rankVrs": 245
+   "rankVrs": 246
   },
   {
    "id": 13857,
@@ -755,42 +755,42 @@
    "name": "Vexar",
    "country": null,
    "rankHltv": 168,
-   "rankVrs": 153
+   "rankVrs": 155
   },
   {
    "id": 13747,
    "name": "BERG",
    "country": null,
    "rankHltv": 171,
-   "rankVrs": 193
+   "rankVrs": 197
   },
   {
    "id": 12554,
    "name": "regain",
    "country": null,
    "rankHltv": 173,
-   "rankVrs": 156
+   "rankVrs": 157
   },
   {
    "id": 13983,
    "name": "Vitalem Aerem",
    "country": null,
    "rankHltv": 174,
-   "rankVrs": 199
+   "rankVrs": 200
   },
   {
    "id": 13945,
    "name": "MAYBE",
    "country": null,
    "rankHltv": 176,
-   "rankVrs": 181
+   "rankVrs": 188
   },
   {
    "id": 13766,
    "name": "Phantom Academy",
    "country": null,
    "rankHltv": 178,
-   "rankVrs": 176
+   "rankVrs": 170
   },
   {
    "id": 11018,
@@ -804,77 +804,77 @@
    "name": "Ryvex",
    "country": null,
    "rankHltv": 181,
-   "rankVrs": 219
+   "rankVrs": 222
   },
   {
    "id": 13991,
    "name": "Azuolas",
    "country": null,
    "rankHltv": 185,
-   "rankVrs": 171
+   "rankVrs": 168
   },
   {
    "id": 13826,
    "name": "Nas",
    "country": null,
    "rankHltv": 187,
-   "rankVrs": 237
+   "rankVrs": 236
   },
   {
    "id": 14049,
    "name": "The KnockoutX#330",
    "country": null,
    "rankHltv": 189,
-   "rankVrs": 295
+   "rankVrs": 300
   },
   {
    "id": 13971,
    "name": "Revise",
    "country": null,
    "rankHltv": 192,
-   "rankVrs": 262
+   "rankVrs": 264
   },
   {
    "id": 10867,
    "name": "MASONIC",
    "country": null,
    "rankHltv": 193,
-   "rankVrs": 175
+   "rankVrs": 178
   },
   {
    "id": 13571,
    "name": "SINQU",
    "country": null,
    "rankHltv": 196,
-   "rankVrs": 191
+   "rankVrs": 194
   },
   {
    "id": 13976,
    "name": "LFO 8",
    "country": null,
    "rankHltv": 198,
-   "rankVrs": 305
+   "rankVrs": 280
   },
   {
    "id": 4246,
    "name": "Enjoy",
    "country": null,
    "rankHltv": 199,
-   "rankVrs": 157
+   "rankVrs": 153
   },
   {
    "id": 13613,
    "name": "Bebop",
    "country": null,
    "rankHltv": 207,
-   "rankVrs": 212
+   "rankVrs": 211
   },
   {
    "id": 11668,
    "name": "Mindfreak#213#265",
    "country": null,
    "rankHltv": 209,
-   "rankVrs": 209
+   "rankVrs": 210
   },
   {
    "id": 12948,
@@ -895,14 +895,14 @@
    "name": "Lilmix",
    "country": null,
    "rankHltv": 216,
-   "rankVrs": 187
+   "rankVrs": 191
   },
   {
    "id": 13242,
    "name": "XDM",
    "country": null,
    "rankHltv": 223,
-   "rankVrs": 277
+   "rankVrs": 283
   },
   {
    "id": 13914,
@@ -916,14 +916,14 @@
    "name": "Fortress",
    "country": null,
    "rankHltv": 230,
-   "rankVrs": 243
+   "rankVrs": 245
   },
   {
    "id": 13694,
    "name": "THE UNIT#246#225",
    "country": null,
    "rankHltv": 232,
-   "rankVrs": 221
+   "rankVrs": 224
   },
   {
    "id": 14006,
@@ -935,7 +935,7 @@
   {
    "id": 4914,
    "name": "3DMAX",
-   "country": null,
+   "country": "FR",
    "rankHltv": 0,
    "rankVrs": 27
   },
@@ -944,14 +944,14 @@
    "name": "Color",
    "country": null,
    "rankHltv": 0,
-   "rankVrs": 61
+   "rankVrs": 63
   },
   {
    "id": 11712,
    "name": "Sashi",
    "country": null,
    "rankHltv": 0,
-   "rankVrs": 92
+   "rankVrs": 95
   },
   {
    "id": 13486,
@@ -961,53 +961,53 @@
    "rankVrs": 127
   },
   {
-   "id": 14014,
-   "name": "Gothic",
-   "country": null,
-   "rankHltv": 0,
-   "rankVrs": 169
-  },
-  {
    "id": 14084,
    "name": "LFO 10",
    "country": null,
    "rankHltv": 0,
-   "rankVrs": 170
+   "rankVrs": 166
+  },
+  {
+   "id": 14014,
+   "name": "Gothic",
+   "country": null,
+   "rankHltv": 0,
+   "rankVrs": 177
   },
   {
    "id": 12152,
    "name": "KZG",
    "country": null,
    "rankHltv": 0,
-   "rankVrs": 180
+   "rankVrs": 181
   },
   {
    "id": 13900,
    "name": "Banda Chuya",
    "country": null,
    "rankHltv": 0,
-   "rankVrs": 186
+   "rankVrs": 183
   },
   {
    "id": 9942,
    "name": "MARKandLARRY",
    "country": null,
    "rankHltv": 0,
-   "rankVrs": 265
+   "rankVrs": 259
   },
   {
    "id": 14085,
    "name": "antidaun",
    "country": null,
    "rankHltv": 0,
-   "rankVrs": 269
+   "rankVrs": 273
   },
   {
    "id": 9275,
    "name": "madlikewizards",
    "country": null,
    "rankHltv": 0,
-   "rankVrs": 319
+   "rankVrs": 315
   },
   {
    "id": 14075,
@@ -1066,6 +1066,25 @@
     13181,
     12889,
     13623
+   ]
+  },
+  {
+   "id": 8932,
+   "name": "Thunderpick World Championship 2026",
+   "start": "2026-10-14",
+   "end": "2026-10-18",
+   "status": "live",
+   "location": "Malta",
+   "prize": "$1,000,000",
+   "teams": [
+    8297,
+    11283,
+    11861,
+    12468,
+    12467,
+    12394,
+    9996,
+    4411
    ]
   },
   {

@@ -3,7 +3,7 @@
  "name": "MIBR",
  "country": "SE",
  "rankHltv": 12,
- "rankVrs": 14,
+ "rankVrs": 15,
  "players": [
   {
    "id": 19310,
@@ -38,14 +38,15 @@
   }
  ],
  "events": [
+  9223,
   8057,
-  8261,
-  8266
+  8266,
+  8261
  ],
  "recent": [
   {
    "matchId": 2398106,
-   "date": "2026-09-20",
+   "date": "2026-09-19",
    "opponent": 8297,
    "bo": 3,
    "score": [
@@ -78,7 +79,7 @@
   },
   {
    "matchId": 2398091,
-   "date": "2026-09-18",
+   "date": "2026-09-17",
    "opponent": 8297,
    "bo": 3,
    "score": [
@@ -177,29 +178,29 @@
   }
  ],
  "mapStats": {
+  "de_inferno": {
+   "played": 12,
+   "winPct": 75
+  },
+  "de_cache": {
+   "played": 8,
+   "winPct": 62
+  },
+  "de_nuke": {
+   "played": 11,
+   "winPct": 54
+  },
+  "de_mirage": {
+   "played": 8,
+   "winPct": 50
+  },
   "de_ancient": {
-   "played": 2,
+   "played": 6,
    "winPct": 50
   },
   "de_anubis": {
    "played": 1,
    "winPct": 0
-  },
-  "de_cache": {
-   "played": 3,
-   "winPct": 67
-  },
-  "de_inferno": {
-   "played": 6,
-   "winPct": 50
-  },
-  "de_mirage": {
-   "played": 4,
-   "winPct": 50
-  },
-  "de_nuke": {
-   "played": 6,
-   "winPct": 33
   }
  }
 }

@@ -2,8 +2,8 @@
  "id": 12467,
  "name": "PARIVISION",
  "country": "KZ",
- "rankHltv": 20,
- "rankVrs": 11,
+ "rankHltv": 11,
+ "rankVrs": 12,
  "players": [
   {
    "id": 8528,
@@ -38,12 +38,35 @@
   }
  ],
  "events": [
+  8932,
   8244,
-  8261,
   8266,
+  8261,
   8301
  ],
  "recent": [
+  {
+   "matchId": 2399386,
+   "date": "2026-10-14",
+   "opponent": 12468,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8932
+  },
+  {
+   "matchId": 2398751,
+   "date": "2026-10-09",
+   "opponent": 9565,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8244
+  },
   {
    "matchId": 2398748,
    "date": "2026-10-07",
@@ -105,8 +128,8 @@
    "opponent": 13592,
    "bo": 3,
    "score": [
-    2,
-    0
+    0,
+    2
    ],
    "eventId": 8266
   },
@@ -166,6 +189,28 @@
    "eventId": 8261
   },
   {
+   "matchId": 2394984,
+   "date": "2026-06-13",
+   "opponent": 12468,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8301
+  },
+  {
+   "matchId": 2394903,
+   "date": "2026-06-11",
+   "opponent": 9996,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 8301
+  },
+  {
    "matchId": 2394974,
    "date": "",
    "opponent": 11811,
@@ -180,27 +225,27 @@
  "mapStats": {
   "de_ancient": {
    "played": 7,
-   "winPct": 86
-  },
-  "de_anubis": {
-   "played": 3,
-   "winPct": 0
+   "winPct": 71
   },
   "de_cache": {
    "played": 2,
    "winPct": 50
   },
-  "de_dust2": {
-   "played": 4,
-   "winPct": 0
-  },
   "de_inferno": {
-   "played": 8,
-   "winPct": 50
+   "played": 9,
+   "winPct": 33
   },
   "de_mirage": {
-   "played": 2,
-   "winPct": 50
+   "played": 3,
+   "winPct": 33
+  },
+  "de_anubis": {
+   "played": 3,
+   "winPct": 33
+  },
+  "de_dust2": {
+   "played": 6,
+   "winPct": 17
   }
  }
 }

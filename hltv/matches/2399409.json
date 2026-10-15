@@ -1,22 +1,80 @@
 {
  "id": 2399409,
  "eventId": 8932,
- "stage": "",
- "time": "2026-10-15T11:00:00Z",
+ "stage": "Group A Winners' Match",
+ "time": "2026-10-15T11:30:00Z",
  "bo": 3,
- "status": "upcoming",
+ "status": "live",
  "team1": {
-  "id": 0,
+  "id": 9996,
   "score": null,
   "players": []
  },
  "team2": {
-  "id": 0,
+  "id": 11283,
   "score": null,
   "players": []
  },
- "maps": [],
+ "maps": [
+  {
+   "map": "de_nuke",
+   "pick": 9996,
+   "score": null
+  },
+  {
+   "map": "de_mirage",
+   "pick": 11283,
+   "score": null
+  },
+  {
+   "map": "de_dust2",
+   "pick": null,
+   "score": null
+  }
+ ],
  "stats": {},
  "mvp": null,
- "h2h": null
+ "h2h": {
+  "team1Wins": 2,
+  "overtimes": 0,
+  "team2Wins": 1,
+  "maps": [
+   {
+    "date": "2026-05-10",
+    "matchId": 2394130,
+    "eventId": 8049,
+    "event": "PGL Astana 2026",
+    "map": "de_dust2",
+    "score": [
+     13,
+     1
+    ],
+    "winner": 9996
+   },
+   {
+    "date": "2026-05-10",
+    "matchId": 2394130,
+    "eventId": 8049,
+    "event": "PGL Astana 2026",
+    "map": "de_mirage",
+    "score": [
+     9,
+     13
+    ],
+    "winner": 11283
+   },
+   {
+    "date": "2026-05-10",
+    "matchId": 2394130,
+    "eventId": 8049,
+    "event": "PGL Astana 2026",
+    "map": "de_nuke",
+    "score": [
+     13,
+     8
+    ],
+    "winner": 9996
+   }
+  ]
+ }
 }

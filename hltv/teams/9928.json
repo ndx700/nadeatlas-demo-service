@@ -2,8 +2,8 @@
  "id": 9928,
  "name": "GamerLegion",
  "country": "PL",
- "rankHltv": 19,
- "rankVrs": 29,
+ "rankHltv": 22,
+ "rankVrs": 33,
  "players": [
   {
    "id": 2553,
@@ -38,10 +38,10 @@
   }
  ],
  "events": [
-  8261,
+  9408,
   8266,
-  9154,
-  9408
+  8261,
+  9154
  ],
  "recent": [
   {
@@ -123,25 +123,29 @@
   }
  ],
  "mapStats": {
-  "de_ancient": {
-   "played": 4,
-   "winPct": 50
-  },
-  "de_cache": {
+  "de_inferno": {
    "played": 1,
    "winPct": 100
   },
-  "de_dust2": {
-   "played": 2,
-   "winPct": 0
-  },
-  "de_mirage": {
-   "played": 3,
-   "winPct": 0
+  "de_cache": {
+   "played": 9,
+   "winPct": 89
   },
   "de_nuke": {
-   "played": 2,
+   "played": 8,
+   "winPct": 62
+  },
+  "de_ancient": {
+   "played": 12,
    "winPct": 50
+  },
+  "de_dust2": {
+   "played": 6,
+   "winPct": 33
+  },
+  "de_mirage": {
+   "played": 8,
+   "winPct": 12
   }
  }
 }

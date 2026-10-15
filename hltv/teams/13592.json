@@ -2,7 +2,7 @@
  "id": 13592,
  "name": "magic",
  "country": "BY",
- "rankHltv": 18,
+ "rankHltv": 24,
  "rankVrs": 28,
  "players": [
   {
@@ -39,9 +39,10 @@
  ],
  "events": [
   8057,
-  8261,
   8266,
-  9154
+  8261,
+  9154,
+  8301
  ],
  "recent": [
   {
@@ -67,9 +68,9 @@
    "eventId": 8057
   },
   {
-   "matchId": 2397616,
+   "matchId": 2397618,
    "date": "2026-09-10",
-   "opponent": 12467,
+   "opponent": 12474,
    "bo": 3,
    "score": [
     0,
@@ -78,9 +79,9 @@
    "eventId": 8266
   },
   {
-   "matchId": 2397618,
+   "matchId": 2397616,
    "date": "2026-09-10",
-   "opponent": 12474,
+   "opponent": 12467,
    "bo": 3,
    "score": [
     2,
@@ -167,29 +168,29 @@
   }
  ],
  "mapStats": {
-  "de_ancient": {
-   "played": 7,
-   "winPct": 43
-  },
-  "de_anubis": {
-   "played": 1,
-   "winPct": 0
-  },
   "de_cache": {
-   "played": 1,
-   "winPct": 100
+   "played": 8,
+   "winPct": 75
+  },
+  "de_inferno": {
+   "played": 5,
+   "winPct": 60
+  },
+  "de_ancient": {
+   "played": 19,
+   "winPct": 58
   },
   "de_dust2": {
+   "played": 9,
+   "winPct": 44
+  },
+  "de_anubis": {
    "played": 5,
    "winPct": 40
   },
-  "de_inferno": {
-   "played": 3,
-   "winPct": 33
-  },
   "de_mirage": {
-   "played": 4,
-   "winPct": 0
+   "played": 8,
+   "winPct": 38
   }
  }
 }

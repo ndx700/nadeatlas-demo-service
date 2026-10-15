@@ -2,22 +2,1012 @@
  "id": 2399386,
  "eventId": 8932,
  "stage": "Group B Opening Match",
- "time": "2026-10-14T13:30:00Z",
+ "time": "2026-10-14T15:40:00Z",
  "bo": 3,
- "status": "upcoming",
+ "status": "finished",
  "team1": {
   "id": 12468,
-  "score": null,
-  "players": []
+  "score": 2,
+  "players": [
+   12521,
+   15698,
+   19045,
+   19686,
+   19869
+  ]
  },
  "team2": {
   "id": 12467,
-  "score": null,
-  "players": []
+  "score": 0,
+  "players": [
+   23685,
+   13776,
+   22471,
+   12732,
+   8528
+  ]
  },
- "maps": [],
- "stats": {},
- "mvp": null,
+ "maps": [
+  {
+   "map": "de_dust2",
+   "pick": 12467,
+   "score": [
+    13,
+    11
+   ],
+   "halves": [
+    [
+     8,
+     4
+    ],
+    [
+     5,
+     7
+    ]
+   ]
+  },
+  {
+   "map": "de_mirage",
+   "pick": 12468,
+   "score": [
+    16,
+    14
+   ],
+   "halves": [
+    [
+     6,
+     6
+    ],
+    [
+     6,
+     6
+    ]
+   ]
+  },
+  {
+   "map": "de_ancient",
+   "pick": null,
+   "score": null
+  }
+ ],
+ "stats": {
+  "all": {
+   "both": [
+    {
+     "player": 15698,
+     "nick": "dumau",
+     "kills": 43,
+     "deaths": 32,
+     "swing": 1.53,
+     "adr": 77.5,
+     "kast": 75.9,
+     "rating": 1.21
+    },
+    {
+     "player": 19869,
+     "nick": "try",
+     "kills": 41,
+     "deaths": 26,
+     "swing": 1.77,
+     "adr": 74.0,
+     "kast": 77.8,
+     "rating": 1.14
+    },
+    {
+     "player": 19045,
+     "nick": "latto",
+     "kills": 34,
+     "deaths": 35,
+     "swing": -0.36,
+     "adr": 75.7,
+     "kast": 83.3,
+     "rating": 1.12
+    },
+    {
+     "player": 19686,
+     "nick": "n1ssim",
+     "kills": 32,
+     "deaths": 29,
+     "swing": 0.6,
+     "adr": 55.6,
+     "kast": 64.8,
+     "rating": 1.01
+    },
+    {
+     "player": 12521,
+     "nick": "arT",
+     "kills": 24,
+     "deaths": 38,
+     "swing": -0.64,
+     "adr": 63.0,
+     "kast": 68.5,
+     "rating": 0.9
+    },
+    {
+     "player": 23685,
+     "nick": "zweih",
+     "kills": 39,
+     "deaths": 37,
+     "swing": 2.35,
+     "adr": 84.4,
+     "kast": 72.2,
+     "rating": 1.23
+    },
+    {
+     "player": 8528,
+     "nick": "HObbit",
+     "kills": 39,
+     "deaths": 34,
+     "swing": 2.05,
+     "adr": 78.6,
+     "kast": 66.7,
+     "rating": 1.18
+    },
+    {
+     "player": 22471,
+     "nick": "xiELO",
+     "kills": 36,
+     "deaths": 38,
+     "swing": -2.23,
+     "adr": 68.0,
+     "kast": 63.0,
+     "rating": 0.92
+    },
+    {
+     "player": 13776,
+     "nick": "Jame",
+     "kills": 25,
+     "deaths": 33,
+     "swing": -2.35,
+     "adr": 52.7,
+     "kast": 66.7,
+     "rating": 0.74
+    },
+    {
+     "player": 12732,
+     "nick": "FL1T",
+     "kills": 18,
+     "deaths": 33,
+     "swing": -3.44,
+     "adr": 46.0,
+     "kast": 66.7,
+     "rating": 0.64
+    }
+   ],
+   "t": [
+    {
+     "player": 19869,
+     "nick": "try",
+     "kills": 22,
+     "deaths": 15,
+     "swing": 3.5,
+     "adr": 78.0,
+     "kast": 74.1,
+     "rating": 1.32
+    },
+    {
+     "player": 19686,
+     "nick": "n1ssim",
+     "kills": 17,
+     "deaths": 15,
+     "swing": 3.75,
+     "adr": 59.5,
+     "kast": 59.3,
+     "rating": 1.22
+    },
+    {
+     "player": 19045,
+     "nick": "latto",
+     "kills": 12,
+     "deaths": 19,
+     "swing": -1.24,
+     "adr": 59.4,
+     "kast": 81.5,
+     "rating": 1.05
+    },
+    {
+     "player": 15698,
+     "nick": "dumau",
+     "kills": 13,
+     "deaths": 20,
+     "swing": -1.1,
+     "adr": 51.0,
+     "kast": 63.0,
+     "rating": 0.87
+    },
+    {
+     "player": 12521,
+     "nick": "arT",
+     "kills": 9,
+     "deaths": 21,
+     "swing": -1.37,
+     "adr": 51.6,
+     "kast": 63.0,
+     "rating": 0.83
+    },
+    {
+     "player": 8528,
+     "nick": "HObbit",
+     "kills": 16,
+     "deaths": 19,
+     "swing": 1.74,
+     "adr": 61.9,
+     "kast": 59.3,
+     "rating": 1.09
+    },
+    {
+     "player": 23685,
+     "nick": "zweih",
+     "kills": 13,
+     "deaths": 21,
+     "swing": 0.5,
+     "adr": 62.0,
+     "kast": 66.7,
+     "rating": 0.98
+    },
+    {
+     "player": 22471,
+     "nick": "xiELO",
+     "kills": 16,
+     "deaths": 21,
+     "swing": -0.58,
+     "adr": 60.7,
+     "kast": 51.9,
+     "rating": 0.94
+    },
+    {
+     "player": 13776,
+     "nick": "Jame",
+     "kills": 15,
+     "deaths": 20,
+     "swing": -1.92,
+     "adr": 64.6,
+     "kast": 59.3,
+     "rating": 0.84
+    },
+    {
+     "player": 12732,
+     "nick": "FL1T",
+     "kills": 10,
+     "deaths": 21,
+     "swing": -2.51,
+     "adr": 54.7,
+     "kast": 59.3,
+     "rating": 0.73
+    }
+   ],
+   "ct": [
+    {
+     "player": 15698,
+     "nick": "dumau",
+     "kills": 30,
+     "deaths": 12,
+     "swing": 4.16,
+     "adr": 104.0,
+     "kast": 88.9,
+     "rating": 1.56
+    },
+    {
+     "player": 19045,
+     "nick": "latto",
+     "kills": 22,
+     "deaths": 16,
+     "swing": 0.53,
+     "adr": 92.0,
+     "kast": 85.2,
+     "rating": 1.19
+    },
+    {
+     "player": 12521,
+     "nick": "arT",
+     "kills": 15,
+     "deaths": 17,
+     "swing": 0.09,
+     "adr": 74.3,
+     "kast": 74.1,
+     "rating": 0.97
+    },
+    {
+     "player": 19869,
+     "nick": "try",
+     "kills": 19,
+     "deaths": 11,
+     "swing": 0.04,
+     "adr": 70.1,
+     "kast": 81.5,
+     "rating": 0.95
+    },
+    {
+     "player": 19686,
+     "nick": "n1ssim",
+     "kills": 15,
+     "deaths": 14,
+     "swing": -2.55,
+     "adr": 51.7,
+     "kast": 70.4,
+     "rating": 0.8
+    },
+    {
+     "player": 23685,
+     "nick": "zweih",
+     "kills": 26,
+     "deaths": 16,
+     "swing": 4.2,
+     "adr": 106.7,
+     "kast": 77.8,
+     "rating": 1.48
+    },
+    {
+     "player": 8528,
+     "nick": "HObbit",
+     "kills": 23,
+     "deaths": 15,
+     "swing": 2.35,
+     "adr": 95.4,
+     "kast": 74.1,
+     "rating": 1.28
+    },
+    {
+     "player": 22471,
+     "nick": "xiELO",
+     "kills": 20,
+     "deaths": 17,
+     "swing": -3.88,
+     "adr": 75.3,
+     "kast": 74.1,
+     "rating": 0.9
+    },
+    {
+     "player": 13776,
+     "nick": "Jame",
+     "kills": 10,
+     "deaths": 13,
+     "swing": -2.79,
+     "adr": 40.9,
+     "kast": 74.1,
+     "rating": 0.65
+    },
+    {
+     "player": 12732,
+     "nick": "FL1T",
+     "kills": 8,
+     "deaths": 12,
+     "swing": -4.37,
+     "adr": 37.3,
+     "kast": 74.1,
+     "rating": 0.55
+    }
+   ]
+  },
+  "de_dust2": {
+   "both": [
+    {
+     "player": 19045,
+     "nick": "latto",
+     "kills": 20,
+     "deaths": 18,
+     "swing": 1.01,
+     "adr": 92.3,
+     "kast": 75.0,
+     "rating": 1.3
+    },
+    {
+     "player": 19869,
+     "nick": "try",
+     "kills": 20,
+     "deaths": 13,
+     "swing": 2.75,
+     "adr": 86.4,
+     "kast": 87.5,
+     "rating": 1.24
+    },
+    {
+     "player": 12521,
+     "nick": "arT",
+     "kills": 12,
+     "deaths": 15,
+     "swing": 0.65,
+     "adr": 58.8,
+     "kast": 58.3,
+     "rating": 0.99
+    },
+    {
+     "player": 19686,
+     "nick": "n1ssim",
+     "kills": 12,
+     "deaths": 14,
+     "swing": -0.17,
+     "adr": 55.4,
+     "kast": 58.3,
+     "rating": 0.95
+    },
+    {
+     "player": 15698,
+     "nick": "dumau",
+     "kills": 14,
+     "deaths": 15,
+     "swing": -3.5,
+     "adr": 65.0,
+     "kast": 70.8,
+     "rating": 0.89
+    },
+    {
+     "player": 23685,
+     "nick": "zweih",
+     "kills": 19,
+     "deaths": 15,
+     "swing": 5.38,
+     "adr": 84.8,
+     "kast": 75.0,
+     "rating": 1.52
+    },
+    {
+     "player": 8528,
+     "nick": "HObbit",
+     "kills": 19,
+     "deaths": 15,
+     "swing": 1.54,
+     "adr": 73.1,
+     "kast": 62.5,
+     "rating": 1.2
+    },
+    {
+     "player": 22471,
+     "nick": "xiELO",
+     "kills": 16,
+     "deaths": 16,
+     "swing": -2.11,
+     "adr": 64.8,
+     "kast": 70.8,
+     "rating": 0.99
+    },
+    {
+     "player": 13776,
+     "nick": "Jame",
+     "kills": 12,
+     "deaths": 16,
+     "swing": -2.35,
+     "adr": 70.2,
+     "kast": 70.8,
+     "rating": 0.82
+    },
+    {
+     "player": 12732,
+     "nick": "FL1T",
+     "kills": 7,
+     "deaths": 16,
+     "swing": -3.9,
+     "adr": 46.7,
+     "kast": 75.0,
+     "rating": 0.62
+    }
+   ],
+   "t": [
+    {
+     "player": 19869,
+     "nick": "try",
+     "kills": 10,
+     "deaths": 8,
+     "swing": 5.06,
+     "adr": 91.2,
+     "kast": 83.3,
+     "rating": 1.43
+    },
+    {
+     "player": 19686,
+     "nick": "n1ssim",
+     "kills": 8,
+     "deaths": 7,
+     "swing": 6.07,
+     "adr": 77.2,
+     "kast": 58.3,
+     "rating": 1.41
+    },
+    {
+     "player": 12521,
+     "nick": "arT",
+     "kills": 4,
+     "deaths": 9,
+     "swing": -2.43,
+     "adr": 43.2,
+     "kast": 41.7,
+     "rating": 0.74
+    },
+    {
+     "player": 19045,
+     "nick": "latto",
+     "kills": 5,
+     "deaths": 10,
+     "swing": -4.91,
+     "adr": 50.7,
+     "kast": 58.3,
+     "rating": 0.69
+    },
+    {
+     "player": 15698,
+     "nick": "dumau",
+     "kills": 2,
+     "deaths": 10,
+     "swing": -9.95,
+     "adr": 26.2,
+     "kast": 50.0,
+     "rating": 0.32
+    },
+    {
+     "player": 22471,
+     "nick": "xiELO",
+     "kills": 10,
+     "deaths": 9,
+     "swing": 0.95,
+     "adr": 67.0,
+     "kast": 58.3,
+     "rating": 1.22
+    },
+    {
+     "player": 8528,
+     "nick": "HObbit",
+     "kills": 7,
+     "deaths": 9,
+     "swing": 3.21,
+     "adr": 63.9,
+     "kast": 58.3,
+     "rating": 1.2
+    },
+    {
+     "player": 23685,
+     "nick": "zweih",
+     "kills": 6,
+     "deaths": 10,
+     "swing": -1.05,
+     "adr": 53.3,
+     "kast": 66.7,
+     "rating": 0.88
+    },
+    {
+     "player": 12732,
+     "nick": "FL1T",
+     "kills": 3,
+     "deaths": 11,
+     "swing": -3.76,
+     "adr": 53.6,
+     "kast": 66.7,
+     "rating": 0.64
+    },
+    {
+     "player": 13776,
+     "nick": "Jame",
+     "kills": 5,
+     "deaths": 10,
+     "swing": -6.97,
+     "adr": 69.6,
+     "kast": 50.0,
+     "rating": 0.56
+    }
+   ],
+   "ct": [
+    {
+     "player": 19045,
+     "nick": "latto",
+     "kills": 15,
+     "deaths": 8,
+     "swing": 6.93,
+     "adr": 134.0,
+     "kast": 91.7,
+     "rating": 1.92
+    },
+    {
+     "player": 15698,
+     "nick": "dumau",
+     "kills": 12,
+     "deaths": 5,
+     "swing": 2.96,
+     "adr": 103.9,
+     "kast": 91.7,
+     "rating": 1.46
+    },
+    {
+     "player": 12521,
+     "nick": "arT",
+     "kills": 8,
+     "deaths": 6,
+     "swing": 3.72,
+     "adr": 74.4,
+     "kast": 75.0,
+     "rating": 1.23
+    },
+    {
+     "player": 19869,
+     "nick": "try",
+     "kills": 10,
+     "deaths": 5,
+     "swing": 0.44,
+     "adr": 81.5,
+     "kast": 91.7,
+     "rating": 1.04
+    },
+    {
+     "player": 19686,
+     "nick": "n1ssim",
+     "kills": 4,
+     "deaths": 7,
+     "swing": -6.41,
+     "adr": 33.6,
+     "kast": 58.3,
+     "rating": 0.49
+    },
+    {
+     "player": 23685,
+     "nick": "zweih",
+     "kills": 13,
+     "deaths": 5,
+     "swing": 11.81,
+     "adr": 116.2,
+     "kast": 83.3,
+     "rating": 2.17
+    },
+    {
+     "player": 8528,
+     "nick": "HObbit",
+     "kills": 12,
+     "deaths": 6,
+     "swing": -0.12,
+     "adr": 82.2,
+     "kast": 66.7,
+     "rating": 1.2
+    },
+    {
+     "player": 13776,
+     "nick": "Jame",
+     "kills": 7,
+     "deaths": 6,
+     "swing": 2.27,
+     "adr": 70.9,
+     "kast": 91.7,
+     "rating": 1.08
+    },
+    {
+     "player": 22471,
+     "nick": "xiELO",
+     "kills": 6,
+     "deaths": 7,
+     "swing": -5.16,
+     "adr": 62.6,
+     "kast": 83.3,
+     "rating": 0.75
+    },
+    {
+     "player": 12732,
+     "nick": "FL1T",
+     "kills": 4,
+     "deaths": 5,
+     "swing": -4.04,
+     "adr": 39.8,
+     "kast": 83.3,
+     "rating": 0.6
+    }
+   ]
+  },
+  "de_mirage": {
+   "both": [
+    {
+     "player": 15698,
+     "nick": "dumau",
+     "kills": 29,
+     "deaths": 17,
+     "swing": 5.56,
+     "adr": 87.4,
+     "kast": 80.0,
+     "rating": 1.57
+    },
+    {
+     "player": 19686,
+     "nick": "n1ssim",
+     "kills": 20,
+     "deaths": 15,
+     "swing": 1.21,
+     "adr": 55.8,
+     "kast": 70.0,
+     "rating": 1.1
+    },
+    {
+     "player": 19045,
+     "nick": "latto",
+     "kills": 14,
+     "deaths": 17,
+     "swing": -1.45,
+     "adr": 62.3,
+     "kast": 90.0,
+     "rating": 1.07
+    },
+    {
+     "player": 19869,
+     "nick": "try",
+     "kills": 21,
+     "deaths": 13,
+     "swing": 0.99,
+     "adr": 64.1,
+     "kast": 70.0,
+     "rating": 1.07
+    },
+    {
+     "player": 12521,
+     "nick": "arT",
+     "kills": 12,
+     "deaths": 23,
+     "swing": -1.67,
+     "adr": 66.3,
+     "kast": 76.7,
+     "rating": 0.86
+    },
+    {
+     "player": 8528,
+     "nick": "HObbit",
+     "kills": 20,
+     "deaths": 19,
+     "swing": 2.45,
+     "adr": 83.0,
+     "kast": 70.0,
+     "rating": 1.18
+    },
+    {
+     "player": 23685,
+     "nick": "zweih",
+     "kills": 20,
+     "deaths": 22,
+     "swing": -0.08,
+     "adr": 84.1,
+     "kast": 70.0,
+     "rating": 1.03
+    },
+    {
+     "player": 22471,
+     "nick": "xiELO",
+     "kills": 20,
+     "deaths": 22,
+     "swing": -2.32,
+     "adr": 70.6,
+     "kast": 56.7,
+     "rating": 0.87
+    },
+    {
+     "player": 13776,
+     "nick": "Jame",
+     "kills": 13,
+     "deaths": 17,
+     "swing": -2.35,
+     "adr": 38.7,
+     "kast": 63.3,
+     "rating": 0.74
+    },
+    {
+     "player": 12732,
+     "nick": "FL1T",
+     "kills": 11,
+     "deaths": 17,
+     "swing": -3.07,
+     "adr": 45.4,
+     "kast": 60.0,
+     "rating": 0.65
+    }
+   ],
+   "t": [
+    {
+     "player": 15698,
+     "nick": "dumau",
+     "kills": 11,
+     "deaths": 10,
+     "swing": 5.99,
+     "adr": 70.8,
+     "kast": 73.3,
+     "rating": 1.49
+    },
+    {
+     "player": 19045,
+     "nick": "latto",
+     "kills": 7,
+     "deaths": 9,
+     "swing": 1.7,
+     "adr": 66.3,
+     "kast": 100.0,
+     "rating": 1.4
+    },
+    {
+     "player": 19869,
+     "nick": "try",
+     "kills": 12,
+     "deaths": 7,
+     "swing": 2.26,
+     "adr": 67.3,
+     "kast": 66.7,
+     "rating": 1.25
+    },
+    {
+     "player": 19686,
+     "nick": "n1ssim",
+     "kills": 9,
+     "deaths": 8,
+     "swing": 1.89,
+     "adr": 45.4,
+     "kast": 60.0,
+     "rating": 1.09
+    },
+    {
+     "player": 12521,
+     "nick": "arT",
+     "kills": 5,
+     "deaths": 12,
+     "swing": -0.52,
+     "adr": 58.3,
+     "kast": 80.0,
+     "rating": 0.93
+    },
+    {
+     "player": 13776,
+     "nick": "Jame",
+     "kills": 10,
+     "deaths": 10,
+     "swing": 2.13,
+     "adr": 60.6,
+     "kast": 66.7,
+     "rating": 1.1
+    },
+    {
+     "player": 23685,
+     "nick": "zweih",
+     "kills": 7,
+     "deaths": 11,
+     "swing": 1.74,
+     "adr": 69.0,
+     "kast": 66.7,
+     "rating": 1.06
+    },
+    {
+     "player": 8528,
+     "nick": "HObbit",
+     "kills": 9,
+     "deaths": 10,
+     "swing": 0.57,
+     "adr": 60.2,
+     "kast": 60.0,
+     "rating": 1.0
+    },
+    {
+     "player": 12732,
+     "nick": "FL1T",
+     "kills": 7,
+     "deaths": 10,
+     "swing": -1.5,
+     "adr": 55.6,
+     "kast": 53.3,
+     "rating": 0.8
+    },
+    {
+     "player": 22471,
+     "nick": "xiELO",
+     "kills": 6,
+     "deaths": 12,
+     "swing": -1.81,
+     "adr": 55.7,
+     "kast": 46.7,
+     "rating": 0.72
+    }
+   ],
+   "ct": [
+    {
+     "player": 15698,
+     "nick": "dumau",
+     "kills": 18,
+     "deaths": 7,
+     "swing": 5.12,
+     "adr": 104.1,
+     "kast": 86.7,
+     "rating": 1.64
+    },
+    {
+     "player": 19686,
+     "nick": "n1ssim",
+     "kills": 11,
+     "deaths": 7,
+     "swing": 0.53,
+     "adr": 66.1,
+     "kast": 80.0,
+     "rating": 1.1
+    },
+    {
+     "player": 19869,
+     "nick": "try",
+     "kills": 9,
+     "deaths": 6,
+     "swing": -0.28,
+     "adr": 60.9,
+     "kast": 73.3,
+     "rating": 0.89
+    },
+    {
+     "player": 12521,
+     "nick": "arT",
+     "kills": 7,
+     "deaths": 11,
+     "swing": -2.81,
+     "adr": 74.3,
+     "kast": 73.3,
+     "rating": 0.79
+    },
+    {
+     "player": 19045,
+     "nick": "latto",
+     "kills": 7,
+     "deaths": 8,
+     "swing": -4.6,
+     "adr": 58.3,
+     "kast": 80.0,
+     "rating": 0.74
+    },
+    {
+     "player": 8528,
+     "nick": "HObbit",
+     "kills": 11,
+     "deaths": 9,
+     "swing": 4.33,
+     "adr": 105.9,
+     "kast": 80.0,
+     "rating": 1.37
+    },
+    {
+     "player": 22471,
+     "nick": "xiELO",
+     "kills": 14,
+     "deaths": 10,
+     "swing": -2.84,
+     "adr": 85.4,
+     "kast": 66.7,
+     "rating": 1.03
+    },
+    {
+     "player": 23685,
+     "nick": "zweih",
+     "kills": 13,
+     "deaths": 11,
+     "swing": -1.9,
+     "adr": 99.1,
+     "kast": 73.3,
+     "rating": 1.0
+    },
+    {
+     "player": 12732,
+     "nick": "FL1T",
+     "kills": 4,
+     "deaths": 7,
+     "swing": -4.63,
+     "adr": 35.2,
+     "kast": 66.7,
+     "rating": 0.5
+    },
+    {
+     "player": 13776,
+     "nick": "Jame",
+     "kills": 3,
+     "deaths": 7,
+     "swing": -6.83,
+     "adr": 16.9,
+     "kast": 60.0,
+     "rating": 0.38
+    }
+   ]
+  }
+ },
+ "mvp": {
+  "player": 15698,
+  "nick": "dumau",
+  "maps": 2,
+  "kpr": 0.8,
+  "dpr": 0.59,
+  "kast": 75.9,
+  "mkRating": 0.99,
+  "swing": 1.53,
+  "adr": 77.5,
+  "rating": 1.21
+ },
  "h2h": {
   "team1Wins": 6,
   "overtimes": 3,
@@ -144,5 +1134,6 @@
     "winner": 12468
    }
   ]
- }
+ },
+ "demo": "https://www.hltv.org/download/demo/112763"
 }

@@ -2,8 +2,8 @@
  "id": 12474,
  "name": "Alliance",
  "country": "SE",
- "rankHltv": 23,
- "rankVrs": 31,
+ "rankHltv": 28,
+ "rankVrs": 30,
  "players": [
   {
    "id": 7443,
@@ -54,9 +54,9 @@
    "eventId": 8266
   },
   {
-   "matchId": 2397615,
+   "matchId": 2397618,
    "date": "2026-09-10",
-   "opponent": 4863,
+   "opponent": 13592,
    "bo": 3,
    "score": [
     2,
@@ -65,13 +65,13 @@
    "eventId": 8266
   },
   {
-   "matchId": 2397618,
+   "matchId": 2397615,
    "date": "2026-09-10",
-   "opponent": 13592,
+   "opponent": 4863,
    "bo": 3,
    "score": [
-    0,
-    2
+    2,
+    0
    ],
    "eventId": 8266
   },
@@ -110,25 +110,25 @@
   }
  ],
  "mapStats": {
+  "de_nuke": {
+   "played": 2,
+   "winPct": 100
+  },
   "de_ancient": {
-   "played": 3,
-   "winPct": 67
+   "played": 5,
+   "winPct": 60
+  },
+  "de_inferno": {
+   "played": 9,
+   "winPct": 44
   },
   "de_cache": {
-   "played": 1,
+   "played": 4,
    "winPct": 0
   },
   "de_dust2": {
-   "played": 1,
-   "winPct": 0
-  },
-  "de_inferno": {
    "played": 4,
-   "winPct": 25
-  },
-  "de_nuke": {
-   "played": 1,
-   "winPct": 100
+   "winPct": 0
   }
  }
 }

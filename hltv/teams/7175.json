@@ -2,8 +2,8 @@
  "id": 7175,
  "name": "HEROIC",
  "country": "SE",
- "rankHltv": 29,
- "rankVrs": 20,
+ "rankHltv": 30,
+ "rankVrs": 21,
  "players": [
   {
    "id": 13666,
@@ -38,6 +38,7 @@
   }
  ],
  "events": [
+  9223,
   9154
  ],
  "recent": [
@@ -53,5 +54,30 @@
    "eventId": 9154
   }
  ],
- "mapStats": {}
+ "mapStats": {
+  "de_inferno": {
+   "played": 14,
+   "winPct": 79
+  },
+  "de_mirage": {
+   "played": 12,
+   "winPct": 75
+  },
+  "de_nuke": {
+   "played": 10,
+   "winPct": 70
+  },
+  "de_ancient": {
+   "played": 15,
+   "winPct": 67
+  },
+  "de_dust2": {
+   "played": 17,
+   "winPct": 65
+  },
+  "de_cache": {
+   "played": 12,
+   "winPct": 58
+  }
+ }
 }

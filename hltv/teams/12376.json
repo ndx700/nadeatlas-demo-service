@@ -2,8 +2,8 @@
  "id": 12376,
  "name": "M80",
  "country": "DE",
- "rankHltv": 27,
- "rankVrs": 18,
+ "rankHltv": 18,
+ "rankVrs": 16,
  "players": [
   {
    "id": 15370,
@@ -57,7 +57,7 @@
   },
   {
    "matchId": 2398746,
-   "date": "2026-10-07",
+   "date": "2026-10-06",
    "opponent": 12468,
    "bo": 3,
    "score": [
@@ -167,25 +167,29 @@
   }
  ],
  "mapStats": {
+  "de_cache": {
+   "played": 13,
+   "winPct": 62
+  },
   "de_anubis": {
-   "played": 2,
+   "played": 6,
    "winPct": 50
   },
-  "de_cache": {
-   "played": 5,
-   "winPct": 40
-  },
   "de_dust2": {
-   "played": 3,
-   "winPct": 67
+   "played": 9,
+   "winPct": 44
   },
-  "de_inferno": {
-   "played": 1,
-   "winPct": 100
+  "de_ancient": {
+   "played": 7,
+   "winPct": 43
   },
   "de_mirage": {
-   "played": 4,
-   "winPct": 0
+   "played": 11,
+   "winPct": 36
+  },
+  "de_inferno": {
+   "played": 9,
+   "winPct": 33
   }
  }
 }

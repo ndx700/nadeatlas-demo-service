@@ -1,9 +1,9 @@
 {
  "id": 4914,
  "name": "3DMAX",
- "country": null,
- "rankHltv": null,
- "rankVrs": null,
+ "country": "FR",
+ "rankHltv": 0,
+ "rankVrs": 27,
  "players": [],
  "events": [
   8261,
@@ -55,18 +55,5 @@
    "eventId": 9154
   }
  ],
- "mapStats": {
-  "de_ancient": {
-   "played": 2,
-   "winPct": 100
-  },
-  "de_dust2": {
-   "played": 2,
-   "winPct": 100
-  },
-  "de_inferno": {
-   "played": 1,
-   "winPct": 0
-  }
- }
+ "mapStats": {}
 }

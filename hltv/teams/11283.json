@@ -38,16 +38,39 @@
   }
  ],
  "events": [
+  8932,
   8244,
   8249,
   8261,
-  8301,
-  9154
+  9154,
+  8301
  ],
  "recent": [
   {
+   "matchId": 2399385,
+   "date": "2026-10-14",
+   "opponent": 4411,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8932
+  },
+  {
+   "matchId": 2398753,
+   "date": "2026-10-09",
+   "opponent": 7020,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8244
+  },
+  {
    "matchId": 2398745,
-   "date": "2026-10-07",
+   "date": "2026-10-06",
    "opponent": 4608,
    "bo": 3,
    "score": [
@@ -124,7 +147,7 @@
   },
   {
    "matchId": 2396938,
-   "date": "2026-08-30",
+   "date": "2026-08-29",
    "opponent": 12468,
    "bo": 3,
    "score": [
@@ -135,7 +158,7 @@
   },
   {
    "matchId": 2396930,
-   "date": "2026-08-28",
+   "date": "2026-08-27",
    "opponent": 8840,
    "bo": 3,
    "score": [
@@ -200,41 +223,74 @@
    "eventId": 9154
   },
   {
-   "matchId": 2394975,
-   "date": "",
-   "opponent": 12394,
+   "matchId": 2395002,
+   "date": "2026-06-21",
+   "opponent": 8297,
+   "bo": 5,
+   "score": [
+    3,
+    0
+   ],
+   "eventId": 8301
+  },
+  {
+   "matchId": 2395001,
+   "date": "2026-06-21",
+   "opponent": 7020,
    "bo": 3,
    "score": [
-    0,
-    2
+    2,
+    1
+   ],
+   "eventId": 8301
+  },
+  {
+   "matchId": 2394999,
+   "date": "2026-06-19",
+   "opponent": 9565,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 8301
+  },
+  {
+   "matchId": 2394991,
+   "date": "2026-06-14",
+   "opponent": 4608,
+   "bo": 3,
+   "score": [
+    2,
+    1
    ],
    "eventId": 8301
   }
  ],
  "mapStats": {
-  "de_ancient": {
-   "played": 5,
-   "winPct": 20
-  },
-  "de_anubis": {
-   "played": 4,
-   "winPct": 50
-  },
-  "de_dust2": {
-   "played": 10,
-   "winPct": 70
-  },
   "de_inferno": {
    "played": 5,
    "winPct": 80
   },
-  "de_mirage": {
-   "played": 6,
-   "winPct": 67
+  "de_dust2": {
+   "played": 11,
+   "winPct": 73
   },
   "de_nuke": {
    "played": 3,
    "winPct": 67
+  },
+  "de_mirage": {
+   "played": 7,
+   "winPct": 57
+  },
+  "de_anubis": {
+   "played": 5,
+   "winPct": 40
+  },
+  "de_ancient": {
+   "played": 6,
+   "winPct": 33
   }
  }
 }

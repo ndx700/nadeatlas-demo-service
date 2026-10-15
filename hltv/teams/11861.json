@@ -2,7 +2,7 @@
  "id": 11861,
  "name": "Aurora",
  "country": "TR",
- "rankHltv": 9,
+ "rankHltv": 6,
  "rankVrs": 5,
  "players": [
   {
@@ -38,14 +38,70 @@
   }
  ],
  "events": [
-  8057,
+  8932,
   8244,
+  8057,
   8249,
   8261,
-  8301,
-  9154
+  9154,
+  8301
  ],
  "recent": [
+  {
+   "matchId": 2399408,
+   "date": "2026-10-15",
+   "opponent": 4411,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8932
+  },
+  {
+   "matchId": 2399384,
+   "date": "2026-10-14",
+   "opponent": 9996,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8932
+  },
+  {
+   "matchId": 2398756,
+   "date": "2026-10-11",
+   "opponent": 7020,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8244
+  },
+  {
+   "matchId": 2398754,
+   "date": "2026-10-10",
+   "opponent": 9565,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 8244
+  },
+  {
+   "matchId": 2398750,
+   "date": "2026-10-09",
+   "opponent": 10621,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8244
+  },
   {
    "matchId": 2398743,
    "date": "2026-10-06",
@@ -210,69 +266,36 @@
     2
    ],
    "eventId": 8261
-  },
-  {
-   "matchId": 2396562,
-   "date": "2026-08-12",
-   "opponent": 7532,
-   "bo": 1,
-   "score": [
-    9,
-    13
-   ],
-   "eventId": 8261
-  },
-  {
-   "matchId": 2396000,
-   "date": "2026-07-23",
-   "opponent": 13679,
-   "bo": 3,
-   "score": [
-    1,
-    2
-   ],
-   "eventId": 9154
-  },
-  {
-   "matchId": 2394977,
-   "date": "",
-   "opponent": 7020,
-   "bo": 3,
-   "score": [
-    1,
-    2
-   ],
-   "eventId": 8301
   }
  ],
  "mapStats": {
+  "de_nuke": {
+   "played": 9,
+   "winPct": 78
+  },
+  "de_anubis": {
+   "played": 12,
+   "winPct": 75
+  },
+  "de_mirage": {
+   "played": 16,
+   "winPct": 62
+  },
+  "de_dust2": {
+   "played": 9,
+   "winPct": 56
+  },
+  "de_cache": {
+   "played": 8,
+   "winPct": 50
+  },
+  "de_inferno": {
+   "played": 8,
+   "winPct": 50
+  },
   "de_ancient": {
    "played": 1,
    "winPct": 0
-  },
-  "de_anubis": {
-   "played": 6,
-   "winPct": 67
-  },
-  "de_cache": {
-   "played": 3,
-   "winPct": 33
-  },
-  "de_dust2": {
-   "played": 4,
-   "winPct": 25
-  },
-  "de_inferno": {
-   "played": 5,
-   "winPct": 20
-  },
-  "de_mirage": {
-   "played": 10,
-   "winPct": 60
-  },
-  "de_nuke": {
-   "played": 5,
-   "winPct": 80
   }
  }
 }

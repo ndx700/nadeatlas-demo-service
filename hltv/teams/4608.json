@@ -3,7 +3,7 @@
  "name": "Natus Vincere",
  "country": "FI",
  "rankHltv": 10,
- "rankVrs": 21,
+ "rankVrs": 25,
  "players": [
   {
    "id": 9816,
@@ -38,8 +38,8 @@
   }
  ],
  "events": [
-  8057,
   8244,
+  8057,
   8249,
   8261,
   8301
@@ -58,7 +58,7 @@
   },
   {
    "matchId": 2398745,
-   "date": "2026-10-07",
+   "date": "2026-10-06",
    "opponent": 11283,
    "bo": 3,
    "score": [
@@ -91,7 +91,7 @@
   },
   {
    "matchId": 2398723,
-   "date": "2026-10-04",
+   "date": "2026-10-03",
    "opponent": 5995,
    "bo": 3,
    "score": [
@@ -189,13 +189,35 @@
    "eventId": 8261
   },
   {
-   "matchId": 2394976,
-   "date": "",
-   "opponent": 12468,
+   "matchId": 2394991,
+   "date": "2026-06-14",
+   "opponent": 11283,
+   "bo": 3,
+   "score": [
+    1,
+    2
+   ],
+   "eventId": 8301
+  },
+  {
+   "matchId": 2394979,
+   "date": "2026-06-13",
+   "opponent": 6248,
    "bo": 3,
    "score": [
     2,
-    0
+    1
+   ],
+   "eventId": 8301
+  },
+  {
+   "matchId": 2394900,
+   "date": "2026-06-11",
+   "opponent": 7020,
+   "bo": 3,
+   "score": [
+    0,
+    2
    ],
    "eventId": 8301
   },
@@ -209,32 +231,43 @@
     2
    ],
    "eventId": 8301
+  },
+  {
+   "matchId": 2394976,
+   "date": "",
+   "opponent": 12468,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8301
   }
  ],
  "mapStats": {
-  "de_ancient": {
-   "played": 3,
-   "winPct": 33
-  },
-  "de_anubis": {
-   "played": 2,
-   "winPct": 50
-  },
   "de_cache": {
    "played": 4,
    "winPct": 75
   },
-  "de_inferno": {
-   "played": 8,
-   "winPct": 38
-  },
-  "de_mirage": {
-   "played": 6,
-   "winPct": 0
-  },
   "de_nuke": {
+   "played": 4,
+   "winPct": 75
+  },
+  "de_anubis": {
    "played": 3,
    "winPct": 67
+  },
+  "de_inferno": {
+   "played": 9,
+   "winPct": 44
+  },
+  "de_mirage": {
+   "played": 8,
+   "winPct": 25
+  },
+  "de_ancient": {
+   "played": 3,
+   "winPct": 0
   }
  }
 }

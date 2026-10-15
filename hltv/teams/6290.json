@@ -2,8 +2,8 @@
  "id": 6290,
  "name": "Luminosity",
  "country": "BG",
- "rankHltv": 24,
- "rankVrs": 19,
+ "rankHltv": 25,
+ "rankVrs": 22,
  "players": [
   {
    "id": 17145,
@@ -38,7 +38,10 @@
   }
  ],
  "events": [
-  8261
+  8266,
+  8261,
+  9154,
+  8301
  ],
  "recent": [
   {
@@ -65,17 +68,29 @@
   }
  ],
  "mapStats": {
-  "de_ancient": {
-   "played": 1,
-   "winPct": 0
+  "de_mirage": {
+   "played": 6,
+   "winPct": 100
   },
-  "de_dust2": {
-   "played": 1,
-   "winPct": 0
+  "de_inferno": {
+   "played": 6,
+   "winPct": 67
+  },
+  "de_ancient": {
+   "played": 6,
+   "winPct": 67
   },
   "de_nuke": {
-   "played": 1,
-   "winPct": 0
+   "played": 7,
+   "winPct": 43
+  },
+  "de_dust2": {
+   "played": 8,
+   "winPct": 25
+  },
+  "de_cache": {
+   "played": 5,
+   "winPct": 20
   }
  }
 }

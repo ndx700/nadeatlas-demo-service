@@ -1,15 +1,70 @@
 {
  "id": 8474,
  "name": "100 Thieves",
- "country": null,
- "rankHltv": null,
- "rankVrs": null,
- "players": [],
+ "country": "EU",
+ "rankHltv": 37,
+ "rankVrs": 24,
+ "players": [
+  {
+   "id": 7592,
+   "nick": "device",
+   "name": "Nicolai Reedtz",
+   "country": "DK"
+  },
+  {
+   "id": 8183,
+   "nick": "rain",
+   "name": "Håvard Nygaard",
+   "country": "NO"
+  },
+  {
+   "id": 21816,
+   "nick": "Gizmy",
+   "name": "Jack von Spreckelsen",
+   "country": "GB",
+   "role": "igl"
+  },
+  {
+   "id": 22695,
+   "nick": "sirah",
+   "name": "William Kjærsgaard",
+   "country": "DK"
+  },
+  {
+   "id": 23397,
+   "nick": "poiii",
+   "name": "Alex Nyholm Sundgren",
+   "country": "SE"
+  }
+ ],
  "events": [
+  9223,
   8261,
   9154
  ],
  "recent": [
+  {
+   "matchId": 2399253,
+   "date": "2026-10-13",
+   "opponent": 5973,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 9223
+  },
+  {
+   "matchId": 2399133,
+   "date": "2026-10-13",
+   "opponent": 10245,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 9223
+  },
   {
    "matchId": 2396585,
    "date": "2026-08-14",
@@ -56,21 +111,33 @@
   }
  ],
  "mapStats": {
-  "de_anubis": {
-   "played": 3,
-   "winPct": 67
-  },
   "de_dust2": {
-   "played": 3,
-   "winPct": 67
+   "played": 14,
+   "winPct": 86
   },
   "de_mirage": {
-   "played": 1,
-   "winPct": 100
+   "played": 10,
+   "winPct": 70
+  },
+  "de_cache": {
+   "played": 3,
+   "winPct": 67
+  },
+  "de_inferno": {
+   "played": 9,
+   "winPct": 56
+  },
+  "de_ancient": {
+   "played": 11,
+   "winPct": 54
   },
   "de_nuke": {
-   "played": 2,
-   "winPct": 0
+   "played": 10,
+   "winPct": 50
+  },
+  "de_anubis": {
+   "played": 10,
+   "winPct": 50
   }
  }
 }

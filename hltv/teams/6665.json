@@ -2,7 +2,7 @@
  "id": 6665,
  "name": "Astralis",
  "country": "SE",
- "rankHltv": 11,
+ "rankHltv": 15,
  "rankVrs": 10,
  "players": [
   {
@@ -10,6 +10,12 @@
    "nick": "phzy",
    "name": "Love Smidebrant",
    "country": "SE"
+  },
+  {
+   "id": 16820,
+   "nick": "siuhy",
+   "name": "Kamil Szkaradek",
+   "country": "PL"
   },
   {
    "id": 20304,
@@ -22,11 +28,18 @@
    "nick": "ryu",
    "name": "Gytis Glušauskas",
    "country": "LT"
+  },
+  {
+   "id": 22674,
+   "nick": "cmtry",
+   "name": "Nikita Samolotov",
+   "country": "UA"
   }
  ],
  "events": [
-  8261,
+  9223,
   8266,
+  8261,
   9154
  ],
  "recent": [
@@ -47,8 +60,8 @@
    "opponent": 12394,
    "bo": 3,
    "score": [
-    2,
-    0
+    0,
+    2
    ],
    "eventId": 8266
   },
@@ -131,33 +144,33 @@
   }
  ],
  "mapStats": {
-  "de_ancient": {
-   "played": 5,
-   "winPct": 80
-  },
-  "de_anubis": {
-   "played": 1,
-   "winPct": 100
-  },
   "de_cache": {
-   "played": 2,
-   "winPct": 50
+   "played": 13,
+   "winPct": 85
   },
-  "de_dust2": {
-   "played": 2,
-   "winPct": 0
-  },
-  "de_inferno": {
-   "played": 5,
-   "winPct": 40
+  "de_ancient": {
+   "played": 19,
+   "winPct": 74
   },
   "de_mirage": {
-   "played": 1,
-   "winPct": 0
+   "played": 7,
+   "winPct": 57
   },
   "de_nuke": {
-   "played": 1,
-   "winPct": 100
+   "played": 13,
+   "winPct": 46
+  },
+  "de_inferno": {
+   "played": 9,
+   "winPct": 33
+  },
+  "de_dust2": {
+   "played": 7,
+   "winPct": 14
+  },
+  "de_anubis": {
+   "played": 2,
+   "winPct": 0
   }
  }
 }

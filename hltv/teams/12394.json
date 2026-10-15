@@ -2,8 +2,8 @@
  "id": 12394,
  "name": "BETBOOM",
  "country": "RU",
- "rankHltv": 13,
- "rankVrs": 12,
+ "rankHltv": 14,
+ "rankVrs": 13,
  "players": [
   {
    "id": 11840,
@@ -38,12 +38,24 @@
   }
  ],
  "events": [
+  8932,
   8244,
-  8261,
   8266,
+  8261,
   8301
  ],
  "recent": [
+  {
+   "matchId": 2399387,
+   "date": "2026-10-14",
+   "opponent": 8297,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8932
+  },
   {
    "matchId": 2398744,
    "date": "2026-10-06",
@@ -79,7 +91,7 @@
   },
   {
    "matchId": 2398724,
-   "date": "2026-10-04",
+   "date": "2026-10-03",
    "opponent": 8297,
    "bo": 3,
    "score": [
@@ -116,8 +128,8 @@
    "opponent": 6665,
    "bo": 3,
    "score": [
-    0,
-    2
+    2,
+    0
    ],
    "eventId": 8266
   },
@@ -155,6 +167,61 @@
    "eventId": 8261
   },
   {
+   "matchId": 2394996,
+   "date": "2026-06-18",
+   "opponent": 11861,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8301
+  },
+  {
+   "matchId": 2394994,
+   "date": "2026-06-15",
+   "opponent": 13286,
+   "bo": 3,
+   "score": [
+    2,
+    0
+   ],
+   "eventId": 8301
+  },
+  {
+   "matchId": 2394989,
+   "date": "2026-06-14",
+   "opponent": 9565,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8301
+  },
+  {
+   "matchId": 2394985,
+   "date": "2026-06-13",
+   "opponent": 8297,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8301
+  },
+  {
+   "matchId": 2394904,
+   "date": "2026-06-11",
+   "opponent": 6248,
+   "bo": 3,
+   "score": [
+    2,
+    1
+   ],
+   "eventId": 8301
+  },
+  {
    "matchId": 2394975,
    "date": "",
    "opponent": 11283,
@@ -167,29 +234,29 @@
   }
  ],
  "mapStats": {
-  "de_ancient": {
-   "played": 2,
-   "winPct": 0
+  "de_cache": {
+   "played": 3,
+   "winPct": 67
   },
   "de_anubis": {
    "played": 6,
    "winPct": 50
   },
-  "de_cache": {
+  "de_nuke": {
+   "played": 4,
+   "winPct": 50
+  },
+  "de_mirage": {
+   "played": 6,
+   "winPct": 33
+  },
+  "de_ancient": {
    "played": 3,
-   "winPct": 67
+   "winPct": 33
   },
   "de_dust2": {
    "played": 1,
    "winPct": 0
-  },
-  "de_mirage": {
-   "played": 5,
-   "winPct": 40
-  },
-  "de_nuke": {
-   "played": 4,
-   "winPct": 75
   }
  }
 }

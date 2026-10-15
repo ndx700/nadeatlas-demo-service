@@ -40,34 +40,34 @@
    "matches": [
     {
      "matchId": 2399385,
-     "time": "2026-10-14T11:00:00Z",
+     "time": "2026-10-14T12:20:00Z",
      "bo": 3,
      "team1": 11283,
      "team2": 4411,
      "score": [
-      null,
-      null
+      2,
+      0
      ],
-     "winner": 0
+     "winner": 11283
     },
     {
      "matchId": 2399384,
-     "time": "2026-10-14T08:30:00Z",
+     "time": "2026-10-14T08:20:00Z",
      "bo": 3,
      "team1": 9996,
      "team2": 11861,
      "score": [
-      null,
-      null
+      2,
+      0
      ],
-     "winner": 0
+     "winner": 9996
     },
     {
-     "matchId": 0,
-     "time": null,
-     "bo": null,
-     "team1": 0,
-     "team2": 0,
+     "matchId": 2399409,
+     "time": "2026-10-15T11:30:00Z",
+     "bo": 3,
+     "team1": 9996,
+     "team2": 11283,
      "score": [
       null,
       null
@@ -75,23 +75,23 @@
      "winner": 0
     },
     {
-     "matchId": 0,
-     "time": null,
-     "bo": null,
-     "team1": 0,
-     "team2": 0,
+     "matchId": 2399408,
+     "time": "2026-10-15T08:35:00Z",
+     "bo": 3,
+     "team1": 11861,
+     "team2": 4411,
      "score": [
-      null,
-      null
+      2,
+      0
      ],
-     "winner": 0
+     "winner": 11861
     },
     {
      "matchId": 0,
      "time": null,
      "bo": null,
      "team1": 0,
-     "team2": 0,
+     "team2": 11861,
      "score": [
       null,
       null
@@ -105,34 +105,34 @@
    "matches": [
     {
      "matchId": 2399386,
-     "time": "2026-10-14T13:30:00Z",
+     "time": "2026-10-14T15:40:00Z",
      "bo": 3,
      "team1": 12468,
      "team2": 12467,
      "score": [
-      null,
-      null
+      2,
+      0
      ],
-     "winner": 0
+     "winner": 12468
     },
     {
      "matchId": 2399387,
-     "time": "2026-10-14T16:00:00Z",
+     "time": "2026-10-14T19:00:00Z",
      "bo": 3,
      "team1": 8297,
      "team2": 12394,
      "score": [
-      null,
-      null
+      2,
+      0
      ],
-     "winner": 0
+     "winner": 8297
     },
     {
-     "matchId": 0,
-     "time": null,
-     "bo": null,
-     "team1": 0,
-     "team2": 0,
+     "matchId": 2399411,
+     "time": "2026-10-15T16:00:00Z",
+     "bo": 3,
+     "team1": 12468,
+     "team2": 8297,
      "score": [
       null,
       null
@@ -140,11 +140,11 @@
      "winner": 0
     },
     {
-     "matchId": 0,
-     "time": null,
-     "bo": null,
-     "team1": 0,
-     "team2": 0,
+     "matchId": 2399410,
+     "time": "2026-10-15T13:30:00Z",
+     "bo": 3,
+     "team1": 12467,
+     "team2": 12394,
      "score": [
       null,
       null

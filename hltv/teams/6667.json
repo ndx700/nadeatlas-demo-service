@@ -2,8 +2,8 @@
  "id": 6667,
  "name": "FaZe",
  "country": "SK",
- "rankHltv": 14,
- "rankVrs": 24,
+ "rankHltv": 16,
+ "rankVrs": 20,
  "players": [
   {
    "id": 9960,
@@ -38,10 +38,10 @@
   }
  ],
  "events": [
-  8261,
+  9318,
   8266,
-  9154,
-  9318
+  8261,
+  9154
  ],
  "recent": [
   {
@@ -145,29 +145,29 @@
   }
  ],
  "mapStats": {
-  "de_ancient": {
-   "played": 2,
-   "winPct": 0
-  },
-  "de_anubis": {
-   "played": 1,
-   "winPct": 0
+  "de_nuke": {
+   "played": 8,
+   "winPct": 88
   },
   "de_cache": {
-   "played": 5,
-   "winPct": 40
+   "played": 7,
+   "winPct": 57
   },
   "de_dust2": {
-   "played": 3,
-   "winPct": 33
+   "played": 6,
+   "winPct": 50
   },
   "de_mirage": {
-   "played": 2,
-   "winPct": 0
+   "played": 6,
+   "winPct": 50
   },
-  "de_nuke": {
-   "played": 4,
-   "winPct": 75
+  "de_ancient": {
+   "played": 6,
+   "winPct": 33
+  },
+  "de_anubis": {
+   "played": 3,
+   "winPct": 33
   }
  }
 }

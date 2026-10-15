@@ -2,8 +2,8 @@
  "id": 5991,
  "name": "Envy",
  "country": "FR",
- "rankHltv": 21,
- "rankVrs": 26,
+ "rankHltv": 20,
+ "rankVrs": 0,
  "players": [
   {
    "id": 13138,
@@ -37,7 +37,14 @@
    "country": "FR"
   }
  ],
- "events": [],
+ "events": [
+  9223
+ ],
  "recent": [],
- "mapStats": {}
+ "mapStats": {
+  "de_cache": {
+   "played": 1,
+   "winPct": 0
+  }
+ }
 }

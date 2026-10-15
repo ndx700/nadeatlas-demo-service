@@ -1,14 +1,57 @@
 {
  "id": 10621,
  "name": "1win",
- "country": null,
- "rankHltv": null,
- "rankVrs": null,
- "players": [],
+ "country": "RU",
+ "rankHltv": 13,
+ "rankVrs": 14,
+ "players": [
+  {
+   "id": 16555,
+   "nick": "Ax1Le",
+   "name": "Sergey Rykhtorov",
+   "country": "RU"
+  },
+  {
+   "id": 16921,
+   "nick": "nafany",
+   "name": "Vladislav Gorshkov",
+   "country": "RU",
+   "role": "igl"
+  },
+  {
+   "id": 19235,
+   "nick": "BELCHONOKK",
+   "name": "Andrey Yasinskiy",
+   "country": "RU"
+  },
+  {
+   "id": 20101,
+   "nick": "fame",
+   "name": "Petr Bolyshev",
+   "country": "RU"
+  },
+  {
+   "id": 21348,
+   "nick": "ArtFr0st",
+   "name": "Artem Kharitonov",
+   "country": "RU"
+  }
+ ],
  "events": [
   8244
  ],
  "recent": [
+  {
+   "matchId": 2398750,
+   "date": "2026-10-09",
+   "opponent": 11861,
+   "bo": 3,
+   "score": [
+    0,
+    2
+   ],
+   "eventId": 8244
+  },
   {
    "matchId": 2398742,
    "date": "2026-10-06",
@@ -55,25 +98,29 @@
   }
  ],
  "mapStats": {
-  "de_ancient": {
-   "played": 2,
-   "winPct": 50
-  },
-  "de_anubis": {
-   "played": 1,
-   "winPct": 100
-  },
-  "de_cache": {
-   "played": 2,
-   "winPct": 50
-  },
-  "de_dust2": {
-   "played": 3,
-   "winPct": 67
+  "de_inferno": {
+   "played": 4,
+   "winPct": 75
   },
   "de_mirage": {
-   "played": 1,
-   "winPct": 100
+   "played": 10,
+   "winPct": 70
+  },
+  "de_dust2": {
+   "played": 27,
+   "winPct": 59
+  },
+  "de_ancient": {
+   "played": 16,
+   "winPct": 56
+  },
+  "de_cache": {
+   "played": 9,
+   "winPct": 56
+  },
+  "de_anubis": {
+   "played": 13,
+   "winPct": 38
   }
  }
 }
