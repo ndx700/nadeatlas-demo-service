@@ -1,15 +1,15 @@
 {
   "state": "ok",
   "message": "multi-source sync completed",
-  "updatedAt": "2026-11-16T09:28:03.095847Z",
+  "updatedAt": "2026-11-16T19:48:09.623575Z",
   "sources": {
     "public_pro_demo": {
       "state": "ok",
       "events": 28,
       "mapsListed": 1822,
-      "looked": 107,
-      "added": 107,
-      "addedDust2": 18,
+      "looked": 0,
+      "added": 0,
+      "addedDust2": 0,
       "remaining": 0
     },
     "better_cs": {
@@ -17,7 +17,7 @@
       "added": 0
     }
   },
-  "added": 107,
+  "added": 0,
   "published": 93,
   "publishedAllMaps": 481,
   "mapCounts": {
