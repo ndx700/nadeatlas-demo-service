@@ -1,18 +1,18 @@
 {
  "version": 1,
- "run_count": 37,
+ "run_count": 38,
  "event_cursor": 0,
  "team_cursor": 0,
  "match_cursors": {},
- "consecutive_blocks": 37,
+ "consecutive_blocks": 38,
  "last_result": "blocked",
  "last_success": null,
  "message": "HTTP 403; browser verification did not pass",
  "workflow": "https://github.com/ndx700/nade-atlas-claude/actions/workflows/hltv-harvest.yml",
- "last_attempt": "2026-11-23T12:22:01+00:00",
+ "last_attempt": "2026-11-24T00:19:10+00:00",
  "last_event": 8932,
  "pages": 1,
- "retry_after": "2026-11-23T12:42:01+00:00",
+ "retry_after": "2026-11-24T00:39:10+00:00",
  "mode": "event",
  "changed_paths": 1
 }
